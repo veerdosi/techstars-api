@@ -1,18 +1,41 @@
 # Techstars Portfolio API
 
-> 🚀 Unofficial API for Techstars portfolio companies, similar to the YC API
+> 🚀 Unofficial API for Techstars portfolio companies
 
-[![Update Data](https://github.com/veerdosi/techstars-api/actions/workflows/update-data.yml/badge.svg)](https://github.com/your-username/techstars-api/actions/workflows/update-data.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Deno](https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white)](https://deno.land/)
 
 ## 📊 Stats
 
 - **Portfolio Companies** tracked from Techstars
-- **Auto-updated:** Daily via GitHub Actions
+- **Manual updates:** Run locally and push to GitHub Pages
 - **Format:** JSON REST API
 - **Deployment:** GitHub Pages
+
+## 🚀 GitHub Pages Deployment
+
+### Step 1: Enable GitHub Pages
+1. Go to your repo on GitHub
+2. Go to **Settings** → **Pages**
+3. Source: **Deploy from a branch**
+4. Branch: **main** (or master)
+5. Folder: **/ (root)**
+6. Click **Save**
+
+### Step 2: Update Data
+Run locally to generate API files:
+```bash
+npm install
+npm run fetch
+```
+
+### Step 3: Push to GitHub
+```bash
+git add .
+git commit -m "Update API data"
+git push origin main
+```
+
+Your API will be available at: `https://[username].github.io/[repo-name]/api/`
 
 ## 🚀 Quick Start
 
@@ -41,34 +64,23 @@ npm run fetch
 
 ### Core Endpoints
 
-| Endpoint           | Path                           | Description                       |
-| ------------------ | ------------------------------ | --------------------------------- |
-| All Companies      | `/companies/all.json`          | All portfolio companies           |
-| Active Companies   | `/companies/active.json`       | Currently active companies        |
-| Exits              | `/companies/exits.json`        | Acquired and IPO companies        |
-| Acquired Companies | `/companies/acquired.json`     | Companies that were acquired      |
-| IPO Companies      | `/companies/ipo.json`          | Companies that went public        |
-| Billion+ Companies | `/companies/billion-plus.json` | Companies valued at $1B+          |
-| B Corp Companies   | `/companies/bcorp.json`        | Certified B Corporation companies |
-| In Program         | `/companies/in-program.json`   | Companies currently in program    |
-| Closed Companies   | `/companies/closed.json`       | Companies that are closed         |
-
-### Filter Endpoints
-
-| Endpoint         | Path                     | Description                  |
-| ---------------- | ------------------------ | ---------------------------- |
-| Batches Index    | `/batches/index.json`    | All batches with metadata    |
-| Programs Index   | `/programs/index.json`   | All programs with metadata   |
-| Industries Index | `/industries/index.json` | All industries with metadata |
-| Regions Index    | `/regions/index.json`    | All regions with metadata    |
-| API Metadata     | `/meta.json`             | API statistics and metadata  |
+| Endpoint           | Path                                 | Description                       |
+| ------------------ | ------------------------------------ | --------------------------------- |
+| API Index          | `/api/index.json`                    | API documentation and endpoints   |
+| All Companies      | `/api/companies/all.json`            | All portfolio companies           |
+| Active Companies   | `/api/companies/active.json`         | Currently active companies        |
+| Exits              | `/api/companies/exits.json`          | Acquired and IPO companies        |
+| Acquired Companies | `/api/companies/acquired.json`       | Companies that were acquired      |
+| IPO Companies      | `/api/companies/ipo.json`            | Companies that went public        |
+| Billion+ Companies | `/api/companies/billion-plus.json`   | Companies valued at $1B+          |
+| B Corp Companies   | `/api/companies/bcorp.json`          | Certified B Corporation companies |
+| In Program         | `/api/companies/in-program.json`     | Companies currently in program    |
+| Closed Companies   | `/api/companies/closed.json`         | Companies that are closed         |
+| API Metadata       | `/api/meta.json`                     | API statistics and metadata       |
 
 ### Individual Resources
 
-- **Individual Company:** `/companies/[company-slug].json`
-- **Batch Details:** `/batches/[batch-name].json`
-- **Industry Details:** `/industries/[industry-name].json`
-- **Region Details:** `/regions/[region-name].json`
+- **Individual Company:** `/api/companies/[company-slug].json`
 
 ## 💻 Usage Examples
 
@@ -77,17 +89,22 @@ npm run fetch
 ```javascript
 // Fetch all companies
 const companies = await fetch(
-  "https://your-username.github.io/techstars-api/companies/all.json"
+  "https://your-username.github.io/techstars-api/api/companies/all.json"
 ).then((response) => response.json());
 
 // Fetch only active companies
 const activeCompanies = await fetch(
-  "https://your-username.github.io/techstars-api/companies/active.json"
+  "https://your-username.github.io/techstars-api/api/companies/active.json"
 ).then((response) => response.json());
 
-// Fetch companies by industry
-const techCompanies = await fetch(
-  "https://your-username.github.io/techstars-api/industries/technology.json"
+// Fetch specific company
+const company = await fetch(
+  "https://your-username.github.io/techstars-api/api/companies/zipline.json"
+).then((response) => response.json());
+
+// Fetch API documentation
+const apiDocs = await fetch(
+  "https://your-username.github.io/techstars-api/api/index.json"
 ).then((response) => response.json());
 ```
 
@@ -97,11 +114,11 @@ const techCompanies = await fetch(
 import requests
 
 # Fetch all companies
-response = requests.get('https://your-username.github.io/techstars-api/companies/all.json')
+response = requests.get('https://your-username.github.io/techstars-api/api/companies/all.json')
 companies = response.json()
 
 # Fetch metadata
-response = requests.get('https://your-username.github.io/techstars-api/meta.json')
+response = requests.get('https://your-username.github.io/techstars-api/api/meta.json')
 metadata = response.json()
 print(f"Total companies: {metadata['total_companies']}")
 ```
@@ -109,14 +126,17 @@ print(f"Total companies: {metadata['total_companies']}")
 ### cURL
 
 ```bash
+# Get API documentation
+curl -s "https://your-username.github.io/techstars-api/api/index.json" | jq '.'
+
 # Get all companies
-curl -s "https://your-username.github.io/techstars-api/companies/all.json" | jq '.'
+curl -s "https://your-username.github.io/techstars-api/api/companies/all.json" | jq '.'
 
 # Get exits only
-curl -s "https://your-username.github.io/techstars-api/companies/exits.json" | jq '.[] | {name, status, batch}'
+curl -s "https://your-username.github.io/techstars-api/api/companies/exits.json" | jq '.[] | {name, status, batch}'
 
 # Get API metadata
-curl -s "https://your-username.github.io/techstars-api/meta.json" | jq '.'
+curl -s "https://your-username.github.io/techstars-api/api/meta.json" | jq '.'
 ```
 
 ## 🏗️ Data Structure

@@ -476,7 +476,7 @@ class AdvancedTechstarsFetcher {
       is_bcorp: rawData.is_bcorp || false,
       tags: Array.isArray(rawData.tags) ? rawData.tags : [],
       url: `${this.config.base_url}/portfolio/${slug}`,
-      api: `./companies/${slug}.json`
+      api: `/api/companies/${slug}.json`
     };
   }
 
@@ -544,43 +544,68 @@ class AdvancedTechstarsFetcher {
   async generateEndpoints(companies) {
     console.log('Generating API endpoints...');
     
-    // Ensure directories exist
-    this.ensureDirectoryExists('./companies');
-    this.ensureDirectoryExists('./batches');
-    this.ensureDirectoryExists('./industries');
-    this.ensureDirectoryExists('./regions');
+    // Ensure directories exist for API structure
+    this.ensureDirectoryExists('./api');
+    this.ensureDirectoryExists('./api/companies');
+    this.ensureDirectoryExists('./api/batches');
+    this.ensureDirectoryExists('./api/industries');
+    this.ensureDirectoryExists('./api/regions');
     
     // Generate core endpoints
-    fs.writeFileSync('./companies/all.json', JSON.stringify(companies, null, 2));
+    fs.writeFileSync('./api/companies/all.json', JSON.stringify(companies, null, 2));
     
     const activeCompanies = companies.filter(c => c.status === 'Active');
-    fs.writeFileSync('./companies/active.json', JSON.stringify(activeCompanies, null, 2));
+    fs.writeFileSync('./api/companies/active.json', JSON.stringify(activeCompanies, null, 2));
     
     const exits = companies.filter(c => c.status === 'Acquired' || c.status === 'IPO');
-    fs.writeFileSync('./companies/exits.json', JSON.stringify(exits, null, 2));
+    fs.writeFileSync('./api/companies/exits.json', JSON.stringify(exits, null, 2));
     
     const acquiredCompanies = companies.filter(c => c.status === 'Acquired');
-    fs.writeFileSync('./companies/acquired.json', JSON.stringify(acquiredCompanies, null, 2));
+    fs.writeFileSync('./api/companies/acquired.json', JSON.stringify(acquiredCompanies, null, 2));
     
     const ipoCompanies = companies.filter(c => c.status === 'IPO');
-    fs.writeFileSync('./companies/ipo.json', JSON.stringify(ipoCompanies, null, 2));
+    fs.writeFileSync('./api/companies/ipo.json', JSON.stringify(ipoCompanies, null, 2));
     
     const billionPlusCompanies = companies.filter(c => c.is_billion_plus);
-    fs.writeFileSync('./companies/billion-plus.json', JSON.stringify(billionPlusCompanies, null, 2));
+    fs.writeFileSync('./api/companies/billion-plus.json', JSON.stringify(billionPlusCompanies, null, 2));
     
     const bCorpCompanies = companies.filter(c => c.is_bcorp);
-    fs.writeFileSync('./companies/bcorp.json', JSON.stringify(bCorpCompanies, null, 2));
+    fs.writeFileSync('./api/companies/bcorp.json', JSON.stringify(bCorpCompanies, null, 2));
     
     const inProgramCompanies = companies.filter(c => c.is_in_program);
-    fs.writeFileSync('./companies/in-program.json', JSON.stringify(inProgramCompanies, null, 2));
+    fs.writeFileSync('./api/companies/in-program.json', JSON.stringify(inProgramCompanies, null, 2));
     
     const closedCompanies = companies.filter(c => c.status === 'Closed');
-    fs.writeFileSync('./companies/closed.json', JSON.stringify(closedCompanies, null, 2));
+    fs.writeFileSync('./api/companies/closed.json', JSON.stringify(closedCompanies, null, 2));
     
     // Individual companies
     for (const company of companies) {
-      fs.writeFileSync(`./companies/${company.slug}.json`, JSON.stringify(company, null, 2));
+      fs.writeFileSync(`./api/companies/${company.slug}.json`, JSON.stringify(company, null, 2));
     }
+    
+    // Create main API index
+    const apiIndex = {
+      name: "Techstars Portfolio API",
+      version: "1.0.0",
+      description: "Unofficial API for Techstars portfolio companies",
+      endpoints: {
+        companies: {
+          all: "/api/companies/all.json",
+          active: "/api/companies/active.json", 
+          exits: "/api/companies/exits.json",
+          acquired: "/api/companies/acquired.json",
+          ipo: "/api/companies/ipo.json",
+          closed: "/api/companies/closed.json",
+          billion_plus: "/api/companies/billion-plus.json",
+          bcorp: "/api/companies/bcorp.json",
+          in_program: "/api/companies/in-program.json"
+        },
+        meta: "/api/meta.json"
+      },
+      total_companies: companies.length,
+      last_updated: new Date().toISOString()
+    };
+    fs.writeFileSync('./api/index.json', JSON.stringify(apiIndex, null, 2));
     
     console.log(`✓ Generated endpoints for ${companies.length} companies`);
   }
@@ -731,7 +756,7 @@ class AdvancedTechstarsFetcher {
     await this.generateEndpoints(companies);
     
     const metadata = this.generateMetadata(companies);
-    fs.writeFileSync('./meta.json', JSON.stringify(metadata, null, 2));
+    fs.writeFileSync('./api/meta.json', JSON.stringify(metadata, null, 2));
     
     console.log(`\n📊 Extraction Summary:`);
     console.log(`- Total companies: ${companies.length}`);
@@ -743,12 +768,14 @@ class AdvancedTechstarsFetcher {
     }
     
     console.log('\n✅ Enhanced Techstars API generation completed!');
-    console.log('📁 Files generated:');
-    console.log('- meta.json');
-    console.log('- companies/all.json');
-    console.log('- companies/active.json');
-    console.log('- companies/exits.json');
+    console.log('📁 API Files generated:');
+    console.log('- api/index.json (API documentation)');
+    console.log('- api/meta.json');
+    console.log('- api/companies/all.json');
+    console.log('- api/companies/active.json');
+    console.log('- api/companies/exits.json');
     console.log('- And more endpoint files...');
+    console.log('\n🚀 Ready for GitHub Pages deployment!');
     
     return { companies, metadata, errors };
   }
