@@ -6,15 +6,15 @@ class AdvancedTechstarsFetcher {
     this.config = {
       base_url: 'https://www.techstars.com',
       portfolio_path: '/portfolio',
-      timeout: 30000,
+      timeout: 60000, // Increased to 60 seconds
       waitForSelector: '.company-card, [data-testid*="company"], .portfolio-company, .startup-card',
       userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     };
   }
 
-  async launchBrowser() {
+  async launchBrowser(debug = false) {
     return await puppeteer.launch({
-      headless: 'new',
+      headless: debug ? false : 'new', // Show browser if debug mode
       args: [
         '--no-sandbox',
         '--disable-setuid-sandbox',
@@ -22,8 +22,12 @@ class AdvancedTechstarsFetcher {
         '--disable-accelerated-2d-canvas',
         '--no-first-run',
         '--no-zygote',
-        '--disable-gpu'
-      ]
+        '--disable-gpu',
+        '--disable-web-security',
+        '--disable-extensions',
+        '--disable-plugins'
+      ],
+      devtools: debug // Open devtools if debug mode
     });
   }
 
@@ -31,19 +35,28 @@ class AdvancedTechstarsFetcher {
     console.log('Waiting for page to load and companies to render...');
     
     // Wait for the page to load
-    await page.waitForLoadState?.('networkidle') || await page.waitForTimeout(5000);
+    await new Promise(resolve => setTimeout(resolve, 8000));
     
-    // Try multiple selectors that might contain company data
+    // Try to wait for company grid to load
+    try {
+      await page.waitForSelector('[data-testid="portfolio-grid"], .portfolio-grid, [class*="grid"], [class*="companies"]', { timeout: 10000 });
+    } catch (e) {
+      console.log('Grid container not found, proceeding with extraction...');
+    }
+    
+    // Try multiple selectors that might contain company data - more specific ones first
     const possibleSelectors = [
+      '[data-testid*="company-card"]',
+      '[data-testid*="portfolio-item"]',
+      '.portfolio-item',
       '.company-card',
-      '[data-testid*="company"]',
-      '.portfolio-company',
-      '.startup-card',
-      '.company-item',
-      '[class*="company"]',
-      '[class*="portfolio"]',
-      'article',
-      '.card'
+      '[data-company-id]',
+      '[data-company-name]',
+      'a[href*="/companies/"]',
+      'a[href*="/portfolio/"][href*="/companies/"]',
+      '[class*="CompanyCard"]',
+      '[class*="PortfolioItem"]',
+      '[class*="company-item"]'
     ];
     
     let companies = [];
@@ -57,6 +70,15 @@ class AdvancedTechstarsFetcher {
           const elements = document.querySelectorAll(sel);
           const extractedCompanies = [];
           
+          // Filter out common navigation/UI elements
+          const excludePatterns = [
+            /^(apply|portfolio|companies|techstars|founders|show|regions|year|filter|search|sort|view)$/i,
+            /^(accelerator|program|about|contact|team|investors|news|blog|careers|press)$/i,
+            /^(sign|log|register|login|logout|account|profile|dashboard|settings)$/i,
+            /^(inc|llc|corp|ltd|company|co\.)$/i,
+            /^(big data|fintech|saas|mobile|ai|ml|iot|b2b|b2c|api|sdk|platform)$/i
+          ];
+          
           elements.forEach((element, index) => {
             const company = {};
             
@@ -65,30 +87,46 @@ class AdvancedTechstarsFetcher {
             for (const nameSelector of nameSelectors) {
               const nameEl = element.querySelector(nameSelector);
               if (nameEl && nameEl.textContent.trim()) {
-                company.name = nameEl.textContent.trim();
-                break;
+                const nameText = nameEl.textContent.trim();
+                
+                // Skip if it matches exclusion patterns
+                const shouldExclude = excludePatterns.some(pattern => pattern.test(nameText));
+                if (!shouldExclude && nameText.length > 1 && nameText.length < 100) {
+                  company.name = nameText;
+                  break;
+                }
               }
             }
             
-            // Try to extract website/link
+            // Skip if no valid name found
+            if (!company.name) return;
+            
+            // Try to extract website/link - prefer company-specific URLs
             const linkEl = element.querySelector('a');
             if (linkEl && linkEl.href) {
-              company.website = linkEl.href;
+              if (linkEl.href.includes('/companies/') || linkEl.href.includes('/portfolio/')) {
+                company.website = linkEl.href;
+              } else if (!linkEl.href.includes('techstars.com') && linkEl.href.startsWith('http')) {
+                company.website = linkEl.href;
+              }
             }
             
             // Try to extract description
-            const descSelectors = ['p', '.description', '.summary', '.bio'];
+            const descSelectors = ['p', '.description', '.summary', '.bio', '.tagline'];
             for (const descSelector of descSelectors) {
               const descEl = element.querySelector(descSelector);
               if (descEl && descEl.textContent.trim()) {
-                company.description = descEl.textContent.trim();
-                break;
+                const descText = descEl.textContent.trim();
+                if (descText.length > 10 && descText.length < 500) {
+                  company.description = descText;
+                  break;
+                }
               }
             }
             
             // Try to extract logo
             const logoEl = element.querySelector('img');
-            if (logoEl && logoEl.src) {
+            if (logoEl && logoEl.src && !logoEl.src.includes('logo-dark.png')) {
               company.logo_url = logoEl.src;
             }
             
@@ -99,8 +137,8 @@ class AdvancedTechstarsFetcher {
               }
             }
             
-            // Only add if we found at least a name
-            if (company.name) {
+            // Only add if we found a valid company name and it's not a UI element
+            if (company.name && company.name.length > 2) {
               extractedCompanies.push(company);
             }
           });
@@ -118,49 +156,64 @@ class AdvancedTechstarsFetcher {
       }
     }
     
-    // If no companies found with specific selectors, try a more general approach
+    // If no companies found with specific selectors, try looking for links to company pages
     if (companies.length === 0) {
-      console.log('No companies found with specific selectors, trying general approach...');
+      console.log('No companies found with specific selectors, trying link-based approach...');
       
       companies = await page.evaluate(() => {
-        // Look for any text that might be company names
-        const allElements = document.querySelectorAll('*');
+        // Look for links that might lead to company pages
+        const allLinks = document.querySelectorAll('a[href]');
         const potentialCompanies = [];
-        const companyPatterns = [
-          /^[A-Z][a-zA-Z0-9\s&.,'-]{2,50}$/,  // Capitalized names
-          /\b(?:Inc|LLC|Corp|Ltd|Company|Co\.)\b/i,  // Company suffixes
+        
+        // Common exclusion patterns for navigation/UI elements
+        const excludePatterns = [
+          /^(apply|portfolio|companies|techstars|founders|show|regions|year|filter|search|sort|view)$/i,
+          /^(accelerator|program|about|contact|team|investors|news|blog|careers|press)$/i,
+          /^(sign|log|register|login|logout|account|profile|dashboard|settings)$/i,
+          /^(learn|explore|discover|find|browse|navigate|menu|home|back|next|previous)$/i,
+          /^(big data|fintech|saas|mobile|ai|ml|iot|b2b|b2c|api|sdk|platform)$/i,
+          /^(inc|llc|corp|ltd|company|co\.)$/i
         ];
         
-        allElements.forEach(el => {
-          const text = el.textContent?.trim();
-          if (text && text.length > 2 && text.length < 100) {
-            // Check if it looks like a company name
-            const isCompanyName = companyPatterns.some(pattern => pattern.test(text));
-            if (isCompanyName) {
-              // Look for associated data in parent/sibling elements
-              const parent = el.closest('div, article, section, li');
-              if (parent) {
-                const website = parent.querySelector('a')?.href;
-                const description = parent.querySelector('p')?.textContent?.trim();
-                const logo = parent.querySelector('img')?.src;
-                
-                potentialCompanies.push({
-                  name: text,
-                  website: website || '',
-                  description: description || '',
-                  logo_url: logo || ''
-                });
-              }
+        allLinks.forEach(link => {
+          const text = link.textContent?.trim();
+          const href = link.href;
+          
+          // Skip if text is too short, too long, or matches exclusion patterns
+          if (!text || text.length < 2 || text.length > 100) return;
+          
+          const shouldExclude = excludePatterns.some(pattern => pattern.test(text));
+          if (shouldExclude) return;
+          
+          // Look for company-like characteristics
+          const hasCompanyURL = href.includes('/companies/') || href.includes('/portfolio/') || (!href.includes('techstars.com') && href.startsWith('http'));
+          const hasCompanyName = /^[A-Z][a-zA-Z0-9\s&.,'-]{2,50}$/.test(text);
+          
+          if (hasCompanyURL || hasCompanyName) {
+            // Look for associated data in parent elements
+            const parent = link.closest('div, article, section, li, .card, [class*="item"]');
+            if (parent) {
+              const description = parent.querySelector('p, .description, .summary, .tagline')?.textContent?.trim();
+              const logo = parent.querySelector('img')?.src;
+              
+              potentialCompanies.push({
+                name: text,
+                website: hasCompanyURL ? href : '',
+                description: description || '',
+                logo_url: logo || ''
+              });
             }
           }
         });
         
-        // Remove duplicates and filter
-        const unique = potentialCompanies.filter((company, index, self) => 
-          index === self.findIndex(c => c.name === company.name)
-        );
+        // Remove duplicates and filter out obvious non-companies
+        const unique = potentialCompanies.filter((company, index, self) => {
+          const isDuplicate = self.findIndex(c => c.name === company.name) !== index;
+          const isLikelyCompany = company.name.length > 2 && !company.name.toLowerCase().includes('techstars');
+          return !isDuplicate && isLikelyCompany;
+        });
         
-        return unique.slice(0, 50); // Limit to first 50 to avoid noise
+        return unique.slice(0, 100); // Limit to first 100 to avoid noise
       });
     }
     
@@ -184,7 +237,7 @@ class AdvancedTechstarsFetcher {
     });
     
     // Wait a bit to capture API calls
-    await page.waitForTimeout(5000);
+    await new Promise(resolve => setTimeout(resolve, 5000));
     
     if (apiCalls.length > 0) {
       console.log('Found potential API calls:');
@@ -384,7 +437,13 @@ class AdvancedTechstarsFetcher {
       console.log('🚀 Starting advanced Techstars data extraction...');
       console.log('Launching headless browser...');
       
-      browser = await this.launchBrowser();
+      // Check if debug mode is requested
+      const debug = process.argv.includes('--debug');
+      if (debug) {
+        console.log('🐛 Debug mode: Browser will be visible');
+      }
+      
+      browser = await this.launchBrowser(debug);
       const page = await browser.newPage();
       
       // Set user agent and viewport
@@ -393,11 +452,27 @@ class AdvancedTechstarsFetcher {
       
       console.log(`Navigating to ${this.config.base_url}${this.config.portfolio_path}...`);
       
-      // Navigate to portfolio page
-      await page.goto(`${this.config.base_url}${this.config.portfolio_path}`, {
-        waitUntil: 'networkidle0',
-        timeout: this.config.timeout
-      });
+      // Navigate to portfolio page with more flexible wait strategy
+      try {
+        await page.goto(`${this.config.base_url}${this.config.portfolio_path}`, {
+          waitUntil: 'domcontentloaded', // Less strict than networkidle0
+          timeout: this.config.timeout
+        });
+        
+        // Wait a bit more for dynamic content
+        await new Promise(resolve => setTimeout(resolve, 5000));
+        
+      } catch (timeoutError) {
+        console.warn('⚠️ Navigation timeout, trying with basic load...');
+        
+        // Fallback: try with minimal wait
+        await page.goto(`${this.config.base_url}${this.config.portfolio_path}`, {
+          waitUntil: 'load',
+          timeout: 30000
+        });
+        
+        await new Promise(resolve => setTimeout(resolve, 3000));
+      }
       
       console.log('Page loaded successfully!');
       

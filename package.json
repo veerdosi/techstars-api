@@ -5,11 +5,12 @@
   "main": "fetcher-puppeteer.js",
   "scripts": {
     "fetch": "node fetcher-puppeteer.js",
+    "debug": "node fetcher-puppeteer.js --debug",
     "start": "node fetcher-puppeteer.js",
     "install-deps": "npm install puppeteer"
   },
   "dependencies": {
-    "puppeteer": "^21.6.1"
+    "puppeteer": "^23.10.4"
   },
   "devDependencies": {},
   "keywords": [

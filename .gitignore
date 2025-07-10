@@ -37,6 +37,8 @@ tmp/
 
 .claude/
 
+node_modules/
+
 # Build outputs (keep JSON data files)
 # Note: We want to keep the generated JSON files for GitHub Pages
 # companies/
