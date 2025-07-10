@@ -5,6 +5,9 @@
   "main": "fetcher-puppeteer.js",
   "scripts": {
     "fetch": "node fetcher-puppeteer.js",
+    "fetch:fresh": "node fetcher-puppeteer.js --fresh",
+    "fetch:debug": "node fetcher-puppeteer.js --debug",
+    "fetch:fresh-debug": "node fetcher-puppeteer.js --fresh --debug",
     "debug": "node fetcher-puppeteer.js --debug",
     "start": "node fetcher-puppeteer.js",
     "install-deps": "npm install puppeteer"

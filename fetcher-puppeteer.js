@@ -10,6 +10,67 @@ class AdvancedTechstarsFetcher {
       waitForSelector: '.company-card, [data-testid*="company"], .portfolio-company, .startup-card',
       userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     };
+    
+    // Industry verticals from Techstars
+    this.industryVerticals = [
+      { name: '3D printing', slug: '3d-printing', url_param: '3D+printing' },
+      { name: 'Adtech', slug: 'adtech', url_param: 'Adtech' },
+      { name: 'Age Tech', slug: 'age-tech', url_param: 'Age+Tech' },
+      { name: 'Agtech', slug: 'agtech', url_param: 'Agtech' },
+      { name: 'Artificial intelligence and machine learning', slug: 'ai-ml', url_param: 'Artificial+intelligence+and+machine+learning' },
+      { name: 'Audiotech', slug: 'audiotech', url_param: 'Audiotech' },
+      { name: 'Augmented reality', slug: 'augmented-reality', url_param: 'Augmented+reality' },
+      { name: 'B2B payments', slug: 'b2b-payments', url_param: 'B2B+payments' },
+      { name: 'Beauty', slug: 'beauty', url_param: 'Beauty' },
+      { name: 'Big Data', slug: 'big-data', url_param: 'Big+Data' },
+      { name: 'Carsharing', slug: 'carsharing', url_param: 'Carsharing' },
+      { name: 'Cleantech', slug: 'cleantech', url_param: 'Cleantech' },
+      { name: 'Climate tech', slug: 'climate-tech', url_param: 'Climate+tech' },
+      { name: 'Cloudtech and DevOps', slug: 'cloudtech-devops', url_param: 'Cloudtech+and+DevOps' },
+      { name: 'Construction technology', slug: 'construction-tech', url_param: 'Construction+technology' },
+      { name: 'Cryptocurrency/Blockchain', slug: 'crypto-blockchain', url_param: 'Cryptocurrency%2FBlockchain' },
+      { name: 'Cybersecurity', slug: 'cybersecurity', url_param: 'Cybersecurity' },
+      { name: 'Digital health', slug: 'digital-health', url_param: 'Digital+health' },
+      { name: 'E-commerce', slug: 'ecommerce', url_param: 'E-commerce' },
+      { name: 'Edtech', slug: 'edtech', url_param: 'Edtech' },
+      { name: 'Femtech', slug: 'femtech', url_param: 'Femtech' },
+      { name: 'Fintech', slug: 'fintech', url_param: 'Fintech' },
+      { name: 'Foodtech', slug: 'foodtech', url_param: 'Foodtech' },
+      { name: 'Future of work', slug: 'future-of-work', url_param: 'Future+of+work' },
+      { name: 'Gaming', slug: 'gaming', url_param: 'Gaming' },
+      { name: 'HRtech', slug: 'hrtech', url_param: 'HRtech' },
+      { name: 'Healthtech', slug: 'healthtech', url_param: 'Healthtech' },
+      { name: 'Impact investing', slug: 'impact-investing', url_param: 'Impact+investing' },
+      { name: 'Industrials', slug: 'industrials', url_param: 'Industrials' },
+      { name: 'Infrastructure', slug: 'infrastructure', url_param: 'Infrastructure' },
+      { name: 'Insurtech', slug: 'insurtech', url_param: 'Insurtech' },
+      { name: 'Internet of Things', slug: 'iot', url_param: 'Internet+of+Things' },
+      { name: 'Legal tech', slug: 'legal-tech', url_param: 'Legal+tech' },
+      { name: 'Life sciences', slug: 'life-sciences', url_param: 'Life+sciences' },
+      { name: 'Lifestyles of Health and Sustainability and wellness', slug: 'lohas-wellness', url_param: 'Lifestyles+of+Health+and+Sustainability+and+wellness' },
+      { name: 'Manufacturing', slug: 'manufacturing', url_param: 'Manufacturing' },
+      { name: 'Marketing tech', slug: 'marketing-tech', url_param: 'Marketing+tech' },
+      { name: 'Micromobility', slug: 'micromobility', url_param: 'Micromobility' },
+      { name: 'Mobile', slug: 'mobile', url_param: 'Mobile' },
+      { name: 'Mobile commerce', slug: 'mobile-commerce', url_param: 'Mobile+commerce' },
+      { name: 'Mobility tech', slug: 'mobility-tech', url_param: 'Mobility+tech' },
+      { name: 'Nanotechnology', slug: 'nanotechnology', url_param: 'Nanotechnology' },
+      { name: 'Oil and gas', slug: 'oil-gas', url_param: 'Oil+and+gas' },
+      { name: 'Oncology', slug: 'oncology', url_param: 'Oncology' },
+      { name: 'Pet tech', slug: 'pet-tech', url_param: 'Pet+tech' },
+      { name: 'Real estate tech', slug: 'real-estate-tech', url_param: 'Real+estate+tech' },
+      { name: 'Restaurant tech', slug: 'restaurant-tech', url_param: 'Restaurant+tech' },
+      { name: 'Ridesharing', slug: 'ridesharing', url_param: 'Ridesharing' },
+      { name: 'Robotics and Drones', slug: 'robotics-drones', url_param: 'Robotics+and+Drones' },
+      { name: 'SaaS', slug: 'saas', url_param: 'SaaS' },
+      { name: 'Space tech', slug: 'space-tech', url_param: 'Space+tech' },
+      { name: 'Sports Tech', slug: 'sports-tech', url_param: 'Sports+Tech' },
+      { name: 'Supply chain technology', slug: 'supply-chain-tech', url_param: 'Supply+chain+technology' },
+      { name: 'Technology, media and telecommunications', slug: 'tmt', url_param: 'Technology%2C+media+and+telecommunications' },
+      { name: 'Virtual reality', slug: 'virtual-reality', url_param: 'Virtual+reality' },
+      { name: 'Wearables and quantified self', slug: 'wearables', url_param: 'Wearables+and+quantified+self' },
+      { name: 'eSports', slug: 'esports', url_param: 'eSports' }
+    ];
   }
 
   async launchBrowser(debug = false) {
@@ -59,10 +120,13 @@ class AdvancedTechstarsFetcher {
       currentCompanyCount = await page.evaluate(() => {
         const companySelectors = [
           'a[href*="/companies/"]',
-          'a[href*="/portfolio/"]', 
+          'a[href*="/portfolio/"]',
           '[data-testid*="company"]',
-          '.company-card',
-          '.portfolio-item'
+          '[class*="company"]',
+          '[class*="portfolio"]',
+          '.card',
+          '[class*="card"]',
+          'img[alt]'
         ];
         
         let maxCount = 0;
@@ -107,7 +171,7 @@ class AdvancedTechstarsFetcher {
       // Check if we found new companies
       if (currentCompanyCount === previousCompanyCount) {
         scrollAttempts++;
-        if (scrollAttempts >= 5) { // If no new companies after 5 attempts, break
+        if (scrollAttempts >= 3) { // If no new companies after 3 attempts, break
           console.log('No new companies found after multiple scroll attempts');
           break;
         }
@@ -116,9 +180,15 @@ class AdvancedTechstarsFetcher {
         console.log(`Found ${currentCompanyCount - previousCompanyCount} new companies!`);
       }
       
+      // Additional failsafe: if no companies found at all after initial attempts, break
+      if (currentCompanyCount === 0 && scrollAttempts >= 2) {
+        console.log('No companies found on page, trying alternative extraction...');
+        break;
+      }
+      
       previousCompanyCount = currentCompanyCount;
       
-    } while (scrollAttempts < maxScrollAttempts && currentCompanyCount < 2000); // Cap at 2000 companies for safety
+    } while (scrollAttempts < 10 && currentCompanyCount < 2000); // Reduced max attempts
     
     console.log(`Finished scrolling. Total companies found: ${currentCompanyCount}`);
     
@@ -152,7 +222,6 @@ class AdvancedTechstarsFetcher {
       try {
         const filterButton = await page.$(selector);
         if (filterButton) {
-          console.log(`Trying to clear filters with selector: ${selector}`);
           await filterButton.click();
           await new Promise(resolve => setTimeout(resolve, 2000));
         }
@@ -163,17 +232,16 @@ class AdvancedTechstarsFetcher {
     
     // Try multiple selectors that might contain company data - more specific ones first
     const possibleSelectors = [
-      '[data-testid*="company-card"]',
-      '[data-testid*="portfolio-item"]',
-      '.portfolio-item',
-      '.company-card',
-      '[data-company-id]',
-      '[data-company-name]',
       'a[href*="/companies/"]',
-      'a[href*="/portfolio/"][href*="/companies/"]',
-      '[class*="CompanyCard"]',
-      '[class*="PortfolioItem"]',
-      '[class*="company-item"]'
+      'a[href*="/portfolio/"]',
+      '[data-testid*="company"]',
+      '[class*="company"]',
+      '[class*="portfolio"]',
+      '.card',
+      '[class*="card"]',
+      '[role="button"]',
+      'img[alt]',
+      'a[title]'
     ];
     
     let companies = [];
@@ -189,7 +257,7 @@ class AdvancedTechstarsFetcher {
           
           // Filter out common navigation/UI elements
           const excludePatterns = [
-            /^(apply|portfolio|companies|techstars|founders|show|regions|year|filter|search|sort|view).*$/i,
+            /^(apply|portfolio|companies|techstars|founders|show|year|filter|search|sort|view).*$/i,
             /^(accelerator|program|about|contact|team|investors|news|blog|careers|press).*$/i,
             /^(sign|log|register|login|logout|account|profile|dashboard|settings).*$/i,
             /^(inc|llc|corp|ltd|company|co\.)$/i,
@@ -248,7 +316,7 @@ class AdvancedTechstarsFetcher {
             }
             
             // Try to extract description
-            const descSelectors = ['p', '.description', '.summary', '.bio', '.tagline', '.one-liner'];
+            const descSelectors = ['p.jss1181', '[data-testid="company-card-oneliner"]', 'p', '.description', '.summary', '.bio', '.tagline', '.one-liner'];
             for (const descSelector of descSelectors) {
               const descEl = element.querySelector(descSelector);
               if (descEl && descEl.textContent.trim()) {
@@ -266,17 +334,9 @@ class AdvancedTechstarsFetcher {
               company.logo_url = logoEl.src;
             }
             
-            // Try to extract additional company data
-            const batchSelectors = ['.batch', '.class', '.year', '[data-batch]', '[class*="batch"]'];
-            for (const batchSelector of batchSelectors) {
-              const batchEl = element.querySelector(batchSelector);
-              if (batchEl && batchEl.textContent.trim()) {
-                company.batch = batchEl.textContent.trim();
-                break;
-              }
-            }
+            // Try to extract additional company data (removed batch extraction)
             
-            const locationSelectors = ['.location', '.city', '.region', '[data-location]', '[class*="location"]'];
+            const locationSelectors = ['p.jss1180', '[data-testid="company-card-location"]', '.location', '.city', '[data-location]', '[class*="location"]'];
             for (const locationSelector of locationSelectors) {
               const locationEl = element.querySelector(locationSelector);
               if (locationEl && locationEl.textContent.trim()) {
@@ -293,10 +353,37 @@ class AdvancedTechstarsFetcher {
                 break;
               }
             }
+
+            const socialMediaSelectors = [
+              'a[href*="twitter.com"]',
+              'a[href*="linkedin.com"]',
+              'a[href*="facebook.com"]',
+              'a[href*="instagram.com"]',
+              'a[href*="angel.co"]',
+            ];
+
+            company.social_media = {};
+
+            for (const socialSelector of socialMediaSelectors) {
+              const socialEl = element.querySelector(socialSelector);
+              if (socialEl && socialEl.href) {
+                if (socialSelector.includes('twitter')) {
+                  company.social_media.twitter = socialEl.href;
+                } else if (socialSelector.includes('linkedin')) {
+                  company.social_media.linkedin = socialEl.href;
+                } else if (socialSelector.includes('facebook')) {
+                  company.social_media.facebook = socialEl.href;
+                } else if (socialSelector.includes('instagram')) {
+                  company.social_media.instagram = socialEl.href;
+                } else if (socialSelector.includes('angel.co')) {
+                  company.social_media.angellist = socialEl.href;
+                }
+              }
+            }
             
-            // Extract any data attributes
+            // Extract any data attributes, except for 'testid'
             for (const attr of element.attributes) {
-              if (attr.name.startsWith('data-')) {
+              if (attr.name.startsWith('data-') && attr.name !== 'data-testid') {
                 company[attr.name.replace('data-', '')] = attr.value;
               }
             }
@@ -331,7 +418,7 @@ class AdvancedTechstarsFetcher {
         
         // Common exclusion patterns for navigation/UI elements
         const excludePatterns = [
-          /^(apply|portfolio|companies|techstars|founders|show|regions|year|filter|search|sort|view).*$/i,
+          /^(apply|portfolio|companies|techstars|founders|show|year|filter|search|sort|view).*$/i,
           /^(accelerator|program|about|contact|team|investors|news|blog|careers|press).*$/i,
           /^(sign|log|register|login|logout|account|profile|dashboard|settings).*$/i,
           /^(learn|explore|discover|find|browse|navigate|menu|home|back|next|previous).*$/i,
@@ -372,7 +459,6 @@ class AdvancedTechstarsFetcher {
               const logo = parent.querySelector('img')?.src;
               
               // Try to get more data from the parent element
-              const batch = parent.querySelector('[class*="batch"], [class*="class"], [data-batch]')?.textContent?.trim();
               const location = parent.querySelector('[class*="location"], [class*="city"], [data-location]')?.textContent?.trim();
               const industry = parent.querySelector('[class*="industry"], [class*="category"], [data-industry]')?.textContent?.trim();
               
@@ -381,7 +467,6 @@ class AdvancedTechstarsFetcher {
                 website: hasCompanyURL ? href : '',
                 description: description || '',
                 logo_url: logo || '',
-                batch: batch || '',
                 location: location || '',
                 industry: industry || ''
               });
@@ -456,21 +541,19 @@ class AdvancedTechstarsFetcher {
       .replace(/^-|-$/g, '') : `company-${index}`;
     
     return {
-      id: index + 1,
       name: rawData.name || 'Unknown Company',
       slug,
       website: rawData.website || '',
       description: rawData.description || '',
       one_liner: rawData.description || '',
-      batch: rawData.batch || 'Unknown',
-      program: rawData.program || 'Unknown',
       location: rawData.location || 'Unknown',
-      region: this.extractRegion(rawData.location || ''),
       industry: rawData.industry || 'Unknown',
+      industry_slug: rawData.industry_slug || '',
       subindustry: rawData.subindustry || '',
       status: this.parseStatus(rawData.status),
       founded_year: this.parseYear(rawData.founded_year),
       logo_url: rawData.logo_url || '',
+      social_media: rawData.social_media || {},
       is_billion_plus: rawData.is_billion_plus || false,
       is_in_program: rawData.is_in_program || false,
       is_bcorp: rawData.is_bcorp || false,
@@ -501,39 +584,7 @@ class AdvancedTechstarsFetcher {
     return yearNum;
   }
 
-  extractRegion(location) {
-    if (!location) return 'Unknown';
-    
-    const regionMap = {
-      'New York': 'North America',
-      'San Francisco': 'North America',
-      'Boston': 'North America',
-      'Austin': 'North America',
-      'Denver': 'North America',
-      'Seattle': 'North America',
-      'Chicago': 'North America',
-      'London': 'Europe',
-      'Berlin': 'Europe',
-      'Paris': 'Europe',
-      'Amsterdam': 'Europe',
-      'Tel Aviv': 'Middle East',
-      'Dubai': 'Middle East',
-      'Singapore': 'Asia',
-      'Tokyo': 'Asia',
-      'Sydney': 'Australia',
-      'Toronto': 'North America',
-      'Mexico City': 'Latin America',
-      'São Paulo': 'Latin America',
-    };
-    
-    for (const [city, region] of Object.entries(regionMap)) {
-      if (location.includes(city)) {
-        return region;
-      }
-    }
-    
-    return 'Other';
-  }
+  // Removed extractRegion method as we no longer use regions
 
   ensureDirectoryExists(dirPath) {
     if (!fs.existsSync(dirPath)) {
@@ -541,15 +592,13 @@ class AdvancedTechstarsFetcher {
     }
   }
 
-  async generateEndpoints(companies) {
+  async generateEndpoints(companies, companiesByIndustry = new Map()) {
     console.log('Generating API endpoints...');
     
     // Ensure directories exist for API structure
     this.ensureDirectoryExists('./api');
     this.ensureDirectoryExists('./api/companies');
-    this.ensureDirectoryExists('./api/batches');
     this.ensureDirectoryExists('./api/industries');
-    this.ensureDirectoryExists('./api/regions');
     
     // Generate core endpoints
     fs.writeFileSync('./api/companies/all.json', JSON.stringify(companies, null, 2));
@@ -583,6 +632,19 @@ class AdvancedTechstarsFetcher {
       fs.writeFileSync(`./api/companies/${company.slug}.json`, JSON.stringify(company, null, 2));
     }
     
+    // Industry endpoints are already saved individually during fetching
+    // Just ensure the final industries index is up to date
+    const industriesIndex = Array.from(companiesByIndustry.entries()).map(([slug, companies]) => {
+      const industry = this.industryVerticals.find(i => i.slug === slug);
+      return {
+        name: industry?.name || slug,
+        slug: slug,
+        company_count: companies.length,
+        api_endpoint: `/api/industries/${slug}.json`
+      };
+    });
+    fs.writeFileSync('./api/industries/index.json', JSON.stringify(industriesIndex, null, 2));
+    
     // Create main API index
     const apiIndex = {
       name: "Techstars Portfolio API",
@@ -600,9 +662,18 @@ class AdvancedTechstarsFetcher {
           bcorp: "/api/companies/bcorp.json",
           in_program: "/api/companies/in-program.json"
         },
+        industries: {
+          index: "/api/industries/index.json",
+          endpoints: Object.fromEntries(
+            Array.from(companiesByIndustry.keys()).map(slug => [
+              slug, `/api/industries/${slug}.json`
+            ])
+          )
+        },
         meta: "/api/meta.json"
       },
       total_companies: companies.length,
+      total_industries: companiesByIndustry.size,
       last_updated: new Date().toISOString()
     };
     fs.writeFileSync('./api/index.json', JSON.stringify(apiIndex, null, 2));
@@ -610,7 +681,7 @@ class AdvancedTechstarsFetcher {
     console.log(`✓ Generated endpoints for ${companies.length} companies`);
   }
 
-  generateMetadata(companies) {
+  generateMetadata(companies, companiesByIndustry = new Map()) {
     const statusCounts = companies.reduce((acc, company) => {
       acc[company.status] = (acc[company.status] || 0) + 1;
       return acc;
@@ -624,10 +695,7 @@ class AdvancedTechstarsFetcher {
       ipo_companies: statusCounts.IPO || 0,
       closed_companies: statusCounts.Closed || 0,
       billion_plus_companies: companies.filter(c => c.is_billion_plus).length,
-      total_batches: 0,
-      total_programs: 0,
-      total_industries: 0,
-      total_regions: 0,
+      total_industries: companiesByIndustry?.size || 0,
       data_sources: [
         `${this.config.base_url}${this.config.portfolio_path}`,
         'Puppeteer browser automation',
@@ -636,10 +704,44 @@ class AdvancedTechstarsFetcher {
     };
   }
 
+  async fetchCompaniesByIndustry(page, industry) {
+    console.log(`🔍 Fetching companies for industry: ${industry.name}`);
+    
+    const url = `${this.config.base_url}${this.config.portfolio_path}?industry_vertical=${industry.url_param}`;
+    console.log(`Navigating to: ${url}`);
+    
+    try {
+      await page.goto(url, {
+        waitUntil: 'domcontentloaded',
+        timeout: this.config.timeout
+      });
+      
+      await new Promise(resolve => setTimeout(resolve, 3000));
+      
+      // Extract companies from this industry page
+      const industryCompanies = await this.extractCompaniesFromPage(page);
+      
+      // Tag each company with the correct industry
+      const taggedCompanies = industryCompanies.map(company => ({
+        ...company,
+        industry: industry.name,
+        industry_slug: industry.slug
+      }));
+      
+      console.log(`✅ Found ${taggedCompanies.length} companies in ${industry.name}`);
+      return taggedCompanies;
+      
+    } catch (error) {
+      console.error(`❌ Error fetching ${industry.name}:`, error.message);
+      return [];
+    }
+  }
+
   async fetchPortfolioData() {
     let browser;
     const errors = [];
     let companies = [];
+    const companiesByIndustry = new Map();
 
     try {
       console.log('🚀 Starting advanced Techstars data extraction...');
@@ -684,19 +786,137 @@ class AdvancedTechstarsFetcher {
       
       console.log('Page loaded successfully!');
       
-      // Check for API calls
-      await this.checkForApiCalls(page);
+      // Fetch companies by industry verticals
+      console.log(`🏭 Fetching companies from ${this.industryVerticals.length} industry verticals...`);
       
-      // Try to extract Next.js data
-      const nextData = await this.extractDataFromNextData(page);
-      if (nextData) {
-        console.log('Found Next.js data structure');
-        // Try to extract companies from Next.js data
-        // This would need specific parsing based on the actual structure
+      // Check for resume capability (unless --fresh flag is used)
+      let startIndex = 0;
+      let processedIndustries = [];
+      const allRawCompanies = [];
+      
+      const forceFresh = process.argv.includes('--fresh');
+      const checkpointFile = './api/checkpoint.json';
+      
+      if (forceFresh && fs.existsSync(checkpointFile)) {
+        fs.unlinkSync(checkpointFile);
+        console.log('🔄 Fresh start requested - removed existing checkpoint');
       }
       
-      // Extract companies from the rendered page
-      const rawCompanies = await this.extractCompaniesFromPage(page);
+      if (!forceFresh && fs.existsSync(checkpointFile)) {
+        try {
+          const checkpoint = JSON.parse(fs.readFileSync(checkpointFile, 'utf8'));
+          startIndex = checkpoint.last_completed_index + 1;
+          processedIndustries = checkpoint.processed_industries || [];
+          
+          if (startIndex < this.industryVerticals.length) {
+            console.log(`🔄 Resuming from industry ${startIndex + 1}/${this.industryVerticals.length}: ${this.industryVerticals[startIndex].name}`);
+            console.log(`📊 Already completed: ${processedIndustries.length} industries`);
+            
+            // Load existing companies from already processed industries
+            for (const industry of processedIndustries) {
+              try {
+                const industryData = JSON.parse(fs.readFileSync(`./api/industries/${industry.slug}.json`, 'utf8'));
+                allRawCompanies.push(...industryData);
+                companiesByIndustry.set(industry.slug, industryData);
+              } catch (e) {
+                console.warn(`⚠️ Could not load existing data for ${industry.name}`);
+              }
+            }
+          } else {
+            console.log(`✅ All industries already completed! Starting fresh...`);
+            startIndex = 0;
+            processedIndustries = [];
+          }
+        } catch (e) {
+          console.warn(`⚠️ Could not read checkpoint file, starting fresh...`);
+          startIndex = 0;
+          processedIndustries = [];
+        }
+      }
+      
+      for (let i = startIndex; i < this.industryVerticals.length; i++) {
+        const industry = this.industryVerticals[i];
+        console.log(`\n📊 Progress: ${i + 1}/${this.industryVerticals.length} - ${industry.name}`);
+        
+        try {
+          const industryCompanies = await this.fetchCompaniesByIndustry(page, industry);
+          
+          if (industryCompanies.length > 0) {
+            allRawCompanies.push(...industryCompanies);
+            companiesByIndustry.set(industry.slug, industryCompanies);
+            
+            // Save industry data immediately to prevent data loss
+            this.ensureDirectoryExists('./api/industries');
+            fs.writeFileSync(`./api/industries/${industry.slug}.json`, JSON.stringify(industryCompanies, null, 2));
+            console.log(`💾 Saved ${industryCompanies.length} companies for ${industry.name}`);
+            
+            processedIndustries.push({
+              name: industry.name,
+              slug: industry.slug,
+              company_count: industryCompanies.length,
+              api_endpoint: `/api/industries/${industry.slug}.json`
+            });
+          } else {
+            console.log(`⚠️ No companies found for ${industry.name}`);
+            processedIndustries.push({
+              name: industry.name,
+              slug: industry.slug,
+              company_count: 0,
+              api_endpoint: `/api/industries/${industry.slug}.json`
+            });
+          }
+          
+          // Save progress after each industry
+          this.ensureDirectoryExists('./api/industries');
+          fs.writeFileSync('./api/industries/index.json', JSON.stringify(processedIndustries, null, 2));
+          
+          // Save checkpoint for resume capability
+          const checkpoint = {
+            last_updated: new Date().toISOString(),
+            last_completed_index: i,
+            last_completed_industry: industry.name,
+            processed_industries: processedIndustries,
+            total_industries: this.industryVerticals.length,
+            completion_percentage: Math.round(((i + 1) / this.industryVerticals.length) * 100)
+          };
+          fs.writeFileSync('./api/checkpoint.json', JSON.stringify(checkpoint, null, 2));
+          
+          // Save interim metadata
+          const interimMetadata = {
+            last_updated: new Date().toISOString(),
+            processing_status: `Completed ${i + 1}/${this.industryVerticals.length} industries`,
+            industries_processed: processedIndustries.length,
+            total_companies_so_far: allRawCompanies.length,
+            industries_completed: processedIndustries.filter(ind => ind.company_count > 0).length
+          };
+          fs.writeFileSync('./api/processing-status.json', JSON.stringify(interimMetadata, null, 2));
+          
+          // Small delay between industry fetches to be respectful
+          await new Promise(resolve => setTimeout(resolve, 1000));
+          
+        } catch (error) {
+          console.error(`❌ Failed to fetch ${industry.name}:`, error.message);
+          errors.push(`Failed to fetch ${industry.name}: ${error.message}`);
+        }
+      }
+      
+      console.log(`\n🎉 Completed fetching all industries!`);
+      console.log(`📈 Total companies found across all industries: ${allRawCompanies.length}`);
+      console.log(`💾 All ${processedIndustries.length} industry files saved individually`);
+      
+      // Remove duplicates (companies can appear in multiple industries)
+      const uniqueCompanies = [];
+      const seenCompanies = new Set();
+      
+      for (const company of allRawCompanies) {
+        const companyKey = company.name?.toLowerCase() || company.website || Math.random();
+        if (!seenCompanies.has(companyKey)) {
+          seenCompanies.add(companyKey);
+          uniqueCompanies.push(company);
+        }
+      }
+      
+      const rawCompanies = uniqueCompanies;
       
       if (rawCompanies.length > 0) {
         console.log(`✅ Successfully extracted ${rawCompanies.length} companies!`);
@@ -723,11 +943,9 @@ class AdvancedTechstarsFetcher {
           website: 'https://example.com',
           description: 'This is sample data - real extraction needs refinement',
           one_liner: 'Sample company for API testing',
-          batch: 'Sample Batch 2024',
-          program: 'Accelerator',
           location: 'Boulder, CO',
-          region: 'North America',
           industry: 'Technology',
+          industry_slug: 'technology',
           subindustry: 'Software',
           status: 'Active',
           founded_year: 2020,
@@ -753,10 +971,18 @@ class AdvancedTechstarsFetcher {
     }
     
     // Generate endpoints and metadata
-    await this.generateEndpoints(companies);
+    await this.generateEndpoints(companies, companiesByIndustry);
     
-    const metadata = this.generateMetadata(companies);
+    const metadata = this.generateMetadata(companies, companiesByIndustry);
     fs.writeFileSync('./api/meta.json', JSON.stringify(metadata, null, 2));
+    
+    // Clean up temporary files
+    if (fs.existsSync('./api/processing-status.json')) {
+      fs.unlinkSync('./api/processing-status.json');
+    }
+    if (fs.existsSync('./api/checkpoint.json')) {
+      fs.unlinkSync('./api/checkpoint.json');
+    }
     
     console.log(`\n📊 Extraction Summary:`);
     console.log(`- Total companies: ${companies.length}`);

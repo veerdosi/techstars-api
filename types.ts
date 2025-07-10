@@ -1,19 +1,22 @@
 export interface TechstarsCompany {
-  id: number;
   name: string;
   slug: string;
   website: string;
   description: string;
   one_liner: string;
-  batch: string;
-  program: string;
   location: string;
-  region: string;
   industry: string;
   subindustry: string;
   status: 'Active' | 'Acquired' | 'IPO' | 'Closed';
   founded_year?: number;
   logo_url?: string;
+  social_media?: {
+    twitter?: string;
+    linkedin?: string;
+    facebook?: string;
+    instagram?: string;
+    angellist?: string;
+  };
   is_billion_plus: boolean;
   is_in_program: boolean;
   is_bcorp: boolean;
