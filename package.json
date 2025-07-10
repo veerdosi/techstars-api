@@ -1,0 +1,29 @@
+{
+  "name": "techstars-api",
+  "version": "1.0.0",
+  "description": "Unofficial API for Techstars portfolio companies",
+  "main": "fetcher-puppeteer.js",
+  "scripts": {
+    "fetch": "node fetcher-puppeteer.js",
+    "start": "node fetcher-puppeteer.js",
+    "install-deps": "npm install puppeteer"
+  },
+  "dependencies": {
+    "puppeteer": "^21.6.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "techstars",
+    "api",
+    "portfolio",
+    "companies",
+    "startups",
+    "json"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/veerdosi/techstars-api.git"
+  }
+}

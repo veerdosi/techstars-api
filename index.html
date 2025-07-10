@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Techstars Portfolio API</title>
+    <meta name="description" content="Unofficial API for Techstars portfolio companies, similar to the YC API">
+    <meta name="keywords" content="Techstars, API, portfolio, companies, startups, JSON">
+    <meta name="author" content="Techstars API">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://your-username.github.io/techstars-api/">
+    <meta property="og:title" content="Techstars Portfolio API">
+    <meta property="og:description" content="Unofficial API for Techstars portfolio companies">
+    <meta property="og:image" content="https://your-username.github.io/techstars-api/og-image.png">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://your-username.github.io/techstars-api/">
+    <meta property="twitter:title" content="Techstars Portfolio API">
+    <meta property="twitter:description" content="Unofficial API for Techstars portfolio companies">
+    <meta property="twitter:image" content="https://your-username.github.io/techstars-api/og-image.png">
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 3rem;
+        }
+        
+        .header h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+        
+        .stat-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #667eea;
+            display: block;
+        }
+        
+        .stat-label {
+            color: #666;
+            font-size: 0.9rem;
+            margin-top: 0.5rem;
+        }
+        
+        .main-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 3rem;
+            margin-bottom: 3rem;
+        }
+        
+        .card {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+        
+        .card h2 {
+            color: #667eea;
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
+        }
+        
+        .endpoint {
+            background: #f8f9fa;
+            padding: 1rem;
+            border-radius: 5px;
+            margin-bottom: 1rem;
+            border-left: 4px solid #667eea;
+        }
+        
+        .endpoint-url {
+            font-family: 'Monaco', 'Menlo', monospace;
+            font-size: 0.9rem;
+            color: #333;
+            word-break: break-all;
+        }
+        
+        .endpoint-desc {
+            color: #666;
+            font-size: 0.8rem;
+            margin-top: 0.5rem;
+        }
+        
+        .code-block {
+            background: #2d3748;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 5px;
+            font-family: 'Monaco', 'Menlo', monospace;
+            font-size: 0.9rem;
+            overflow-x: auto;
+        }
+        
+        .footer {
+            text-align: center;
+            color: white;
+            padding: 2rem;
+            opacity: 0.8;
+        }
+        
+        .footer a {
+            color: white;
+            text-decoration: underline;
+        }
+        
+        .badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            background: #28a745;
+            color: white;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            margin-bottom: 1rem;
+        }
+        
+        @media (max-width: 768px) {
+            .main-content {
+                grid-template-columns: 1fr;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .stats {
+                grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚀 Techstars Portfolio API</h1>
+            <p>Unofficial API for Techstars portfolio companies, similar to the YC API</p>
+            <div class="badge">Auto-updated daily</div>
+        </div>
+        
+        <div class="stats" id="stats">
+            <div class="stat-card">
+                <span class="stat-number" id="total-companies">-</span>
+                <div class="stat-label">Total Companies</div>
+            </div>
+            <div class="stat-card">
+                <span class="stat-number" id="active-companies">-</span>
+                <div class="stat-label">Active Companies</div>
+            </div>
+            <div class="stat-card">
+                <span class="stat-number" id="exits">-</span>
+                <div class="stat-label">Exits</div>
+            </div>
+            <div class="stat-card">
+                <span class="stat-number" id="billion-plus">-</span>
+                <div class="stat-label">Billion+ Companies</div>
+            </div>
+        </div>
+        
+        <div class="main-content">
+            <div class="card">
+                <h2>🔗 Popular Endpoints</h2>
+                <div class="endpoint">
+                    <div class="endpoint-url">/companies/all.json</div>
+                    <div class="endpoint-desc">All portfolio companies</div>
+                </div>
+                <div class="endpoint">
+                    <div class="endpoint-url">/companies/active.json</div>
+                    <div class="endpoint-desc">Currently active companies</div>
+                </div>
+                <div class="endpoint">
+                    <div class="endpoint-url">/companies/exits.json</div>
+                    <div class="endpoint-desc">Acquired and IPO companies</div>
+                </div>
+                <div class="endpoint">
+                    <div class="endpoint-url">/companies/billion-plus.json</div>
+                    <div class="endpoint-desc">Companies valued at $1B+</div>
+                </div>
+                <div class="endpoint">
+                    <div class="endpoint-url">/meta.json</div>
+                    <div class="endpoint-desc">API metadata and statistics</div>
+                </div>
+            </div>
+            
+            <div class="card">
+                <h2>💻 Quick Start</h2>
+                <p>Fetch data using any HTTP client:</p>
+                <div class="code-block">
+<span style="color: #4a90e2;">fetch</span>('<span style="color: #7fb069;">./companies/all.json</span>')
+  .<span style="color: #4a90e2;">then</span>(<span style="color: #f39c12;">response</span> => <span style="color: #f39c12;">response</span>.<span style="color: #4a90e2;">json</span>())
+  .<span style="color: #4a90e2;">then</span>(<span style="color: #f39c12;">companies</span> => {
+    <span style="color: #4a90e2;">console</span>.<span style="color: #4a90e2;">log</span>(<span style="color: #f39c12;">companies</span>.<span style="color: #4a90e2;">length</span>);
+  });
+                </div>
+            </div>
+        </div>
+        
+        <div class="main-content">
+            <div class="card">
+                <h2>📊 Filter by Category</h2>
+                <div class="endpoint">
+                    <div class="endpoint-url">/batches/index.json</div>
+                    <div class="endpoint-desc">Browse by batch/cohort</div>
+                </div>
+                <div class="endpoint">
+                    <div class="endpoint-url">/industries/index.json</div>
+                    <div class="endpoint-desc">Browse by industry</div>
+                </div>
+                <div class="endpoint">
+                    <div class="endpoint-url">/regions/index.json</div>
+                    <div class="endpoint-desc">Browse by geographic region</div>
+                </div>
+                <div class="endpoint">
+                    <div class="endpoint-url">/programs/index.json</div>
+                    <div class="endpoint-desc">Browse by program type</div>
+                </div>
+            </div>
+            
+            <div class="card">
+                <h2>🛠️ Data Structure</h2>
+                <p>Each company object includes:</p>
+                <ul style="margin-left: 1.5rem; margin-top: 1rem;">
+                    <li>Basic info (name, website, description)</li>
+                    <li>Batch and program details</li>
+                    <li>Location and industry</li>
+                    <li>Status (Active, Acquired, IPO, Closed)</li>
+                    <li>Special flags (billion+, B Corp, etc.)</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>
+                <strong>Last Updated:</strong> <span id="last-updated">Loading...</span><br>
+                Built with ❤️ using <a href="https://deno.land/">Deno</a> and <a href="https://pages.github.com/">GitHub Pages</a><br>
+                <a href="https://github.com/your-username/techstars-api">View on GitHub</a> | 
+                <a href="./README.md">Documentation</a>
+            </p>
+        </div>
+    </div>
+    
+    <script>
+        // Load and display API metadata
+        fetch('./meta.json')
+            .then(response => response.json())
+            .then(meta => {
+                document.getElementById('total-companies').textContent = meta.total_companies.toLocaleString();
+                document.getElementById('active-companies').textContent = meta.active_companies.toLocaleString();
+                document.getElementById('exits').textContent = (meta.acquired_companies + meta.ipo_companies).toLocaleString();
+                document.getElementById('billion-plus').textContent = meta.billion_plus_companies.toLocaleString();
+                
+                const lastUpdated = new Date(meta.last_updated).toLocaleDateString('en-US', {
+                    year: 'numeric',
+                    month: 'long',
+                    day: 'numeric'
+                });
+                document.getElementById('last-updated').textContent = lastUpdated;
+            })
+            .catch(error => {
+                console.warn('Could not load metadata:', error);
+                document.getElementById('last-updated').textContent = 'Unknown';
+            });
+    </script>
+</body>
+</html>
