@@ -47,19 +47,80 @@ class AdvancedTechstarsFetcher {
     // Try to load more companies by scrolling and clicking load more buttons
     console.log('Trying to load more companies...');
     
-    // Scroll to bottom to trigger infinite scroll
-    let previousHeight = await page.evaluate('document.body.scrollHeight');
-    for (let i = 0; i < 5; i++) {
-      await page.evaluate('window.scrollTo(0, document.body.scrollHeight)');
+    // Aggressive infinite scroll to load ALL companies
+    console.log('Starting infinite scroll to load all companies...');
+    let previousCompanyCount = 0;
+    let currentCompanyCount = 0;
+    let scrollAttempts = 0;
+    const maxScrollAttempts = 100; // Much higher limit
+    
+    do {
+      // Count current companies on page using multiple selectors
+      currentCompanyCount = await page.evaluate(() => {
+        const companySelectors = [
+          'a[href*="/companies/"]',
+          'a[href*="/portfolio/"]', 
+          '[data-testid*="company"]',
+          '.company-card',
+          '.portfolio-item'
+        ];
+        
+        let maxCount = 0;
+        for (const selector of companySelectors) {
+          const elements = document.querySelectorAll(selector);
+          if (elements.length > maxCount) {
+            maxCount = elements.length;
+          }
+        }
+        return maxCount;
+      });
+      
+      console.log(`Current companies on page: ${currentCompanyCount}`);
+      
+      // Multiple scroll strategies
+      await page.evaluate(() => {
+        // Fast scroll to bottom
+        window.scrollTo(0, document.body.scrollHeight);
+      });
+      
+      await new Promise(resolve => setTimeout(resolve, 3000));
+      
+      // Incremental scrolling to trigger lazy loading
+      await page.evaluate(() => {
+        for (let i = 0; i < 10; i++) {
+          window.scrollBy(0, 800);
+        }
+      });
+      
       await new Promise(resolve => setTimeout(resolve, 2000));
       
-      // Check if new content loaded
-      let newHeight = await page.evaluate('document.body.scrollHeight');
-      if (newHeight === previousHeight) {
-        break;
+      // Scroll back up a bit and down again (sometimes helps)
+      await page.evaluate(() => {
+        window.scrollBy(0, -1000);
+        setTimeout(() => window.scrollTo(0, document.body.scrollHeight), 500);
+      });
+      
+      await new Promise(resolve => setTimeout(resolve, 3000));
+      
+      scrollAttempts++;
+      
+      // Check if we found new companies
+      if (currentCompanyCount === previousCompanyCount) {
+        scrollAttempts++;
+        if (scrollAttempts >= 5) { // If no new companies after 5 attempts, break
+          console.log('No new companies found after multiple scroll attempts');
+          break;
+        }
+      } else {
+        scrollAttempts = 0; // Reset counter if we found new companies
+        console.log(`Found ${currentCompanyCount - previousCompanyCount} new companies!`);
       }
-      previousHeight = newHeight;
-    }
+      
+      previousCompanyCount = currentCompanyCount;
+      
+    } while (scrollAttempts < maxScrollAttempts && currentCompanyCount < 2000); // Cap at 2000 companies for safety
+    
+    console.log(`Finished scrolling. Total companies found: ${currentCompanyCount}`);
     
     // Look for and click "Load More" or "Show More" buttons
     const loadMoreSelectors = [
