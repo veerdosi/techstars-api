@@ -1,0 +1,23 @@
+{
+  "name": "Based",
+  "slug": "based",
+  "website": "https://everythingbagel.ai/",
+  "description": "Everything Bagel is an iOS app that uses AI to help teenagers learn about themselves, achieve their goals and make the most out of their formative years. The app uses data from the apps users already use, like Instagram or Twitter, to personalize the chat",
+  "one_liner": "Everything Bagel is an iOS app that uses AI to help teenagers learn about themselves, achieve their goals and make the most out of their formative years. The app uses data from the apps users already use, like Instagram or Twitter, to personalize the chat",
+  "location": "San Francisco, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/basedsocialco",
+    "linkedin": "https://linkedin.com/company/everythingbagelai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/based",
+  "api": "/api/companies/based.json"
+}

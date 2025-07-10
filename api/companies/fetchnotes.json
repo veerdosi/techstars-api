@@ -1,0 +1,24 @@
+{
+  "name": "Fetchnotes",
+  "slug": "fetchnotes",
+  "website": "https://fetchnotes.com/",
+  "description": "Note-taking and organization tool",
+  "one_liner": "Note-taking and organization tool",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/fetchnotes",
+    "linkedin": "https://linkedin.com/company/fetchnotes",
+    "facebook": "https://facebook.com/fetchnotes"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fetchnotes",
+  "api": "/api/companies/fetchnotes.json"
+}

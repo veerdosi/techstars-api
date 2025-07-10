@@ -1,0 +1,22 @@
+{
+  "name": "Blind Tiger Communications",
+  "slug": "blind-tiger-communications",
+  "website": "https://blindtigercom.com/",
+  "description": "BTC provides a wireless security umbrella protecting facilities against unknown phones, drones, WiFi and Bluetooth devices allowing known devices to operate",
+  "one_liner": "BTC provides a wireless security umbrella protecting facilities against unknown phones, drones, WiFi and Bluetooth devices allowing known devices to operate",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/blind-tiger-communications"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/blind-tiger-communications",
+  "api": "/api/companies/blind-tiger-communications.json"
+}

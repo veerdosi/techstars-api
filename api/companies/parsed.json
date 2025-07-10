@@ -1,0 +1,22 @@
+{
+  "name": "Parsed",
+  "slug": "parsed",
+  "website": "https://parsedco.com/",
+  "description": "SaaS collaborative workspace to create AI-autonomous-agents applications with your company's data and team.",
+  "one_liner": "SaaS collaborative workspace to create AI-autonomous-agents applications with your company's data and team.",
+  "location": "Lewes, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rrzg5oz5yu748yyd2q4a",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/parsedco"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/parsed",
+  "api": "/api/companies/parsed.json"
+}

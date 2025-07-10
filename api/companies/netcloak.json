@@ -1,0 +1,24 @@
+{
+  "name": "NetCloak",
+  "slug": "netcloak",
+  "website": "https://linkedin.com/company/netcloak",
+  "description": "NetCloak is pioneering AI privacy technology by automatically detecting and securing high risk employee data.",
+  "one_liner": "NetCloak is pioneering AI privacy technology by automatically detecting and securing high risk employee data.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/NetCloakInc",
+    "linkedin": "https://linkedin.com/company/netcloak",
+    "facebook": "https://facebook.com/hover"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/netcloak",
+  "api": "/api/companies/netcloak.json"
+}

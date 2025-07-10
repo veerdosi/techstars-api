@@ -1,0 +1,23 @@
+{
+  "name": "Banca",
+  "slug": "banca",
+  "website": "https://banca.me/",
+  "description": "Banca.Me offers fast, easy, and secure consumer and investment loans. Banca.Me creates modern and easy-to-use financial solutions that can be accessed on a mobile phone.",
+  "one_liner": "Banca.Me offers fast, easy, and secure consumer and investment loans. Banca.Me creates modern and easy-to-use financial solutions that can be accessed on a mobile phone.",
+  "location": "Santiago, Chile",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/uvpslj8nlets2kqb1agp",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/banca-me",
+    "facebook": "https://facebook.com/BancaMe-101668038574545"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/banca",
+  "api": "/api/companies/banca.json"
+}

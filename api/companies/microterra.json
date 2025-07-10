@@ -1,0 +1,23 @@
+{
+  "name": "microTERRA",
+  "slug": "microterra",
+  "website": "https://microterra.com.mx/",
+  "description": "Sustainable protein from wastewater. By combining Biotech and Hardware we develop microalgae systems that transform the fish farms wastewater into fish feed.",
+  "one_liner": "Sustainable protein from wastewater. By combining Biotech and Hardware we develop microalgae systems that transform the fish farms wastewater into fish feed.",
+  "location": "Irapuato, Guanajuato, Mexico",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/40664387",
+    "facebook": "https://facebook.com/microTERRA.mx/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/microterra",
+  "api": "/api/companies/microterra.json"
+}

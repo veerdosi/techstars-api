@@ -1,0 +1,24 @@
+{
+  "name": "Pana",
+  "slug": "pana",
+  "website": "https://pana.com/",
+  "description": "Your new personal travel assistant",
+  "one_liner": "Your new personal travel assistant",
+  "location": "Denver, Colorado, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/HelloPana",
+    "linkedin": "https://linkedin.com/company/panaapp",
+    "facebook": "https://facebook.com/TravelwithPana/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pana",
+  "api": "/api/companies/pana.json"
+}

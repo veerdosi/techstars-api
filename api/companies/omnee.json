@@ -1,0 +1,24 @@
+{
+  "name": "Omnee",
+  "slug": "omnee",
+  "website": "https://omnee.ca/",
+  "description": "Omnee is building lifetime customer relationships with homeowners by reducing their overall stress, effort and time investment, making their daunting home to-do list easily manageable, and ensuring an unmatched service experience every time.",
+  "one_liner": "Omnee is building lifetime customer relationships with homeowners by reducing their overall stress, effort and time investment, making their daunting home to-do list easily manageable, and ensuring an unmatched service experience every time.",
+  "location": "Saskatoon, Saskatchewan, Canada",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wu9yunnrp1sulhfc2it0",
+  "social_media": {
+    "twitter": "https://twitter.com/OmneeTech",
+    "linkedin": "https://linkedin.com/company/omnee-tech",
+    "facebook": "https://facebook.com/omneetech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/omnee",
+  "api": "/api/companies/omnee.json"
+}

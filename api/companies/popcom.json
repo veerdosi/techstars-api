@@ -1,0 +1,24 @@
+{
+  "name": "PopCom",
+  "slug": "popcom",
+  "website": "https://popcom.shop/",
+  "description": "SVI is the IoT of vending, we make vending machines smart",
+  "one_liner": "SVI is the IoT of vending, we make vending machines smart",
+  "location": "Columbus, Ohio, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PopComSaaS",
+    "linkedin": "https://linkedin.com/company/popcomsi",
+    "facebook": "https://facebook.com/PopComSaaS/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/popcom",
+  "api": "/api/companies/popcom.json"
+}

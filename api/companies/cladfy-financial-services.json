@@ -1,0 +1,24 @@
+{
+  "name": "Cladfy Financial Services",
+  "slug": "cladfy-financial-services",
+  "website": "https://cladfy.com/",
+  "description": "Cladfy analyzes financial transaction data to enable microlenders and other fintechs to generate a complete risk profile of their consumers.",
+  "one_liner": "Cladfy analyzes financial transaction data to enable microlenders and other fintechs to generate a complete risk profile of their consumers.",
+  "location": "Mombasa, Kenya",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/_cladfy",
+    "linkedin": "https://linkedin.com/company/cladfy",
+    "facebook": "https://facebook.com/cladfy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cladfy-financial-services",
+  "api": "/api/companies/cladfy-financial-services.json"
+}

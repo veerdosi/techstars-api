@@ -1,0 +1,22 @@
+{
+  "name": "Mindhelpa",
+  "slug": "mindhelpa",
+  "website": "https://mindhelpa.com/",
+  "description": "Mindhelpa improves access to mental healthcare by providing affordable and effective online group therapy to individuals, facilitated by licensed therapists.",
+  "one_liner": "Mindhelpa improves access to mental healthcare by providing affordable and effective online group therapy to individuals, facilitated by licensed therapists.",
+  "location": "Dundee, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/mindhelpa"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mindhelpa",
+  "api": "/api/companies/mindhelpa.json"
+}

@@ -1,0 +1,2018 @@
+[
+  {
+    "name": "Outreach",
+    "website": "https://outreach.io/",
+    "description": "Outreach is a sales engagement platform that accelerates revenue growth by optimizing interactions throughout the customer lifecycle.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/outreach_io",
+      "linkedin": "https://linkedin.com/company/outreach-saas",
+      "facebook": "https://facebook.com/Outreach.io/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "SalesLoft",
+    "website": "https://salesloft.com/",
+    "description": "Salesloft helps thousands of the world's most successful selling teams drive more revenue with the Modern Revenue Workspace(tm).",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/salesloft",
+      "linkedin": "https://linkedin.com/company/salesloft",
+      "facebook": "https://facebook.com/SalesLoft"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Bluecore",
+    "website": "https://bluecore.com/",
+    "description": "Relevant trigger emails for Ecommerce",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Bluecore",
+      "linkedin": "https://linkedin.com/company/bluecore",
+      "facebook": "https://facebook.com/getbluecore"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "GlossGenius",
+    "website": "https://glossgenius.com/",
+    "description": "GlossGenius is a smart, automated personal assistant that helps beauty professionals manage and grow their businesses",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/glossgenius",
+      "linkedin": "https://linkedin.com/company/glossgenius",
+      "facebook": "https://facebook.com/glossgenius"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Funnel Leasing",
+    "website": "https://funnelleasing.com/",
+    "description": "Making it easier to find a place to live",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FunnelLeasing",
+      "linkedin": "https://linkedin.com/company/funnelleasing",
+      "facebook": "https://facebook.com/funnelleasing/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Placester",
+    "website": "https://placester.com/",
+    "description": "The simple, all-in-one digital marketing platform  for real estate professionals.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/placester",
+      "linkedin": "https://linkedin.com/company/placester-inc",
+      "facebook": "https://facebook.com/Placester"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Remesh",
+    "website": "https://remesh.ai/",
+    "description": "A next-gen platform for engaging and understanding a group of people",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/teamremesh",
+      "linkedin": "https://linkedin.com/company/5245293",
+      "facebook": "https://facebook.com/teamremesh"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Jebbit",
+    "website": "https://jebbit.com/",
+    "description": "Jebbit is a no-code platform that lets you design and launch engaging quizzes and product recommendations without IT or engineering support.",
+    "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/23227-eb0d4cc44a39da16a335b044018b1b71-thumb_jpg.jpg?buster=1366720855",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/jebbit",
+      "linkedin": "https://linkedin.com/company/2568979",
+      "facebook": "https://facebook.com/jebbitinc"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Kapost",
+    "website": "https://kapost.com/",
+    "description": "Content marketing software",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/kapost",
+      "linkedin": "https://linkedin.com/company/kapost",
+      "facebook": "https://facebook.com/kapostnewsrooms"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Promoboxx",
+    "website": "https://promoboxx.com/",
+    "description": "Brand-to-retailer marketing platform",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Promoboxx",
+      "linkedin": "https://linkedin.com/company/promoboxx",
+      "facebook": "https://facebook.com/Promoboxx"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Bizible Marketing Analytics",
+    "website": "https://bizible.com/",
+    "description": "Optimization and effective inbound marketing of web presence for local businesses",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bizible",
+      "linkedin": "https://linkedin.com/company/bizible",
+      "facebook": "https://facebook.com/bizible"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Insent",
+    "website": "https://insent.ai/",
+    "description": "Engage early, converse real-time, and close more",
+    "location": "Littleton, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Insent_ai",
+      "linkedin": "https://linkedin.com/company/insent-ai",
+      "facebook": "https://facebook.com/insenthq"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "EcoMap Technologies",
+    "website": "https://ecomap.tech/",
+    "description": "EcoMap builds platforms that digitize ecosystems, from entrepreneurial communities to corporate networks and beyond.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ecomaptech",
+      "linkedin": "https://linkedin.com/company/ecomaptechnologies",
+      "facebook": "https://facebook.com/ecomaptech"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "App Samurai",
+    "website": "https://appsamurai.com/",
+    "description": "App Samurai is a next-generation mobile growth company powered by a combination of AI and exceptional team.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AppSamurai",
+      "linkedin": "https://linkedin.com/company/app-samurai",
+      "facebook": "https://facebook.com/appsamuraiofficial/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Cheerfy",
+    "website": "https://cheerfy.com/",
+    "description": "Cheerfy enables personalised contextual customer experiences in the physical world.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/cheerfy",
+      "linkedin": "https://linkedin.com/company/cheerfy",
+      "facebook": "https://facebook.com/cheerfy/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Ambassador",
+    "website": "https://getambassador.com/",
+    "description": "Referral, Partner and Affiliate Tracking and Management.",
+    "location": "Royal Oak, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Ambassador",
+      "linkedin": "https://linkedin.com/company/getambassador",
+      "facebook": "https://facebook.com/getambassador"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "MDaaS Global",
+    "website": "https://mdaas.io/",
+    "description": "MDaaS Global builds and operates tech-enabled diagnostic and primary care centers in clinically underserved communities in Africa.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mdaasglobal",
+      "linkedin": "https://linkedin.com/company/mdaas",
+      "facebook": "https://facebook.com/mdaasglobal/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "GoAudience",
+    "website": "https://goaudience.com/",
+    "description": "GoAudience uses AI to help businesses find new customers based on credit card spending history of 220M US consumers.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/twjlw2dpkxrirgfhjxtx",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GoAudiences",
+      "linkedin": "https://linkedin.com/company/goaudience"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "altvia",
+    "website": "https://altvia.com/",
+    "description": "Solutions for alternative asset managers",
+    "location": "Broomfield, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/altvia",
+      "linkedin": "https://linkedin.com/company/application-experts-llc"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "LegitFit",
+    "website": "https://legitfit.com/",
+    "description": "Empowering Fitness Entrepreneurs & Business to deliver a better experience to their clients",
+    "location": "Cork, Cork, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/LegitFitcom",
+      "linkedin": "https://linkedin.com/company/legit-fit1",
+      "facebook": "https://facebook.com/LegitFitcom/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Augur",
+    "website": "https://augur.io/",
+    "description": "Augur provides ad-tech agencies with cross-device and cross-channel attribution. We're building the largest 3rd Party Deterministic Device Graph in the world.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Augur",
+      "linkedin": "https://linkedin.com/company/augur-net",
+      "facebook": "https://facebook.com/augurproject/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "illuminem",
+    "website": "https://illuminem.com/",
+    "description": "illuminem is the world's leading source of sustainability & energy information",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fhgdrhxwtrcjhrjtpxe5",
+    "location": "Pistoia, Pistoia, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/illuminemNews",
+      "linkedin": "https://linkedin.com/company/illuminem"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "tagSpace",
+    "website": "https://tagspace.com/",
+    "description": "Locational AR for Festivals, Tourism and Big Events. No code required!",
+    "location": "Byron Bay, New South Wales, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/tagSpaceCo",
+      "linkedin": "https://linkedin.com/in/paulsimonmartin",
+      "facebook": "https://facebook.com/tagSpaceCo"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Gamesight",
+    "website": "https://gamesight.io/",
+    "description": "Connecting players to games.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/innervateinc",
+      "linkedin": "https://linkedin.com/company/gamesight",
+      "facebook": "https://facebook.com/GamesightIO"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Haven Connect",
+    "website": "https://havenconnect.com/",
+    "description": "Haven Connect's property management software streamlines the affordable housing application process, building a marketplace of pre-qualified leads to fill units",
+    "location": "Berkeley, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/havenconnect",
+      "linkedin": "https://linkedin.com/company/haven-connect",
+      "facebook": "https://facebook.com/havenconnect1/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "StoryTap",
+    "website": "https://storytap.com/",
+    "description": "Star rated video reviews from anyone, anywhere.",
+    "location": "Port Coquitlam, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/storytapvideo",
+      "linkedin": "https://linkedin.com/company/storytapvideo",
+      "facebook": "https://facebook.com/storytap/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Reelist",
+    "website": "https://reelist.com/",
+    "description": "Reelist replaces written job descriptions with engaging video job posts on the social media platforms where job seekers already are, making hiring cheaper and quicker.",
+    "location": "Norfolk, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/reelistjobs",
+      "linkedin": "https://linkedin.com/company/reelist"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Inphlu",
+    "website": "https://inphlu.com/",
+    "description": "Empower Your Employees. Amplify Your Reach.",
+    "location": "Cincinnati, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/inphlusocial/",
+      "linkedin": "https://linkedin.com/company/inphluinc",
+      "facebook": "https://facebook.com/Inphlu/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Inclusivv",
+    "website": "https://inclusivv.co/",
+    "description": "Civic Dinners is a community engagement platform that brings people together for conversations that matter.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/civicdinners",
+      "linkedin": "https://linkedin.com/company/inclusivv",
+      "facebook": "https://facebook.com/Inclusivv"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "VideoPeel",
+    "website": "https://videopeel.com/",
+    "description": "Makes it easy for businesses to remotely capture customer videos in seconds for video testimonials and voice of the customer.",
+    "location": "Lehi, Utah, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vidpeel",
+      "linkedin": "https://linkedin.com/company/videopeel",
+      "facebook": "https://facebook.com/videopeel"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Bridged Media",
+    "website": "https://bridged.media/",
+    "description": "The AdSense for Impact, boosting publisher revenues, engagement and retention by up to 30% with Millennials and Gen-Z",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/nitl_app",
+      "linkedin": "https://linkedin.com/company/nitl-app",
+      "facebook": "https://facebook.com/newsinthreelines/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Switchboard Live",
+    "website": "https://switchboard.live/",
+    "description": "Switchboard simultaneously distributes live video content to multiple platforms, allowing content creators instant access to targeted audiences.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/switchboardlive",
+      "linkedin": "https://linkedin.com/company/switchboardlive",
+      "facebook": "https://facebook.com/switchboardlive"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Odaptos",
+    "website": "https://odaptos.com/",
+    "description": "Odaptos is an artificial intelligence platform that allows users to perform usability testing.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ephhcsbgvin7qfhw4xma",
+    "location": "Perols, Occitanie, France",
+    "social_media": {
+      "twitter": "https://twitter.com/odaptos",
+      "linkedin": "https://linkedin.com/company/odaptos",
+      "facebook": "https://facebook.com/people/Odaptos/100070848931160"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Contently",
+    "website": "https://contently.com/",
+    "description": "Empowering branded content",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/contently",
+      "linkedin": "https://linkedin.com/company/contently",
+      "facebook": "https://facebook.com/contently"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "TuneHatch",
+    "website": "https://tunehatch.com/",
+    "description": "For music venue managers and showrunners who feel overwhelmed, TuneHatch offers a turnkey platform that allows them to book, promote, and ticket their shows, and manage payouts, all in one streamlined interface.",
+    "location": "Nashville, Tennessee, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tunehatch",
+      "facebook": "https://facebook.com/tunehatch/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Tangiblee",
+    "website": "https://tangiblee.com/",
+    "description": "A product imaging solution that reveals sizing with context and scale",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tangiblee",
+      "linkedin": "https://linkedin.com/company/tangiblee",
+      "facebook": "https://facebook.com/yruler"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Filtrbox",
+    "website": "https://filtrbox.com/",
+    "description": "Social media monitoring & analytics",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/jivesoftware"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Parsempo",
+    "website": "https://parsempo.com/",
+    "description": "Parsempo makes it easy for Digital Signage and DOOH display owners to manage their screens, create engaging experiences, measure performance and generate passive revenue anywhere in the world.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/parsempo",
+      "linkedin": "https://linkedin.com/company/parsempo",
+      "facebook": "https://facebook.com/GoParsempo"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "CogniSaaS",
+    "website": "https://cognisaas.com/",
+    "description": "CogniSaaS empowers cross-functional teams in enterprise SaaS for customer-centric value delivery",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "twitter": "https://twitter.com/cognisaas",
+      "linkedin": "https://linkedin.com/company/cognisaas",
+      "facebook": "https://facebook.com/cognisaas"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "ConvertFlow",
+    "website": "https://convertflow.com/",
+    "description": "Build funnels like a pro for any site",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/convertflow",
+      "linkedin": "https://linkedin.com/company/convertflow",
+      "facebook": "https://facebook.com/convertflow/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Reeler",
+    "website": "https://reelertech.com/",
+    "description": "UGC (user-generated content) marketing enterprise SaaS platform",
+    "location": "Stockholm, Sweden",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/reelertech",
+      "facebook": "https://facebook.com/reelertech"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "IntenseDebate",
+    "website": "https://intensedebate.com/",
+    "description": "Blog commenting system",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/intensedebate",
+      "linkedin": "https://linkedin.com/company/intensedebate.com"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Roximity",
+    "website": "https://roximity.com/",
+    "description": "Location based alerts/deals",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ROXIMITY",
+      "linkedin": "https://linkedin.com/company/roximity",
+      "facebook": "https://facebook.com/roximity"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Justsnap",
+    "website": "https://justsnap.co/",
+    "description": "cloud based promotion & campaign management platform",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/justsnapapp",
+      "linkedin": "https://linkedin.com/company/justsnapapp",
+      "facebook": "https://facebook.com/JustSnapapp/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Prospero",
+    "website": "https://theprospero.io/",
+    "description": "Prospero fully automates email marketing for businesses that do not have a marketing team",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/prospero-inc"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Pika Insights",
+    "website": "https://pikainsights.com/",
+    "description": "Pika Insights exists because 90% of sales in Africa are recorded with pen and paper, making the data inaccessible to corporates. This is the informal trade, a $1 trillion dollar market that is expected to double in two years. But the small shops that make up this sector, cannot present data to vouch for their businesses. We offer them a bookkeeping app that improves their data, reduces risk for lenders, and generates data we sell to multiple industries for marketing and sales intelligence.",
+    "location": "Lagos, FCT, Nigeria",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pika-insights"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Optio",
+    "website": "https://optio.ai/",
+    "description": "Plug & Play Conversational Banking & Analytical Platform for the financial institutions",
+    "location": "Tbilisi, Georgia",
+    "social_media": {
+      "twitter": "https://twitter.com/optioai",
+      "linkedin": "https://linkedin.com/company/optio-ai",
+      "facebook": "https://facebook.com/OptioAI/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "SalesPlay X",
+    "website": "https://salesplayx.com/",
+    "description": "AI account planning for B2B sales",
+    "location": "Honolulu, Hawaii, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/salesplay-x"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Mae - Making Auto Easy",
+    "website": "https://makingautoeasy.com/",
+    "description": "Mae is building the future of car buying with smart, seamless, and personalized digital experiences--at scale.",
+    "location": "Richmond, British Columbia, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/makingautoeasy"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Cuál",
+    "website": "https://cual.co/",
+    "description": "Cual is the Yelp for Hispanics and launched in Los Angeles with over 60,000 business listings.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ohmndra3ikbrvxq6uv7c",
+    "location": "Woodland Hills, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cu%C3%A1l-corp",
+      "facebook": "https://facebook.com/visitacualco"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Whelp",
+    "website": "https://whelp.co/",
+    "description": "Whelp utilizes an AI-based chatbot to automate online customer support, and unifies customer communication across multiple platforms into one user-friendly intuitive interface.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getwhelp",
+      "linkedin": "https://linkedin.com/company/whelp",
+      "facebook": "https://facebook.com/getwhelp/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Conduit Virtual",
+    "website": "https://conduit.gg/",
+    "description": "The premium marketplace for the video game industry.\n\nWe want to help every game company find and transact with one another.\n\nTrack market movements and insights only on Conduit.",
+    "location": "Culver City, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/conduitgg"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "RunAgain",
+    "website": "https://runagain.com/",
+    "description": "RunAgain provides ONE integrated platform which serves the needs of both runners and organizers by enabling organizers to promote & sell bookings to their events, and runners to easily find & book quality events.  Join our community of 20k+ runners and 60",
+    "location": "Lillestrøm, Akershus, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/runagain"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "EnkiAI",
+    "website": "https://enkiai.com/",
+    "description": "Revenue, business development, and investment teams use Enki to discover the next business opportunities.",
+    "location": "Valencia, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/enkiai",
+      "linkedin": "https://linkedin.com/company/enkiai",
+      "facebook": "https://facebook.com/enkiai"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Spaciously",
+    "website": "https://spaciouslyretail.com/",
+    "description": "Spaciously helps small brands sell at popular retailers, bringing traffic to their stores",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/spaciously"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Review Piper",
+    "website": "https://reviewpiper.com/",
+    "description": "Review Piper drives teams to reach final draft consensus in fewer cycles before publishing promotional content to providers and patients.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/reviewpiper"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Chpter",
+    "website": "https://chpter.co/",
+    "description": "Manage your online sales, message your customers and automate your marketing all in one place.",
+    "location": "Nairobi, Kenya",
+    "social_media": {
+      "twitter": "https://twitter.com/join_chptr",
+      "linkedin": "https://linkedin.com/company/chpter-holdings"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Porter Metrics",
+    "website": "https://portermetrics.com/",
+    "description": "Zapier for Data Visualization. Porter automates marketing reporting for small to medium size businesses and agencies.",
+    "location": "Manizales, Colombia",
+    "social_media": {
+      "twitter": "https://twitter.com/portermetrics",
+      "linkedin": "https://linkedin.com/company/porter-metrics"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Warrant",
+    "website": "https://hellowarrant.com/",
+    "description": "Warrant is building the GitHub for marketing to ensure communications are reviewed, on-brand, and risk-free. (Marketing Compliance for Fintechs and Financial Services)",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/warrant"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "peel",
+    "website": "https://getpeel.ai/",
+    "description": "peel connects prospects and customers with companies through a safe and predictable, incentivized journey that enhances engagement and conversion.",
+    "location": "Bend, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/chatgems"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Myna",
+    "website": "https://mynainsights.com/",
+    "description": "ID digital presence weaknesses and automatically fix them with AI",
+    "location": "Lansdale, Pennsylvania, United States",
+    "social_media": {},
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Cancer Mutual",
+    "website": "https://cancerfoundation.org.za/",
+    "description": "Digital products - such as the risk assessment tool, the self-check reminders and walkthroughs - are built to raise awareness and help people reduce exposure to cancer risk factors, reaching over a million South Africans each month.",
+    "location": "Cape Town, South Africa",
+    "social_media": {},
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "PandoPartner",
+    "website": "https://pandopartner.com/",
+    "description": "PandoPartner provides simplified and modernized sponsorship management. The platform helps sports organizations centralize their sponsorship data and activities - leading to more automation and efficiency on the back end of sponsorship management.",
+    "location": "Georgetown, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pandopartner"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Cup Carrier Media",
+    "website": "https://cupcarrier.meida/",
+    "description": "Cup Carrier Media provides handy advertising for better engagement. Providing 40x the engagement, Cup Carrier Media is changing sports sponsorships and out-of-home marketing with unique Portable Billboard(tm) drink carriers and a connected digital engagement",
+    "location": "Calgary, Alberta, Canada",
+    "social_media": {},
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Ripple AI",
+    "website": "https://getripple.ai/",
+    "description": "Ripple is an all-in-one marketing platform that uses AI to help small brands plan and generate content, run ads, manage email and SMS campaigns, and gain insights from their data.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GetRippleAI",
+      "linkedin": "https://linkedin.com/company/ripple-ai"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Freespeech",
+    "website": "https://freespeechnow.ai/",
+    "description": "Platform providing users with the most important and timeless content heard in multiple languages in incredible voices.",
+    "location": "Long Island City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/freespeechlab",
+      "linkedin": "https://linkedin.com/company/freespeechnow"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Artboard Studio",
+    "website": "https://artboard.studio/",
+    "description": "Artboard Studio is an online graphic design and animation platform for digital branding and content creation.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/artboard_studio",
+      "linkedin": "https://linkedin.com/company/artboard-studio",
+      "facebook": "https://facebook.com/artboardstudio"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Virtual Tables",
+    "website": "https://virtualtables.com/",
+    "description": "Virtual Tables is a virtual events solutions company, offering services and products to elevate all events into the virtual space. DigiSign is one of the virtual engagement products created and powered by Virtual Tables.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/VRTLlive",
+      "linkedin": "https://linkedin.com/company/virtual-tables"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Vesta",
+    "website": "https://eventvesta.com/",
+    "description": "Vesta is an Event Management Platform that connects communities through events.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xquhfzddpnuepvv2qooq",
+    "location": "Ralston, Nebraska, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/eventvesta",
+      "linkedin": "https://linkedin.com/company/eventvesta",
+      "facebook": "https://facebook.com/pg/eventvesta/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "United Market",
+    "website": "https://unitedmarket.com/",
+    "description": "United Market is a tool for music creators and executives to collaborate, get discovered, and increase their number of placements.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/followtheum",
+      "linkedin": "https://linkedin.com/company/unitedmarket"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Noetic Digital",
+    "website": "https://noeticdigital.info/",
+    "description": "For organisations that need fast, affordable and accurate research, Noetic enables a collaborative relationship with their market; turning insight into action and enabling more informed, less biassed decision-making. \n(Imagine an AI agent that bridges your company and market, acting as your customers' voice.)",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ckbd6mjaft11guincx2z",
+    "location": "Terang, Victoria, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/19063944"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Fêtefully",
+    "website": "https://fetefully.com/",
+    "description": "Fetefully digitizes wedding planning experiences so planners can generate more revenue while providing elite services to their customers.",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Fetefully_",
+      "linkedin": "https://linkedin.com/company/f%C3%AAtefully",
+      "facebook": "https://facebook.com/fetefully/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Agent Lunar",
+    "website": "https://luniate.ai/",
+    "description": "For SMBs struggling with customer acquisition, our mobile-first SaaS platform equips them with three AI agents who automate the sales, marketing, and CX funnel to supercharge their growth.",
+    "location": "Grand Cayman, George Town, Cayman Islands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/agentlunar"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Xena Intelligence",
+    "website": "https://xenaintelligence.com/",
+    "description": "Xena is an AI-powered ecommerce growth platform.",
+    "location": "Louisville, Kentucky, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/IncXena",
+      "linkedin": "https://linkedin.com/company/xena-intelligence",
+      "facebook": "https://facebook.com/xenaintelligence"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Visuo",
+    "website": "https://visuopro.com/",
+    "description": "Visuo helps customer-centric brands elevate their customer experience to deepen customer relationships, boost acquisition, and drive loyalty & retention @ scale with the power of AI-Driven, Personalised Video Experiences!",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xm19so7n0veu7udvxq8h",
+    "location": "Chatswood, New South Wales, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/visuopro"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Shutterspeed",
+    "website": "https://shutterspeed.io/",
+    "description": "Creativity driven by data",
+    "location": "Auckland, New Zealand",
+    "social_media": {
+      "twitter": "https://twitter.com/shutterspeed",
+      "linkedin": "https://linkedin.com/company/shutterspeedio"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "NEVAM CX",
+    "website": "https://nevamcx.com/",
+    "description": "Source of truth for your customer experience",
+    "location": "Woolooware, New South Wales, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nevam-cx"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Heatseeker",
+    "website": "https://heatseeker.ai/",
+    "description": "Heatseeker offers Growth Hacking Services and helps startups in testing and learning in the market.",
+    "location": "Bundall, Queensland, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/heatseekerai"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Gymble",
+    "website": "https://gymble.us/",
+    "description": "Gymble is a dual-sided sports and fitness marketplace that allows users to search, find and pay for personal training, facility rentals, and fitness experiences",
+    "location": "Newark, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gymbleapp",
+      "linkedin": "https://linkedin.com/company/gymble-inc",
+      "facebook": "https://facebook.com/GymbleInc/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Digiphy",
+    "website": "https://digiphy.it/",
+    "description": "Digiphy is a SaaS marketing platform that activates physical products and marketing assets, transforming them into an always-on digital marketing channel. We combine page building with connected technology to seamlessly bridge physical and digital.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Digiphy_it",
+      "linkedin": "https://linkedin.com/company/digiphyit",
+      "facebook": "https://facebook.com/Digiphy.it"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Litlyx",
+    "website": "https://litlyx.com/",
+    "description": "Cookie-less, AI-powered website analytics platform. Get started in 30 seconds from signup.",
+    "location": "Rome, Rome, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/litlyx"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "VOIDS",
+    "website": "https://voids.ai/",
+    "description": "Providing technology empowering brands, businesses, and people to build a sustainable e-commerce ecosystem for all.",
+    "location": "Hamburg, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/void's-sl"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Home Game",
+    "website": "https://hmgm.io/",
+    "description": "Platform for the best recreational sports experiences",
+    "location": "Jersey City, New Jersey, United States",
+    "social_media": {},
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Feeder",
+    "website": "https://getfeeder.com/",
+    "description": "Feeder is a facial recognition app that analysis instant facial reactions of the audience while watching content.",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/feedermetrics",
+      "linkedin": "https://linkedin.com/company/getfeeder",
+      "facebook": "https://facebook.com/FeederMetrics/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "ARGrid",
+    "website": "https://ar-grid.com/",
+    "description": "ARgrid is a marketplace for shopping using augmented reality. We partner with small businesses that don't have the resources to create 3D models of their products for online shopping and advertising. We build AR e-commerce stores for businesses and enable anyone to set up a top-notch AR e-commerce solution without needing to code.",
+    "location": "Lodi, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/argrid"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "BOxES 4",
+    "website": "https://boxesdevices.com/",
+    "description": "We're powering the future of retail combining physical and digital technology to democratize convenient, space-efficient, affordable & sustainable retail!",
+    "location": "Minneapolis, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Boxesdevices",
+      "linkedin": "https://linkedin.com/company/boxes-dispositivos-dispensadores",
+      "facebook": "https://facebook.com/Boxes-dispositivos-dispensadores-103733117941696"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "TruLeague",
+    "website": "https://truleague.com/",
+    "description": "Digitize Your Ambassador Program to Engage Prospects and Increase Enrollment Yield",
+    "location": "Newton, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/truleague"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Pardon",
+    "website": "https://pardon-app.com/",
+    "description": "Boosting sales of Restaurants&Hotels and hospitality brands with AI.",
+    "location": "Istanbul, Istanbul, Turkey",
+    "social_media": {
+      "twitter": "https://twitter.com/Pardon_tr",
+      "linkedin": "https://linkedin.com/company/pardonapp",
+      "facebook": "https://facebook.com/pardonturkey/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Recotap",
+    "website": "https://recotap.com/",
+    "description": "Providing a one-tap extreme personalization engine for content publishers",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/sf7yl2yqgbhnm8pzpq4e",
+    "location": "Bengaluru, India",
+    "social_media": {
+      "twitter": "https://twitter.com/recotap",
+      "linkedin": "https://linkedin.com/company/recotap",
+      "facebook": "https://facebook.com/recotap/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "THX Network",
+    "website": "https://thx.network/",
+    "description": "Low-code infrastructure and tooling, making web3 accessible for web2 communities and creators, increasing their engagement and revenue.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xj5xq5wrgrfghi4kqnhn",
+    "location": "Amsterdam, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/thxprotocol",
+      "linkedin": "https://linkedin.com/company/thxprotocol"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Rush Roto",
+    "website": "https://rushrotostudio.com/",
+    "description": "Create professional product images instantly.",
+    "location": "Smyrna, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RushRoto",
+      "linkedin": "https://linkedin.com/company/rush-roto",
+      "facebook": "https://facebook.com/groups/rushrotoapp"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Peerkat",
+    "website": "https://peerkat.com/",
+    "description": "Fungible token data for NFT related projects on the XRPL",
+    "location": "Stowmarket, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/PeerkatOfficial",
+      "linkedin": "https://linkedin.com/company/peerkatofficial",
+      "facebook": "https://facebook.com/itspeerkat/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Neufluence",
+    "website": "https://neufluence.com/",
+    "description": "SaaS-Based, inclusion-focused creator marketplace",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/neufluence",
+      "facebook": "https://facebook.com/neufluence"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Engyne",
+    "website": "https://engyne.ai/",
+    "description": "AI agents for B2B Content Marketing",
+    "location": "Brampton, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/engynehq"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Demtec",
+    "website": "https://dem-tec.com/",
+    "description": "Talking on the phone wastes time. We can fix that.",
+    "location": "State College, Pennsylvania, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/democracytec"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "DeltaGenAI",
+    "website": "https://deltagen.ai/",
+    "description": "DeltaGen transforms AI from a complex tool for the elite into an accessible, powerful asset for employees at all levels. Our enterprise AI platform eliminates the need for prompting and coding, delivering tailored results seamlessly. Key features include LinkedIn integration, role-specific workflows, and multi-model capabilities, all secured with top-tier data privacy. Join us in redefining AI usability and driving widespread adoption.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ailamoapp",
+      "linkedin": "https://linkedin.com/company/deltagenai",
+      "facebook": "https://facebook.com/ailamoapp"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Buzzbassador",
+    "website": "https://buzzbassador.com/",
+    "description": "Building the first ever auto-pilot mode for creator marketing",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/buzzbassador",
+      "linkedin": "https://linkedin.com/company/buzzbassador",
+      "facebook": "https://facebook.com/buzzbassador"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "8LAB",
+    "website": "https://8lab.ai/",
+    "description": "8LAB is the members-only hub where creatives and tech pros connect and innovate with guidance from industry leaders + AI, Agent 8.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/join8lab"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "StoryXpress",
+    "website": "https://storyxpress.co/",
+    "description": "Create, host and track videos at scale.",
+    "location": "Roselle, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/StoryXpress",
+      "linkedin": "https://linkedin.com/company/storyxpress",
+      "facebook": "https://facebook.com/StoryXpress"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "alive5",
+    "website": "https://alive5.com/",
+    "description": "Messaging meets payments",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wearealive5",
+      "linkedin": "https://linkedin.com/company/21589623",
+      "facebook": "https://facebook.com/wearealive5"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Streamfog",
+    "website": "https://streamfog.com/",
+    "description": "We're transforming the streaming landscape with AR advertising. From Twitch to YouTube to Netflix, we believe traditional commercial breaks are outdated. Our in-content solutions disrupt the industry, not your entertainment.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/streamfog"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Purposely",
+    "website": "https://purposely.ai/",
+    "description": "For advertisers that grapple with $100M in wasted ad spend per year, Purposely.ai helps them reclaim that waste by automating the analysis and production of ad creatives using artificial intelligence.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/purposely_ai",
+      "linkedin": "https://linkedin.com/company/purposely-ai"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Loopholes",
+    "website": "https://loopholes.com/",
+    "description": "Introducing Loopholes AI--the first AI-powered solution for marketing compliance. Instantly analyze your text and images to detect potential policy violations before they become costly mistakes. With Loopholes AI, you can publish with confidence, knowing you're always staying on the right side of compliance.",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/loopholes"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Impact Bytes",
+    "website": "https://impactbytes.io/",
+    "description": "The fair and sustainable search engine that collects from over 300 fashion brands in one place.",
+    "location": "Amsterdam, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/Project_Cece",
+      "linkedin": "https://linkedin.com/company/project-cece",
+      "facebook": "https://facebook.com/projectcece/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Robin",
+    "website": "https://robin.live/",
+    "description": "Robin is an intelligent concierge - helping businesses source and secure amazing live experiences for their clients and employees.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/%20RobinConcierge",
+      "linkedin": "https://linkedin.com/company/robin-hood-pro-ltd",
+      "facebook": "https://facebook.com/RobinhoodproAPP"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Compose Health",
+    "website": "https://composehealth.ai/",
+    "description": "Compose Health creates compliant, compelling content in moments to accelerate customer engagement, medical education, and scientific progress.",
+    "location": "Ottawa, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/composehealth"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Pioneerwork",
+    "website": "https://pioneerwork.co/",
+    "description": "Zag streamlines dropshipping for retailers, facilitating swift supplier integration and transaction. Our platform enables seamless bidirectional exchange of product info, inventory, orders, returns, invoices, and payments between retailers and suppliers. With Zag, onboarding takes minutes, allowing for rapid assortment expansion without inventory risks, supported by integration with major Japanese e-commerce platforms.",
+    "location": "Tokyo, Japan",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/yoichigoto"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "PIEPIE",
+    "website": "https://piepie.ai/",
+    "description": "PIEPIE.ai is a video generation platform that helps marketers and videographers create compelling social media videos at scale by leveraging AI to improve clarity, increase speed, and substantially reduce costs",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/piepie-ai"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Flyte",
+    "website": "https://flyteai.com/",
+    "description": "AI platform that helps sales teams sell more and sell better by extracting conversational intelligence from client calls",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/flytenotes",
+      "linkedin": "https://linkedin.com/company/flyteai",
+      "facebook": "https://facebook.com/thisisflyte"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Digital Will",
+    "website": "https://digitalwill.co.jp/",
+    "description": "Digital Will's WORTAL empowers game studios to swift distribution, enhanced monetization, and cost-effective efficiency",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/tgpfd36bgksi4tma1hfi",
+    "location": "Minato City, Japan",
+    "social_media": {
+      "twitter": "https://twitter.com/digitalwillinc",
+      "linkedin": "https://linkedin.com/company/digital-will",
+      "facebook": "https://facebook.com/digitalwillinc/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "dealpad",
+    "website": "https://dealpad.io/",
+    "description": "Dealpad is a Virtual Sales Room Platform that transforms more leads into clients and closes transactions on time.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cahstqjns5yfrwtgoovu",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dealpad-io"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "What She Said App",
+    "website": "https://whatshesaidapp.com/",
+    "description": "A trusted referral app for all women and non-binary out there and the businesses they run, they use and they love.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/what-she-said-inc",
+      "facebook": "https://facebook.com/WhatSheSaidInc"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Testimonial IQ",
+    "website": "https://testimonialiq.com/",
+    "description": "For financial advisors that want to take control of their digital presence, Testimonial IQ provides a compliance-based solution for generating client reviews, social proof, and marketing content.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/testimonial-iq"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Superfan",
+    "website": "https://superfan.social/",
+    "description": "Superfan hosts a vibrant global community of music fans and the artists they love.",
+    "location": "Columbus, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/superfan_social",
+      "linkedin": "https://linkedin.com/company/superfansocial"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Sotira",
+    "website": "https://sotira.co/",
+    "description": "For ecommerce businesses that struggle to price products and understand which products are the most profitable, Sotira analyzes and compares growth for online stores, tracks metrics, and helps businesses make informed choices about pricing and listing.",
+    "location": "Menlo Park, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Sotira_app",
+      "linkedin": "https://linkedin.com/company/sotira-fintech"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Reality Trail",
+    "website": "https://realityjourneys.com/",
+    "description": "Step into the future with Reality Trail! Our platform empowers businesses to create captivating augmented reality experiences that shape consumer behavior in alignment with their goals",
+    "location": "Tulsa, Oklahoma, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/reality-trail"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Profeci",
+    "website": "https://profeci.ai/",
+    "description": "Profeci is the developer of a decision intelligence platform designed to simplify operations of marketing teams.",
+    "location": "Calabasas, California, United States",
+    "social_media": {},
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Besample",
+    "website": "https://besample.app/",
+    "description": "Besample is a data marketplace that empowers research beyond the West. \n\nWith a focus on the growing Global South, Besample provides human-focused researchers across healthcare, industry, and academia with access to primary data from a diverse and representative pool of people in 42 countries of Africa, Asia, Latin America, and CIS.",
+    "location": "Tallahassee, Florida, United States",
+    "social_media": {},
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Good Audience",
+    "website": "https://goodaudience.com/",
+    "description": "Fully managed social media for businesses",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/GoodAudience",
+      "linkedin": "https://linkedin.com/company/3606692",
+      "facebook": "https://facebook.com/goodaudience"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Vyrtual",
+    "website": "https://vyrtual.co/",
+    "description": "Vyrtual is a task management platform offering C-Suite as a Service to pre-seed and seed stage startups, powered by both AI and human resources.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/vyrtual"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Textual",
+    "website": "https://textual.com/",
+    "description": "Textual builds Text-to-Buy programs that allow customers to buy their favorite products via text message without entering a credit card.",
+    "location": "Boise, Idaho, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/YEStobuy",
+      "linkedin": "https://linkedin.com/company/textual-com"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "SuperCopy",
+    "website": "https://supercopy.ai/",
+    "description": "Discover dynamic, data-driven personas that evolve with\r\nyour audience and market trends. Super Easy.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {},
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Tulay",
+    "website": "https://tulay.co/",
+    "description": "Tulay helps early-stage creators grow their businesses by developing credit models for capital allocators.",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gettulay",
+      "linkedin": "https://linkedin.com/company/gettulay",
+      "facebook": "https://facebook.com/GetTulay"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Reflekt Me",
+    "website": "https://reflektme.com/",
+    "description": "A B2B SaaS platform enabling beauty and fashion brands to monetize their user and employee generated content by curating and displaying images that reflect untapped online communities, resulting in a 1% top-line revenue increase for large brands.",
+    "location": "Sandy Springs, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/reflektme",
+      "linkedin": "https://linkedin.com/company/reflekt-me",
+      "facebook": "https://facebook.com/reflektme/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Imaginario",
+    "website": "https://imaginario.ai/",
+    "description": "Imaginario is an AI-powered platform and API that identifies specific moments in video and audio in seconds, allowing content marketers and creators to discover, find, and clip content faster.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kr3yfby5i9nseeliudjz",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/imaginario2030",
+      "linkedin": "https://linkedin.com/company/imaginario-ai"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Hello Audio",
+    "website": "https://helloaudio.fm/",
+    "description": "We get your content into their ears.",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/helloaudiofm",
+      "linkedin": "https://linkedin.com/company/helloaudiofm",
+      "facebook": "https://facebook.com/helloaudiofm"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Gift Nabü",
+    "website": "https://giftnabu.com/",
+    "description": "A gift registry for kids where friends and family come together to gift activities and experiences instead of toys and stuff.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nabulife",
+      "linkedin": "https://linkedin.com/company/giftnabu",
+      "facebook": "https://facebook.com/gift.nabu1"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Two to Tango",
+    "website": "https://twototango.co/",
+    "description": "A borderless business networking platform that transforms connections and opportunities into real deals for everyone.",
+    "location": "Bogotá, Colombia",
+    "social_media": {
+      "twitter": "https://twitter.com/twototangomatch",
+      "linkedin": "https://linkedin.com/company/tttnetworking",
+      "facebook": "https://facebook.com/twoto.tango.54"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "RivetApp",
+    "website": "https://rivetapp.co/",
+    "description": "Software that helps artists and content creators understand and nurture fan relationships to sell more valuable content and products.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/qrwbtg2ylit4ruhw2zzs",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/userivetapp",
+      "linkedin": "https://linkedin.com/company/rivet-app",
+      "facebook": "https://facebook.com/UseRivetApp/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Wise Assistant",
+    "website": "https://wiseassistant.com/",
+    "description": "Wise is your partner in harnessing the power of community marketing. Building and nurturing a community around your brand is essential for success.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gogetwise",
+      "linkedin": "https://linkedin.com/company/gogetwise",
+      "facebook": "https://facebook.com/wiseassistant/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Sproxxy",
+    "website": "https://sproxxy.com/",
+    "description": "Sproxxy (Speaker + Proxy) is an enterprise Saas solution used to book and manage corporate spokespeople at industry events and find out the ROI and business impact of your efforts. With Sproxxy, you cut waste sponsoring, attending and speaking at events.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sproxxyai",
+      "linkedin": "https://linkedin.com/company/sproxxy"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "NGHBR",
+    "website": "https://nghbr.app/",
+    "description": "NGHBR is a mobile app that allows users to know more about the people around them in real-time.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/twfozzqygrfiqrqkbf34",
+    "location": "Upper Marlboro, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nghbr",
+      "linkedin": "https://linkedin.com/company/nghbr-inc"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Hipclip",
+    "website": "https://hipclip.ai/",
+    "description": "Create amazing content with ease using Hipclip, the ultimate editing platform for creators, startups, and agencies. Our text-based editing feature allows you to easily manipulate your media files",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/usehipclip",
+      "linkedin": "https://linkedin.com/company/77760449"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Ceemo",
+    "website": "https://perfectlypitched.co/",
+    "description": "At Perfectly Pitched, we're automating our pitch methods that break past bias & get founders funded, raising $10m in the past year.",
+    "location": "Sterling, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PitchedDC",
+      "linkedin": "https://linkedin.com/company/perfectlypitched"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "VacayHQ",
+    "website": "https://vacayhq.com/",
+    "description": "VacayHQ helps you boost your credit so you can qualify for the best travel credit cards and earn free travel.",
+    "location": "Las Vegas, Nevada, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/vacayhq",
+      "facebook": "https://facebook.com/VacayHeadquarters/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "PairAnything",
+    "website": "https://pairanything.com/",
+    "description": "For large retailers, like Target, that want to sell more to shoppers, especially who are underserved, PairAnything provides digital in-store food & wine pairings and actionable insights to increase cart size.",
+    "location": "Davis, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pairanything",
+      "linkedin": "https://linkedin.com/company/locumdoc",
+      "facebook": "https://facebook.com/PairAnything/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "askMay",
+    "website": "https://askmay.com/",
+    "description": "Build better products faster with an AI copilot for product managers",
+    "location": "North Miami, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/askmayai"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Moneo",
+    "website": "https://moneo.cash/",
+    "description": "We deliver digital promotions to in-store consumers and capture their data in a cost-effective & scalable way to help brands drive sales & optimize digital advertising ROI. \n\nWith our cashback rewards platform  millions of people can save money on their everyday spending.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jq9kchy0yoy1ymt2cpel",
+    "location": "Mexico City, Federal District, Mexico",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/moneo-cash",
+      "facebook": "https://facebook.com/Moneo.cash"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "REX",
+    "website": "https://rexd.com/",
+    "description": "\"MarketBloc is the first multichannel AI ad platform with your own AI CMO, Rex, automating ads across social, Google, and display--without the $10k agency fee, and using ad fraud tech that boosts your spend by up to 9x. Welcome to the future of digital advertising!\"",
+    "location": "Minneapolis, Minnesota, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/marketbloc"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "AVIEW",
+    "website": "https://aviewint.com/",
+    "description": "Aview translates, dubs and redistributes content to unlock creators' full global audience.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ji4rbpzsbnxqag45azue",
+    "location": "Ancaster, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/aview-international",
+      "facebook": "https://facebook.com/aviewinternational"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Leadfy",
+    "website": "https://leadfy.me/",
+    "description": "Leadfy is a marketing company that offers digital media such as Google, Facebook, and Instagram through paid ads and inbound marketing.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/g6ww6yone7tvlenrqqp4",
+    "location": "BRASILIA, Distrito Federal, Brazil",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/leadfyme"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Konvas AI",
+    "website": "https://konvas.ai/",
+    "description": "We are building global AI agents for e-commerce brands to help automate marketing, improve decision-making, and grow sales.",
+    "location": "Hutto, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/konvas-ai"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Fivvy",
+    "website": "https://getfivvy.com/",
+    "description": "Mobile data and analytics platform that delivers data and insights to succeed in a data driven economy.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wjabb9ucv0pqstb9514w",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/74370828"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Simpu",
+    "website": "https://simpu.co/",
+    "description": "Build better experiences for your customers.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gj5y3kstsrmpq3udfuuy",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/simpuinc",
+      "linkedin": "https://linkedin.com/company/simpu-inc",
+      "facebook": "https://facebook.com/SimpuHq"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Cadly",
+    "website": "https://cadly.ai/",
+    "description": "Cultivating creativity through community.",
+    "location": "Powder Springs, Georgia, United States",
+    "social_media": {},
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Autoparti",
+    "website": "https://autoparti.com.co/",
+    "description": "Autoparti is a SalesTech SaaS, giving to SMBs in the automotive industry the tools to grow with technology by reducing marketing costs while boosting digital sales",
+    "location": "Aventura, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/autoparti",
+      "facebook": "https://facebook.com/autoparti/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Creator Loop",
+    "website": "https://node-app.com/",
+    "description": "Influencer marketing in 3 clicks.",
+    "location": "Markham, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/nodeinfluencers",
+      "linkedin": "https://linkedin.com/company/node-app",
+      "facebook": "https://facebook.com/node.influencers/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Creativo",
+    "website": "https://creativo.ai/",
+    "description": "Creativo is a revolutionary AI that replaces your entire marketing department. Our platform crafts compelling campaigns, optimizes engagement, and delivers data-driven results--without the overhead of a traditional team. Scale rapidly, cut costs, and outperform competitors with intelligent automation that handles everything from creative content to analytics. Welcome to the future of marketing.",
+    "location": "Tulsa, Oklahoma, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/creativo-ai"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "socedo",
+    "website": "https://socedo.com/",
+    "description": "Socedo helps businesses discover leads and drive more sales/conversions on the social web.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SocedoApp",
+      "linkedin": "https://linkedin.com/company/socedo",
+      "facebook": "https://facebook.com/Socedo"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Noir Food",
+    "website": "https://noirfood.com/",
+    "description": "A place where food and wine experiences meet a global community and a brand at the intersection of content, community and commerce built around food and wine.",
+    "location": "Newark, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/noirfood",
+      "facebook": "https://facebook.com/noirfood"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Knowtify",
+    "website": "https://knowtify.io/",
+    "description": "Engagement Marketing platform for software companies",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/knowtifyio",
+      "linkedin": "https://linkedin.com/company/3583419"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "VoiceKitt",
+    "website": "https://linkedin.com/company/voicekitt",
+    "description": "Prepare yourself to witness the next generation of productivity, communication, and collaboration!",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/voicekitt"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "SyncSpot",
+    "website": "https://linkedin.com/company/syncspot",
+    "description": "SyncSpot is an award-winning hybrid agency that has developed a matchmaking engine to help our clients identify the best partnership strategies",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/SyncSpotWW",
+      "linkedin": "https://linkedin.com/company/syncspot"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "SportSyncTech",
+    "website": "https://linkedin.com/company/sportsynctech",
+    "description": "SportSyncTech is empowering amateur & professional athletes with Big data, Artificial intelligence and Blockchain.",
+    "location": "Duppigheim, Grand Est, France",
+    "social_media": {
+      "twitter": "https://twitter.com/SportSyncTech",
+      "linkedin": "https://linkedin.com/company/sportsynctech"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "SkyGlue",
+    "website": "https://linkedin.com/company/skyglue.com",
+    "description": "A powerful Google Analytics extension that enables people tracking and actions tracking in the simplest way",
+    "location": "Santa Clara, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SkyGlue",
+      "linkedin": "https://linkedin.com/company/skyglue.com",
+      "facebook": "https://facebook.com/skyglue"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Shipright HQ",
+    "website": "https://linkedin.com/company/shipright",
+    "description": "Track product feedback in one organized place",
+    "location": "Rotterdam, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/shiprighthq",
+      "linkedin": "https://linkedin.com/company/shipright",
+      "facebook": "https://facebook.com/shiprighthq/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Price Backers",
+    "website": "https://linkedin.com/company/71828543",
+    "description": "PriceBackers is an AI Trust relations Management (TRM) platform that aims to increase online shops customer retention.",
+    "location": "Katzir, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/71828543",
+      "facebook": "https://facebook.com/pricebackers"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Pollen",
+    "website": "https://linkedin.com/company/pollencareers",
+    "description": "Pollen is a marketing automation platform that enables online retailers to acquire new users more simply and cost effectively than Facebook and Google.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GetPollen",
+      "linkedin": "https://linkedin.com/company/pollencareers",
+      "facebook": "https://facebook.com/polnads/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Jagger",
+    "website": "https://linkedin.com/company/jagger-solutions",
+    "description": "Rockstar marketing for brands. Drive more sales by harnessing the marketing power of your local resellers",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/jagger_ai",
+      "linkedin": "https://linkedin.com/company/jagger-solutions"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Epic Playground",
+    "website": "https://linkedin.com/company/epic-playground-inc-",
+    "description": "Inboundgeo leverages existing inbound marketing efforts to reveal your website visitor's physical address for offline retargeting.",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/inboundgeo",
+      "linkedin": "https://linkedin.com/company/epic-playground-inc-",
+      "facebook": "https://facebook.com/EpicPlaygroundHQ"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Contellio",
+    "website": "https://linkedin.com/company/10051020?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId%3A2592863651467320724097%2CVSRPtargetId%3A10051020%2CVSRPcmpt%3Aprimary",
+    "description": "Companies use Contellio to create stunning marketing designs that sell.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/contellio",
+      "linkedin": "https://linkedin.com/company/10051020?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId%3A2592863651467320724097%2CVSRPtargetId%3A10051020%2CVSRPcmpt%3Aprimary",
+      "facebook": "https://facebook.com/contellio"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Constellation",
+    "website": "https://linkedin.com/company/constellation-oil-services",
+    "description": "Constellation is an on-demand growth team for modern businesses.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ByConstellation",
+      "linkedin": "https://linkedin.com/company/constellation-oil-services",
+      "facebook": "https://facebook.com/byconstellation"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Attentive",
+    "website": "https://linkedin.com/company/attentive",
+    "description": "AI Assistant for Sales teams",
+    "location": "Braga, Portugal",
+    "social_media": {
+      "twitter": "https://twitter.com/attentiveus",
+      "linkedin": "https://linkedin.com/company/attentive",
+      "facebook": "https://facebook.com/attentiveus"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "Facenote",
+    "website": "https://linkedin.com/company/facenote",
+    "description": "Biometric payments and access via facial recognition in a private, secure and compliant way.",
+    "location": "Anaheim, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/facenoteme",
+      "linkedin": "https://linkedin.com/company/facenote",
+      "facebook": "https://facebook.com/Facenoteme-166182484006366"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  },
+  {
+    "name": "zenchef",
+    "website": "https://zenchef.com/",
+    "description": "The easiest marketing and booking system for restaurants. Manage your bookings, reviews, database and emailing all in one place",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/zenchef",
+      "linkedin": "https://linkedin.com/company/zenchef",
+      "facebook": "https://facebook.com/ZenchefFrance/"
+    },
+    "industry": "Marketing tech",
+    "industry_slug": "marketing-tech"
+  }
+]

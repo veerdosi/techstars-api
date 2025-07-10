@@ -1,0 +1,24 @@
+{
+  "name": "NexusEdge",
+  "slug": "nexusedge",
+  "website": "https://nexusedge.com/",
+  "description": "Define Your Career Path",
+  "one_liner": "Define Your Career Path",
+  "location": "Los Angeles, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getnexusedge",
+    "linkedin": "https://linkedin.com/company/15187553",
+    "facebook": "https://facebook.com/NexusEdge/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nexusedge",
+  "api": "/api/companies/nexusedge.json"
+}

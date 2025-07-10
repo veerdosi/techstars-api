@@ -1,0 +1,24 @@
+{
+  "name": "Woorly",
+  "slug": "woorly",
+  "website": "https://linkedin.com/company/woorly",
+  "description": "Woorly is a referral and rewards platform to capture word of mouth marketing for small businesses.",
+  "one_liner": "Woorly is a referral and rewards platform to capture word of mouth marketing for small businesses.",
+  "location": "Chattanooga, Tennessee, United States",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/sixry7vh3yp8cml4w36z",
+  "social_media": {
+    "twitter": "https://twitter.com/mywoorly",
+    "linkedin": "https://linkedin.com/company/woorly",
+    "facebook": "https://facebook.com/mywoorly"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/woorly",
+  "api": "/api/companies/woorly.json"
+}

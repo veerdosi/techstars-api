@@ -1,0 +1,24 @@
+{
+  "name": "Localize",
+  "slug": "localize",
+  "website": "https://localizejs.com/",
+  "description": "Translate a website with one line of code",
+  "one_liner": "Translate a website with one line of code",
+  "location": "Kingston, New York, United States",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/localizejs",
+    "linkedin": "https://linkedin.com/company/localizecorp",
+    "facebook": "https://facebook.com/localizejs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/localize",
+  "api": "/api/companies/localize.json"
+}

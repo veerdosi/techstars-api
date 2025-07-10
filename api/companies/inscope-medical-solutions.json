@@ -1,0 +1,24 @@
+{
+  "name": "Inscope Medical Solutions",
+  "slug": "inscope-medical-solutions",
+  "website": "https://inscopemedical.com/",
+  "description": "Inscope Medical has developed an innovative technology that optimizes intubation, improving this high-risk procedure's efficiency, speed and safety.",
+  "one_liner": "Inscope Medical has developed an innovative technology that optimizes intubation, improving this high-risk procedure's efficiency, speed and safety.",
+  "location": "New Albany, Indiana, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/inscopemedical",
+    "linkedin": "https://linkedin.com/company/inscope-medical-solutions-llc",
+    "facebook": "https://facebook.com/pages/Inscope-Medical-Solutions-LLC/296367893885195"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/inscope-medical-solutions",
+  "api": "/api/companies/inscope-medical-solutions.json"
+}

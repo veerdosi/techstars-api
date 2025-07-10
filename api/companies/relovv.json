@@ -1,0 +1,24 @@
+{
+  "name": "Relovv",
+  "slug": "relovv",
+  "website": "https://linkedin.com/company/relovv",
+  "description": "Relovv is the new, sustainable fashion marketplace for Gen-Z consumers. Curious how she works? It's as easy as buy, sell, and relovv! #ReduceReuseRelovv",
+  "one_liner": "Relovv is the new, sustainable fashion marketplace for Gen-Z consumers. Curious how she works? It's as easy as buy, sell, and relovv! #ReduceReuseRelovv",
+  "location": "Los Angeles, California, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/relovv",
+    "linkedin": "https://linkedin.com/company/relovv",
+    "facebook": "https://facebook.com/relovvapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/relovv",
+  "api": "/api/companies/relovv.json"
+}

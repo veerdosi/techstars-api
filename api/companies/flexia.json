@@ -1,0 +1,23 @@
+{
+  "name": "Flexia",
+  "slug": "flexia",
+  "website": "https://flexiapilates.com/",
+  "description": "Flexia is a connected fitness company that brings the Pilates studio experience into your living room with our Pilates Reformer and online studio of classes.",
+  "one_liner": "Flexia is a connected fitness company that brings the Pilates studio experience into your living room with our Pilates Reformer and online studio of classes.",
+  "location": "Sacramento, California, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/flexiapilates",
+    "facebook": "https://facebook.com/flexiapilates"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/flexia",
+  "api": "/api/companies/flexia.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ARway",
+  "slug": "arway",
+  "website": "https://arway.app/",
+  "description": "We're powering camera devices with AI to recognize their surroundings without GPS for hyper-accurate location apps.",
+  "one_liner": "We're powering camera devices with AI to recognize their surroundings without GPS for hyper-accurate location apps.",
+  "location": "London, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/arway_app",
+    "linkedin": "https://linkedin.com/company/arway",
+    "facebook": "https://facebook.com/arwayapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/arway",
+  "api": "/api/companies/arway.json"
+}

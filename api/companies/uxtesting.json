@@ -1,0 +1,24 @@
+{
+  "name": "UXTesting",
+  "slug": "uxtesting",
+  "website": "https://uxtesting.io/",
+  "description": "UXTesting Inc. (UXTesting.io) is the leading remote user testing platform. We firmly believe that our Business Intelligence (BI) platform provides corporates with unfair market insights to achieve better UX and gain a competitive advantage. You can get us",
+  "one_liner": "UXTesting Inc. (UXTesting.io) is the leading remote user testing platform. We firmly believe that our Business Intelligence (BI) platform provides corporates with unfair market insights to achieve better UX and gain a competitive advantage. You can get us",
+  "location": "Menlo Park, California, United States",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/UXTestingIO",
+    "linkedin": "https://linkedin.com/company/uxtesting-inc-",
+    "facebook": "https://facebook.com/UXTesting.io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/uxtesting",
+  "api": "/api/companies/uxtesting.json"
+}

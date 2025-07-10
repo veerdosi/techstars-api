@@ -1,0 +1,24 @@
+{
+  "name": "Zify",
+  "slug": "zify",
+  "website": "https://linkedin.com/company/zify-co",
+  "description": "An Instant & dynamic carpooling app for short & medium distance commute",
+  "one_liner": "An Instant & dynamic carpooling app for short & medium distance commute",
+  "location": "Hyderabad, India",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/FollowZify",
+    "linkedin": "https://linkedin.com/company/zify-co",
+    "facebook": "https://facebook.com/zify.co/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/zify",
+  "api": "/api/companies/zify.json"
+}

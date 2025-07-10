@@ -1,0 +1,24 @@
+{
+  "name": "Dobby",
+  "slug": "dobby",
+  "website": "https://halosinsurance.com/",
+  "description": "The highest rated home services app on the app store.",
+  "one_liner": "The highest rated home services app on the app store.",
+  "location": "Washington, District of Columbia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/HalosInsurance",
+    "linkedin": "https://linkedin.com/company/hellodobby",
+    "facebook": "https://facebook.com/Hello-Dobby-1459700801000282"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dobby",
+  "api": "/api/companies/dobby.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "FAM",
+  "slug": "fam",
+  "website": "https://fam.live/",
+  "description": "SmackHigh is the place for teens to express themselves and be heard.",
+  "one_liner": "SmackHigh is the place for teens to express themselves and be heard.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/smackhigh",
+    "linkedin": "https://linkedin.com/company/fam-gmbh",
+    "facebook": "https://facebook.com/FAMMAGDEBURG"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fam",
+  "api": "/api/companies/fam.json"
+}

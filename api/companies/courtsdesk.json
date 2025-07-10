@@ -1,0 +1,24 @@
+{
+  "name": "Courtsdesk",
+  "slug": "courtsdesk",
+  "website": "https://courtsdesk.com/",
+  "description": "The ultimate business litigation research platform.",
+  "one_liner": "The ultimate business litigation research platform.",
+  "location": "Dublin, Ireland",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/courtsdesk",
+    "linkedin": "https://linkedin.com/company/courtsdesk",
+    "facebook": "https://facebook.com/courtsdesk/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/courtsdesk",
+  "api": "/api/companies/courtsdesk.json"
+}

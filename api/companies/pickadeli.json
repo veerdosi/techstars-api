@@ -1,0 +1,24 @@
+{
+  "name": "PickaDeli",
+  "slug": "pickadeli",
+  "website": "https://linkedin.com/company/11268601",
+  "description": "PickaDeli is the way to eat from restaurant at a lunch box price",
+  "one_liner": "PickaDeli is the way to eat from restaurant at a lunch box price",
+  "location": "Madrid, Spain",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PickaDeli_co",
+    "linkedin": "https://linkedin.com/company/11268601",
+    "facebook": "https://facebook.com/FudyBudy/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pickadeli",
+  "api": "/api/companies/pickadeli.json"
+}

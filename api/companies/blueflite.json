@@ -1,0 +1,23 @@
+{
+  "name": "blueflite",
+  "slug": "blueflite",
+  "website": "https://blueflite.com/",
+  "description": "Benefits of a helicopter, speed and access, but at the cost of operating a conventional van",
+  "one_liner": "Benefits of a helicopter, speed and access, but at the cost of operating a conventional van",
+  "location": "Austin, Texas, United States",
+  "industry": "Robotics and Drones",
+  "industry_slug": "robotics-drones",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/blueflite",
+    "facebook": "https://facebook.com/blueflite"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/blueflite",
+  "api": "/api/companies/blueflite.json"
+}

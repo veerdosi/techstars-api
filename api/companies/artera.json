@@ -1,0 +1,24 @@
+{
+  "name": "Artera",
+  "slug": "artera",
+  "website": "https://artera.io/",
+  "description": "Artera is the SaaS digital health leader in patient communications and two-time Best in KLAS winner in Patient Outreach.",
+  "one_liner": "Artera is the SaaS digital health leader in patient communications and two-time Best in KLAS winner in Patient Outreach.",
+  "location": "Santa Barbara, California, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Artera_io",
+    "linkedin": "https://linkedin.com/company/artera-io",
+    "facebook": "https://facebook.com/artera.io/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/artera",
+  "api": "/api/companies/artera.json"
+}

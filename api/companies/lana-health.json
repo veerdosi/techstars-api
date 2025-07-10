@@ -1,0 +1,23 @@
+{
+  "name": "Lana Health",
+  "slug": "lana-health",
+  "website": "https://lana.health/",
+  "description": "Lana Health is a one-of-a-kind modern patient experience platform, designed to simplify patient journeys while creating healthier and frictionless experiences for patients seeking care, whether in the hospital or at home.",
+  "one_liner": "Lana Health is a one-of-a-kind modern patient experience platform, designed to simplify patient journeys while creating healthier and frictionless experiences for patients seeking care, whether in the hospital or at home.",
+  "location": "San Francisco, California, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lhcumowgl7jwv1r3ikxy",
+  "social_media": {
+    "twitter": "https://twitter.com/lanahealth",
+    "linkedin": "https://linkedin.com/company/lanahealth"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lana-health",
+  "api": "/api/companies/lana-health.json"
+}

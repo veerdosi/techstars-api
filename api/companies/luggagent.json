@@ -1,0 +1,24 @@
+{
+  "name": "LuggAgent",
+  "slug": "luggagent",
+  "website": "https://linkedin.com/company/luggagent",
+  "description": "LuggAgent is about helping travellers achieve their goals, and we do it by creating a technological platform to connect all the stakeholders in the ecosystem.",
+  "one_liner": "LuggAgent is about helping travellers achieve their goals, and we do it by creating a technological platform to connect all the stakeholders in the ecosystem.",
+  "location": "Hong Kong, Hong Kong",
+  "industry": "Mobile commerce",
+  "industry_slug": "mobile-commerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/luggagent",
+    "linkedin": "https://linkedin.com/company/luggagent",
+    "facebook": "https://facebook.com/LuggAgent/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/luggagent",
+  "api": "/api/companies/luggagent.json"
+}

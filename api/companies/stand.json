@@ -1,0 +1,24 @@
+{
+  "name": "STAND+",
+  "slug": "stand",
+  "website": "https://weargales.com/",
+  "description": "Gales Smart PPE Footwear(r) - The first and only antimicrobial, easy to clean, protective shoes for healthcare.",
+  "one_liner": "Gales Smart PPE Footwear(r) - The first and only antimicrobial, easy to clean, protective shoes for healthcare.",
+  "location": "New York City, New York, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/weargales",
+    "linkedin": "https://linkedin.com/company/weargales",
+    "facebook": "https://facebook.com/weargales/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/stand",
+  "api": "/api/companies/stand.json"
+}

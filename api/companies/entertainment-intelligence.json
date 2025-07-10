@@ -1,0 +1,24 @@
+{
+  "name": "Entertainment Intelligence",
+  "slug": "entertainment-intelligence",
+  "website": "https://ent-intell.com/",
+  "description": "Entertainment Intelligence (Ei) is creating the global market index for granular entertainment industry data.",
+  "one_liner": "Entertainment Intelligence (Ei) is creating the global market index for granular entertainment industry data.",
+  "location": "Hertfordshire, United Kingdom",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ent_intell",
+    "linkedin": "https://linkedin.com/company/entertainment-intelligence-ltd",
+    "facebook": "https://facebook.com/EntertainmentIntelligenceLtd/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/entertainment-intelligence",
+  "api": "/api/companies/entertainment-intelligence.json"
+}

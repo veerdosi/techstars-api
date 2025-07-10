@@ -1,0 +1,20 @@
+{
+  "name": "Violet",
+  "slug": "violet",
+  "website": "https://violet.org.au/",
+  "description": "Helping people talk about and plan for the last stage of life",
+  "one_liner": "Helping people talk about and plan for the last stage of life",
+  "location": "Haymarket, New South Wales, Australia",
+  "industry": "Age Tech",
+  "industry_slug": "age-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/violet",
+  "api": "/api/companies/violet.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Diem",
+  "slug": "diem",
+  "website": "https://askdiem.com/",
+  "description": "Diem is a new social platform for womxn-centric communities.",
+  "one_liner": "Diem is a new social platform for womxn-centric communities.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/askdiem",
+    "linkedin": "https://linkedin.com/company/libra-association",
+    "facebook": "https://facebook.com/LibraAssociation/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/diem",
+  "api": "/api/companies/diem.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "DirecTech Labs",
+  "slug": "directech-labs",
+  "website": "https://directechlabs.com/",
+  "description": "A B2B SaaS startup that uses machine and deep learning to help our enterprise customers, target, engage and retain millions of direct sellers around the world.",
+  "one_liner": "A B2B SaaS startup that uses machine and deep learning to help our enterprise customers, target, engage and retain millions of direct sellers around the world.",
+  "location": "Santa Monica, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/directechlabs",
+    "linkedin": "https://linkedin.com/in/michelbayan",
+    "facebook": "https://facebook.com/direcTechLabs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/directech-labs",
+  "api": "/api/companies/directech-labs.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "CModel Data",
+  "slug": "cmodel-data",
+  "website": "https://cmodel.io/",
+  "description": "Decision intelligence for leadership teams, providing an easy way to keep their team, strategy, and resources in sync while they grow.",
+  "one_liner": "Decision intelligence for leadership teams, providing an easy way to keep their team, strategy, and resources in sync while they grow.",
+  "location": "Vallejo, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/CModelData",
+    "linkedin": "https://linkedin.com/company/cmodel",
+    "facebook": "https://facebook.com/CModel-Data-106447052182008"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cmodel-data",
+  "api": "/api/companies/cmodel-data.json"
+}

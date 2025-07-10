@@ -1,0 +1,22 @@
+{
+  "name": "Exchange Robotics",
+  "slug": "exchange-robotics",
+  "website": "https://exchangerobotics.com/",
+  "description": "Transforming Unstructured Data into Credit Management and Structured Finance Solutions for the Credit Professionals using Generative AI",
+  "one_liner": "Transforming Unstructured Data into Credit Management and Structured Finance Solutions for the Credit Professionals using Generative AI",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/82669603"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/exchange-robotics",
+  "api": "/api/companies/exchange-robotics.json"
+}

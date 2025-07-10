@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Fimble Ltd",
+    "website": "https://fimble.co.uk/",
+    "description": "We give clothes digital identity and create new types of data in fashion.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/fimbleuk"
+    },
+    "industry": "B2B payments",
+    "industry_slug": "b2b-payments"
+  },
+  {
+    "name": "Swoove",
+    "website": "https://swoove.delivery/",
+    "description": "Swoove is a tech aggregator platform of logistics infrastructure for African commerce",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/etry1mhcmhp8ezp2mcjb",
+    "location": "New York City, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/swoovedelivery",
+      "linkedin": "https://linkedin.com/company/swoove",
+      "facebook": "https://facebook.com/swoovedeliveries"
+    },
+    "industry": "B2B payments",
+    "industry_slug": "b2b-payments"
+  },
+  {
+    "name": "Pioneerwork",
+    "website": "https://pioneerwork.co/",
+    "description": "Zag streamlines dropshipping for retailers, facilitating swift supplier integration and transaction. Our platform enables seamless bidirectional exchange of product info, inventory, orders, returns, invoices, and payments between retailers and suppliers. With Zag, onboarding takes minutes, allowing for rapid assortment expansion without inventory risks, supported by integration with major Japanese e-commerce platforms.",
+    "location": "Tokyo, Japan",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/yoichigoto"
+    },
+    "industry": "B2B payments",
+    "industry_slug": "b2b-payments"
+  },
+  {
+    "name": "StageWing",
+    "website": "https://stagewing.com/",
+    "description": "An event production equipment sharing community where members can rent the best pro gear.",
+    "location": "Decatur, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/stagewingapp",
+      "linkedin": "https://linkedin.com/company/stagewing"
+    },
+    "industry": "B2B payments",
+    "industry_slug": "b2b-payments"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "Et Cetera Robotics",
+  "slug": "et-cetera-robotics",
+  "website": "https://etcrobotics.com/",
+  "description": "Etc. Robotics upgrades robots to see what others miss.",
+  "one_liner": "Etc. Robotics upgrades robots to see what others miss.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Robotics and Drones",
+  "industry_slug": "robotics-drones",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/et-cetera-robotics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/et-cetera-robotics",
+  "api": "/api/companies/et-cetera-robotics.json"
+}

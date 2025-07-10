@@ -1,0 +1,24 @@
+{
+  "name": "Portabl",
+  "slug": "portabl",
+  "website": "https://portabl.co/",
+  "description": "PORTABL.co is a B2B2C platform and community providing insurance, benefits and retirement savings products for freelance, gig and self-employed professionals.",
+  "one_liner": "PORTABL.co is a B2B2C platform and community providing insurance, benefits and retirement savings products for freelance, gig and self-employed professionals.",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PortablCo",
+    "linkedin": "https://linkedin.com/company/portablco",
+    "facebook": "https://facebook.com/PORTABL.co/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/portabl",
+  "api": "/api/companies/portabl.json"
+}

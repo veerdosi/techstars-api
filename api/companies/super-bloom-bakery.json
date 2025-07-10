@@ -1,0 +1,23 @@
+{
+  "name": "Super Bloom Bakery",
+  "slug": "super-bloom-bakery",
+  "website": "https://superbloombakery.com/",
+  "description": "Superfood-Enhanced & Allergen-Free Bread",
+  "one_liner": "Superfood-Enhanced & Allergen-Free Bread",
+  "location": "Long Beach, California, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/superbloombakery",
+    "facebook": "https://facebook.com/superbloombakery/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/super-bloom-bakery",
+  "api": "/api/companies/super-bloom-bakery.json"
+}

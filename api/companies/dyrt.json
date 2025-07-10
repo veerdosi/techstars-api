@@ -1,0 +1,22 @@
+{
+  "name": "Dyrt",
+  "slug": "dyrt",
+  "website": "https://dyrt.co/",
+  "description": "Dyrt is a food waste management platform that provides visibility and simplicity for large-scale producers of food waste while simultaneously bringing compliance to an evolving regulatory environment.",
+  "one_liner": "Dyrt is a food waste management platform that provides visibility and simplicity for large-scale producers of food waste while simultaneously bringing compliance to an evolving regulatory environment.",
+  "location": "Rancho Palos Verdes, California, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/dyrt"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dyrt",
+  "api": "/api/companies/dyrt.json"
+}

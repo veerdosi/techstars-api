@@ -1,0 +1,24 @@
+{
+  "name": "Careerflow",
+  "slug": "careerflow",
+  "website": "https://careerflow.ai/",
+  "description": "Utilizes AI to help customers land their dream jobs.",
+  "one_liner": "Utilizes AI to help customers land their dream jobs.",
+  "location": "Sunnyvale, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/careerflow_ai",
+    "linkedin": "https://linkedin.com/company/careerflow123",
+    "facebook": "https://facebook.com/faangpath"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/careerflow",
+  "api": "/api/companies/careerflow.json"
+}

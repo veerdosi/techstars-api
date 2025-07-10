@@ -1,0 +1,22 @@
+{
+  "name": "RYLTY",
+  "slug": "rylty",
+  "website": "https://rylty.io/",
+  "description": "RYLTY exists to help artists take back control of their music catalogs",
+  "one_liner": "RYLTY exists to help artists take back control of their music catalogs",
+  "location": "Hyde Park, Vermont, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/inb1dntzylwazlk0f4cw",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/userylty"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rylty",
+  "api": "/api/companies/rylty.json"
+}

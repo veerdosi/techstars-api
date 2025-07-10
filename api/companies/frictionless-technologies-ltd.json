@@ -1,0 +1,23 @@
+{
+  "name": "Frictionless Technologies Ltd",
+  "slug": "frictionless-technologies-ltd",
+  "website": "https://joinfam.com/",
+  "description": "Fam is a payment method that earns you store credits every time you shop.",
+  "one_liner": "Fam is a payment method that earns you store credits every time you shop.",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mzdmsbtepqnfjbwjmyiw",
+  "social_media": {
+    "twitter": "https://twitter.com/join_fam",
+    "linkedin": "https://linkedin.com/company/joinfam"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/frictionless-technologies-ltd",
+  "api": "/api/companies/frictionless-technologies-ltd.json"
+}

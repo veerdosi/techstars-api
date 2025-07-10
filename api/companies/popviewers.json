@@ -1,0 +1,24 @@
+{
+  "name": "PopViewers",
+  "slug": "popviewers",
+  "website": "https://popviewers.com/",
+  "description": "Popviewers is a technology startup that aims to amplify diverse entertainment audiences. They are democratizing the TV and movie review process and plan to soon become a sentiment analytics and marketing resource for theater chains, studios, networks...",
+  "one_liner": "Popviewers is a technology startup that aims to amplify diverse entertainment audiences. They are democratizing the TV and movie review process and plan to soon become a sentiment analytics and marketing resource for theater chains, studios, networks...",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/popviewers",
+    "linkedin": "https://linkedin.com/company/popviewers",
+    "facebook": "https://facebook.com/popviewers"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/popviewers",
+  "api": "/api/companies/popviewers.json"
+}

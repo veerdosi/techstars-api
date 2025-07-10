@@ -1,0 +1,23 @@
+{
+  "name": "Kabila",
+  "slug": "kabila",
+  "website": "https://joinkabila.com/",
+  "description": "Kabila is an inclusive co-founder matching app & global community for tech startup founders.",
+  "one_liner": "Kabila is an inclusive co-founder matching app & global community for tech startup founders.",
+  "location": "Alpharetta, Georgia, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/joinkabila",
+    "linkedin": "https://linkedin.com/company/joinkabila"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kabila",
+  "api": "/api/companies/kabila.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Clyn",
+  "slug": "clyn",
+  "website": "https://clynapp.com/",
+  "description": "Clyn connects you to housekeepers and cleaners you can trust, while providing them with tools to scale their businesses.",
+  "one_liner": "Clyn connects you to housekeepers and cleaners you can trust, while providing them with tools to scale their businesses.",
+  "location": "Phoenix, Arizona, United States",
+  "industry": "Impact investing",
+  "industry_slug": "impact-investing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/b8juayyqcpchk3wddgoy",
+  "social_media": {
+    "twitter": "https://twitter.com/clynapp",
+    "linkedin": "https://linkedin.com/company/clynapp",
+    "facebook": "https://facebook.com/clynapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/clyn",
+  "api": "/api/companies/clyn.json"
+}

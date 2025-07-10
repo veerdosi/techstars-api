@@ -1,0 +1,24 @@
+{
+  "name": "Maxwell Financial",
+  "slug": "maxwell-financial",
+  "website": "https://himaxwell.com/",
+  "description": "Providing a delightful mortgage experience for home buyers, agents and lenders.",
+  "one_liner": "Providing a delightful mortgage experience for home buyers, agents and lenders.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ilovemaxwell",
+    "linkedin": "https://linkedin.com/company/6605907",
+    "facebook": "https://facebook.com/maxwellHQ"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/maxwell-financial",
+  "api": "/api/companies/maxwell-financial.json"
+}

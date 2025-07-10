@@ -1,0 +1,24 @@
+{
+  "name": "AmorSui",
+  "slug": "amorsui",
+  "website": "https://amorsuiclothing.com/",
+  "description": "AmorSui offers premium connected, integrated safety products that bring sustainability to healthcare innovators",
+  "one_liner": "AmorSui offers premium connected, integrated safety products that bring sustainability to healthcare innovators",
+  "location": "Philadelphia, Pennsylvania, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AmorsuiC",
+    "linkedin": "https://linkedin.com/company/amorsui",
+    "facebook": "https://facebook.com/amorsuiclothing/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/amorsui",
+  "api": "/api/companies/amorsui.json"
+}

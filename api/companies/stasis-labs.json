@@ -1,0 +1,24 @@
+{
+  "name": "Stasis Labs",
+  "slug": "stasis-labs",
+  "website": "https://stasislabs.com/",
+  "description": "Building a health monitoring system that allows doctors to catch declining patients and intervene before a critical event.",
+  "one_liner": "Building a health monitoring system that allows doctors to catch declining patients and intervene before a critical event.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/stasislabs",
+    "linkedin": "https://linkedin.com/company/stasis-labs",
+    "facebook": "https://facebook.com/stasislabs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/stasis-labs",
+  "api": "/api/companies/stasis-labs.json"
+}

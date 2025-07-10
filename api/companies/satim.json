@@ -1,0 +1,24 @@
+{
+  "name": "SATIM",
+  "slug": "satim",
+  "website": "https://satim.pl/",
+  "description": "Providing satellite radar-based intelligence for decision makers.",
+  "one_liner": "Providing satellite radar-based intelligence for decision makers.",
+  "location": "Kraków, Poland",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SatimMonitoring",
+    "linkedin": "https://linkedin.com/company/satimco",
+    "facebook": "https://facebook.com/satimmonitoring/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/satim",
+  "api": "/api/companies/satim.json"
+}

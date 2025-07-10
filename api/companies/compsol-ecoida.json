@@ -1,0 +1,24 @@
+{
+  "name": "Compsol eCOIDA",
+  "slug": "compsol-ecoida",
+  "website": "https://linkedin.com/company/compsoliod",
+  "description": "We have created an online real-time multi-party social security technology platform that promotes service delivery across the value chain.",
+  "one_liner": "We have created an online real-time multi-party social security technology platform that promotes service delivery across the value chain.",
+  "location": "Port Elizabeth, South Africa",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/compsolstl",
+    "linkedin": "https://linkedin.com/company/compsoliod",
+    "facebook": "https://facebook.com/CompSol-281970508584941/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/compsol-ecoida",
+  "api": "/api/companies/compsol-ecoida.json"
+}

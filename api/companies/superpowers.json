@@ -1,0 +1,20 @@
+{
+  "name": "Superpowers",
+  "slug": "superpowers",
+  "website": "https://superpowers-inc.com/",
+  "description": "Superpowers drives human-centered innovation acceleration through the automation of venture investment opportunity suggestions replicating investor decision-making to increase investor efficiency and accuracy.",
+  "one_liner": "Superpowers drives human-centered innovation acceleration through the automation of venture investment opportunity suggestions replicating investor decision-making to increase investor efficiency and accuracy.",
+  "location": "Saint Paul, Minnesota, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/superpowers",
+  "api": "/api/companies/superpowers.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Parallux",
+  "slug": "parallux",
+  "website": "https://parallux.co/",
+  "description": "Parallux makes it easy for brands and creators to design, build, and host 3D virtual spaces in the metaverse.",
+  "one_liner": "Parallux makes it easy for brands and creators to design, build, and host 3D virtual spaces in the metaverse.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Audiotech",
+  "industry_slug": "audiotech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/9c74999fc0acb0c49199",
+  "social_media": {
+    "twitter": "https://twitter.com/paralluxco",
+    "linkedin": "https://linkedin.com/company/parallux",
+    "facebook": "https://facebook.com/parallux/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/parallux",
+  "api": "/api/companies/parallux.json"
+}

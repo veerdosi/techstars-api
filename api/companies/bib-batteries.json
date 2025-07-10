@@ -1,0 +1,22 @@
+{
+  "name": "BiB Batteries",
+  "slug": "bib-batteries",
+  "website": "https://bib-batteries.fr/",
+  "description": "BiB optimizes batteries' performances, expands their lifecycle and reduces their environmental footprint, based on data analysis.",
+  "one_liner": "BiB optimizes batteries' performances, expands their lifecycle and reduces their environmental footprint, based on data analysis.",
+  "location": "Paris, France",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/bib-batteries"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bib-batteries",
+  "api": "/api/companies/bib-batteries.json"
+}

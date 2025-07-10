@@ -1,0 +1,24 @@
+{
+  "name": "Avisare",
+  "slug": "avisare",
+  "website": "https://linkedin.com/company/avisare",
+  "description": "A marketplace simplifying the RFP process for the multi trillion dollar procurement industry",
+  "one_liner": "A marketplace simplifying the RFP process for the multi trillion dollar procurement industry",
+  "location": "Redlands, California, United States",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/avisare1",
+    "linkedin": "https://linkedin.com/company/avisare",
+    "facebook": "https://facebook.com/Hello.Avisare"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/avisare",
+  "api": "/api/companies/avisare.json"
+}

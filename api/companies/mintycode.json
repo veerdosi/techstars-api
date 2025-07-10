@@ -1,0 +1,23 @@
+{
+  "name": "Mintycode",
+  "slug": "mintycode",
+  "website": "https://mintycode.io/",
+  "description": "Building value for software creators with Web3\r\nMintyCode is building the Web3 ecosystem to support software creators. including: Decentralised IP (DeIP), NFT software licenses and license marketplace.",
+  "one_liner": "Building value for software creators with Web3\r\nMintyCode is building the Web3 ecosystem to support software creators. including: Decentralised IP (DeIP), NFT software licenses and license marketplace.",
+  "location": "London, United Kingdom",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/MintyCodeDao",
+    "linkedin": "https://linkedin.com/company/mintycode-dao"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mintycode",
+  "api": "/api/companies/mintycode.json"
+}

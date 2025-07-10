@@ -1,0 +1,24 @@
+{
+  "name": "SimbaPay",
+  "slug": "simbapay",
+  "website": "https://simbapay.com/",
+  "description": "SimbaPay is revolutionizing sending money from Europe to Africa.",
+  "one_liner": "SimbaPay is revolutionizing sending money from Europe to Africa.",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SimbaPay",
+    "linkedin": "https://linkedin.com/company/simbapay",
+    "facebook": "https://facebook.com/SimbaPay"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/simbapay",
+  "api": "/api/companies/simbapay.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Alkemy Environmental",
+  "slug": "alkemy-environmental",
+  "website": "https://alkemyenvironmental.com/",
+  "description": "Alkemy holds patented technology that recycles waste into concrete aggregate.",
+  "one_liner": "Alkemy holds patented technology that recycles waste into concrete aggregate.",
+  "location": "Somerville, Massachusetts, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/alkemyenviron",
+    "linkedin": "https://linkedin.com/company/alkemy-environmental",
+    "facebook": "https://facebook.com/alkemyenvironmental/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/alkemy-environmental",
+  "api": "/api/companies/alkemy-environmental.json"
+}

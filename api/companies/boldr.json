@@ -1,0 +1,23 @@
+{
+  "name": "Boldr",
+  "slug": "boldr",
+  "website": "https://shopboldr.com/",
+  "description": "Smart home heating & cooling",
+  "one_liner": "Smart home heating & cooling",
+  "location": "London, United Kingdom",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/shopboldr",
+    "facebook": "https://facebook.com/shopboldr"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/boldr",
+  "api": "/api/companies/boldr.json"
+}

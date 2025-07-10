@@ -1,0 +1,22 @@
+{
+  "name": "Space Redi",
+  "slug": "space-redi",
+  "website": "https://spaceredi.com/",
+  "description": "Space Redi is building technology that helps businesses understand, predict, and manage risks associated with human spaceflight and other complex operations. Our software will help with operational planning and real-time risk detection.",
+  "one_liner": "Space Redi is building technology that helps businesses understand, predict, and manage risks associated with human spaceflight and other complex operations. Our software will help with operational planning and real-time risk detection.",
+  "location": "Englewood, Colorado, United States",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/space-redi"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/space-redi",
+  "api": "/api/companies/space-redi.json"
+}

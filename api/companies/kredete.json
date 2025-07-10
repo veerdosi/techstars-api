@@ -1,0 +1,24 @@
+{
+  "name": "Kredete",
+  "slug": "kredete",
+  "website": "https://kredete.io/",
+  "description": "Streamlining the process of obtaining credit, financial management and future planning for your benefits.",
+  "one_liner": "Streamlining the process of obtaining credit, financial management and future planning for your benefits.",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/kredete",
+    "linkedin": "https://linkedin.com/company/kredete",
+    "facebook": "https://facebook.com/kredete"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kredete",
+  "api": "/api/companies/kredete.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Revolute Robotics",
+  "slug": "revolute-robotics",
+  "website": "https://revoluterobotics.com/",
+  "description": "Autonomous, energy-efficient robot that's capable of both rolling and flying",
+  "one_liner": "Autonomous, energy-efficient robot that's capable of both rolling and flying",
+  "location": "Scottsdale, Arizona, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/revoluterobotics",
+    "facebook": "https://facebook.com/revoluterobotics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/revolute-robotics",
+  "api": "/api/companies/revolute-robotics.json"
+}

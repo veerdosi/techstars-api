@@ -1,0 +1,24 @@
+{
+  "name": "TalentQL",
+  "slug": "talentql",
+  "website": "https://talentql.com/",
+  "description": "TalentQL connects top global technical talent with jobs they deserve, with an initial focus on African tech talent.",
+  "one_liner": "TalentQL connects top global technical talent with jobs they deserve, with an initial focus on African tech talent.",
+  "location": "Round Rock, Texas, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/talentql",
+    "linkedin": "https://linkedin.com/company/talentql",
+    "facebook": "https://facebook.com/Talentql/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/talentql",
+  "api": "/api/companies/talentql.json"
+}

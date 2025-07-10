@@ -1,0 +1,22 @@
+{
+  "name": "Sojorne",
+  "slug": "sojorne",
+  "website": "https://sojorne.com/",
+  "description": "Disabilities Care Management Platform for Family Caregivers (SaaS)",
+  "one_liner": "Disabilities Care Management Platform for Family Caregivers (SaaS)",
+  "location": "Sandy Springs, Georgia, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/sojorne"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sojorne",
+  "api": "/api/companies/sojorne.json"
+}

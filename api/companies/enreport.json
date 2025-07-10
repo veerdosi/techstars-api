@@ -1,0 +1,22 @@
+{
+  "name": "Enreport",
+  "slug": "enreport",
+  "website": "https://enreport.io/",
+  "description": "Customize any production process based on drag and drop AI driven digital twins",
+  "one_liner": "Customize any production process based on drag and drop AI driven digital twins",
+  "location": "Espoo, Finland",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/y6jo2uyoyfxat0pprkkp",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/enreport"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/enreport",
+  "api": "/api/companies/enreport.json"
+}

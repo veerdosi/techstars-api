@@ -1,0 +1,20 @@
+{
+  "name": "Marble Legal Solutions",
+  "slug": "marble-legal-solutions",
+  "website": "https://marblels.com/",
+  "description": "Lower legal costs and empower yourself with AI-enhanced legal self-help tools that put the law at your fingertips.",
+  "one_liner": "Lower legal costs and empower yourself with AI-enhanced legal self-help tools that put the law at your fingertips.",
+  "location": "McDonough, Georgia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/marble-legal-solutions",
+  "api": "/api/companies/marble-legal-solutions.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "BAND Connect",
+  "slug": "band-connect",
+  "website": "https://bandconnect.net/",
+  "description": "Band Connect's VirtuaCare platform enables physical therapists to provide personalized care when the patient is away from the clinic - leading to consistent high caliber of care with better compliance and reduced in clinic visits.",
+  "one_liner": "Band Connect's VirtuaCare platform enables physical therapists to provide personalized care when the patient is away from the clinic - leading to consistent high caliber of care with better compliance and reduced in clinic visits.",
+  "location": "Cincinnati, Ohio, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hwtwdeyyaedhq76tpysb",
+  "social_media": {
+    "twitter": "https://twitter.com/Band_Connect_",
+    "linkedin": "https://linkedin.com/company/band-connect",
+    "facebook": "https://facebook.com/bandconnect.net"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/band-connect",
+  "api": "/api/companies/band-connect.json"
+}

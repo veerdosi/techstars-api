@@ -1,0 +1,24 @@
+{
+  "name": "The AI Education Project",
+  "slug": "the-ai-education-project",
+  "website": "https://aiedu.org/",
+  "description": "aiEDU.org builds equitable learning experiences about artificial intelligence for students everywhere",
+  "one_liner": "aiEDU.org builds equitable learning experiences about artificial intelligence for students everywhere",
+  "location": "San Francisco, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/evrnuoa1enic6zd6rmip",
+  "social_media": {
+    "twitter": "https://twitter.com/aieduorg",
+    "linkedin": "https://linkedin.com/company/aiedu",
+    "facebook": "https://facebook.com/pages/Alpha-International/577410935697853"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/the-ai-education-project",
+  "api": "/api/companies/the-ai-education-project.json"
+}

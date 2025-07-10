@@ -1,0 +1,24 @@
+{
+  "name": "Gamr",
+  "slug": "gamr",
+  "website": "https://gamr.africa/",
+  "description": "Gamr is a competitive gaming platform that makes it easy for gamers to discover tournaments, team up, and compete in their favorite games.",
+  "one_liner": "Gamr is a competitive gaming platform that makes it easy for gamers to discover tournaments, team up, and compete in their favorite games.",
+  "location": "Wilmington, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/gamrafrica",
+    "linkedin": "https://linkedin.com/company/gamr",
+    "facebook": "https://facebook.com/gamr.africa"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gamr",
+  "api": "/api/companies/gamr.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "IAMBIC",
+  "slug": "iambic",
+  "website": "https://iambic.co/",
+  "description": "AI-driven, precision-fit footwear. A TIME Best Invention of 2023.",
+  "one_liner": "AI-driven, precision-fit footwear. A TIME Best Invention of 2023.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/weareiambic",
+    "linkedin": "https://linkedin.com/company/weareiambic",
+    "facebook": "https://facebook.com/iambic.co"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/iambic",
+  "api": "/api/companies/iambic.json"
+}

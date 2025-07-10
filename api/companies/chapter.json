@@ -1,0 +1,23 @@
+{
+  "name": "Chapter",
+  "slug": "chapter",
+  "website": "https://nectar.run/",
+  "description": "Nectar is building the #1 customer feedback management platform for tech-enabled B2B companies.",
+  "one_liner": "Nectar is building the #1 customer feedback management platform for tech-enabled B2B companies.",
+  "location": "Berlin, Germany",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/runnectar",
+    "linkedin": "https://linkedin.com/company/nectar-insights"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/chapter",
+  "api": "/api/companies/chapter.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Avrio",
+  "slug": "avrio",
+  "website": "https://avrio.com/",
+  "description": "Sharing research and insights is messy. Avrio is here to change that.\n\nWith Avrio you can transform your customer conversations, data analysis, and scattered knowledge into insights that drive growth for your business.\n\nAvrio gives you the tools to bri...",
+  "one_liner": "Sharing research and insights is messy. Avrio is here to change that.\n\nWith Avrio you can transform your customer conversations, data analysis, and scattered knowledge into insights that drive growth for your business.\n\nAvrio gives you the tools to bri...",
+  "location": "Rijsenhout, Netherlands",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ejtgdflayz5ylevi2ahd",
+  "social_media": {
+    "twitter": "https://twitter.com/AvrioHQ",
+    "linkedin": "https://linkedin.com/company/avriohq",
+    "facebook": "https://facebook.com/AvrioHQ/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/avrio",
+  "api": "/api/companies/avrio.json"
+}

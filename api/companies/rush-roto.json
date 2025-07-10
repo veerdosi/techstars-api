@@ -1,0 +1,24 @@
+{
+  "name": "Rush Roto",
+  "slug": "rush-roto",
+  "website": "https://rushrotostudio.com/",
+  "description": "Create professional product images instantly.",
+  "one_liner": "Create professional product images instantly.",
+  "location": "Smyrna, Delaware, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/RushRoto",
+    "linkedin": "https://linkedin.com/company/rush-roto",
+    "facebook": "https://facebook.com/groups/rushrotoapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rush-roto",
+  "api": "/api/companies/rush-roto.json"
+}

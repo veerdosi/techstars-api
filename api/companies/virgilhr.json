@@ -1,0 +1,24 @@
+{
+  "name": "VirgilHR",
+  "slug": "virgilhr",
+  "website": "https://virgilhr.com/",
+  "description": "VirgilHR provides instant employment and labor law guidance to HR professionals to help navigate HR compliance - no research required.",
+  "one_liner": "VirgilHR provides instant employment and labor law guidance to HR professionals to help navigate HR compliance - no research required.",
+  "location": "Gaithersburg, Maryland, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lm94eaxpaivq2oi57soz",
+  "social_media": {
+    "twitter": "https://twitter.com/irgil_HR",
+    "linkedin": "https://linkedin.com/company/virgil-hr",
+    "facebook": "https://facebook.com/virgilhrtech/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/virgilhr",
+  "api": "/api/companies/virgilhr.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Clyp",
+  "slug": "clyp",
+  "website": "https://clyp.it/",
+  "description": "Clyp is a community for musicians to upload, share and collaborate on the music they are creating.",
+  "one_liner": "Clyp is a community for musicians to upload, share and collaborate on the music they are creating.",
+  "location": "Austin, Texas, United States",
+  "industry": "Audiotech",
+  "industry_slug": "audiotech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Clyp_It",
+    "linkedin": "https://linkedin.com/company/clyp-eu",
+    "facebook": "https://facebook.com/ClypIt"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/clyp",
+  "api": "/api/companies/clyp.json"
+}

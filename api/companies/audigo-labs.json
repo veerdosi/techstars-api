@@ -1,0 +1,24 @@
+{
+  "name": "Audigo Labs",
+  "slug": "audigo-labs",
+  "website": "https://audigolabs.com/",
+  "description": "Audigo Labs puts a professional quality recording studio into your pocket, allowing musicians, podcasters, and content creators to effortlessly capture, edit, and share professional-quality audio.",
+  "one_liner": "Audigo Labs puts a professional quality recording studio into your pocket, allowing musicians, podcasters, and content creators to effortlessly capture, edit, and share professional-quality audio.",
+  "location": "San Francisco, California, United States",
+  "industry": "Audiotech",
+  "industry_slug": "audiotech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AudigoLabs",
+    "linkedin": "https://linkedin.com/company/audigo-labs",
+    "facebook": "https://facebook.com/audigolabs/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/audigo-labs",
+  "api": "/api/companies/audigo-labs.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Towntalk Solutions",
+  "slug": "towntalk-solutions",
+  "website": "https://towntalk-solutions.com/",
+  "description": "Towntalk is a data intelligence company that has built Africa's most robust Security Intelligence and Emergency Response Infrastructure.",
+  "one_liner": "Towntalk is a data intelligence company that has built Africa's most robust Security Intelligence and Emergency Response Infrastructure.",
+  "location": "Claymont, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/towntalk-solutions"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/towntalk-solutions",
+  "api": "/api/companies/towntalk-solutions.json"
+}

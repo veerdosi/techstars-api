@@ -1,0 +1,22 @@
+{
+  "name": "Embryoxite",
+  "slug": "embryoxite",
+  "website": "https://embryoxite.life/",
+  "description": "Embryoxite creates non-invasive diagnostic services for pre-implantation embryos used in human-assisted reproduction procedures.",
+  "one_liner": "Embryoxite creates non-invasive diagnostic services for pre-implantation embryos used in human-assisted reproduction procedures.",
+  "location": "Florida, Florida, United States",
+  "industry": "Femtech",
+  "industry_slug": "femtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/embryoxite"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/embryoxite",
+  "api": "/api/companies/embryoxite.json"
+}

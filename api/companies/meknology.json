@@ -1,0 +1,22 @@
+{
+  "name": "Meknology",
+  "slug": "meknology",
+  "website": "https://meknology.com/",
+  "description": "Sustainable wastewater up-cycling and drinking water distillation.",
+  "one_liner": "Sustainable wastewater up-cycling and drinking water distillation.",
+  "location": "Southfield, Michigan, United States",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/meknology"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/meknology",
+  "api": "/api/companies/meknology.json"
+}

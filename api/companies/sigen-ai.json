@@ -1,0 +1,22 @@
+{
+  "name": "Sigen AI",
+  "slug": "sigen-ai",
+  "website": "https://sigen.ai/",
+  "description": "Sigen AI is a platform that helps companies monetize their video datasets by solving the problem of unusable video data due to privacy regulations.",
+  "one_liner": "Sigen AI is a platform that helps companies monetize their video datasets by solving the problem of unusable video data due to privacy regulations.",
+  "location": "Vancouver, British Columbia, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/sigenai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sigen-ai",
+  "api": "/api/companies/sigen-ai.json"
+}

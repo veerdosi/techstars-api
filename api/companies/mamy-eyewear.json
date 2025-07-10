@@ -1,0 +1,24 @@
+{
+  "name": "Mamy Eyewear",
+  "slug": "mamy-eyewear",
+  "website": "https://mamy-eyewear.com/",
+  "description": "Building the future of eyewear in Africa through powerful brands and tech.",
+  "one_liner": "Building the future of eyewear in Africa through powerful brands and tech.",
+  "location": "Saint-Mandé, France",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hcgvhwnyqbsusagyue3g",
+  "social_media": {
+    "twitter": "https://twitter.com/mannys_eyewear",
+    "linkedin": "https://linkedin.com/company/mamy-eyewear",
+    "facebook": "https://facebook.com/mamyeyewear"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mamy-eyewear",
+  "api": "/api/companies/mamy-eyewear.json"
+}

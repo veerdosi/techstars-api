@@ -1,0 +1,24 @@
+{
+  "name": "Makerbloks",
+  "slug": "makerbloks",
+  "website": "https://linkedin.com/company/9312705",
+  "description": "MakerBloks are electronic building blocks that introduces kids basic STEM concepts, complemented by an app that connects the blocks to a story on tablet.",
+  "one_liner": "MakerBloks are electronic building blocks that introduces kids basic STEM concepts, complemented by an app that connects the blocks to a story on tablet.",
+  "location": "Montréal, Quebec, Canada",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/MakerBloks",
+    "linkedin": "https://linkedin.com/company/9312705",
+    "facebook": "https://facebook.com/makerbloks"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/makerbloks",
+  "api": "/api/companies/makerbloks.json"
+}

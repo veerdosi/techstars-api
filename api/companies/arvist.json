@@ -1,0 +1,23 @@
+{
+  "name": "Arvist",
+  "slug": "arvist",
+  "website": "https://arvist.ai/",
+  "description": "Arvist supercharges warehouse operations around quality control and compliance by utilizing current infrastructure such as security cameras, cell phone cameras, and WMS data. With the assistance of Arvist AI, warehouses can guarantee the accuracy of products during shipping and receiving, detect damages in real-time, minimize chargebacks, while improving safety, compliance and warehouse throughput with the aim of achieving a Perfect Order Index (POI) of over 99.99%.",
+  "one_liner": "Arvist supercharges warehouse operations around quality control and compliance by utilizing current infrastructure such as security cameras, cell phone cameras, and WMS data. With the assistance of Arvist AI, warehouses can guarantee the accuracy of products during shipping and receiving, detect damages in real-time, minimize chargebacks, while improving safety, compliance and warehouse throughput with the aim of achieving a Perfect Order Index (POI) of over 99.99%.",
+  "location": "Wilmington, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/BeGlobalSafety1",
+    "linkedin": "https://linkedin.com/company/beglobalsafety"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/arvist",
+  "api": "/api/companies/arvist.json"
+}

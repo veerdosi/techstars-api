@@ -1,0 +1,24 @@
+{
+  "name": "WAYERZ",
+  "slug": "wayerz",
+  "website": "https://linkedin.com/company/6375573",
+  "description": "WAYERZ is a bank-to-bank software platform that includes a navigation-like system used to optimize international money wires and an inter-bank billing, reporting and reconciliation.",
+  "one_liner": "WAYERZ is a bank-to-bank software platform that includes a navigation-like system used to optimize international money wires and an inter-bank billing, reporting and reconciliation.",
+  "location": "Tel Aviv, Israel",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/iwayerz",
+    "linkedin": "https://linkedin.com/company/6375573",
+    "facebook": "https://facebook.com/wayerz"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/wayerz",
+  "api": "/api/companies/wayerz.json"
+}

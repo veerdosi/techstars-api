@@ -1,0 +1,24 @@
+{
+  "name": "Creatext",
+  "slug": "creatext",
+  "website": "https://linkedin.com/company/creatext-nlp",
+  "description": "With Creatext, B2B sales teams write more effective emails and book more meetings.",
+  "one_liner": "With Creatext, B2B sales teams write more effective emails and book more meetings.",
+  "location": "Berlin, Germany",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/creatext_ai",
+    "linkedin": "https://linkedin.com/company/creatext-nlp",
+    "facebook": "https://facebook.com/creatextai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/creatext",
+  "api": "/api/companies/creatext.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Flow Circuits",
+  "slug": "flow-circuits",
+  "website": "https://flowcircuits.com/",
+  "description": "Engineering Design Software for HVAC",
+  "one_liner": "Engineering Design Software for HVAC",
+  "location": "Vista, California, United States",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/hvakr"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/flow-circuits",
+  "api": "/api/companies/flow-circuits.json"
+}

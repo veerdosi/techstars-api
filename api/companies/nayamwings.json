@@ -1,0 +1,22 @@
+{
+  "name": "NayamWings",
+  "slug": "nayamwings",
+  "website": "https://nayamwings.com/",
+  "description": "NayamWings brings a new-breed of wind propulsion for ships, using airplane technology  airfoil designs as a hybrid system to cut fuel use and emissions",
+  "one_liner": "NayamWings brings a new-breed of wind propulsion for ships, using airplane technology  airfoil designs as a hybrid system to cut fuel use and emissions",
+  "location": "Haifa, Israel",
+  "industry": "Industrials",
+  "industry_slug": "industrials",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/nayamwings"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nayamwings",
+  "api": "/api/companies/nayamwings.json"
+}

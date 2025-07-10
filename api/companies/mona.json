@@ -1,0 +1,24 @@
+{
+  "name": "Mona",
+  "slug": "mona",
+  "website": "https://linkedin.com/company/museum-of-old-and-new-art-mona-",
+  "description": "Mona is a platform that helps its users to rent anything to their door.",
+  "one_liner": "Mona is a platform that helps its users to rent anything to their door.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ShopWithMona",
+    "linkedin": "https://linkedin.com/company/museum-of-old-and-new-art-mona-",
+    "facebook": "https://facebook.com/JoinMona"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mona",
+  "api": "/api/companies/mona.json"
+}

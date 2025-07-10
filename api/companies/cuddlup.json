@@ -1,0 +1,24 @@
+{
+  "name": "CuddlUp",
+  "slug": "cuddlup",
+  "website": "https://linkedin.com/company/cuddl%27up",
+  "description": "Cuddl'Up is the digital brigade for restaurant owners",
+  "one_liner": "Cuddl'Up is the digital brigade for restaurant owners",
+  "location": "Nice, France",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/CuddlUp",
+    "linkedin": "https://linkedin.com/company/cuddl%27up",
+    "facebook": "https://facebook.com/cuddlup/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cuddlup",
+  "api": "/api/companies/cuddlup.json"
+}

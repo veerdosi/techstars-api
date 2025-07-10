@@ -1,0 +1,24 @@
+{
+  "name": "PainNavigator",
+  "slug": "painnavigator",
+  "website": "https://navigatemypain.com/",
+  "description": "Creating digital solutions for chronic pain.",
+  "one_liner": "Creating digital solutions for chronic pain.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/painnavigator",
+    "linkedin": "https://linkedin.com/company/pain-navigator",
+    "facebook": "https://facebook.com/navigatemypain"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/painnavigator",
+  "api": "/api/companies/painnavigator.json"
+}

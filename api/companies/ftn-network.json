@@ -1,0 +1,24 @@
+{
+  "name": "FTN Network",
+  "slug": "ftn-network",
+  "website": "https://ftnnetwork.com/",
+  "description": "FTN Network is a iGaming affiliate, fantasy sports, and sports betting subscription platform built to increase user success rates through the use of proprietary data, models, tools, and entertaining content. Think Action Network meets Pro Football Focus",
+  "one_liner": "FTN Network is a iGaming affiliate, fantasy sports, and sports betting subscription platform built to increase user success rates through the use of proprietary data, models, tools, and entertaining content. Think Action Network meets Pro Football Focus",
+  "location": "San Diego, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/FTNBets",
+    "linkedin": "https://linkedin.com/company/ftnnetwork",
+    "facebook": "https://facebook.com/NetworkFTN/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ftn-network",
+  "api": "/api/companies/ftn-network.json"
+}

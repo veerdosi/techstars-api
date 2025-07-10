@@ -1,0 +1,24 @@
+{
+  "name": "Kapsul",
+  "slug": "kapsul",
+  "website": "https://linkedin.com/company/kapsul-",
+  "description": "Kapsul builds premium room-air products for tech-forward and design-minded consumers who want effortless control of their home's air quality and comfort.",
+  "one_liner": "Kapsul builds premium room-air products for tech-forward and design-minded consumers who want effortless control of their home's air quality and comfort.",
+  "location": "Philadelphia, Pennsylvania, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/kapsulair",
+    "linkedin": "https://linkedin.com/company/kapsul-",
+    "facebook": "https://facebook.com/KapsulAir"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kapsul",
+  "api": "/api/companies/kapsul.json"
+}

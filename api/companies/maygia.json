@@ -1,0 +1,22 @@
+{
+  "name": "Maygia",
+  "slug": "maygia",
+  "website": "https://maygia.com/",
+  "description": "Device using hydrogen to clean water while producing electricity",
+  "one_liner": "Device using hydrogen to clean water while producing electricity",
+  "location": "Haifa, Israel",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/maygia"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/maygia",
+  "api": "/api/companies/maygia.json"
+}

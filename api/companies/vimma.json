@@ -1,0 +1,24 @@
+{
+  "name": "Vimma",
+  "slug": "vimma",
+  "website": "https://vimma.ai/",
+  "description": "Vimma enables amateur online creators to become professionals through our Talent Platform.",
+  "one_liner": "Vimma enables amateur online creators to become professionals through our Talent Platform.",
+  "location": "London, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xpzzj8mrqkxdyr4tzql4",
+  "social_media": {
+    "twitter": "https://twitter.com/vimma_ai",
+    "linkedin": "https://linkedin.com/company/vimma-ai",
+    "facebook": "https://facebook.com/VIMMAinfluencer/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vimma",
+  "api": "/api/companies/vimma.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Section",
+  "slug": "section",
+  "website": "https://section.io/",
+  "description": "section.io is a new class of content delivery network built for agile teams",
+  "one_liner": "section.io is a new class of content delivery network built for agile teams",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sectionio",
+    "linkedin": "https://linkedin.com/company/section_io",
+    "facebook": "https://facebook.com/wearesection"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/section",
+  "api": "/api/companies/section.json"
+}

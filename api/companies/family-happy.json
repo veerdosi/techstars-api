@@ -1,0 +1,23 @@
+{
+  "name": "Family+Happy",
+  "slug": "family-happy",
+  "website": "https://babysitter.familyhappy.it/",
+  "description": "We revolutionize parents' quality of life by solving their top problems from one platform. We built a unique certification protocol to maximize service trust, quality and velocity.",
+  "one_liner": "We revolutionize parents' quality of life by solving their top problems from one platform. We built a unique certification protocol to maximize service trust, quality and velocity.",
+  "location": "Turin, Turin, Italy",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/family-happy-babysitter",
+    "facebook": "https://facebook.com/FamilyHappySocial"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/family-happy",
+  "api": "/api/companies/family-happy.json"
+}

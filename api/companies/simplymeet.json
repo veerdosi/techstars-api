@@ -1,0 +1,20 @@
+{
+  "name": "SimplyMeet",
+  "slug": "simplymeet",
+  "website": "https://beeinvites.com/",
+  "description": "Meeting scheduling application intended to cater to the needs of busy people.",
+  "one_liner": "Meeting scheduling application intended to cater to the needs of busy people.",
+  "location": "Wilmington, Delaware, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cftzn3dnz6svekzlqveb",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/simplymeet",
+  "api": "/api/companies/simplymeet.json"
+}

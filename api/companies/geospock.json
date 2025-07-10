@@ -1,0 +1,24 @@
+{
+  "name": "GeoSpock",
+  "slug": "geospock",
+  "website": "https://linkedin.com/company/geospock-ltd-",
+  "description": "GeoSpock provides sub-second big data analysis tools to organisations ingesting billions or even trillions of data points per day.",
+  "one_liner": "GeoSpock provides sub-second big data analysis tools to organisations ingesting billions or even trillions of data points per day.",
+  "location": "Cambridge, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Geospock",
+    "linkedin": "https://linkedin.com/company/geospock-ltd-",
+    "facebook": "https://facebook.com/GeoSpock"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/geospock",
+  "api": "/api/companies/geospock.json"
+}

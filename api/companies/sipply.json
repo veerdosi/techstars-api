@@ -1,0 +1,22 @@
+{
+  "name": "Sipply",
+  "slug": "sipply",
+  "website": "https://beta.sipp.ly/",
+  "description": "Sipply is a B2B plug-in recommendation engine that matches drink pairings to food, and generates trends data.",
+  "one_liner": "Sipply is a B2B plug-in recommendation engine that matches drink pairings to food, and generates trends data.",
+  "location": "Vancouver, British Columbia, Canada",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/sipplylabs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sipply",
+  "api": "/api/companies/sipply.json"
+}

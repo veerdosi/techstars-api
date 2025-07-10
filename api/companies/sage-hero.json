@@ -1,0 +1,24 @@
+{
+  "name": "Sage Hero",
+  "slug": "sage-hero",
+  "website": "https://linkedin.com/company/sage-hero",
+  "description": "Sage Hero provides businesses a deep learning platform for customized, hands-on and fully guided training courses, saving them time and money.",
+  "one_liner": "Sage Hero provides businesses a deep learning platform for customized, hands-on and fully guided training courses, saving them time and money.",
+  "location": "San Antonio, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/thesagehero",
+    "linkedin": "https://linkedin.com/company/sage-hero",
+    "facebook": "https://facebook.com/pg/the.sage.hero"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sage-hero",
+  "api": "/api/companies/sage-hero.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "SparkCloud",
+  "slug": "sparkcloud",
+  "website": "https://linkedin.com/company/sparkcloud-inc.",
+  "description": "Meet awesome people",
+  "one_liner": "Meet awesome people",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sparkcloud",
+    "linkedin": "https://linkedin.com/company/sparkcloud-inc."
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sparkcloud",
+  "api": "/api/companies/sparkcloud.json"
+}

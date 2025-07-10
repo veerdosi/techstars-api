@@ -1,0 +1,24 @@
+{
+  "name": "Indico Data",
+  "slug": "indico-data",
+  "website": "https://indico.io/",
+  "description": "Indico Data transforms unstructured data into actionable insights.",
+  "one_liner": "Indico Data transforms unstructured data into actionable insights.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/indicoData",
+    "linkedin": "https://linkedin.com/company/indico-data-solutions",
+    "facebook": "https://facebook.com/IndicoDataSolutions"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/indico-data",
+  "api": "/api/companies/indico-data.json"
+}

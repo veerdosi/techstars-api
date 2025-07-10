@@ -1,0 +1,24 @@
+{
+  "name": "FreeTextbooks",
+  "slug": "freetextbooks",
+  "website": "https://freetextbooks.com/",
+  "description": "Crowdsourced campus bookstores.",
+  "one_liner": "Crowdsourced campus bookstores.",
+  "location": "Birmingham, Alabama, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/freetextbooks",
+    "linkedin": "https://linkedin.com/company/3636312",
+    "facebook": "https://facebook.com/freetextbooks"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/freetextbooks",
+  "api": "/api/companies/freetextbooks.json"
+}

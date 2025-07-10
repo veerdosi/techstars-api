@@ -1,0 +1,24 @@
+{
+  "name": "Betaout",
+  "slug": "betaout",
+  "website": "https://betaout.com/",
+  "description": "BetaOut makes Ecommerce Marketing Smart and Easy",
+  "one_liner": "BetaOut makes Ecommerce Marketing Smart and Easy",
+  "location": "Noida, India",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/betaout",
+    "linkedin": "https://linkedin.com/company/getamplify",
+    "facebook": "https://facebook.com/Betaout-503308729712305/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/betaout",
+  "api": "/api/companies/betaout.json"
+}

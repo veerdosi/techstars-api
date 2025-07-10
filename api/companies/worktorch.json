@@ -1,0 +1,24 @@
+{
+  "name": "WorkTorch",
+  "slug": "worktorch",
+  "website": "https://getquickhire.com/",
+  "description": "A career discovery platform for the service economy workforce.",
+  "one_liner": "A career discovery platform for the service economy workforce.",
+  "location": "Wichita, Kansas, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getquickhire",
+    "linkedin": "https://linkedin.com/company/getquickhire",
+    "facebook": "https://facebook.com/getquickhire/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/worktorch",
+  "api": "/api/companies/worktorch.json"
+}

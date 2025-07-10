@@ -1,0 +1,24 @@
+{
+  "name": "LifeTap",
+  "slug": "lifetap",
+  "website": "https://linkedin.com/company/lifetap-gmbh",
+  "description": "An app that gives group recommendations by combining personality of users, situational context, group dynamics and behavioural preferences.",
+  "one_liner": "An app that gives group recommendations by combining personality of users, situational context, group dynamics and behavioural preferences.",
+  "location": "Berlin, Germany",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/lifetapai",
+    "linkedin": "https://linkedin.com/company/lifetap-gmbh",
+    "facebook": "https://facebook.com/lifetapai/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lifetap",
+  "api": "/api/companies/lifetap.json"
+}

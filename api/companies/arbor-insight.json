@@ -1,0 +1,22 @@
+{
+  "name": "Arbor Insight",
+  "slug": "arbor-insight",
+  "website": "https://arbor-insight.com/",
+  "description": "End-to-end agriculture robotic technology",
+  "one_liner": "End-to-end agriculture robotic technology",
+  "location": "Milwaukee, Wisconsin, United States",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/arborinsight"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/arbor-insight",
+  "api": "/api/companies/arbor-insight.json"
+}

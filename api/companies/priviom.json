@@ -1,0 +1,22 @@
+{
+  "name": "Priviom",
+  "slug": "priviom",
+  "website": "https://priviom.io/",
+  "description": "B2B finance teams use Priviom to make confident decisions when it comes to SaaS spending. Complete visibility, informed decision making.",
+  "one_liner": "B2B finance teams use Priviom to make confident decisions when it comes to SaaS spending. Complete visibility, informed decision making.",
+  "location": "Austin, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/b5m6ygqpxqv6udlaf2w3",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/priviom"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/priviom",
+  "api": "/api/companies/priviom.json"
+}

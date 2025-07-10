@@ -1,0 +1,24 @@
+{
+  "name": "Honest Jobs",
+  "slug": "honest-jobs",
+  "website": "https://honestjobs.co/",
+  "description": "We help people with criminal records find employment fast.",
+  "one_liner": "We help people with criminal records find employment fast.",
+  "location": "Columbus, Ohio, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Honestjobsco",
+    "linkedin": "https://linkedin.com/company/13046366",
+    "facebook": "https://facebook.com/honestjobsHQ/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/honest-jobs",
+  "api": "/api/companies/honest-jobs.json"
+}

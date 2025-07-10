@@ -1,0 +1,24 @@
+{
+  "name": "Xolani",
+  "slug": "xolani",
+  "website": "https://xolanihealth.com/",
+  "description": "AI Model that can be used as an optimizing tool to assist the radiologist in choosing a personalized patient's protocol.",
+  "one_liner": "AI Model that can be used as an optimizing tool to assist the radiologist in choosing a personalized patient's protocol.",
+  "location": "Lagos, Nigeria",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/xolanihealth",
+    "linkedin": "https://linkedin.com/company/xolanihealth",
+    "facebook": "https://facebook.com/xolaniHealth"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/xolani",
+  "api": "/api/companies/xolani.json"
+}

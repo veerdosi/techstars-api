@@ -1,0 +1,22 @@
+{
+  "name": "Le Ora",
+  "slug": "le-ora",
+  "website": "https://joinleora.com/",
+  "description": "For trend-setting womxn, who want a more budget friendly and sustainable way of dressing up, we provide them with the option to renting instead of buying their wardrobe.",
+  "one_liner": "For trend-setting womxn, who want a more budget friendly and sustainable way of dressing up, we provide them with the option to renting instead of buying their wardrobe.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/le-ora"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/le-ora",
+  "api": "/api/companies/le-ora.json"
+}

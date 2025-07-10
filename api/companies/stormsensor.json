@@ -1,0 +1,24 @@
+{
+  "name": "StormSensor",
+  "slug": "stormsensor",
+  "website": "https://stormsensor.io/",
+  "description": "StormSensor creates smart urban watersheds. Our sensors & analytics provide insights to cities regarding how their stormwater systems function & where they fail",
+  "one_liner": "StormSensor creates smart urban watersheds. Our sensors & analytics provide insights to cities regarding how their stormwater systems function & where they fail",
+  "location": "Seattle, Washington, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/stormsensor",
+    "linkedin": "https://linkedin.com/company/stormsensor",
+    "facebook": "https://facebook.com/stormsensor.inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/stormsensor",
+  "api": "/api/companies/stormsensor.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Buzzbassador",
+  "slug": "buzzbassador",
+  "website": "https://buzzbassador.com/",
+  "description": "Building the first ever auto-pilot mode for creator marketing",
+  "one_liner": "Building the first ever auto-pilot mode for creator marketing",
+  "location": "Dallas, Texas, United States",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/buzzbassador",
+    "linkedin": "https://linkedin.com/company/buzzbassador",
+    "facebook": "https://facebook.com/buzzbassador"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/buzzbassador",
+  "api": "/api/companies/buzzbassador.json"
+}

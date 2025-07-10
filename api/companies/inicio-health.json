@@ -1,0 +1,22 @@
+{
+  "name": "Inicio Health",
+  "slug": "inicio-health",
+  "website": "https://inicio.uk/",
+  "description": "Solving the lack of interoperability and automation between clinical systems for all.",
+  "one_liner": "Solving the lack of interoperability and automation between clinical systems for all.",
+  "location": "London, England, United Kingdom",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/inicio-health"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/inicio-health",
+  "api": "/api/companies/inicio-health.json"
+}

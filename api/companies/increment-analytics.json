@@ -1,0 +1,24 @@
+{
+  "name": "Increment Analytics",
+  "slug": "increment-analytics",
+  "website": "https://linkedin.com/company/incrementmanufacturing",
+  "description": "Building labor resilience infrastructure for industrial workers.",
+  "one_liner": "Building labor resilience infrastructure for industrial workers.",
+  "location": "South Bend, Indiana, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/IncrementTweets",
+    "linkedin": "https://linkedin.com/company/incrementmanufacturing",
+    "facebook": "https://facebook.com/incrementstudios"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/increment-analytics",
+  "api": "/api/companies/increment-analytics.json"
+}

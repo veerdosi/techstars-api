@@ -1,0 +1,22 @@
+{
+  "name": "Canopy",
+  "slug": "canopy",
+  "website": "https://linkedin.com/company/underthecanopy",
+  "description": "A dedicated community for Creators to help Creators succeed and build a sustainable career.",
+  "one_liner": "A dedicated community for Creators to help Creators succeed and build a sustainable career.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/underthecanopy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/canopy",
+  "api": "/api/companies/canopy.json"
+}

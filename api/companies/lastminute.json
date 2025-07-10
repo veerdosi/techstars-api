@@ -1,0 +1,22 @@
+{
+  "name": "LastMinute",
+  "slug": "lastminute",
+  "website": "https://trylastminute.com/",
+  "description": "Empowering healthcare professionals with real-time shift management and improved communication.",
+  "one_liner": "Empowering healthcare professionals with real-time shift management and improved communication.",
+  "location": "Brookline, Massachusetts, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gsfci90ypdyrz0gg6v06",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/trylastminute"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lastminute",
+  "api": "/api/companies/lastminute.json"
+}

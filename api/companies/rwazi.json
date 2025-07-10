@@ -1,0 +1,24 @@
+{
+  "name": "Rwazi",
+  "slug": "rwazi",
+  "website": "https://rwazi.com/",
+  "description": "Rwazi makes actionable data from developing markets accessible to drive sales.",
+  "one_liner": "Rwazi makes actionable data from developing markets accessible to drive sales.",
+  "location": "Wilmington, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fmjb9xolefo7cav1owu4",
+  "social_media": {
+    "twitter": "https://twitter.com/rwaziltd",
+    "linkedin": "https://linkedin.com/company/rwazi",
+    "facebook": "https://facebook.com/RwaziLtd/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rwazi",
+  "api": "/api/companies/rwazi.json"
+}

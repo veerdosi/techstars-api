@@ -1,0 +1,24 @@
+{
+  "name": "Binaize",
+  "slug": "binaize",
+  "website": "https://linkedin.com/company/binaize",
+  "description": "Binaize is an AI based realtime conversion intelligence product for small and medium sized e-commerce businesses.",
+  "one_liner": "Binaize is an AI based realtime conversion intelligence product for small and medium sized e-commerce businesses.",
+  "location": "Austin, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/binaizelabs",
+    "linkedin": "https://linkedin.com/company/binaize",
+    "facebook": "https://facebook.com/pg/binaize/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/binaize",
+  "api": "/api/companies/binaize.json"
+}

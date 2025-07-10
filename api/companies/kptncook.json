@@ -1,0 +1,24 @@
+{
+  "name": "KptnCook",
+  "slug": "kptncook",
+  "website": "https://kptncook.com/",
+  "description": "What are you cooking tonight?",
+  "one_liner": "What are you cooking tonight?",
+  "location": "Berlin, Germany",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/kptncookapp",
+    "linkedin": "https://linkedin.com/company/3511548",
+    "facebook": "https://facebook.com/kptncook"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kptncook",
+  "api": "/api/companies/kptncook.json"
+}

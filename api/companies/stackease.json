@@ -1,0 +1,22 @@
+{
+  "name": "STACKEASE",
+  "slug": "stackease",
+  "website": "https://eolrobotics.fr/",
+  "description": "StackEase specializes in the development of cutting-edge optimization and trading technologies for large-scale battery storage systems.",
+  "one_liner": "StackEase specializes in the development of cutting-edge optimization and trading technologies for large-scale battery storage systems.",
+  "location": "Paris, France",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pnu9safw4b3jzr49ndkk",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/stackease"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/stackease",
+  "api": "/api/companies/stackease.json"
+}

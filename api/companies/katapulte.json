@@ -1,0 +1,22 @@
+{
+  "name": "Katapulte",
+  "slug": "katapulte",
+  "website": "https://katapulte.io/",
+  "description": "Katapulte is a loan origination and underwriting software that connects CPG based business to bank lenders to help fund their purchase orders.",
+  "one_liner": "Katapulte is a loan origination and underwriting software that connects CPG based business to bank lenders to help fund their purchase orders.",
+  "location": "Somerville, Massachusetts, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/katapulte"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/katapulte",
+  "api": "/api/companies/katapulte.json"
+}

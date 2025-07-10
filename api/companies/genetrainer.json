@@ -1,0 +1,24 @@
+{
+  "name": "Genetrainer",
+  "slug": "genetrainer",
+  "website": "https://genetrainer.com/",
+  "description": "Genetrainer helps people get fit more efficiently than any other technology on the market through personalised calibration of activity & wearable data.",
+  "one_liner": "Genetrainer helps people get fit more efficiently than any other technology on the market through personalised calibration of activity & wearable data.",
+  "location": "London, United Kingdom",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/genetrainer",
+    "linkedin": "https://linkedin.com/company/genetrainer",
+    "facebook": "https://facebook.com/genetrainer.official"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/genetrainer",
+  "api": "/api/companies/genetrainer.json"
+}

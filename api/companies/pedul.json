@@ -1,0 +1,24 @@
+{
+  "name": "PeduL",
+  "slug": "pedul",
+  "website": "https://pedul.com/",
+  "description": "PeduL helps employers diversify their workforce with scholarship programs.",
+  "one_liner": "PeduL helps employers diversify their workforce with scholarship programs.",
+  "location": "Newark, New Jersey, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/youiiapp",
+    "linkedin": "https://linkedin.com/company/pedul",
+    "facebook": "https://facebook.com/youiiapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pedul",
+  "api": "/api/companies/pedul.json"
+}

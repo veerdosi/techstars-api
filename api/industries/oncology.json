@@ -1,0 +1,180 @@
+[
+  {
+    "name": "Preveta",
+    "website": "https://preveta.com/",
+    "description": "Preveta is transforming cancer care by building the richest database of patient insights that will drive transformation for providers, pharma and payers",
+    "location": "Redondo Beach, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hellopreveta",
+      "linkedin": "https://linkedin.com/company/preveta",
+      "facebook": "https://facebook.com/HelloPreveta"
+    },
+    "industry": "Oncology",
+    "industry_slug": "oncology"
+  },
+  {
+    "name": "AMPLY Discovery",
+    "website": "https://amplydiscovery.com/",
+    "description": "Novel Biologics. Designed by Evolution. Discovered by AI.",
+    "location": "Belfast, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/amply-discovery"
+    },
+    "industry": "Oncology",
+    "industry_slug": "oncology"
+  },
+  {
+    "name": "BrainSpec",
+    "website": "https://brainspecmed.com/",
+    "description": "BrainSpec is a health-tech company that enables the accurate, efficient and non-invasive diagnosis of brain disorders.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Brain_Spec",
+      "linkedin": "https://linkedin.com/company/brainspec"
+    },
+    "industry": "Oncology",
+    "industry_slug": "oncology"
+  },
+  {
+    "name": "Trinzz",
+    "website": "https://trinzz.com/",
+    "description": "For biomedical and life science companies, Trinzz is building the ultimate data stack, leveraging 3D-stacked biomedical AI to accelerate research and discovery.",
+    "location": "Kolkata, West Bengal, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/trinzz"
+    },
+    "industry": "Oncology",
+    "industry_slug": "oncology"
+  },
+  {
+    "name": "Biomod AI",
+    "website": "https://biomodai.com/",
+    "description": "AI Assistant for Biotech R&D",
+    "location": "Zuid-Scharwoude, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/biomodai"
+    },
+    "industry": "Oncology",
+    "industry_slug": "oncology"
+  },
+  {
+    "name": "OmicsChart",
+    "website": "https://omicschart.com/",
+    "description": "Patient-centric cancer data and analytics platform for translational cancer biologists",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/g3lgnp3izthtex3dmpxl",
+    "location": "Martinsried, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/omicschart",
+      "linkedin": "https://linkedin.com/company/omicschart"
+    },
+    "industry": "Oncology",
+    "industry_slug": "oncology"
+  },
+  {
+    "name": "dehaze",
+    "website": "https://dehaze.de/",
+    "description": "dehaze enables clinicians to harness the power of AI for precise diagnostics and prognostic",
+    "location": "Fürstenfeldbruck, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dehazeai"
+    },
+    "industry": "Oncology",
+    "industry_slug": "oncology"
+  },
+  {
+    "name": "Mission-Driven Tech",
+    "website": "https://missiondriventech.com/",
+    "description": "For women that have to receive brachytherapy (internal radiation therapy), we have designed a patient-centered device that minimizes discomfort, improves procedure safety, patient outcomes and access to care.",
+    "location": "Flanders, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mission-driven-tech"
+    },
+    "industry": "Oncology",
+    "industry_slug": "oncology"
+  },
+  {
+    "name": "Narval",
+    "website": "https://narvalbio.com/",
+    "description": "Synthetic Antibody Mimetic Proteins for novel first-in-class immunotherapeutics",
+    "location": "Zapopan, Jalisco, Mexico",
+    "social_media": {
+      "twitter": "https://twitter.com/narvalbio"
+    },
+    "industry": "Oncology",
+    "industry_slug": "oncology"
+  },
+  {
+    "name": "Aradon",
+    "website": "https://aradon.bio/",
+    "description": "Aradon makes biotech robot labs easy to install and operate for scientists. Removing the manual work bottleneck from biotech will enable new medical solutions and enhance healthcare globally.",
+    "location": "Leiden, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/aradon-bio"
+    },
+    "industry": "Oncology",
+    "industry_slug": "oncology"
+  },
+  {
+    "name": "Aperture Bio",
+    "website": "https://aperture.bio/",
+    "description": "Enables more patients to benefit from cutting-edge therapies by quantifying how, why and when drugs fail.",
+    "location": "Allston, Massachusetts, United States",
+    "social_media": {},
+    "industry": "Oncology",
+    "industry_slug": "oncology"
+  },
+  {
+    "name": "Violet",
+    "website": "https://violet.org.au/",
+    "description": "Helping people talk about and plan for the last stage of life",
+    "location": "Haymarket, New South Wales, Australia",
+    "social_media": {},
+    "industry": "Oncology",
+    "industry_slug": "oncology"
+  },
+  {
+    "name": "Sloop",
+    "website": "https://sloop.ai/",
+    "description": "Sloop eliminates AI hallucinations by encoding your prompts with hypertokens, the GPS for LLMs that instantly upgrades the memory, reasoning, and privacy of your AI tools.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sloopfx"
+    },
+    "industry": "Oncology",
+    "industry_slug": "oncology"
+  },
+  {
+    "name": "Silver Spur TX",
+    "website": "https://silverspurtx.com/",
+    "description": "Advancing drug and gene delivery with nanoparticles for kidney and cardiovascular diseases",
+    "location": "Palos Verdes Peninsula, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/silver-spur-therapeutics"
+    },
+    "industry": "Oncology",
+    "industry_slug": "oncology"
+  },
+  {
+    "name": "FluteSpace",
+    "website": "https://flutespace.com/",
+    "description": "Next-gen broad intelligence and precision medicine platform, leveraging proprietary AI technology FLUTE (Fast Learning Unified Task Engine)",
+    "location": "Fremont, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/flutespace"
+    },
+    "industry": "Oncology",
+    "industry_slug": "oncology"
+  },
+  {
+    "name": "Generable",
+    "website": "https://generable.com/",
+    "description": "State-of-the-art platform for oncology clinical trials from first in human to registration.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GenerableHQ",
+      "linkedin": "https://linkedin.com/company/stan-group-inc."
+    },
+    "industry": "Oncology",
+    "industry_slug": "oncology"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "name": "Two to Tango",
+  "slug": "two-to-tango",
+  "website": "https://twototango.co/",
+  "description": "A borderless business networking platform that transforms connections and opportunities into real deals for everyone.",
+  "one_liner": "A borderless business networking platform that transforms connections and opportunities into real deals for everyone.",
+  "location": "Bogotá, Colombia",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/twototangomatch",
+    "linkedin": "https://linkedin.com/company/tttnetworking",
+    "facebook": "https://facebook.com/twoto.tango.54"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/two-to-tango",
+  "api": "/api/companies/two-to-tango.json"
+}

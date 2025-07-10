@@ -1,0 +1,24 @@
+{
+  "name": "ModernGuild",
+  "slug": "modernguild",
+  "website": "https://modernguild.com/",
+  "description": "1-on-1, online tutoring programs to help students maximize their college experience and find the career they love",
+  "one_liner": "1-on-1, online tutoring programs to help students maximize their college experience and find the career they love",
+  "location": "New York City, New York, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/modernguild",
+    "linkedin": "https://linkedin.com/in/brad-aston-4256a714",
+    "facebook": "https://facebook.com/modernguild"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/modernguild",
+  "api": "/api/companies/modernguild.json"
+}

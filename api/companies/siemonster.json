@@ -1,0 +1,24 @@
+{
+  "name": "SIEMonster",
+  "slug": "siemonster",
+  "website": "https://siemonster.com/",
+  "description": "SIEMonster provides cost effective Security Information and Event Management (SIEM) SaaS or onsite solutions for all sized companies to detect cyber threats.",
+  "one_liner": "SIEMonster provides cost effective Security Information and Event Management (SIEM) SaaS or onsite solutions for all sized companies to detect cyber threats.",
+  "location": "New York City, New York, United States",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/_SIEMonster",
+    "linkedin": "https://linkedin.com/company/siemonster",
+    "facebook": "https://facebook.com/SIEMonsterSOC/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/siemonster",
+  "api": "/api/companies/siemonster.json"
+}

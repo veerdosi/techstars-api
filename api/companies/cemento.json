@@ -1,0 +1,23 @@
+{
+  "name": "Cemento",
+  "slug": "cemento",
+  "website": "https://cemento.ai/",
+  "description": "",
+  "one_liner": "",
+  "location": "Tel Aviv, Israel",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/cemento-ai",
+    "facebook": "https://facebook.com/cementoai/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cemento",
+  "api": "/api/companies/cemento.json"
+}

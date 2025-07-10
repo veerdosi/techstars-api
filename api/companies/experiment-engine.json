@@ -1,0 +1,24 @@
+{
+  "name": "Experiment Engine",
+  "slug": "experiment-engine",
+  "website": "https://experimentengine.com/",
+  "description": "Crowdsource your A/B testing to conversion rate experts & drive more sales",
+  "one_liner": "Crowdsource your A/B testing to conversion rate experts & drive more sales",
+  "location": "Austin, Texas, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/expengine",
+    "linkedin": "https://linkedin.com/company/experiment-engine",
+    "facebook": "https://facebook.com/ExperimentEngine"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/experiment-engine",
+  "api": "/api/companies/experiment-engine.json"
+}

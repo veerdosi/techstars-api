@@ -1,0 +1,24 @@
+{
+  "name": "BezoMoney",
+  "slug": "bezomoney",
+  "website": "https://linkedin.com/company/bezomoney",
+  "description": "We are providing a social savings platform that helps low-income earners save effectively, have access to bulk capital through group savings and boost their creditworthiness.",
+  "one_liner": "We are providing a social savings platform that helps low-income earners save effectively, have access to bulk capital through group savings and boost their creditworthiness.",
+  "location": "Washington, District of Columbia, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/BezoMoney",
+    "linkedin": "https://linkedin.com/company/bezomoney",
+    "facebook": "https://facebook.com/BezoMoney"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bezomoney",
+  "api": "/api/companies/bezomoney.json"
+}

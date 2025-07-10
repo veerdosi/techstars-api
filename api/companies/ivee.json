@@ -1,0 +1,23 @@
+{
+  "name": "ivee",
+  "slug": "ivee",
+  "website": "https://ivee.jobs/",
+  "description": "ivee provides cutting-edge AI tailored upskilling to equip women with the tools to confidently return to work.",
+  "one_liner": "ivee provides cutting-edge AI tailored upskilling to equip women with the tools to confidently return to work.",
+  "location": "London, United Kingdom",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v0gagtdcrxkwkj6zxsf0",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/iveejobs",
+    "facebook": "https://facebook.com/people/Ivee/61552049597835/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ivee",
+  "api": "/api/companies/ivee.json"
+}

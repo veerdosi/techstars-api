@@ -1,0 +1,24 @@
+{
+  "name": "Ecolytics",
+  "slug": "ecolytics",
+  "website": "https://ecolytics.io/",
+  "description": "An impact intelligence platform designed to use environmental impact to support core business metrics and strategic decision-making",
+  "one_liner": "An impact intelligence platform designed to use environmental impact to support core business metrics and strategic decision-making",
+  "location": "Durham, North Carolina, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ecolytics",
+    "linkedin": "https://linkedin.com/company/ecolytics",
+    "facebook": "https://facebook.com/ecolytics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ecolytics",
+  "api": "/api/companies/ecolytics.json"
+}

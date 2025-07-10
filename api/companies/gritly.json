@@ -1,0 +1,24 @@
+{
+  "name": "Gritly",
+  "slug": "gritly",
+  "website": "https://linkedin.com/company/gritlyhq",
+  "description": "Gritly is building the infrastructure for skills-based training & hiring.",
+  "one_liner": "Gritly is building the infrastructure for skills-based training & hiring.",
+  "location": "Northglenn, Colorado, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Gritly_HQ",
+    "linkedin": "https://linkedin.com/company/gritlyhq",
+    "facebook": "https://facebook.com/Internalyze/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gritly",
+  "api": "/api/companies/gritly.json"
+}

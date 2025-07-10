@@ -1,0 +1,24 @@
+{
+  "name": "Talk Hiring",
+  "slug": "talk-hiring",
+  "website": "https://linkedin.com/company/talk-hiring",
+  "description": "From voice to career.",
+  "one_liner": "From voice to career.",
+  "location": "The Bronx, New York, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/talkhiring",
+    "linkedin": "https://linkedin.com/company/talk-hiring",
+    "facebook": "https://facebook.com/talkhiring"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/talk-hiring",
+  "api": "/api/companies/talk-hiring.json"
+}

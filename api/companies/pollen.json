@@ -1,0 +1,24 @@
+{
+  "name": "Pollen",
+  "slug": "pollen",
+  "website": "https://linkedin.com/company/pollencareers",
+  "description": "Pollen is a marketing automation platform that enables online retailers to acquire new users more simply and cost effectively than Facebook and Google.",
+  "one_liner": "Pollen is a marketing automation platform that enables online retailers to acquire new users more simply and cost effectively than Facebook and Google.",
+  "location": "New York City, New York, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GetPollen",
+    "linkedin": "https://linkedin.com/company/pollencareers",
+    "facebook": "https://facebook.com/polnads/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pollen",
+  "api": "/api/companies/pollen.json"
+}

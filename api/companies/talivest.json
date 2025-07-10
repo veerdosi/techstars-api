@@ -1,0 +1,24 @@
+{
+  "name": "Talivest",
+  "slug": "talivest",
+  "website": "https://talivest.com/",
+  "description": "Talivest is a business SaaS solution that empowers organizations of the future to retain their most important asset - their people.",
+  "one_liner": "Talivest is a business SaaS solution that empowers organizations of the future to retain their most important asset - their people.",
+  "location": "Dublin, Ireland",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Talivest_HQ",
+    "linkedin": "https://linkedin.com/company/3205795",
+    "facebook": "https://facebook.com/talivest"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/talivest",
+  "api": "/api/companies/talivest.json"
+}

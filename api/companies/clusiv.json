@@ -1,0 +1,24 @@
+{
+  "name": "Clusiv",
+  "slug": "clusiv",
+  "website": "https://linkedin.com/company/clusiv",
+  "description": "Clusiv is the creator of the world's first e-learning and accessible onboarding platform built for and by blind and partially sighted people.",
+  "one_liner": "Clusiv is the creator of the world's first e-learning and accessible onboarding platform built for and by blind and partially sighted people.",
+  "location": "Pflugerville, Texas, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ClusivInc",
+    "linkedin": "https://linkedin.com/company/clusiv",
+    "facebook": "https://facebook.com/clusivinc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/clusiv",
+  "api": "/api/companies/clusiv.json"
+}

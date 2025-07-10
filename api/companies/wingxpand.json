@@ -1,0 +1,24 @@
+{
+  "name": "WingXpand",
+  "slug": "wingxpand",
+  "website": "https://wingxpand.com/",
+  "description": "WingXpand is a US made and patented 7ft drone that expands from a backpack, offering flight services, training and analysis.",
+  "one_liner": "WingXpand is a US made and patented 7ft drone that expands from a backpack, offering flight services, training and analysis.",
+  "location": "St. Louis, Missouri, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/wingxpand",
+    "linkedin": "https://linkedin.com/company/wingxpand",
+    "facebook": "https://facebook.com/wingxpand"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/wingxpand",
+  "api": "/api/companies/wingxpand.json"
+}

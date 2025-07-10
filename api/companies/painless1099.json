@@ -1,0 +1,24 @@
+{
+  "name": "Painless1099",
+  "slug": "painless1099",
+  "website": "https://linkedin.com/company/painless1099",
+  "description": "Painless1099 is a smart bank account that automates tax withholding for independent contractors.",
+  "one_liner": "Painless1099 is a smart bank account that automates tax withholding for independent contractors.",
+  "location": "Buffalo, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Painless1099",
+    "linkedin": "https://linkedin.com/company/painless1099",
+    "facebook": "https://facebook.com/painless1099/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/painless1099",
+  "api": "/api/companies/painless1099.json"
+}

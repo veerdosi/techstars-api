@@ -1,0 +1,24 @@
+{
+  "name": "CAALA",
+  "slug": "caala",
+  "website": "https://caala.de/",
+  "description": "Digital assistant for architects to provide real time information regarding the energy demand and CO2 footprint of the building in the early design phase.",
+  "one_liner": "Digital assistant for architects to provide real time information regarding the energy demand and CO2 footprint of the building in the early design phase.",
+  "location": "Munich, Germany",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/caala_s",
+    "linkedin": "https://linkedin.com/company/caala",
+    "facebook": "https://facebook.com/caalasoftware/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/caala",
+  "api": "/api/companies/caala.json"
+}

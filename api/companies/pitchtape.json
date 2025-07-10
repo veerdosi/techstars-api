@@ -1,0 +1,22 @@
+{
+  "name": "Pitchtape",
+  "slug": "pitchtape",
+  "website": "https://pitchtape.com/",
+  "description": "Pitchtape is an all-in-one video communication tool that asynchronously links people and businesses.",
+  "one_liner": "Pitchtape is an all-in-one video communication tool that asynchronously links people and businesses.",
+  "location": "Dana Point, California, United States",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/pitchtape"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pitchtape",
+  "api": "/api/companies/pitchtape.json"
+}

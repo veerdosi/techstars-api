@@ -1,0 +1,24 @@
+{
+  "name": "BEERMKR",
+  "slug": "beermkr",
+  "website": "https://beermkr.com/",
+  "description": "For beer lovers who want to make beer but can't due to its complexity, cost, time and equipment requirements, BEERMKR provides a fast, simple, and easy way to make award winning beer. BEERMKR is a hardware + consumable revenue company.",
+  "one_liner": "For beer lovers who want to make beer but can't due to its complexity, cost, time and equipment requirements, BEERMKR provides a fast, simple, and easy way to make award winning beer. BEERMKR is a hardware + consumable revenue company.",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/MkrBeer",
+    "linkedin": "https://linkedin.com/company/the-elite-sweets",
+    "facebook": "https://facebook.com/BEERMKRbeer/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/beermkr",
+  "api": "/api/companies/beermkr.json"
+}

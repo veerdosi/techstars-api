@@ -1,0 +1,23 @@
+{
+  "name": "SonX",
+  "slug": "sonx",
+  "website": "https://linkedin.com/company/sonxapp",
+  "description": "We're empowering musicians and celebrating their fans. Changing the way they connect globally.",
+  "one_liner": "We're empowering musicians and celebrating their fans. Changing the way they connect globally.",
+  "location": "London, United Kingdom",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sonx",
+    "linkedin": "https://linkedin.com/company/sonxapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sonx",
+  "api": "/api/companies/sonx.json"
+}

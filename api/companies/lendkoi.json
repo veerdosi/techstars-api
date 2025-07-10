@@ -1,0 +1,20 @@
+{
+  "name": "LendKoi",
+  "slug": "lendkoi",
+  "website": "https://lendkoi.com/",
+  "description": "LendKoi helps high-earning expats and immigrants at Fortune 500 companies build U.S. credit history by providing personal loans and credit solutions.",
+  "one_liner": "LendKoi helps high-earning expats and immigrants at Fortune 500 companies build U.S. credit history by providing personal loans and credit solutions.",
+  "location": "Sunrise, Florida, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lendkoi",
+  "api": "/api/companies/lendkoi.json"
+}

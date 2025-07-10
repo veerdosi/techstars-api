@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Metro Africa Xpress",
+    "website": "https://max.ng/",
+    "description": "Providing infrastructure and services to taxi drivers across Africa.",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/maxdotng",
+      "linkedin": "https://linkedin.com/company/maxdriveai",
+      "facebook": "https://facebook.com/pages/Metro-Africa-Xpress-MAX/837791536289252"
+    },
+    "industry": "Micromobility",
+    "industry_slug": "micromobility"
+  },
+  {
+    "name": "Circuit",
+    "website": "https://getcircuit.com/",
+    "description": "Circuit is a SaaS company providing to route optimization software to consumers, SMB's and enterprise.",
+    "location": "Huntingdon, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/circuitapp",
+      "linkedin": "https://linkedin.com/company/circuitllc",
+      "facebook": "https://facebook.com/CircuitRouting"
+    },
+    "industry": "Micromobility",
+    "industry_slug": "micromobility"
+  },
+  {
+    "name": "Cycle",
+    "website": "https://cycle.eco/",
+    "description": "All-in-one bike subscription package: pay a monthly fee to access everything you need to get going: E-Bikes, Service, Insurance and Software.",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/CYCLE_mobility",
+      "linkedin": "https://linkedin.com/company/cycle-eco",
+      "facebook": "https://facebook.com/CYCLE.eco"
+    },
+    "industry": "Micromobility",
+    "industry_slug": "micromobility"
+  },
+  {
+    "name": "Carré Mobility",
+    "website": "https://carre-mobility.de/",
+    "description": "Carre Mobility offers shared mobility solutions for the housing industry, saving space and costs.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hmvtsb5nb1gkidbghmta",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/carr%C3%A9-mobility",
+      "facebook": "https://facebook.com/CarreMobility"
+    },
+    "industry": "Micromobility",
+    "industry_slug": "micromobility"
+  },
+  {
+    "name": "Routific",
+    "website": "https://routific.com/",
+    "description": "Route optimization platform for delivery businesses.",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/routific",
+      "linkedin": "https://linkedin.com/company/routific",
+      "facebook": "https://facebook.com/routific"
+    },
+    "industry": "Micromobility",
+    "industry_slug": "micromobility"
+  },
+  {
+    "name": "YEESMA SARL",
+    "website": "https://yeesma.com/",
+    "description": "YEESMA Provides EXCITING Solutions.",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {},
+    "industry": "Micromobility",
+    "industry_slug": "micromobility"
+  },
+  {
+    "name": "Pointz",
+    "website": "https://bikepointz.com/",
+    "description": "Pointz is a mapping app that crowdsources safer bike & scooter routes. We license the data to delivery companies and operators.",
+    "location": "Providence, Rhode Island, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bikepointz",
+      "facebook": "https://facebook.com/bikepointz"
+    },
+    "industry": "Micromobility",
+    "industry_slug": "micromobility"
+  },
+  {
+    "name": "RAEV",
+    "website": "https://raev.tech/",
+    "description": "RAEV is a fleet of shared, small, electric vehicles available for use on a pay-per-drive basis.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/u0xjiwmi1jyktezwyl2b",
+    "location": "Mullica Hill, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/raev-mobility"
+    },
+    "industry": "Micromobility",
+    "industry_slug": "micromobility"
+  },
+  {
+    "name": "LIVAQ",
+    "website": "https://livaq.co/",
+    "description": "LIVAQ creates high-performance electric off-road vehicles, leveraging advanced Industry 4.0 technologies to deliver an elevated experience for businesses, government agencies, and adventure seekers.",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/livaq"
+    },
+    "industry": "Micromobility",
+    "industry_slug": "micromobility"
+  },
+  {
+    "name": "Split EV",
+    "website": "https://splitev.co/",
+    "description": "We're building the nation's largest electric vehicle charging network.",
+    "location": "Newark, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SplitEv",
+      "linkedin": "https://linkedin.com/company/81954408"
+    },
+    "industry": "Micromobility",
+    "industry_slug": "micromobility"
+  },
+  {
+    "name": "Bob's Containers",
+    "website": "https://bobscontainers.com/",
+    "description": "We build fast, affordable, and profitable housing solutions from shipping containers.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fxhqmvnq8ome60kuqzxz",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bobscontainers",
+      "linkedin": "https://linkedin.com/company/bobs-containers",
+      "facebook": "https://facebook.com/bobscontainers"
+    },
+    "industry": "Micromobility",
+    "industry_slug": "micromobility"
+  },
+  {
+    "name": "Exovolar Industries",
+    "website": "https://exovolar.com/",
+    "description": "Empowering human aerial mobility. Making people FLY like superheroes.",
+    "location": "Union City, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/exovolar",
+      "linkedin": "https://linkedin.com/company/exovolar",
+      "facebook": "https://facebook.com/exovolar"
+    },
+    "industry": "Micromobility",
+    "industry_slug": "micromobility"
+  },
+  {
+    "name": "Blink Last Mile",
+    "website": "https://blinklastmile.com/",
+    "description": "Same-day delivery service for e-commerce companies in Europe.",
+    "location": "Milan, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/blinklastmile",
+      "facebook": "https://facebook.com/Blinklastmile/"
+    },
+    "industry": "Micromobility",
+    "industry_slug": "micromobility"
+  }
+]

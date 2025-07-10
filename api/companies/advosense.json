@@ -1,0 +1,23 @@
+{
+  "name": "Advosense",
+  "slug": "advosense",
+  "website": "https://advosense.com/",
+  "description": "Developing the next generation of incontinence management, to empower clinicians to know when, where, and how best to respond to their patients' needs. Using technology, we're supporting practical, patient-centered, and responsive care.",
+  "one_liner": "Developing the next generation of incontinence management, to empower clinicians to know when, where, and how best to respond to their patients' needs. Using technology, we're supporting practical, patient-centered, and responsive care.",
+  "location": "Dover, Delaware, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/bjysnis2zcnhb9gfhf6l",
+  "social_media": {
+    "twitter": "https://twitter.com/advosense",
+    "linkedin": "https://linkedin.com/company/advosense"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/advosense",
+  "api": "/api/companies/advosense.json"
+}

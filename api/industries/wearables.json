@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Tabl",
+    "website": "https://tablbrowser.com/",
+    "description": "A multi-player web browser",
+    "location": "Tokyo, Japan",
+    "social_media": {
+      "twitter": "https://twitter.com/UndeskHQ",
+      "linkedin": "https://linkedin.com/company/tablbrowser",
+      "facebook": "https://facebook.com/undeskhq"
+    },
+    "industry": "Wearables and quantified self",
+    "industry_slug": "wearables"
+  },
+  {
+    "name": "Jewelbots",
+    "website": "https://linkedin.com/company/jewliebots",
+    "description": "Jewelbots are programmable friendship bracelets designed to inspire future engineers",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/jewelbots",
+      "linkedin": "https://linkedin.com/company/jewliebots",
+      "facebook": "https://facebook.com/jewelbots"
+    },
+    "industry": "Wearables and quantified self",
+    "industry_slug": "wearables"
+  }
+]

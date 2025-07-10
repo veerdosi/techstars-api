@@ -1,0 +1,24 @@
+{
+  "name": "Mint State Labs",
+  "slug": "mint-state-labs",
+  "website": "https://mintstatelabs.com/",
+  "description": "Mint State Labs is looking to bring gaming enthusiast communities together with web3.0 technologies. MSL: Innovate, Create, Connect.",
+  "one_liner": "Mint State Labs is looking to bring gaming enthusiast communities together with web3.0 technologies. MSL: Innovate, Create, Connect.",
+  "location": "Redmond, Washington, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/MintStateLabs",
+    "linkedin": "https://linkedin.com/company/mintstatelabs",
+    "facebook": "https://facebook.com/Mint-State-Labs-108847508186922/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mint-state-labs",
+  "api": "/api/companies/mint-state-labs.json"
+}

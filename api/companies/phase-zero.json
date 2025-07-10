@@ -1,0 +1,23 @@
+{
+  "name": "Phase Zero",
+  "slug": "phase-zero",
+  "website": "https://phasezero.co/",
+  "description": "Phase Zero empowers healthcare contact centers to easily build internal tooling and automate workflows, all with the flexibility of a spreadsheet.",
+  "one_liner": "Phase Zero empowers healthcare contact centers to easily build internal tooling and automate workflows, all with the flexibility of a spreadsheet.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PhaseZeroForms",
+    "linkedin": "https://linkedin.com/company/phase-zero-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/phase-zero",
+  "api": "/api/companies/phase-zero.json"
+}

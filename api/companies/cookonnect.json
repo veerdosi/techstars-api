@@ -1,0 +1,23 @@
+{
+  "name": "Cookonnect",
+  "slug": "cookonnect",
+  "website": "https://cookonnect.com/",
+  "description": "Connecting users with in-home meal services from great, unestablished chefs",
+  "one_liner": "Connecting users with in-home meal services from great, unestablished chefs",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/cookonnect-inc",
+    "facebook": "https://facebook.com/Cookonnect/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cookonnect",
+  "api": "/api/companies/cookonnect.json"
+}

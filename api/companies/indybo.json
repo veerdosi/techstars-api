@@ -1,0 +1,23 @@
+{
+  "name": "Indybo",
+  "slug": "indybo",
+  "website": "https://crunchbase.com/organization/indybo",
+  "description": "Indybo is a modular robotic toy company that transforms the way kids learn about programming and electronics, in a fun and engaging way",
+  "one_liner": "Indybo is a modular robotic toy company that transforms the way kids learn about programming and electronics, in a fun and engaging way",
+  "location": "Cambridge, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GoIndybo",
+    "facebook": "https://facebook.com/go.indybo"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/indybo",
+  "api": "/api/companies/indybo.json"
+}

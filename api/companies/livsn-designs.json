@@ -1,0 +1,24 @@
+{
+  "name": "Livsn Designs",
+  "slug": "livsn-designs",
+  "website": "https://livsndesigns.com/",
+  "description": "Versatile apparel for those who value experiences over stuff.",
+  "one_liner": "Versatile apparel for those who value experiences over stuff.",
+  "location": "Fayetteville, Arkansas, United States",
+  "industry": "Manufacturing",
+  "industry_slug": "manufacturing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/livsndesigns",
+    "linkedin": "https://linkedin.com/company/livsn-designs",
+    "facebook": "https://facebook.com/livsndesigns/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/livsn-designs",
+  "api": "/api/companies/livsn-designs.json"
+}

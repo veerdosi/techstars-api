@@ -1,0 +1,23 @@
+{
+  "name": "Spontaneously",
+  "slug": "spontaneously",
+  "website": "https://linkedin.com/company/spontaneously-inc.",
+  "description": "Social planning simplified",
+  "one_liner": "Social planning simplified",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/spontaneously",
+    "linkedin": "https://linkedin.com/company/spontaneously-inc."
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/spontaneously",
+  "api": "/api/companies/spontaneously.json"
+}

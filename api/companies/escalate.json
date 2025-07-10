@@ -1,0 +1,23 @@
+{
+  "name": "Escalate",
+  "slug": "escalate",
+  "website": "https://escalateusa.com/",
+  "description": "Escalate unlocks frontline retention for employers and a path for entry-level talent to advance.",
+  "one_liner": "Escalate unlocks frontline retention for employers and a path for entry-level talent to advance.",
+  "location": "Silver Spring, Maryland, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cafjhtjj219sfemaia4k",
+  "social_media": {
+    "twitter": "https://twitter.com/EscalateUSA",
+    "linkedin": "https://linkedin.com/company/escalateusa"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/escalate",
+  "api": "/api/companies/escalate.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ordercube",
+  "slug": "ordercube",
+  "website": "https://ordercube.de/",
+  "description": "Simplify Restaurant Communication",
+  "one_liner": "Simplify Restaurant Communication",
+  "location": "Grafing b. München, Germany",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ordercube",
+    "linkedin": "https://linkedin.com/company/18028666",
+    "facebook": "https://facebook.com/ordercube/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ordercube",
+  "api": "/api/companies/ordercube.json"
+}

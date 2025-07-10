@@ -1,0 +1,22 @@
+{
+  "name": "Maverick IQ",
+  "slug": "maverick-iq",
+  "website": "https://maverickiq.com/",
+  "description": "Maverick IQ optimizes operations and enhances safety with integrated engineering, software, and IoT solutions for remote asset monitoring.",
+  "one_liner": "Maverick IQ optimizes operations and enhances safety with integrated engineering, software, and IoT solutions for remote asset monitoring.",
+  "location": "Sandy Springs, Georgia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/maverick-iq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/maverick-iq",
+  "api": "/api/companies/maverick-iq.json"
+}

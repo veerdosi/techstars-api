@@ -1,0 +1,24 @@
+{
+  "name": "Elasticode",
+  "slug": "elasticode",
+  "website": "https://linkedin.com/company/5322594",
+  "description": "Mobile experience optimization",
+  "one_liner": "Mobile experience optimization",
+  "location": "Tel Aviv, Israel",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/elasticode",
+    "linkedin": "https://linkedin.com/company/5322594",
+    "facebook": "https://facebook.com/elasticode"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/elasticode",
+  "api": "/api/companies/elasticode.json"
+}

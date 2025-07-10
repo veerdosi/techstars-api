@@ -1,0 +1,23 @@
+{
+  "name": "Esca",
+  "slug": "esca",
+  "website": "https://escamenu.com/",
+  "description": "An automated stable digital currency savings solution for businesses in emerging markets",
+  "one_liner": "An automated stable digital currency savings solution for businesses in emerging markets",
+  "location": "Killucan, Westmeath, Ireland",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/veltjcsf2gpcwh260t8x",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/esca-menu",
+    "facebook": "https://facebook.com/escacontactless"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/esca",
+  "api": "/api/companies/esca.json"
+}

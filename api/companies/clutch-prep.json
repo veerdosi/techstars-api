@@ -1,0 +1,24 @@
+{
+  "name": "Clutch Prep",
+  "slug": "clutch-prep",
+  "website": "https://clutchprep.com/",
+  "description": "Clutch Prep helps college students get better grades with in-depth, textbook-specific video courses.",
+  "one_liner": "Clutch Prep helps college students get better grades with in-depth, textbook-specific video courses.",
+  "location": "Miami, Florida, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ClutchPrep",
+    "linkedin": "https://linkedin.com/company/clutch-prep",
+    "facebook": "https://facebook.com/ClutchPrep"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/clutch-prep",
+  "api": "/api/companies/clutch-prep.json"
+}

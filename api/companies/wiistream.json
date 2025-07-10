@@ -1,0 +1,22 @@
+{
+  "name": "Wiistream",
+  "slug": "wiistream",
+  "website": "https://wiistream.com/",
+  "description": "Wiistream is revolutionising the way that organisations in the Sporting and Events industry can engage with their followers and fanbase",
+  "one_liner": "Wiistream is revolutionising the way that organisations in the Sporting and Events industry can engage with their followers and fanbase",
+  "location": "Mitchelstown, Cork, Ireland",
+  "industry": "Sports Tech",
+  "industry_slug": "sports-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/wiistream"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/wiistream",
+  "api": "/api/companies/wiistream.json"
+}

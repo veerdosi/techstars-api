@@ -1,0 +1,23 @@
+{
+  "name": "Revealix",
+  "slug": "revealix",
+  "website": "https://revealix.com/",
+  "description": "Revealix is developing computer vision and AI enabled software to help clinical teams get ahead of preventable complications like diabetic foot wounds.",
+  "one_liner": "Revealix is developing computer vision and AI enabled software to help clinical teams get ahead of preventable complications like diabetic foot wounds.",
+  "location": "Austin, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Revealix",
+    "linkedin": "https://linkedin.com/company/revealix-inc-"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/revealix",
+  "api": "/api/companies/revealix.json"
+}

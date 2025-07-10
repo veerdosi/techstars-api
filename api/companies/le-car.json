@@ -1,0 +1,24 @@
+{
+  "name": "Le Car",
+  "slug": "le-car",
+  "website": "https://lecar.co/",
+  "description": "Le Car matches people to vehicles aligned with their needs and wants.",
+  "one_liner": "Le Car matches people to vehicles aligned with their needs and wants.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/findlecar",
+    "linkedin": "https://linkedin.com/company/33236809",
+    "facebook": "https://facebook.com/findlecar"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/le-car",
+  "api": "/api/companies/le-car.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Parasol Platforms",
+  "slug": "parasol-platforms",
+  "website": "https://parasolplatforms.com/",
+  "description": "Facilitating the future of commercial insurance broking",
+  "one_liner": "Facilitating the future of commercial insurance broking",
+  "location": "City of Newark, Delaware, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/parasol-platforms"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/parasol-platforms",
+  "api": "/api/companies/parasol-platforms.json"
+}

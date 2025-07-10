@@ -1,0 +1,22 @@
+{
+  "name": "Cosito",
+  "slug": "cosito",
+  "website": "https://cosito.ai/",
+  "description": "AI-powered sensors enabling businesses to gain actionable insights from the physical world.",
+  "one_liner": "AI-powered sensors enabling businesses to gain actionable insights from the physical world.",
+  "location": "Bogotá, Bogota D.C., Colombia",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/msqpzhjkqq0uwr8pl1ig",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/cosito-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cosito",
+  "api": "/api/companies/cosito.json"
+}

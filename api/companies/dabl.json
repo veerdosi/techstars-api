@@ -1,0 +1,23 @@
+{
+  "name": "DABL",
+  "slug": "dabl",
+  "website": "https://dabl.io/",
+  "description": "DABL is a real-time monitoring and automated hedging platform that uses institutional-grade models to enhance risk management for crypto lending platforms and traditional financial institutions in digital assets.",
+  "one_liner": "DABL is a real-time monitoring and automated hedging platform that uses institutional-grade models to enhance risk management for crypto lending platforms and traditional financial institutions in digital assets.",
+  "location": "Fairfield, Connecticut, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/its_DABL",
+    "linkedin": "https://linkedin.com/company/104740441"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dabl",
+  "api": "/api/companies/dabl.json"
+}

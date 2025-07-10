@@ -1,0 +1,24 @@
+{
+  "name": "Volteum",
+  "slug": "volteum",
+  "website": "https://volteum.io/",
+  "description": "Fleet optimization software for electric vehicles",
+  "one_liner": "Fleet optimization software for electric vehicles",
+  "location": "Budapest, Hungary",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/VolteumApp",
+    "linkedin": "https://linkedin.com/company/volteum",
+    "facebook": "https://facebook.com/VolteumApp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/volteum",
+  "api": "/api/companies/volteum.json"
+}

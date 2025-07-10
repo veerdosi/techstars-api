@@ -1,0 +1,22 @@
+{
+  "name": "The Good Drone Company",
+  "slug": "the-good-drone-company",
+  "website": "https://soargdc.com/",
+  "description": "The Good Drone Company uses advanced drone tech to solve just-in-time delivery issues, ensuring uptime in healthcare, energy, and logistics, boosting profitability.",
+  "one_liner": "The Good Drone Company uses advanced drone tech to solve just-in-time delivery issues, ensuring uptime in healthcare, energy, and logistics, boosting profitability.",
+  "location": "Paradise Valley, Arizona, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/thegooddronecompany"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/the-good-drone-company",
+  "api": "/api/companies/the-good-drone-company.json"
+}

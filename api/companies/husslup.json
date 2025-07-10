@@ -1,0 +1,24 @@
+{
+  "name": "HUSSLUP",
+  "slug": "husslup",
+  "website": "https://linkedin.com/company/husslup",
+  "description": "HUSSLUP is a searchable network connecting creative talent in media and entertainment to each other and to the companies that need them to democratize access.",
+  "one_liner": "HUSSLUP is a searchable network connecting creative talent in media and entertainment to each other and to the companies that need them to democratize access.",
+  "location": "Los Angeles, California, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/HUSSLUP",
+    "linkedin": "https://linkedin.com/company/husslup",
+    "facebook": "https://facebook.com/HUSSLUP"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/husslup",
+  "api": "/api/companies/husslup.json"
+}

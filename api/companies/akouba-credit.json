@@ -1,0 +1,24 @@
+{
+  "name": "Akouba Credit",
+  "slug": "akouba-credit",
+  "website": "https://akoubacredit.com/",
+  "description": "AkoubaCredit streamlines small business lending for community and regional banks to meet regulations and make it profitable again.",
+  "one_liner": "AkoubaCredit streamlines small business lending for community and regional banks to meet regulations and make it profitable again.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/akoubacredit",
+    "linkedin": "https://linkedin.com/company/akouba-credit",
+    "facebook": "https://facebook.com/pages/Akouba-Credit/1621947924691703"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/akouba-credit",
+  "api": "/api/companies/akouba-credit.json"
+}

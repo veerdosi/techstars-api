@@ -1,0 +1,23 @@
+{
+  "name": "Ambana",
+  "slug": "ambana",
+  "website": "https://ambana.com/",
+  "description": "Ambana fractionalizes rental properties to make it possible for anybody to easily invest in Real Estate opportunities in Latin America.",
+  "one_liner": "Ambana fractionalizes rental properties to make it possible for anybody to easily invest in Real Estate opportunities in Latin America.",
+  "location": "Miami Beach, Florida, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ambanainc",
+    "linkedin": "https://linkedin.com/company/ambana"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ambana",
+  "api": "/api/companies/ambana.json"
+}

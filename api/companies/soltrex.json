@@ -1,0 +1,22 @@
+{
+  "name": "Soltrex",
+  "slug": "soltrex",
+  "website": "https://soltrex.io/",
+  "description": "Leading the solar energy automation revolution  with fully interoperable plant mgmt. and operation. Our RaaS platform, based on unmanned ground vehicles, tackles routine tasks from construction to maintenance, ensuring higher profits and cleaner power.",
+  "one_liner": "Leading the solar energy automation revolution  with fully interoperable plant mgmt. and operation. Our RaaS platform, based on unmanned ground vehicles, tackles routine tasks from construction to maintenance, ensuring higher profits and cleaner power.",
+  "location": "Tel Aviv, Tel Aviv, Israel",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/soltrex"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/soltrex",
+  "api": "/api/companies/soltrex.json"
+}

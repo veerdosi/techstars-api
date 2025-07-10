@@ -1,0 +1,20 @@
+{
+  "name": "Repairit",
+  "slug": "repairit",
+  "website": "https://repairit.ai/",
+  "description": "RepairsCard offers an AI-powered employee benefits platform that forecasts vehicle issues in advance and covers the repair expenses. RepairsCard",
+  "one_liner": "RepairsCard offers an AI-powered employee benefits platform that forecasts vehicle issues in advance and covers the repair expenses. RepairsCard",
+  "location": "Miami, Florida, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/repairit",
+  "api": "/api/companies/repairit.json"
+}

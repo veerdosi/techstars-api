@@ -1,0 +1,24 @@
+{
+  "name": "HyBird",
+  "slug": "hybird",
+  "website": "https://hybirdtech.com/",
+  "description": "Making physical asset inspection easy, by improving data capture, and processing, analysing and visualising it in an easy-to-use digital 3D environment.",
+  "one_liner": "Making physical asset inspection easy, by improving data capture, and processing, analysing and visualising it in an easy-to-use digital 3D environment.",
+  "location": "London, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hybirdtech",
+    "linkedin": "https://linkedin.com/company/hybird-ltd",
+    "facebook": "https://facebook.com/HyBirdTech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hybird",
+  "api": "/api/companies/hybird.json"
+}

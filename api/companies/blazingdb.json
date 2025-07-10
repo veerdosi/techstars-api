@@ -1,0 +1,24 @@
+{
+  "name": "BlazingDB",
+  "slug": "blazingdb",
+  "website": "https://linkedin.com/company/blazing",
+  "description": "A super-fast data science platform running on graphics cards (GPUs).",
+  "one_liner": "A super-fast data science platform running on graphics cards (GPUs).",
+  "location": "Houston, Texas, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/blazingdb",
+    "linkedin": "https://linkedin.com/company/blazing",
+    "facebook": "https://facebook.com/blazingdb/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/blazingdb",
+  "api": "/api/companies/blazingdb.json"
+}

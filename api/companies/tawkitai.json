@@ -1,0 +1,22 @@
+{
+  "name": "TawkitAI",
+  "slug": "tawkitai",
+  "website": "https://tawkit.ai/",
+  "description": "CopilotKit: open-source copilot infrastructure for productivity applications",
+  "one_liner": "CopilotKit: open-source copilot infrastructure for productivity applications",
+  "location": "Issaquah, Washington, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/tawkit-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tawkitai",
+  "api": "/api/companies/tawkitai.json"
+}

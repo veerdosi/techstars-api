@@ -1,0 +1,24 @@
+{
+  "name": "TrueFacet",
+  "slug": "truefacet",
+  "website": "https://linkedin.com/company/truefacet",
+  "description": "Shop and sell designer jewelry with confidence",
+  "one_liner": "Shop and sell designer jewelry with confidence",
+  "location": "New York City, New York, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/truefacet",
+    "linkedin": "https://linkedin.com/company/truefacet",
+    "facebook": "https://facebook.com/TrueFacet"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/truefacet",
+  "api": "/api/companies/truefacet.json"
+}

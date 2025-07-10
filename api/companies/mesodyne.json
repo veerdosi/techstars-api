@@ -1,0 +1,22 @@
+{
+  "name": "Mesodyne",
+  "slug": "mesodyne",
+  "website": "https://mesodyne.com/",
+  "description": "Silent, reliable, long-endurance power from any fuel.",
+  "one_liner": "Silent, reliable, long-endurance power from any fuel.",
+  "location": "Somerville, Massachusetts, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/mesodyne"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mesodyne",
+  "api": "/api/companies/mesodyne.json"
+}

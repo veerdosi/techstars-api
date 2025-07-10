@@ -1,0 +1,24 @@
+{
+  "name": "HermesIQ",
+  "slug": "hermesiq",
+  "website": "https://linkedin.com/company/hermes-clinical-inc",
+  "description": "Clinical data management",
+  "one_liner": "Clinical data management",
+  "location": "Braintree, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hermesiq",
+    "linkedin": "https://linkedin.com/company/hermes-clinical-inc",
+    "facebook": "https://facebook.com/HermesTeam"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hermesiq",
+  "api": "/api/companies/hermesiq.json"
+}

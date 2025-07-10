@@ -1,0 +1,23 @@
+{
+  "name": "Solideon",
+  "slug": "solideon",
+  "website": "https://solideon.com/",
+  "description": "The company facilitates use of additive manufacturing system, a machine-learning collaborative system.",
+  "one_liner": "The company facilitates use of additive manufacturing system, a machine-learning collaborative system.",
+  "location": "Denver, Colorado, United States",
+  "industry": "3D printing",
+  "industry_slug": "3d-printing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rvyqaeriunuqfjqw8tch",
+  "social_media": {
+    "twitter": "https://twitter.com/SolideonUSA",
+    "linkedin": "https://linkedin.com/company/solideonusa"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/solideon",
+  "api": "/api/companies/solideon.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Torche",
+  "slug": "torche",
+  "website": "https://linkedin.com/company/torche",
+  "description": "Torche enables customers in Africa to make payments and other transactions using biometrics, leading to increased transaction success rate versus traditional credit or debit cards.",
+  "one_liner": "Torche enables customers in Africa to make payments and other transactions using biometrics, leading to increased transaction success rate versus traditional credit or debit cards.",
+  "location": "Lagos, Nigeria",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/TorcheAfrica",
+    "linkedin": "https://linkedin.com/company/torche",
+    "facebook": "https://facebook.com/torche.africa/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/torche",
+  "api": "/api/companies/torche.json"
+}

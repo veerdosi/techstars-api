@@ -1,0 +1,22 @@
+{
+  "name": "Outlit",
+  "slug": "outlit",
+  "website": "https://outlit.ai/",
+  "description": "Create contract knowledge bases, negotiate deals and reduce legal work in seconds with Outlit.",
+  "one_liner": "Create contract knowledge bases, negotiate deals and reduce legal work in seconds with Outlit.",
+  "location": "Ottawa, Ontario, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/outlit-app"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/outlit",
+  "api": "/api/companies/outlit.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "voiceitt",
+  "slug": "voiceitt",
+  "website": "https://voiceitt.com/",
+  "description": "Automatic speech recognition technology designed to recognize non-standard speech patterns of people with disabilities",
+  "one_liner": "Automatic speech recognition technology designed to recognize non-standard speech patterns of people with disabilities",
+  "location": "Ramat Gan, Israel",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Voice_Itt",
+    "linkedin": "https://linkedin.com/company/voiceitt",
+    "facebook": "https://facebook.com/VoiceItt/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/voiceitt",
+  "api": "/api/companies/voiceitt.json"
+}

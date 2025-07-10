@@ -1,0 +1,24 @@
+{
+  "name": "Polydone",
+  "slug": "polydone",
+  "website": "https://linkedin.com/company/10984433",
+  "description": "Agile project management for the enterprise.",
+  "one_liner": "Agile project management for the enterprise.",
+  "location": "London, United Kingdom",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/polydoneHQ",
+    "linkedin": "https://linkedin.com/company/10984433",
+    "facebook": "https://facebook.com/polydoneHQ"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/polydone",
+  "api": "/api/companies/polydone.json"
+}

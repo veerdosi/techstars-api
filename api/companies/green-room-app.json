@@ -1,0 +1,24 @@
+{
+  "name": "Green Room App",
+  "slug": "green-room-app",
+  "website": "https://linkedin.com/company/greenroomapp",
+  "description": "Green Room is building the tools that let live entertainers be their own business managers by providing modern payments, tax compliance, and benefits.",
+  "one_liner": "Green Room is building the tools that let live entertainers be their own business managers by providing modern payments, tax compliance, and benefits.",
+  "location": "Houston, Texas, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getgreenroom",
+    "linkedin": "https://linkedin.com/company/greenroomapp",
+    "facebook": "https://facebook.com/getgreenroom/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/green-room-app",
+  "api": "/api/companies/green-room-app.json"
+}

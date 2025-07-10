@@ -1,0 +1,20 @@
+{
+  "name": "CellON",
+  "slug": "cellon",
+  "website": "https://cellon.one/",
+  "description": "CellON|Innovative materials co-created with Nature",
+  "one_liner": "CellON|Innovative materials co-created with Nature",
+  "location": "Oslo, Norway",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cellon",
+  "api": "/api/companies/cellon.json"
+}

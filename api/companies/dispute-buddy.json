@@ -1,0 +1,22 @@
+{
+  "name": "Dispute Buddy",
+  "slug": "dispute-buddy",
+  "website": "https://disputebuddy.co/",
+  "description": "",
+  "one_liner": "",
+  "location": "Unknown",
+  "industry": "Legal tech",
+  "industry_slug": "legal-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/disputebuddy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dispute-buddy",
+  "api": "/api/companies/dispute-buddy.json"
+}

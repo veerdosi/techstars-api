@@ -1,0 +1,23 @@
+{
+  "name": "Freeplay App",
+  "slug": "freeplay-app",
+  "website": "https://linkedin.com/company/17955731",
+  "description": "Move Ollie is a fitness game to help people 55 and older exercise more.",
+  "one_liner": "Move Ollie is a fitness game to help people 55 and older exercise more.",
+  "location": "Lehi, Utah, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/17955731",
+    "facebook": "https://facebook.com/freeplayapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/freeplay-app",
+  "api": "/api/companies/freeplay-app.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "BOxES 4",
+  "slug": "boxes-4",
+  "website": "https://boxesdevices.com/",
+  "description": "We're powering the future of retail combining physical and digital technology to democratize convenient, space-efficient, affordable & sustainable retail!",
+  "one_liner": "We're powering the future of retail combining physical and digital technology to democratize convenient, space-efficient, affordable & sustainable retail!",
+  "location": "Minneapolis, Minnesota, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Boxesdevices",
+    "linkedin": "https://linkedin.com/company/boxes-dispositivos-dispensadores",
+    "facebook": "https://facebook.com/Boxes-dispositivos-dispensadores-103733117941696"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/boxes-4",
+  "api": "/api/companies/boxes-4.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "BioEsol",
+  "slug": "bioesol",
+  "website": "https://bioesol.com/",
+  "description": "BioEsol offers sustainable energy autonomy, through an intelligent energy storage system. It allows us to take full advantage of the energy from renewable sources, generating a positive impact on the environment.",
+  "one_liner": "BioEsol offers sustainable energy autonomy, through an intelligent energy storage system. It allows us to take full advantage of the energy from renewable sources, generating a positive impact on the environment.",
+  "location": "Guadalajara, Mexico",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/bioesol",
+    "linkedin": "https://linkedin.com/company/bioesol",
+    "facebook": "https://facebook.com/bioesol"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bioesol",
+  "api": "/api/companies/bioesol.json"
+}

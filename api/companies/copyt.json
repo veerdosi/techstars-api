@@ -1,0 +1,24 @@
+{
+  "name": "Copyt",
+  "slug": "copyt",
+  "website": "https://copyt.io/",
+  "description": "Copyt is a recommerce automation tool that will change the way you resell.",
+  "one_liner": "Copyt is a recommerce automation tool that will change the way you resell.",
+  "location": "Lexington, South Carolina, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/bbedks7sgrw6vnvmh7jh",
+  "social_media": {
+    "twitter": "https://twitter.com/copytio",
+    "linkedin": "https://linkedin.com/company/copyt",
+    "facebook": "https://facebook.com/Copyt.io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/copyt",
+  "api": "/api/companies/copyt.json"
+}

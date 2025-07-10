@@ -1,0 +1,24 @@
+{
+  "name": "CommerceJet",
+  "slug": "commercejet",
+  "website": "https://commercejet.com/",
+  "description": "CommerceJet is an integrated platform that streamlines e-commerce operations for SMEs by synchronizing inventory, orders, and customer data across multiple sales channels in real time.",
+  "one_liner": "CommerceJet is an integrated platform that streamlines e-commerce operations for SMEs by synchronizing inventory, orders, and customer data across multiple sales channels in real time.",
+  "location": "Sammamish, Washington, United States",
+  "industry": "Supply chain technology",
+  "industry_slug": "supply-chain-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/commercejet",
+    "linkedin": "https://linkedin.com/company/commercejet",
+    "facebook": "https://facebook.com/commercejet"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/commercejet",
+  "api": "/api/companies/commercejet.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Solavio Labs",
+  "slug": "solavio-labs",
+  "website": "https://linkedin.com/company/solavio-labs",
+  "description": "Solavio Labs provides AI-based solutions for autonomous solar panel cleaning with a lightweight, remote-controlled bot.",
+  "one_liner": "Solavio Labs provides AI-based solutions for autonomous solar panel cleaning with a lightweight, remote-controlled bot.",
+  "location": "India",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/solavio-labs",
+    "facebook": "https://facebook.com/solavio/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/solavio-labs",
+  "api": "/api/companies/solavio-labs.json"
+}

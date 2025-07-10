@@ -1,0 +1,22 @@
+{
+  "name": "Haylon Technologies",
+  "slug": "haylon-technologies",
+  "website": "https://haylontech.com/",
+  "description": "Making electrified products more sustainable by unleashing the full potential of existing batteries.",
+  "one_liner": "Making electrified products more sustainable by unleashing the full potential of existing batteries.",
+  "location": "Champaign, Illinois, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pkrnai4q4rldqqiyjr6p",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/haylon-technologies"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/haylon-technologies",
+  "api": "/api/companies/haylon-technologies.json"
+}

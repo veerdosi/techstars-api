@@ -1,0 +1,22 @@
+{
+  "name": "Hop Robotics",
+  "slug": "hop-robotics",
+  "website": "https://hoprobotics.com/",
+  "description": "Hop Robotics produces automation systems to streamline draft beverage dispensing for events and venues.  Our technology enables automatic fulfillment after payment allowing operators to capture up to 40% more revenue to maximize existing labor.  We leverage the reliability of industrial-grade robotics to support the hospitality sector in reducing waste and increasing speed of service without sacrificing the human touch.",
+  "one_liner": "Hop Robotics produces automation systems to streamline draft beverage dispensing for events and venues.  Our technology enables automatic fulfillment after payment allowing operators to capture up to 40% more revenue to maximize existing labor.  We leverage the reliability of industrial-grade robotics to support the hospitality sector in reducing waste and increasing speed of service without sacrificing the human touch.",
+  "location": "Townville, South Carolina, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/54120285"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hop-robotics",
+  "api": "/api/companies/hop-robotics.json"
+}

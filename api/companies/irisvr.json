@@ -1,0 +1,24 @@
+{
+  "name": "IrisVR",
+  "slug": "irisvr",
+  "website": "https://linkedin.com/company/irisvr-inc-",
+  "description": "Instant Virtual Reality for the Building Industry",
+  "one_liner": "Instant Virtual Reality for the Building Industry",
+  "location": "New York City, New York, United States",
+  "industry": "Virtual reality",
+  "industry_slug": "virtual-reality",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/vrviz",
+    "linkedin": "https://linkedin.com/company/irisvr-inc-",
+    "facebook": "https://facebook.com/irsvr"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/irisvr",
+  "api": "/api/companies/irisvr.json"
+}

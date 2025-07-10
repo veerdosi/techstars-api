@@ -1,0 +1,22 @@
+{
+  "name": "LivedX",
+  "slug": "livedx",
+  "website": "https://livedx.com/",
+  "description": "LivedX is an online equity platform that translates peoples' lived & learned experiences using ML into power skills credentials for educational and job success.",
+  "one_liner": "LivedX is an online equity platform that translates peoples' lived & learned experiences using ML into power skills credentials for educational and job success.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/sxfjjbflq9z2blz0ifhj",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/gverma116"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/livedx",
+  "api": "/api/companies/livedx.json"
+}

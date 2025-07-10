@@ -1,0 +1,22 @@
+{
+  "name": "Gohaus",
+  "slug": "gohaus",
+  "website": "https://gohaus.ai/",
+  "description": "For retailers facing low conversion rates, and customers facing a highly fragmented market, with low personalization tools overwhelmed by the complexity and uncertainty of home renovation, Goohaus offers an AI-powered platform that integrates with retail",
+  "one_liner": "For retailers facing low conversion rates, and customers facing a highly fragmented market, with low personalization tools overwhelmed by the complexity and uncertainty of home renovation, Goohaus offers an AI-powered platform that integrates with retail",
+  "location": "Dover, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/goohaus"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gohaus",
+  "api": "/api/companies/gohaus.json"
+}

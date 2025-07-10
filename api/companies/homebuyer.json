@@ -1,0 +1,24 @@
+{
+  "name": "Homebuyer",
+  "slug": "homebuyer",
+  "website": "https://homebuyer.com/",
+  "description": "A self-directed mortgage platform.",
+  "one_liner": "A self-directed mortgage platform.",
+  "location": "Cincinnati, Ohio, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/homebuyer",
+    "linkedin": "https://linkedin.com/company/homebuyer",
+    "facebook": "https://facebook.com/growella"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/homebuyer",
+  "api": "/api/companies/homebuyer.json"
+}

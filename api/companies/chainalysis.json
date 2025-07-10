@@ -1,0 +1,24 @@
+{
+  "name": "Chainalysis",
+  "slug": "chainalysis",
+  "website": "https://chainalysis.com/",
+  "description": "Chainalysis helps government agencies, cryptocurrency businesses, and financial institutions engage confidently with cryptocurrency.",
+  "one_liner": "Chainalysis helps government agencies, cryptocurrency businesses, and financial institutions engage confidently with cryptocurrency.",
+  "location": "New York City, New York, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/chainalysis",
+    "linkedin": "https://linkedin.com/company/chainalysis",
+    "facebook": "https://facebook.com/Chainalysis"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/chainalysis",
+  "api": "/api/companies/chainalysis.json"
+}

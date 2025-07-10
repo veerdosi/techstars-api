@@ -1,0 +1,24 @@
+{
+  "name": "Slighter",
+  "slug": "slighter",
+  "website": "https://slighter.com/",
+  "description": "Slighter is a behavioral change solution housed in a smart lighter and app that studies a smoker's habits and coaches them to reduce gradually until they quit.",
+  "one_liner": "Slighter is a behavioral change solution housed in a smart lighter and app that studies a smoker's habits and coaches them to reduce gradually until they quit.",
+  "location": "Bethesda, Maryland, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Slighter",
+    "linkedin": "https://linkedin.com/company/slighter",
+    "facebook": "https://facebook.com/slighter/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/slighter",
+  "api": "/api/companies/slighter.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Kadeya",
+  "slug": "kadeya",
+  "website": "https://kadeya.com/",
+  "description": "Kadeya is a closed-loop water vending business that utilizes digitally connected reusable water bottles and tiny bottling equipment. Kadeya was founded by Manuela Zoninsein.",
+  "one_liner": "Kadeya is a closed-loop water vending business that utilizes digitally connected reusable water bottles and tiny bottling equipment. Kadeya was founded by Manuela Zoninsein.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hellokadeya",
+    "linkedin": "https://linkedin.com/company/kdy",
+    "facebook": "https://facebook.com/AWMLimited"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kadeya",
+  "api": "/api/companies/kadeya.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DocOne",
+  "slug": "docone",
+  "website": "https://docone.fr/",
+  "description": "DocOne offers middle-layer building blocks for the next generation of AI-powered digital health applications.",
+  "one_liner": "DocOne offers middle-layer building blocks for the next generation of AI-powered digital health applications.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/docone"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/docone",
+  "api": "/api/companies/docone.json"
+}

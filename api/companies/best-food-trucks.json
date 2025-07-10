@@ -1,0 +1,24 @@
+{
+  "name": "Best Food Trucks",
+  "slug": "best-food-trucks",
+  "website": "https://bestfoodtrucks.com/",
+  "description": "Platform for office buildings to book & order online from food trucks.",
+  "one_liner": "Platform for office buildings to book & order online from food trucks.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/lotmom",
+    "linkedin": "https://linkedin.com/company/bestfoodtrucks",
+    "facebook": "https://facebook.com/bestfoodtrucksusa"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/best-food-trucks",
+  "api": "/api/companies/best-food-trucks.json"
+}

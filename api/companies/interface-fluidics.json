@@ -1,0 +1,23 @@
+{
+  "name": "Interface Fluidics",
+  "slug": "interface-fluidics",
+  "website": "https://interfacefluidics.com/",
+  "description": "Increase oil recovery through rapid fluid analysis under reservoir conditions",
+  "one_liner": "Increase oil recovery through rapid fluid analysis under reservoir conditions",
+  "location": "Calgary, Alberta, Canada",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/interfacefluids",
+    "linkedin": "https://linkedin.com/company/interface-fluidics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/interface-fluidics",
+  "api": "/api/companies/interface-fluidics.json"
+}

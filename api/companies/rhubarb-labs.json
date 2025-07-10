@@ -1,0 +1,22 @@
+{
+  "name": "Rhubarb Labs",
+  "slug": "rhubarb-labs",
+  "website": "https://joinrhubarb.com/",
+  "description": "Trusted Social Commerce for Food Gardeners & the Industry that supports them.\nRhubarb is an AI-powered, globally connected community of home food growers who are all committed to making a positive change.",
+  "one_liner": "Trusted Social Commerce for Food Gardeners & the Industry that supports them.\nRhubarb is an AI-powered, globally connected community of home food growers who are all committed to making a positive change.",
+  "location": "Dover, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/yu7ygjmdxwbhxqtsjwth",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/rhubarblabs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rhubarb-labs",
+  "api": "/api/companies/rhubarb-labs.json"
+}

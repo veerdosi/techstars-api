@@ -1,0 +1,23 @@
+{
+  "name": "Transship Corp",
+  "slug": "transship-corp",
+  "website": "https://transship.net/",
+  "description": "Automated freight forwarding for international shipments of full container loads of perishable and non perishable goods.",
+  "one_liner": "Automated freight forwarding for international shipments of full container loads of perishable and non perishable goods.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Supply chain technology",
+  "industry_slug": "supply-chain-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/transship",
+    "linkedin": "https://linkedin.com/company/transship-corp-llc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/transship-corp",
+  "api": "/api/companies/transship-corp.json"
+}

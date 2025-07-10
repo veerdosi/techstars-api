@@ -1,0 +1,24 @@
+{
+  "name": "Eventnoire",
+  "slug": "eventnoire",
+  "website": "https://eventnoire.com/",
+  "description": "Eventnoire is the digital gateway to Black culture-centric events",
+  "one_liner": "Eventnoire is the digital gateway to Black culture-centric events",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/eventnoire",
+    "linkedin": "https://linkedin.com/company/eventnoire",
+    "facebook": "https://facebook.com/eventnoire"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/eventnoire",
+  "api": "/api/companies/eventnoire.json"
+}

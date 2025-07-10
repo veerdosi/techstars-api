@@ -1,0 +1,24 @@
+{
+  "name": "SOTRO",
+  "slug": "sotro",
+  "website": "https://getsotro.com/",
+  "description": "SOTRO is a hair care technology startup building a proprietary line of connected hair tools offering a groundbreaking approach to treating, styling and caring for the widest range of hair types and textures.",
+  "one_liner": "SOTRO is a hair care technology startup building a proprietary line of connected hair tools offering a groundbreaking approach to treating, styling and caring for the widest range of hair types and textures.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Beauty",
+  "industry_slug": "beauty",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getsotro",
+    "linkedin": "https://linkedin.com/company/sotroinnovations",
+    "facebook": "https://facebook.com/sotroinc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sotro",
+  "api": "/api/companies/sotro.json"
+}

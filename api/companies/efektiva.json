@@ -1,0 +1,23 @@
+{
+  "name": "Efektiva",
+  "slug": "efektiva",
+  "website": "https://efektiva.mx/",
+  "description": "International B2B analytics platform that verifies suppliers in under 4 hours.",
+  "one_liner": "International B2B analytics platform that verifies suppliers in under 4 hours.",
+  "location": "Zapopan, Jalisco, Mexico",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/efektivamx",
+    "facebook": "https://facebook.com/ixhuamx/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/efektiva",
+  "api": "/api/companies/efektiva.json"
+}

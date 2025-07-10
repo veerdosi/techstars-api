@@ -1,0 +1,23 @@
+{
+  "name": "Nixtla",
+  "slug": "nixtla",
+  "website": "https://nixtla.io/",
+  "description": "State of the Art Forecasting Software.",
+  "one_liner": "State of the Art Forecasting Software.",
+  "location": "Mexico City, Mexico",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/nixtlainc",
+    "linkedin": "https://linkedin.com/company/nixtlainc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nixtla",
+  "api": "/api/companies/nixtla.json"
+}

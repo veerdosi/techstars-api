@@ -1,0 +1,22 @@
+{
+  "name": "Hyperion Global Energy",
+  "slug": "hyperion-global-energy",
+  "website": "https://hyperionenergy.ca/",
+  "description": "Developing modular carbon capture & recycling technology at a breakthrough industrial scale.",
+  "one_liner": "Developing modular carbon capture & recycling technology at a breakthrough industrial scale.",
+  "location": "Ottawa, Ontario, Canada",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/hyperion-global-energy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hyperion-global-energy",
+  "api": "/api/companies/hyperion-global-energy.json"
+}

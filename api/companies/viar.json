@@ -1,0 +1,24 @@
+{
+  "name": "VIAR",
+  "slug": "viar",
+  "website": "https://viar.si/",
+  "description": "We help people experience things that they never thought possible by providing easy-to-use authoring & distribution tools for Virtual & Augmented Reality.",
+  "one_liner": "We help people experience things that they never thought possible by providing easy-to-use authoring & distribution tools for Virtual & Augmented Reality.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/weareviar",
+    "linkedin": "https://linkedin.com/company/viar",
+    "facebook": "https://facebook.com/weareviar/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/viar",
+  "api": "/api/companies/viar.json"
+}

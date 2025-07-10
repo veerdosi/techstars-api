@@ -1,0 +1,22 @@
+{
+  "name": "Valuables",
+  "slug": "valuables",
+  "website": "https://valuables.co/",
+  "description": "Valuables is an AI-powered SaaS platform that helps professionals become thought leaders in their field.",
+  "one_liner": "Valuables is an AI-powered SaaS platform that helps professionals become thought leaders in their field.",
+  "location": "Washington, District of Columbia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/valuables-saas"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/valuables",
+  "api": "/api/companies/valuables.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Driven",
+  "slug": "driven",
+  "website": "https://paywithdriven.com/",
+  "description": "Driven is a payment platform that helps local governments, car insurance businesses, lawyers, and mobility companies increase their revenue and efficiency",
+  "one_liner": "Driven is a payment platform that helps local governments, car insurance businesses, lawyers, and mobility companies increase their revenue and efficiency",
+  "location": "Farmington Hills, Michigan, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ticketavengers1",
+    "linkedin": "https://linkedin.com/company/ticket-avengers",
+    "facebook": "https://facebook.com/TicketAvengers/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/driven",
+  "api": "/api/companies/driven.json"
+}

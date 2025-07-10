@@ -1,0 +1,24 @@
+{
+  "name": "Base Operations",
+  "slug": "base-operations",
+  "website": "https://baseoperations.co/",
+  "description": "Base Operations is a security and risk management platform that helps users safely navigate emerging market cities.",
+  "one_liner": "Base Operations is a security and risk management platform that helps users safely navigate emerging market cities.",
+  "location": "Washington, District of Columbia, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/BaseReport",
+    "linkedin": "https://linkedin.com/company/base-operations",
+    "facebook": "https://facebook.com/basereport/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/base-operations",
+  "api": "/api/companies/base-operations.json"
+}

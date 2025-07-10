@@ -1,0 +1,22 @@
+{
+  "name": "Exitous",
+  "slug": "exitous",
+  "website": "https://exitous.co/",
+  "description": "We make it easy for HR teams to leverage the data they already have in their company systems to empower exiting workers with AI-powered, human-vetted, personalized job exit roadmaps in a caring, wellbeing-focused platform.",
+  "one_liner": "We make it easy for HR teams to leverage the data they already have in their company systems to empower exiting workers with AI-powered, human-vetted, personalized job exit roadmaps in a caring, wellbeing-focused platform.",
+  "location": "Redlands, California, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/exitous"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/exitous",
+  "api": "/api/companies/exitous.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Cariqa",
+  "slug": "cariqa",
+  "website": "https://cariqa.com/",
+  "description": "Cariqa: Transforming EV charging with integrated financial perks, simplified pricing, and enhanced operator-consumer relationships.",
+  "one_liner": "Cariqa: Transforming EV charging with integrated financial perks, simplified pricing, and enhanced operator-consumer relationships.",
+  "location": "Berlin, Germany",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/cariqa"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cariqa",
+  "api": "/api/companies/cariqa.json"
+}

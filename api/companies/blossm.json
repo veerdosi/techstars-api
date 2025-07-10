@@ -1,0 +1,24 @@
+{
+  "name": "Blossm",
+  "slug": "blossm",
+  "website": "https://blossm.garden/",
+  "description": "Community marketplace to buy, sell, and trade plants",
+  "one_liner": "Community marketplace to buy, sell, and trade plants",
+  "location": "San Diego, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/@blossmllc",
+    "linkedin": "https://linkedin.com/company/blossm-plant-marketplace",
+    "facebook": "https://facebook.com/blossmplantswap"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/blossm",
+  "api": "/api/companies/blossm.json"
+}

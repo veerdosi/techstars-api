@@ -1,0 +1,22 @@
+{
+  "name": "Fivvy",
+  "slug": "fivvy",
+  "website": "https://getfivvy.com/",
+  "description": "Mobile data and analytics platform that delivers data and insights to succeed in a data driven economy.",
+  "one_liner": "Mobile data and analytics platform that delivers data and insights to succeed in a data driven economy.",
+  "location": "Miami, Florida, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wjabb9ucv0pqstb9514w",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/74370828"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fivvy",
+  "api": "/api/companies/fivvy.json"
+}

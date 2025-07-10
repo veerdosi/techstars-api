@@ -1,0 +1,23 @@
+{
+  "name": "Floop",
+  "slug": "floop",
+  "website": "https://linkedin.com/company/floop-edu",
+  "description": "Founded by teachers, Floop is the feedback literacy company that empowers learners with the lifelong skills of seeking, giving, and using feedback to learn. Our web app helps teachers give feedback 4x faster and teaches students to engage with feedback.",
+  "one_liner": "Founded by teachers, Floop is the feedback literacy company that empowers learners with the lifelong skills of seeking, giving, and using feedback to learn. Our web app helps teachers give feedback 4x faster and teaches students to engage with feedback.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/floopedu",
+    "linkedin": "https://linkedin.com/company/floop-edu"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/floop",
+  "api": "/api/companies/floop.json"
+}

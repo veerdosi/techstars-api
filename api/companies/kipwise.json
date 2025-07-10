@@ -1,0 +1,24 @@
+{
+  "name": "Kipwise",
+  "slug": "kipwise",
+  "website": "https://kipwise.com/",
+  "description": "Kipwise is a knowledge management tool integrated with Slack that helps teams save, organize and utilize useful team knowledge in a more automated way.",
+  "one_liner": "Kipwise is a knowledge management tool integrated with Slack that helps teams save, organize and utilize useful team knowledge in a more automated way.",
+  "location": "Valley Cottage, New York, United States",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/kipwise_com",
+    "linkedin": "https://linkedin.com/company/kipwise",
+    "facebook": "https://facebook.com/kipwisecom/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kipwise",
+  "api": "/api/companies/kipwise.json"
+}

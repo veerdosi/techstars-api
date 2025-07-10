@@ -1,0 +1,23 @@
+{
+  "name": "Pierce Aerospace",
+  "slug": "pierce-aerospace",
+  "website": "https://pierceaerospace.net/",
+  "description": "Heterogeneous drone network identification and multi-domain IoT solutions at the edge.",
+  "one_liner": "Heterogeneous drone network identification and multi-domain IoT solutions at the edge.",
+  "location": "Fishers, Indiana, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/gowento",
+    "linkedin": "https://linkedin.com/company/gowento"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pierce-aerospace",
+  "api": "/api/companies/pierce-aerospace.json"
+}

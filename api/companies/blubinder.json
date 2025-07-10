@@ -1,0 +1,22 @@
+{
+  "name": "BluBinder",
+  "slug": "blubinder",
+  "website": "https://blubinder.com/",
+  "description": "BluBinder provides modern multigenerational banking services for financial institutions to make it easy for families to keep elderly loved ones' money safe as they age and to transfer wealth between the generations when that time comes.",
+  "one_liner": "BluBinder provides modern multigenerational banking services for financial institutions to make it easy for families to keep elderly loved ones' money safe as they age and to transfer wealth between the generations when that time comes.",
+  "location": "Falls Church, Virginia, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/blubinder"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/blubinder",
+  "api": "/api/companies/blubinder.json"
+}

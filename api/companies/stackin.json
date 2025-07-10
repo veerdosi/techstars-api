@@ -1,0 +1,24 @@
+{
+  "name": "Stackin'",
+  "slug": "stackin",
+  "website": "https://linkedin.com/company/stackin",
+  "description": "Stackin' is an app-based service that provides personalized financial education.",
+  "one_liner": "Stackin' is an app-based service that provides personalized financial education.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/startstackin",
+    "linkedin": "https://linkedin.com/company/stackin",
+    "facebook": "https://facebook.com/startstackin"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/stackin",
+  "api": "/api/companies/stackin.json"
+}

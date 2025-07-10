@@ -1,0 +1,22 @@
+{
+  "name": "LUBU Technologies",
+  "slug": "lubu-technologies",
+  "website": "https://lubu.ai/",
+  "description": "AI-powered smart insoles designed to augment physical performance and minimize injury risks.",
+  "one_liner": "AI-powered smart insoles designed to augment physical performance and minimize injury risks.",
+  "location": "West Hollywood, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/lubu"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lubu-technologies",
+  "api": "/api/companies/lubu-technologies.json"
+}

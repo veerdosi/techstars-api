@@ -1,0 +1,24 @@
+{
+  "name": "dev-docs",
+  "slug": "dev-docs",
+  "website": "https://dev-docs.dev/",
+  "description": "A developer-first approach to documentation",
+  "one_liner": "A developer-first approach to documentation",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/a",
+    "linkedin": "https://linkedin.com/company/devdocs",
+    "facebook": "https://facebook.com/na"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dev-docs",
+  "api": "/api/companies/dev-docs.json"
+}

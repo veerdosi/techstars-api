@@ -1,0 +1,24 @@
+{
+  "name": "The Clear Cut",
+  "slug": "the-clear-cut",
+  "website": "https://theclearcut.co/",
+  "description": "A direct-to-consumer diamond ring e-commerce platform providing a curated selection of high-quality diamonds/designs at fair price points",
+  "one_liner": "A direct-to-consumer diamond ring e-commerce platform providing a curated selection of high-quality diamonds/designs at fair price points",
+  "location": "New York City, New York, United States",
+  "industry": "Manufacturing",
+  "industry_slug": "manufacturing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/theclearcut",
+    "linkedin": "https://linkedin.com/company/theclearcut",
+    "facebook": "https://facebook.com/theclearcutjewelry"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/the-clear-cut",
+  "api": "/api/companies/the-clear-cut.json"
+}

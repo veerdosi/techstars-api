@@ -1,0 +1,24 @@
+{
+  "name": "Inklocker",
+  "slug": "inklocker",
+  "website": "https://linkedin.com/company/inklocker",
+  "description": "Inklocker is the AWS for custom-manufacturing providing a decentralized global network of on-demand manufactures.",
+  "one_liner": "Inklocker is the AWS for custom-manufacturing providing a decentralized global network of on-demand manufactures.",
+  "location": "Costa Mesa, California, United States",
+  "industry": "3D printing",
+  "industry_slug": "3d-printing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/myinklocker",
+    "linkedin": "https://linkedin.com/company/inklocker",
+    "facebook": "https://facebook.com/myinklocker"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/inklocker",
+  "api": "/api/companies/inklocker.json"
+}

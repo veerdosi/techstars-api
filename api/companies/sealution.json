@@ -1,0 +1,23 @@
+{
+  "name": "Sealution",
+  "slug": "sealution",
+  "website": "https://sealution.io/",
+  "description": "Welcome to a new era of maritime connectivity.",
+  "one_liner": "Welcome to a new era of maritime connectivity.",
+  "location": "Oudenaarde, Belgium",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sealution_io",
+    "linkedin": "https://linkedin.com/company/sealution"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sealution",
+  "api": "/api/companies/sealution.json"
+}

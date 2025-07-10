@@ -1,0 +1,24 @@
+{
+  "name": "Headliner",
+  "slug": "headliner",
+  "website": "https://linkedin.com/company/headliner-io",
+  "description": "Headliner is a marketplace connecting event planners with the world's live entertainment to easily book acts for weddings, celebrations or corporate events.",
+  "one_liner": "Headliner is a marketplace connecting event planners with the world's live entertainment to easily book acts for weddings, celebrations or corporate events.",
+  "location": "London, United Kingdom",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/headlinerio",
+    "linkedin": "https://linkedin.com/company/headliner-io",
+    "facebook": "https://facebook.com/pg/headliner1ive/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/headliner",
+  "api": "/api/companies/headliner.json"
+}

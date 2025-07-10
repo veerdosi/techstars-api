@@ -1,0 +1,24 @@
+{
+  "name": "Flomio",
+  "slug": "flomio",
+  "website": "https://flomio.com/",
+  "description": "NFC and RFID solutions for Developers",
+  "one_liner": "NFC and RFID solutions for Developers",
+  "location": "Miami Beach, Florida, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/flomio",
+    "linkedin": "https://linkedin.com/in/timronan",
+    "facebook": "https://facebook.com/pages/Flomio/218724368144282"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/flomio",
+  "api": "/api/companies/flomio.json"
+}

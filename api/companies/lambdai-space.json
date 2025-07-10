@@ -1,0 +1,22 @@
+{
+  "name": "Lambdai Space",
+  "slug": "lambdai-space",
+  "website": "https://lambdai.space/",
+  "description": "We are democratizing access to remote monitoring for climate impact",
+  "one_liner": "We are democratizing access to remote monitoring for climate impact",
+  "location": "Milano, Lombardy, Italy",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/evkiil0uzt3zodyawzyi",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/lambdai-space"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lambdai-space",
+  "api": "/api/companies/lambdai-space.json"
+}

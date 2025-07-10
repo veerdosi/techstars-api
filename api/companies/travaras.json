@@ -1,0 +1,23 @@
+{
+  "name": "Travaras",
+  "slug": "travaras",
+  "website": "https://travaras.com/",
+  "description": "For mindful travelers looking to connect more deeply with the destinations they're visiting, Travaras brings transparency and ease to finding and booking sustainable travel that's good for people and planet.",
+  "one_liner": "For mindful travelers looking to connect more deeply with the destinations they're visiting, Travaras brings transparency and ease to finding and booking sustainable travel that's good for people and planet.",
+  "location": "Sacramento, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/travaras",
+    "facebook": "https://facebook.com/travaras.travel"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/travaras",
+  "api": "/api/companies/travaras.json"
+}

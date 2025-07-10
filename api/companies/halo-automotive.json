@@ -1,0 +1,24 @@
+{
+  "name": "Halo Automotive",
+  "slug": "halo-automotive",
+  "website": "https://linkedin.com/company/halo-car",
+  "description": "Free fleet management dashboard which let's fleet operators order & pay for services in just a few clicks from an app without the need for aftermarket hardware.",
+  "one_liner": "Free fleet management dashboard which let's fleet operators order & pay for services in just a few clicks from an app without the need for aftermarket hardware.",
+  "location": "Portland, Oregon, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/halocarus",
+    "linkedin": "https://linkedin.com/company/halo-car",
+    "facebook": "https://facebook.com/HaloFleet/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/halo-automotive",
+  "api": "/api/companies/halo-automotive.json"
+}

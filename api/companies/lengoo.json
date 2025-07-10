@@ -1,0 +1,24 @@
+{
+  "name": "Lengoo",
+  "slug": "lengoo",
+  "website": "https://linkedin.com/company/lengoo",
+  "description": "Lengoo provides premium language translation services using a combination of the latest machine translation technology and professional linguists.",
+  "one_liner": "Lengoo provides premium language translation services using a combination of the latest machine translation technology and professional linguists.",
+  "location": "Berlin, Germany",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/LengooTweets",
+    "linkedin": "https://linkedin.com/company/lengoo",
+    "facebook": "https://facebook.com/lengootranslations"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lengoo",
+  "api": "/api/companies/lengoo.json"
+}

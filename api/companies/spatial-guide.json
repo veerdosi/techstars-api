@@ -1,0 +1,24 @@
+{
+  "name": "Spatial Guide",
+  "slug": "spatial-guide",
+  "website": "https://spatial.guide/",
+  "description": "Mobile platform to create & distribute instruction manuals in augmented reality, to reduce usage friction for equipment users.",
+  "one_liner": "Mobile platform to create & distribute instruction manuals in augmented reality, to reduce usage friction for equipment users.",
+  "location": "Delaware, Ohio, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/g4en8ybvnrnma74poyrt",
+  "social_media": {
+    "twitter": "https://twitter.com/guideapp_",
+    "linkedin": "https://linkedin.com/company/spatial-guide",
+    "facebook": "https://facebook.com/profile.php"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/spatial-guide",
+  "api": "/api/companies/spatial-guide.json"
+}

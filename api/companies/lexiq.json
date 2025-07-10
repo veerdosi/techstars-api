@@ -1,0 +1,24 @@
+{
+  "name": "LexIQ",
+  "slug": "lexiq",
+  "website": "https://lexiq.io/",
+  "description": "For lawyers who spend hours drafting and analyzing contracts, we offer a gen AI-powered Word plugin that significantly reduces the time spent on contract negotiation.",
+  "one_liner": "For lawyers who spend hours drafting and analyzing contracts, we offer a gen AI-powered Word plugin that significantly reduces the time spent on contract negotiation.",
+  "location": "Tysons, Virginia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/lexiq_io",
+    "linkedin": "https://linkedin.com/company/lexiq-ai",
+    "facebook": "https://facebook.com/profile.php"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lexiq",
+  "api": "/api/companies/lexiq.json"
+}

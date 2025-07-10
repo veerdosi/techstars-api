@@ -1,0 +1,24 @@
+{
+  "name": "KredFeed",
+  "slug": "kredfeed",
+  "website": "https://kredfeed.com/",
+  "description": "It is the platform that solves the working capital needs of SMEs making their accounts receivable liquid.",
+  "one_liner": "It is the platform that solves the working capital needs of SMEs making their accounts receivable liquid.",
+  "location": "Guadalajara, Jalisco, Mexico",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/KredFeed",
+    "linkedin": "https://linkedin.com/company/kredfeed",
+    "facebook": "https://facebook.com/kredfeed"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kredfeed",
+  "api": "/api/companies/kredfeed.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Project Canary",
+  "slug": "project-canary",
+  "website": "https://projectcanary.com/",
+  "description": "Continuous methane monitoring for the energy industry.",
+  "one_liner": "Continuous methane monitoring for the energy industry.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ProjectCanary1",
+    "linkedin": "https://linkedin.com/company/projectcanary",
+    "facebook": "https://facebook.com/denverprojectcanary/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/project-canary",
+  "api": "/api/companies/project-canary.json"
+}

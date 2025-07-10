@@ -1,0 +1,24 @@
+{
+  "name": "StackSource",
+  "slug": "stacksource",
+  "website": "https://stacksource.com/",
+  "description": "StackSource is the online platform for commercial real estate loans.",
+  "one_liner": "StackSource is the online platform for commercial real estate loans.",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/stacksource",
+    "linkedin": "https://linkedin.com/company/StackSource",
+    "facebook": "https://facebook.com/StackSource/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/stacksource",
+  "api": "/api/companies/stacksource.json"
+}

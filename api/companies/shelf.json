@@ -1,0 +1,24 @@
+{
+  "name": "Shelf",
+  "slug": "shelf",
+  "website": "https://shelf.network/",
+  "description": "Distributed network - allowing to run the same synchronized trade / auction at multiple interconnected marketplaces",
+  "one_liner": "Distributed network - allowing to run the same synchronized trade / auction at multiple interconnected marketplaces",
+  "location": "Berlin, Germany",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/shelf_network",
+    "linkedin": "https://linkedin.com/company/17969937",
+    "facebook": "https://facebook.com/Shelfnetwork/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/shelf",
+  "api": "/api/companies/shelf.json"
+}

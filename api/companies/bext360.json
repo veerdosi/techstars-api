@@ -1,0 +1,24 @@
+{
+  "name": "Bext360",
+  "slug": "bext360",
+  "website": "https://bext360.com/",
+  "description": "Bext360 is a supply chain software management tool that tracks global commodities from the first mile, across processing nodes, and through retail.",
+  "one_liner": "Bext360 is a supply chain software management tool that tracks global commodities from the first mile, across processing nodes, and through retail.",
+  "location": "Golden, Colorado, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/bext360",
+    "linkedin": "https://linkedin.com/company/bext360",
+    "facebook": "https://facebook.com/bext360/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bext360",
+  "api": "/api/companies/bext360.json"
+}

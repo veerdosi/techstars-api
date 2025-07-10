@@ -1,0 +1,23 @@
+{
+  "name": "SWYE360 Learning",
+  "slug": "swye360-learning",
+  "website": "https://swye360.com/",
+  "description": "With over 1700 software applications used each semester, administrators struggle to track their effectiveness. SWYE360 solves this by using machine learning to aggregate ROI and academic returns for all software used by students",
+  "one_liner": "With over 1700 software applications used each semester, administrators struggle to track their effectiveness. SWYE360 solves this by using machine learning to aggregate ROI and academic returns for all software used by students",
+  "location": "Frisco, Texas, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/swye360",
+    "linkedin": "https://linkedin.com/company/swye360-learning"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/swye360-learning",
+  "api": "/api/companies/swye360-learning.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Stabilitas",
+  "slug": "stabilitas",
+  "website": "https://stabilitas.io/",
+  "description": "Stabilitas is an AI-powered risk intelligence platform that helps security professionals save time, money, and lives. ACQUIRED BY ONSOLVE IN AUG 2020.",
+  "one_liner": "Stabilitas is an AI-powered risk intelligence platform that helps security professionals save time, money, and lives. ACQUIRED BY ONSOLVE IN AUG 2020.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/OnSolve",
+    "linkedin": "https://linkedin.com/company/6412965",
+    "facebook": "https://facebook.com/Stabilitas/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/stabilitas",
+  "api": "/api/companies/stabilitas.json"
+}

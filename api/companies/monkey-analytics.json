@@ -1,0 +1,22 @@
+{
+  "name": "Monkey Analytics",
+  "slug": "monkey-analytics",
+  "website": "https://linkedin.com/company/monkey-analytics",
+  "description": "Scalable data mining in the cloud",
+  "one_liner": "Scalable data mining in the cloud",
+  "location": "Scituate, Massachusetts, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/monkey-analytics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/monkey-analytics",
+  "api": "/api/companies/monkey-analytics.json"
+}

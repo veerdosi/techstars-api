@@ -1,0 +1,24 @@
+{
+  "name": "Optivolt Labs",
+  "slug": "optivolt-labs",
+  "website": "https://optivoltlabs.com/",
+  "description": "Optivolt Labs develops high efficiency solar powered drones for commercial and military clients to extend flight time.",
+  "one_liner": "Optivolt Labs develops high efficiency solar powered drones for commercial and military clients to extend flight time.",
+  "location": "Burlingame, California, United States",
+  "industry": "Robotics and Drones",
+  "industry_slug": "robotics-drones",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/OptivoltLabs",
+    "linkedin": "https://linkedin.com/company/optivolt",
+    "facebook": "https://facebook.com/optivoltlabs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/optivolt-labs",
+  "api": "/api/companies/optivolt-labs.json"
+}

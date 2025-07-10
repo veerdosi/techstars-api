@@ -1,0 +1,22 @@
+{
+  "name": "TuCann Medical",
+  "slug": "tucann-medical",
+  "website": "https://tucannmedical.co/",
+  "description": "A novel vascular access device that prevents sepsis.",
+  "one_liner": "A novel vascular access device that prevents sepsis.",
+  "location": "Berwick, Victoria, Australia",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/tucann-medical"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tucann-medical",
+  "api": "/api/companies/tucann-medical.json"
+}

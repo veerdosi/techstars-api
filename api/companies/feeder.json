@@ -1,0 +1,24 @@
+{
+  "name": "Feeder",
+  "slug": "feeder",
+  "website": "https://getfeeder.com/",
+  "description": "Feeder is a facial recognition app that analysis instant facial reactions of the audience while watching content.",
+  "one_liner": "Feeder is a facial recognition app that analysis instant facial reactions of the audience while watching content.",
+  "location": "Barcelona, Spain",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/feedermetrics",
+    "linkedin": "https://linkedin.com/company/getfeeder",
+    "facebook": "https://facebook.com/FeederMetrics/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/feeder",
+  "api": "/api/companies/feeder.json"
+}

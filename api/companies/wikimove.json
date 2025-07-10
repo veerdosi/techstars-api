@@ -1,0 +1,22 @@
+{
+  "name": "Wikimove",
+  "slug": "wikimove",
+  "website": "https://wikimove.me/",
+  "description": "FLOW is a cross-regional, city-centric platform to manage the shift towards Mobility as a Service by leveraging data and orchestrating public and private mobility services in concert to the streets and infrastructure on which they rely.",
+  "one_liner": "FLOW is a cross-regional, city-centric platform to manage the shift towards Mobility as a Service by leveraging data and orchestrating public and private mobility services in concert to the streets and infrastructure on which they rely.",
+  "location": "Mulfingen, Germany",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/wikimove"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/wikimove",
+  "api": "/api/companies/wikimove.json"
+}

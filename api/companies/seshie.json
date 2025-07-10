@@ -1,0 +1,23 @@
+{
+  "name": "Seshie",
+  "slug": "seshie",
+  "website": "https://linkedin.com/company/seshie",
+  "description": "Seshie is a marketplace of expert guides offering live and virtual team building experiences for organizations to increase employee morale and build company culture.",
+  "one_liner": "Seshie is a marketplace of expert guides offering live and virtual team building experiences for organizations to increase employee morale and build company culture.",
+  "location": "Narberth, Pennsylvania, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/etzixq9oo5ba1tzr0hto",
+  "social_media": {
+    "twitter": "https://twitter.com/bookseshie",
+    "linkedin": "https://linkedin.com/company/seshie"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/seshie",
+  "api": "/api/companies/seshie.json"
+}

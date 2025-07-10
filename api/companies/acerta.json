@@ -1,0 +1,23 @@
+{
+  "name": "Acerta",
+  "slug": "acerta",
+  "website": "https://acerta.ca/",
+  "description": "Enterprise platform that uses machine learning to detect anomalies and predict failures in real time for vehicles coming off the assembly line or being driven.",
+  "one_liner": "Enterprise platform that uses machine learning to detect anomalies and predict failures in real time for vehicles coming off the assembly line or being driven.",
+  "location": "Kitchener, Ontario, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AcertaAnalytics",
+    "linkedin": "https://linkedin.com/company/acerta-systems-analytics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/acerta",
+  "api": "/api/companies/acerta.json"
+}

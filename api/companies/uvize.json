@@ -1,0 +1,24 @@
+{
+  "name": "Uvize",
+  "slug": "uvize",
+  "website": "https://uvize.com/",
+  "description": "Mentorship. Unleashed.",
+  "one_liner": "Mentorship. Unleashed.",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/30626-19ab550ca321ebb8fd2e70dd9c2971fa-medium_jpg.jpg?buster=1324414268",
+  "social_media": {
+    "twitter": "https://twitter.com/Uvize",
+    "linkedin": "https://linkedin.com/company/uvize-inc",
+    "facebook": "https://facebook.com/pages/Uvize/153019591451334"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/uvize",
+  "api": "/api/companies/uvize.json"
+}

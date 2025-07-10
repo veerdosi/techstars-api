@@ -1,0 +1,23 @@
+{
+  "name": "Bling",
+  "slug": "bling",
+  "website": "https://bling.cloud/",
+  "description": "We are building the future of communications - a central communications platform that allows business owners of all sizes  to have a single place for an omnichannel communication with their clients and customers.",
+  "one_liner": "We are building the future of communications - a central communications platform that allows business owners of all sizes  to have a single place for an omnichannel communication with their clients and customers.",
+  "location": "San Jose, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/blingcloud",
+    "facebook": "https://facebook.com/bling.cloud"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bling",
+  "api": "/api/companies/bling.json"
+}

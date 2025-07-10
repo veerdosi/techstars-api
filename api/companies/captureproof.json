@@ -1,0 +1,24 @@
+{
+  "name": "CaptureProof",
+  "slug": "captureproof",
+  "website": "https://captureproof.com/",
+  "description": "The first HIPAA-secure photo and video sharing platform for patients and all medical professionals",
+  "one_liner": "The first HIPAA-secure photo and video sharing platform for patients and all medical professionals",
+  "location": "San Francisco, California, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/170885-5c4cc9433f623c2d31c203a3be67be3c-medium_jpg.jpg?buster=1362084163",
+  "social_media": {
+    "twitter": "https://twitter.com/captureproof",
+    "linkedin": "https://linkedin.com/company/captureproof",
+    "facebook": "https://facebook.com/captureproof"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/captureproof",
+  "api": "/api/companies/captureproof.json"
+}

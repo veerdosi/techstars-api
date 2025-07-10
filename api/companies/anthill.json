@@ -1,0 +1,24 @@
+{
+  "name": "Anthill",
+  "slug": "anthill",
+  "website": "https://anthillai.com/",
+  "description": "Anthill enables companies to retain, engage, and develop employees when work happens away from the office.",
+  "one_liner": "Anthill enables companies to retain, engage, and develop employees when work happens away from the office.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/anthillai",
+    "linkedin": "https://linkedin.com/company/anthill-ai",
+    "facebook": "https://facebook.com/anthillai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/anthill",
+  "api": "/api/companies/anthill.json"
+}

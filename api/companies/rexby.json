@@ -1,0 +1,23 @@
+{
+  "name": "Rexby",
+  "slug": "rexby",
+  "website": "https://rexby.com/",
+  "description": "A platform where creators can sell travel advice to their community in an easy, scalable and profitable way.",
+  "one_liner": "A platform where creators can sell travel advice to their community in an easy, scalable and profitable way.",
+  "location": "Reykjavik, Iceland",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/rexby",
+    "facebook": "https://facebook.com/groups/859318104940547"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rexby",
+  "api": "/api/companies/rexby.json"
+}

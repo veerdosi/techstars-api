@@ -1,0 +1,24 @@
+{
+  "name": "socedo",
+  "slug": "socedo",
+  "website": "https://socedo.com/",
+  "description": "Socedo helps businesses discover leads and drive more sales/conversions on the social web.",
+  "one_liner": "Socedo helps businesses discover leads and drive more sales/conversions on the social web.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SocedoApp",
+    "linkedin": "https://linkedin.com/company/socedo",
+    "facebook": "https://facebook.com/Socedo"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/socedo",
+  "api": "/api/companies/socedo.json"
+}

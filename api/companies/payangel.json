@@ -1,0 +1,25 @@
+{
+  "name": "PayAngel",
+  "slug": "payangel",
+  "website": "https://payangel.com/",
+  "description": "PayAngel is a remittance company that allows users to send remittances Direct-to-Merchant, to simplify cross-border billing and payments for businesses and migrant workers from Africa.",
+  "one_liner": "PayAngel is a remittance company that allows users to send remittances Direct-to-Merchant, to simplify cross-border billing and payments for businesses and migrant workers from Africa.",
+  "location": "Dartford, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PayAngelMoney",
+    "linkedin": "https://linkedin.com/company/payangelmoney",
+    "facebook": "https://facebook.com/payangelmoney/",
+    "angellist": "https://payangel.com/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/payangel",
+  "api": "/api/companies/payangel.json"
+}

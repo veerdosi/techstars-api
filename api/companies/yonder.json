@@ -1,0 +1,24 @@
+{
+  "name": "Yonder",
+  "slug": "yonder",
+  "website": "https://newknowledge.io/",
+  "description": "SendGrid for analytics",
+  "one_liner": "SendGrid for analytics",
+  "location": "Austin, Texas, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/therealyonder",
+    "linkedin": "https://linkedin.com/company/yonderhq",
+    "facebook": "https://facebook.com/therealyonder"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/yonder",
+  "api": "/api/companies/yonder.json"
+}

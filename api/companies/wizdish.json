@@ -1,0 +1,24 @@
+{
+  "name": "WizDish",
+  "slug": "wizdish",
+  "website": "https://wizdish.com/",
+  "description": "Wizdish makes the ROVR virtual reality treadmill",
+  "one_liner": "Wizdish makes the ROVR virtual reality treadmill",
+  "location": "Kidlington, United Kingdom",
+  "industry": "Virtual reality",
+  "industry_slug": "virtual-reality",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/wizdish",
+    "linkedin": "https://linkedin.com/company/10167358",
+    "facebook": "https://facebook.com/pg/WizDishROVR"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/wizdish",
+  "api": "/api/companies/wizdish.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Kinside",
+  "slug": "kinside",
+  "website": "https://kinside.com/",
+  "description": "Child care platform as an employee benefit",
+  "one_liner": "Child care platform as an employee benefit",
+  "location": "Pasadena, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GetKinside",
+    "linkedin": "https://linkedin.com/company/kinside",
+    "facebook": "https://facebook.com/getKinside"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kinside",
+  "api": "/api/companies/kinside.json"
+}

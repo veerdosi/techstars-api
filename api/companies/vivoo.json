@@ -1,0 +1,24 @@
+{
+  "name": "Vivoo",
+  "slug": "vivoo",
+  "website": "https://vivoo.io/",
+  "description": "Vivoo (www.vivoo.io) is a wellness app that guides users to a healthier lifestyle with personalized advice based on their urine tests.",
+  "one_liner": "Vivoo (www.vivoo.io) is a wellness app that guides users to a healthier lifestyle with personalized advice based on their urine tests.",
+  "location": "Palo Alto, California, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/VivooApp",
+    "linkedin": "https://linkedin.com/company/vivooapp",
+    "facebook": "https://facebook.com/VivooApp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vivoo",
+  "api": "/api/companies/vivoo.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Prospero",
+  "slug": "prospero",
+  "website": "https://theprospero.io/",
+  "description": "Prospero fully automates email marketing for businesses that do not have a marketing team",
+  "one_liner": "Prospero fully automates email marketing for businesses that do not have a marketing team",
+  "location": "Seattle, Washington, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/prospero-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/prospero",
+  "api": "/api/companies/prospero.json"
+}

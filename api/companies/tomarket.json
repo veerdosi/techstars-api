@@ -1,0 +1,24 @@
+{
+  "name": "ToMarket",
+  "slug": "tomarket",
+  "website": "https://tomarket.farm/",
+  "description": "A simple communication and ordering platform to support and expand local food communities.",
+  "one_liner": "A simple communication and ordering platform to support and expand local food communities.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ToMarketdotFarm",
+    "linkedin": "https://linkedin.com/in/david-moosman-07219635",
+    "facebook": "https://facebook.com/tomarket.farm/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tomarket",
+  "api": "/api/companies/tomarket.json"
+}

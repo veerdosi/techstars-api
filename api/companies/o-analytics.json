@@ -1,0 +1,20 @@
+{
+  "name": "O Analytics",
+  "slug": "o-analytics",
+  "website": "https://o-analytics.com/",
+  "description": "O Analytics uses deep learning-inspired algorithmic software to master in science, technology, engineering and mathematics disciplines.",
+  "one_liner": "O Analytics uses deep learning-inspired algorithmic software to master in science, technology, engineering and mathematics disciplines.",
+  "location": "Fairmont, West Virginia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/o-analytics",
+  "api": "/api/companies/o-analytics.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "OptimusQ",
+  "slug": "optimusq",
+  "website": "https://optimusq.com/",
+  "description": "OptimusQ is an AI-management platform that makes online marketing accessible and easy for every company.",
+  "one_liner": "OptimusQ is an AI-management platform that makes online marketing accessible and easy for every company.",
+  "location": "Tel Aviv, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/optimusq",
+    "facebook": "https://facebook.com/OptimusQ-102611068886340/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/optimusq",
+  "api": "/api/companies/optimusq.json"
+}

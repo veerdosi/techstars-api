@@ -1,0 +1,23 @@
+{
+  "name": "EyeKnow",
+  "slug": "eyeknow",
+  "website": "https://eyeknow.ai/",
+  "description": "We make sure that caring for the helpless is safe using AI and security cameras.",
+  "one_liner": "We make sure that caring for the helpless is safe using AI and security cameras.",
+  "location": "Haifa, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/eyeknowai",
+    "facebook": "https://facebook.com/eyeknowai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/eyeknow",
+  "api": "/api/companies/eyeknow.json"
+}

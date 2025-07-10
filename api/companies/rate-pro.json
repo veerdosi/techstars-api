@@ -1,0 +1,22 @@
+{
+  "name": "Rate Pro",
+  "slug": "rate-pro",
+  "website": "https://pmiratepro.com/",
+  "description": "RatePro is a one stop shop for monthly expenses for homebuyers",
+  "one_liner": "RatePro is a one stop shop for monthly expenses for homebuyers",
+  "location": "Overland Park, Kansas, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/pmiratepro"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rate-pro",
+  "api": "/api/companies/rate-pro.json"
+}

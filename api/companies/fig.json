@@ -1,0 +1,24 @@
+{
+  "name": "Fig",
+  "slug": "fig",
+  "website": "https://figloans.com/",
+  "description": "Private banking for the underbanked",
+  "one_liner": "Private banking for the underbanked",
+  "location": "Sugar Land, Texas, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/figloans",
+    "linkedin": "https://linkedin.com/company/fig-tech",
+    "facebook": "https://facebook.com/playfig"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fig",
+  "api": "/api/companies/fig.json"
+}

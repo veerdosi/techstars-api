@@ -1,0 +1,23 @@
+{
+  "name": "Metavent",
+  "slug": "metavent",
+  "website": "https://metavent.io/",
+  "description": "Metavent is the All-Hands meeting solution for companies of up to 1,000 employees who need fully engaged, aligned and inspired teams.",
+  "one_liner": "Metavent is the All-Hands meeting solution for companies of up to 1,000 employees who need fully engaged, aligned and inspired teams.",
+  "location": "San Francisco, California, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/metaventful",
+    "linkedin": "https://linkedin.com/company/meta-vent"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/metavent",
+  "api": "/api/companies/metavent.json"
+}

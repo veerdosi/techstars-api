@@ -1,0 +1,24 @@
+{
+  "name": "Final",
+  "slug": "final",
+  "website": "https://getfinal.com/",
+  "description": "A credit card built for the 21st century",
+  "one_liner": "A credit card built for the 21st century",
+  "location": "Omaha, Nebraska, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/final",
+    "linkedin": "https://linkedin.com/company/finalisrael",
+    "facebook": "https://facebook.com/FinalAudio"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/final",
+  "api": "/api/companies/final.json"
+}

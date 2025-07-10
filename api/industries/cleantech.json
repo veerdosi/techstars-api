@@ -1,0 +1,4019 @@
+[
+  {
+    "name": "Twelve",
+    "website": "https://twelve.co/",
+    "description": "We are the carbon transformation(tm) company. We make the world's most critical chemicals, materials and fuels from air with our revolutionary carbon transformation(tm) technology.",
+    "location": "Berkeley, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/twelve_co2",
+      "linkedin": "https://linkedin.com/company/twelveco2",
+      "facebook": "https://facebook.com/twelve.co2/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Bevi",
+    "website": "https://bevi.co/",
+    "description": "Bevi is a smart water cooler that customizes still and sparkling water with healthy flavors.",
+    "location": "Concord, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getbevi",
+      "linkedin": "https://linkedin.com/company/bevi",
+      "facebook": "https://facebook.com/pages/Bevi/921798307850581"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Project Canary",
+    "website": "https://projectcanary.com/",
+    "description": "Continuous methane monitoring for the energy industry.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ProjectCanary1",
+      "linkedin": "https://linkedin.com/company/projectcanary",
+      "facebook": "https://facebook.com/denverprojectcanary/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Solstice",
+    "website": "https://solstice.us/",
+    "description": "Solstice radically expands access to clean energy by providing community-shared solar power to the 80 percent of Americans that cannot install a system on their rooftop.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/solarforgood",
+      "linkedin": "https://linkedin.com/company/solarforgood",
+      "facebook": "https://facebook.com/solarforgood/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "LevelTen Energy",
+    "website": "https://leveltenenergy.com/",
+    "description": "A renewable energy transaction platform connecting C&I power buyers to PPAs from utility-scale wind, solar, and storage projects",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LevelTenEnergy",
+      "linkedin": "https://linkedin.com/company/levelten-energy",
+      "facebook": "https://facebook.com/LevelTen-Energy-350401385419488/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "SkySpecs",
+    "website": "https://skyspecs.com/",
+    "description": "Simplify the Management of Renewable Energy Assets We offer purpose-built technologies and services so our customers can deliver the most efficient energy.",
+    "location": "Ann Arbor, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/skyspecs",
+      "linkedin": "https://linkedin.com/company/skyspecs",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Pixxel",
+    "website": "https://pixxel.space/",
+    "description": "We build and operate cutting-edge hyperspectral imaging satellites.",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pixxelspace",
+      "linkedin": "https://linkedin.com/company/pixxelspace",
+      "facebook": "https://facebook.com/pixxelspace/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Wunder",
+    "website": "https://wewunder.com/",
+    "description": "Connecting investors with great commercial solar projects",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wundercapital",
+      "linkedin": "https://linkedin.com/company/wunder",
+      "facebook": "https://facebook.com/WunderCapital"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Phoenix Tailings",
+    "website": "https://phoenixtailings.com/",
+    "description": "A mining company powered by technology, eliminating waste and creating sustainably produced metals #MaterialScience #Mining #B2B #Sustainability",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/phoenixtailings",
+      "linkedin": "https://linkedin.com/company/mvmindustrial"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Mast Reforestation",
+    "website": "https://mastreforest.com/",
+    "description": "Making reforestation scalable.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/giffett3baesbxlopusv",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mastreforest",
+      "linkedin": "https://linkedin.com/company/mast-reforest",
+      "facebook": "https://facebook.com/mast.reforest/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Hydro Wind Energy",
+    "website": "https://hw.energy/",
+    "description": "Breaking The Barrier to a Carbon Emissions Free Future",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/hydrowindenergy",
+      "linkedin": "https://linkedin.com/company/hydro-wind-energy",
+      "facebook": "https://facebook.com/HydroWindEnergy/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Simple Energy",
+    "website": "https://simpleenergy.com/",
+    "description": "Changing how people save energy",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/simpleenergy",
+      "linkedin": "https://linkedin.com/company/bleedingbulbfoundation",
+      "facebook": "https://facebook.com/SimpleEnergy"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "SparkCharge",
+    "website": "https://sparkcharge.io/",
+    "description": "World's First Mobile Electric Vehicle Charging Network",
+    "location": "Buffalo, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sparkcharge",
+      "linkedin": "https://linkedin.com/company/sparkcharge",
+      "facebook": "https://facebook.com/SparkChargeCorp"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "PathSpot",
+    "website": "https://pathspot.com/",
+    "description": "PathSpot scans employee's hands to detect pathogens that cause food borne illness - all in under 2 seconds.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PathSpot",
+      "linkedin": "https://linkedin.com/company/pathspot",
+      "facebook": "https://facebook.com/PathSpot/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Overstory",
+    "website": "https://20tree.ai/",
+    "description": "Real-time vegetation intelligence, at scale",
+    "location": "Amsterdam, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/overstoryai",
+      "linkedin": "https://linkedin.com/company/overstoryai"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Pretred",
+    "website": "https://pretred.com/",
+    "description": "Pretred recycles waste tires and repurposes them into barriers/blocks that are green, competitively priced, and offer greater benefits vs. concrete.",
+    "location": "Aurora, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pretred"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Solestial",
+    "website": "https://regher.com/",
+    "description": "Solestial is on a mission to deliver cost-effective, reliable and safe solutions to power the new space economy.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/j4lusrr0s6u74ba3y5xm",
+    "location": "Tempe, Arizona, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/solestial"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Rise Robotics",
+    "website": "https://riserobotics.com/",
+    "description": "Creating the world's best mobile robotic components",
+    "logo_url": "https://launchrock-assets.s3.amazonaws.com/logo-files/WZQMTSW7_1382562200511.png?_=3",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RiseRobotics",
+      "linkedin": "https://linkedin.com/in/arronacosta",
+      "facebook": "https://facebook.com/riseroboticsinc/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Rheaply",
+    "website": "https://rheaply.com/",
+    "description": "Rheaply platform allows organizations to save money, time, and the environment internally while also empowering STEM education in high schools and universities.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rheaplyinc",
+      "linkedin": "https://linkedin.com/company/rheaply-inc.",
+      "facebook": "https://facebook.com/rheaply"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Zeno Power Systems",
+    "website": "https://zenopowersystems.com/",
+    "description": "Next Generation Radioisotope Power System",
+    "location": "Arlington, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/zeno_power",
+      "linkedin": "https://linkedin.com/company/zeno-power-systems"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "PLANETARIANS",
+    "website": "https://planetarians.com/",
+    "description": "Most sustainable and affordable protein",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PlanetariansNet",
+      "linkedin": "https://linkedin.com/company/planetarians",
+      "facebook": "https://facebook.com/planetariansnet/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "WattBuy",
+    "website": "https://wattbuy.com/",
+    "description": "Wattbuy helps homeowners take charge of their electricity.",
+    "location": "Bellevue, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wattbuy",
+      "linkedin": "https://linkedin.com/company/wattb",
+      "facebook": "https://facebook.com/wattbuy/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "EcoPlant",
+    "website": "https://ecoplant.co/",
+    "description": "Ecoplant helps maintenance and productions managers, energy supervisors, and service providers save up to 50% on the electricity bill.",
+    "location": "Ashqelon, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/Ecoplant2017",
+      "linkedin": "https://linkedin.com/company/ecoplant-technological-innovation-ltd",
+      "facebook": "https://facebook.com/ecoplant.co/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Future",
+    "website": "https://future.green/",
+    "description": "Democratizing climate smart living.",
+    "location": "Silver Spring, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thefuturescore",
+      "linkedin": "https://linkedin.com/company/futurescore",
+      "facebook": "https://facebook.com/MyFuturescore"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "H2Ok Innovations",
+    "website": "https://h2okinnovations.com/",
+    "description": "IoT-enabled management platform helping heavy water-using industrials optimize water usage and treatment through predictive diagnostics.",
+    "location": "Allston, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/h2ok-innovations"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "HILOS",
+    "website": "https://hilos.co/",
+    "description": "Zero-Waste, On-Demand Manufacturing",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hilos-inc",
+      "facebook": "https://facebook.com/hilos.shoes/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Conservation Labs",
+    "website": "https://conservationlabs.com/",
+    "description": "Conservation Labs first product, H2know, is a smart water technology for the built environment.",
+    "location": "Brownsville, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/doyouh2know",
+      "linkedin": "https://linkedin.com/company/conservation-labs",
+      "facebook": "https://facebook.com/DoYouH2know"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Vartega",
+    "website": "https://vartega.com/",
+    "description": "Solving the world's toughest advanced materials recycling challenges",
+    "location": "Golden, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/VartegaCFR",
+      "linkedin": "https://linkedin.com/company/vartega",
+      "facebook": "https://facebook.com/Vartega"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Propagate Ventures",
+    "website": "https://propagateventures.com/",
+    "description": "Agroforestry investments & project development platform.",
+    "location": "Hudson, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/propagateorg",
+      "linkedin": "https://linkedin.com/company/propagate-ventures",
+      "facebook": "https://facebook.com/propagateag/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Simplifyber",
+    "website": "https://simplifyber.com/",
+    "description": "Simplifyber is creating biodegradable clothing and shoes directly from a liquid, without the need for spinning, weaving, cutting or sewing.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/simplifyber",
+      "linkedin": "https://linkedin.com/company/simplifyber"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "TO THE MARKET",
+    "website": "https://tothemarket.com/",
+    "description": "Powering the ethical supply chain.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LetsgoTTM",
+      "linkedin": "https://linkedin.com/company/5016366",
+      "facebook": "https://facebook.com/letsgottm"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Hammerhead",
+    "website": "https://hammerhead.io/",
+    "description": "Hammerhead helps bikers find their way and discover new ones.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hammerheadrides",
+      "linkedin": "https://linkedin.com/company/hammerhead-navigation",
+      "facebook": "https://facebook.com/HammerheadNavigation"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Graphite Innovation and Technologies",
+    "website": "https://grapheneenterprise.ca/",
+    "description": "Canada's leading protective marine coatings company specialized in high-performance coatings for large vessels that reduce fuel consumption and GHG",
+    "location": "Dartmouth, Nova Scotia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/GIT_Graphene",
+      "linkedin": "https://linkedin.com/company/grapheneenterprise"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Ecolectro",
+    "website": "https://ecolectro.com/",
+    "description": "Reducing the cost of green hydrogen by 33%.",
+    "location": "Ithaca, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ecolectroinc",
+      "linkedin": "https://linkedin.com/company/ecolectro-inc-",
+      "facebook": "https://facebook.com/ecolectroinc"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "2NDNATURE",
+    "website": "https://2ndnaturewater.com/",
+    "description": "2NDNATURE builds enterprise cloud stormwater compliance and management software to inform clean water.",
+    "location": "Santa Cruz, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/2ndnaturewater",
+      "linkedin": "https://linkedin.com/company/2ndnaturewater",
+      "facebook": "https://facebook.com/2ndnaturewater/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "RatedPower",
+    "website": "https://ratedpower.com/",
+    "description": "RatedPower developed pvDesign app, a SaaS to accelerate and optimize the design of Solar Photovoltaic plants worldwide.",
+    "location": "Madrid, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/rated_power",
+      "linkedin": "https://linkedin.com/company/11060588",
+      "facebook": "https://facebook.com/pages/category/Product-Service/RatedPower-2112503709030261/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Interface Fluidics",
+    "website": "https://interfacefluidics.com/",
+    "description": "Increase oil recovery through rapid fluid analysis under reservoir conditions",
+    "location": "Calgary, Alberta, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/interfacefluids",
+      "linkedin": "https://linkedin.com/company/interface-fluidics"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Bitfinder",
+    "website": "https://bitfinder.co/",
+    "description": "Awair is the smart indoor air monitor that learns your wellness needs and provides solutions to a healthier environment.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getawair",
+      "linkedin": "https://linkedin.com/company/bitfinder",
+      "facebook": "https://facebook.com/getawair"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "StormSensor",
+    "website": "https://stormsensor.io/",
+    "description": "StormSensor creates smart urban watersheds. Our sensors & analytics provide insights to cities regarding how their stormwater systems function & where they fail",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/stormsensor",
+      "linkedin": "https://linkedin.com/company/stormsensor",
+      "facebook": "https://facebook.com/stormsensor.inc"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Noteworthy AI",
+    "website": "https://noteworthy.ai/",
+    "description": "Noteworthy provides vehicle mounted cameras and AI to help electric utilities collect and analyze imagery on distribution assets at scale",
+    "location": "Stamford, Connecticut, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/noteworthyai",
+      "linkedin": "https://linkedin.com/company/noteworthy-ai",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Cariqa",
+    "website": "https://cariqa.com/",
+    "description": "Cariqa: Transforming EV charging with integrated financial perks, simplified pricing, and enhanced operator-consumer relationships.",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cariqa"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "ENSO",
+    "website": "https://enso.de/",
+    "description": "ENSO provides electricity, natural gas, water, heat and energy related services.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EnsoTech",
+      "linkedin": "https://linkedin.com/company/enso-energie-sachsen-ost-ag",
+      "facebook": "https://facebook.com/ensotyres/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "MITO Material Solutions",
+    "website": "https://mitomaterials.com/",
+    "description": "MITO Material Solutions manufactures hybrid nano-additives, enabling composite manufacturers to create tougher, lighter, and more durable products.",
+    "location": "Stillwater, Oklahoma, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MITO_Materials",
+      "linkedin": "https://linkedin.com/company/mitomaterials",
+      "facebook": "https://facebook.com/MITOMaterialSolutions/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Sunairio",
+    "website": "https://sunairio.com/",
+    "description": "Climate simulation for renewable energy prediction",
+    "location": "Baltimore, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sunairio",
+      "linkedin": "https://linkedin.com/company/sunairio"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Kazadi Enterprises",
+    "website": "https://kazadienterprises.com/",
+    "description": "Kazadi Enterprises is reducing the energy requirements of AC and brine reduction for mineral recovery by using environmental heat as a primary energy source.",
+    "location": "Batavia, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/kazadienterpri1",
+      "linkedin": "https://linkedin.com/company/kazadi-enterprises",
+      "facebook": "https://facebook.com/kazadienterprises"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Sunthetics",
+    "website": "https://sunthetics.io/",
+    "description": "Sunthetics develops smart, AI-enabled electrochemical reactors that enable the fast, hyper-efficient, and sustainable development of new molecules.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sunthetics"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Sheets & Giggles",
+    "website": "https://sheetsgiggles.com/",
+    "description": "Rapidly growing direct-to-consumer brand offers premium, sustainable home textiles at an affordable price.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SheetsGiggles",
+      "linkedin": "https://linkedin.com/company/sheetsgiggles",
+      "facebook": "https://facebook.com/SheetsGiggles/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Boson Motors",
+    "website": "https://bosonmotors.com/",
+    "description": "Boson Motors designs and manufactures certified light-duty electric vehicle powertrains and an Android-based vehicle operating system.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/w65gzgrvga1qioqqvnhu",
+    "location": "Milpitas, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/aforaruntej",
+      "linkedin": "https://linkedin.com/company/boson-motors"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Heex Technologies",
+    "website": "https://heex.io/",
+    "description": "A cloud-based collaboration software tool focusing on Smart Data management in autonomous driving.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/heex_io",
+      "linkedin": "https://linkedin.com/company/heex-technologies",
+      "facebook": "https://facebook.com/heex.io/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Mushroom Material",
+    "website": "https://mushroommaterial.com/",
+    "description": "A sustainable mushroom based alternative to polystyrene Styrofoam and cardboard packaging",
+    "location": "Auckland, New Zealand",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mushroom-material"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "IONA",
+    "website": "https://ionadrones.com/",
+    "description": "IONA develops zero-emission autonomous drone solutions for sustainable and efficient logistics in low population density areas.",
+    "location": "Bedford, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ionalogistics"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "ECO2GROW",
+    "website": "https://eco2grow.com/",
+    "description": "Making sourcing green energy as easy as possible for businesses.",
+    "location": "Bonn, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/eco2grow"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Resilient Power Systems",
+    "website": "https://resilientpower.com/",
+    "description": "Hardware startup addressing grid upgrades necessary for the transition to electric vehicles.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/aebwu2kf9lalyixwjwua",
+    "location": "Decatur, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/resilient-power"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "The Sun Exchange",
+    "website": "https://thesunexchange.com/",
+    "description": "Through the Sun Exchange anyone can earn income from the sun.",
+    "location": "Cape Town, South Africa",
+    "social_media": {
+      "twitter": "https://twitter.com/thesunexchange",
+      "linkedin": "https://linkedin.com/company/the-sun-exchange",
+      "facebook": "https://facebook.com/thesunexchange"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "microTERRA",
+    "website": "https://microterra.com.mx/",
+    "description": "Sustainable protein from wastewater. By combining Biotech and Hardware we develop microalgae systems that transform the fish farms wastewater into fish feed.",
+    "location": "Irapuato, Guanajuato, Mexico",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/40664387",
+      "facebook": "https://facebook.com/microTERRA.mx/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Pelikan Mobility",
+    "website": "https://pelikan-mobility.com/",
+    "description": "Software platform to optimize the electrification and operation of commercial fleets.",
+    "location": "Paris, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pelikan-mobility"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "PolyXLabs",
+    "website": "https://poliloop.com/",
+    "description": "We make non-biodegradable plastics microbially biodegrade and then turn the byproducts into valuable endproducts.",
+    "location": "Budapest, Hungary",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/poliloop"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Salient Energy",
+    "website": "https://salientenergy.ca/",
+    "description": "Cheap, safe, and long lasting zinc ion batteries for energy storage.",
+    "location": "Dartmouth, Nova Scotia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/SalientEnergy",
+      "linkedin": "https://linkedin.com/company/salient-energy"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "SPLT",
+    "website": "https://splt.io/",
+    "description": "SPLT is an enterprise ridesharing platform changing the way people commute together.",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/splt",
+      "linkedin": "https://linkedin.com/company/9344679",
+      "facebook": "https://facebook.com/teamsplt"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "HelioRec",
+    "website": "https://heliorec.com/",
+    "description": "HelioRec is developing floating solar technology for near-shore locations where half of global population lives.",
+    "location": "Nantes, France",
+    "social_media": {
+      "twitter": "https://twitter.com/Helio_Rec",
+      "linkedin": "https://linkedin.com/company/heliorec",
+      "facebook": "https://facebook.com/HelioRec/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Partsimony",
+    "website": "https://partsimony.com/",
+    "description": "Partsimony is your manufacturing supply chain superpower in a world of uncertainty.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/partsimony",
+      "linkedin": "https://linkedin.com/company/partsimony",
+      "facebook": "https://facebook.com/inventaprint/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Boldr",
+    "website": "https://shopboldr.com/",
+    "description": "Smart home heating & cooling",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/shopboldr",
+      "facebook": "https://facebook.com/shopboldr"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Mesodyne",
+    "website": "https://mesodyne.com/",
+    "description": "Silent, reliable, long-endurance power from any fuel.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mesodyne"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Renoster Systems",
+    "website": "https://renostersystems.co/",
+    "description": "Deep Transparency for the world's carbon credits.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/systemsrenoster",
+      "linkedin": "https://linkedin.com/company/53448926"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Resourcly",
+    "website": "https://resourcly.earth/",
+    "description": "Resourcly helps manufacturers improve working capital with their shared inventory OS by leveraging product data and AI.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nhwtwxgzlxizocndm7jl",
+    "location": "Mannheim, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/resourcly"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Hive Power",
+    "website": "https://hivepower.tech/",
+    "description": "Hive Power helps Energy Companies and Automakers to automate smart charging for electric vehicles.",
+    "location": "Manno, Switzerland",
+    "social_media": {
+      "twitter": "https://twitter.com/hive_power",
+      "linkedin": "https://linkedin.com/company/hive-power",
+      "facebook": "https://facebook.com/pg/HivePower"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Velocia",
+    "website": "https://velocia.io/",
+    "description": "Velocia is changing the way people move in cities through incentives and rewards.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/VelociaNetwork",
+      "linkedin": "https://linkedin.com/company/velocia",
+      "facebook": "https://facebook.com/velocia"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Peerby",
+    "website": "https://peerby.com/",
+    "description": "Borrow the things you need from others in their neighborhood.",
+    "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/112248-6ba181c8aec16fea2624569252be169d-medium_jpg.jpg?buster=1344532685",
+    "location": "Amsterdam, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/peerby",
+      "linkedin": "https://linkedin.com/company/2459488",
+      "facebook": "https://facebook.com/peerby"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Valyuu",
+    "website": "https://valyuu.com/",
+    "description": "Circular economy marketplace that unlocks the financial and environmental benefits of used electronic products.",
+    "location": "Gorinchem, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/HelloValyuu",
+      "linkedin": "https://linkedin.com/company/valyuu",
+      "facebook": "https://facebook.com/HelloValyuu/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Ambee",
+    "website": "https://getambee.com/",
+    "description": "Ambee aims to make hyperlocal air quality data accessable to developers, consumers, health researchers and media companies",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "twitter": "https://twitter.com/get_ambee",
+      "linkedin": "https://linkedin.com/company/getambee",
+      "facebook": "https://facebook.com/getambee/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Graphenest",
+    "website": "https://graphenest.com/",
+    "description": "Graphenest provides a two order of magnitude cost reduction in manufacture of graphene, a wonder material that enables high-performance materials",
+    "location": "Sever do Vouga, Portugal",
+    "social_media": {
+      "twitter": "https://twitter.com/graphenest",
+      "linkedin": "https://linkedin.com/company/graphenest---advanced-nanotechnology",
+      "facebook": "https://facebook.com/graphenest"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Three Wheels United",
+    "website": "https://threewheelsunited.com/",
+    "description": "Disrupting lending in emerging markets becoming the leading financier for electric mobility in the Global South",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "twitter": "https://twitter.com/TWUIndia",
+      "linkedin": "https://linkedin.com/company/three-wheels-united",
+      "facebook": "https://facebook.com/Threewheelsunited/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Metrobi",
+    "website": "https://metrobi.com/",
+    "description": "The mind behind last-mile logistics. Metrobi provides a shared service for B2B local deliveries.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MetrobiOfficial",
+      "linkedin": "https://linkedin.com/company/metrobi",
+      "facebook": "https://facebook.com/MetrobiCom/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Halion",
+    "website": "https://halion.ca/",
+    "description": "Advanced colour changing nanomaterials for intelligent surfaces.",
+    "location": "Kitchener, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/haliondisplays",
+      "linkedin": "https://linkedin.com/company/halion-displays",
+      "facebook": "https://facebook.com/haliondisplays/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Cassie",
+    "website": "https://aircassie.com/",
+    "description": "CASSIE creates green air filtration with a patented technology that is placed in ventilation systems. CASSIE disinfects mold, bacteria, and viruses within 8 seconds. Since CASSIE disinfects germs within 8 seconds it is controlled by our web portal.",
+    "location": "Virginia Beach, Virginia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/2e1blab"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Eneryield",
+    "website": "https://eneryield.com/",
+    "description": "Machine learning algorithms for advanced energy analytics",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/a0sm1lpbjtbchuvwoqvk",
+    "location": "Göteborg, Sweden",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/eneryieldofficial",
+      "facebook": "https://facebook.com/eneryield/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "AQUAOSO Technologies",
+    "website": "https://aquaoso.com/",
+    "description": "AQUAOSO provides research and risk analysis tools for lenders, appraisers, lawyers and researchers.",
+    "location": "Folsom, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/aquaosotech",
+      "linkedin": "https://linkedin.com/company/aquaoso",
+      "facebook": "https://facebook.com/AQUAOSO"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Wattmore",
+    "website": "https://wattmore.com/",
+    "description": "Nikola Power provides technology solutions in energy storage and solar.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nikola_power",
+      "linkedin": "https://linkedin.com/company/16262747",
+      "facebook": "https://facebook.com/Nikola-Power-1467102610009093"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Gelatex",
+    "website": "https://gelatex.com/",
+    "description": "Gelatex is the catalyst for cultured meat, wound care, filtration, and energy storage by providing up to 100 times cheaper and scalable nanofiber production.",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "twitter": "https://twitter.com/gela_tex",
+      "linkedin": "https://linkedin.com/company/gelatex",
+      "facebook": "https://facebook.com/gelatex/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Wiseair",
+    "website": "https://wiseair.vision/",
+    "description": "At Wiseair, we are enabling data-driven policy-making for sustainable cities and communities. Our product today is a solution to tackle air pollution in cities.",
+    "location": "Milan, Milan, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/wiseair_social",
+      "linkedin": "https://linkedin.com/company/19026152",
+      "facebook": "https://facebook.com/wiseair.social/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Nossa Data",
+    "website": "https://nossadata.com/",
+    "description": "Empowering companies to manage and plan their Environmental, Social, and Governance (ESG) needs.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Nossa_Data",
+      "linkedin": "https://linkedin.com/company/nossadata"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Wind Fisher",
+    "website": "https://wind-fisher.com/",
+    "description": "There is on shore ; there is off shore ; and there is high altitude wind. We develop a revolutionary concept for high altitude wind energy: safer, lighter, quicker, and more cost-effective. We re-invent wind power",
+    "location": "Les Adrets, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/wind-fisher"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Jaipur Robotics",
+    "website": "https://jaipurrobotics.com/",
+    "description": "Jaipur Robotics is building Europe's #1 AI-powered waste recognition and sorting solution for recycling and energy recovery.",
+    "location": "Manno, Switzerland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/jaipurrobotics"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Replace",
+    "website": "https://replacefund.com/",
+    "description": "Services for Renewable Energy",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/Replacefund",
+      "linkedin": "https://linkedin.com/company/renewable-energy-place-ltd",
+      "facebook": "https://facebook.com/Replacefund"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Ateios",
+    "website": "https://ateios.com/",
+    "description": "The first truly flexible and ultra-thin printed battery.",
+    "location": "La Jolla, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AteiosSystems",
+      "linkedin": "https://linkedin.com/company/ateios",
+      "facebook": "https://facebook.com/stretchytech/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Carbon Limit",
+    "website": "https://carbonlimit.com/",
+    "description": "A climate tech company with a technology that transforms concrete into a permanent Carbon Capture & Storage Solution (CCS).",
+    "location": "Boca Raton, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CarbonLimit",
+      "linkedin": "https://linkedin.com/company/carbonlimit"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "OE Systems AB",
+    "website": "https://oe-systems.com/",
+    "description": "A product and service company that delivers our own commercial wave energy solution that focuses on being installed in parallel with offshore wind turbines to enable increased production.",
+    "location": "Göteborg, Sweden",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oe-systems-ab"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "NBD Nano",
+    "website": "https://nbdnano.com/",
+    "description": "Developing enhanced condensation and anti-wetting surface coatings",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nbdnano",
+      "linkedin": "https://linkedin.com/company/3146963",
+      "facebook": "https://facebook.com/pages/NBD-Inc/344418178931668"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "BiB Batteries",
+    "website": "https://bib-batteries.fr/",
+    "description": "BiB optimizes batteries' performances, expands their lifecycle and reduces their environmental footprint, based on data analysis.",
+    "location": "Paris, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bib-batteries"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Equo",
+    "website": "https://equointl.com/",
+    "description": "EQUO delivers easy, sustainable solutions for everyday single-use plastic drinking straws made from 100% plastic-free, biodegradable, compostable and non-toxic materials.",
+    "location": "Ho Chi Minh City, Vietnam",
+    "social_media": {
+      "twitter": "https://twitter.com/equointl",
+      "linkedin": "https://linkedin.com/showcase/equo-international",
+      "facebook": "https://facebook.com/equointl/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Infinite Composites Technologies",
+    "website": "https://infinitecomposites.com/",
+    "description": "The most efficient gas storage systems in the universe.",
+    "location": "Tulsa, Oklahoma, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Infinite_C_T",
+      "linkedin": "https://linkedin.com/company/infinite-composites",
+      "facebook": "https://facebook.com/InfiniteComposites"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Nditive",
+    "website": "https://nditive.com/",
+    "description": "AI-powered digital twin-driven gas monitoring system",
+    "location": "St. John's, Newfoundland and Labrador, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nditive"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "PowerMarket",
+    "website": "https://powermarket.ai/",
+    "description": "B2B SaaS platform for end-to-end solar management.",
+    "location": "Oxford, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/PowerMarketAI",
+      "linkedin": "https://linkedin.com/company/powermarketai",
+      "facebook": "https://facebook.com/PowerMarketAI/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "SeeO2 Energy",
+    "website": "https://seeo2energy.com/",
+    "description": "Focused on efficiently converting carbon dioxide (CO2) into marketable and clean value-added fuels and chemicals using reversible fuel-cell technology.",
+    "location": "Calgary, Alberta, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/seeo2e",
+      "linkedin": "https://linkedin.com/company/seeo2-energy"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Gybe",
+    "website": "https://gybe.eco/",
+    "description": "Gybe helps customers monitor and manage water resources using a range of sensor technologies and satellite imagery.",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gybe_eco",
+      "linkedin": "https://linkedin.com/company/gybe-corp"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Dynamic Green Products",
+    "website": "https://nvearth.com/",
+    "description": "Innovative products for a cleaner future",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/dgpworks",
+      "linkedin": "https://linkedin.com/in/dynamic-green-products-63a0b733",
+      "facebook": "https://facebook.com/nvearth"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Hydrologistics Africa",
+    "website": "https://hydroiq.africa/",
+    "description": "HydroIQ is the World's First Virtual Water Network Operator (VWNO), bringing value in every drop.",
+    "location": "Nairobi, Kenya",
+    "social_media": {
+      "twitter": "https://twitter.com/HydroIQ",
+      "linkedin": "https://linkedin.com/company/hydroiq",
+      "facebook": "https://facebook.com/HydroIQ/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Tova Earth",
+    "website": "https://tova.earth/",
+    "description": "We predict business risk from water scarcity. WaterProof(tm) is a DaaS product using our physics informed AI hydrologic model to forecast water availability anywhere, accessible via an interactive platform and API. Corporations and investors will use WaterProof to minimize disruptions, eliminate water constraints on growth, and identify investment opportunities. Our AI replaces expensive, manual consulting with automated, high-resolution insights. The TurboTax of water engineering consulting.",
+    "location": "Amherst, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tovaearth"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Troposphere",
+    "website": "https://troposphe.re/",
+    "description": "Clair helps you breathe easy with air monitoring. Our devices tell you what's in the air, identify the source of impurities, and provide air-clearing advice.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tropotweets",
+      "linkedin": "https://linkedin.com/company/getclair",
+      "facebook": "https://facebook.com/getclair"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "SurPlusMap",
+    "website": "https://surplusmap.com/",
+    "description": "Geospatial analytics to empower decision-makers in the green transition.",
+    "location": "Oslo, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/surplusmap"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Sol Clarity",
+    "website": "https://solclarityeds.com/",
+    "description": "Water-free, Automated and Self-Cleaning Solar Power.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sol-clarity"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Powertrust",
+    "website": "https://powertrust.com/",
+    "description": "Help global corporations maximize the impact of their renewable procurement.",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/positive-capital-partners"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Korall Engineering",
+    "website": "https://korall.io/",
+    "description": "AI to automate product design workflows and optimize parts for additive manufacturing.",
+    "location": "Bergen, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/korall-engineering-as"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "ElectricFish",
+    "website": "https://electricfish.co/",
+    "description": "Distributed energy storage for EV charging, and grid-scale energy backup.",
+    "location": "Fremont, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/electricfishinc",
+      "linkedin": "https://linkedin.com/company/electricfish",
+      "facebook": "https://facebook.com/electricfish"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Bioledger",
+    "website": "https://bioledger.io/",
+    "description": "IOT SaaS making biofuels compliance easier, safer and more valuable.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/77855760"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "VORTEX BLADELESS",
+    "website": "https://vortexbladeless.com/",
+    "description": "Harnessing wind energy without blades ; reducing the cost of electricity",
+    "location": "Las Rozas de Madrid, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/vortexbladeless",
+      "linkedin": "https://linkedin.com/company/9333952",
+      "facebook": "https://facebook.com/vortexbladeless"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Katanso",
+    "website": "https://kumo.earth/",
+    "description": "KUMO enables borrowing the collateralized stablecoin KUSD against on-chain natural assets with no interest rate.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jdavypqibpcgjco0ysiu",
+    "location": "Mainz, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/kumo_earth",
+      "linkedin": "https://linkedin.com/company/kumo-earth"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Revent",
+    "website": "https://revent.store/",
+    "description": "Revent is an online destination for trusted preowned electronics",
+    "location": "New Castle, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/revent_uae",
+      "linkedin": "https://linkedin.com/company/revent-fzco",
+      "facebook": "https://facebook.com/revent.uae"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Albo",
+    "website": "https://albosys.com/",
+    "description": "Albo analyzes satellite imagery to survey soil deep beneath the surface, empowering farmers to grow more efficiently and more sustainably.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/AlboClimate",
+      "linkedin": "https://linkedin.com/company/albosys",
+      "facebook": "https://facebook.com/AlboSystems/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Planette",
+    "website": "https://planette.ai/",
+    "description": "Planette.ai empowers enterprises to adapt to climate change by providing year-ahead extreme weather risk forecasts.",
+    "location": "Fremont, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/planetteai"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Nicslab",
+    "website": "https://nicslab.com/",
+    "description": "Nicslab, a fabless chip company, developing electronic and photonic integrated circuits for future optical solutions in data centers, AI, and quantum computing.",
+    "location": "Sydney, New South Wales, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/NicslabOfficial",
+      "linkedin": "https://linkedin.com/company/nicslab",
+      "facebook": "https://facebook.com/Nicslab.Support/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Rana",
+    "website": "https://ranaenergy.co/",
+    "description": "RANA is building a brighter future for you, we provide an Energy-as-a-service ecosystem that is reliable, hassle-free and clean",
+    "location": "London, United Kingdom",
+    "social_media": {},
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Marine Edge",
+    "website": "https://marine-edge.com/",
+    "description": "Regenerative power management for marine transportation, optimizing propulsion efficiency to reduce fuel consumption for commercial vessels.",
+    "location": "Haifa, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/marine-edge",
+      "facebook": "https://facebook.com/MARINE-EDGE-103036722047767"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Maiven Energy",
+    "website": "https://askmaiven.com/",
+    "description": "Maiven is the AI-powered virtual energy assistant that is rapidly decarbonizing residential building stock and increasing grid flexibility, helping utilities and governments meet energy program goals faster and at a reduced cost.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/askmaiven"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "YEESMA SARL",
+    "website": "https://yeesma.com/",
+    "description": "YEESMA Provides EXCITING Solutions.",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {},
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "PLENO",
+    "website": "https://pleno.earth/",
+    "description": "SAAS for Carbon Project Developers",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/plenoearth"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "CellON",
+    "website": "https://cellon.one/",
+    "description": "CellON|Innovative materials co-created with Nature",
+    "location": "Oslo, Norway",
+    "social_media": {},
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Induction Food Systems",
+    "website": "https://inductionfoodsystems.com/",
+    "description": "Advanced fluid heating equipment that helps industrials profitably decarbonize their manufacturing ops.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ifsheating",
+      "linkedin": "https://linkedin.com/company/induction-food-systems"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Influunt Systems",
+    "website": "https://influunt.ai/",
+    "description": "Influunt provides water risk intelligence to businesses and environmental organizations using geospatial data, machine learning, and climate data",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/InfluuntAI",
+      "linkedin": "https://linkedin.com/company/influuntai"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Igugu Global",
+    "website": "https://igugu.global/",
+    "description": "Africa's green deal room",
+    "location": "Johannesburg, South Africa",
+    "social_media": {
+      "twitter": "https://twitter.com/GlobalIgugu",
+      "linkedin": "https://linkedin.com/company/igugu-global"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Elio",
+    "website": "https://elio.earth/",
+    "description": "Elio enables analysts in companies & governments to respond to climate change's dynamism and rapidly act on climate solutions with confidence, by putting leading scientific data into context.",
+    "location": "Yorba Linda, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ElioEarth",
+      "linkedin": "https://linkedin.com/company/elio-earth"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Climatescape",
+    "website": "https://climatescape.org/",
+    "description": "Climatescape is the investment platform for the climate generation",
+    "location": "Walnut, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/climatescape",
+      "linkedin": "https://linkedin.com/company/climatescape"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Benchmark Labs",
+    "website": "https://benchmarklabs.com/",
+    "description": "Benchmark Labs reduces operational costs and improves management practices by offering localized environmental forecasts for the agricultural sector and beyond.",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LabsBenchmark",
+      "linkedin": "https://linkedin.com/company/benchmark-labs-inc"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Aclymate",
+    "website": "https://aclymate.com/",
+    "description": "Aclymate empowers small businesses to become Climate Leaders",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AclymateCarbon",
+      "linkedin": "https://linkedin.com/company/aclymate",
+      "facebook": "https://facebook.com/Aclymate/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Tobe Energy",
+    "website": "https://tobe.energy/",
+    "description": "Tobe Energy cuts green hydrogen production costs by over 50% with a breakthrough electrolysis technology, making hydrogen a scalable, zero-emission fuel source",
+    "location": "Tulsa, Oklahoma, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tobe-energy"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Roll Scooters",
+    "website": "https://rollscooters.com/",
+    "description": "Roll offers smart mobility solutions by providing dock-less electric scooter and bike-share services to cities and campuses.",
+    "location": "Scarborough, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/roll_scooters",
+      "linkedin": "https://linkedin.com/company/roll-technologies",
+      "facebook": "https://facebook.com/rollscooters"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Namara Water Technologies",
+    "website": "https://namarawater.ai/",
+    "description": "Namara produces the most advance water management and conservation tools available in the market today.",
+    "location": "Carlsbad, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/namarawater"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "WhyGrene",
+    "website": "https://whygrene.com/",
+    "description": "Developer of a distributed energy software platform intended to accelerate the sustainable energy transition by helping solve renewable energy wastage.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/6c3b1008c9d7aa8baf70",
+    "location": "Lacey, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/whygreen1",
+      "linkedin": "https://linkedin.com/company/whygrene",
+      "facebook": "https://facebook.com/WHYGRENEINC/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Solar Unsoiled",
+    "website": "https://solarunsoiled.com/",
+    "description": "Software solution solving the $10B a year problem of dirty solar farms.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/michaelvalerino"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Satellites On Fire",
+    "website": "https://satellitesonfire.com/",
+    "description": "Satellites on Fire is a wildfire early detection system that uses satellites, ground cameras & AI.",
+    "location": "Martínez, Argentina",
+    "social_media": {
+      "twitter": "https://twitter.com/SatsOnFire",
+      "linkedin": "https://linkedin.com/company/satellitesonfire"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Rivalia Chemical Co",
+    "website": "https://rivaliachemical.com/",
+    "description": "American-made rare earths, produced from wastes",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wix",
+      "linkedin": "https://linkedin.com/company/rivalia-chemical-co",
+      "facebook": "https://facebook.com/wix"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Latimer Controls",
+    "website": "https://latimercontrols.com/",
+    "description": "Provides an embedded control software solution that allows utility-scale solar power plants to mitigate the instabilities of power production associated with irradiance volatility.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/latimer-controls"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Ecolytics",
+    "website": "https://ecolytics.io/",
+    "description": "An impact intelligence platform designed to use environmental impact to support core business metrics and strategic decision-making",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ecolytics",
+      "linkedin": "https://linkedin.com/company/ecolytics",
+      "facebook": "https://facebook.com/ecolytics"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Cobalt Water Global",
+    "website": "https://cobaltwater-global.com/",
+    "description": "AI & machine learning for sustainable urban water management.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cobaltwater_gbl",
+      "linkedin": "https://linkedin.com/company/cobalt-water-global",
+      "facebook": "https://facebook.com/totalwater/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Sensai Analytics",
+    "website": "https://sensai-analytics.com/",
+    "description": "An enterprise AI platform to train and deploy scalable machine learning models, by learning from small data.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AnalyticsSensai",
+      "linkedin": "https://linkedin.com/company/sensai-analytics"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Tether EV",
+    "website": "https://tetherev.io/",
+    "description": "Software that turns Electric Vehicles into giant virtual batteries.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xo3necd1ycsptdes6auz",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tetherev"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Norsjór AS",
+    "website": "https://norsjor.no/",
+    "description": "Norsjor has designed a technology to preserve marine life by using radiation.",
+    "location": "Kristiansand, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/norsjor-as"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "NeedEnergy",
+    "website": "https://needenergy.io/",
+    "description": "Leverages innovation, data and modern technology relevant with times as its core values are to provide sustainable and clean energy solutions.",
+    "location": "Melbourne, Victoria, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/NeedEnergyzw",
+      "linkedin": "https://linkedin.com/company/needenergy",
+      "facebook": "https://facebook.com/NeedEnergyzw"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Liquidstar",
+    "website": "https://liquistar.io/",
+    "description": "Using solar energy to provide electricity, water and internet to the 1B+ without.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {},
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "enzum",
+    "website": "https://enzum.com/",
+    "description": "An AI-based predictive analytics platform for industrial battery management & health",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/f3vocs7m17diigr92isq",
+    "location": "Krakow, Poland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/enzum"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Enurgen",
+    "website": "https://enurgen.com/",
+    "description": "Deep-Tech Software Defining Utility Scale Solar Systems of Tomorrow\r\nCapturing Solar Asset Performance from Cells to Systems",
+    "location": "Ottawa, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/enurgeninc",
+      "linkedin": "https://linkedin.com/company/enurgen"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Bidi Charge",
+    "website": "https://bidi-charge.com/",
+    "description": "Demand-driven investment platform for public & semi-public charging points.",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bidi-charge"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Flite Material Sciences",
+    "website": "https://flite.tech/",
+    "description": "FLITE is developing a technique to prevent ice, rust and fouling on surfaces using clean lasers instead of toxic coatings.",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/flite-material-sciences"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Kudoti",
+    "website": "https://kudoti.com/",
+    "description": "Kudoti design and develop digital solutions for optimization in the waste management and recycling industries via the platform.",
+    "location": "Johannesburg, South Africa",
+    "social_media": {
+      "twitter": "https://twitter.com/Kudoti_Waste",
+      "linkedin": "https://linkedin.com/company/kudoti",
+      "facebook": "https://facebook.com/Kudoti.Waste/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "WINIM",
+    "website": "https://winim.com.ar/",
+    "description": "Assists businesses sell surplus daily food, helping take care of the environment by preventing food from being thrown away.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mcvtptslp6eoiwsinznq",
+    "location": "Buenos Aires, Argentina",
+    "social_media": {
+      "twitter": "https://twitter.com/WINIMArgentina",
+      "linkedin": "https://linkedin.com/company/winimarg",
+      "facebook": "https://facebook.com/WINIMArg"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Trilleco",
+    "website": "https://trilleco.com/",
+    "description": "Trilleco is a 3D IoT sustainability platform that provides data transparency and transforms footprint.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/khyczbm32nrtavkmsenj",
+    "location": "Oulu, Finland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/trilleco",
+      "facebook": "https://facebook.com/Trilleco/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Nyungu Afrika",
+    "website": "https://nyungu.care/",
+    "description": "Makes pads safe, accessible, and affordable to majority of women and girls.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xikshv01uqbh6wjcdree",
+    "location": "Nairobi, Kenya",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/mary-nyaruai"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "LISUS Technologies",
+    "website": "https://lisusenergy.com/",
+    "description": "Lisus sells critical minerals.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LisusEnergy",
+      "linkedin": "https://linkedin.com/company/lisus",
+      "facebook": "https://facebook.com/LISUSenergy/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Hydroquo+",
+    "website": "https://hydroquo.com/",
+    "description": "Harnessing the power of chemometric analytics tools to maximize information and data available for leading water innovators, to improve the quality of water worldwide",
+    "location": "Dhaka, Bangladesh",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hydroquo"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "GoManda",
+    "website": "https://gomanda.org/",
+    "description": "Dedicated to empowering autistic children by helping them accept, nurture, and cheer for their strengths",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/zqus9sljj5vausqiltnb",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/gomanda",
+      "facebook": "https://facebook.com/gomandaonline"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Gammanics",
+    "website": "https://ndb.technology/",
+    "description": "Green hydrogen from waste recycling",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/ndbtechnology",
+      "linkedin": "https://linkedin.com/company/ndb-technology",
+      "facebook": "https://facebook.com/ndb.technology"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "FINDS",
+    "website": "https://finds-upcycling.com/",
+    "description": "The Retouch is a publisher of circular solutions for the fashion and textile industry.",
+    "location": "Paris, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/finds-solutions",
+      "facebook": "https://facebook.com/theretouch/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Energy Shift",
+    "website": "https://energyshift.eu/",
+    "description": "Energy Shift is a web based, blockchain powered platform that enables citizens to jointly invest in and co-own solar parks, thus democratising the energy sector and enabling citizens to actively participate in the energy transition to renewable energy.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/EnergyShift3",
+      "linkedin": "https://linkedin.com/company/energy-shift",
+      "facebook": "https://facebook.com/energyshifteu/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "egreen",
+    "website": "https://egreen.com/",
+    "description": "eGreen is a technology company that seeks to accelerate environmental and financial impact through green investments, creating a platform based on blockchain technology.",
+    "location": "Santiago, Chile",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/egreen-com",
+      "facebook": "https://facebook.com/eGreen-109302497666249"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Citera",
+    "website": "https://citera.ai/",
+    "description": "Make Energy Usage Your Superpower",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/citera-ai"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Applied Particle Technology",
+    "website": "https://appliedparticletechnology.com/",
+    "description": "Automated environmental health & safety for mining and metals manufacturing using real-time data.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/x9eaf81cufqwpdnrmnjb",
+    "location": "St. Louis, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/appliedparticle",
+      "linkedin": "https://linkedin.com/company/applied-particle-technology"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Virimodo",
+    "website": "https://virimodo.com/",
+    "description": "Go Carbon Neutral - Carbon Reduction Intelligence for real estate portfolios",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/virimodo/",
+      "linkedin": "https://linkedin.com/company/virimodo",
+      "facebook": "https://facebook.com/Virimodo/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Shipshape AI",
+    "website": "https://shipshape.ai/",
+    "description": "A software platform that networks together critical systems in homes to reduce risk, improve performance, and connect homes to providers - like a \"check engine light\"",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/iet8kgrewwwsc0aapi10",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/shipshapesol",
+      "linkedin": "https://linkedin.com/company/shipshape-ai",
+      "facebook": "https://facebook.com/ShipShapeHomeAssistant"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Revolute Robotics",
+    "website": "https://revoluterobotics.com/",
+    "description": "Autonomous, energy-efficient robot that's capable of both rolling and flying",
+    "location": "Scottsdale, Arizona, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/revoluterobotics",
+      "facebook": "https://facebook.com/revoluterobotics"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Ocean Access",
+    "website": "https://oceanaccess.no/",
+    "description": "Increased operational autonomy and reliability for remote ocean & subsea monitoring",
+    "location": "Trondheim, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oceanaccess"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "MeterLeader",
+    "website": "https://meterleader.com/",
+    "description": "MeterLeader sells its gamification platform to corporations to help with their real estate energy goals (ESG reporting), while also improving employee engagement. Their platform is integrated with real-time utility data and uses challenges to motivate use",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/eb9a57c21520d170fdf4",
+    "location": "Huntington Beach, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MeterLeader",
+      "linkedin": "https://linkedin.com/company/meterleader",
+      "facebook": "https://facebook.com/MeterLeaderCo/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Hyperion Global Energy",
+    "website": "https://hyperionenergy.ca/",
+    "description": "Developing modular carbon capture & recycling technology at a breakthrough industrial scale.",
+    "location": "Ottawa, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hyperion-global-energy"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Flora Coating",
+    "website": "https://floracoating.com/",
+    "description": "Develops and manufactures high performance, smart, and sustainable coatings",
+    "location": "Phoenix, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/floracoatings",
+      "linkedin": "https://linkedin.com/company/flora-coating",
+      "facebook": "https://facebook.com/floracoating"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "EnergyHawk",
+    "website": "https://energyhawk.co/",
+    "description": "Satellite Powered Energy Assessments, designed to accelerate the growth of distributed energy solutions.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EnergyHawk",
+      "linkedin": "https://linkedin.com/company/energyhawkinc",
+      "facebook": "https://facebook.com/EnergyHawkInc/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Ashipa Electric",
+    "website": "https://ashipaelectric.com/",
+    "description": "Microgrid developer creating power solutions to energize economic activities in underserved communities across the globe.",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AshipaElectric",
+      "linkedin": "https://linkedin.com/company/ashipa-electric-corp",
+      "facebook": "https://facebook.com/AshipaElectric/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "LOWR",
+    "website": "https://lowr.co/",
+    "description": "Lowr captures fan and employee emission data and leverages behavior change technology to help organizations achieve a reduction in their overall carbon footprint.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/uwrgggsv6ampamgizxpz",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lowr"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Witching Hour",
+    "website": "https://witchinghour.io/",
+    "description": "Eliminate forest fire risk for your electric utility",
+    "location": "St. Petersburg, Florida, United States",
+    "social_media": {},
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Whale Seeker",
+    "website": "https://whaleseeker.com/",
+    "description": "We build fast, automated, accurate, and user-friendly whale detection tools that empower all decision-makers to develop more sustainable business practices.",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/Whale_Seeker",
+      "linkedin": "https://linkedin.com/company/whaleseeker"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Solideon",
+    "website": "https://solideon.com/",
+    "description": "The company facilitates use of additive manufacturing system, a machine-learning collaborative system.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rvyqaeriunuqfjqw8tch",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SolideonUSA",
+      "linkedin": "https://linkedin.com/company/solideonusa"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Regen Network",
+    "website": "https://regen.network/",
+    "description": "A global marketplace & contracting platform for Earth's ecosystem assets, services, and data.",
+    "location": "GREAT BARRINGTON, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/regen_network",
+      "linkedin": "https://linkedin.com/company/regen-network",
+      "facebook": "https://facebook.com/weareregennetwork"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "offe market",
+    "website": "https://offe.market/",
+    "description": "Offe Market helps elevated brands sell surplus products without taking on inventory risk by integrating the brands' inventory management systems into its online and offline sales channels.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/offemarket",
+      "linkedin": "https://linkedin.com/company/offemarket"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "3DSolar",
+    "website": "https://3dsolar.co/",
+    "description": "Not possible? Think again!",
+    "location": "Rocklin, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/3dprintingextrordinaire8675309"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Heuristech",
+    "website": "https://heuristech.eu/",
+    "description": "Differential Relectometry Mapping to assist with pipeline corrosion the correct way.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/x8izwhokrpydlff8ry1r",
+    "location": "Strasbourg, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/heuristech-sas"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Carbonext",
+    "website": "https://carbonextinc.com/",
+    "description": "At Carbonext Inc., we are developing a circularity strategy that retrofits existing architectures to produce industrial grade graphene in a cost-effective, scalable and environmentally friendly manner. Our technology addresses the pains of graphite users",
+    "location": "Houston, Texas, United States",
+    "social_media": {},
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "SolarFi",
+    "website": "https://solar-fi.com/",
+    "description": "SolarFi offers sustainable outdoor solutions for restaurants, public spaces, and municipalities.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/solarficart",
+      "linkedin": "https://linkedin.com/company/solarfi",
+      "facebook": "https://facebook.com/Solarfipods/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Preflet",
+    "website": "https://preflet.com/",
+    "description": "Reducing buildings' carbon footprint with Energy AI",
+    "location": "Reutlingen, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/wearepreflet",
+      "linkedin": "https://linkedin.com/company/preflet",
+      "facebook": "https://facebook.com/preflet"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Outlander Materials",
+    "website": "https://outlandermaterials.com/",
+    "description": "Clean biotech and materials science company eradicating waste.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ap9ay4hawcxgbszkwm11",
+    "location": "Rotterdam, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/outlandermaterials"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Moduly",
+    "website": "https://moduly.io/",
+    "description": "Smart energy storage platform designed to address the issue between power utilities and the mass of the population, such as GHG emissions, energy overproduction, peak consumption times, and its costs",
+    "location": "Longueuil, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/moduly_io",
+      "linkedin": "https://linkedin.com/company/12639702",
+      "facebook": "https://facebook.com/Moduly.io"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Kumulus",
+    "website": "https://kumuluswater.com/",
+    "description": "Machine generating potable water using only solar power + humidity",
+    "location": "Saint-Mandé, France",
+    "social_media": {
+      "twitter": "https://twitter.com/KumulusWater",
+      "linkedin": "https://linkedin.com/company/kumulus-water",
+      "facebook": "https://facebook.com/kumulus.water"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Khepra",
+    "website": "https://khepra.io/",
+    "description": "We make reactors that are fully electrified and make chemicals 80% faster. Our chemical products are made from wastes from farms, forestry and plastics.",
+    "location": "Reno, Nevada, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/khepra"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Iroko Analytics",
+    "website": "https://irokoanalytics.com/",
+    "description": "Provides EU timber traders with the analytics they need to comply with their legal due diligence requirements",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/project_canopy",
+      "linkedin": "https://linkedin.com/company/project-canopy"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Haylon Technologies",
+    "website": "https://haylontech.com/",
+    "description": "Making electrified products more sustainable by unleashing the full potential of existing batteries.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pkrnai4q4rldqqiyjr6p",
+    "location": "Champaign, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/haylon-technologies"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Flux Hybrids",
+    "website": "https://fluxhybrids.com/",
+    "description": "Flux Hybrids has developed a system that can convert any vehicle to a plug-in hybrid that pays for itself in savings within the remaining life of the vehicle.",
+    "location": "Troutman, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fluxhybrids",
+      "linkedin": "https://linkedin.com/company/fluxhybrids"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "BioEsol",
+    "website": "https://bioesol.com/",
+    "description": "BioEsol offers sustainable energy autonomy, through an intelligent energy storage system. It allows us to take full advantage of the energy from renewable sources, generating a positive impact on the environment.",
+    "location": "Guadalajara, Mexico",
+    "social_media": {
+      "twitter": "https://twitter.com/bioesol",
+      "linkedin": "https://linkedin.com/company/bioesol",
+      "facebook": "https://facebook.com/bioesol"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Accelerate Wind",
+    "website": "https://acceleratewind.com/",
+    "description": "Accelerate Wind is making wind energy generation affordable on commercial buildings.",
+    "location": "St. Louis, Missouri, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/acceleratewind"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Undesert Corporation",
+    "website": "https://undesert.com/",
+    "description": "Undesert is produce electrical power, deionized water, and dry salt with no liquid waste - Zero Liquid Discharge (ZLD).",
+    "location": "Los Alamos, New Mexico, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/undesert"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "SAILWINT",
+    "website": "https://sailwint.com/",
+    "description": "SAILWINT produces and delivers cheap, clean and resilient hydrogen at scale with autonomous wind turbine ships sailing offshore seas",
+    "location": "Berlin, Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sailwint"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Laminar Scientific",
+    "website": "https://laminarscientific.com/",
+    "description": "Laminar Scientific is tapping into the ocean to capture the steadiest renewable energy source.",
+    "location": "Iowa City, Iowa, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/laminarscientific",
+      "facebook": "https://facebook.com/laminarscientific"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Eolic Wall",
+    "website": "https://eolicwall.com/",
+    "description": "We provide homes, communities and businesses with cheap and highly efficient on-site wind energy to reach net-zero.",
+    "location": "Lima, Peru",
+    "social_media": {
+      "twitter": "https://twitter.com/@EolicWall",
+      "linkedin": "https://linkedin.com/company/eolic-wall"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Earthletica",
+    "website": "https://earthletica.com/",
+    "description": "Future Fit Activewear",
+    "location": "Ashgrove, Queensland, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/earthletica-activewear"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "StokedPlastics",
+    "website": "https://stokedplastics.com/",
+    "description": "StokedPlastic(r) is a scalable, award-winning, patent-pending, and sustainably sourced ocean plastic solution for injection-molded goods/products",
+    "location": "Venice, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/stokedplastic"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Magueyexchange",
+    "website": "https://magueyexchange.com/",
+    "description": "Technology enabling ethical exchange",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/maguey-exchange",
+      "facebook": "https://facebook.com/magueyexchange"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Intrinsic Power",
+    "website": "https://intrinsicpower.com/",
+    "description": "Intrinsic Power provides smart energy management systems with chargers, solar inverters, and energy storage onboard.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/IntrinsicPower_",
+      "linkedin": "https://linkedin.com/company/intrinsic-power-inc"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "HyWatts",
+    "website": "https://hywatts.com/",
+    "description": "Uninterrupted Renewable Power. WHENEVER, WHEREVER",
+    "location": "Berkeley, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hywatts"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "CAHill TECH",
+    "website": "https://cahilltech.com/",
+    "description": "Tackling the construction labor gap through an e-learning platform to train and onboard construction workers.",
+    "location": "Akron, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cahillresources",
+      "linkedin": "https://linkedin.com/company/cahilltech",
+      "facebook": "https://facebook.com/CaHill.resources/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Astron Systems",
+    "website": "https://astronsystems.com/",
+    "description": "Astron Systems are developing fully reusable rockets for affordable, responsive, and sustainable space access for small satellites.",
+    "location": "Didcot, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/astron-systems?originalSubdomain=uk"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Strayos",
+    "website": "https://strayos.com/",
+    "description": "Strayos is a visual AI platform using computer vision, drones and sensor data to map subsurface for underground object detection",
+    "location": "Buffalo, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/StrayosAI",
+      "linkedin": "https://linkedin.com/company/strayos",
+      "facebook": "https://facebook.com/strayos/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Pull To Refresh",
+    "website": "https://pulltorefresh.earth/",
+    "description": "Pull To Refresh is an environmental conservation organization that develops carbon removal technologies.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kvidrotiaemzbfvwlhxs",
+    "location": "Sunnvale, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/refreshingearth/",
+      "linkedin": "https://linkedin.com/company/pulltorefresh",
+      "facebook": "https://facebook.com/refreshingearth/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Nyad",
+    "website": "https://nyad.ai/",
+    "description": "Microbiology co-pilot for wastewater operators to remove maximum pollutants at best cost.",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nyad-ai"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Waterson",
+    "website": "https://waterson.lv/",
+    "description": "AI-based real-time water-quality surveillance",
+    "location": "Riga, Latvia",
+    "social_media": {
+      "twitter": "https://twitter.com/RTU_LV",
+      "linkedin": "https://linkedin.com/company/waterson-technologies",
+      "facebook": "https://facebook.com/rigastehniskauniversitate"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "TerraWaste",
+    "website": "https://terrawaste.tech/",
+    "description": "Waste-to-material (WTM) process converting plastic into feedstock",
+    "location": "Riga, Latvia",
+    "social_media": {
+      "twitter": "https://twitter.com/WasteTerra",
+      "linkedin": "https://linkedin.com/company/terrawaste"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "TAINR",
+    "website": "https://gotainr.com/",
+    "description": "TAINR manufactures modern dispensers to eliminate single-use plastic packaging from products.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wnjhkquefazx83fvhf4z",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/gotainr"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Maygia",
+    "website": "https://maygia.com/",
+    "description": "Device using hydrogen to clean water while producing electricity",
+    "location": "Haifa, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/maygia"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Kadeya",
+    "website": "https://kadeya.com/",
+    "description": "Kadeya is a closed-loop water vending business that utilizes digitally connected reusable water bottles and tiny bottling equipment. Kadeya was founded by Manuela Zoninsein.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hellokadeya",
+      "linkedin": "https://linkedin.com/company/kdy",
+      "facebook": "https://facebook.com/AWMLimited"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "EcoBloc",
+    "website": "https://bloc.eco/",
+    "description": "EcoBloc protects inventory and equipment using ultrasonic waves.",
+    "location": "Portugal Cove-St. Philip's, Newfoundland and Labrador, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ecobloc"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "CarbonBridge",
+    "website": "https://carbonbridge.io/",
+    "description": "CarbonBridge is a climate-action company that generates industrial and transportation gases from agricultural waste streams. The methods used result in CDR as well as some offsets.",
+    "location": "San Jose, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/carbonbridge"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "BoxxDocks",
+    "website": "https://boxxdocks.com/",
+    "description": "BoxxDocks is developing the next generation of dynamic containerised shipping solutions, giving companies full control and flexibility over their logistics operations. A radical response to an ever-growing consumer base.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/smofomgtqtt5k8oobzxt",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/boxxdocks",
+      "linkedin": "https://linkedin.com/company/boxxdocks",
+      "facebook": "https://facebook.com/BoxxDocks/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Lotic Labs",
+    "website": "https://loticlabs.com/",
+    "description": "Powering financial innovation for water and the environment.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/loticlabs",
+      "linkedin": "https://linkedin.com/company/lotic-labs"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "MATERIA intel",
+    "website": "https://materiaintel.com/",
+    "description": "World's first border carbon adjustment (BCA) market intelligence platform",
+    "location": "Roma, Rome, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/martellafrancesco"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Raise Green",
+    "website": "https://raisegreen.com/",
+    "description": "Climatetech marketplace for local impact investing connecting capital with community need.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/raisegreeninc",
+      "linkedin": "https://linkedin.com/company/29305067",
+      "facebook": "https://facebook.com/RaiseGreenInc/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "OptimizeEV",
+    "website": "https://optimizeev.com/",
+    "description": "OptimizeEV is a software as a service that uses predictive maintenance to prevent electric vehicle charging station downtimes and enhance network reliability and performance.",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/optimizeevdetroit"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Chargerzilla",
+    "website": "https://chargerzilla.com/",
+    "description": "Chargerzilla is a community-driven, AI-powered EV charging marketplace that connects property owners, EV charging networks, and businesses to EV drivers. Our platform increases utilization rates for charge point operators and unlocks new revenue streams for businesses such as hotels, commercial properties, and individual home owners.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/chargerzilla",
+      "linkedin": "https://linkedin.com/company/chargerzilla",
+      "facebook": "https://facebook.com/chargerzilla"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "BuildQ",
+    "website": "https://buildq.ai/",
+    "description": "AI-powered financing platform for sustainable infrastructure project",
+    "location": "Stanford, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/buildq"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Electromaim",
+    "website": "https://electromaim.com/",
+    "description": "Electromaim's solution produces clean energy from the water distribution systems of urban buildings. Our unique approach to capture a vast but hidden wasted energy stream not only contributes to decarbonization to fight climate change but also addresses the most important target: existing building infrastructure.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/electromaim"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Dedalo",
+    "website": "https://dedalo.ai/",
+    "description": "Dedalo AI, a pioneering Climate Tech enterprise, is dedicated to quantifying and mitigating the digital CO2 footprint.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vbj2o4h9wg2sdqdyuzqo",
+    "location": "Turin, Turin, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/DedaloAi",
+      "linkedin": "https://linkedin.com/company/dedalo-ai"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "ClimeRock",
+    "website": "https://climerock.com/",
+    "description": "Removing carbon while restoring soils with Enhanced Rock Weathering.",
+    "location": "Colombes, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/climerock"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "ADHERE GEAR Technology",
+    "website": "https://adheregearpodpaq.com/",
+    "description": "Sensor-based technology to monitor frozen and perishable food products",
+    "location": "Beaverton, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/adhere-gear-technology-corporation"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Split EV",
+    "website": "https://splitev.co/",
+    "description": "We're building the nation's largest electric vehicle charging network.",
+    "location": "Newark, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SplitEv",
+      "linkedin": "https://linkedin.com/company/81954408"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "InfraNergy",
+    "website": "https://infranergy.us/",
+    "description": "Infranergy develops solar-powered and battery energy storage projects / technology to reduce energy costs, decarbonize and balance the grid.",
+    "location": "Wellington, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/infranergy",
+      "linkedin": "https://linkedin.com/company/infranergy",
+      "facebook": "https://facebook.com/infranergy"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "EV Safe Charge",
+    "website": "https://evsafecharge.com/",
+    "description": "EV Safe Charge rents, consults, and installs electric vehicle charging solutions.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EVSafeCharge",
+      "linkedin": "https://linkedin.com/company/ev-safe-charge",
+      "facebook": "https://facebook.com/EVSafeCharge/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "EarthABC",
+    "website": "https://earthabc.com/",
+    "description": "Go green in days, not years.",
+    "location": "Brunswick, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EARTHABCINC",
+      "linkedin": "https://linkedin.com/company/earthabc"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "clever Offsets",
+    "website": "https://cleveroffsets.com/",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Clever",
+      "linkedin": "https://linkedin.com/company/cleveroffsets",
+      "facebook": "https://facebook.com/clever"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "BOxES 4",
+    "website": "https://boxesdevices.com/",
+    "description": "We're powering the future of retail combining physical and digital technology to democratize convenient, space-efficient, affordable & sustainable retail!",
+    "location": "Minneapolis, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Boxesdevices",
+      "linkedin": "https://linkedin.com/company/boxes-dispositivos-dispensadores",
+      "facebook": "https://facebook.com/Boxes-dispositivos-dispensadores-103733117941696"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "MemPro USA",
+    "website": "https://mempro.com/",
+    "description": "Saving critical metals and lowering the costs of production",
+    "location": "Edwards, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/john-finley-8812435"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "TMA",
+    "website": "https://tmaiot.com/",
+    "description": "TMA, The Hazardous Goods Companion",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/margaux-pages"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Sway Home",
+    "website": "https://sway-home.com/",
+    "description": "Sway makes it easy to create a healthy home by connecting conscious consumers to non-toxic furnishings.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/bslmsh4bdyy52pa6ksjw",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sway_home",
+      "linkedin": "https://linkedin.com/company/sway-home-inc",
+      "facebook": "https://facebook.com/SwayHomeGoods"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Soraytec",
+    "website": "https://soraytec.com/",
+    "description": "Direct Primary Side Monitoring and Metering of Electricity Networks",
+    "location": "Sankt Augustin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/soraytec"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Soltrex",
+    "website": "https://soltrex.io/",
+    "description": "Leading the solar energy automation revolution  with fully interoperable plant mgmt. and operation. Our RaaS platform, based on unmanned ground vehicles, tackles routine tasks from construction to maintenance, ensuring higher profits and cleaner power.",
+    "location": "Tel Aviv, Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/soltrex"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Reverse Energy Solutions Delaware Corp",
+    "website": "https://res-us.com/",
+    "description": "Solar Panel Recycling",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ntnaidvy9y5uyawytppz",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/reverse-energy-solutions"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "REN3for",
+    "website": "https://ren3for.com/",
+    "description": "REN3for offers a Predictive Weather and Power Prediction model that can predict weather 96 hours out, updated in real-time, at an average of 99% accuracy.",
+    "location": "Richmond, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/lisa-brunet"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Plug Zen",
+    "website": "https://plugzen.us/",
+    "description": "EV Charging Solutions, we develop & manufacture EV charging solutions",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/plug_zen",
+      "linkedin": "https://linkedin.com/company/plug-zen"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Nimbus Aerospace",
+    "website": "https://nimbusaerospace.com/",
+    "description": "Electrifying private air travel",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/95763755"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "haulsale",
+    "website": "https://haulsale.com/",
+    "description": "A marketplace to sell your used goods in bulk to professional resellers.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/85823421",
+      "facebook": "https://facebook.com/shophaulsale"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Firewave",
+    "website": "https://firewave.earth/",
+    "description": "Firewave uses AI-powered IoT sensors for early wildfire detection, preventing small fires from escalating. We're dedicated to protecting communities and ecosystems.",
+    "location": "PARDES HANA KARKUR, Northern District, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/firewave-earth"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Eqtrade",
+    "website": "https://eqgrow.mydurable.com/",
+    "description": "Eqtrade, powered by AI and ML, bridges the gaps in international food systems. Empowering farmers without business knowledge to transform their lands into sustainable ventures.",
+    "location": "Madrid, Spain",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/isabella-bernal-colpas-25768b11a"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Eden Materials",
+    "website": "https://edenmaterials.io/",
+    "description": "Eden Materials transforms agricultural waste and turns it into biodegradable plastic.",
+    "location": "Tel Aviv, Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/eden-materials"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Edenic Energy",
+    "website": "https://edenicenergy.ai/",
+    "description": "Edenic Energy is a Building Information Engine that connects updated data to outdated buildings in disadvantaged communities to address the high barriers of building retrofits and operational cost in old properties.",
+    "location": "Virginia Beach, Virginia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/thomaslhunterjr"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Dodda",
+    "website": "https://dodda.ai/",
+    "description": "Dodda is a SaaS product for Site Information and Building Code Analysis",
+    "location": "Clyde Hill, Washington, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/gayathri-g3-venkataraman-361915"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Carpe Mañana",
+    "website": "https://mayahueltec.com/",
+    "description": "Carpe Manana creates a proprietary bio plastic, PLAgave, using agave fibers from mezcal production, and our process helps clean the land and rivers of Oaxaca, for future generations.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/aaron-robinson-carpe-manana-inc",
+      "facebook": "https://facebook.com/mayahueltecoaxaca/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Element 16 Technologies",
+    "website": "https://element16.com/",
+    "description": "Element 16's thermal battery is a new take on energy storage. We provide the first cost-effective heat storage system for industrial process steam and flexible power plants.",
+    "location": "Glendale, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/element-16"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Switchgrid",
+    "website": "https://switchgrid.tech/",
+    "description": "Switchgrid reduces your consumption at peak times and rewards your virtuous behaviour",
+    "location": "Paris, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/switchgrid"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Sequestr",
+    "website": "https://sequestr.io/",
+    "description": "Accelerating the transition to a low-carbon economy by unlocking institutional capital for carbon markets via risk and pricing products.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/zu10phkg7g44mb3p8pqv",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/SequestrIO",
+      "linkedin": "https://linkedin.com/company/sequestr"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Pirl Technology",
+    "website": "https://thepirl.com/",
+    "description": "Pirl: Largest EV charging network",
+    "location": "Rockville, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pirl-technology"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Dependbuild",
+    "website": "https://dependbuild.com/",
+    "description": "Dependbuild is a SaaS platform revolutionizing risk management for infrastructure projects. Our solution empowers municipalities to efficiently identify, assess, and mitigate risks by leveraging advanced analytics and project-specific data. By automating the risk assessment process, dependbuild enhances decision-making, reduces project delays and costs, and ensures better outcomes for public infrastructure.",
+    "location": "Halifax, Nova Scotia, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dependbuild"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Carbo Energy",
+    "website": "https://carbo.energy/",
+    "description": "Scaling energy storage for a greener future",
+    "location": "Ciudad de Buenos Aires, Argentina",
+    "social_media": {},
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Acuicy",
+    "website": "https://acuicy.com/",
+    "description": "Business Intelligence for Net Zero Supply Chains",
+    "location": "Halifax, Nova Scotia, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/acuicy"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "unbuilt",
+    "website": "https://unbuilt.co/",
+    "description": "For construction industry professional burdened with excess materials, we provide a marketplace to resell them.",
+    "location": "Sherman Oaks, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/unbuilt-co",
+      "facebook": "https://facebook.com/buildelight/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Prinsta",
+    "website": "https://prinsta.io/",
+    "description": "Prinsta is developing the next generation of electronic manufacturing. Today we are launching our factory-in-a-box desktop circuit board printer.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/prinsta",
+      "facebook": "https://facebook.com/PrinstaOfficial/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "PatentPlus",
+    "website": "https://patentplus.io/",
+    "description": "A B2B marketplace and analytics platform for patented technologies that connects pioneering research organizations with innovative companies and investors across industries and geographies.",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/patentplus"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Impact Bytes",
+    "website": "https://impactbytes.io/",
+    "description": "The fair and sustainable search engine that collects from over 300 fashion brands in one place.",
+    "location": "Amsterdam, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/Project_Cece",
+      "linkedin": "https://linkedin.com/company/project-cece",
+      "facebook": "https://facebook.com/projectcece/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Craste",
+    "website": "https://craste.co/",
+    "description": "Craste is a company which build sustainable packaging and furniture from crop waste.",
+    "location": "Pune, Maharashtra, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/craste",
+      "facebook": "https://facebook.com/CrasteCompany/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Climatize",
+    "website": "https://climatize.earth/",
+    "description": "For Gen Z & Millennials struggling with climate-anxiety, Climatize provides a mobile app where they can simply invest the spare change from their everyday credit card purchases directly in profitable climate projects.",
+    "location": "Santa Cruz, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Climatize_earth",
+      "linkedin": "https://linkedin.com/company/climatize-earth",
+      "facebook": "https://facebook.com/climatize.earth"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "OffGridBox",
+    "website": "https://offgridbox.com/",
+    "description": "The world's most powerful modular and compact unit that provides renewable energy and clean water in remote areas and developing countries.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/OffGridBox",
+      "linkedin": "https://linkedin.com/company/offgridbox",
+      "facebook": "https://facebook.com/offgridbox/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Eskuad",
+    "website": "https://eskuad.com/",
+    "description": "A mobile-first data platform that empowers field workers, by providing a user-friendly interface and seamless offline operability.",
+    "location": "Portland, Maine, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Eskuadcom",
+      "linkedin": "https://linkedin.com/company/eskuad",
+      "facebook": "https://facebook.com/eskuadcom"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "edn",
+    "website": "https://edntech.com/",
+    "description": "Developer of intelligent indoor gardens",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/edngarden",
+      "linkedin": "https://linkedin.com/company/edn-group-s-r-l-",
+      "facebook": "https://facebook.com/edngarden"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "BeChained",
+    "website": "https://bechained.com/",
+    "description": "AI solution to eliminate wasted energy in manufacturing, unlock demand-response market access and certify carbon footprint at product level",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/be_chained",
+      "linkedin": "https://linkedin.com/company/bechained"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "PlugOp Technologies",
+    "website": "https://plugop.com/",
+    "description": "PlugOp Technologies offers electric vehicle charging solutions for shared parking through dedicated port access to EV-owning residents.",
+    "location": "Columbus, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/plugop-technologies"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Innovakote",
+    "website": "https://innovakote.com/",
+    "description": "Recycled powder coating is more than an eco-friendly solution, it's an industry reimagined.",
+    "location": "Kent City, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/innovakote",
+      "facebook": "https://facebook.com/innovakote"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "InFLOWS",
+    "website": "https://designflow.inflows-ai.com/",
+    "description": "InFLOWS AI provides toolboxes that augment R&D chemists to design products 10X faster & cleaner.",
+    "location": "Paris, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/inflowsai"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "EnviCore",
+    "website": "https://envicoreinc.com/",
+    "description": "EnviCore aspires to revolutionize current tailings mitigation practices and promote a circular economy in the mining sector.",
+    "location": "Calgary, Alberta, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/EnvicoreI",
+      "linkedin": "https://linkedin.com/company/envicore-inc"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Cancrie",
+    "website": "https://cancrie.co/",
+    "description": "We are transforming waste into superior quality advanced material to power energy storage devices like batteries and capacitors.",
+    "location": "Jaipur, Rajasthan, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cancrie"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "GO See The City",
+    "website": "https://goseethecity.com/",
+    "description": "GO See The City is a food waste reduction platform that connects surplus food from restaurants to consumers & nonprofits. It aims to be used as a catalyst to assist the USDA & EPA in reducing food waste by 50% by 2030. The platform includes a mobile app,",
+    "location": "Tampa, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/goseethecity/",
+      "linkedin": "https://linkedin.com/in/aneshai-smith-458973118",
+      "facebook": "https://facebook.com/GoSeeTheCity/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "AquaRealTime",
+    "website": "https://algaetracker.com/",
+    "description": "AlgaeTracker is a revolutionary Early Warning System for Harmful Algae Blooms (HABs) and other water pollutants",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Chrisaquarealt1",
+      "linkedin": "https://linkedin.com/company/aquarealtime",
+      "facebook": "https://facebook.com/wix"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Alkemy Environmental",
+    "website": "https://alkemyenvironmental.com/",
+    "description": "Alkemy holds patented technology that recycles waste into concrete aggregate.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/alkemyenviron",
+      "linkedin": "https://linkedin.com/company/alkemy-environmental",
+      "facebook": "https://facebook.com/alkemyenvironmental/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Carbon Analytics",
+    "website": "https://carbonanalytics.com/",
+    "description": "Carbon Analytics is a granular carbon tracking, intelligence and offsetting platform for industrial decarbonisation.",
+    "location": "Ely, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/prognosticio",
+      "linkedin": "https://linkedin.com/company/carbonanalytics",
+      "facebook": "https://facebook.com/co2analytics/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "WunderGrubs",
+    "website": "https://wundergrubs.com/",
+    "description": "WunderGrubs is an agtech start-up that sustainably produces edible insects.",
+    "location": "Stone Mountain, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wundergrubs",
+      "linkedin": "https://linkedin.com/company/wundergrubs",
+      "facebook": "https://facebook.com/wundergrubs/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Windcredible",
+    "website": "https://windcredible.com/",
+    "description": "Urban Wind Turbines for Renewable Energy Generation",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cyxbtefnvz7dkix8cjt3",
+    "location": "Águas Livres, Portugal",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/windcredible"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Voltaage",
+    "website": "https://voltaage.io/",
+    "description": "Voltaage is an electric mobility marketplace for companies needing to electrify their vehicles fleet.",
+    "location": "Paris, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/voltaage"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "TuCann Medical",
+    "website": "https://tucannmedical.co/",
+    "description": "A novel vascular access device that prevents sepsis.",
+    "location": "Berwick, Victoria, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tucann-medical"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "S.Lab",
+    "website": "https://instagram.com/i_lab_s",
+    "description": "Sustainable packaging - natural replacement of foamed plastic out of mycelium  and agricultural waste",
+    "location": "Malaga, Spain",
+    "social_media": {
+      "instagram": "https://instagram.com/i_lab_s"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Metavent",
+    "website": "https://metavent.io/",
+    "description": "Metavent is the All-Hands meeting solution for companies of up to 1,000 employees who need fully engaged, aligned and inspired teams.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/metaventful",
+      "linkedin": "https://linkedin.com/company/meta-vent"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Instinct",
+    "website": "https://instinctenvironmental.com/",
+    "description": "Bringing real-time data to forest management, wildfire detection and environmental monitoring through ground-based wireless sensor networks.",
+    "location": "Hillsboro, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/instinct-rapid-wildfire-detection"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Humankind Homes",
+    "website": "https://humankindhomes.com/",
+    "description": "HumanKind Homes is a design-build construction technology company.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/blqkebxdbmfalynuyxoo",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/humankindhomes"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "FLUIX",
+    "website": "https://fluixpro-line.godaddysites.com/",
+    "description": "FLUIX unlocks the full power of high performance computing by eliminating the challenge of heat through Turbulent Liquid Cooling.",
+    "location": "Mangaluru, India",
+    "social_media": {
+      "twitter": "https://twitter.com/fluixcooling",
+      "linkedin": "https://linkedin.com/company/fluixcooling",
+      "facebook": "https://facebook.com/Fluixengineering/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Enreport",
+    "website": "https://enreport.io/",
+    "description": "Customize any production process based on drag and drop AI driven digital twins",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/y6jo2uyoyfxat0pprkkp",
+    "location": "Espoo, Finland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/enreport"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "ECGO",
+    "website": "https://ecgo.co/",
+    "description": "An application helping users stay informed about the proper disposal of waste while providing incentive with points redeemable for rewards.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/su0vdpnvbtepx9nihl16",
+    "location": "Cumming, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ecgocompany"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "AWSM Sauce",
+    "website": "https://awsmsauce.co/",
+    "description": "AWSM Sauce is the world's first zero-waste and sustainable condiment company.",
+    "location": "West Chester, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AWSMSauceCo",
+      "linkedin": "https://linkedin.com/company/awsm-sauce-co",
+      "facebook": "https://facebook.com/AWSMSauce.Co/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Laundr",
+    "website": "https://laundr.io/",
+    "description": "Laundr is an on-demand laundry app that will pick up, wash, fold, and deliver your clothing within 24 hours.",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LaundrioApp",
+      "linkedin": "https://linkedin.com/company/laundrllc",
+      "facebook": "https://facebook.com/pages/Laundrio/377232182428401"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Aabshar",
+    "website": "https://aabshar.net/",
+    "description": "Aabshar is an impact-driven startup focused on addressing global water scarcity and high utility costs through innovative, AI-driven technology. Our patent-pending solution saves up to 98% of water usage, reduces utility expenses by up to 60%, and cuts CO2 emissions significantly. We empower homes, industries, and community centers, particularly in water-stressed regions, by providing real-time data and actionable insights to manage resources efficiently.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mbcei5kfdcwwnnz7kcdp",
+    "location": "Lahore, Islamabad, Pakistan",
+    "social_media": {
+      "twitter": "https://twitter.com/aabsharsolution",
+      "linkedin": "https://linkedin.com/company/aabshar",
+      "facebook": "https://facebook.com/aabsharsolutions"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Water Monster",
+    "website": "https://watermonster.io/",
+    "description": "IoT based services platform for water infrastructure",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/y8ygvwkqp9jp4g8basbu",
+    "location": "000, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/water-monster-io",
+      "facebook": "https://facebook.com/watermonster.io"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "SIPP",
+    "website": "https://sippsafely.com/",
+    "description": "Smart home device to treat drinking water and drive home automation",
+    "location": "Hoover, Alabama, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sippsafe"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "ProsumerGrid",
+    "website": "https://prosumergrid.com/",
+    "description": "Software for optimal planning, forecasting, and impact assessment of distributed energy resources",
+    "location": "Brookhaven, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/santiago-grijalva-556b8216"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Nestar Energy",
+    "website": "https://nestarenergy.com/",
+    "description": "Introducing Lunar Power! We generate renewable energy by re-timing the moon's gravitational pull on ocean tides. Cheaper and more reliable than wind & solar; massive enough to supply more than a THIRD of global electricity demand.",
+    "location": "Eagan, Minnesota, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nestar-energy"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Moby",
+    "website": "https://mobyfilter.com/",
+    "description": "We create washing machine filters for homes and businesses to capture and reuse toxic microplastics released from laundry routines. Our circular innovation tackles the most common microplastics, protecting nature, people's health, and frontline communities everywhere.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mobyfilters"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Meknology",
+    "website": "https://meknology.com/",
+    "description": "Sustainable wastewater up-cycling and drinking water distillation.",
+    "location": "Southfield, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/meknology"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "GridLink",
+    "website": "https://grid-link.co/",
+    "description": "For EV fleet managers looking to reduce costs of operation, Gridlink provides intelligent charging management software to streamline operations and save on charging.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/gridlinkco"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Gaia Agricultural & Technology",
+    "website": "https://gaiabox.webflow.io/",
+    "description": "A hydroponic growth system",
+    "location": "Owing Mills, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/the-gaia-box"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Asoba",
+    "website": "https://asoba.co/",
+    "description": "Creating Africa's largest private clean energy retail market",
+    "location": "San Rafael, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/asoba-co"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "AquaOrganix USA",
+    "website": "https://aquaorganixusa.com/",
+    "description": "AquaOrganix transforms plant waste into high-value fertilizers, biostimulants, and nutrients through our BioFermentative Nutrient Extraction process. We produce 13 natural products in 24 hours, eliminating the need for synthetic inputs. Our approach enriches soil, boosts plant growth, and reduces energy and labor costs. By converting waste into valuable resources, AquaOrganix accelerates growth and increases yields, driving sustainable, profitable, and ethical agriculture worldwide.",
+    "location": "Sheridan Wyoming, Wyoming, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/aquaorganix"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Propellane",
+    "website": "https://propellane.eu/",
+    "description": "Energy efficiency systems",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/thtmzuerhvvmne3q5dkm",
+    "location": "Paris, France",
+    "social_media": {},
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "LEMON",
+    "website": "https://eevy.fr/",
+    "description": "EEVY is on the way to democratize millions of private chargers to the public",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v9d5ay5swnvatt8yqxry",
+    "location": "Paris, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/eevy"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Greenfluidics",
+    "website": "https://greenfluidics.com/",
+    "description": "We make it flow",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ofhyjfcrmknlggxblui8",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/greenfluidics",
+      "linkedin": "https://linkedin.com/company/greenfluidics",
+      "facebook": "https://facebook.com/Greenfluidics"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Ari Care",
+    "website": "https://ari.shop/",
+    "description": "Personal and home care products",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/tgxhlmm2lxitsokoqlro",
+    "location": "Pärnu, Estonia",
+    "social_media": {
+      "twitter": "https://twitter.com/aricareofficial",
+      "linkedin": "https://linkedin.com/company/ari-care",
+      "facebook": "https://facebook.com/aricareofficial"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Happy Pads",
+    "website": "https://happyethiopads.com/",
+    "description": "Happy Sisters offers eco-friendly feminine hygiene products with patented leak-proof designs. Our 100% biodegradable pads and tampons have 10 advanced features, including antibacterial components and free BV self-test kits.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/86756492"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "GustoMarket",
+    "website": "https://gustomarket.co/",
+    "description": "GustoMarket is a software as a service (SaaS) that vertically integrates the food value chain for the hospitality industry.",
+    "location": "Ithaca, New York, United States",
+    "social_media": {},
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Climatta",
+    "website": "https://climatta.com/",
+    "description": "Climatta helpsSustainability teams automate their carbon emissions  compliance and ESG reporting 10x faster.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jegrx2ogv5oaq2mhnx43",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/globalcarbonesg",
+      "linkedin": "https://linkedin.com/company/climatta"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Hamilton Perkins Collection",
+    "website": "https://hamiltonperkins.com/",
+    "description": "Hamilton Perkins Collection is an independent brand, designing and producing bags and accessories from recycled materials.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hamiltonperkins",
+      "linkedin": "https://linkedin.com/company/hamilton-perkins-collection",
+      "facebook": "https://facebook.com/hamiltonperkins"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Farm Holdings",
+    "website": "https://farm.vc/",
+    "description": "Farm is a land restoration investment platform.",
+    "location": "Fort Collins, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/farm",
+      "linkedin": "https://linkedin.com/company/farmholdings"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Sabana",
+    "website": "https://sabana.ai/",
+    "description": "Sabana is a B2B SaaS platform designed to streamline collaboration and communication for architects and design engineers. It focuses on simplifying product selection and construction specifications, addressing inefficiencies and communication gaps in their workflows. By leveraging LLMs, Sabana aims to reduce manual processes, prevent burnout, and facilitate seamless collaboration across project teams.",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sabana-ai"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "ContractPower",
+    "website": "https://contractpower.ai/",
+    "description": "A vertical specific contract management platform that reduces liability while decreasing reading time by 80%.",
+    "location": "Encinitas, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/contractpower"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Earthics",
+    "website": "https://earthics.net/",
+    "description": "Carbon SeaQuest develops decarbonization solutions for hard-to-abate sectors, utilizing low-cost and high-performing advanced materials.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/carbon-seaquest"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "OXON Technologies",
+    "website": "https://oxon-tech.com/",
+    "description": "The Fuel Matrix helps ocean-going vessels reduce fuel consumption and emissions by improving conventional liquid fuels for more efficient, cleaner combustion.",
+    "location": "Henderson, Nevada, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oxon-tech-fuelmatrix",
+      "facebook": "https://facebook.com/Fuel-Matrix-842225212559146/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "EIO Diagnostics",
+    "website": "https://eiodiagnostics.com/",
+    "description": "EIO Diagnostics is an animal health diagnostics company launching our first product in the dairy industry focused on early indication of mastitis infections.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EIODiagnostics",
+      "linkedin": "https://linkedin.com/company/18253436",
+      "facebook": "https://facebook.com/EIODiagnostics/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Spark Change",
+    "website": "https://sparkchange.io/",
+    "description": "Spark is a financial instrument that makes investing in carbon as easy as investing in the stock market, allowing individuals to erase their carbon footprint.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sparkchangeuk",
+      "linkedin": "https://linkedin.com/company/sparkchange",
+      "facebook": "https://facebook.com/Spark-124957294064/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Mammoth Water",
+    "website": "https://mammothwater.com/",
+    "description": "The smarter, simpler way to track and trade water.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mammoth_water",
+      "linkedin": "https://linkedin.com/company/mammothwater",
+      "facebook": "https://facebook.com/mammothwaterco"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "WatchTower Robotics",
+    "website": "https://linkedin.com/company/watchtower-robotics",
+    "description": "Affordable, reliable, accurate leak detection that allows utilities to stop reacting and prevent pipe bursts before they happen.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/watchtowerrobot",
+      "linkedin": "https://linkedin.com/company/watchtower-robotics",
+      "facebook": "https://facebook.com/watchtowerrobotics"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "TEQ",
+    "website": "https://linkedin.com/company/teq-charging-inc-",
+    "description": "TEQ increases affordability of charging infrastructure for properties and accessibility of charging for electric vehicle (EV) drivers.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TEQCharging",
+      "linkedin": "https://linkedin.com/company/teq-charging-inc-",
+      "facebook": "https://facebook.com/teqcharging"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Tempus Energy",
+    "website": "https://linkedin.com/company/tempus-energy-limited",
+    "description": "By predicting volatility in carbon intensityAllow customers to reduce their energy costs - while simultaneously enhancing their use of renewables.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1464946590/puoxs3p3wcxgihhuvx9f.png",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/tempusenergy",
+      "linkedin": "https://linkedin.com/company/tempus-energy-limited",
+      "facebook": "https://facebook.com/pages/Tempus-Energy/278395772365421"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Sustaio",
+    "website": "https://linkedin.com/company/sustaio",
+    "description": "Sustaio provides consumer climate impact intelligence & data. Think of us as the credit score for sustainability.",
+    "location": "Telluride, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sustaio",
+      "linkedin": "https://linkedin.com/company/sustaio",
+      "facebook": "https://facebook.com/sustaio/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "SteadyBricks",
+    "website": "https://linkedin.com/company/steadybrickshq",
+    "description": "Steadybricks is a cloud cost, and cloud-carbon-footprint reduction tool for fintechs and financial services.",
+    "location": "Dublin, Ireland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/steadybrickshq"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Solenica",
+    "website": "https://linkedin.com/company/solenica",
+    "description": "Solenica completely reshapes your experience of the indoors through beautifully Italian designed robots that improve the spaces you work and live in.",
+    "location": "Rome, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/_Solenica_",
+      "linkedin": "https://linkedin.com/company/solenica",
+      "facebook": "https://facebook.com/caiabysolenica"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Solavio Labs",
+    "website": "https://linkedin.com/company/solavio-labs",
+    "description": "Solavio Labs provides AI-based solutions for autonomous solar panel cleaning with a lightweight, remote-controlled bot.",
+    "location": "India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/solavio-labs",
+      "facebook": "https://facebook.com/solavio/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Senscity",
+    "website": "https://linkedin.com/company/18592146",
+    "description": "Software as a Service that provides monitoring and evaluation of climate change's risks, impacts, and solutions across our cities",
+    "location": "Sydney, New South Wales, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/senscity_",
+      "linkedin": "https://linkedin.com/company/18592146"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Plazmod Technologies",
+    "website": "https://crunchbase.com/organization/plazmod",
+    "description": "Battery manufacturing process innovation out of Yale University",
+    "location": "Woodbridge, Connecticut, United States",
+    "social_media": {},
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "NRGI",
+    "website": "https://linkedin.com/company/nrgi-ai",
+    "description": "NRGI.ai is an online electricity platform that helps companies buy energy at fair prices and save money by choosing the right electricity provider.",
+    "location": "Dublin, Ireland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nrgi-ai"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Nori",
+    "website": "https://linkedin.com/company/noridoteco",
+    "description": "A marketplace for removing CO2 from the atmosphere.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nori",
+      "linkedin": "https://linkedin.com/company/noridoteco",
+      "facebook": "https://facebook.com/noridoteco"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Gaia",
+    "website": "https://linkedin.com/company/gaia-investments",
+    "description": "Gaia is the easiest platform for investing in companies that take responsibility for a sustainable future.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/eolsse794begdhpokgms",
+    "location": "Copenhagen, Denmark",
+    "social_media": {
+      "twitter": "https://twitter.com/gaiadesignmx",
+      "linkedin": "https://linkedin.com/company/gaia-investments",
+      "facebook": "https://facebook.com/gaiadesignmexico/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Five Letter Foods",
+    "website": "https://linkedin.com/company/five-letter-foods",
+    "description": "Not dog food, but real food for dogs without factory farming",
+    "location": "Helsinki, Finland",
+    "social_media": {
+      "twitter": "https://twitter.com/fiveletterfoods",
+      "linkedin": "https://linkedin.com/company/five-letter-foods"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "EnMass Energy",
+    "website": "https://linkedin.com/company/enmass-energy",
+    "description": "EnMass Energy operates a global platform supporting waste-to-energy projects through optimized collection, transportation, and operation of RE projects.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/enmassenergy",
+      "linkedin": "https://linkedin.com/company/enmass-energy",
+      "facebook": "https://facebook.com/enmassenergy"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Enco",
+    "website": "https://linkedin.com/company/energiacollettiva",
+    "description": "An innovative model that allows individuals, companies and public bodies to reduce environmental impact, save on bills, and reduce the payback time",
+    "location": "Florence, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/energiacollettiva",
+      "facebook": "https://facebook.com/EncoEnergiaCollettiva"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Ecocrumb",
+    "website": "https://linkedin.com/company/ecocrumb",
+    "description": "Ecocrumb automates and simplifies reporting for ESG.",
+    "location": "Eden Prairie, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ecocrumb",
+      "linkedin": "https://linkedin.com/company/ecocrumb"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Conserve With Us",
+    "website": "https://linkedin.com/company/conserve-with-us",
+    "description": "Our platform connects brands, nonprofits, and consumers to make social and environmental impact.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/conservewithus",
+      "linkedin": "https://linkedin.com/company/conserve-with-us",
+      "facebook": "https://facebook.com/conservewithus/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Chargd",
+    "website": "https://linkedin.com/company/chargd-app",
+    "description": "Connecting vehicles, chargers and people to integrate  EV experiences into individual lifestyles.",
+    "location": "Munich, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/chargd-app"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "BuildSim",
+    "website": "https://linkedin.com/company/17971114",
+    "description": "BuildSimHub is a platform for optimizing building energy modeling for new buildings and retrofitting existing projects.",
+    "location": "Wexford, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/buildsimhub",
+      "linkedin": "https://linkedin.com/company/17971114",
+      "facebook": "https://facebook.com/buildsim360/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Bild",
+    "website": "https://linkedin.com/company/webild",
+    "description": "An investing platform for sustainable assets focused on smart infrastructure and clean energy powered by the distributed ledger technology",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/webildit",
+      "linkedin": "https://linkedin.com/company/webild"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Better Coliving",
+    "website": "https://linkedin.com/company/better-coliving",
+    "description": "Single-family home coliving exclusively for the 55+ community.",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/better-coliving"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Aqulytics",
+    "website": "https://linkedin.com/company/aqulytics",
+    "description": "Aqulytics is a cloud-based platform to help governments, businesses, NGOs and communities, track and protect freshwater resources.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/aqulytics",
+      "linkedin": "https://linkedin.com/company/aqulytics",
+      "facebook": "https://facebook.com/aqulytics/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Credential",
+    "website": "https://linkedin.com/company/credential-inc",
+    "description": "All B2B Lenders, One Contract, One Integration",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nzwkybrev5jxhnczmij0",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/credential-inc"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Trousso",
+    "website": "https://linkedin.com/company/trousso",
+    "description": "Trousso is the resale platform making it easier for women to buy and sell outfits for life's biggest moments",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/trousso"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Marli Technology Solutions",
+    "website": "https://linkedin.com/company/marli-tech",
+    "description": "Connects businesses and individuals directly with environmental projects that save or absorb CO2.",
+    "location": "Docklands, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/Marli_Tech",
+      "linkedin": "https://linkedin.com/company/marli-tech"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "SeaDeep",
+    "website": "https://linkedin.com/company/31371435",
+    "description": "SeaDeep builds AI to explore underwater environments",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/31371435"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  },
+  {
+    "name": "Wynd",
+    "website": "https://wynd.eu/",
+    "description": "Wynd digitalizes physical stores through connected businesses.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/wynd_eu",
+      "linkedin": "https://linkedin.com/company/nmr-group-inc.",
+      "facebook": "https://facebook.com/wynditinc/"
+    },
+    "industry": "Cleantech",
+    "industry_slug": "cleantech"
+  }
+]

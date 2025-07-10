@@ -1,0 +1,22 @@
+{
+  "name": "Cicada",
+  "slug": "cicada",
+  "website": "https://cicadamusic.net/",
+  "description": "Cicada helps musicians make more money from live gigs.",
+  "one_liner": "Cicada helps musicians make more money from live gigs.",
+  "location": "San Francisco, California, United States",
+  "industry": "Audiotech",
+  "industry_slug": "audiotech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/cicadamusic"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cicada",
+  "api": "/api/companies/cicada.json"
+}

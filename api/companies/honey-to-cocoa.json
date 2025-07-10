@@ -1,0 +1,22 @@
+{
+  "name": "Honey to Cocoa",
+  "slug": "honey-to-cocoa",
+  "website": "https://honeytococoa.com/",
+  "description": "Leveraging AI to help people of color match makeup to their unique skin tones",
+  "one_liner": "Leveraging AI to help people of color match makeup to their unique skin tones",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/honeytococoa"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/honey-to-cocoa",
+  "api": "/api/companies/honey-to-cocoa.json"
+}

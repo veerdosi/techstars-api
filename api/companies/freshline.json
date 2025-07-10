@@ -1,0 +1,24 @@
+{
+  "name": "Freshline",
+  "slug": "freshline",
+  "website": "https://freshline.io/",
+  "description": "Connecting restaurants and commercial seafood harvesters.",
+  "one_liner": "Connecting restaurants and commercial seafood harvesters.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/coastlinemarket",
+    "linkedin": "https://linkedin.com/company/freshlineapp",
+    "facebook": "https://facebook.com/freshline.io/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/freshline",
+  "api": "/api/companies/freshline.json"
+}

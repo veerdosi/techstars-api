@@ -1,0 +1,24 @@
+{
+  "name": "PWRFWD",
+  "slug": "pwrfwd",
+  "website": "https://linkedin.com/company/pwrfwd",
+  "description": "PWRFWD is a marketplace that empowers athletes to own their influence.",
+  "one_liner": "PWRFWD is a marketplace that empowers athletes to own their influence.",
+  "location": "Concord, New Hampshire, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/pwrfwdshop",
+    "linkedin": "https://linkedin.com/company/pwrfwd",
+    "facebook": "https://facebook.com/PWRFWD/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pwrfwd",
+  "api": "/api/companies/pwrfwd.json"
+}

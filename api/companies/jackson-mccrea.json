@@ -1,0 +1,24 @@
+{
+  "name": "Jackson McCrea",
+  "slug": "jackson-mccrea",
+  "website": "https://jacksonmccreawhiskey.com/",
+  "description": "Focused on bringing women into the conversation of whiskey.",
+  "one_liner": "Focused on bringing women into the conversation of whiskey.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/jacksonmccrea",
+    "linkedin": "https://linkedin.com/company/jackson-mccrea",
+    "facebook": "https://facebook.com/jacksonmccreawhiskey"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/jackson-mccrea",
+  "api": "/api/companies/jackson-mccrea.json"
+}

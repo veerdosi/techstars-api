@@ -1,0 +1,24 @@
+{
+  "name": "Hello Audio",
+  "slug": "hello-audio",
+  "website": "https://helloaudio.fm/",
+  "description": "We get your content into their ears.",
+  "one_liner": "We get your content into their ears.",
+  "location": "San Diego, California, United States",
+  "industry": "Audiotech",
+  "industry_slug": "audiotech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/helloaudiofm",
+    "linkedin": "https://linkedin.com/company/helloaudiofm",
+    "facebook": "https://facebook.com/helloaudiofm"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hello-audio",
+  "api": "/api/companies/hello-audio.json"
+}

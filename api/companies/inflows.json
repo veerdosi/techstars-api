@@ -1,0 +1,22 @@
+{
+  "name": "InFLOWS",
+  "slug": "inflows",
+  "website": "https://designflow.inflows-ai.com/",
+  "description": "InFLOWS AI provides toolboxes that augment R&D chemists to design products 10X faster & cleaner.",
+  "one_liner": "InFLOWS AI provides toolboxes that augment R&D chemists to design products 10X faster & cleaner.",
+  "location": "Paris, France",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/inflowsai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/inflows",
+  "api": "/api/companies/inflows.json"
+}

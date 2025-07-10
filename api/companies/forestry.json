@@ -1,0 +1,23 @@
+{
+  "name": "Forestry",
+  "slug": "forestry",
+  "website": "https://linkedin.com/company/forestry.io",
+  "description": "Forestry offers developers a new way to build and manage websites.",
+  "one_liner": "Forestry offers developers a new way to build and manage websites.",
+  "location": "Charlottetown, Prince Edward Island, Canada",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/forestryio",
+    "linkedin": "https://linkedin.com/company/forestry.io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/forestry",
+  "api": "/api/companies/forestry.json"
+}

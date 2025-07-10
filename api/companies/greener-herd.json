@@ -1,0 +1,22 @@
+{
+  "name": "Greener Herd",
+  "slug": "greener-herd",
+  "website": "https://greenerherd.com/",
+  "description": "Greener Herd is pioneering the future of livestock farming with cutting-edge AI solutions designed to reduce methane emissions, enhance productivity, and promote sustainability.",
+  "one_liner": "Greener Herd is pioneering the future of livestock farming with cutting-edge AI solutions designed to reduce methane emissions, enhance productivity, and promote sustainability.",
+  "location": "Newark, Delaware, United States",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/greener-herd"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/greener-herd",
+  "api": "/api/companies/greener-herd.json"
+}

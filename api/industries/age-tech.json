@@ -1,0 +1,23 @@
+[
+  {
+    "name": "SpendCare",
+    "website": "https://spend.care/",
+    "description": "Spend management platform for senior care providers, their caregivers, and their clients.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/etwrnvtlqy8okuuppkcf",
+    "location": "Franklin, Tennessee, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/spendcare-inc"
+    },
+    "industry": "Age Tech",
+    "industry_slug": "age-tech"
+  },
+  {
+    "name": "Violet",
+    "website": "https://violet.org.au/",
+    "description": "Helping people talk about and plan for the last stage of life",
+    "location": "Haymarket, New South Wales, Australia",
+    "social_media": {},
+    "industry": "Age Tech",
+    "industry_slug": "age-tech"
+  }
+]

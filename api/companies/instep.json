@@ -1,0 +1,22 @@
+{
+  "name": "InStep",
+  "slug": "instep",
+  "website": "https://myinstep.com/",
+  "description": "InStep is a B2B data analytics tool, quantifying human behavior in the \"real world\" for product development and customer insights teams.",
+  "one_liner": "InStep is a B2B data analytics tool, quantifying human behavior in the \"real world\" for product development and customer insights teams.",
+  "location": "London, United Kingdom",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/my-instep"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/instep",
+  "api": "/api/companies/instep.json"
+}

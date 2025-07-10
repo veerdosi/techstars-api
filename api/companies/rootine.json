@@ -1,0 +1,24 @@
+{
+  "name": "Rootine",
+  "slug": "rootine",
+  "website": "https://rootine.co/",
+  "description": "Personalized Daily Vitamin Packs Based On Your Genetics",
+  "one_liner": "Personalized Daily Vitamin Packs Based On Your Genetics",
+  "location": "Nashville, Tennessee, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/rootinevitamins",
+    "linkedin": "https://linkedin.com/company/rootine",
+    "facebook": "https://facebook.com/rootine.co"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rootine",
+  "api": "/api/companies/rootine.json"
+}

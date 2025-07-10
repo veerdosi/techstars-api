@@ -1,0 +1,24 @@
+{
+  "name": "Good Audience",
+  "slug": "good-audience",
+  "website": "https://goodaudience.com/",
+  "description": "Fully managed social media for businesses",
+  "one_liner": "Fully managed social media for businesses",
+  "location": "London, United Kingdom",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GoodAudience",
+    "linkedin": "https://linkedin.com/company/3606692",
+    "facebook": "https://facebook.com/goodaudience"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/good-audience",
+  "api": "/api/companies/good-audience.json"
+}

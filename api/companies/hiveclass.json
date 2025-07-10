@@ -1,0 +1,24 @@
+{
+  "name": "Hiveclass",
+  "slug": "hiveclass",
+  "website": "https://hiveclass.co/",
+  "description": "Digital platform for modern, whole-child wellness resources serving educational institutions.",
+  "one_liner": "Digital platform for modern, whole-child wellness resources serving educational institutions.",
+  "location": "Bridgehampton, New York, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hiveclass",
+    "linkedin": "https://linkedin.com/company/hiveclass",
+    "facebook": "https://facebook.com/HiveClassAPP"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hiveclass",
+  "api": "/api/companies/hiveclass.json"
+}

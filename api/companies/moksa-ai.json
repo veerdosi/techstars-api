@@ -1,0 +1,24 @@
+{
+  "name": "mokSa AI",
+  "slug": "moksa-ai",
+  "website": "https://moksa.ai/",
+  "description": "mokSa.ai is an AI-powered video surveillance and audit platform that enhances small business security and efficiency.",
+  "one_liner": "mokSa.ai is an AI-powered video surveillance and audit platform that enhances small business security and efficiency.",
+  "location": "Sterling Heights, Michigan, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/MoksaAi",
+    "linkedin": "https://linkedin.com/company/moksa-ai",
+    "facebook": "https://facebook.com/mokSa2021"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/moksa-ai",
+  "api": "/api/companies/moksa-ai.json"
+}

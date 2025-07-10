@@ -1,0 +1,23 @@
+{
+  "name": "Satellites On Fire",
+  "slug": "satellites-on-fire",
+  "website": "https://satellitesonfire.com/",
+  "description": "Satellites on Fire is a wildfire early detection system that uses satellites, ground cameras & AI.",
+  "one_liner": "Satellites on Fire is a wildfire early detection system that uses satellites, ground cameras & AI.",
+  "location": "Martínez, Argentina",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SatsOnFire",
+    "linkedin": "https://linkedin.com/company/satellitesonfire"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/satellites-on-fire",
+  "api": "/api/companies/satellites-on-fire.json"
+}

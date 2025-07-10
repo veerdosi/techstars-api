@@ -1,0 +1,24 @@
+{
+  "name": "EnrichHER",
+  "slug": "enrichher",
+  "website": "https://linkedin.com/company/ienrichher",
+  "description": "A lending platform connecting revenue-generating, women-led businesses with up to $250K in non-dilutive capital while fueling the growth of women-led businesses",
+  "one_liner": "A lending platform connecting revenue-generating, women-led businesses with up to $250K in non-dilutive capital while fueling the growth of women-led businesses",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/iEnrichHER",
+    "linkedin": "https://linkedin.com/company/ienrichher",
+    "facebook": "https://facebook.com/iEnrichHER/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/enrichher",
+  "api": "/api/companies/enrichher.json"
+}

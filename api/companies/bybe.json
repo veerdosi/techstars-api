@@ -1,0 +1,24 @@
+{
+  "name": "BYBE",
+  "slug": "bybe",
+  "website": "https://bybe.com/",
+  "description": "BYBE simplifies digital alcohol promotions for retailers by embedding digital alcohol rebates inside retail applications and websites.",
+  "one_liner": "BYBE simplifies digital alcohol promotions for retailers by embedding digital alcohol rebates inside retail applications and websites.",
+  "location": "Columbus, Ohio, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/BYBEapp",
+    "linkedin": "https://linkedin.com/company/bybe-app",
+    "facebook": "https://facebook.com/bybeapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bybe",
+  "api": "/api/companies/bybe.json"
+}

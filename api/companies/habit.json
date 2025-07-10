@@ -1,0 +1,24 @@
+{
+  "name": "Habit",
+  "slug": "habit",
+  "website": "https://habit.io/",
+  "description": "Habit provides insurance products in the form of an API",
+  "one_liner": "Habit provides insurance products in the form of an API",
+  "location": "New York City, New York, United States",
+  "industry": "Insurtech",
+  "industry_slug": "insurtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/habit_analytics",
+    "linkedin": "https://linkedin.com/company/habitskin",
+    "facebook": "https://facebook.com/habit.analytics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/habit",
+  "api": "/api/companies/habit.json"
+}

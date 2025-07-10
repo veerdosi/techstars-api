@@ -1,0 +1,24 @@
+{
+  "name": "Moonai",
+  "slug": "moonai",
+  "website": "https://moonai.app/",
+  "description": "Neuroscience science-based & personalised sounds app to alleviate period pain & enhance cognitive functions",
+  "one_liner": "Neuroscience science-based & personalised sounds app to alleviate period pain & enhance cognitive functions",
+  "location": "Barcelona, Spain",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/moonaiapp",
+    "linkedin": "https://linkedin.com/company/moonaiapp",
+    "facebook": "https://facebook.com/moonaiapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/moonai",
+  "api": "/api/companies/moonai.json"
+}

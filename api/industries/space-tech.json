@@ -1,0 +1,612 @@
+[
+  {
+    "name": "Kepler Communications",
+    "website": "https://kepler.space/",
+    "description": "Enabling real-time communications access to other spacecraft by developing a constellation of data relaying satellites that will effectively act as on-orbit cell phone towers.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/KeplerComms",
+      "linkedin": "https://linkedin.com/company/kepler-communications-inc-",
+      "facebook": "https://facebook.com/KeplerCommunications"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Slingshot Aerospace",
+    "website": "https://slingshotaerospace.com/",
+    "description": "Slingshot develops technology to process and mine the disparate, ever-increasing deluge of signal data at a scale optimized for earth observation.",
+    "location": "El Segundo, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sling_shot_aero",
+      "linkedin": "https://linkedin.com/company/slingshot-aerospace",
+      "facebook": "https://facebook.com/slingshotaero/"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Pixxel",
+    "website": "https://pixxel.space/",
+    "description": "We build and operate cutting-edge hyperspectral imaging satellites.",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pixxelspace",
+      "linkedin": "https://linkedin.com/company/pixxelspace",
+      "facebook": "https://facebook.com/pixxelspace/"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Morpheus Space",
+    "website": "https://morpheus.space/",
+    "description": "A leading satellite mobility provider enabling truly dynamic satellite constellation management with in-space electric propulsion",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MorpheusSpace",
+      "linkedin": "https://linkedin.com/company/morpheus-space",
+      "facebook": "https://facebook.com/MorpheusSpace/"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Novo Space",
+    "website": "https://novo.space/",
+    "description": "High-performance radiation-tolerant computers for the new space age",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/novo_space",
+      "linkedin": "https://linkedin.com/company/novo-space"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Kayhan Space",
+    "website": "https://kayhan.space/",
+    "description": "Cloud-based space flight dynamics and mission analysis platform",
+    "location": "Lafayette, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/KayhanSpace",
+      "linkedin": "https://linkedin.com/company/kayhan-space"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Esper Satellite Imagery",
+    "website": "https://espersatellites.co/",
+    "description": "Builder and operator of remote sensing satellites capable of high-resolution hyperspectral imagery.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/f6qpnk59jkrdw5t4ql47",
+    "location": "Patterson Lakes, Victoria, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/EsperSats",
+      "linkedin": "https://linkedin.com/company/esper-sats",
+      "facebook": "https://facebook.com/espersatellites"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "PierSight Space",
+    "website": "https://piersight.space/",
+    "description": "Persistent Surveillance for the Maritime Industry",
+    "location": "Ahmedabad, Gujarat, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/piersight-space"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Prewitt Ridge",
+    "website": "https://prewittridge.com/",
+    "description": "Engineering collaboration software for teams building challenging deep tech projects.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/prewittridge",
+      "linkedin": "https://linkedin.com/company/prewitt-ridge"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "GATE Space",
+    "website": "https://gate.space/",
+    "description": "GATE Space is a developer of a technology designed to enable the next generation of space mobility.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/zvmmwo2k09wvrxygdkg3",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/gatespace"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "SurPlusMap",
+    "website": "https://surplusmap.com/",
+    "description": "Geospatial analytics to empower decision-makers in the green transition.",
+    "location": "Oslo, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/surplusmap"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "MODICA",
+    "website": "https://madebymodica.com/",
+    "description": "Self-organizing, super-scalable Factory-as-a-Service modules, deployed anywhere.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/madebyMODICA",
+      "linkedin": "https://linkedin.com/company/modica",
+      "facebook": "https://facebook.com/modicamicroindustries/"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Re Cae",
+    "website": "https://re-cae.com/",
+    "description": "Pioneering sovereign space operation system for the future of space exploration",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/y7qkbl1kzmiskjmmlq83",
+    "location": "Bassins, Switzerland",
+    "social_media": {
+      "twitter": "https://twitter.com/Re_CAE_",
+      "linkedin": "https://linkedin.com/company/re-cae"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Revolute Robotics",
+    "website": "https://revoluterobotics.com/",
+    "description": "Autonomous, energy-efficient robot that's capable of both rolling and flying",
+    "location": "Scottsdale, Arizona, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/revoluterobotics",
+      "facebook": "https://facebook.com/revoluterobotics"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "WingXpand",
+    "website": "https://wingxpand.com/",
+    "description": "WingXpand is a US made and patented 7ft drone that expands from a backpack, offering flight services, training and analysis.",
+    "location": "St. Louis, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wingxpand",
+      "linkedin": "https://linkedin.com/company/wingxpand",
+      "facebook": "https://facebook.com/wingxpand"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Solideon",
+    "website": "https://solideon.com/",
+    "description": "The company facilitates use of additive manufacturing system, a machine-learning collaborative system.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rvyqaeriunuqfjqw8tch",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SolideonUSA",
+      "linkedin": "https://linkedin.com/company/solideonusa"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Orbital Arc",
+    "website": "https://orbitalarc.com/",
+    "description": "Orbital Arc: Building a Better Ion Engine",
+    "location": "Houston, Texas, United States",
+    "social_media": {},
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "In Orbit Aerospace",
+    "website": "https://inorbitaerospace.com/",
+    "description": "Enabling mass manufacturing and research in space.",
+    "location": "Torrance, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/in-orbit-aerospace"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Fenix Space",
+    "website": "https://fenixspace.com/",
+    "description": "Fenix Space is a revolutionary platform that provides responsive and flexible launch-on-demand services at rideshare prices.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/eric02wlz1vw3qopc4t2",
+    "location": "San Bernardino, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/fenixspace"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Charter Space",
+    "website": "https://charter.space/",
+    "description": "Charter is developing logistics software for satellite companies to streamline missions and reduce wasted engineering hours.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/zzfasicadzv4iurxkj2e",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/charter_space_",
+      "linkedin": "https://linkedin.com/company/charter-space"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Canopy Aerospace",
+    "website": "https://canopyaerospace.com/",
+    "description": "Thermal protection systems including heat shields for emerging space and hypersonic industries",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/asrxyvzs1461hlgz2mkc",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/canopyaerospace"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "O Analytics",
+    "website": "https://o-analytics.com/",
+    "description": "O Analytics uses deep learning-inspired algorithmic software to master in science, technology, engineering and mathematics disciplines.",
+    "location": "Fairmont, West Virginia, United States",
+    "social_media": {},
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Magma Space",
+    "website": "https://magma-space.com/",
+    "description": "Magma Space is developing cutting-edge control systems to achieve unmatched aiming accuracy.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/o2w430jna7ch1bwqfptp",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/magma-space-llc"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Haylon Technologies",
+    "website": "https://haylontech.com/",
+    "description": "Making electrified products more sustainable by unleashing the full potential of existing batteries.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pkrnai4q4rldqqiyjr6p",
+    "location": "Champaign, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/haylon-technologies"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "VXB Aerospace",
+    "website": "https://vxbaerospace.com/",
+    "description": "Breakthrough space systems enhanced by evolutionary AI.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mmnubfjtuhozf6xtn5rq",
+    "location": "Eveleigh, New South Wales, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/vxb-aerospace"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Ultraview AI",
+    "website": "https://ultraview.io/",
+    "description": "Automating the air and spacecraft visual inspection process",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ultraviewai"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Spiral Blue",
+    "website": "https://spiralblue.space/",
+    "description": "Developing a SmallSat constellation with LiDAR-optical multisensor technology",
+    "location": "Eveleigh, New South Wales, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/spiralblue",
+      "facebook": "https://facebook.com/spiralblueptyltd/"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "SkySERVE",
+    "website": "https://skyserve.ai/",
+    "description": "Geospatial insights for Businesses",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ihgz0t94xqozd94bwmpn",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/skyserve-ai"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Samara Aerospace",
+    "website": "https://samaraaerospace.com/",
+    "description": "Scalable, rapidly deployable satellites",
+    "location": "Superior, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/samaraaero",
+      "linkedin": "https://linkedin.com/company/samaraaero"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "re:ORBITAL",
+    "website": "https://re-orbital.com/",
+    "description": "reOrbital is building the world's fastest, most cost effective orbital tech maturation platform. Our flagship product, the TACT-100,  is an orbital tech maturation platform designed to fly on reusable upper-stage vehicles throughout launch, in-orbit operations, reentry, and landing.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/reorbital"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Pulse Space",
+    "website": "https://pulsespace.com/",
+    "description": "Pulse is developing scalable on-demand power and space situational awareness services (ssa) in orbit. This optimizes power systems and operator capabilities while addressing orbital debris to ensure a cleaner space environment.",
+    "location": "Bellevue, Washington, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pulsespace"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Pramatra Space",
+    "website": "https://pramatra.space/",
+    "description": "Pramatra Space is a quantum technology venture on a mission to make enterprises quantum resilient. We are building satellites to distribute quantum keys to enterprises using quantum entanglement. Our hardware systems and software platforms will offer solutions to clients to help protect and shield their data and digital assets. \n\nPramatra Space is on the mission to prepare the world for Q-Day!",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pramatra-space"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Mithril Technologies",
+    "website": "https://mithril.space/",
+    "description": "Creates re-shapeable mesh antennas \r\nfor weather monitoring and SDA satellites\r\nin GEO",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mithril-technologies-inc"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Cryptosat",
+    "website": "https://cryptosat.io/",
+    "description": "Cryptosat is to build satellites that power cryptographic, blockchain and ledger applications.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jfcdwcjxelzulvxxbhpq",
+    "location": "Mountain View, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cryptosat",
+      "linkedin": "https://linkedin.com/company/cryptosat"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "ColliMate Space",
+    "website": "https://collimatespace.com/",
+    "description": "Building a next gen ground-space operations software, using multi-modal AI/ML based systems.",
+    "location": "Santa Clara, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/collimate-space"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "ATRX",
+    "website": "https://atrx.space/",
+    "description": "Building the Space Plane Ferry of Choice. It's a horizontal launch space plane that can take off and land on any runway",
+    "location": "Huntsville, Alabama, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/atrx-space"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Astron Systems",
+    "website": "https://astronsystems.com/",
+    "description": "Astron Systems are developing fully reusable rockets for affordable, responsive, and sustainable space access for small satellites.",
+    "location": "Didcot, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/astron-systems?originalSubdomain=uk"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Avionova",
+    "website": "https://avionova.tech/",
+    "description": "Avionova's earbuds are the first real-time, drug-free solution for motion sickness, vertigo, spatial disorientation, and tinnitus elimination.",
+    "location": "Hilliard, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/avionova"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Maygia",
+    "website": "https://maygia.com/",
+    "description": "Device using hydrogen to clean water while producing electricity",
+    "location": "Haifa, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/maygia"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Lambdai Space",
+    "website": "https://lambdai.space/",
+    "description": "We are democratizing access to remote monitoring for climate impact",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/evkiil0uzt3zodyawzyi",
+    "location": "Milano, Lombardy, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lambdai-space"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Dedalo",
+    "website": "https://dedalo.ai/",
+    "description": "Dedalo AI, a pioneering Climate Tech enterprise, is dedicated to quantifying and mitigating the digital CO2 footprint.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vbj2o4h9wg2sdqdyuzqo",
+    "location": "Turin, Turin, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/DedaloAi",
+      "linkedin": "https://linkedin.com/company/dedalo-ai"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Vision Anchor",
+    "website": "https://visionanchor.net/",
+    "description": "VisionAnchor has developed the world's first smart anchoring system that actually tracks the anchor and sends a data feed to the boat. This makes anchoring faster and safer saving the owners hundreds of thousands of USD in damages or fines.",
+    "location": "Ljubljana, Slovenia",
+    "social_media": {
+      "twitter": "https://twitter.com/anchor_vision",
+      "linkedin": "https://linkedin.com/company/visionanchor",
+      "facebook": "https://facebook.com/visionanchorcam"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Spacebackend",
+    "website": "https://openmoon.space/",
+    "description": "Reducing Satellite integrations from years to days. SpaceBackend provides a cloud platform for spacecraft and payload companies, delivering end-to-end operational and automation solutions for the space industry.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/spacebackend"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Eqtrade",
+    "website": "https://eqgrow.mydurable.com/",
+    "description": "Eqtrade, powered by AI and ML, bridges the gaps in international food systems. Empowering farmers without business knowledge to transform their lands into sustainable ventures.",
+    "location": "Madrid, Spain",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/isabella-bernal-colpas-25768b11a"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Mechadoc",
+    "website": "https://mechadoc.io/",
+    "description": "Automated compliance for companies in medtech, healthtech, and hardware.",
+    "location": "New York City, New York, United States",
+    "social_media": {},
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "MobilityZ Health",
+    "website": "https://humansinspace.co/",
+    "description": "Digital Health SAAS for orthopedic specialists to diagnose and screen patients with musculoskeletal(MSK) injuries with a telehealth visit. World's first virtual orthopedic injury diagnosis and automated screening for surgery or non-surgery patients with r",
+    "location": "Cypress, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mobilityzhealth",
+      "linkedin": "https://linkedin.com/company/mobilityzhealth"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Little Place Labs",
+    "website": "https://littleplace.com/",
+    "description": "Building machine learning solutions for space edge computing in a scalable way.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hptajyrc5v4ag4xzmfxn",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/little-place-labs"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Imetalx Group",
+    "website": "https://imetalx.com/",
+    "description": "Accelerating Space Sustainability and In-Space Servicing",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wovgbh0mpu1q6tnkzszq",
+    "location": "Sausalito, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/imetalx-group-llc"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Equatorial Space Systems Pte Ltd",
+    "website": "https://equatorialspace.com/",
+    "description": "Making spaceflight safer and more affordable with game-changing propulsion technologies.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "twitter": "https://twitter.com/EquatorialSpace",
+      "linkedin": "https://linkedin.com/company/equatorial-space",
+      "facebook": "https://facebook.com/equatorialspace/"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Melagen Labs",
+    "website": "https://melagenlabs.com/",
+    "description": "Melagen Labs mission is to provide the next generation of space-faring tech and adventurers with reliable, durable, and cheap radiation shielding.",
+    "location": "San Francisco, California, United States",
+    "social_media": {},
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Apeiron Space",
+    "website": "https://crunchbase.com/organization/apeiron-space",
+    "description": "Apeiron is redefining launch services and space travel by creating a fully reusable, medium-to-heavy class launch vehicle.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/x5mdfdaxng8exvolhm7e",
+    "location": "Huntington Beach, California, United States",
+    "social_media": {},
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  },
+  {
+    "name": "Additive Rocket Corporation",
+    "website": "https://linkedin.com/company/additive-rocket-corporation",
+    "description": "Additively manufactured rocket engines",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ARCengines",
+      "linkedin": "https://linkedin.com/company/additive-rocket-corporation"
+    },
+    "industry": "Space tech",
+    "industry_slug": "space-tech"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "name": "ReelCrafter",
+  "slug": "reelcrafter",
+  "website": "https://reelcrafter.com/",
+  "description": "ReelCrafter helps connect audio creatives with the entertainment industry professionals who hire them.",
+  "one_liner": "ReelCrafter helps connect audio creatives with the entertainment industry professionals who hire them.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ReelCrafter",
+    "linkedin": "https://linkedin.com/company/reelcrafter",
+    "facebook": "https://facebook.com/reelcrafter/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/reelcrafter",
+  "api": "/api/companies/reelcrafter.json"
+}

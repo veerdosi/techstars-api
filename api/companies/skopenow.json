@@ -1,0 +1,24 @@
+{
+  "name": "Skopenow",
+  "slug": "skopenow",
+  "website": "https://skopenow.com/",
+  "description": "Skopenow is a people search engine for discovering fraud and evaluating risk.",
+  "one_liner": "Skopenow is a people search engine for discovering fraud and evaluating risk.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Skopenow",
+    "linkedin": "https://linkedin.com/company/skopenow",
+    "facebook": "https://facebook.com/skopenow"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/skopenow",
+  "api": "/api/companies/skopenow.json"
+}

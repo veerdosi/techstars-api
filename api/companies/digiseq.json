@@ -1,0 +1,23 @@
+{
+  "name": "Digiseq",
+  "slug": "digiseq",
+  "website": "https://digiseq.co.uk/",
+  "description": "A Pioneer in Secure Provisioning for Consumer Tech",
+  "one_liner": "A Pioneer in Secure Provisioning for Consumer Tech",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/digisequk",
+    "linkedin": "https://linkedin.com/company/digiseq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/digiseq",
+  "api": "/api/companies/digiseq.json"
+}

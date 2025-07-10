@@ -1,0 +1,24 @@
+{
+  "name": "Ambit",
+  "slug": "ambit",
+  "website": "https://ambit.ai/",
+  "description": "Ambit facilitates and transparently logs payments between insurers and providers on the blockchain while protecting patient privacy.",
+  "one_liner": "Ambit facilitates and transparently logs payments between insurers and providers on the blockchain while protecting patient privacy.",
+  "location": "San Francisco, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/by3y9nmwlowloutw0djv",
+  "social_media": {
+    "twitter": "https://twitter.com/ambitvpn",
+    "linkedin": "https://linkedin.com/company/ambitinc",
+    "facebook": "https://facebook.com/ambitvpn"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ambit",
+  "api": "/api/companies/ambit.json"
+}

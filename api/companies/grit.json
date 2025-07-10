@@ -1,0 +1,24 @@
+{
+  "name": "GRIT",
+  "slug": "grit",
+  "website": "https://linkedin.com/company/grit-bet",
+  "description": "For culture, by culture investment in the next generation of high potential technical talent",
+  "one_liner": "For culture, by culture investment in the next generation of high potential technical talent",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GritGroup",
+    "linkedin": "https://linkedin.com/company/grit-bet",
+    "facebook": "https://facebook.com/gritppo"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/grit",
+  "api": "/api/companies/grit.json"
+}

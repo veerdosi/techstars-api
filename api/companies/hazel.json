@@ -1,0 +1,24 @@
+{
+  "name": "Hazel",
+  "slug": "hazel",
+  "website": "https://hazelhq.com/",
+  "description": "*TOP PITCH FROM DEMO DAY* // Hazel helps growing companies develop their managers. Better managers means increased retention and engagement from every employee.",
+  "one_liner": "*TOP PITCH FROM DEMO DAY* // Hazel helps growing companies develop their managers. Better managers means increased retention and engagement from every employee.",
+  "location": "Vancouver, British Columbia, Canada",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/workwithhazel",
+    "linkedin": "https://linkedin.com/company/hellohazel",
+    "facebook": "https://facebook.com/hazelhq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hazel",
+  "api": "/api/companies/hazel.json"
+}

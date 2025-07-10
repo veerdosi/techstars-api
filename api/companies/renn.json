@@ -1,0 +1,24 @@
+{
+  "name": "Renn",
+  "slug": "renn",
+  "website": "https://getrenn.com/",
+  "description": "Renn is a tax expert & accountant AI agent for digital expat & nomad business owners, helping them to increase their net income by 10%-25% through tax savings.",
+  "one_liner": "Renn is a tax expert & accountant AI agent for digital expat & nomad business owners, helping them to increase their net income by 10%-25% through tax savings.",
+  "location": "Haifa, Haifa, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/@renn_women",
+    "linkedin": "https://linkedin.com/company/105097532",
+    "facebook": "https://facebook.com/rennwomen"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/renn",
+  "api": "/api/companies/renn.json"
+}

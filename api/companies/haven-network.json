@@ -1,0 +1,23 @@
+{
+  "name": "Haven Network",
+  "slug": "haven-network",
+  "website": "https://havenproject.io/",
+  "description": "Haven is a mission-driven platform that radically simplifies access to government and corporate contracts--many of which businesses are unaware of. In a landscape of outdated systems, bureaucratic jargon, and scattered portals, Haven unites over 12,000 buying agencies into one intuitive platform. Acting as a business development partner, we automatically match businesses with the right opportunities, drastically reducing the time and effort required to find and secure contracts.",
+  "one_liner": "Haven is a mission-driven platform that radically simplifies access to government and corporate contracts--many of which businesses are unaware of. In a landscape of outdated systems, bureaucratic jargon, and scattered portals, Haven unites over 12,000 buying agencies into one intuitive platform. Acting as a business development partner, we automatically match businesses with the right opportunities, drastically reducing the time and effort required to find and secure contracts.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/thinkhaven",
+    "linkedin": "https://linkedin.com/company/thinkhaven"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/haven-network",
+  "api": "/api/companies/haven-network.json"
+}

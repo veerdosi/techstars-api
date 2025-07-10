@@ -1,0 +1,24 @@
+{
+  "name": "Pixchange",
+  "slug": "pixchange",
+  "website": "https://pixchangeapp.com/",
+  "description": "Design your message. Create stickers, gifs, and interactive AR assets on your mobile. Share and sell in our marketplace and send from your keyboard.",
+  "one_liner": "Design your message. Create stickers, gifs, and interactive AR assets on your mobile. Share and sell in our marketplace and send from your keyboard.",
+  "location": "Bern, Switzerland",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/pixchange_app",
+    "linkedin": "https://linkedin.com/company/pixchange-app",
+    "facebook": "https://facebook.com/pixchangeapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pixchange",
+  "api": "/api/companies/pixchange.json"
+}

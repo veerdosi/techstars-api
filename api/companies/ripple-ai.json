@@ -1,0 +1,23 @@
+{
+  "name": "Ripple AI",
+  "slug": "ripple-ai",
+  "website": "https://getripple.ai/",
+  "description": "Ripple is an all-in-one marketing platform that uses AI to help small brands plan and generate content, run ads, manage email and SMS campaigns, and gain insights from their data.",
+  "one_liner": "Ripple is an all-in-one marketing platform that uses AI to help small brands plan and generate content, run ads, manage email and SMS campaigns, and gain insights from their data.",
+  "location": "New York City, New York, United States",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GetRippleAI",
+    "linkedin": "https://linkedin.com/company/ripple-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ripple-ai",
+  "api": "/api/companies/ripple-ai.json"
+}

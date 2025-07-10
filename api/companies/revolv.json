@@ -1,0 +1,24 @@
+{
+  "name": "Revolv",
+  "slug": "revolv",
+  "website": "https://revolv.com/",
+  "description": "Unifying platform for the smart home",
+  "one_liner": "Unifying platform for the smart home",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mobiplugnetwork",
+    "linkedin": "https://linkedin.com/company/revolv-inc",
+    "facebook": "https://facebook.com/mobiplug"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/revolv",
+  "api": "/api/companies/revolv.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "StageWing",
+  "slug": "stagewing",
+  "website": "https://stagewing.com/",
+  "description": "An event production equipment sharing community where members can rent the best pro gear.",
+  "one_liner": "An event production equipment sharing community where members can rent the best pro gear.",
+  "location": "Decatur, Georgia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/stagewingapp",
+    "linkedin": "https://linkedin.com/company/stagewing"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/stagewing",
+  "api": "/api/companies/stagewing.json"
+}

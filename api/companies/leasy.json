@@ -1,0 +1,22 @@
+{
+  "name": "Leasy",
+  "slug": "leasy",
+  "website": "https://leasy.pro/",
+  "description": "Leasy is a tailor made accounting, banking and payment solution for property operators.",
+  "one_liner": "Leasy is a tailor made accounting, banking and payment solution for property operators.",
+  "location": "Legnano, Milan, Italy",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/leasypropertymanagementmadeeasy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/leasy",
+  "api": "/api/companies/leasy.json"
+}

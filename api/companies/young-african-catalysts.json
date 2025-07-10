@@ -1,0 +1,23 @@
+{
+  "name": "Young African Catalysts",
+  "slug": "young-african-catalysts",
+  "website": "https://yac.africa/",
+  "description": "CatalyzU is a tech-enabled ecosystem that uses data and the community to help people find work, and advance their skills.",
+  "one_liner": "CatalyzU is a tech-enabled ecosystem that uses data and the community to help people find work, and advance their skills.",
+  "location": "Cape Town, South Africa",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/tuzhuoycaocycr1hdinp",
+  "social_media": {
+    "twitter": "https://twitter.com/YACatalysts",
+    "linkedin": "https://linkedin.com/company/catalyzu"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/young-african-catalysts",
+  "api": "/api/companies/young-african-catalysts.json"
+}

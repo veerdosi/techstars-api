@@ -1,0 +1,23 @@
+{
+  "name": "Katanso",
+  "slug": "katanso",
+  "website": "https://kumo.earth/",
+  "description": "KUMO enables borrowing the collateralized stablecoin KUSD against on-chain natural assets with no interest rate.",
+  "one_liner": "KUMO enables borrowing the collateralized stablecoin KUSD against on-chain natural assets with no interest rate.",
+  "location": "Mainz, Germany",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jdavypqibpcgjco0ysiu",
+  "social_media": {
+    "twitter": "https://twitter.com/kumo_earth",
+    "linkedin": "https://linkedin.com/company/kumo-earth"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/katanso",
+  "api": "/api/companies/katanso.json"
+}

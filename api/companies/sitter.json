@@ -1,0 +1,24 @@
+{
+  "name": "Sitter",
+  "slug": "sitter",
+  "website": "https://sitter.me/",
+  "description": "Sitter makes it insanely easy to book and pay your own babysitters and find the most recommended sitters in your circle of friends.",
+  "one_liner": "Sitter makes it insanely easy to book and pay your own babysitters and find the most recommended sitters in your circle of friends.",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sitterme",
+    "linkedin": "https://linkedin.com/company/sitter-inc",
+    "facebook": "https://facebook.com/sitter.me"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sitter",
+  "api": "/api/companies/sitter.json"
+}

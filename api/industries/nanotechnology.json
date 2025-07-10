@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Graphite Innovation and Technologies",
+    "website": "https://grapheneenterprise.ca/",
+    "description": "Canada's leading protective marine coatings company specialized in high-performance coatings for large vessels that reduce fuel consumption and GHG",
+    "location": "Dartmouth, Nova Scotia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/GIT_Graphene",
+      "linkedin": "https://linkedin.com/company/grapheneenterprise"
+    },
+    "industry": "Nanotechnology",
+    "industry_slug": "nanotechnology"
+  },
+  {
+    "name": "Interface Fluidics",
+    "website": "https://interfacefluidics.com/",
+    "description": "Increase oil recovery through rapid fluid analysis under reservoir conditions",
+    "location": "Calgary, Alberta, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/interfacefluids",
+      "linkedin": "https://linkedin.com/company/interface-fluidics"
+    },
+    "industry": "Nanotechnology",
+    "industry_slug": "nanotechnology"
+  },
+  {
+    "name": "MITO Material Solutions",
+    "website": "https://mitomaterials.com/",
+    "description": "MITO Material Solutions manufactures hybrid nano-additives, enabling composite manufacturers to create tougher, lighter, and more durable products.",
+    "location": "Stillwater, Oklahoma, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MITO_Materials",
+      "linkedin": "https://linkedin.com/company/mitomaterials",
+      "facebook": "https://facebook.com/MITOMaterialSolutions/"
+    },
+    "industry": "Nanotechnology",
+    "industry_slug": "nanotechnology"
+  },
+  {
+    "name": "Mesodyne",
+    "website": "https://mesodyne.com/",
+    "description": "Silent, reliable, long-endurance power from any fuel.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mesodyne"
+    },
+    "industry": "Nanotechnology",
+    "industry_slug": "nanotechnology"
+  },
+  {
+    "name": "Graphenest",
+    "website": "https://graphenest.com/",
+    "description": "Graphenest provides a two order of magnitude cost reduction in manufacture of graphene, a wonder material that enables high-performance materials",
+    "location": "Sever do Vouga, Portugal",
+    "social_media": {
+      "twitter": "https://twitter.com/graphenest",
+      "linkedin": "https://linkedin.com/company/graphenest---advanced-nanotechnology",
+      "facebook": "https://facebook.com/graphenest"
+    },
+    "industry": "Nanotechnology",
+    "industry_slug": "nanotechnology"
+  },
+  {
+    "name": "Gelatex",
+    "website": "https://gelatex.com/",
+    "description": "Gelatex is the catalyst for cultured meat, wound care, filtration, and energy storage by providing up to 100 times cheaper and scalable nanofiber production.",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "twitter": "https://twitter.com/gela_tex",
+      "linkedin": "https://linkedin.com/company/gelatex",
+      "facebook": "https://facebook.com/gelatex/"
+    },
+    "industry": "Nanotechnology",
+    "industry_slug": "nanotechnology"
+  },
+  {
+    "name": "TruSpin Nanomaterial Innovation",
+    "website": "https://tru-spin.com/",
+    "description": "TruSpin is an advanced materials company using a proprietary technique to mass-produce new types of nanofibers.",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/truspin-nanomaterial-innovation"
+    },
+    "industry": "Nanotechnology",
+    "industry_slug": "nanotechnology"
+  },
+  {
+    "name": "NBD Nano",
+    "website": "https://nbdnano.com/",
+    "description": "Developing enhanced condensation and anti-wetting surface coatings",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nbdnano",
+      "linkedin": "https://linkedin.com/company/3146963",
+      "facebook": "https://facebook.com/pages/NBD-Inc/344418178931668"
+    },
+    "industry": "Nanotechnology",
+    "industry_slug": "nanotechnology"
+  },
+  {
+    "name": "Flora Coating",
+    "website": "https://floracoating.com/",
+    "description": "Develops and manufactures high performance, smart, and sustainable coatings",
+    "location": "Phoenix, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/floracoatings",
+      "linkedin": "https://linkedin.com/company/flora-coating",
+      "facebook": "https://facebook.com/floracoating"
+    },
+    "industry": "Nanotechnology",
+    "industry_slug": "nanotechnology"
+  },
+  {
+    "name": "Carbonext",
+    "website": "https://carbonextinc.com/",
+    "description": "At Carbonext Inc., we are developing a circularity strategy that retrofits existing architectures to produce industrial grade graphene in a cost-effective, scalable and environmentally friendly manner. Our technology addresses the pains of graphite users",
+    "location": "Houston, Texas, United States",
+    "social_media": {},
+    "industry": "Nanotechnology",
+    "industry_slug": "nanotechnology"
+  },
+  {
+    "name": "MemPro USA",
+    "website": "https://mempro.com/",
+    "description": "Saving critical metals and lowering the costs of production",
+    "location": "Edwards, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/john-finley-8812435"
+    },
+    "industry": "Nanotechnology",
+    "industry_slug": "nanotechnology"
+  },
+  {
+    "name": "Silver Spur TX",
+    "website": "https://silverspurtx.com/",
+    "description": "Advancing drug and gene delivery with nanoparticles for kidney and cardiovascular diseases",
+    "location": "Palos Verdes Peninsula, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/silver-spur-therapeutics"
+    },
+    "industry": "Nanotechnology",
+    "industry_slug": "nanotechnology"
+  },
+  {
+    "name": "Gisens Biotech",
+    "website": "https://gisensbiotech.com/",
+    "description": "Revolutionizing diagnostics through nanotechnology",
+    "location": "Berkeley, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GisensB",
+      "linkedin": "https://linkedin.com/company/gisens-biotech-sa"
+    },
+    "industry": "Nanotechnology",
+    "industry_slug": "nanotechnology"
+  },
+  {
+    "name": "Socian Technologies",
+    "website": "https://socian.io/",
+    "description": "Autonomous drone systems that serve as the ultimate accountability tool for safer community policing.",
+    "location": "Glenwood, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/socian-technologies"
+    },
+    "industry": "Nanotechnology",
+    "industry_slug": "nanotechnology"
+  },
+  {
+    "name": "Trusscore",
+    "website": "https://linkedin.com/company/nanoquan-inc-",
+    "description": "NanoQuan develops and manufactures advanced nanocomposite materials.",
+    "location": "Kitchener, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/NanoQuan",
+      "linkedin": "https://linkedin.com/company/nanoquan-inc-"
+    },
+    "industry": "Nanotechnology",
+    "industry_slug": "nanotechnology"
+  },
+  {
+    "name": "STRUCTUR3D PRINTING",
+    "website": "https://linkedin.com/company/structur3d-printing",
+    "description": "Specialized hardware that interfaces with software for additive manufacturing using advanced liquid materials.",
+    "location": "Kitchener, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/structur3Dprint",
+      "linkedin": "https://linkedin.com/company/structur3d-printing",
+      "facebook": "https://facebook.com/Structur3DPrinting/"
+    },
+    "industry": "Nanotechnology",
+    "industry_slug": "nanotechnology"
+  }
+]

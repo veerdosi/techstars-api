@@ -1,0 +1,23 @@
+{
+  "name": "Reelist",
+  "slug": "reelist",
+  "website": "https://reelist.com/",
+  "description": "Reelist replaces written job descriptions with engaging video job posts on the social media platforms where job seekers already are, making hiring cheaper and quicker.",
+  "one_liner": "Reelist replaces written job descriptions with engaging video job posts on the social media platforms where job seekers already are, making hiring cheaper and quicker.",
+  "location": "Norfolk, Virginia, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/reelistjobs",
+    "linkedin": "https://linkedin.com/company/reelist"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/reelist",
+  "api": "/api/companies/reelist.json"
+}

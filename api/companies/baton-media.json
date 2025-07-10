@@ -1,0 +1,23 @@
+{
+  "name": "Baton Media",
+  "slug": "baton-media",
+  "website": "https://baton.media/",
+  "description": "The collaboration protocol designed by artists, for artists.",
+  "one_liner": "The collaboration protocol designed by artists, for artists.",
+  "location": "New York City, New York, United States",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/baton_media",
+    "linkedin": "https://linkedin.com/company/baton-media-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/baton-media",
+  "api": "/api/companies/baton-media.json"
+}

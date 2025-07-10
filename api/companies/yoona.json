@@ -1,0 +1,24 @@
+{
+  "name": "Yoona",
+  "slug": "yoona",
+  "website": "https://yoona-tech.com/",
+  "description": "Puma, Vaude, and Vogue Magazine are already using Yoona.ai to shorten their design processes.",
+  "one_liner": "Puma, Vaude, and Vogue Magazine are already using Yoona.ai to shorten their design processes.",
+  "location": "Berlin, Germany",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/yoona",
+    "linkedin": "https://linkedin.com/company/yoonaai",
+    "facebook": "https://facebook.com/YOONAtech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/yoona",
+  "api": "/api/companies/yoona.json"
+}

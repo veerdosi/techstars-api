@@ -1,0 +1,22 @@
+{
+  "name": "ComputerWell",
+  "slug": "computerwell",
+  "website": "https://computerwell.com/",
+  "description": "Delivers a digital twin of the drillstring for operational surveillance.",
+  "one_liner": "Delivers a digital twin of the drillstring for operational surveillance.",
+  "location": "Jakobsli, Norway",
+  "industry": "Oil and gas",
+  "industry_slug": "oil-gas",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/computerwell"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/computerwell",
+  "api": "/api/companies/computerwell.json"
+}

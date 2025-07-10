@@ -1,0 +1,24 @@
+{
+  "name": "Wiseair",
+  "slug": "wiseair",
+  "website": "https://wiseair.vision/",
+  "description": "At Wiseair, we are enabling data-driven policy-making for sustainable cities and communities. Our product today is a solution to tackle air pollution in cities.",
+  "one_liner": "At Wiseair, we are enabling data-driven policy-making for sustainable cities and communities. Our product today is a solution to tackle air pollution in cities.",
+  "location": "Milan, Milan, Italy",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/wiseair_social",
+    "linkedin": "https://linkedin.com/company/19026152",
+    "facebook": "https://facebook.com/wiseair.social/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/wiseair",
+  "api": "/api/companies/wiseair.json"
+}

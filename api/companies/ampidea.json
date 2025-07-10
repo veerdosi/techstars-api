@@ -1,0 +1,22 @@
+{
+  "name": "AmpIdea",
+  "slug": "ampidea",
+  "website": "https://crunchbase.com/organization/ampidea",
+  "description": "Web-enabled baby monitors",
+  "one_liner": "Web-enabled baby monitors",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ampidea"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ampidea",
+  "api": "/api/companies/ampidea.json"
+}

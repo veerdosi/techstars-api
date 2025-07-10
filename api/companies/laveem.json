@@ -1,0 +1,23 @@
+{
+  "name": "Laveem",
+  "slug": "laveem",
+  "website": "https://laveem.com/",
+  "description": "Eat tastier, eat healthier",
+  "one_liner": "Eat tastier, eat healthier",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mylaveem",
+    "facebook": "https://facebook.com/pages/Laveem/333002643405821"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/laveem",
+  "api": "/api/companies/laveem.json"
+}

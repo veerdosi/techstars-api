@@ -1,0 +1,15 @@
+{
+  "last_updated": "2025-07-10T23:30:46.083Z",
+  "total_companies": 4767,
+  "active_companies": 4767,
+  "acquired_companies": 0,
+  "ipo_companies": 0,
+  "closed_companies": 0,
+  "billion_plus_companies": 0,
+  "total_industries": 57,
+  "data_sources": [
+    "https://www.techstars.com/portfolio",
+    "Puppeteer browser automation",
+    "Dynamic content extraction"
+  ]
+}

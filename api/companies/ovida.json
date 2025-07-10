@@ -1,0 +1,22 @@
+{
+  "name": "Ovida",
+  "slug": "ovida",
+  "website": "https://ovida.io/",
+  "description": "Ovida is an AI-driven communication skills platform that helps people master critical workplace conversations through personalized feedback and skill development. By combining advanced AI analysis with expert-designed learning journeys, we enable organizations to develop their people's communication and leadership capabilities at scale - focusing on the human interactions that will remain essential in the AI era, while delivering results at a fraction of traditional training cost and time.",
+  "one_liner": "Ovida is an AI-driven communication skills platform that helps people master critical workplace conversations through personalized feedback and skill development. By combining advanced AI analysis with expert-designed learning journeys, we enable organizations to develop their people's communication and leadership capabilities at scale - focusing on the human interactions that will remain essential in the AI era, while delivering results at a fraction of traditional training cost and time.",
+  "location": "Nottingham, England, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/ovida-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ovida",
+  "api": "/api/companies/ovida.json"
+}

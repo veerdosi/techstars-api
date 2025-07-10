@@ -1,0 +1,24 @@
+{
+  "name": "MamaMend",
+  "slug": "mamamend",
+  "website": "https://linkedin.com/company/mamamend",
+  "description": "MamaMend is the personalized companion for new parents that provides fast, relevant answers and curated connections to expert practitioners.",
+  "one_liner": "MamaMend is the personalized companion for new parents that provides fast, relevant answers and curated connections to expert practitioners.",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Femtech",
+  "industry_slug": "femtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getMamaMend",
+    "linkedin": "https://linkedin.com/company/mamamend",
+    "facebook": "https://facebook.com/getMamaMend/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mamamend",
+  "api": "/api/companies/mamamend.json"
+}

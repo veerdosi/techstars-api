@@ -1,0 +1,24 @@
+{
+  "name": "TrueCoach",
+  "slug": "truecoach",
+  "website": "https://truecoach.co/",
+  "description": "TrueCoach is a SaaS platform that helps professional coaches, personal trainers, and gym owners design, deliver, track personalized coaching programs.",
+  "one_liner": "TrueCoach is a SaaS platform that helps professional coaches, personal trainers, and gym owners design, deliver, track personalized coaching programs.",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/truecoachco",
+    "linkedin": "https://linkedin.com/company/truecoach",
+    "facebook": "https://facebook.com/truecoachapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/truecoach",
+  "api": "/api/companies/truecoach.json"
+}

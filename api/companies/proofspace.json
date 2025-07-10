@@ -1,0 +1,23 @@
+{
+  "name": "ProofSpace",
+  "slug": "proofspace",
+  "website": "https://proofspace.id/",
+  "description": "No-code platform for reusable identity.",
+  "one_liner": "No-code platform for reusable identity.",
+  "location": "London, United Kingdom",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/proof_space",
+    "linkedin": "https://linkedin.com/company/joinproofspace"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/proofspace",
+  "api": "/api/companies/proofspace.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Work Simplr",
+  "slug": "work-simplr",
+  "website": "https://worksimplr.com/",
+  "description": "Software platform to place and manage vetted, qualified students to paid short-term, remote entry level work.",
+  "one_liner": "Software platform to place and manage vetted, qualified students to paid short-term, remote entry level work.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/upskls",
+    "linkedin": "https://linkedin.com/company/worksimplr",
+    "facebook": "https://facebook.com/Worksimplr/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/work-simplr",
+  "api": "/api/companies/work-simplr.json"
+}

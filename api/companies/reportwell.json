@@ -1,0 +1,22 @@
+{
+  "name": "Reportwell",
+  "slug": "reportwell",
+  "website": "https://reportwell.io/",
+  "description": "",
+  "one_liner": "",
+  "location": "Unknown",
+  "industry": "Legal tech",
+  "industry_slug": "legal-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/reportwell?trk=ppro_cprof"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/reportwell",
+  "api": "/api/companies/reportwell.json"
+}

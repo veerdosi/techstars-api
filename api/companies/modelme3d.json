@@ -1,0 +1,23 @@
+{
+  "name": "ModelMe3D",
+  "slug": "modelme3d",
+  "website": "https://modelme3d.nl/",
+  "description": "Add Dimension to your city data",
+  "one_liner": "Add Dimension to your city data",
+  "location": "Amsterdam, Netherlands",
+  "industry": "Real estate tech",
+  "industry_slug": "real-estate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/modelme3d",
+    "facebook": "https://facebook.com/modelme3d/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/modelme3d",
+  "api": "/api/companies/modelme3d.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "EMOTIV",
+  "slug": "emotiv",
+  "website": "https://emotiv.com/",
+  "description": "EMOTIV is a bioinformatics company that uses electroencephalography (EEG) to track mental performance, monitor emotions, and control virtual and physical objects with thoughts.",
+  "one_liner": "EMOTIV is a bioinformatics company that uses electroencephalography (EEG) to track mental performance, monitor emotions, and control virtual and physical objects with thoughts.",
+  "location": "San Francisco, California, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/emotiv",
+    "linkedin": "https://linkedin.com/company/emotiv",
+    "facebook": "https://facebook.com/emotiv"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/emotiv",
+  "api": "/api/companies/emotiv.json"
+}

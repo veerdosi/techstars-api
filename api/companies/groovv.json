@@ -1,0 +1,20 @@
+{
+  "name": "Groovv",
+  "slug": "groovv",
+  "website": "",
+  "description": "Trading platform with an interactive community that promotes learning",
+  "one_liner": "Trading platform with an interactive community that promotes learning",
+  "location": "Tulsa, Oklahoma, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/groovv",
+  "api": "/api/companies/groovv.json"
+}

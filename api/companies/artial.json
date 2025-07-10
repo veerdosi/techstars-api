@@ -1,0 +1,22 @@
+{
+  "name": "ARTIAL",
+  "slug": "artial",
+  "website": "https://artial.co/",
+  "description": "ARTIAL is building AI software to help infrastructure construction development and management companies fully automate monitoring and digital inspections using self-flying drones.",
+  "one_liner": "ARTIAL is building AI software to help infrastructure construction development and management companies fully automate monitoring and digital inspections using self-flying drones.",
+  "location": "Barcelona, Spain",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/artialai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/artial",
+  "api": "/api/companies/artial.json"
+}

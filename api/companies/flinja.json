@@ -1,0 +1,24 @@
+{
+  "name": "Flinja",
+  "slug": "flinja",
+  "website": "https://linkedin.com/company/flinja",
+  "description": "Connecting talented individuals to work that allows them to show off their skills",
+  "one_liner": "Connecting talented individuals to work that allows them to show off their skills",
+  "location": "San Francisco, California, United States",
+  "industry": "Industrials",
+  "industry_slug": "industrials",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/98097-c7ff86f57d053ca9dcca37b75fc570ed-medium_jpg.jpg?buster=1342207077",
+  "social_media": {
+    "twitter": "https://twitter.com/flinjaworld",
+    "linkedin": "https://linkedin.com/company/flinja",
+    "facebook": "https://facebook.com/theflinja"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/flinja",
+  "api": "/api/companies/flinja.json"
+}

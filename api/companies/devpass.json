@@ -1,0 +1,22 @@
+{
+  "name": "Devpass",
+  "slug": "devpass",
+  "website": "https://linkedin.com/company/devpasstech",
+  "description": "AI tool that elevates tech team's skills by simulating coding scenarios.",
+  "one_liner": "AI tool that elevates tech team's skills by simulating coding scenarios.",
+  "location": "São Paulo, São Paulo, Brazil",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/devpasstech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/devpass",
+  "api": "/api/companies/devpass.json"
+}

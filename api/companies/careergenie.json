@@ -1,0 +1,22 @@
+{
+  "name": "CareerGenie",
+  "slug": "careergenie",
+  "website": "https://careergenie.app/",
+  "description": "CareerGenie creates job market data-driven personalized & gamified mobile career journeys to help talent navigate through career discovery to upskilling & interview readiness to job applications.",
+  "one_liner": "CareerGenie creates job market data-driven personalized & gamified mobile career journeys to help talent navigate through career discovery to upskilling & interview readiness to job applications.",
+  "location": "New York City, New York, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/career-genie-app"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/careergenie",
+  "api": "/api/companies/careergenie.json"
+}

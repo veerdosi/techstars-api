@@ -1,0 +1,22 @@
+{
+  "name": "S.Lab",
+  "slug": "s-lab",
+  "website": "https://instagram.com/i_lab_s",
+  "description": "Sustainable packaging - natural replacement of foamed plastic out of mycelium  and agricultural waste",
+  "one_liner": "Sustainable packaging - natural replacement of foamed plastic out of mycelium  and agricultural waste",
+  "location": "Malaga, Spain",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "instagram": "https://instagram.com/i_lab_s"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/s-lab",
+  "api": "/api/companies/s-lab.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "NanoAPI",
+  "slug": "nanoapi",
+  "website": "https://nanoapi.io/",
+  "description": "NanoAPI is building the #1 refactoring tool for large codebases through automatically splitting APIs apart into microservices.",
+  "one_liner": "NanoAPI is building the #1 refactoring tool for large codebases through automatically splitting APIs apart into microservices.",
+  "location": "Amsterdam, Netherlands",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/nano-api"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nanoapi",
+  "api": "/api/companies/nanoapi.json"
+}

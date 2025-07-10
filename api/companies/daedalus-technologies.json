@@ -1,0 +1,23 @@
+{
+  "name": "Daedalus Technologies",
+  "slug": "daedalus-technologies",
+  "website": "https://linkedin.com/company/daedalustech",
+  "description": "Developer of a no-code platform intended for algorithmic trading",
+  "one_liner": "Developer of a no-code platform intended for algorithmic trading",
+  "location": "Nashville, Tennessee, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/daedalushq",
+    "linkedin": "https://linkedin.com/company/daedalustech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/daedalus-technologies",
+  "api": "/api/companies/daedalus-technologies.json"
+}

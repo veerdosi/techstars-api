@@ -1,0 +1,24 @@
+{
+  "name": "Augurisk",
+  "slug": "augurisk",
+  "website": "https://augurisk.com/",
+  "description": "Augurisk helps mitigate crime and natural disaster risks anywhere in the US by providing predictive analysis and advanced risk scoring.",
+  "one_liner": "Augurisk helps mitigate crime and natural disaster risks anywhere in the US by providing predictive analysis and advanced risk scoring.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/augurisk",
+    "linkedin": "https://linkedin.com/company/augurisk",
+    "facebook": "https://facebook.com/Augurisknow/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/augurisk",
+  "api": "/api/companies/augurisk.json"
+}

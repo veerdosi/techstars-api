@@ -1,0 +1,24 @@
+{
+  "name": "Ephemeral Solutions",
+  "slug": "ephemeral-solutions",
+  "website": "https://ephemeraltattoos.com/",
+  "description": "Developing unique tattoo inks and its removal solutions.",
+  "one_liner": "Developing unique tattoo inks and its removal solutions.",
+  "location": "New York City, New York, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ephemeraltattoo",
+    "linkedin": "https://linkedin.com/company/ephemeral",
+    "facebook": "https://facebook.com/ephemeraltattoos"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ephemeral-solutions",
+  "api": "/api/companies/ephemeral-solutions.json"
+}

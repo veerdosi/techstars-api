@@ -1,0 +1,22 @@
+{
+  "name": "Swayed",
+  "slug": "swayed",
+  "website": "https://swayedai.com/",
+  "description": "Put your data to work and return to personalized hospitality.",
+  "one_liner": "Put your data to work and return to personalized hospitality.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/swayed-intelligence"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/swayed",
+  "api": "/api/companies/swayed.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Reach Robotics",
+  "slug": "reach-robotics",
+  "website": "https://linkedin.com/company/reachrobotics",
+  "description": "Intelligent gaming robots at the intersection of consumer robotics, augmented reality and video gaming.",
+  "one_liner": "Intelligent gaming robots at the intersection of consumer robotics, augmented reality and video gaming.",
+  "location": "Bristol, United Kingdom",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Reachrobotics",
+    "linkedin": "https://linkedin.com/company/reachrobotics",
+    "facebook": "https://facebook.com/reachroboticsltd"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/reach-robotics",
+  "api": "/api/companies/reach-robotics.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Fave",
+  "slug": "fave",
+  "website": "https://faveforfans.com/",
+  "description": "Fave is a social video platform & marketplace dedicated to passionate fans, allowing them to create and share immersive content, connect with like-minded fans, compete in fun challenges, exchange virtual and physical goods, and earn status, recognition, a",
+  "one_liner": "Fave is a social video platform & marketplace dedicated to passionate fans, allowing them to create and share immersive content, connect with like-minded fans, compete in fun challenges, exchange virtual and physical goods, and earn status, recognition, a",
+  "location": "Dietikon, Switzerland",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/faveforfans",
+    "linkedin": "https://linkedin.com/company/faveforfans",
+    "facebook": "https://facebook.com/faveforfans/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fave",
+  "api": "/api/companies/fave.json"
+}

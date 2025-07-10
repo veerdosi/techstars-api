@@ -1,0 +1,23 @@
+{
+  "name": "musiqmesh",
+  "slug": "musiqmesh",
+  "website": "https://musiqmesh.com/",
+  "description": "\"Musiqmesh is a B2B SaaS product to help music creators create and monetise music using a simpler and more efficient music production supply chain workflow .",
+  "one_liner": "\"Musiqmesh is a B2B SaaS product to help music creators create and monetise music using a simpler and more efficient music production supply chain workflow .",
+  "location": "St Albans, United Kingdom",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/eiansqvipwuhj7bbupac",
+  "social_media": {
+    "twitter": "https://twitter.com/%20musiqmesh",
+    "linkedin": "https://linkedin.com/company/musiqmesh"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/musiqmesh",
+  "api": "/api/companies/musiqmesh.json"
+}

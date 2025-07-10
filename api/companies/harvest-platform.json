@@ -1,0 +1,24 @@
+{
+  "name": "Harvest Platform",
+  "slug": "harvest-platform",
+  "website": "https://growmyharvest.com/",
+  "description": "Harvest helps consumers get refunds on negotiable bank fees.",
+  "one_liner": "Harvest helps consumers get refunds on negotiable bank fees.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PlatformHarvest",
+    "linkedin": "https://linkedin.com/company/harvestinvestments",
+    "facebook": "https://facebook.com/harvestbankfees/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/harvest-platform",
+  "api": "/api/companies/harvest-platform.json"
+}

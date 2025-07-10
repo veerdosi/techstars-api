@@ -1,0 +1,24 @@
+{
+  "name": "ithnain",
+  "slug": "ithnain",
+  "website": "https://ithnain.com/",
+  "description": "Ithnain is an app that features a diabetes coach and an integrated medical team that develops an integrated plan to balance a user's life.",
+  "one_liner": "Ithnain is an app that features a diabetes coach and an integrated medical team that develops an integrated plan to balance a user's life.",
+  "location": "Riyadh, Saudi Arabia",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jrzqn3g2nv0edksalpyl",
+  "social_media": {
+    "twitter": "https://twitter.com/ithnainofficial",
+    "linkedin": "https://linkedin.com/company/ithnain",
+    "facebook": "https://facebook.com/ithnainofficial"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ithnain",
+  "api": "/api/companies/ithnain.json"
+}

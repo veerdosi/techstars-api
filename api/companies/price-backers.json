@@ -1,0 +1,23 @@
+{
+  "name": "Price Backers",
+  "slug": "price-backers",
+  "website": "https://linkedin.com/company/71828543",
+  "description": "PriceBackers is an AI Trust relations Management (TRM) platform that aims to increase online shops customer retention.",
+  "one_liner": "PriceBackers is an AI Trust relations Management (TRM) platform that aims to increase online shops customer retention.",
+  "location": "Katzir, Israel",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/71828543",
+    "facebook": "https://facebook.com/pricebackers"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/price-backers",
+  "api": "/api/companies/price-backers.json"
+}

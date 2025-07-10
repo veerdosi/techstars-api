@@ -1,0 +1,22 @@
+{
+  "name": "DubPrime",
+  "slug": "dubprime",
+  "website": "https://dubprime.com/",
+  "description": "For lenders that want to grow revenue and be more inclusive, we provide Explainable AI Underwriting.",
+  "one_liner": "For lenders that want to grow revenue and be more inclusive, we provide Explainable AI Underwriting.",
+  "location": "Wilmington, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/dubprime-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dubprime",
+  "api": "/api/companies/dubprime.json"
+}

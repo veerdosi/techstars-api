@@ -1,0 +1,294 @@
+[
+  {
+    "name": "Beastcoast",
+    "website": "https://beastcoast.gg/",
+    "description": "Beastcoast is global professional gaming organization and digital media enterprise.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/beastcoast",
+      "linkedin": "https://linkedin.com/company/beastcoast",
+      "facebook": "https://facebook.com/beastcoastg"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "Matcherino",
+    "website": "https://matcherino.com/",
+    "description": "Matcherino is a technology company that builds software.",
+    "location": "La Jolla, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/matcherino_",
+      "linkedin": "https://linkedin.com/company/matcherino-com",
+      "facebook": "https://facebook.com/matcherino"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "Switchboard Live",
+    "website": "https://switchboard.live/",
+    "description": "Switchboard simultaneously distributes live video content to multiple platforms, allowing content creators instant access to targeted audiences.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/switchboardlive",
+      "linkedin": "https://linkedin.com/company/switchboardlive",
+      "facebook": "https://facebook.com/switchboardlive"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "MyFavorito",
+    "website": "https://myfavorito.com/",
+    "description": "MyFavorito helps the \"Fortune 5 million\" sports clubs around the world to make more money and attract more sponsors.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/myfavoritoapp",
+      "linkedin": "https://linkedin.com/company/5226239",
+      "facebook": "https://facebook.com/myfavoritoapp"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "Gamr",
+    "website": "https://gamr.africa/",
+    "description": "Gamr is a competitive gaming platform that makes it easy for gamers to discover tournaments, team up, and compete in their favorite games.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gamrafrica",
+      "linkedin": "https://linkedin.com/company/gamr",
+      "facebook": "https://facebook.com/gamr.africa"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "Virtual Tables",
+    "website": "https://virtualtables.com/",
+    "description": "Virtual Tables is a virtual events solutions company, offering services and products to elevate all events into the virtual space. DigiSign is one of the virtual engagement products created and powered by Virtual Tables.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/VRTLlive",
+      "linkedin": "https://linkedin.com/company/virtual-tables"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "Rewire Fitness",
+    "website": "https://rewirefitness.app/",
+    "description": "Rewire is an app that helps athletes reach their full potential and avoid burnout by providing tools that improve mindset, readiness and resilience.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/iyivmrlp7tup5zn5xiow",
+    "location": "New Paltz, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rewire_app",
+      "linkedin": "https://linkedin.com/company/rewire-fitness",
+      "facebook": "https://facebook.com/rewirefitnessapp"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "MegaFans",
+    "website": "https://megafans.com/",
+    "description": "Mobile esports platform bridging web2 to web3 for gamers and enabling game developers to increase their player lifetime value.",
+    "location": "Carlsbad, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MegafansEsports",
+      "linkedin": "https://linkedin.com/company/megafans-com",
+      "facebook": "https://facebook.com/MegafansEsports/"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "Champhunt",
+    "website": "https://champhunt.com/",
+    "description": "We are creating a reward-based community centered around cricket, where all stakeholders can connect, share their experiences, and enjoy themselves.",
+    "location": "Fremont, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/champhunt"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "Five Star Fans",
+    "website": "https://five-starfans.com/",
+    "description": "Crowdsource fan support to recruit and retain athletes to your favorite Universities",
+    "location": "Dublin, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/five-star-fans"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "Atom Universe",
+    "website": "https://atomstars.com/",
+    "description": "Metaverse-as-a-Service offering brands to launch their own metaverse platform to engage their user in breathtaking white label virtual worlds",
+    "location": "Woking, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/AtomRepublic",
+      "linkedin": "https://linkedin.com/company/atom-republic",
+      "facebook": "https://facebook.com/AtomRepublic"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "Omnic Data",
+    "website": "https://omnic.ai/",
+    "description": "Omnic Data's gaming analytics help the world's 1.8 billion esports players activate their superpowers.",
+    "location": "Harpswell, Maine, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/OmnicData",
+      "linkedin": "https://linkedin.com/company/omnic-data-llc",
+      "facebook": "https://facebook.com/Omnic-Data-LLC-219555449492845/"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "Parallux",
+    "website": "https://parallux.co/",
+    "description": "Parallux makes it easy for brands and creators to design, build, and host 3D virtual spaces in the metaverse.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/9c74999fc0acb0c49199",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/paralluxco",
+      "linkedin": "https://linkedin.com/company/parallux",
+      "facebook": "https://facebook.com/parallux/"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "KYD Labs",
+    "website": "https://kydlabs.com/",
+    "description": "KYD is a blockchain-enabled event ticketing platform that unlocks long term loyalty, resale revenue for live event hosts and ensures buyers get authentic resale tickets.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/kydlabs",
+      "linkedin": "https://linkedin.com/company/kydlabsco"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "LeagueOS",
+    "website": "https://leagueos.gg/",
+    "description": "Organize and monetize esports for free, all in one system.",
+    "location": "Saint Louis Park, Minnesota, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/leagueos"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "TEST JAR LABS",
+    "website": "https://testjarlabs.com/",
+    "description": "A future focused experimentation brand with an emphasis on tech and entertainment.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ki5cd7v4ge3mkgug0e6t",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/testjarlabs",
+      "linkedin": "https://linkedin.com/company/testjarlabs"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "Ephere Football",
+    "website": "https://ephere.football/",
+    "description": "Empowering blockchain gaming experiences for football fans.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/yujabx5g1ywjpbmfpprh",
+    "location": "Montevideo, Uruguay",
+    "social_media": {
+      "twitter": "https://twitter.com/ephere_football",
+      "linkedin": "https://linkedin.com/company/epherefootball",
+      "facebook": "https://facebook.com/epherefootball"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "StageKeep",
+    "website": "https://stagekeep.com/",
+    "description": "Collaborative tool for creators to easily manage, design and review the pre-production logistics, rehearsals and videos for performance productions saving stakeholders time and money.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/thfcs3xoffowg4lzbumt",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/stagekeep",
+      "linkedin": "https://linkedin.com/company/stagekeep",
+      "facebook": "https://facebook.com/stagekeep"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "SportSyncTech",
+    "website": "https://linkedin.com/company/sportsynctech",
+    "description": "SportSyncTech is empowering amateur & professional athletes with Big data, Artificial intelligence and Blockchain.",
+    "location": "Duppigheim, Grand Est, France",
+    "social_media": {
+      "twitter": "https://twitter.com/SportSyncTech",
+      "linkedin": "https://linkedin.com/company/sportsynctech"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "Reveler",
+    "website": "https://linkedin.com/company/goreveler",
+    "description": "We connect fans & venues to create digital sports experiences IRL.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/reveler_app",
+      "linkedin": "https://linkedin.com/company/goreveler",
+      "facebook": "https://facebook.com/goReveler/"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "Indoor Collective",
+    "website": "https://linkedin.com/company/indoor-collective",
+    "description": "Indoor Collective is a software development company that specializes in the production of rowing apps for interactive workouts.",
+    "location": "Winthrop, Washington, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/indoor-collective",
+      "facebook": "https://facebook.com/indoorcollective/"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "F2K",
+    "website": "https://linkedin.com/company/f2k-gaming",
+    "description": "F2K aggregates streamers into our network enabling their content to be monetized. We use their reach as an engine to drive our owned and operated products.",
+    "location": "Saint Peters, Guernsey",
+    "social_media": {
+      "twitter": "https://twitter.com/Fade2Karma",
+      "linkedin": "https://linkedin.com/company/f2k-gaming",
+      "facebook": "https://facebook.com/Fade2Karma/"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  },
+  {
+    "name": "BeyondRanked",
+    "website": "https://linkedin.com/company/74326757",
+    "description": "BeyondRanked is a platform for booking and managing commentators.",
+    "location": "Indianapolis, Indiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/BeyondRanked",
+      "linkedin": "https://linkedin.com/company/74326757"
+    },
+    "industry": "eSports",
+    "industry_slug": "esports"
+  }
+]

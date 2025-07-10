@@ -1,0 +1,24 @@
+{
+  "name": "Jukely",
+  "slug": "jukely",
+  "website": "https://linkedin.com/company/jukely",
+  "description": "Concert concierge for friends",
+  "one_liner": "Concert concierge for friends",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Jukely",
+    "linkedin": "https://linkedin.com/company/jukely",
+    "facebook": "https://facebook.com/jukelyapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/jukely",
+  "api": "/api/companies/jukely.json"
+}

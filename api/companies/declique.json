@@ -1,0 +1,22 @@
+{
+  "name": "Declique",
+  "slug": "declique",
+  "website": "https://linkedin.com/company/declique",
+  "description": "Declique allow clients to collect all field data, analyse the extent of losses and justify investments based on the data collected.",
+  "one_liner": "Declique allow clients to collect all field data, analyse the extent of losses and justify investments based on the data collected.",
+  "location": "Labege, France",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/declique"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/declique",
+  "api": "/api/companies/declique.json"
+}

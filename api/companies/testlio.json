@@ -1,0 +1,24 @@
+{
+  "name": "Testlio",
+  "slug": "testlio",
+  "website": "https://testlio.com/",
+  "description": "Testlio is an expert community of verified mobile testers with a platform that seamlessly integrates into your team's development process.",
+  "one_liner": "Testlio is an expert community of verified mobile testers with a platform that seamlessly integrates into your team's development process.",
+  "location": "San Francisco, California, United States",
+  "industry": "Augmented reality",
+  "industry_slug": "augmented-reality",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/testlio",
+    "linkedin": "https://linkedin.com/company/testlio",
+    "facebook": "https://facebook.com/testlio"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/testlio",
+  "api": "/api/companies/testlio.json"
+}

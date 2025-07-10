@@ -1,0 +1,23 @@
+{
+  "name": "Covatic",
+  "slug": "covatic",
+  "website": "https://covatic.com/",
+  "description": "Covatic's A-Type is a mobile solution which places user privacy first and creates rich audience segments for digital advertising without tracking users.",
+  "one_liner": "Covatic's A-Type is a mobile solution which places user privacy first and creates rich audience segments for digital advertising without tracking users.",
+  "location": "London, United Kingdom",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/covaticLtd",
+    "linkedin": "https://linkedin.com/company/11032237"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/covatic",
+  "api": "/api/companies/covatic.json"
+}

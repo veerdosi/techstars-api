@@ -1,0 +1,24 @@
+{
+  "name": "Clutch",
+  "slug": "clutch",
+  "website": "https://thatsclutch.com/",
+  "description": "Clutch unites marketing visionaries with niche creators to drive authentic customer engagement across e-commerce and social channels.",
+  "one_liner": "Clutch unites marketing visionaries with niche creators to drive authentic customer engagement across e-commerce and social channels.",
+  "location": "Oakland, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/thatsclutch_com",
+    "linkedin": "https://linkedin.com/company/thatsclutch",
+    "facebook": "https://facebook.com/thatsclutchcom"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/clutch",
+  "api": "/api/companies/clutch.json"
+}

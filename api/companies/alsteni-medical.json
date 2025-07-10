@@ -1,0 +1,22 @@
+{
+  "name": "Alsteni Medical",
+  "slug": "alsteni-medical",
+  "website": "https://alstenimedical.com/",
+  "description": "Patient-controlled feeding tube that can trigger the body's own powerful appetite-suppressing hormones, including GLP-1, without drugs or surgery.",
+  "one_liner": "Patient-controlled feeding tube that can trigger the body's own powerful appetite-suppressing hormones, including GLP-1, without drugs or surgery.",
+  "location": "Sierra Madre, California, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/alsteni-medical-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/alsteni-medical",
+  "api": "/api/companies/alsteni-medical.json"
+}

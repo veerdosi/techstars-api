@@ -1,0 +1,24 @@
+{
+  "name": "Advize",
+  "slug": "advize",
+  "website": "https://linkedin.com/company/advizeai",
+  "description": "Automatic intelligent insights from customer conversations",
+  "one_liner": "Automatic intelligent insights from customer conversations",
+  "location": "Vancouver, British Columbia, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/advizeai",
+    "linkedin": "https://linkedin.com/company/advizeai",
+    "facebook": "https://facebook.com/Advize-161462721460430/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/advize",
+  "api": "/api/companies/advize.json"
+}

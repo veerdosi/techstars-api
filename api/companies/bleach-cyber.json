@@ -1,0 +1,23 @@
+{
+  "name": "Bleach Cyber",
+  "slug": "bleach-cyber",
+  "website": "https://crunchbase.com/organization/bleach-cyber",
+  "description": "Bleach is a cybersecurity platform helps small and medium businesses get secure by leveraging the security in their existing investments.",
+  "one_liner": "Bleach is a cybersecurity platform helps small and medium businesses get secure by leveraging the security in their existing investments.",
+  "location": "Austin, Texas, United States",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/bleachcybersec",
+    "facebook": "https://facebook.com/bleachcyber"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bleach-cyber",
+  "api": "/api/companies/bleach-cyber.json"
+}

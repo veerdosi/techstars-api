@@ -1,0 +1,23 @@
+{
+  "name": "AdmitOffer",
+  "slug": "admitoffer",
+  "website": "https://admitoffer.com/",
+  "description": "Admitly is an online international student admissions platform and provides comprehensive insights into various programs and opportunities",
+  "one_liner": "Admitly is an online international student admissions platform and provides comprehensive insights into various programs and opportunities",
+  "location": "South Brampton, Ontario, Canada",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/dkzdmc0kq6sp1vbywuxj",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/admitoffer",
+    "facebook": "https://facebook.com/people/Admit-Offer/100057078475256/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/admitoffer",
+  "api": "/api/companies/admitoffer.json"
+}

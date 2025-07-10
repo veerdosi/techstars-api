@@ -1,0 +1,24 @@
+{
+  "name": "Cypress Health",
+  "slug": "cypress-health",
+  "website": "https://cypresshealth.io/",
+  "description": "An integrative gut health solution built on consistent, contextualized data for patients and care teams.",
+  "one_liner": "An integrative gut health solution built on consistent, contextualized data for patients and care teams.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/qvudqu8jiyu7zyhppwla",
+  "social_media": {
+    "twitter": "https://twitter.com/cypress_health",
+    "linkedin": "https://linkedin.com/company/cypress-health",
+    "facebook": "https://facebook.com/cypresshealthforIBD"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cypress-health",
+  "api": "/api/companies/cypress-health.json"
+}

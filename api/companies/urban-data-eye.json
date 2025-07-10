@@ -1,0 +1,23 @@
+{
+  "name": "Urban Data Eye",
+  "slug": "urban-data-eye",
+  "website": "https://linkedin.com/company/urbandataeye",
+  "description": "Artificial vision to extract all objects of interest from any camera in real time and in an anonymous way in order to analyze the profitability of any space",
+  "one_liner": "Artificial vision to extract all objects of interest from any camera in real time and in an anonymous way in order to analyze the profitability of any space",
+  "location": "Madrid, Spain",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/urbandataeye",
+    "linkedin": "https://linkedin.com/company/urbandataeye"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/urban-data-eye",
+  "api": "/api/companies/urban-data-eye.json"
+}

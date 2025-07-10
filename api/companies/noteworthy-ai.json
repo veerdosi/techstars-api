@@ -1,0 +1,24 @@
+{
+  "name": "Noteworthy AI",
+  "slug": "noteworthy-ai",
+  "website": "https://noteworthy.ai/",
+  "description": "Noteworthy provides vehicle mounted cameras and AI to help electric utilities collect and analyze imagery on distribution assets at scale",
+  "one_liner": "Noteworthy provides vehicle mounted cameras and AI to help electric utilities collect and analyze imagery on distribution assets at scale",
+  "location": "Stamford, Connecticut, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/noteworthyai",
+    "linkedin": "https://linkedin.com/company/noteworthy-ai",
+    "facebook": "https://facebook.com/profile.php"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/noteworthy-ai",
+  "api": "/api/companies/noteworthy-ai.json"
+}

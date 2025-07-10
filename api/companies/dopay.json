@@ -1,0 +1,24 @@
+{
+  "name": "dopay",
+  "slug": "dopay",
+  "website": "https://dopay.com/",
+  "description": "SaaS solution that helps corporates to compute and deliver payroll to both banked and unbanked workers.",
+  "one_liner": "SaaS solution that helps corporates to compute and deliver payroll to both banked and unbanked workers.",
+  "location": "London, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/dopayHQ",
+    "linkedin": "https://linkedin.com/company/dopay",
+    "facebook": "https://facebook.com/dopayltd/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dopay",
+  "api": "/api/companies/dopay.json"
+}

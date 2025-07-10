@@ -1,0 +1,24 @@
+{
+  "name": "Upward Financial",
+  "slug": "upward-financial",
+  "website": "https://upwardli.com/",
+  "description": "For the 100 million consumers with no credit or bad credit, Upwardli provides intuitive and affordable credit improvement products.",
+  "one_liner": "For the 100 million consumers with no credit or bad credit, Upwardli provides intuitive and affordable credit improvement products.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/upwardli",
+    "linkedin": "https://linkedin.com/company/upwardli",
+    "facebook": "https://facebook.com/upwardli"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/upward-financial",
+  "api": "/api/companies/upward-financial.json"
+}

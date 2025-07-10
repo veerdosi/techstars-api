@@ -1,0 +1,24 @@
+{
+  "name": "Lounn MX",
+  "slug": "lounn-mx",
+  "website": "https://lounn.mx/",
+  "description": "Enabling SMEs to find credit offers from more than 25 financial institutions with a single application in minutes.",
+  "one_liner": "Enabling SMEs to find credit offers from more than 25 financial institutions with a single application in minutes.",
+  "location": "HIPODROMO-CUAUHTEMOC, Federal District, Mexico",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/LounnMx",
+    "linkedin": "https://linkedin.com/company/lounn",
+    "facebook": "https://facebook.com/profile.php"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lounn-mx",
+  "api": "/api/companies/lounn-mx.json"
+}

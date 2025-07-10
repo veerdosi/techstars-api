@@ -1,0 +1,24 @@
+{
+  "name": "alvee",
+  "slug": "alvee",
+  "website": "https://alvee.io/",
+  "description": "AI-driven tools to advance health equity and improve health outcomes for all",
+  "one_liner": "AI-driven tools to advance health equity and improve health outcomes for all",
+  "location": "Miami, Florida, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/alveehealth",
+    "linkedin": "https://linkedin.com/company/alveehealth",
+    "facebook": "https://facebook.com/people/Alvee/100071621914815/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/alvee",
+  "api": "/api/companies/alvee.json"
+}

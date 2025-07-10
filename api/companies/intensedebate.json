@@ -1,0 +1,23 @@
+{
+  "name": "IntenseDebate",
+  "slug": "intensedebate",
+  "website": "https://intensedebate.com/",
+  "description": "Blog commenting system",
+  "one_liner": "Blog commenting system",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/intensedebate",
+    "linkedin": "https://linkedin.com/company/intensedebate.com"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/intensedebate",
+  "api": "/api/companies/intensedebate.json"
+}

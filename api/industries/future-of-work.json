@@ -1,0 +1,788 @@
+[
+  {
+    "name": "BentoBox",
+    "website": "https://getbento.com/",
+    "description": "Offering restaurants a platform to manage mobile-first websites, marketing and operations - BentoBox puts restaurants online.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/get_bento",
+      "linkedin": "https://linkedin.com/company/bentobox",
+      "facebook": "https://facebook.com/getbentobox/"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Vitally",
+    "website": "https://vitally.io/",
+    "description": "From subscription analytics to customer success, Vitally provides B2B SaaS companies with a platform to convert trials, measure & grow MRR, and reduce churn.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vitally_io",
+      "linkedin": "https://linkedin.com/company/vitally.io",
+      "facebook": "https://facebook.com/Vitally.io"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Machinery Partner",
+    "website": "https://machinerypartner.com/",
+    "description": "Helping small businesses buy, finance and operate specialist equipment. One segment at a time.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MachineryMP",
+      "linkedin": "https://linkedin.com/company/machinerypartner",
+      "facebook": "https://facebook.com/pg/machinerypartner/about/"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Project Admission",
+    "website": "https://projectadmission.com/",
+    "description": "A software solution that integrates with ticketing platforms, Project Admission makes buying, transferring and reselling tickets simple, intuitive and effective.",
+    "location": "Nashville, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PAticketing",
+      "linkedin": "https://linkedin.com/company/project-admission"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "SIQ Basketball",
+    "website": "https://siqbasketball.com/",
+    "description": "Developer of sports analytics software designed for sports organizations.",
+    "location": "Charlotte, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/siqbasketball",
+      "linkedin": "https://linkedin.com/company/siqbasketball"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "RootNote",
+    "website": "https://rootnote.co/",
+    "description": "Developer of a business tracking platform designed to help creators to turn their passions into their livelihoods.",
+    "location": "Nashville, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rootnoteco",
+      "linkedin": "https://linkedin.com/company/rootnote",
+      "facebook": "https://facebook.com/rootnotecompany/"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "SpotRight",
+    "website": "https://spotright.com/",
+    "description": "Topical social influence API",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SpotRight",
+      "linkedin": "https://linkedin.com/company/spotright-inc-",
+      "facebook": "https://facebook.com/spotinfluence"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Complok",
+    "website": "https://complok.eu/",
+    "description": "Supercharge Your Compliance. Accelerate Your Business. AI Driven SaaS tool for the compliance team in fintech.",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/complok"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Trusted Copy",
+    "website": "https://trustedcopy.com/",
+    "description": "Trusted Copy is and web-based tool that provides authentication for digital and printed documents, ensuring document origin and integrity. This process guarantees that documents are genuine and fraud-proof.",
+    "location": "Las Vegas, Nevada, United States",
+    "social_media": {},
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "24seven",
+    "website": "https://24seventech.co/",
+    "description": "24Seven is an asset-light marketplace where small companies and convenience stores can order merchandise.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gijrrtv56jfy07e0h05z",
+    "location": "Agege, Nigeria",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/24seven-co"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Fundwurx",
+    "website": "https://fundwurx.com/",
+    "description": "For businesses that struggle to manage their Corporate Social Responsibility initiatives, Fundwurx provides an all-in-one solution to streamline operations and workflows, facilitate connections to nonprofits, and track social impact data in real-time.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fundwurx",
+      "linkedin": "https://linkedin.com/company/fundwurxllc"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "1sm",
+    "website": "https://1sm.io/",
+    "description": "1sm is a Real-Time Sales & Marketing Analytics Platform, purpose-built for B2B revenue generating teams to collaborate and scale, with data at its core.",
+    "location": "Weston, Connecticut, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/1smHQ",
+      "linkedin": "https://linkedin.com/company/1smhq",
+      "facebook": "https://facebook.com/1smHQ"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Space Redi",
+    "website": "https://spaceredi.com/",
+    "description": "Space Redi is building technology that helps businesses understand, predict, and manage risks associated with human spaceflight and other complex operations. Our software will help with operational planning and real-time risk detection.",
+    "location": "Englewood, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/space-redi"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "NoledgeLoss",
+    "website": "https://noledgeloss.com/",
+    "description": "NoledgeLoss is an AI baton for customer knowledge orchestration. \r\n\r\nAllowing teams to focus on building stronger customer relationships.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/noledgeloss"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "FinQbit",
+    "website": "https://finqbit.tech/",
+    "description": "finQbit provides Quantum Risk Management Software for Financial Institutions using cutting-edge computing",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ahdoi7gjwdxpxhfc7gu8",
+    "location": "Lublin, Poland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/finqbit"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "PentoPix",
+    "website": "https://pentopix.com/",
+    "description": "AI assisted video creation platform. Automagically turn a Script to Storyboard to 3D Visualization.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/pentopx",
+      "linkedin": "https://linkedin.com/company/pentopix",
+      "facebook": "https://facebook.com/PentoPix"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Aravenda Consignment Software",
+    "website": "https://aravenda.com/",
+    "description": "Take your local store global with the most comprehensive consignment shop software integrated with Shopify EComm & POS,",
+    "location": "Vienna, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/aravendaglobal",
+      "linkedin": "https://linkedin.com/company/aravenda",
+      "facebook": "https://facebook.com/AravendaSoftware"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "BeeCuick",
+    "website": "https://beecuick.com/",
+    "description": "We are the #1 platform in LATAM that makes it easy to obtain quotes and purchase merchandise.",
+    "location": "Doral, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/BeeCuick",
+      "linkedin": "https://linkedin.com/company/beecuick",
+      "facebook": "https://facebook.com/BeeCuick"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Kipwise",
+    "website": "https://kipwise.com/",
+    "description": "Kipwise is a knowledge management tool integrated with Slack that helps teams save, organize and utilize useful team knowledge in a more automated way.",
+    "location": "Valley Cottage, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/kipwise_com",
+      "linkedin": "https://linkedin.com/company/kipwise",
+      "facebook": "https://facebook.com/kipwisecom/"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "PPAP Manager",
+    "website": "https://ppapmanager.com/",
+    "description": "A platform to streamline the approval of packets of  documents required in the automotive industry, known as PPAP,  to validate production parts",
+    "location": "Chihuahua, Chihuahua, Mexico",
+    "social_media": {
+      "twitter": "https://twitter.com/ppapmanager",
+      "linkedin": "https://linkedin.com/company/ppapmanager",
+      "facebook": "https://facebook.com/ppapmanager/"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Votemo",
+    "website": "https://votemo.eu/",
+    "description": "Audience Engagement Tools for Events",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/votemo",
+      "facebook": "https://facebook.com/votemoapp/"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Torque360",
+    "website": "https://torque360.co/",
+    "description": "Torque360 is most easy to use software with all desirable features and necessary integrations that helps in business growth and offers a complete 360deg degree shop management solution for autorepair and tire industry.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/torque360co",
+      "linkedin": "https://linkedin.com/company/72167425",
+      "facebook": "https://facebook.com/Torque360.co"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Provengo Technologies",
+    "website": "https://provengo.tech/",
+    "description": "Eliminating the friction between product managers and development teams by converting business requirements into models that automatically generate and optimize processes, design documents and test plans.",
+    "location": "Ramat HaSharon, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/provengotechnologies",
+      "facebook": "https://facebook.com/www.testory.tech"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Puebla",
+    "website": "https://puebla.io/",
+    "description": "Building the digital infrastructure for high-value agriculture",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/puebla"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "InStep",
+    "website": "https://myinstep.com/",
+    "description": "InStep is a B2B data analytics tool, quantifying human behavior in the \"real world\" for product development and customer insights teams.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/my-instep"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "DearFlow AI",
+    "website": "https://dearflow.ai/",
+    "description": "DearFlow is building Europe's #1 AI-powered knowledge worker task automation software.",
+    "location": "Hohenstein, Hesse, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/dearflow_ai",
+      "linkedin": "https://linkedin.com/company/dearflow"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Pitchtape",
+    "website": "https://pitchtape.com/",
+    "description": "Pitchtape is an all-in-one video communication tool that asynchronously links people and businesses.",
+    "location": "Dana Point, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pitchtape"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Mercadounico",
+    "website": "https://mercadounico.tech/",
+    "description": "Mercado Unico is a B2B platform for the distribution and management of opportunistic sales of Consumer Goods.",
+    "location": "Brasília, Brazil",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mercado-unico"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Rombo",
+    "website": "https://rombo.ooo/",
+    "description": "The animation layer for the web.",
+    "location": "London, United Kingdom",
+    "social_media": {},
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Greenlit Labs",
+    "website": "https://getgreenlit.xyz/",
+    "description": "Greenlit offers a comprehensive finance and rights management solution for professionals working in the film industry.",
+    "location": "Stamford, Connecticut, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Greenlit_xyz",
+      "linkedin": "https://linkedin.com/company/getgreenlit"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "CoachCorner",
+    "website": "https://coachcorner.io/",
+    "description": "YOUR HUB FOR PREMIER COACHING TALENT",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {},
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Arc Simulations",
+    "website": "https://arcsim.io/",
+    "description": "Enhance your performance through the power of simulation.",
+    "location": "London, United Kingdom",
+    "social_media": {},
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "ScoutIt",
+    "website": "https://scoutitweb.com/",
+    "description": "Enabling EV battery circular economy.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/scoutitweb"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Grid Discovery",
+    "website": "https://griddiscovery.com/",
+    "description": "Grid Discovery helps to accelerate energy resilience with automated community microgrid planning software.",
+    "location": "Montclair, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/griddiscovery"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "musiqmesh",
+    "website": "https://musiqmesh.com/",
+    "description": "\"Musiqmesh is a B2B SaaS product to help music creators create and monetise music using a simpler and more efficient music production supply chain workflow .",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/eiansqvipwuhj7bbupac",
+    "location": "St Albans, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/%20musiqmesh",
+      "linkedin": "https://linkedin.com/company/musiqmesh"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "TogetherCrew",
+    "website": "https://togethercrew.com/",
+    "description": "Our community analytics and automations empower web3 leaders to build strong communities.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/together_crew",
+      "linkedin": "https://linkedin.com/company/togethercrew"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Laurels",
+    "website": "https://laurels.app/",
+    "description": "Platform for pro bono programs enabling corporate employees to support local non profits.",
+    "location": "Studio City, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/laurels_app",
+      "linkedin": "https://linkedin.com/company/laurels-app"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Dev",
+    "website": "https://devf.la/",
+    "description": "Cohort-based educational program that trains Hispanic Americans in digital skills such as coding, data science, AI, and UX, and helps them secure a high-quality job.",
+    "location": "Mexico City, Federal District, Mexico",
+    "social_media": {
+      "twitter": "https://twitter.com/devflatam",
+      "linkedin": "https://linkedin.com/school/devf",
+      "facebook": "https://facebook.com/devfla/"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "BillionMinds",
+    "website": "https://billionminds.com/",
+    "description": "BillionMinds offers a practical approach to building critical, future-proof soft soft skills through bite-sized learn/do experiences.",
+    "location": "Tulsa, Oklahoma, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/risingbillion",
+      "linkedin": "https://linkedin.com/company/billionminds",
+      "facebook": "https://facebook.com/risingbillion"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Xmetryx",
+    "website": "https://xmetryx.com/",
+    "description": "The company's TrustMetryx(tm) software measures and tracks the strength of relationships within and between teams.",
+    "location": "Salt Lake City, Utah, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/xmetryx",
+      "linkedin": "https://linkedin.com/company/xmetryx"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Oly",
+    "website": "https://oly-platform.com/",
+    "description": "For Fashion Resale Businesses, who need to list and manage their catalog across different online channels manually, we provide a saas platform to centralize and enable their business to grow.",
+    "location": "Paris, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oly-platform"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Tabl",
+    "website": "https://tablbrowser.com/",
+    "description": "A multi-player web browser",
+    "location": "Tokyo, Japan",
+    "social_media": {
+      "twitter": "https://twitter.com/UndeskHQ",
+      "linkedin": "https://linkedin.com/company/tablbrowser",
+      "facebook": "https://facebook.com/undeskhq"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Remix",
+    "website": "https://remixpresentation.com/",
+    "description": "Remix is building a virtual teleporter. It's a small device, with cameras and distance sensors, that lets users freely interact in any location it's placed.",
+    "location": "Pleasant Hill, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/remix-inc"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Oblio",
+    "website": "https://oblio.ai/",
+    "description": "Oblio is at the forefront of revolutionizing university enrollment with our innovative Inbox-Based AI tool.",
+    "location": "Murrieta, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oblio-ai"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Superinsight",
+    "website": "https://superinsight.ai/",
+    "description": "Empowering Advocates With Trustworthy AI Solutions",
+    "location": "West Covina, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/superinsightai",
+      "linkedin": "https://linkedin.com/company/superinsight"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Besample",
+    "website": "https://besample.app/",
+    "description": "Besample is a data marketplace that empowers research beyond the West. \n\nWith a focus on the growing Global South, Besample provides human-focused researchers across healthcare, industry, and academia with access to primary data from a diverse and representative pool of people in 42 countries of Africa, Asia, Latin America, and CIS.",
+    "location": "Tallahassee, Florida, United States",
+    "social_media": {},
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Locus Lock",
+    "website": "https://locuslock.com/",
+    "description": "Locus Lock provides next-generation GPS solutions to businesses all around the world.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ubnbiozrkvsbtnr8el7a",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/locus-lock"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "INKZUP",
+    "website": "https://inkzup.com/",
+    "description": "Making Tattoo Shop Management Effortless",
+    "location": "Lawrenceville, Georgia, United States",
+    "social_media": {},
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "DEI Directive",
+    "website": "https://deidirective.com/",
+    "description": "DEI Directive trusted solution for workplace Diversity, Equity, and Inclusion.",
+    "location": "Fort Mill, South Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/deidirective",
+      "linkedin": "https://linkedin.com/company/dei-directive",
+      "facebook": "https://facebook.com/deidirective/"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "BOS Framework",
+    "website": "https://bosframework.com/",
+    "description": "Your seamless transition to microservices and security",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/j9wpzyeqt893nxseahme",
+    "location": "Brentwood, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/BOSFramework",
+      "linkedin": "https://linkedin.com/company/27154698",
+      "facebook": "https://facebook.com/BOS-Framework-159824497961438"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Shophand",
+    "website": "https://shophand.com/",
+    "description": "Shophand is an AI and people-powered concierge platform that bridges the digital divide by connecting small business owners to the technology tools they need to help them succeed and grow.",
+    "location": "Waterford, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/shophandapp",
+      "linkedin": "https://linkedin.com/company/shophand",
+      "facebook": "https://facebook.com/shophandapp"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "xPub",
+    "website": "https://xpub.ai/",
+    "description": "Publications accelerated in your own editorial styles using generative AI tools powered by your proprietary LLMs and custom workflows.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/xpubai"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Greena World",
+    "website": "https://greena.world/",
+    "description": "We use technology to make tourism sustainable.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hdvgzmim2xdrxnuhzh36",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/greena-world"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Rex Animal Health",
+    "website": "https://rexanimalhealth.com/",
+    "description": "We're on a mission to help farmers feed the world",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1472689880/zjvdcvcneuibqfn2m105.png",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rexanimalhealth",
+      "linkedin": "https://linkedin.com/company/3807980",
+      "facebook": "https://facebook.com/rexanimalhealth"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "AdmitOffer",
+    "website": "https://admitoffer.com/",
+    "description": "Admitly is an online international student admissions platform and provides comprehensive insights into various programs and opportunities",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/dkzdmc0kq6sp1vbywuxj",
+    "location": "South Brampton, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/admitoffer",
+      "facebook": "https://facebook.com/people/Admit-Offer/100057078475256/"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Renbizz",
+    "website": "https://renbizz.com/",
+    "description": "Renbizz enable retailers to transform into the rental model by providing a holistic turnkey rental platform",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/renbizz",
+      "facebook": "https://facebook.com/Renbizz-103248412099580"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Oasis Learning",
+    "website": "https://oasislearning.ai/",
+    "description": "Oasis | The future of learning",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oasis-learning-ai"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Townfolio",
+    "website": "https://townfolio.ca/",
+    "description": "A platform providing city data as a service.",
+    "location": "Saskatoon, Saskatchewan, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/townfolio",
+      "linkedin": "https://linkedin.com/company/townfolio",
+      "facebook": "https://facebook.com/townfolio"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Hotelhero",
+    "website": "https://hotelhero.tech/",
+    "description": "Hotelhero is the hotel technology research platform specialized for independent hotels.",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/Hotelhero1",
+      "linkedin": "https://linkedin.com/company/hotelhero",
+      "facebook": "https://facebook.com/Hotelhero.tech"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Woorly",
+    "website": "https://linkedin.com/company/woorly",
+    "description": "Woorly is a referral and rewards platform to capture word of mouth marketing for small businesses.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/sixry7vh3yp8cml4w36z",
+    "location": "Chattanooga, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mywoorly",
+      "linkedin": "https://linkedin.com/company/woorly",
+      "facebook": "https://facebook.com/mywoorly"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Watermelon",
+    "website": "https://linkedin.com/company/watermelon-tools",
+    "description": "Their app comments on your code review with business logic context. Helps users learn code 10x faster",
+    "location": "Medellín, Colombia",
+    "social_media": {
+      "twitter": "https://twitter.com/WatermelonTools",
+      "linkedin": "https://linkedin.com/company/watermelon-tools"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Punchlist",
+    "website": "https://linkedin.com/company/usepunchlist",
+    "description": "Punchlist is a platform for approving and getting feedback on your work. It is what creatives teams use when they want to wrap up their projects.",
+    "location": "Decatur, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/usepunchlist",
+      "linkedin": "https://linkedin.com/company/usepunchlist",
+      "facebook": "https://facebook.com/usepunchlist"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Dimensions",
+    "website": "https://linkedin.com/company/digitalscience-dimensions",
+    "description": "Mission Control for Product, Success, Support and everything in between. Free your teams from silos and make them feel superhuman.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/dimensions_cx",
+      "linkedin": "https://linkedin.com/company/digitalscience-dimensions",
+      "facebook": "https://facebook.com/DSDimensions"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "C-Log",
+    "website": "https://linkedin.com/company/c-log-compliance-identity-management",
+    "description": "C-LOG is a secure and digital platform pioneering data collaboration across the maritime industry. The platform focusing on enabling dynamic, transparent and secure data collaboration among stakeholders in the maritime industry. It reduces costs and in...",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/c-log-compliance-identity-management"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Upsteer",
+    "website": "https://linkedin.com/company/upsteer-io",
+    "description": "Upsteer is an operations copilot for e-commerce brands that combines data across their business, enabling them to automate workflows from replenishment to wholesale operations and make the best decisions through task recommendations.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/upsteer-io"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  },
+  {
+    "name": "Devpass",
+    "website": "https://linkedin.com/company/devpasstech",
+    "description": "AI tool that elevates tech team's skills by simulating coding scenarios.",
+    "location": "São Paulo, São Paulo, Brazil",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/devpasstech"
+    },
+    "industry": "Future of work",
+    "industry_slug": "future-of-work"
+  }
+]

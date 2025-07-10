@@ -1,0 +1,23 @@
+{
+  "name": "Onboardbase",
+  "slug": "onboardbase",
+  "website": "https://onboardbase.com/",
+  "description": "For dev teams with secret chao anxiety, Onboardbase makes it easy to work with engineers and infrastructure without worrying about security risk.",
+  "one_liner": "For dev teams with secret chao anxiety, Onboardbase makes it easy to work with engineers and infrastructure without worrying about security risk.",
+  "location": "Miami, Florida, United States",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/onboardbase",
+    "linkedin": "https://linkedin.com/company/onboardbase"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/onboardbase",
+  "api": "/api/companies/onboardbase.json"
+}

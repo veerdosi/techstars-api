@@ -1,0 +1,24 @@
+{
+  "name": "Rubato",
+  "slug": "rubato",
+  "website": "https://rubato.life/",
+  "description": "A NEW AI-POWERED, REIMBURSABLE, MUSIC THERAPY FOR SENIOR POPULATION SUFFERING FROM DEMENTIA AND THEIR SUPPORTING COMMUNITY",
+  "one_liner": "A NEW AI-POWERED, REIMBURSABLE, MUSIC THERAPY FOR SENIOR POPULATION SUFFERING FROM DEMENTIA AND THEIR SUPPORTING COMMUNITY",
+  "location": "Pacific Palisades, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/your_body_music",
+    "linkedin": "https://linkedin.com/company/rubato-life",
+    "facebook": "https://facebook.com/YourBodyMusic"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rubato",
+  "api": "/api/companies/rubato.json"
+}

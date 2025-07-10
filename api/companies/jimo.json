@@ -1,0 +1,23 @@
+{
+  "name": "Jimo",
+  "slug": "jimo",
+  "website": "https://usejimo.com/",
+  "description": "Jimo enables product teams to connect and engage directly with end users during all aspects of the product life cycle including ideation and design via a powerful notification center and smart newsfeed.",
+  "one_liner": "Jimo enables product teams to connect and engage directly with end users during all aspects of the product life cycle including ideation and design via a powerful notification center and smart newsfeed.",
+  "location": "Cachan, France",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/usejimo",
+    "linkedin": "https://linkedin.com/company/71515486"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/jimo",
+  "api": "/api/companies/jimo.json"
+}

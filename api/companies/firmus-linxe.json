@@ -1,0 +1,24 @@
+{
+  "name": "Firmus linxe",
+  "slug": "firmus-linxe",
+  "website": "https://linxe.com/",
+  "description": "Linxe offers payroll-based financial services to employees, such as salary advances, microloans, insurance, payments to give them control over their salaries",
+  "one_liner": "Linxe offers payroll-based financial services to employees, such as salary advances, microloans, insurance, payments to give them control over their salaries",
+  "location": "Bogotá, Colombia",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/linxe17",
+    "linkedin": "https://linkedin.com/company/firmus-sas",
+    "facebook": "https://facebook.com/Linxe-Libranzas-en-L%C3%ADnea-442453749843827/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/firmus-linxe",
+  "api": "/api/companies/firmus-linxe.json"
+}

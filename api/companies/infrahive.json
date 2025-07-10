@@ -1,0 +1,24 @@
+{
+  "name": "InfraHive",
+  "slug": "infrahive",
+  "website": "https://infrahive.io/",
+  "description": "A Data Intelligence platform that allows finance, sales and customer teams of enterprises to do real-time analysis, 24x7 -- across company's complex data.",
+  "one_liner": "A Data Intelligence platform that allows finance, sales and customer teams of enterprises to do real-time analysis, 24x7 -- across company's complex data.",
+  "location": "New Castle, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/vercel",
+    "linkedin": "https://linkedin.com/company/infrahive",
+    "facebook": "https://facebook.com/VercelHQ"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/infrahive",
+  "api": "/api/companies/infrahive.json"
+}

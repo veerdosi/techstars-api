@@ -1,0 +1,24 @@
+{
+  "name": "Arrived",
+  "slug": "arrived",
+  "website": "https://arrived.com/",
+  "description": "Arrived is a platform for investing in equity shares of rental homes, starting from $100.",
+  "one_liner": "Arrived is a platform for investing in equity shares of rental homes, starting from $100.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ArrivedHomes",
+    "linkedin": "https://linkedin.com/company/arrivedhomes",
+    "facebook": "https://facebook.com/arrivedhomes"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/arrived",
+  "api": "/api/companies/arrived.json"
+}

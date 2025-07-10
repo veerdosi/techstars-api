@@ -1,0 +1,23 @@
+{
+  "name": "PipeOps",
+  "slug": "pipeops",
+  "website": "https://pipeops.io/",
+  "description": "PipeOps is a no-code platform that makes it super easy for software engineers and startups without Cloud expertise to setup, manage and deploy their apps & services into their cloud infrastructure.",
+  "one_liner": "PipeOps is a no-code platform that makes it super easy for software engineers and startups without Cloud expertise to setup, manage and deploy their apps & services into their cloud infrastructure.",
+  "location": "Lekki, Nigeria",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PipeOps",
+    "linkedin": "https://linkedin.com/company/pipeops"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pipeops",
+  "api": "/api/companies/pipeops.json"
+}

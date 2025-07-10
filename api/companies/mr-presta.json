@@ -1,0 +1,24 @@
+{
+  "name": "MR Presta",
+  "slug": "mr-presta",
+  "website": "https://mrprestatech.com/",
+  "description": "Small Business Lending Platform for companies in Emerging Markets",
+  "one_liner": "Small Business Lending Platform for companies in Emerging Markets",
+  "location": "Bee Cave, Texas, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/MrPresta",
+    "linkedin": "https://linkedin.com/company/mr-presta-funds",
+    "facebook": "https://facebook.com/mrpresta.com.mx/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mr-presta",
+  "api": "/api/companies/mr-presta.json"
+}

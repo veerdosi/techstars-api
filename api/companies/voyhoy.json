@@ -1,0 +1,24 @@
+{
+  "name": "Voyhoy",
+  "slug": "voyhoy",
+  "website": "https://linkedin.com/company/voyhoy",
+  "description": "Multi-modal booking platform that helps people save time and money traveling long distances across bus, plane, train, ferry, and rideshare in South America.",
+  "one_liner": "Multi-modal booking platform that helps people save time and money traveling long distances across bus, plane, train, ferry, and rideshare in South America.",
+  "location": "Santiago, Chile",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/voyhoy",
+    "linkedin": "https://linkedin.com/company/voyhoy",
+    "facebook": "https://facebook.com/yovoyhoy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/voyhoy",
+  "api": "/api/companies/voyhoy.json"
+}

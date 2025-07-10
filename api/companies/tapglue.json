@@ -1,0 +1,24 @@
+{
+  "name": "Tapglue",
+  "slug": "tapglue",
+  "website": "https://tapglue.com/",
+  "description": "Turn every app into a social network.",
+  "one_liner": "Turn every app into a social network.",
+  "location": "Berlin, Germany",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/tapglue",
+    "linkedin": "https://linkedin.com/company/tapglue",
+    "facebook": "https://facebook.com/tapglue/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tapglue",
+  "api": "/api/companies/tapglue.json"
+}

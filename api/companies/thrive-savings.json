@@ -1,0 +1,24 @@
+{
+  "name": "Thrive Savings",
+  "slug": "thrive-savings",
+  "website": "https://linkedin.com/company/thrivesavings",
+  "description": "Empowered spending for Generation Z.",
+  "one_liner": "Empowered spending for Generation Z.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ThriveSavings",
+    "linkedin": "https://linkedin.com/company/thrivesavings",
+    "facebook": "https://facebook.com/thrivesavings/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/thrive-savings",
+  "api": "/api/companies/thrive-savings.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Relive -",
+  "slug": "relive",
+  "website": "https://relive.pt/",
+  "description": "Relive empowers the next generation of real estate entrepreneurs by transforming solo agents into professional businesses.",
+  "one_liner": "Relive empowers the next generation of real estate entrepreneurs by transforming solo agents into professional businesses.",
+  "location": "Ourem, Portugal",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/relivecc",
+    "linkedin": "https://linkedin.com/company/relive.cc",
+    "facebook": "https://facebook.com/relivecc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/relive",
+  "api": "/api/companies/relive.json"
+}

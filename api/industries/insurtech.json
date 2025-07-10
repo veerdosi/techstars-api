@@ -1,0 +1,2030 @@
+[
+  {
+    "name": "Openly",
+    "website": "https://openly.com/",
+    "description": "Beautifully Simple Insurance",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/openlyllc",
+      "linkedin": "https://linkedin.com/company/openlyinc",
+      "facebook": "https://facebook.com/openlyllc"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Regard",
+    "website": "https://withregard.com/",
+    "description": "Automating documentation, so clinicians can get back to patients.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RegardApp",
+      "linkedin": "https://linkedin.com/company/regard-technologies"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "The Helper Bees",
+    "website": "https://thehelperbees.com/",
+    "description": "A tech enabled in-home care platform that encourages aging in place by using personality matching to connect private duty caregivers with seniors.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thehelperbees",
+      "linkedin": "https://linkedin.com/company/the-helper-bees",
+      "facebook": "https://facebook.com/thehelperbees"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Cuvva",
+    "website": "https://cuvva.com/",
+    "description": "Offering flexible on-demand car insurance, by the hour.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/cuvva",
+      "linkedin": "https://linkedin.com/company/cuvva",
+      "facebook": "https://facebook.com/getcuvvad/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Seel",
+    "website": "https://seel.com/",
+    "description": "Seel is building a new category of financial products to help merchants offer risk-free shopping experience.",
+    "location": "Sunnyvale, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/justaddseel",
+      "linkedin": "https://linkedin.com/company/addseel",
+      "facebook": "https://facebook.com/koverai/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Urban Sky",
+    "website": "https://urbansky.space/",
+    "description": "Developing stratospheric Microballoons to capture the freshest, high-res earth observation data.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/urban-sky-imaging",
+      "facebook": "https://facebook.com/theurbansky/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Skopenow",
+    "website": "https://skopenow.com/",
+    "description": "Skopenow is a people search engine for discovering fraud and evaluating risk.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Skopenow",
+      "linkedin": "https://linkedin.com/company/skopenow",
+      "facebook": "https://facebook.com/skopenow"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Overstory",
+    "website": "https://20tree.ai/",
+    "description": "Real-time vegetation intelligence, at scale",
+    "location": "Amsterdam, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/overstoryai",
+      "linkedin": "https://linkedin.com/company/overstoryai"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Trellis Research",
+    "website": "https://trellis.law/",
+    "description": "Legal intelligence and judicial analytics for law firms.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/trellis_law",
+      "linkedin": "https://linkedin.com/company/trellis-law",
+      "facebook": "https://facebook.com/trellis.rocks"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Everledger",
+    "website": "https://everledger.io/",
+    "description": "Everledger provides an immutable ledger for diamond identification and transaction verification for various stakeholders, from insurance companies to claimants and law enforcement agencies.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/everledgerio",
+      "linkedin": "https://linkedin.com/company/everledger",
+      "facebook": "https://facebook.com/everledger"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Player's Health",
+    "website": "https://playershealth.com/",
+    "description": "Player's Health is an insurance agency that protects athletes and sports organizations with a unique risk management platform.",
+    "location": "Minneapolis, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PlayersHealth",
+      "linkedin": "https://linkedin.com/company/team-interval-powered-by-ao1-solutions-inc-",
+      "facebook": "https://facebook.com/playershealth"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "SkyWatch",
+    "website": "https://skywatch.co/",
+    "description": "SkyWatch provides API access to the world's satellite data.",
+    "location": "Waterloo, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/SkyWatchApps",
+      "linkedin": "https://linkedin.com/company/skywatchai",
+      "facebook": "https://facebook.com/SkyWatchAI/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Venteur",
+    "website": "https://venteur.co/",
+    "description": "Venteur is a benefits marketplace for independent workers that streamlines access to health insurance.",
+    "location": "Berkeley, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/VenteurCo",
+      "linkedin": "https://linkedin.com/company/venteur-inc",
+      "facebook": "https://facebook.com/Venteur.co/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Sprout",
+    "website": "https://sprout.ai/",
+    "description": "Sprout.ai empowers insurers to settle claims in as little as 24 hours by providing data driven insights.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Sprout_ai",
+      "linkedin": "https://linkedin.com/company/sproutai"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Klaim",
+    "website": "https://klaim.ai/",
+    "description": "\"We help healthcare providers reduce waste, get paid more and faster on their medical claims using artificial intelligence. \"",
+    "location": "Abu Dhabi, United Arab Emirates",
+    "social_media": {
+      "twitter": "https://twitter.com/drklaimai",
+      "linkedin": "https://linkedin.com/company/klaim-ai",
+      "facebook": "https://facebook.com/Dr.Klaim/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Nimbla",
+    "website": "https://nimbla.com/",
+    "description": "Insurance and financial products for SMEs.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/nimblabla",
+      "linkedin": "https://linkedin.com/company/nimbla",
+      "facebook": "https://facebook.com/Nimbla-1894273750826453/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Hidrate",
+    "website": "https://hidratespark.com/",
+    "description": "We combine style and technology to build beautiful connected devices for health and fitness communities.",
+    "location": "Minneapolis, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hidratespark",
+      "linkedin": "https://linkedin.com/company/hidrate-inc",
+      "facebook": "https://facebook.com/hidrate.me"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Conservation Labs",
+    "website": "https://conservationlabs.com/",
+    "description": "Conservation Labs first product, H2know, is a smart water technology for the built environment.",
+    "location": "Brownsville, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/doyouh2know",
+      "linkedin": "https://linkedin.com/company/conservation-labs",
+      "facebook": "https://facebook.com/DoYouH2know"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Safely",
+    "website": "https://safely.com/",
+    "description": "Predictive analytics and insurance platform to add trust and safety to the sharing economy, beginning with short-term home rentals.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/safelystay",
+      "linkedin": "https://linkedin.com/company/getsafely",
+      "facebook": "https://facebook.com/SafelyStayhttps://www.facebook.com/SafelyStay"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Monitaur",
+    "website": "https://monitaur.ai/",
+    "description": "Transparency and assurance software for AI #Compliance #Healthcare #AI",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MonitaurAI",
+      "linkedin": "https://linkedin.com/company/monitaur"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Hosta a",
+    "website": "https://hosta.ai/",
+    "description": "Hosta leverages A.I. to provide the most efficient and insightful structural assessment of interior spaces.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hostalabs",
+      "linkedin": "https://linkedin.com/company/hostalabs-ai"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Liveoak Technologies",
+    "website": "https://liveoak.net/",
+    "description": "Customer engagement platform that simplifies paperwork through real-time videoconferencing, collaboration, and in session eSignature on any device",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/liveoaknet",
+      "linkedin": "https://linkedin.com/company/liveoak-technologies",
+      "facebook": "https://facebook.com/liveoakNet"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "QuanTemplate",
+    "website": "https://quantemplate.com/",
+    "description": "Taking the insurance industry online",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/QuanTemplate",
+      "linkedin": "https://linkedin.com/company/3169357",
+      "facebook": "https://facebook.com/QuanTemplate-521123151303676/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Lovys",
+    "website": "https://lovys.com/",
+    "description": "The all-in-one insurance that adapts to you.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/LovysInsurance",
+      "linkedin": "https://linkedin.com/company/10120202",
+      "facebook": "https://facebook.com/LovysFrance/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Driver",
+    "website": "https://trydriver.com/",
+    "description": "Driver is a hardware-free mobile app and data platform that allows users to video record their trip while receiving forward collision and drowsiness alerts.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/driverinc",
+      "linkedin": "https://linkedin.com/company/driverinc",
+      "facebook": "https://facebook.com/TryDriver/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "SoLo Funds",
+    "website": "https://solofunds.com/",
+    "description": "SoLo Funds is a mobile lending exchange connecting lenders and borrowers for the purpose of providing more affordable access to loans under $1,000",
+    "location": "Cincinnati, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/solofunds",
+      "linkedin": "https://linkedin.com/company/solo-funds",
+      "facebook": "https://facebook.com/SoLoFundsInc/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Wunderite",
+    "website": "https://wunderite.com/",
+    "description": "Next-generation software for insurance agents #InsurTech #B2B #SaaS",
+    "location": "Bourne, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wunderite",
+      "linkedin": "https://linkedin.com/company/wunderite",
+      "facebook": "https://facebook.com/wunderite"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Savvly",
+    "website": "https://savvly.com/",
+    "description": "Savvly is a private risk pool designed to pay you for living a long life",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/savvly",
+      "facebook": "https://facebook.com/SavvlyFinance"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "AGTools",
+    "website": "https://ag.tools/",
+    "description": "Agtools is a real-time data and market intelligence platform that provides transparency to the global food & ag industry.",
+    "location": "Irvine, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ag_tools",
+      "linkedin": "https://linkedin.com/company/agtools",
+      "facebook": "https://facebook.com/AgtoolsInc/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "LeO",
+    "website": "https://meetleo.co/",
+    "description": "LeO is an AI, data-driven \"personal assistant\" tool for insurance carriers and brokers that enable them to better interact with their customers",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/LeoChiefOfStuff",
+      "linkedin": "https://linkedin.com/company/meetleo",
+      "facebook": "https://facebook.com/LeoChiefOfStuff"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Cachet",
+    "website": "https://cachet.me/",
+    "description": "Cachet is a financial services marketplace for the gig economy.",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "twitter": "https://twitter.com/cachet_me",
+      "linkedin": "https://linkedin.com/company/cachetme",
+      "facebook": "https://facebook.com/cachetme/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Sunairio",
+    "website": "https://sunairio.com/",
+    "description": "Climate simulation for renewable energy prediction",
+    "location": "Baltimore, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sunairio",
+      "linkedin": "https://linkedin.com/company/sunairio"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "FitBark",
+    "website": "https://fitbark.com/",
+    "description": "Healthy Together",
+    "location": "Forest Hills, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fitbark",
+      "linkedin": "https://linkedin.com/company/fitbark",
+      "facebook": "https://facebook.com/fitbark"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "DocStation",
+    "website": "https://docstation.co/",
+    "description": "DocStation is a clinical platform (EHR) for pharmacists.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/docstationapp",
+      "linkedin": "https://linkedin.com/company/docstation",
+      "facebook": "https://facebook.com/docstationapp/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Rainwalk Technology",
+    "website": "https://rainwalk.io/",
+    "description": "Rainwalk is Pet Health Insurance embedded in shelters at point of adoption.",
+    "location": "Columbia, South Carolina, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rainwalk",
+      "facebook": "https://facebook.com/rainwalkinsurance"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "AssetVault",
+    "website": "https://asset-vault.com/",
+    "description": "Catalogue, protect and manage your physical and digital assets",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/assetvaultco",
+      "linkedin": "https://linkedin.com/company/assetvault",
+      "facebook": "https://facebook.com/AssetVault-161384937774396/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Iambuddy",
+    "website": "https://iambuddy.com/",
+    "description": "The first episodic accident insurance that provides peace of mind for an active, outdoor lifestyle.",
+    "location": "Richmond, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/iambuddystweets",
+      "linkedin": "https://linkedin.com/company/iambuddy",
+      "facebook": "https://facebook.com/buddyadventureinsurance/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Slope Software",
+    "website": "https://slopesoftware.com/",
+    "description": "SLOPE helps insurance companies perform the difficult task of quantifying risk by enabling their actuaries to do better analysis in a fraction of the time.",
+    "location": "Gastonia, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SlopeSoftware",
+      "linkedin": "https://linkedin.com/company/slopesoftware",
+      "facebook": "https://facebook.com/slopesoftware"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Waffle Labs",
+    "website": "https://trywaffle.com/",
+    "description": "Personalised insurance, protecting everything and everyone a person cherishes.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/get_waffle",
+      "linkedin": "https://linkedin.com/company/getwaffle",
+      "facebook": "https://facebook.com/getwaffle"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "SATIM",
+    "website": "https://satim.pl/",
+    "description": "Providing satellite radar-based intelligence for decision makers.",
+    "location": "Kraków, Poland",
+    "social_media": {
+      "twitter": "https://twitter.com/SatimMonitoring",
+      "linkedin": "https://linkedin.com/company/satimco",
+      "facebook": "https://facebook.com/satimmonitoring/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "muffintech",
+    "website": "https://muffintech.ai/",
+    "description": "Building Europe's #1 Conversational AI for the insurance industry",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/muffintechdotai",
+      "facebook": "https://facebook.com/getmuffin.de/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Pillar Technologies",
+    "website": "https://pillar.tech/",
+    "description": "Pillar prevents damages on construction sites using sensors and predictive analytics.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pillartechinc",
+      "linkedin": "https://linkedin.com/company/pillar-technologies-inc",
+      "facebook": "https://facebook.com/PillarTechInc"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Plannly",
+    "website": "https://plannlyhealth.com/",
+    "description": "Plannly Health is dedicated to enhancing healthcare by taking a proactive approach to identify and address significant workforce risks.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/plannly",
+      "linkedin": "https://linkedin.com/company/plannly",
+      "facebook": "https://facebook.com/plann.ly"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Voyc",
+    "website": "https://voyc.ai/",
+    "description": "AI software to monitor & improve call centre quality assurance & agent performance.",
+    "location": "Cape Town, South Africa",
+    "social_media": {
+      "twitter": "https://twitter.com/voyc_ai",
+      "linkedin": "https://linkedin.com/company/voycai",
+      "facebook": "https://facebook.com/voycai-280510892827223/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Linker Finance",
+    "website": "https://linkerfinance.com/",
+    "description": "Linker Finance is a cost-effective turnkey solution and low-code platform that enables brands to launch their custom FinTech app in weeks.",
+    "location": "Pasadena, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LinkerFinance",
+      "linkedin": "https://linkedin.com/company/linkerfinance"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Peerby",
+    "website": "https://peerby.com/",
+    "description": "Borrow the things you need from others in their neighborhood.",
+    "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/112248-6ba181c8aec16fea2624569252be169d-medium_jpg.jpg?buster=1344532685",
+    "location": "Amsterdam, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/peerby",
+      "linkedin": "https://linkedin.com/company/2459488",
+      "facebook": "https://facebook.com/peerby"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Avenews",
+    "website": "https://avenews-gt.com/",
+    "description": "Avenews is a fintech company connecting two of the largest and most important industries in the world: the financial industry and the agricultural industry.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/Avenews_gt",
+      "linkedin": "https://linkedin.com/company/10961166",
+      "facebook": "https://facebook.com/AvenewsGT/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Dobby",
+    "website": "https://halosinsurance.com/",
+    "description": "The highest rated home services app on the app store.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HalosInsurance",
+      "linkedin": "https://linkedin.com/company/hellodobby",
+      "facebook": "https://facebook.com/Hello-Dobby-1459700801000282"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Yonder",
+    "website": "https://newknowledge.io/",
+    "description": "SendGrid for analytics",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/therealyonder",
+      "linkedin": "https://linkedin.com/company/yonderhq",
+      "facebook": "https://facebook.com/therealyonder"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Photocert",
+    "website": "https://photocert.co.uk/",
+    "description": "In an era where misinformation is rife, Photocert validates and certifies the authenticity of pictures and videos by generating a digital fingerprint.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/photocert",
+      "linkedin": "https://linkedin.com/company/photocert",
+      "facebook": "https://facebook.com/photocert"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Homeppl",
+    "website": "https://homeppl.com/",
+    "description": "Homeppl calculates the risk and reputation of tenants",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/HomepplLtd",
+      "linkedin": "https://linkedin.com/company/homeppl",
+      "facebook": "https://facebook.com/pg/Homeppl/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Orbiseed",
+    "website": "https://orbiseed.com/",
+    "description": "Orbiseed's AI platform standardizes and summarizes commercial property data for insurance carriers to sell more, reduce costs and manage risk better.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/OrbiseedNA",
+      "linkedin": "https://linkedin.com/company/orbiseedna",
+      "facebook": "https://facebook.com/OrbiseedNA/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Eversend",
+    "website": "https://eversend.co/",
+    "description": "A neobank for Africans, anywhere in the world.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/eversendapp",
+      "linkedin": "https://linkedin.com/company/eversend",
+      "facebook": "https://facebook.com/eversendapp/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Koala",
+    "website": "https://hikoala.co/",
+    "description": "Travel insurance as it should be - your companion from the moment you leave your home to when you return",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/koala_insurance",
+      "linkedin": "https://linkedin.com/company/koalainsurance",
+      "facebook": "https://facebook.com/TeachWithKoala/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Riders Share",
+    "website": "https://riders-share.com/",
+    "description": "Airbnb for motorcycles: the first U.S. peer-to-peer motorcycle rental marketplace. Motorcycle sharing.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RidersShare",
+      "linkedin": "https://linkedin.com/company/ridersshare",
+      "facebook": "https://facebook.com/ridersshare"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Notion",
+    "website": "https://getnotion.com/",
+    "description": "Complete home intelligence",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/notion",
+      "linkedin": "https://linkedin.com/company/getnotion",
+      "facebook": "https://facebook.com/getnotion"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Latitudo40",
+    "website": "https://latitudo40.com/",
+    "description": "Latitudo 40 transforms images into useful information with actionable insights on our planet.",
+    "location": "Naples, Naples, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/latitudo40",
+      "linkedin": "https://linkedin.com/company/latitudo-40",
+      "facebook": "https://facebook.com/latitudo40/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "InsureTax",
+    "website": "https://insure.tax/",
+    "description": "InsureTax is a tech company specializing in prediction and hedging of financial risks with focus on tax liabilities and issuing tax policies.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/insuretax"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Super Dispatch",
+    "website": "https://mysuperdispatch.com/",
+    "description": "Super Dispatch is a platform that enables automotive logistics companies to eliminate paperwork, manage loads, drivers and billing all in one place.",
+    "location": "Kansas City, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/superdispatch",
+      "linkedin": "https://linkedin.com/company/super-dispatch",
+      "facebook": "https://facebook.com/My-Super-Dispatch-531609600223067/timeline/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Everyday Life Insurance",
+    "website": "https://everydaylifeinsurance.com/",
+    "description": "Using technology to make life insurance smarter and more accessible for everyday people",
+    "location": "Andover, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/everydaylife_hi",
+      "linkedin": "https://linkedin.com/company/everyday-life-insurance",
+      "facebook": "https://facebook.com/everydaylifeinsurance/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Vumo AI",
+    "website": "https://vumo.ai/",
+    "description": "Car Scanner introduces transparency and automatization into the car appraisal process with an autonomous robot performing car inspections.",
+    "location": "Krakow, Poland",
+    "social_media": {
+      "twitter": "https://twitter.com/CarScanner2",
+      "linkedin": "https://linkedin.com/company/car-scanner",
+      "facebook": "https://facebook.com/Car-Scanner-106069580898902/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Sidewalk Insurance",
+    "website": "https://sidewalk.biz/",
+    "description": "Sidewalk connects communities of business operators to give them access to modern property and liability insurance at a significantly lower cost than other insurance providers.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SidewalkIns",
+      "linkedin": "https://linkedin.com/company/sidewalkinsurance"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Odaptos",
+    "website": "https://odaptos.com/",
+    "description": "Odaptos is an artificial intelligence platform that allows users to perform usability testing.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ephhcsbgvin7qfhw4xma",
+    "location": "Perols, Occitanie, France",
+    "social_media": {
+      "twitter": "https://twitter.com/odaptos",
+      "linkedin": "https://linkedin.com/company/odaptos",
+      "facebook": "https://facebook.com/people/Odaptos/100070848931160"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "OKO",
+    "website": "https://oko.finance/",
+    "description": "OKO is an InsurTech solution to bring crop insurance to emerging markets and provide smallholder farmers with a financial protection against climate risks",
+    "location": "Luxembourg, Luxembourg",
+    "social_media": {
+      "twitter": "https://twitter.com/OKO_insurance",
+      "linkedin": "https://linkedin.com/company/oko-exchange",
+      "facebook": "https://facebook.com/OKOInsurance/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "CancerAid",
+    "website": "https://canceraid.com/",
+    "description": "CancerAid is an app for oncology patients, caregivers and clinicians to provide support during their journey.",
+    "location": "Camperdown, New South Wales, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/CancerAid_app",
+      "linkedin": "https://linkedin.com/company/canceraid",
+      "facebook": "https://facebook.com/canceraid"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Athlete",
+    "website": "https://lifeathlete.co/",
+    "description": "Life insurance that helps you to live longer",
+    "location": "Harrogate, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lifeathlete"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Portabl",
+    "website": "https://portabl.co/",
+    "description": "PORTABL.co is a B2B2C platform and community providing insurance, benefits and retirement savings products for freelance, gig and self-employed professionals.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/PortablCo",
+      "linkedin": "https://linkedin.com/company/portablco",
+      "facebook": "https://facebook.com/PORTABL.co/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Haptic",
+    "website": "https://knocki.com/",
+    "description": "Haptic is a digital activation platform for structural materials.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/haptic",
+      "linkedin": "https://linkedin.com/company/knocki",
+      "facebook": "https://facebook.com/getknocki"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Clyde",
+    "website": "https://joinclyde.com/",
+    "description": "Clyde builds technology and partnerships to enable businesses to offer insurance products at the point-of-sale.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/join_clyde",
+      "linkedin": "https://linkedin.com/company/joinclyde",
+      "facebook": "https://facebook.com/clydeprotection"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Felix",
+    "website": "https://liberationcover.com/",
+    "description": "Felix is a B2B SaaS platform to seamlessly connect insurers, intermediaries and their consumers to the insurance ecosystem.",
+    "location": "Dubai, United Arab Emirates",
+    "social_media": {
+      "twitter": "https://twitter.com/felix_insure",
+      "linkedin": "https://linkedin.com/company/felix.insure",
+      "facebook": "https://facebook.com/felixenvios"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Parasol Platforms",
+    "website": "https://parasolplatforms.com/",
+    "description": "Facilitating the future of commercial insurance broking",
+    "location": "City of Newark, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/parasol-platforms"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Propio",
+    "website": "https://joinpropio.com/",
+    "description": "Propio puts Latino independent workers in the driver's seat to seamlessly manage payments, taxes, benefits and financial access.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/join_propio",
+      "linkedin": "https://linkedin.com/company/joinpropio",
+      "facebook": "https://facebook.com/joinpropio"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "IrisMed",
+    "website": "https://irismed.co/",
+    "description": "IrisMed minimizes revenue leakage and compliance risks for medical facilities and revenue cycle consultancies by creating a domain-specific AI to reduce coding errors, and manage claim denials at scale.",
+    "location": "Aurora, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/irismed-ai"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Centinel",
+    "website": "https://yourcentinel.com/",
+    "description": "For people facing ever-widening coverage gaps, Centinel's claims-free coverage for hard-to-insure risks gets lives and businesses back on track.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/yourcentinel"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Alt",
+    "website": "https://altfndata.com/",
+    "description": "Alt.Fn is a financial data platform for tracking the $17.2T invested in alternative assets markets.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/in_oarbt",
+      "linkedin": "https://linkedin.com/company/oarbt",
+      "facebook": "https://facebook.com/oarbt/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "ReferralMD",
+    "website": "https://getreferralmd.com/",
+    "description": "AI Platform combined with Comprehensive Patient Relationship Management (PRM) to improve end-to-end Cancer Screening Process",
+    "location": "Mount Pleasant, South Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ReferralMD",
+      "linkedin": "https://linkedin.com/company/referralmd",
+      "facebook": "https://facebook.com/Referralmd/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Fairsplit",
+    "website": "https://fairsplit.us/",
+    "description": "Protects your employees' financial wellness. Employees with severance protection don't have to worry about financial risk",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getfairsplit",
+      "linkedin": "https://linkedin.com/company/FairSplit"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "CityCop",
+    "website": "https://citycop.org/",
+    "description": "Social platform for community watch to fight crime.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/citycop_en",
+      "linkedin": "https://linkedin.com/company/citycop",
+      "facebook": "https://facebook.com/CitycopApp"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Frontline Gig",
+    "website": "https://frontlinegig.com/",
+    "description": "Making it easy to source vetted, entry level and semi-skilled hourly workers for cleanups, inspections and managing green assets.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gnm2roiv8ebolzmjghqc",
+    "location": "Norfolk, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FrontlineGig",
+      "linkedin": "https://linkedin.com/company/frontline-gig",
+      "facebook": "https://facebook.com/frontlinegig"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "EarthCare",
+    "website": "https://earthcare.ai/",
+    "description": "EarthCare.ai helps (re)insurances, real-estate, retail, finance & agriculture sectors get access to the most accurate historical and real-time environmental & climate data to bolster resilience.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/earthcareai",
+      "linkedin": "https://linkedin.com/company/earthcareai",
+      "facebook": "https://facebook.com/earthcareai"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Slighter",
+    "website": "https://slighter.com/",
+    "description": "Slighter is a behavioral change solution housed in a smart lighter and app that studies a smoker's habits and coaches them to reduce gradually until they quit.",
+    "location": "Bethesda, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Slighter",
+      "linkedin": "https://linkedin.com/company/slighter",
+      "facebook": "https://facebook.com/slighter/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Hero",
+    "website": "https://hero-app.com/",
+    "description": "Platform that reduces insurers' liability from drunk driving by providing bars/restaurants with a mobile solution that incentivizes customers to get home safely",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HEROappit",
+      "linkedin": "https://linkedin.com/company/herospace-app",
+      "facebook": "https://facebook.com/hero-app-1533884693518832"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "WalletCard",
+    "website": "https://mywalletcard.com/",
+    "description": "WalletCard is a collaborative compliance platform for issuing, tracking and managing verified occupational health & safety requirements.",
+    "location": "Delta, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/mywalletcard",
+      "linkedin": "https://linkedin.com/company/walletcard-inc",
+      "facebook": "https://facebook.com/mywalletcard"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "InterGen Data",
+    "website": "https://intergendata.com/",
+    "description": "AI platform that predicts Life Events and the economic impact that they may have on one's financial journey.",
+    "location": "Plano, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/InterGenData",
+      "linkedin": "https://linkedin.com/company/intergen-data-inc",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Haiphen",
+    "website": "https://haiphenai.com/",
+    "description": "Blockchain-enabled cyber security threat detection for enterprises.",
+    "location": "The Bronx, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pi42449346",
+      "linkedin": "https://linkedin.com/in/judesafo",
+      "facebook": "https://facebook.com/haiphenai"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Cancer Mutual",
+    "website": "https://cancerfoundation.org.za/",
+    "description": "Digital products - such as the risk assessment tool, the self-check reminders and walkthroughs - are built to raise awareness and help people reduce exposure to cancer risk factors, reaching over a million South Africans each month.",
+    "location": "Cape Town, South Africa",
+    "social_media": {},
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Infiltron Software Suite & Application",
+    "website": "https://infiltron.net/",
+    "description": "Infiltron is a proactive, real-time IoT cybersecurity solution.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ydc6wp4xjyjjb4wyj7je",
+    "location": "Warner Robins, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/InfiltronApp",
+      "linkedin": "https://linkedin.com/company/infiltron-software-suite",
+      "facebook": "https://facebook.com/pg/InfiltronApp"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Eat Sleep RIDE",
+    "website": "https://eatsleepride.com/",
+    "description": "EatSleepRIDE Motorcycle GPS is the best tracking, social + safety app for motorcycle riders.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/EatSleepRide",
+      "linkedin": "https://linkedin.com/company/eatsleepride",
+      "facebook": "https://facebook.com/ESR.cc"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "ConnectCareHero",
+    "website": "https://connectcarehero.com/",
+    "description": "A digital platform that powers social engagement, through live interactive programming to combat social isolation.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/connectcarehero",
+      "linkedin": "https://linkedin.com/company/connectcarehero",
+      "facebook": "https://facebook.com/connectcarehero/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Valid",
+    "website": "https://validit.ai/",
+    "description": "We are developing a technology that will allow you to perform a polygraph-like fraud detection test using only your smartphone.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/yossi-p-50a5baab"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "List Funding",
+    "website": "https://listfunding.com/",
+    "description": "LiST - Life Settlements Trading - is a Fintech startup transforming the secondary market of life insurance into an efficient market.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/We%20don't%20have%20a%20website.%20The%20link%20above%20is%20to%20our%20presentation.%20We%20didn't%20want%20to%20miss%20the%20registration%20deadline%20today.",
+      "linkedin": "https://linkedin.com/company/list-settlements"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Navut",
+    "website": "https://navut.com/",
+    "description": "Moving anywhere in the world should be as simple as moving around the corner.",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/realnavut",
+      "linkedin": "https://linkedin.com/company/navutinc",
+      "facebook": "https://facebook.com/realnavut"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "alvee",
+    "website": "https://alvee.io/",
+    "description": "AI-driven tools to advance health equity and improve health outcomes for all",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/alveehealth",
+      "linkedin": "https://linkedin.com/company/alveehealth",
+      "facebook": "https://facebook.com/people/Alvee/100071621914815/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Alli Connect",
+    "website": "https://thrivelution.com/",
+    "description": "Thrivelution solves for patient churn in mental health by increasing engagement and retention 2.5X. We achieve this by clinically matching Patients to Therapists using our intelligent matching SaaS solution.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kjonbz1tqlz5oasj4obj",
+    "location": "Snohomish, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thrivelution",
+      "linkedin": "https://linkedin.com/company/thrivelution",
+      "facebook": "https://facebook.com/Thrivelution/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Habit",
+    "website": "https://habit.io/",
+    "description": "Habit provides insurance products in the form of an API",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/habit_analytics",
+      "linkedin": "https://linkedin.com/company/habitskin",
+      "facebook": "https://facebook.com/habit.analytics"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "WiseDrive",
+    "website": "https://wisedrive.ee/",
+    "description": "Auto repair marketplace connecting car owners with trustworthy garages",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/aspknkotbhwagsqlzi0z",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/wisedrive",
+      "facebook": "https://facebook.com/WiseDriveEesti"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Lotic Labs",
+    "website": "https://loticlabs.com/",
+    "description": "Powering financial innovation for water and the environment.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/loticlabs",
+      "linkedin": "https://linkedin.com/company/lotic-labs"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "FIX HEALTH",
+    "website": "https://fix-health.com/",
+    "description": "An incremental behavior change engine that solves a variety of user engagement problems across multiple health verticals.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fix_outbreak",
+      "linkedin": "https://linkedin.com/company/fix-fitness-interactive-experience",
+      "facebook": "https://facebook.com/FitnessInteractiveExperience"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Aligned Business",
+    "website": "https://alignedbiz.com/",
+    "description": "A SaaS platform that allows insurers to create and deploy any insurance product to market in weeks instead of years at a fraction of the cost.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "twitter": "https://twitter.com/OrigamInsureTec",
+      "linkedin": "https://linkedin.com/company/aligned-business"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Towntalk Solutions",
+    "website": "https://towntalk-solutions.com/",
+    "description": "Towntalk is a data intelligence company that has built Africa's most robust Security Intelligence and Emergency Response Infrastructure.",
+    "location": "Claymont, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/towntalk-solutions"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Orakle Weather",
+    "website": "https://orakleweather.com/",
+    "description": "Rain insurance for outdoor experiences & holidays",
+    "location": "Paris, France",
+    "social_media": {},
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Carwyze",
+    "website": "https://carwyze.de/",
+    "description": "Carwyze is a car e-commerce startup with AI ML car buyout system, embedded financial & insurance products and car owner bundle subscription.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/repxwbt7vbgawmjlra9p",
+    "location": "Cottbus, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/carwyze"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Lambdai Space",
+    "website": "https://lambdai.space/",
+    "description": "We are democratizing access to remote monitoring for climate impact",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/evkiil0uzt3zodyawzyi",
+    "location": "Milano, Lombardy, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lambdai-space"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Sitata",
+    "website": "https://sitata.com/",
+    "description": "Sitata keeps your travels worry-free with real-time alerts about travel disruptions, one  and by con",
+    "location": "Kitchener, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/_sitata_",
+      "linkedin": "https://linkedin.com/company/5047857",
+      "facebook": "https://facebook.com/pages/Sitata/209329955832768"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "MotiSure",
+    "website": "https://motisure.com/",
+    "description": "MotiSure provides personal accident micro-insurance coverage services.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jfcsjt6xeuwxbkpbahjc",
+    "location": "Capitol Heights MD, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MotiSure",
+      "linkedin": "https://linkedin.com/company/motisure",
+      "facebook": "https://facebook.com/motisure/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Leadvolt",
+    "website": "https://leadvolt.com/",
+    "description": "Leadvolt helps insurance agents increase their sales by automating redundant tasks and increasing conversion rates.",
+    "location": "Coral Gables, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/jasonkillings"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "HomeRun IQ",
+    "website": "https://homeruniq.com/",
+    "description": "HomeRun IQ develops modern financial tools for real estate properties.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/edohgkuhas3cdupvn3re",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/homerun-iq"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Cryptive",
+    "website": "https://cryptive.io/",
+    "description": "An insurance provider, offering Captives-as-a-Service for Web3 businesses",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/b1cf38dymgenrc7jujjr",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cryptive-io"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "InclusionScore",
+    "website": "https://inclusioncorporation.com/",
+    "description": "InclusionScore | The Standard in D&I Insurance",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/inclusion-score"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "ForceField IO",
+    "website": "https://meetforcefield.com/",
+    "description": "APIs for verification and of streaming data.",
+    "location": "Red Bank, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ForceField_io",
+      "linkedin": "https://linkedin.com/company/meetforcefield"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Dependbuild",
+    "website": "https://dependbuild.com/",
+    "description": "Dependbuild is a SaaS platform revolutionizing risk management for infrastructure projects. Our solution empowers municipalities to efficiently identify, assess, and mitigate risks by leveraging advanced analytics and project-specific data. By automating the risk assessment process, dependbuild enhances decision-making, reduces project delays and costs, and ensures better outcomes for public infrastructure.",
+    "location": "Halifax, Nova Scotia, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dependbuild"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Cuvris Technologies",
+    "website": "https://cuvris.com/",
+    "description": "Reducing claims denials, increasing  healthcare practice revenue and streamlining operations with AI Agents",
+    "location": "Kitchener, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cuvris"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "SPEEQO",
+    "website": "https://speeqo.com/",
+    "description": "SPEEQO is speech analysis software for customer contact channels to optimise communication costs and tailor responses using emotion recognition technology.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/zalolotb4xn780x3auuo",
+    "location": "Hong Kong, Hong Kong",
+    "social_media": {
+      "twitter": "https://twitter.com/speeqocom",
+      "linkedin": "https://linkedin.com/company/speeqo",
+      "facebook": "https://facebook.com/speeqo"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Rate Pro",
+    "website": "https://pmiratepro.com/",
+    "description": "RatePro is a one stop shop for monthly expenses for homebuyers",
+    "location": "Overland Park, Kansas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pmiratepro"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Lukango",
+    "website": "https://lukango.com/",
+    "description": "Lukango provides custom insurance for small businesses.",
+    "location": "London, England, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/HelloLukango",
+      "linkedin": "https://linkedin.com/company/lukango",
+      "facebook": "https://facebook.com/HelloLukango"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Sloop",
+    "website": "https://sloop.ai/",
+    "description": "Sloop eliminates AI hallucinations by encoding your prompts with hypertokens, the GPS for LLMs that instantly upgrades the memory, reasoning, and privacy of your AI tools.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sloopfx"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Standd",
+    "website": "https://standd.io/",
+    "description": "A SaaS platform that connects lawyers and other knowledge workers to the data they need to work and collaborate strategically.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Standd_io",
+      "linkedin": "https://linkedin.com/company/standd"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Inspektlabs",
+    "website": "https://inspektlabs.com/",
+    "description": "Inspektlabs automates inspections of physical items with photos and videos",
+    "location": "New Castle, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/InspektlabsAI",
+      "linkedin": "https://linkedin.com/company/inspektlabs"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Aman",
+    "website": "https://liveaman.com/",
+    "description": "Supercharge Your Employee Health Benefits with Aman!",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/un2fewcmgodtmfei7njz",
+    "location": "Jakarta, Indonesia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/liveaman",
+      "facebook": "https://facebook.com/AMAN.EPAYMENT"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "SnapRefund",
+    "website": "https://snaprefund.io/",
+    "description": "For insurance businesses that have inefficient claims payment operations, SnapRefund streamlines the claim payment process to the delight of claims teams and their policyholders.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/snaprefund"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Driven",
+    "website": "https://paywithdriven.com/",
+    "description": "Driven is a payment platform that helps local governments, car insurance businesses, lawyers, and mobility companies increase their revenue and efficiency",
+    "location": "Farmington Hills, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ticketavengers1",
+      "linkedin": "https://linkedin.com/company/ticket-avengers",
+      "facebook": "https://facebook.com/TicketAvengers/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Firmus linxe",
+    "website": "https://linxe.com/",
+    "description": "Linxe offers payroll-based financial services to employees, such as salary advances, microloans, insurance, payments to give them control over their salaries",
+    "location": "Bogotá, Colombia",
+    "social_media": {
+      "twitter": "https://twitter.com/linxe17",
+      "linkedin": "https://linkedin.com/company/firmus-sas",
+      "facebook": "https://facebook.com/Linxe-Libranzas-en-L%C3%ADnea-442453749843827/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "SoleSafe",
+    "website": "https://solesafe.co/",
+    "description": "SoleSafe is an asset management platform for sneakers and other collectables.",
+    "location": "Saint Paul, Minnesota, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/solesafe",
+      "facebook": "https://facebook.com/solesafeco"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "OPTIMIZ",
+    "website": "https://optimiz.claims/",
+    "description": "Remote cargo inspections and claims automation platform.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/optimizclaims",
+      "linkedin": "https://linkedin.com/company/optimiz-claims",
+      "facebook": "https://facebook.com/optimiz.claims/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Fleri",
+    "website": "https://joinfleri.com/",
+    "description": "Empowering immigrants to take control of their financial lives.",
+    "location": "Columbus, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FleriHealth",
+      "linkedin": "https://linkedin.com/company/fleri",
+      "facebook": "https://facebook.com/joinfleri/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Augurisk",
+    "website": "https://augurisk.com/",
+    "description": "Augurisk helps mitigate crime and natural disaster risks anywhere in the US by providing predictive analysis and advanced risk scoring.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/augurisk",
+      "linkedin": "https://linkedin.com/company/augurisk",
+      "facebook": "https://facebook.com/Augurisknow/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Shur",
+    "website": "https://getshur.com/",
+    "description": "Shur is a B2B2C connecting the financial services industry to millions of Professionals with Student Loans. Our company-based financial wellness programs integrate alternative credit scoring, advice, insurance, and banking. Borrowers move from debt to wealth creation, while we build new revenue for banks and other financial institutions.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/shurco"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "LifeWeb 360",
+    "website": "https://lifeweb360.com/",
+    "description": "A unique digital space to honor those important in our lives in a way authentic to them.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lifeweb360",
+      "linkedin": "https://linkedin.com/company/lifeweb360",
+      "facebook": "https://facebook.com/lifeweb360"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Flat",
+    "website": "https://flathomecare.com/",
+    "description": "Subscription-based solution to ongoing home maintenance management.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tryflat",
+      "facebook": "https://facebook.com/flathomecare"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Afford Healthcare",
+    "website": "https://afford.health/",
+    "description": "For people that struggle to manage and pay their medical bills, we provide helpful services and financing options to make it easier.",
+    "location": "San Francisco, California, United States",
+    "social_media": {},
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Uils",
+    "website": "https://uils.la/",
+    "description": "We provide loans for mobility apps' drivers using their driving history as credit score.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vytiyv3xzhogclcupvcf",
+    "location": "Buenos Aires, Argentina",
+    "social_media": {
+      "twitter": "https://twitter.com/somosuils",
+      "linkedin": "https://linkedin.com/company/uilsla",
+      "facebook": "https://facebook.com/somosuils"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "ENGAIZ",
+    "website": "https://engaiz.com/",
+    "description": "Mitigating Digital Risk to Build Digital Trust",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/engaizit",
+      "linkedin": "https://linkedin.com/company/engaiz"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "RekFix",
+    "website": "https://rekfix.com/",
+    "description": "Using Generative AI to offer personalized, empathetic Accident Support.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rekfix"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Brolly Africa",
+    "website": "https://brolly.africa/",
+    "description": "Brolly provides flexible payment auto insurance for drivers in Africa. Commercial drivers get pay-weekly cover while salaried workers get pay-monthly cover.",
+    "location": "Liberty Twp, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/brolly_africa",
+      "linkedin": "https://linkedin.com/company/brolly-africa",
+      "facebook": "https://facebook.com/brolly.africa"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Utopia Global Wellness",
+    "website": "https://utopiaspaandglobalwellness.com/",
+    "description": "Welcome to Utopia Global Wellness (UGW) - Where Integrated Workplace Well-Being Meets Belonging--Worldwide! We are your B2B SaaS digital HR and retention partner, combating burnout while elevating employee health, happiness, and productivity on a global scale.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/utopiasgw",
+      "linkedin": "https://linkedin.com/company/utopiasgw",
+      "facebook": "https://facebook.com/UtopiaSGW/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "MyCover",
+    "website": "https://mycover.ai/",
+    "description": "Revolutionizing the way Africans experience insurance by embedding policies into their favorite products and services, all while simplifying claims processes",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/aov5n0ndit8qmak3hirv",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/MyCoverAI",
+      "linkedin": "https://linkedin.com/company/mycoverai",
+      "facebook": "https://facebook.com/MyCoverai-110360768263336"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Torod",
+    "website": "https://torod.co/",
+    "description": "Torod help merchants ship, track and manage returns from a single screen.",
+    "location": "Riyadh, Saudi Arabia",
+    "social_media": {
+      "twitter": "https://twitter.com/torodco",
+      "linkedin": "https://linkedin.com/company/torodco"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Autority",
+    "website": "https://autority.io/",
+    "description": "Autority is a consolidated payment platform for car owners.",
+    "location": "Quito, Ecuador",
+    "social_media": {
+      "twitter": "https://twitter.com/autority_io",
+      "linkedin": "https://linkedin.com/company/76914575",
+      "facebook": "https://facebook.com/autority.io"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Joust Labs",
+    "website": "https://joust.com/",
+    "description": "Joust simplifies financial management for entrepreneurs through a bank account, a merchant account, and PayArmour, an invoicing tool that guarantees payment.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/joustbanking",
+      "linkedin": "https://linkedin.com/company/joust-now",
+      "facebook": "https://facebook.com/joustnow"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Chapter",
+    "website": "https://askchapter.org/",
+    "description": "Chapter is the only unbiased and tech-enabled Medicare advisor.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/_perfectapp",
+      "linkedin": "https://linkedin.com/company/joinchapter",
+      "facebook": "https://facebook.com/ChapterMedicare"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Apostrophe",
+    "website": "https://apostrophehealth.com/",
+    "description": "An innovative health plan that saves self-insured employers up to 40% on their healthcare costs, while making their employees happier and healthier.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/apostrophehc",
+      "linkedin": "https://linkedin.com/company/apostrophe-inc.",
+      "facebook": "https://facebook.com/airstreamhealth/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Saeidan",
+    "website": "https://saeidan.com/",
+    "description": "Saeidan is on a mission to bring clarity and confidence to Medicare plan selection.",
+    "location": "Rancho Palos Verdes, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/clairecommunity",
+      "linkedin": "https://linkedin.com/company/saeidan",
+      "facebook": "https://facebook.com/clairecommunity"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "FirstDerm",
+    "website": "https://firstderm.com/",
+    "description": "Our first vertical is dermatology; First Derm provides the fastest and most convenient way to ask a board certified dermatologist about any of your skin concerns.",
+    "location": "Berkeley, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/firstderm",
+      "linkedin": "https://linkedin.com/company/idoc24",
+      "facebook": "https://facebook.com/firstderm"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Worthright",
+    "website": "https://linkedin.com/company/worthright",
+    "description": "Unlocking life insurance for older families #InsurTech #Consumer #Longevity",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/worthright"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Senscity",
+    "website": "https://linkedin.com/company/18592146",
+    "description": "Software as a Service that provides monitoring and evaluation of climate change's risks, impacts, and solutions across our cities",
+    "location": "Sydney, New South Wales, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/senscity_",
+      "linkedin": "https://linkedin.com/company/18592146"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Plum",
+    "website": "https://linkedin.com/company/3614314?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId%3A2592863651486775395841%2CVSRPtargetId%3A3614314%2CVSRPcmpt%3Aprimary",
+    "description": "The Plum Lightpad(tm) replaces your existing light switch and connects to your home's WiFi allowing you to control your lights directly from your smart phone while at home or away.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GetPlum",
+      "linkedin": "https://linkedin.com/company/3614314?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId%3A2592863651486775395841%2CVSRPtargetId%3A3614314%2CVSRPcmpt%3Aprimary",
+      "facebook": "https://facebook.com/ube.is.home"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Painless1099",
+    "website": "https://linkedin.com/company/painless1099",
+    "description": "Painless1099 is a smart bank account that automates tax withholding for independent contractors.",
+    "location": "Buffalo, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Painless1099",
+      "linkedin": "https://linkedin.com/company/painless1099",
+      "facebook": "https://facebook.com/painless1099/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Loadzpro",
+    "website": "https://linkedin.com/company/loadzpro",
+    "description": "Our Proprietary Technology Helps anyone with a Truck start making money in the $800 Billion Trucking Industry",
+    "location": "Covington, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/company/loadzpro",
+      "facebook": "https://facebook.com/Loadzpro"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Livelii",
+    "website": "https://linkedin.com/company/livelii",
+    "description": "Livelii helps independent workers by providing group health & dental benefits, RRSP investing, & planning for paid leave by allocating funds from their payments",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/HeyLivelii",
+      "linkedin": "https://linkedin.com/company/livelii",
+      "facebook": "https://facebook.com/wearelance"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Joany",
+    "website": "https://linkedin.com/company/joany",
+    "description": "Joany helps consumers select and buy optimal health insurance",
+    "location": "Pasadena, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HelloJoany",
+      "linkedin": "https://linkedin.com/company/joany",
+      "facebook": "https://facebook.com/hellojoany"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Jamii",
+    "website": "https://linkedin.com/company/edgepoint-company-limited",
+    "description": "Jamii is a mobile micro-health insurance company aimed at providing low-cost health insurance to the low income and informal sector from $1 per month.",
+    "location": "Dar es Salaam, Tanzania",
+    "social_media": {
+      "twitter": "https://twitter.com/jamiiafrica",
+      "linkedin": "https://linkedin.com/company/edgepoint-company-limited",
+      "facebook": "https://facebook.com/Jamii-860724210635388/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "HeyMojo",
+    "website": "https://linkedin.com/company/point-pick-up",
+    "description": "HeyMojo helps restaurants build personal, profitable and lasting relationships with their customers using truly personalized marketing and machine learning.",
+    "location": "Gurgaon, Haryana, India",
+    "social_media": {
+      "twitter": "https://twitter.com/heymojoai",
+      "linkedin": "https://linkedin.com/company/point-pick-up",
+      "facebook": "https://facebook.com/heymojoai"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Gather Data",
+    "website": "https://linkedin.com/company/gather-app-ltd",
+    "description": "Gather is a personalised web meeting platform shaped around your specific business needs.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gatherinsurance",
+      "linkedin": "https://linkedin.com/company/gather-app-ltd",
+      "facebook": "https://facebook.com/Gathercom/105367686164667"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Galaxy AI",
+    "website": "https://linkedin.com/company/nanotechgalaxy-inc",
+    "description": "Galaxy AI is an artificial intelligence B2B SaaSsolution which analyzes images and predicts damage and claim estimate for insurance carriers.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AIgalaxy",
+      "linkedin": "https://linkedin.com/company/nanotechgalaxy-inc",
+      "facebook": "https://facebook.com/pg/nanotechgalaxy/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "FitBliss",
+    "website": "https://linkedin.com/company/fitbliss",
+    "description": "FitBliss is a B2B software platform that connects wearable health data with work performance to optimize productivity in the workplace!",
+    "location": "San Jose, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fitblisscom",
+      "linkedin": "https://linkedin.com/company/fitbliss",
+      "facebook": "https://facebook.com/fitblisscom"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Enroll Hero",
+    "website": "https://linkedin.com/company/enrollhero",
+    "description": "Personalized recommendation engine empowering seniors to make smarter decisions in retirement, starting with Medicare health insurance.",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EnrollHero",
+      "linkedin": "https://linkedin.com/company/enrollhero",
+      "facebook": "https://facebook.com/enrollhero"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Control Tower",
+    "website": "https://linkedin.com/company/converge-industries-co",
+    "description": "Making it easy for companies to inspect buildings by using a drone.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/converge_co",
+      "linkedin": "https://linkedin.com/company/converge-industries-co"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Carma",
+    "website": "https://linkedin.com/company/carma-au",
+    "description": "Carma is a fully digital used car dealership, offering a large range of quality pre-owned vehicles at fixed prices, delivered to the home.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FreshCarHQ",
+      "linkedin": "https://linkedin.com/company/carma-au",
+      "facebook": "https://facebook.com/CARMA-107480824055160"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Atlas",
+    "website": "https://linkedin.com/company/project-atlas-app",
+    "description": "Atlas is committed to building a fairer world for Authors, creating delightful and inspiring reading experiences for book lovers.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/atlastogether",
+      "linkedin": "https://linkedin.com/company/project-atlas-app",
+      "facebook": "https://facebook.com/heyyatlass"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "MamaMend",
+    "website": "https://linkedin.com/company/mamamend",
+    "description": "MamaMend is the personalized companion for new parents that provides fast, relevant answers and curated connections to expert practitioners.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getMamaMend",
+      "linkedin": "https://linkedin.com/company/mamamend",
+      "facebook": "https://facebook.com/getMamaMend/"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  },
+  {
+    "name": "Fluffy",
+    "website": "https://linkedin.com/company/joinfluffy",
+    "description": "Fluffy help you be the best pet parent possible by leveraging your pet's data to recommend personalised educational content, pet-care products and insurance. Fluffy is loved by 10,000 users and counting!",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/riymdg4gjyktcndu2mh2",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/joinfluffy",
+      "linkedin": "https://linkedin.com/company/joinfluffy",
+      "facebook": "https://facebook.com/strelka.io"
+    },
+    "industry": "Insurtech",
+    "industry_slug": "insurtech"
+  }
+]

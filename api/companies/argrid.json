@@ -1,0 +1,22 @@
+{
+  "name": "ARGrid",
+  "slug": "argrid",
+  "website": "https://ar-grid.com/",
+  "description": "ARgrid is a marketplace for shopping using augmented reality. We partner with small businesses that don't have the resources to create 3D models of their products for online shopping and advertising. We build AR e-commerce stores for businesses and enable anyone to set up a top-notch AR e-commerce solution without needing to code.",
+  "one_liner": "ARgrid is a marketplace for shopping using augmented reality. We partner with small businesses that don't have the resources to create 3D models of their products for online shopping and advertising. We build AR e-commerce stores for businesses and enable anyone to set up a top-notch AR e-commerce solution without needing to code.",
+  "location": "Lodi, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/argrid"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/argrid",
+  "api": "/api/companies/argrid.json"
+}

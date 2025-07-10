@@ -1,0 +1,24 @@
+{
+  "name": "Validated",
+  "slug": "validated",
+  "website": "https://validated.co/",
+  "description": "Shop. Dine. We'll cover your ride",
+  "one_liner": "Shop. Dine. We'll cover your ride",
+  "location": "Seattle, Washington, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/get_validated",
+    "linkedin": "https://linkedin.com/company/validated",
+    "facebook": "https://facebook.com/getvalidated"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/validated",
+  "api": "/api/companies/validated.json"
+}

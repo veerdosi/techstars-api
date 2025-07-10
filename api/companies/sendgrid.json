@@ -1,0 +1,24 @@
+{
+  "name": "SendGrid",
+  "slug": "sendgrid",
+  "website": "https://sendgrid.com/",
+  "description": "SendGrid delivers your transactional and marketing emails through the world's largest cloud-based email delivery platform.",
+  "one_liner": "SendGrid delivers your transactional and marketing emails through the world's largest cloud-based email delivery platform.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Twilio",
+    "linkedin": "https://linkedin.com/company/sendgrid",
+    "facebook": "https://facebook.com/SendGrid"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sendgrid",
+  "api": "/api/companies/sendgrid.json"
+}

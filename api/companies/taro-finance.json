@@ -1,0 +1,22 @@
+{
+  "name": "Taro Finance",
+  "slug": "taro-finance",
+  "website": "https://tarofi.io/",
+  "description": "Taro Finance provides the infrastructure necessary to compliantly securitize real world assets as tokens on a blockchain to drive access, liquidity, and transparency in global capital markets.",
+  "one_liner": "Taro Finance provides the infrastructure necessary to compliantly securitize real world assets as tokens on a blockchain to drive access, liquidity, and transparency in global capital markets.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/tarofinance"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/taro-finance",
+  "api": "/api/companies/taro-finance.json"
+}

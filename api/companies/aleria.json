@@ -1,0 +1,24 @@
+{
+  "name": "Aleria",
+  "slug": "aleria",
+  "website": "https://aleria.tech/",
+  "description": "We measure inclusion in the workplace and pinpoint where organizations should focus to drive impact.",
+  "one_liner": "We measure inclusion in the workplace and pinpoint where organizations should focus to drive impact.",
+  "location": "New York City, New York, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AleriaPbc",
+    "linkedin": "https://linkedin.com/company/11058914",
+    "facebook": "https://facebook.com/aleriapbc/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/aleria",
+  "api": "/api/companies/aleria.json"
+}

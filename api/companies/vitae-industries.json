@@ -1,0 +1,23 @@
+{
+  "name": "Vitae Industries",
+  "slug": "vitae-industries",
+  "website": "https://linkedin.com/company/vitae-industries-inc",
+  "description": "Effortless tablet and gummy compounding through innovative automation and additive manufacturing",
+  "one_liner": "Effortless tablet and gummy compounding through innovative automation and additive manufacturing",
+  "location": "Providence, Rhode Island, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/vitae-industries-inc",
+    "facebook": "https://facebook.com/vitaeindustries/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vitae-industries",
+  "api": "/api/companies/vitae-industries.json"
+}

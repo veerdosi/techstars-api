@@ -1,0 +1,23 @@
+{
+  "name": "OLTA",
+  "slug": "olta",
+  "website": "https://olta.art/",
+  "description": "A platform and marketplace for interactive dynamic NFTs.",
+  "one_liner": "A platform and marketplace for interactive dynamic NFTs.",
+  "location": "Bristol, United Kingdom",
+  "industry": "Augmented reality",
+  "industry_slug": "augmented-reality",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/OltaArt",
+    "linkedin": "https://linkedin.com/company/olta-art"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/olta",
+  "api": "/api/companies/olta.json"
+}

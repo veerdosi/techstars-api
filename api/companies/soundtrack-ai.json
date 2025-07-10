@@ -1,0 +1,22 @@
+{
+  "name": "SoundTrack AI",
+  "slug": "soundtrack-ai",
+  "website": "https://soundtrackai.com/",
+  "description": "Soundtrack AI is a acoustics-based and AI-enabled Predictive Maintenance Platform.",
+  "one_liner": "Soundtrack AI is a acoustics-based and AI-enabled Predictive Maintenance Platform.",
+  "location": "Tel Aviv, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/soundtrack-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/soundtrack-ai",
+  "api": "/api/companies/soundtrack-ai.json"
+}

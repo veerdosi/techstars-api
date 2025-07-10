@@ -1,0 +1,23 @@
+{
+  "name": "Pium",
+  "slug": "pium",
+  "website": "https://linkedin.com/company/piumco",
+  "description": "Pium, a NYC-based startup, develops an IoT device for smart home fragrance with scent capsules.",
+  "one_liner": "Pium, a NYC-based startup, develops an IoT device for smart home fragrance with scent capsules.",
+  "location": "New York City, New York, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/piumco",
+    "facebook": "https://facebook.com/hellopium"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pium",
+  "api": "/api/companies/pium.json"
+}

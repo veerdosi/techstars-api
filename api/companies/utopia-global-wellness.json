@@ -1,0 +1,24 @@
+{
+  "name": "Utopia Global Wellness",
+  "slug": "utopia-global-wellness",
+  "website": "https://utopiaspaandglobalwellness.com/",
+  "description": "Welcome to Utopia Global Wellness (UGW) - Where Integrated Workplace Well-Being Meets Belonging--Worldwide! We are your B2B SaaS digital HR and retention partner, combating burnout while elevating employee health, happiness, and productivity on a global scale.",
+  "one_liner": "Welcome to Utopia Global Wellness (UGW) - Where Integrated Workplace Well-Being Meets Belonging--Worldwide! We are your B2B SaaS digital HR and retention partner, combating burnout while elevating employee health, happiness, and productivity on a global scale.",
+  "location": "Durham, North Carolina, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/utopiasgw",
+    "linkedin": "https://linkedin.com/company/utopiasgw",
+    "facebook": "https://facebook.com/UtopiaSGW/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/utopia-global-wellness",
+  "api": "/api/companies/utopia-global-wellness.json"
+}

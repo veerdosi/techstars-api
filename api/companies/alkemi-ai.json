@@ -1,0 +1,24 @@
+{
+  "name": "Alkemi AI",
+  "slug": "alkemi-ai",
+  "website": "https://alkemi.network/",
+  "description": "Decentralized Finance for Institutions",
+  "one_liner": "Decentralized Finance for Institutions",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AlkemiNetwork",
+    "linkedin": "https://linkedin.com/company/alkeminetwork",
+    "facebook": "https://facebook.com/AlkemiOfficial/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/alkemi-ai",
+  "api": "/api/companies/alkemi-ai.json"
+}

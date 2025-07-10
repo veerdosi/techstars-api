@@ -1,0 +1,24 @@
+{
+  "name": "MeetYourClass",
+  "slug": "meetyourclass",
+  "website": "https://meetyourclass.com/",
+  "description": "MeetYourClass is a social networking platform with 150,000+ users across 150+ colleges.",
+  "one_liner": "MeetYourClass is a social networking platform with 150,000+ users across 150+ colleges.",
+  "location": "Ann Arbor, Michigan, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/meetyourclass",
+    "linkedin": "https://linkedin.com/company/meet-your-class",
+    "facebook": "https://facebook.com/meetyourclasshq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/meetyourclass",
+  "api": "/api/companies/meetyourclass.json"
+}

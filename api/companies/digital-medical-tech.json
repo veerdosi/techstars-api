@@ -1,0 +1,24 @@
+{
+  "name": "Digital Medical Tech",
+  "slug": "digital-medical-tech",
+  "website": "https://digitalmedical.tech/",
+  "description": "Through mobile and wired solutions, we enable real-time mobile asset management of critical healthcare equipment both in the field and the facility.",
+  "one_liner": "Through mobile and wired solutions, we enable real-time mobile asset management of critical healthcare equipment both in the field and the facility.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/digitalmedtech",
+    "linkedin": "https://linkedin.com/company/digital-medical-consulting-group",
+    "facebook": "https://facebook.com/Digitalmedical/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/digital-medical-tech",
+  "api": "/api/companies/digital-medical-tech.json"
+}

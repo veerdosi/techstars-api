@@ -1,0 +1,24 @@
+{
+  "name": "SuccessionMatching",
+  "slug": "successionmatching",
+  "website": "https://successionmatching.com/",
+  "description": "An online community of business buyers, sellers, and succession planning professionals.",
+  "one_liner": "An online community of business buyers, sellers, and succession planning professionals.",
+  "location": "Moose Jaw, Saskatchewan, Canada",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sxnm",
+    "linkedin": "https://linkedin.com/company/succession-matching",
+    "facebook": "https://facebook.com/SuccessionMatching/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/successionmatching",
+  "api": "/api/companies/successionmatching.json"
+}

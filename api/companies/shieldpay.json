@@ -1,0 +1,24 @@
+{
+  "name": "Shieldpay",
+  "slug": "shieldpay",
+  "website": "https://shieldpay.com/",
+  "description": "Whether you're an individual or business, Shieldpay enables you to create an instant digital escrow facility with no set-up costs.",
+  "one_liner": "Whether you're an individual or business, Shieldpay enables you to create an instant digital escrow facility with no set-up costs.",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/shieldpay",
+    "linkedin": "https://linkedin.com/company/shieldpay",
+    "facebook": "https://facebook.com/shieldpayofficial"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/shieldpay",
+  "api": "/api/companies/shieldpay.json"
+}

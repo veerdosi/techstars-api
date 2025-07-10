@@ -1,0 +1,24 @@
+{
+  "name": "Attentive",
+  "slug": "attentive",
+  "website": "https://linkedin.com/company/attentive",
+  "description": "AI Assistant for Sales teams",
+  "one_liner": "AI Assistant for Sales teams",
+  "location": "Braga, Portugal",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/attentiveus",
+    "linkedin": "https://linkedin.com/company/attentive",
+    "facebook": "https://facebook.com/attentiveus"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/attentive",
+  "api": "/api/companies/attentive.json"
+}

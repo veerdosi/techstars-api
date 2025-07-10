@@ -1,0 +1,24 @@
+{
+  "name": "Inpathy",
+  "slug": "inpathy",
+  "website": "https://inpathy.co/",
+  "description": "Inpathy is a social app creating empathetic communities through transparency, normalizing moods, and recreating the human experience.",
+  "one_liner": "Inpathy is a social app creating empathetic communities through transparency, normalizing moods, and recreating the human experience.",
+  "location": "Detroit, Michigan, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Inpathyapp",
+    "linkedin": "https://linkedin.com/company/inpathy",
+    "facebook": "https://facebook.com/inpathy/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/inpathy",
+  "api": "/api/companies/inpathy.json"
+}

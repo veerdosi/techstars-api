@@ -1,0 +1,24 @@
+{
+  "name": "Performetry",
+  "slug": "performetry",
+  "website": "https://performetry.ai/",
+  "description": "Employee engagement platform for in-house, distributed, and remote teams | Real-time sentiment analysis for leadership and HR.",
+  "one_liner": "Employee engagement platform for in-house, distributed, and remote teams | Real-time sentiment analysis for leadership and HR.",
+  "location": "Dun Laoghaire, Dublin, Ireland",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/performetry",
+    "linkedin": "https://linkedin.com/company/perfometry",
+    "facebook": "https://facebook.com/performetryAI"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/performetry",
+  "api": "/api/companies/performetry.json"
+}

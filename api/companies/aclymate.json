@@ -1,0 +1,24 @@
+{
+  "name": "Aclymate",
+  "slug": "aclymate",
+  "website": "https://aclymate.com/",
+  "description": "Aclymate empowers small businesses to become Climate Leaders",
+  "one_liner": "Aclymate empowers small businesses to become Climate Leaders",
+  "location": "Denver, Colorado, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AclymateCarbon",
+    "linkedin": "https://linkedin.com/company/aclymate",
+    "facebook": "https://facebook.com/Aclymate/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/aclymate",
+  "api": "/api/companies/aclymate.json"
+}

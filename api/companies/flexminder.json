@@ -1,0 +1,24 @@
+{
+  "name": "FlexMinder",
+  "slug": "flexminder",
+  "website": "https://flexminder.com/",
+  "description": "Simplifying Flexible Spending",
+  "one_liner": "Simplifying Flexible Spending",
+  "location": "Seattle, Washington, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/flexminder",
+    "linkedin": "https://linkedin.com/company/flexminder",
+    "facebook": "https://facebook.com/FlexMinder"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/flexminder",
+  "api": "/api/companies/flexminder.json"
+}

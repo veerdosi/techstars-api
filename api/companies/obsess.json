@@ -1,0 +1,24 @@
+{
+  "name": "Obsess",
+  "slug": "obsess",
+  "website": "https://obsessvr.com/",
+  "description": "Platform for Experiential E-commerce",
+  "one_liner": "Platform for Experiential E-commerce",
+  "location": "New York City, New York, United States",
+  "industry": "Virtual reality",
+  "industry_slug": "virtual-reality",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/obsessVR",
+    "linkedin": "https://linkedin.com/company/obsess",
+    "facebook": "https://facebook.com/obsessar"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/obsess",
+  "api": "/api/companies/obsess.json"
+}

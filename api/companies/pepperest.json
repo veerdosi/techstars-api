@@ -1,0 +1,24 @@
+{
+  "name": "Pepperest",
+  "slug": "pepperest",
+  "website": "https://pepperest.com/",
+  "description": "A social commerce platform that allows merchants to set up, manage and grow businesses online using functional tools.",
+  "one_liner": "A social commerce platform that allows merchants to set up, manage and grow businesses online using functional tools.",
+  "location": "London, United Kingdom",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/usepeppa",
+    "linkedin": "https://linkedin.com/company/usepeppa",
+    "facebook": "https://facebook.com/peppa.io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pepperest",
+  "api": "/api/companies/pepperest.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Standd",
+  "slug": "standd",
+  "website": "https://standd.io/",
+  "description": "A SaaS platform that connects lawyers and other knowledge workers to the data they need to work and collaborate strategically.",
+  "one_liner": "A SaaS platform that connects lawyers and other knowledge workers to the data they need to work and collaborate strategically.",
+  "location": "Washington, District of Columbia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Standd_io",
+    "linkedin": "https://linkedin.com/company/standd"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/standd",
+  "api": "/api/companies/standd.json"
+}

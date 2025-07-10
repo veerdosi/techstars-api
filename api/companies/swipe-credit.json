@@ -1,0 +1,23 @@
+{
+  "name": "Swipe Credit",
+  "slug": "swipe-credit",
+  "website": "https://exploreswipe.com/",
+  "description": "Advanced analytics and AI-driven alternative credit scoring for deeper insights, stronger forecasts, and better credit decisions.",
+  "one_liner": "Advanced analytics and AI-driven alternative credit scoring for deeper insights, stronger forecasts, and better credit decisions.",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/CreditSwipe",
+    "linkedin": "https://linkedin.com/company/swipe-credit"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/swipe-credit",
+  "api": "/api/companies/swipe-credit.json"
+}

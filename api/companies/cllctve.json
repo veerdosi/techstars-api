@@ -1,0 +1,24 @@
+{
+  "name": "CLLCTVE",
+  "slug": "cllctve",
+  "website": "https://cllctve.com/",
+  "description": "CLLCTVE is the premiere talent marketplace connecting college creators with brands targeting Gen-Z consumers.",
+  "one_liner": "CLLCTVE is the premiere talent marketplace connecting college creators with brands targeting Gen-Z consumers.",
+  "location": "Syracuse, New York, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/cllctve",
+    "linkedin": "https://linkedin.com/company/cllctve",
+    "facebook": "https://facebook.com/cllctveagency/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cllctve",
+  "api": "/api/companies/cllctve.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "OE Systems AB",
+  "slug": "oe-systems-ab",
+  "website": "https://oe-systems.com/",
+  "description": "A product and service company that delivers our own commercial wave energy solution that focuses on being installed in parallel with offshore wind turbines to enable increased production.",
+  "one_liner": "A product and service company that delivers our own commercial wave energy solution that focuses on being installed in parallel with offshore wind turbines to enable increased production.",
+  "location": "Göteborg, Sweden",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/oe-systems-ab"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/oe-systems-ab",
+  "api": "/api/companies/oe-systems-ab.json"
+}

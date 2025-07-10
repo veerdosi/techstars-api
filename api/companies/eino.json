@@ -1,0 +1,24 @@
+{
+  "name": "EINO",
+  "slug": "eino",
+  "website": "https://eino.ai/",
+  "description": "Eino, the pioneer in AI solutions for consumer and enterprise network management offers a cloud-based platform for automated and efficient 4G and 5G capacity planning and orchestration.",
+  "one_liner": "Eino, the pioneer in AI solutions for consumer and enterprise network management offers a cloud-based platform for automated and efficient 4G and 5G capacity planning and orchestration.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rm16egspkamacuekykkr",
+  "social_media": {
+    "twitter": "https://twitter.com/eino_inc",
+    "linkedin": "https://linkedin.com/company/eino",
+    "facebook": "https://facebook.com/eino.social/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/eino",
+  "api": "/api/companies/eino.json"
+}

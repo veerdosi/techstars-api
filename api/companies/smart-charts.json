@@ -1,0 +1,24 @@
+{
+  "name": "SMART Charts",
+  "slug": "smart-charts",
+  "website": "https://mysmartcharts.com/",
+  "description": "SMARTCharts helps clinicians spend less time documenting and more time with patients.",
+  "one_liner": "SMARTCharts helps clinicians spend less time documenting and more time with patients.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rqvilabaomptaqiocb5i",
+  "social_media": {
+    "twitter": "https://twitter.com/mysmartcharts",
+    "linkedin": "https://linkedin.com/company/smart-charts",
+    "facebook": "https://facebook.com/mysmartcharts"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/smart-charts",
+  "api": "/api/companies/smart-charts.json"
+}

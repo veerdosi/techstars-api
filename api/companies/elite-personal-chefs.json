@@ -1,0 +1,24 @@
+{
+  "name": "Elite Personal Chefs",
+  "slug": "elite-personal-chefs",
+  "website": "https://elitepersonalchefs.com/",
+  "description": "Elite Personal Chefs is a technology platform enabling chefs to take control of their personal and financial independence",
+  "one_liner": "Elite Personal Chefs is a technology platform enabling chefs to take control of their personal and financial independence",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/elitepchefs",
+    "linkedin": "https://linkedin.com/company/elite-personal-chefs-llc",
+    "facebook": "https://facebook.com/elitepersonalchefs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/elite-personal-chefs",
+  "api": "/api/companies/elite-personal-chefs.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Surmount",
+  "slug": "surmount",
+  "website": "https://surmount.ai/",
+  "description": "Portfolio automation for any investor, regardless of account size or experience, using machine learning AI, algorithmic strategies, and copy trading",
+  "one_liner": "Portfolio automation for any investor, regardless of account size or experience, using machine learning AI, algorithmic strategies, and copy trading",
+  "location": "Havre de Grace, Maryland, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Surmountai",
+    "linkedin": "https://linkedin.com/company/surmountai",
+    "facebook": "https://facebook.com/SurmountFinanceUS"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/surmount",
+  "api": "/api/companies/surmount.json"
+}

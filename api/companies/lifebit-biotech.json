@@ -1,0 +1,24 @@
+{
+  "name": "Lifebit Biotech",
+  "slug": "lifebit-biotech",
+  "website": "https://lifebit.ai/",
+  "description": "LifeBit enables companies to do DNA analysis at scale.",
+  "one_liner": "LifeBit enables companies to do DNA analysis at scale.",
+  "location": "London, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/lifebitAI",
+    "linkedin": "https://linkedin.com/company/lifebit-ai",
+    "facebook": "https://facebook.com/lifebitAI/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lifebit-biotech",
+  "api": "/api/companies/lifebit-biotech.json"
+}

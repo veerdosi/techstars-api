@@ -1,0 +1,24 @@
+{
+  "name": "Volta",
+  "slug": "volta",
+  "website": "https://volta-xr.com/",
+  "description": "Volta is a self-serve, free-to-use platform that lets creators and artists design and broadcast a 3D world in minutes, that comes alive as they perform.",
+  "one_liner": "Volta is a self-serve, free-to-use platform that lets creators and artists design and broadcast a 3D world in minutes, that comes alive as they perform.",
+  "location": "London, United Kingdom",
+  "industry": "Virtual reality",
+  "industry_slug": "virtual-reality",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/experiencevolta",
+    "linkedin": "https://linkedin.com/company/volta-capital",
+    "facebook": "https://facebook.com/ExperienceVolta"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/volta",
+  "api": "/api/companies/volta.json"
+}

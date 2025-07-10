@@ -1,0 +1,24 @@
+{
+  "name": "Skiptown",
+  "slug": "skiptown",
+  "website": "https://skiptown.io/",
+  "description": "Trusted care for busy people who love their pets. We're launching the first ever tech-infused dog bar, social hub and pet care facility. skiptownclt.com",
+  "one_liner": "Trusted care for busy people who love their pets. We're launching the first ever tech-infused dog bar, social hub and pet care facility. skiptownclt.com",
+  "location": "Charlotte, North Carolina, United States",
+  "industry": "Manufacturing",
+  "industry_slug": "manufacturing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/skiptownclt",
+    "linkedin": "https://linkedin.com/company/skipper-pets",
+    "facebook": "https://facebook.com/skiptownclt"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/skiptown",
+  "api": "/api/companies/skiptown.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Ranked® Media & Technologies",
+  "slug": "ranked-media-technologies",
+  "website": "https://ranked.technology/",
+  "description": "We connect Brands to Creators, unlocking potential and amplifying authenticity.",
+  "one_liner": "We connect Brands to Creators, unlocking potential and amplifying authenticity.",
+  "location": "Sherman Oaks, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Rankedmediatech",
+    "linkedin": "https://linkedin.com/company/18629907"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ranked-media-technologies",
+  "api": "/api/companies/ranked-media-technologies.json"
+}

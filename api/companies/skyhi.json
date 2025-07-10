@@ -1,0 +1,24 @@
+{
+  "name": "SkyHi",
+  "slug": "skyhi",
+  "website": "https://linkedin.com/company/10526613",
+  "description": "SkyHi is the first on-demand service for commercial airline tickets",
+  "one_liner": "SkyHi is the first on-demand service for commercial airline tickets",
+  "location": "Apple Valley, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/skyhi",
+    "linkedin": "https://linkedin.com/company/10526613",
+    "facebook": "https://facebook.com/travelskyhi"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/skyhi",
+  "api": "/api/companies/skyhi.json"
+}

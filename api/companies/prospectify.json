@@ -1,0 +1,24 @@
+{
+  "name": "Prospectify",
+  "slug": "prospectify",
+  "website": "https://prospectify.io/",
+  "description": "Prospectify is the new standard of intelligence for data-driven revenue teams. Account-based intelligence that's automated but personalized.",
+  "one_liner": "Prospectify is the new standard of intelligence for data-driven revenue teams. Account-based intelligence that's automated but personalized.",
+  "location": "Scottsdale, Arizona, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/prospectify",
+    "linkedin": "https://linkedin.com/company/prospectify",
+    "facebook": "https://facebook.com/prospectify"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/prospectify",
+  "api": "/api/companies/prospectify.json"
+}

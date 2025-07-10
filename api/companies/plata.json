@@ -1,0 +1,20 @@
+{
+  "name": "Plata",
+  "slug": "plata",
+  "website": "https://conplata.com/",
+  "description": "Plata is a financial technology company and not a bank with a Silver facilitates access to banking services from a partner bank.",
+  "one_liner": "Plata is a financial technology company and not a bank with a Silver facilitates access to banking services from a partner bank.",
+  "location": "Miami, Florida, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/plata",
+  "api": "/api/companies/plata.json"
+}

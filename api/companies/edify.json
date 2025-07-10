@@ -1,0 +1,24 @@
+{
+  "name": "Edify",
+  "slug": "edify",
+  "website": "https://linkedin.com/pub/andrew-friday",
+  "description": "Edify is the frictionless way to onboard software engineers.",
+  "one_liner": "Edify is the frictionless way to onboard software engineers.",
+  "location": "Portland, Oregon, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/tnlvlfk1mcsu2nms6hik",
+  "social_media": {
+    "twitter": "https://twitter.com/edifyonboard",
+    "linkedin": "https://linkedin.com/pub/andrew-friday",
+    "facebook": "https://facebook.com/Edify.cx/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/edify",
+  "api": "/api/companies/edify.json"
+}

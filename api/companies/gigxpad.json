@@ -1,0 +1,24 @@
+{
+  "name": "GIGXPAD",
+  "slug": "gigxpad",
+  "website": "https://gigxpad.com/",
+  "description": "GIGXPAD is a full service digital asset and cross-border payment platform that focuses on simplifying the process of saving, investing and spending digital assests",
+  "one_liner": "GIGXPAD is a full service digital asset and cross-border payment platform that focuses on simplifying the process of saving, investing and spending digital assests",
+  "location": "Lagos, Nigeria",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wc67dr09rbyuc1puazng",
+  "social_media": {
+    "twitter": "https://twitter.com/gigxpad",
+    "linkedin": "https://linkedin.com/company/gigx-technologies",
+    "facebook": "https://facebook.com/gigxpad/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gigxpad",
+  "api": "/api/companies/gigxpad.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "AlgoPay",
+  "slug": "algopay",
+  "website": "https://linkedin.com/company/algo-pay",
+  "description": "AlgoPay is a payment solution for online businesses in cash economies, starting in the Middle East where there's over $1.3T handled in cash. Think: Stripe, for",
+  "one_liner": "AlgoPay is a payment solution for online businesses in cash economies, starting in the Middle East where there's over $1.3T handled in cash. Think: Stripe, for",
+  "location": "Los Angeles, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/algopay_io",
+    "linkedin": "https://linkedin.com/company/algo-pay",
+    "facebook": "https://facebook.com/algopay.io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/algopay",
+  "api": "/api/companies/algopay.json"
+}

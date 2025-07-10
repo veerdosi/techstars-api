@@ -1,0 +1,23 @@
+{
+  "name": "Scrimmage",
+  "slug": "scrimmage",
+  "website": "https://blog.scrimmage.co/",
+  "description": "Scrimmage is an app that helps sports bettors gain an edge by sourcing the best odds in the market, automatically syncing their real betting history, providing instant access to price changing news, and allowing for actionable notifications when prices sh",
+  "one_liner": "Scrimmage is an app that helps sports bettors gain an edge by sourcing the best odds in the market, automatically syncing their real betting history, providing instant access to price changing news, and allowing for actionable notifications when prices sh",
+  "location": "Del Valle, Texas, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Scrimsports",
+    "linkedin": "https://linkedin.com/company/71709659"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/scrimmage",
+  "api": "/api/companies/scrimmage.json"
+}

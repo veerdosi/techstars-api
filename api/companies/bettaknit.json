@@ -1,0 +1,22 @@
+{
+  "name": "BETTAKNIT",
+  "slug": "bettaknit",
+  "website": "https://bettaknit.com/",
+  "description": "A community-based approach to rethinking DIY sustainable knitting",
+  "one_liner": "A community-based approach to rethinking DIY sustainable knitting",
+  "location": "Prato, Prato, Italy",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/bettaknit"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bettaknit",
+  "api": "/api/companies/bettaknit.json"
+}

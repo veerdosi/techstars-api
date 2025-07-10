@@ -1,0 +1,24 @@
+{
+  "name": "Cargofive",
+  "slug": "cargofive",
+  "website": "https://cargofive.com/",
+  "description": "E-Pricing & Sales automation software for container shipping.",
+  "one_liner": "E-Pricing & Sales automation software for container shipping.",
+  "location": "Lisbon, Portugal",
+  "industry": "Mobility tech",
+  "industry_slug": "mobility-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/cargofive",
+    "linkedin": "https://linkedin.com/company/cargofive",
+    "facebook": "https://facebook.com/cargofive"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cargofive",
+  "api": "/api/companies/cargofive.json"
+}

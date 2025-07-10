@@ -1,0 +1,23 @@
+{
+  "name": "Oceanviews",
+  "slug": "oceanviews",
+  "website": "https://oceanviews.ai/",
+  "description": "Our flagship product Oceanviews AI helps visionary financial leaders navigate financial uncertainty and achieve exceptional market insight, resulting in sustainable revenue growth by leveraging Data Analytics and Artificial Intelligence.",
+  "one_liner": "Our flagship product Oceanviews AI helps visionary financial leaders navigate financial uncertainty and achieve exceptional market insight, resulting in sustainable revenue growth by leveraging Data Analytics and Artificial Intelligence.",
+  "location": "Lawrenceville, Georgia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/oceanviews-ai",
+    "facebook": "https://facebook.com/dillondigitalsllc/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/oceanviews",
+  "api": "/api/companies/oceanviews.json"
+}

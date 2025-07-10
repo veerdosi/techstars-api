@@ -1,0 +1,22 @@
+{
+  "name": "Veend",
+  "slug": "veend",
+  "website": "https://veendhq.com/",
+  "description": "Veend enables financial institutions and merchants to easily embed credit into various ecosystems profitably and at scale.",
+  "one_liner": "Veend enables financial institutions and merchants to easily embed credit into various ecosystems profitably and at scale.",
+  "location": "Sheridan, Wyoming, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/sd6mjuw6ouaf9frvztzy",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/veendhq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/veend",
+  "api": "/api/companies/veend.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Craftmerce",
+  "slug": "craftmerce",
+  "website": "https://craftmerce.com/",
+  "description": "Craftmerce is a B2B wholesale marketplace platform that leverages AI to connect mainstream global retailers to African handcrafted brands.",
+  "one_liner": "Craftmerce is a B2B wholesale marketplace platform that leverages AI to connect mainstream global retailers to African handcrafted brands.",
+  "location": "Middletown, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/craftmerce",
+    "linkedin": "https://linkedin.com/company/craftmerce",
+    "facebook": "https://facebook.com/craftmerce"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/craftmerce",
+  "api": "/api/companies/craftmerce.json"
+}

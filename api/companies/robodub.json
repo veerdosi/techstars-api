@@ -1,0 +1,24 @@
+{
+  "name": "Robodub",
+  "slug": "robodub",
+  "website": "https://robodub.com/",
+  "description": "We are a drone company developing high performance drones that has better agility, maneuverability, safety, and load-balancing capacity.",
+  "one_liner": "We are a drone company developing high performance drones that has better agility, maneuverability, safety, and load-balancing capacity.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/robodubinc",
+    "linkedin": "https://linkedin.com/company/robodub-inc-",
+    "facebook": "https://facebook.com/robodubinc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/robodub",
+  "api": "/api/companies/robodub.json"
+}

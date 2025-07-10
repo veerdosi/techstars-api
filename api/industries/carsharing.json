@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Riders Share",
+    "website": "https://riders-share.com/",
+    "description": "Airbnb for motorcycles: the first U.S. peer-to-peer motorcycle rental marketplace. Motorcycle sharing.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RidersShare",
+      "linkedin": "https://linkedin.com/company/ridersshare",
+      "facebook": "https://facebook.com/ridersshare"
+    },
+    "industry": "Carsharing",
+    "industry_slug": "carsharing"
+  },
+  {
+    "name": "Carré Mobility",
+    "website": "https://carre-mobility.de/",
+    "description": "Carre Mobility offers shared mobility solutions for the housing industry, saving space and costs.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hmvtsb5nb1gkidbghmta",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/carr%C3%A9-mobility",
+      "facebook": "https://facebook.com/CarreMobility"
+    },
+    "industry": "Carsharing",
+    "industry_slug": "carsharing"
+  },
+  {
+    "name": "Sikili",
+    "website": "https://sikili.io/",
+    "description": "Twende is a platform that offers reliable shared transport",
+    "location": "Lyon, France",
+    "social_media": {
+      "twitter": "https://twitter.com/AppTwende",
+      "linkedin": "https://linkedin.com/company/twende-app",
+      "facebook": "https://facebook.com/people/Twende/100086060708765"
+    },
+    "industry": "Carsharing",
+    "industry_slug": "carsharing"
+  },
+  {
+    "name": "Teporto",
+    "website": "https://linkedin.com/company/teporto",
+    "description": "Cloud-based commuting solution that manages shuttles with adaptive routes for employers and cities",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Teporto_Commute",
+      "linkedin": "https://linkedin.com/company/teporto"
+    },
+    "industry": "Carsharing",
+    "industry_slug": "carsharing"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "Trainizi",
+  "slug": "trainizi",
+  "website": "https://trainizi.com/",
+  "description": "Trainizi is an interactive micro-learning mobile platform maximizing engagement for training deskless employees powered by Gamification & AI.",
+  "one_liner": "Trainizi is an interactive micro-learning mobile platform maximizing engagement for training deskless employees powered by Gamification & AI.",
+  "location": "Singapore, Singapore",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/trainizi",
+    "facebook": "https://facebook.com/trainizisoftware"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/trainizi",
+  "api": "/api/companies/trainizi.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Wheeli",
+  "slug": "wheeli",
+  "website": "https://linkedin.com/company/wheeli",
+  "description": "Wheeli is the carpooling app for college students. Think of it as the Airbnb for the empty car seats on the road - 80% of which are empty when people drive.",
+  "one_liner": "Wheeli is the carpooling app for college students. Think of it as the Airbnb for the empty car seats on the road - 80% of which are empty when people drive.",
+  "location": "New York City, New York, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/wheeliofficial",
+    "linkedin": "https://linkedin.com/company/wheeli",
+    "facebook": "https://facebook.com/wheeliofficial/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/wheeli",
+  "api": "/api/companies/wheeli.json"
+}

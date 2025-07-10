@@ -1,0 +1,22 @@
+{
+  "name": "Creativo",
+  "slug": "creativo",
+  "website": "https://creativo.ai/",
+  "description": "Creativo is a revolutionary AI that replaces your entire marketing department. Our platform crafts compelling campaigns, optimizes engagement, and delivers data-driven results--without the overhead of a traditional team. Scale rapidly, cut costs, and outperform competitors with intelligent automation that handles everything from creative content to analytics. Welcome to the future of marketing.",
+  "one_liner": "Creativo is a revolutionary AI that replaces your entire marketing department. Our platform crafts compelling campaigns, optimizes engagement, and delivers data-driven results--without the overhead of a traditional team. Scale rapidly, cut costs, and outperform competitors with intelligent automation that handles everything from creative content to analytics. Welcome to the future of marketing.",
+  "location": "Tulsa, Oklahoma, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/creativo-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/creativo",
+  "api": "/api/companies/creativo.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Pantheon Design",
+  "slug": "pantheon-design",
+  "website": "https://pantheondesign.com/",
+  "description": "Building reliable and maintainable 3D printers five times the speed of the competition.",
+  "one_liner": "Building reliable and maintainable 3D printers five times the speed of the competition.",
+  "location": "Vancouver, British Columbia, Canada",
+  "industry": "Manufacturing",
+  "industry_slug": "manufacturing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/dgpsw1ogzl1j8bczgewq",
+  "social_media": {
+    "twitter": "https://twitter.com/PantheonDesign_",
+    "linkedin": "https://linkedin.com/company/pantheon-design-ltd"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pantheon-design",
+  "api": "/api/companies/pantheon-design.json"
+}

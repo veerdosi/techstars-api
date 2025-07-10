@@ -1,0 +1,24 @@
+{
+  "name": "Pathgather",
+  "slug": "pathgather",
+  "website": "https://pathgather.com/",
+  "description": "Employee-driven enterprise learning",
+  "one_liner": "Employee-driven enterprise learning",
+  "location": "Sacramento, California, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/pathgather",
+    "linkedin": "https://linkedin.com/company/2906237",
+    "facebook": "https://facebook.com/Pathgather"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pathgather",
+  "api": "/api/companies/pathgather.json"
+}

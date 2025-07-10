@@ -1,0 +1,20 @@
+{
+  "name": "Rubilabs",
+  "slug": "rubilabs",
+  "website": "https://rubilabs.com/",
+  "description": "RVS is Africa's largest livestock marketplace. We provide everything a livestock farmer needs for poultry, ruminants & fish farming.",
+  "one_liner": "RVS is Africa's largest livestock marketplace. We provide everything a livestock farmer needs for poultry, ruminants & fish farming.",
+  "location": "San Francisco, California, United States",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rubilabs",
+  "api": "/api/companies/rubilabs.json"
+}

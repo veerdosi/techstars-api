@@ -1,0 +1,24 @@
+{
+  "name": "EzSec",
+  "slug": "ezsec",
+  "website": "https://ezsec.org/",
+  "description": "Previous Name: EzSec",
+  "one_liner": "Previous Name: EzSec",
+  "location": "Kitchener, Ontario, Canada",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ezsecorg",
+    "linkedin": "https://linkedin.com/company/ezsec",
+    "facebook": "https://facebook.com/ezsecorg/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ezsec",
+  "api": "/api/companies/ezsec.json"
+}

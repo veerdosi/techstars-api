@@ -1,0 +1,24 @@
+{
+  "name": "Sportsy",
+  "slug": "sportsy",
+  "website": "https://linkedin.com/company/sportsy",
+  "description": "Mobile education and training for sports",
+  "one_liner": "Mobile education and training for sports",
+  "location": "Birmingham, Alabama, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sportsy",
+    "linkedin": "https://linkedin.com/company/sportsy",
+    "facebook": "https://facebook.com/besportsy/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sportsy",
+  "api": "/api/companies/sportsy.json"
+}

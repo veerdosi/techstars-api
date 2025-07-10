@@ -1,0 +1,24 @@
+{
+  "name": "Artboard Studio",
+  "slug": "artboard-studio",
+  "website": "https://artboard.studio/",
+  "description": "Artboard Studio is an online graphic design and animation platform for digital branding and content creation.",
+  "one_liner": "Artboard Studio is an online graphic design and animation platform for digital branding and content creation.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/artboard_studio",
+    "linkedin": "https://linkedin.com/company/artboard-studio",
+    "facebook": "https://facebook.com/artboardstudio"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/artboard-studio",
+  "api": "/api/companies/artboard-studio.json"
+}

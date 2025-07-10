@@ -1,0 +1,23 @@
+{
+  "name": "Frame Health",
+  "slug": "frame-health",
+  "website": "https://linkedin.com/company/frame-health",
+  "description": "Frame Health identifies & diagnoses high cost non-adherent patients and prescribes tailored  treatment plans that improve adherence and outcome, and save money.",
+  "one_liner": "Frame Health identifies & diagnoses high cost non-adherent patients and prescribes tailored  treatment plans that improve adherence and outcome, and save money.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/FrameHealth",
+    "linkedin": "https://linkedin.com/company/frame-health"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/frame-health",
+  "api": "/api/companies/frame-health.json"
+}

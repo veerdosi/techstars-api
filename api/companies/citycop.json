@@ -1,0 +1,24 @@
+{
+  "name": "CityCop",
+  "slug": "citycop",
+  "website": "https://citycop.org/",
+  "description": "Social platform for community watch to fight crime.",
+  "one_liner": "Social platform for community watch to fight crime.",
+  "location": "San Francisco, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/citycop_en",
+    "linkedin": "https://linkedin.com/company/citycop",
+    "facebook": "https://facebook.com/CitycopApp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/citycop",
+  "api": "/api/companies/citycop.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Adomo Health",
+  "slug": "adomo-health",
+  "website": "https://adomohealth.com/",
+  "description": "Adomo Health enables doctors to conveniently send advanced diagnostic testing such as x-ray, ultrasound, and EKG to be done on-demand in patients' homes, reducing the need for unnecessary emergency room visits.",
+  "one_liner": "Adomo Health enables doctors to conveniently send advanced diagnostic testing such as x-ray, ultrasound, and EKG to be done on-demand in patients' homes, reducing the need for unnecessary emergency room visits.",
+  "location": "New York City, New York, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/adomo-health"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/adomo-health",
+  "api": "/api/companies/adomo-health.json"
+}

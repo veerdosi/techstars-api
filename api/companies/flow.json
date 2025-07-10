@@ -1,0 +1,24 @@
+{
+  "name": "Flow",
+  "slug": "flow",
+  "website": "https://flow.ai/",
+  "description": "Professional tools to develop, deploy and manage Alexa skills and Google Home actions without coding.",
+  "one_liner": "Professional tools to develop, deploy and manage Alexa skills and Google Home actions without coding.",
+  "location": "Tilburg, Netherlands",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/theflowai",
+    "linkedin": "https://linkedin.com/company/10631684",
+    "facebook": "https://facebook.com/theflowai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/flow",
+  "api": "/api/companies/flow.json"
+}

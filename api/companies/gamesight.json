@@ -1,0 +1,24 @@
+{
+  "name": "Gamesight",
+  "slug": "gamesight",
+  "website": "https://gamesight.io/",
+  "description": "Connecting players to games.",
+  "one_liner": "Connecting players to games.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/innervateinc",
+    "linkedin": "https://linkedin.com/company/gamesight",
+    "facebook": "https://facebook.com/GamesightIO"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gamesight",
+  "api": "/api/companies/gamesight.json"
+}

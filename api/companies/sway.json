@@ -1,0 +1,24 @@
+{
+  "name": "Sway",
+  "slug": "sway",
+  "website": "https://linkedin.com/company/sway-inc-",
+  "description": "Sway is a software development company.",
+  "one_liner": "Sway is a software development company.",
+  "location": "Greensboro, North Carolina, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/swaymd",
+    "linkedin": "https://linkedin.com/company/sway-inc-",
+    "facebook": "https://facebook.com/swayhealth/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sway",
+  "api": "/api/companies/sway.json"
+}

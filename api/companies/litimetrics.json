@@ -1,0 +1,24 @@
+{
+  "name": "Litimetrics",
+  "slug": "litimetrics",
+  "website": "https://litimetrics.com/",
+  "description": "Litimetrics empowers attorneys and general counsel to make better data-driven decisions by structuring data from millions of court records.",
+  "one_liner": "Litimetrics empowers attorneys and general counsel to make better data-driven decisions by structuring data from millions of court records.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/litimetrics",
+    "linkedin": "https://linkedin.com/company/litimetrics",
+    "facebook": "https://facebook.com/litimetrics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/litimetrics",
+  "api": "/api/companies/litimetrics.json"
+}

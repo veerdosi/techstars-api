@@ -1,0 +1,24 @@
+{
+  "name": "Codiga",
+  "slug": "codiga",
+  "website": "https://codiga.io/",
+  "description": "Grammarly for code, helping developers write better code faster.",
+  "one_liner": "Grammarly for code, helping developers write better code faster.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/code_inspector",
+    "linkedin": "https://linkedin.com/company/code-inspector",
+    "facebook": "https://facebook.com/getcodiga"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/codiga",
+  "api": "/api/companies/codiga.json"
+}

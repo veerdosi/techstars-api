@@ -1,0 +1,22 @@
+{
+  "name": "Kodex AI",
+  "slug": "kodex-ai",
+  "website": "https://kodex-ai.com/",
+  "description": "Ensures that data scientists can focus on building responsible AI by automating assessment, risk mitigation and compliance of AI systems.",
+  "one_liner": "Ensures that data scientists can focus on building responsible AI by automating assessment, risk mitigation and compliance of AI systems.",
+  "location": "Berlin, Germany",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/kodexai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kodex-ai",
+  "api": "/api/companies/kodex-ai.json"
+}

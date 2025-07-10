@@ -1,0 +1,24 @@
+{
+  "name": "Trelora",
+  "slug": "trelora",
+  "website": "https://trelora.com/",
+  "description": "Offers commission-free, full-service real estate transactions and brings the process online.",
+  "one_liner": "Offers commission-free, full-service real estate transactions and brings the process online.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Real estate tech",
+  "industry_slug": "real-estate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/TRELORA",
+    "linkedin": "https://linkedin.com/company/trelora",
+    "facebook": "https://facebook.com/Trelora"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/trelora",
+  "api": "/api/companies/trelora.json"
+}

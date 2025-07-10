@@ -1,0 +1,24 @@
+{
+  "name": "Cognitive Space",
+  "slug": "cognitive-space",
+  "website": "https://cognitivespace.com/",
+  "description": "AI driven autonomous satellite constellation operations.",
+  "one_liner": "AI driven autonomous satellite constellation operations.",
+  "location": "Houston, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/cognitive_space",
+    "linkedin": "https://linkedin.com/company/cognitivespace",
+    "facebook": "https://facebook.com/cogspace"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cognitive-space",
+  "api": "/api/companies/cognitive-space.json"
+}

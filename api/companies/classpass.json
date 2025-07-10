@@ -1,0 +1,24 @@
+{
+  "name": "ClassPass",
+  "slug": "classpass",
+  "website": "https://classpass.com/",
+  "description": "ClassPass is a membership program for fitness classes across multiple gyms and studios, making working out more accessible.",
+  "one_liner": "ClassPass is a membership program for fitness classes across multiple gyms and studios, making working out more accessible.",
+  "location": "New York City, New York, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/classpass",
+    "linkedin": "https://linkedin.com/company/classpass",
+    "facebook": "https://facebook.com/Classtivity"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/classpass",
+  "api": "/api/companies/classpass.json"
+}

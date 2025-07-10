@@ -1,0 +1,24 @@
+{
+  "name": "Pepper Cooking",
+  "slug": "pepper-cooking",
+  "website": "https://linkedin.com/company/peppercooking",
+  "description": "Pepper is your personal nutritionist - right on your kitchen counter.",
+  "one_liner": "Pepper is your personal nutritionist - right on your kitchen counter.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/peppercooking",
+    "linkedin": "https://linkedin.com/company/peppercooking",
+    "facebook": "https://facebook.com/peppercooking/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pepper-cooking",
+  "api": "/api/companies/pepper-cooking.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "NATIX",
+  "slug": "natix",
+  "website": "https://natix.network/",
+  "description": "We make any camera smart and 100% privacy compliant! Utilising our patent-pending technology, we are creating the largest crowd-sourced camera network worldwide.",
+  "one_liner": "We make any camera smart and 100% privacy compliant! Utilising our patent-pending technology, we are creating the largest crowd-sourced camera network worldwide.",
+  "location": "Hamburg, Germany",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/natix_io",
+    "linkedin": "https://linkedin.com/company/natixio",
+    "facebook": "https://facebook.com/natixvision/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/natix",
+  "api": "/api/companies/natix.json"
+}

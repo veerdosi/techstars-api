@@ -1,0 +1,22 @@
+{
+  "name": "Modality",
+  "slug": "modality",
+  "website": "https://findmodality.com/",
+  "description": "Powering the next generation of wellness workers",
+  "one_liner": "Powering the next generation of wellness workers",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/modality1"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/modality",
+  "api": "/api/companies/modality.json"
+}

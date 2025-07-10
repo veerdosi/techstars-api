@@ -1,0 +1,23 @@
+{
+  "name": "BrainSpec",
+  "slug": "brainspec",
+  "website": "https://brainspecmed.com/",
+  "description": "BrainSpec is a health-tech company that enables the accurate, efficient and non-invasive diagnosis of brain disorders.",
+  "one_liner": "BrainSpec is a health-tech company that enables the accurate, efficient and non-invasive diagnosis of brain disorders.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Brain_Spec",
+    "linkedin": "https://linkedin.com/company/brainspec"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/brainspec",
+  "api": "/api/companies/brainspec.json"
+}

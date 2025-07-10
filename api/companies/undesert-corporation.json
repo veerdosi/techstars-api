@@ -1,0 +1,22 @@
+{
+  "name": "Undesert Corporation",
+  "slug": "undesert-corporation",
+  "website": "https://undesert.com/",
+  "description": "Undesert is produce electrical power, deionized water, and dry salt with no liquid waste - Zero Liquid Discharge (ZLD).",
+  "one_liner": "Undesert is produce electrical power, deionized water, and dry salt with no liquid waste - Zero Liquid Discharge (ZLD).",
+  "location": "Los Alamos, New Mexico, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/undesert"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/undesert-corporation",
+  "api": "/api/companies/undesert-corporation.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "SALUBATA",
+  "slug": "salubata",
+  "website": "https://salubataofficial.com/",
+  "description": "They have a new patented technology of modular shoes made from old plastic bottles enables you to experience a new form of magic.",
+  "one_liner": "They have a new patented technology of modular shoes made from old plastic bottles enables you to experience a new form of magic.",
+  "location": "Paris, France",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SalubataX",
+    "linkedin": "https://linkedin.com/company/salubataofficial",
+    "facebook": "https://facebook.com/salubataofficial"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/salubata",
+  "api": "/api/companies/salubata.json"
+}

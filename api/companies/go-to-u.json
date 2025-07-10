@@ -1,0 +1,24 @@
+{
+  "name": "Go To-U",
+  "slug": "go-to-u",
+  "website": "https://go-tou.com/",
+  "description": "GO TO-U is a SaaS operating system that helps manage and monetize EV charging infrastructure for electric vehicles. Using big data and machine learning to optimize demand, predict electricity consumption, and monitor charging sessions.",
+  "one_liner": "GO TO-U is a SaaS operating system that helps manage and monetize EV charging infrastructure for electric vehicles. Using big data and machine learning to optimize demand, predict electricity consumption, and monitor charging sessions.",
+  "location": "Lviv, Ukraine",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GoToUgreen",
+    "linkedin": "https://linkedin.com/company/to-u",
+    "facebook": "https://facebook.com/gotougreen"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/go-to-u",
+  "api": "/api/companies/go-to-u.json"
+}

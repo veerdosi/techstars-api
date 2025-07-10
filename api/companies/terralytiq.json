@@ -1,0 +1,22 @@
+{
+  "name": "Terralytiq",
+  "slug": "terralytiq",
+  "website": "https://terralytiq.com/",
+  "description": "Terralytiq helps manufacturers reduce supplier emissions by automating hybrid Scope 3 data collection and managing decarbonization initiatives",
+  "one_liner": "Terralytiq helps manufacturers reduce supplier emissions by automating hybrid Scope 3 data collection and managing decarbonization initiatives",
+  "location": "Austin, Texas, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/terralytiq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/terralytiq",
+  "api": "/api/companies/terralytiq.json"
+}

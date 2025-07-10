@@ -1,0 +1,20 @@
+{
+  "name": "AWEAR Technologies",
+  "slug": "awear-technologies",
+  "website": "https://awear.us/",
+  "description": "For people with anxiety we provide an AI neurofeedback coach to enhance mental wellbeing everyday.",
+  "one_liner": "For people with anxiety we provide an AI neurofeedback coach to enhance mental wellbeing everyday.",
+  "location": "San Francisco, California, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/awear-technologies",
+  "api": "/api/companies/awear-technologies.json"
+}

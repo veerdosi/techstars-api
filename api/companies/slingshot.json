@@ -1,0 +1,24 @@
+{
+  "name": "Slingshot",
+  "slug": "slingshot",
+  "website": "https://slingshotahead.com/",
+  "description": "",
+  "one_liner": "",
+  "location": "Somerset, New Jersey, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Slingshotahead",
+    "linkedin": "https://linkedin.com/company/68812582",
+    "facebook": "https://facebook.com/slingshotmentor"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/slingshot",
+  "api": "/api/companies/slingshot.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Vervet Canned Cocktails",
+  "slug": "vervet-canned-cocktails",
+  "website": "https://linkedin.com/company/vervet-cocktails",
+  "description": "VERVET is a craft cocktail bar in a can. We deliver a premium California experience with sparkling farm-to-can cocktails, with and without alcohol.",
+  "one_liner": "VERVET is a craft cocktail bar in a can. We deliver a premium California experience with sparkling farm-to-can cocktails, with and without alcohol.",
+  "location": "Dover, Delaware, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/DrinkVervet",
+    "linkedin": "https://linkedin.com/company/vervet-cocktails",
+    "facebook": "https://facebook.com/drinkvervet"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vervet-canned-cocktails",
+  "api": "/api/companies/vervet-canned-cocktails.json"
+}

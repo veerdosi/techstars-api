@@ -1,0 +1,24 @@
+{
+  "name": "Monocle",
+  "slug": "monocle",
+  "website": "https://monocleapp.co/",
+  "description": "Monocle is an AI-powered digital COO for e-commerce merchants.",
+  "one_liner": "Monocle is an AI-powered digital COO for e-commerce merchants.",
+  "location": "Verona, New Jersey, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/MonocleLLC",
+    "linkedin": "https://linkedin.com/company/monocleapp",
+    "facebook": "https://facebook.com/monocledata"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/monocle",
+  "api": "/api/companies/monocle.json"
+}

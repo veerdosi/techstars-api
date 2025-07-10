@@ -1,0 +1,22 @@
+{
+  "name": "Media Disco",
+  "slug": "media-disco",
+  "website": "https://mediadisco.io/",
+  "description": "We help advertisers create wonderful media experiences by bringing transparency and access to our ever-evolving industry.",
+  "one_liner": "We help advertisers create wonderful media experiences by bringing transparency and access to our ever-evolving industry.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/media-disco"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/media-disco",
+  "api": "/api/companies/media-disco.json"
+}

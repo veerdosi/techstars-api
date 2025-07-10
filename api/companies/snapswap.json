@@ -1,0 +1,23 @@
+{
+  "name": "SnapSwap",
+  "slug": "snapswap",
+  "website": "https://snapswap.eu/",
+  "description": "Automated (24/7/365), compliant, online and mobile onboarding solution",
+  "one_liner": "Automated (24/7/365), compliant, online and mobile onboarding solution",
+  "location": "Luxembourg, Luxembourg",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SnapSwap",
+    "linkedin": "https://linkedin.com/company/snapswap"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/snapswap",
+  "api": "/api/companies/snapswap.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "LivNao",
+  "slug": "livnao",
+  "website": "https://livnao.com/",
+  "description": "First to bring 100% passive measurement to mental health for delivery of just-in-time behavioural nudges.",
+  "one_liner": "First to bring 100% passive measurement to mental health for delivery of just-in-time behavioural nudges.",
+  "location": "Sunnyvale, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/livnao",
+    "linkedin": "https://linkedin.com/company/livnao"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/livnao",
+  "api": "/api/companies/livnao.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Quidax",
+  "slug": "quidax",
+  "website": "https://quidax.com/",
+  "description": "Quidax makes it easy for businesses and individuals in Africa to buy and sell cryptocurrency with their local currency while making it possible for Fintechs to offer cryptocurrency services to their customers.",
+  "one_liner": "Quidax makes it easy for businesses and individuals in Africa to buy and sell cryptocurrency with their local currency while making it possible for Fintechs to offer cryptocurrency services to their customers.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/iamnktzmefnsf76hkhqk",
+  "social_media": {
+    "twitter": "https://twitter.com/QuidaxHQ",
+    "linkedin": "https://linkedin.com/company/korex",
+    "facebook": "https://facebook.com/quidaxhq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/quidax",
+  "api": "/api/companies/quidax.json"
+}

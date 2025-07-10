@@ -1,0 +1,24 @@
+{
+  "name": "Motoroso",
+  "slug": "motoroso",
+  "website": "https://motoroso.com/",
+  "description": "Motoroso.com is the market network for the $36B auto aftermarket,  bringing enthusiasts and businesses together on a single platform. Motoroso is like Houzz.com for gearheads.",
+  "one_liner": "Motoroso.com is the market network for the $36B auto aftermarket,  bringing enthusiasts and businesses together on a single platform. Motoroso is like Houzz.com for gearheads.",
+  "location": "Santa Clara, California, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/motorosoapp",
+    "linkedin": "https://linkedin.com/company/motoroso",
+    "facebook": "https://facebook.com/motorosoapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/motoroso",
+  "api": "/api/companies/motoroso.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Iroko Analytics",
+  "slug": "iroko-analytics",
+  "website": "https://irokoanalytics.com/",
+  "description": "Provides EU timber traders with the analytics they need to comply with their legal due diligence requirements",
+  "one_liner": "Provides EU timber traders with the analytics they need to comply with their legal due diligence requirements",
+  "location": "Wilmington, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/project_canopy",
+    "linkedin": "https://linkedin.com/company/project-canopy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/iroko-analytics",
+  "api": "/api/companies/iroko-analytics.json"
+}

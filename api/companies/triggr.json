@@ -1,0 +1,24 @@
+{
+  "name": "Triggr",
+  "slug": "triggr",
+  "website": "https://triggrhealth.com/",
+  "description": "Effective, individualized options for addiction recovery.",
+  "one_liner": "Effective, individualized options for addiction recovery.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/triggrhealth",
+    "linkedin": "https://linkedin.com/company/triggr-health",
+    "facebook": "https://facebook.com/triggrhealth/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/triggr",
+  "api": "/api/companies/triggr.json"
+}

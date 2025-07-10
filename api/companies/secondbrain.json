@@ -1,0 +1,23 @@
+{
+  "name": "SecondBrain",
+  "slug": "secondbrain",
+  "website": "https://linkedin.com/company/secondbrain",
+  "description": "Secondbrain is an artificial consciousness studio founded in Austin, TX",
+  "one_liner": "Secondbrain is an artificial consciousness studio founded in Austin, TX",
+  "location": "Austin, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/secondbrainai",
+    "linkedin": "https://linkedin.com/company/secondbrain"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/secondbrain",
+  "api": "/api/companies/secondbrain.json"
+}

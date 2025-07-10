@@ -1,0 +1,24 @@
+{
+  "name": "MICRON3DP",
+  "slug": "micron3dp",
+  "website": "https://linkedin.com/company/micron3dp",
+  "description": "Pioneering High Speed - High Resolution Metal 3D Printing",
+  "one_liner": "Pioneering High Speed - High Resolution Metal 3D Printing",
+  "location": "Kefar Sava, Israel",
+  "industry": "Industrials",
+  "industry_slug": "industrials",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Micron3DP",
+    "linkedin": "https://linkedin.com/company/micron3dp",
+    "facebook": "https://facebook.com/micron3dp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/micron3dp",
+  "api": "/api/companies/micron3dp.json"
+}

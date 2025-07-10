@@ -1,0 +1,22 @@
+{
+  "name": "REZA",
+  "slug": "reza",
+  "website": "https://rezafootwear.com/",
+  "description": "REZA is an up-coming footwear brand that specializes in light-up footwear.",
+  "one_liner": "REZA is an up-coming footwear brand that specializes in light-up footwear.",
+  "location": "Detroit, Michigan, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/rezafootwear"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/reza",
+  "api": "/api/companies/reza.json"
+}

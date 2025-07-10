@@ -1,0 +1,24 @@
+{
+  "name": "Drugviu",
+  "slug": "drugviu",
+  "website": "https://drugviu.com/",
+  "description": "Make it easy for non-white populations to find out how medications affect us and support each other",
+  "one_liner": "Make it easy for non-white populations to find out how medications affect us and support each other",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/drugviu",
+    "linkedin": "https://linkedin.com/company/drugviu",
+    "facebook": "https://facebook.com/Drugviu-590042898097621/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/drugviu",
+  "api": "/api/companies/drugviu.json"
+}

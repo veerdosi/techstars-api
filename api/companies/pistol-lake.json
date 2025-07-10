@@ -1,0 +1,24 @@
+{
+  "name": "Pistol Lake",
+  "slug": "pistol-lake",
+  "website": "https://linkedin.com/company/pistollake",
+  "description": "Ultra-functional apparel for minimalists.",
+  "one_liner": "Ultra-functional apparel for minimalists.",
+  "location": "Walnut, California, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1502290811/qb5awfdq9qb7btesufir.jpg",
+  "social_media": {
+    "twitter": "https://twitter.com/PistolLake",
+    "linkedin": "https://linkedin.com/company/pistollake",
+    "facebook": "https://facebook.com/pistollake"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pistol-lake",
+  "api": "/api/companies/pistol-lake.json"
+}

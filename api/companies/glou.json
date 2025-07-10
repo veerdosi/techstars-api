@@ -1,0 +1,24 @@
+{
+  "name": "Glou",
+  "slug": "glou",
+  "website": "https://glou.co/",
+  "description": "Glou is an AI-powered marketplace that makes the resale of beauty products faster, cheaper, and safer for consumers.",
+  "one_liner": "Glou is an AI-powered marketplace that makes the resale of beauty products faster, cheaper, and safer for consumers.",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/gloubeauty",
+    "linkedin": "https://linkedin.com/company/gloubeauty",
+    "facebook": "https://facebook.com/GLOUBEAUTY"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/glou",
+  "api": "/api/companies/glou.json"
+}

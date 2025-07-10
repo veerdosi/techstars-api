@@ -1,0 +1,24 @@
+{
+  "name": "Visual Feeder",
+  "slug": "visual-feeder",
+  "website": "https://visualfeeder.com/",
+  "description": "Visual Feeder implements dynamic ad-campaigns on vacant storefront windows using projection mapping technology.",
+  "one_liner": "Visual Feeder implements dynamic ad-campaigns on vacant storefront windows using projection mapping technology.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/visualfeeder",
+    "linkedin": "https://linkedin.com/company/visual-feeder",
+    "facebook": "https://facebook.com/visualfeeder"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/visual-feeder",
+  "api": "/api/companies/visual-feeder.json"
+}

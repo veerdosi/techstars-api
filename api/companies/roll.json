@@ -1,0 +1,24 @@
+{
+  "name": "Roll",
+  "slug": "roll",
+  "website": "https://tryroll.com/",
+  "description": "Earn and redeem social money with your favorite creators and brands",
+  "one_liner": "Earn and redeem social money with your favorite creators and brands",
+  "location": "New York City, New York, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/tryrollhq",
+    "linkedin": "https://linkedin.com/company/rollinc",
+    "facebook": "https://facebook.com/tryrollhq/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/roll",
+  "api": "/api/companies/roll.json"
+}

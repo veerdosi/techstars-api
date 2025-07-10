@@ -1,0 +1,24 @@
+{
+  "name": "Tonic Audio",
+  "slug": "tonic-audio",
+  "website": "https://tonicaudio.com/",
+  "description": "Tonic Audio is a collaboration platform for audio creators, taking the music creation process from a solo to a multi-player experience, and makes it as straight-forward and intuitive as jamming in a room with your band mates.",
+  "one_liner": "Tonic Audio is a collaboration platform for audio creators, taking the music creation process from a solo to a multi-player experience, and makes it as straight-forward and intuitive as jamming in a room with your band mates.",
+  "location": "Reno, Nevada, United States",
+  "industry": "Audiotech",
+  "industry_slug": "audiotech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/tonicaudiolabs",
+    "linkedin": "https://linkedin.com/company/tonic-audio",
+    "facebook": "https://facebook.com/tonicaudiolabs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tonic-audio",
+  "api": "/api/companies/tonic-audio.json"
+}

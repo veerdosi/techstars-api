@@ -1,0 +1,24 @@
+{
+  "name": "Card Isle",
+  "slug": "card-isle",
+  "website": "https://cardisle.com/",
+  "description": "Send meaningful greeting cards",
+  "one_liner": "Send meaningful greeting cards",
+  "location": "Blacksburg, Virginia, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/CardIsle",
+    "linkedin": "https://linkedin.com/company/card-isle",
+    "facebook": "https://facebook.com/theCardIsle"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/card-isle",
+  "api": "/api/companies/card-isle.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Open to the offer",
+  "slug": "open-to-the-offer",
+  "website": "https://opentotheoffer.com/",
+  "description": "For homeowners looking to collect offers on their home without any expense or commitment, OTTO hosts a self-service marketplace to get real offers from qualified buyers online.",
+  "one_liner": "For homeowners looking to collect offers on their home without any expense or commitment, OTTO hosts a self-service marketplace to get real offers from qualified buyers online.",
+  "location": "Milford, Connecticut, United States",
+  "industry": "Real estate tech",
+  "industry_slug": "real-estate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/ottohomes"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/open-to-the-offer",
+  "api": "/api/companies/open-to-the-offer.json"
+}

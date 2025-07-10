@@ -1,0 +1,23 @@
+{
+  "name": "OfColor",
+  "slug": "ofcolor",
+  "website": "https://ofcolor.com/",
+  "description": "OfColor is an enterprise financial wellness platform providing content and banking tools built around how people of color save, spend, and build wealth.",
+  "one_liner": "OfColor is an enterprise financial wellness platform providing content and banking tools built around how people of color save, spend, and build wealth.",
+  "location": "Maplewood, New Jersey, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/weareofcolor",
+    "linkedin": "https://linkedin.com/company/ofcolor"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ofcolor",
+  "api": "/api/companies/ofcolor.json"
+}

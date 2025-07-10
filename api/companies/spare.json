@@ -1,0 +1,24 @@
+{
+  "name": "SPARE",
+  "slug": "spare",
+  "website": "https://gotspare.com/",
+  "description": "A cash management solution for small business that works by turning the any cash register into an ATM.",
+  "one_liner": "A cash management solution for small business that works by turning the any cash register into an ATM.",
+  "location": "West Hollywood, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/gotspare",
+    "linkedin": "https://linkedin.com/company/spare-cs-inc",
+    "facebook": "https://facebook.com/SPAREatm/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/spare",
+  "api": "/api/companies/spare.json"
+}

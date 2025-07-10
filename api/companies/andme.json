@@ -1,0 +1,24 @@
+{
+  "name": "andMe",
+  "slug": "andme",
+  "website": "https://andmeapp.com/",
+  "description": "PandMe is a personal shopping assistant that finds the product and price suitable for the client's needs. It saves time and gets the best product recommendations for its users.",
+  "one_liner": "PandMe is a personal shopping assistant that finds the product and price suitable for the client's needs. It saves time and gets the best product recommendations for its users.",
+  "location": "London, United Kingdom",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/andmeapp",
+    "linkedin": "https://linkedin.com/company/andmeapp",
+    "facebook": "https://facebook.com/andmeapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/andme",
+  "api": "/api/companies/andme.json"
+}

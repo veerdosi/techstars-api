@@ -1,0 +1,23 @@
+{
+  "name": "LinkBycar",
+  "slug": "linkbycar",
+  "website": "https://linkbycar.com/",
+  "description": "LinkByCar uses AI to predict vehicle issues by analyzing connected vehicle data, enhancing driving safety and personalization.",
+  "one_liner": "LinkByCar uses AI to predict vehicle issues by analyzing connected vehicle data, enhancing driving safety and personalization.",
+  "location": "Paris, France",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/upiz5ogfndy8qjvevfeh",
+  "social_media": {
+    "twitter": "https://twitter.com/LBycar",
+    "linkedin": "https://linkedin.com/company/linkbycar"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/linkbycar",
+  "api": "/api/companies/linkbycar.json"
+}

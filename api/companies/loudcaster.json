@@ -1,0 +1,24 @@
+{
+  "name": "Loudcaster",
+  "slug": "loudcaster",
+  "website": "https://linkedin.com/company/loudcaster",
+  "description": "Enabling people to DJ online",
+  "one_liner": "Enabling people to DJ online",
+  "location": "Somerville, Massachusetts, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/loudcaster",
+    "linkedin": "https://linkedin.com/company/loudcaster",
+    "facebook": "https://facebook.com/Loudcaster"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/loudcaster",
+  "api": "/api/companies/loudcaster.json"
+}

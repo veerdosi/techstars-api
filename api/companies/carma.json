@@ -1,0 +1,24 @@
+{
+  "name": "Carma",
+  "slug": "carma",
+  "website": "https://linkedin.com/company/carma-au",
+  "description": "Carma is a fully digital used car dealership, offering a large range of quality pre-owned vehicles at fixed prices, delivered to the home.",
+  "one_liner": "Carma is a fully digital used car dealership, offering a large range of quality pre-owned vehicles at fixed prices, delivered to the home.",
+  "location": "Washington, District of Columbia, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/FreshCarHQ",
+    "linkedin": "https://linkedin.com/company/carma-au",
+    "facebook": "https://facebook.com/CARMA-107480824055160"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/carma",
+  "api": "/api/companies/carma.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "BeeCuick",
+  "slug": "beecuick",
+  "website": "https://beecuick.com/",
+  "description": "We are the #1 platform in LATAM that makes it easy to obtain quotes and purchase merchandise.",
+  "one_liner": "We are the #1 platform in LATAM that makes it easy to obtain quotes and purchase merchandise.",
+  "location": "Doral, Florida, United States",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/BeeCuick",
+    "linkedin": "https://linkedin.com/company/beecuick",
+    "facebook": "https://facebook.com/BeeCuick"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/beecuick",
+  "api": "/api/companies/beecuick.json"
+}

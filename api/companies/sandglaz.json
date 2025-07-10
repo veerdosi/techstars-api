@@ -1,0 +1,24 @@
+{
+  "name": "Sandglaz",
+  "slug": "sandglaz",
+  "website": "https://linkedin.com/company/2011302",
+  "description": "Lean project management software for agile teams",
+  "one_liner": "Lean project management software for agile teams",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sandglaz",
+    "linkedin": "https://linkedin.com/company/2011302",
+    "facebook": "https://facebook.com/sandglaz"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sandglaz",
+  "api": "/api/companies/sandglaz.json"
+}

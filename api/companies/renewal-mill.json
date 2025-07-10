@@ -1,0 +1,24 @@
+{
+  "name": "Renewal Mill",
+  "slug": "renewal-mill",
+  "website": "https://renewalmill.com/",
+  "description": "Renewal Mill is a next generation ingredients company that upcycles byproducts from food manufacturing into high-quality ingredients and products.",
+  "one_liner": "Renewal Mill is a next generation ingredients company that upcycles byproducts from food manufacturing into high-quality ingredients and products.",
+  "location": "Oakland, California, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/renewalmill",
+    "linkedin": "https://linkedin.com/company/renewal-mill",
+    "facebook": "https://facebook.com/renewalmill"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/renewal-mill",
+  "api": "/api/companies/renewal-mill.json"
+}

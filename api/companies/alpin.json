@@ -1,0 +1,24 @@
+{
+  "name": "Alpin",
+  "slug": "alpin",
+  "website": "https://alpin.io/",
+  "description": "Alpin cuts subscription costs by up to 30% and saves time on SaaS monitoring and management.",
+  "one_liner": "Alpin cuts subscription costs by up to 30% and saves time on SaaS monitoring and management.",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Alpin__io",
+    "linkedin": "https://linkedin.com/company/alpin-limited-masdar-city",
+    "facebook": "https://facebook.com/alpinapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/alpin",
+  "api": "/api/companies/alpin.json"
+}

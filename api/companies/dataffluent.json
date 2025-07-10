@@ -1,0 +1,22 @@
+{
+  "name": "Dataffluent",
+  "slug": "dataffluent",
+  "website": "https://dataffluent.com/",
+  "description": "We help investors in emerging markets to make decisions faster",
+  "one_liner": "We help investors in emerging markets to make decisions faster",
+  "location": "Stony Hill, Saint Andrew Parish, Jamaica",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/dataffluent"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dataffluent",
+  "api": "/api/companies/dataffluent.json"
+}

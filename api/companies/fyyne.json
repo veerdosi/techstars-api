@@ -1,0 +1,24 @@
+{
+  "name": "Fyyne",
+  "slug": "fyyne",
+  "website": "https://fyyne.com/",
+  "description": "Connects customers with relevant artists and simplify the entire booking process from discovery to payment.",
+  "one_liner": "Connects customers with relevant artists and simplify the entire booking process from discovery to payment.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/taxbzsiikkp8ykdejo9y",
+  "social_media": {
+    "twitter": "https://twitter.com/FyyneHQ",
+    "linkedin": "https://linkedin.com/company/fyyne",
+    "facebook": "https://facebook.com/FyyneHQ/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fyyne",
+  "api": "/api/companies/fyyne.json"
+}

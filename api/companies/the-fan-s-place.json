@@ -1,0 +1,23 @@
+{
+  "name": "The Fan's Place",
+  "slug": "the-fan-s-place",
+  "website": "https://thefansplace.com/",
+  "description": "The Fan's Place is a Customer Loyalty Platform where bars & restaurants use a unique, fantasy sports-based rewards program to engage their patrons and give them a free shot at real cash prizes.",
+  "one_liner": "The Fan's Place is a Customer Loyalty Platform where bars & restaurants use a unique, fantasy sports-based rewards program to engage their patrons and give them a free shot at real cash prizes.",
+  "location": "Indianapolis, Indiana, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/56451527",
+    "facebook": "https://facebook.com/thefansplace"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/the-fan-s-place",
+  "api": "/api/companies/the-fan-s-place.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Peach",
+  "slug": "peach",
+  "website": "https://joinpeach.co/",
+  "description": "Peach is an advertising company that offers ad distribution, branding, creative workflow, quality checking, API, and broadcast services.",
+  "one_liner": "Peach is an advertising company that offers ad distribution, branding, creative workflow, quality checking, API, and broadcast services.",
+  "location": "Jersey City, New Jersey, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/peach_video",
+    "linkedin": "https://linkedin.com/company/peachvideo",
+    "facebook": "https://facebook.com/peachvideo/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/peach",
+  "api": "/api/companies/peach.json"
+}

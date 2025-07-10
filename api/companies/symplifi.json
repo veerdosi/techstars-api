@@ -1,0 +1,24 @@
+{
+  "name": "SympliFi",
+  "slug": "symplifi",
+  "website": "https://symplifi.co.uk/",
+  "description": "First of its kind fintech solution providing an alternative to the $560bn global remittance market, by eliminating the need for money transfers.",
+  "one_liner": "First of its kind fintech solution providing an alternative to the $560bn global remittance market, by eliminating the need for money transfers.",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Symplifing",
+    "linkedin": "https://linkedin.com/company/symplifi",
+    "facebook": "https://facebook.com/SympliFing"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/symplifi",
+  "api": "/api/companies/symplifi.json"
+}

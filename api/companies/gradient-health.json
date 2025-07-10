@@ -1,0 +1,23 @@
+{
+  "name": "Gradient Health",
+  "slug": "gradient-health",
+  "website": "https://gradienthealth.ai/",
+  "description": "Gradient Health aims to label the world's medical imagery, one pathology at a time. Founded in 2018, Gradient Health operates in Durham, North Carolina, United States.",
+  "one_liner": "Gradient Health aims to label the world's medical imagery, one pathology at a time. Founded in 2018, Gradient Health operates in Durham, North Carolina, United States.",
+  "location": "Durham, North Carolina, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/gradienthealth",
+    "linkedin": "https://linkedin.com/company/gradient-health-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gradient-health",
+  "api": "/api/companies/gradient-health.json"
+}

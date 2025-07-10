@@ -1,0 +1,22 @@
+{
+  "name": "InspectoBot",
+  "slug": "inspectobot",
+  "website": "https://inspectobot.com/",
+  "description": "InspectoBot is the Roomba for structural inspection using Radar and Robots",
+  "one_liner": "InspectoBot is the Roomba for structural inspection using Radar and Robots",
+  "location": "Miami Beach, Florida, United States",
+  "industry": "Robotics and Drones",
+  "industry_slug": "robotics-drones",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/inspectobot"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/inspectobot",
+  "api": "/api/companies/inspectobot.json"
+}

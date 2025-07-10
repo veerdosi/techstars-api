@@ -1,0 +1,24 @@
+{
+  "name": "FirstDerm",
+  "slug": "firstderm",
+  "website": "https://firstderm.com/",
+  "description": "Our first vertical is dermatology; First Derm provides the fastest and most convenient way to ask a board certified dermatologist about any of your skin concerns.",
+  "one_liner": "Our first vertical is dermatology; First Derm provides the fastest and most convenient way to ask a board certified dermatologist about any of your skin concerns.",
+  "location": "Berkeley, California, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/firstderm",
+    "linkedin": "https://linkedin.com/company/idoc24",
+    "facebook": "https://facebook.com/firstderm"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/firstderm",
+  "api": "/api/companies/firstderm.json"
+}

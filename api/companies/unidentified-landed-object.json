@@ -1,0 +1,24 @@
+{
+  "name": "Unidentified Landed Object",
+  "slug": "unidentified-landed-object",
+  "website": "https://ulo.world/",
+  "description": "A no-code platform to easily create immersive experiences for mobile & SMS marketing - ulo.io. Founder previously @ Snap Inc.",
+  "one_liner": "A no-code platform to easily create immersive experiences for mobile & SMS marketing - ulo.io. Founder previously @ Snap Inc.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ulo_world",
+    "linkedin": "https://linkedin.com/in/danivandesande",
+    "facebook": "https://facebook.com/UNIDENTIFIEDLANDEDOBJECT/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/unidentified-landed-object",
+  "api": "/api/companies/unidentified-landed-object.json"
+}

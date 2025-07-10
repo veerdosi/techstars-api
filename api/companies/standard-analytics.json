@@ -1,0 +1,24 @@
+{
+  "name": "Standard Analytics",
+  "slug": "standard-analytics",
+  "website": "https://linkedin.com/company/standard-analytics",
+  "description": "Organizing the world's scientific information",
+  "one_liner": "Organizing the world's scientific information",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/StdrdAnalytics",
+    "linkedin": "https://linkedin.com/company/standard-analytics",
+    "facebook": "https://facebook.com/standardanalytics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/standard-analytics",
+  "api": "/api/companies/standard-analytics.json"
+}

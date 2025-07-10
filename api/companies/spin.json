@@ -1,0 +1,24 @@
+{
+  "name": "SPiN",
+  "slug": "spin",
+  "website": "https://spinintech.com/",
+  "description": "Revolutionising satellite manufacturing with plug and play",
+  "one_liner": "Revolutionising satellite manufacturing with plug and play",
+  "location": "Frascati, Italy",
+  "industry": "Manufacturing",
+  "industry_slug": "manufacturing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/spinintech",
+    "linkedin": "https://linkedin.com/company/space-products-and-innovation",
+    "facebook": "https://facebook.com/spinintech/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/spin",
+  "api": "/api/companies/spin.json"
+}

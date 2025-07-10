@@ -1,0 +1,22 @@
+{
+  "name": "Slytrackr",
+  "slug": "slytrackr",
+  "website": "https://slytrackr.com/",
+  "description": "Advanced manufacturing solutions for all ages of machinery.",
+  "one_liner": "Advanced manufacturing solutions for all ages of machinery.",
+  "location": "Arvada, Colorado, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/slytek-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/slytrackr",
+  "api": "/api/companies/slytrackr.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "PACO",
+  "slug": "paco",
+  "website": "https://pacohq.com/",
+  "description": "SuperWin enables solution/pre-sales teams to fast-track technical wins by automagically creating tailored solution proposals that delight their buyers",
+  "one_liner": "SuperWin enables solution/pre-sales teams to fast-track technical wins by automagically creating tailored solution proposals that delight their buyers",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/pacofetch",
+    "linkedin": "https://linkedin.com/company/pacohq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/paco",
+  "api": "/api/companies/paco.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Made with Black Culture",
+  "slug": "made-with-black-culture",
+  "website": "https://madewithblackculture.com/",
+  "description": "Establishes an ethical trade standard for commercializing culture.",
+  "one_liner": "Establishes an ethical trade standard for commercializing culture.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/yobhlbjeh4v1x6zfl7ow",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/made-with-black-culture"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/made-with-black-culture",
+  "api": "/api/companies/made-with-black-culture.json"
+}

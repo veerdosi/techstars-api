@@ -1,0 +1,23 @@
+{
+  "name": "Wisnio",
+  "slug": "wisnio",
+  "website": "https://teamscope.io/",
+  "description": "Use data science to hire people that fit in with your team culture",
+  "one_liner": "Use data science to hire people that fit in with your team culture",
+  "location": "London, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/TeamscopeLLC",
+    "linkedin": "https://linkedin.com/company/10611326"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/wisnio",
+  "api": "/api/companies/wisnio.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Bloomfilter",
+  "slug": "bloomfilter",
+  "website": "https://thebloomfilter.com/",
+  "description": "Helping software leaders leverage an organizations's existing data to build advanced analytics and AI to drive real-time activities and project success.",
+  "one_liner": "Helping software leaders leverage an organizations's existing data to build advanced analytics and AI to drive real-time activities and project success.",
+  "location": "Cleveland, Ohio, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Bloomfilter1",
+    "linkedin": "https://linkedin.com/company/bloomfilter-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bloomfilter",
+  "api": "/api/companies/bloomfilter.json"
+}

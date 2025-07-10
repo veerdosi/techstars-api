@@ -1,0 +1,24 @@
+{
+  "name": "Tour",
+  "slug": "tour",
+  "website": "https://leasemagnets.com/",
+  "description": "LeaseMagnets is the first video-based digital leasing assistant that can be installed as an overlay to any apartment website, making it easier for renters to imagine what life really is like living at the property.",
+  "one_liner": "LeaseMagnets is the first video-based digital leasing assistant that can be installed as an overlay to any apartment website, making it easier for renters to imagine what life really is like living at the property.",
+  "location": "Sterling Heights, Michigan, United States",
+  "industry": "Real estate tech",
+  "industry_slug": "real-estate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hostyourvoice",
+    "linkedin": "https://linkedin.com/company/leasemagnets",
+    "facebook": "https://facebook.com/hostyourvoice/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tour",
+  "api": "/api/companies/tour.json"
+}

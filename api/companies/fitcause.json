@@ -1,0 +1,24 @@
+{
+  "name": "FitCause",
+  "slug": "fitcause",
+  "website": "https://linkedin.com/company/fitcause",
+  "description": "",
+  "one_liner": "",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/fitcause",
+    "linkedin": "https://linkedin.com/company/fitcause",
+    "facebook": "https://facebook.com/gofitcause"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fitcause",
+  "api": "/api/companies/fitcause.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "OjaExpress",
+  "slug": "ojaexpress",
+  "website": "https://linkedin.com/company/ojaexpress",
+  "description": "A mobile grocery delivery platform for your ethnic grocery needs.",
+  "one_liner": "A mobile grocery delivery platform for your ethnic grocery needs.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ojaexpress",
+    "linkedin": "https://linkedin.com/company/ojaexpress",
+    "facebook": "https://facebook.com/ojaex"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ojaexpress",
+  "api": "/api/companies/ojaexpress.json"
+}

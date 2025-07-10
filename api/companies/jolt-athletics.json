@@ -1,0 +1,24 @@
+{
+  "name": "Jolt Athletics",
+  "slug": "jolt-athletics",
+  "website": "https://linkedin.com/company/jolt-sensors-llc",
+  "description": "Jolt makes a multi-sport head impact sensor, with a connected app, to help athletes play smarter and safer.",
+  "one_liner": "Jolt makes a multi-sport head impact sensor, with a connected app, to help athletes play smarter and safer.",
+  "location": "St. Louis, Missouri, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/joltsensor",
+    "linkedin": "https://linkedin.com/company/jolt-sensors-llc",
+    "facebook": "https://facebook.com/joltsensor"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/jolt-athletics",
+  "api": "/api/companies/jolt-athletics.json"
+}

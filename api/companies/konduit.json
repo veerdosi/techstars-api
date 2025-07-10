@@ -1,0 +1,23 @@
+{
+  "name": "Konduit",
+  "slug": "konduit",
+  "website": "https://konduitworks.com/",
+  "description": "For banks trying to digitize their offerings, Konduit is an embedded fintech platform that allows banks to quickly onboard and implement 3rd party fintech solutions.",
+  "one_liner": "For banks trying to digitize their offerings, Konduit is an embedded fintech platform that allows banks to quickly onboard and implement 3rd party fintech solutions.",
+  "location": "Reston, Virginia, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/konduitworks",
+    "facebook": "https://facebook.com/KonduitWorksInc/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/konduit",
+  "api": "/api/companies/konduit.json"
+}

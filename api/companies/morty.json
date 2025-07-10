@@ -1,0 +1,24 @@
+{
+  "name": "Morty",
+  "slug": "morty",
+  "website": "https://morty.com/",
+  "description": "Morty is the first ever fully-digital mortgage broker.",
+  "one_liner": "Morty is the first ever fully-digital mortgage broker.",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/himorty",
+    "linkedin": "https://linkedin.com/company/morty-inc",
+    "facebook": "https://facebook.com/HiMorty/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/morty",
+  "api": "/api/companies/morty.json"
+}

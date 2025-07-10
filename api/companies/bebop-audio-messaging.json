@@ -1,0 +1,22 @@
+{
+  "name": "Bebop - Audio Messaging",
+  "slug": "bebop-audio-messaging",
+  "website": "https://joinbebop.com/",
+  "description": "A voice-only mobile app for creating, sharing and storing your most precious voice messages and to connect with your family and your closest friends.",
+  "one_liner": "A voice-only mobile app for creating, sharing and storing your most precious voice messages and to connect with your family and your closest friends.",
+  "location": "Helsinki, Finland",
+  "industry": "Augmented reality",
+  "industry_slug": "augmented-reality",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/bebopaudiomessaging"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bebop-audio-messaging",
+  "api": "/api/companies/bebop-audio-messaging.json"
+}

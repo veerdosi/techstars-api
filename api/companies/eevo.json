@@ -1,0 +1,24 @@
+{
+  "name": "eevo",
+  "slug": "eevo",
+  "website": "https://linkedin.com/company/5351353",
+  "description": "EEVO is a cloud-based toolset which makes it possible for anyone to create, publish, and analyze interactive VR experiences without needing to know how to code.",
+  "one_liner": "EEVO is a cloud-based toolset which makes it possible for anyone to create, publish, and analyze interactive VR experiences without needing to know how to code.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/eevoVR",
+    "linkedin": "https://linkedin.com/company/5351353",
+    "facebook": "https://facebook.com/1475778066032110"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/eevo",
+  "api": "/api/companies/eevo.json"
+}

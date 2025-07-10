@@ -1,0 +1,24 @@
+{
+  "name": "GrabCAD",
+  "slug": "grabcad",
+  "website": "https://grabcad.com/",
+  "description": "GrabCAD is an online community network for mechanical engineers to share talent, expand knowledge and collaborate with others.",
+  "one_liner": "GrabCAD is an online community network for mechanical engineers to share talent, expand knowledge and collaborate with others.",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GrabCAD",
+    "linkedin": "https://linkedin.com/company/grabcad",
+    "facebook": "https://facebook.com/GrabCAD"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/grabcad",
+  "api": "/api/companies/grabcad.json"
+}

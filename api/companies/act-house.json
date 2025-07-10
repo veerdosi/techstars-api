@@ -1,0 +1,23 @@
+{
+  "name": "ACT House",
+  "slug": "act-house",
+  "website": "https://act.house/",
+  "description": "ACT House combines affordable housing and innovation amenities in a coliving model to accelerate the creation of minority owned ventures.",
+  "one_liner": "ACT House combines affordable housing and innovation amenities in a coliving model to accelerate the creation of minority owned ventures.",
+  "location": "Tallahassee, Florida, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/theacthouse",
+    "facebook": "https://facebook.com/TheACTHouse/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/act-house",
+  "api": "/api/companies/act-house.json"
+}

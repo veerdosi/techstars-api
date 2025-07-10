@@ -1,0 +1,24 @@
+{
+  "name": "Functionland",
+  "slug": "functionland",
+  "website": "https://fx.land/",
+  "description": "Replacing cloud storage and service subscription economy by introducing a new category of products, called Blockchain-Attached Storage",
+  "one_liner": "Replacing cloud storage and service subscription economy by introducing a new category of products, called Blockchain-Attached Storage",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/functionland",
+    "linkedin": "https://linkedin.com/company/functionland",
+    "facebook": "https://facebook.com/functionland.official/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/functionland",
+  "api": "/api/companies/functionland.json"
+}

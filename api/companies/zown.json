@@ -1,0 +1,23 @@
+{
+  "name": "Zown",
+  "slug": "zown",
+  "website": "https://jrop.co/",
+  "description": "Location pin API to streamline ridehailing pick-ups",
+  "one_liner": "Location pin API to streamline ridehailing pick-ups",
+  "location": "Waterloo, Ontario, Canada",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/zownit",
+    "linkedin": "https://linkedin.com/company/zown-it"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/zown",
+  "api": "/api/companies/zown.json"
+}

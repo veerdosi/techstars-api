@@ -1,0 +1,24 @@
+{
+  "name": "Don't Get Mad Get Paid",
+  "slug": "don-t-get-mad-get-paid",
+  "website": "https://athenacollects.com/",
+  "description": "Child Support Collection through a tech solution",
+  "one_liner": "Child Support Collection through a tech solution",
+  "location": "New Orleans, Louisiana, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/D_G_M_G_P",
+    "linkedin": "https://linkedin.com/company/athenacollects",
+    "facebook": "https://facebook.com/MamasGetPaid/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/don-t-get-mad-get-paid",
+  "api": "/api/companies/don-t-get-mad-get-paid.json"
+}

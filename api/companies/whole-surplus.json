@@ -1,0 +1,24 @@
+{
+  "name": "Whole Surplus",
+  "slug": "whole-surplus",
+  "website": "https://wholesurplus.com/",
+  "description": "Tech solutions for Surplus Management",
+  "one_liner": "Tech solutions for Surplus Management",
+  "location": "Istanbul, Turkey",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/wholesurplus",
+    "linkedin": "https://linkedin.com/company/wholesurplus",
+    "facebook": "https://facebook.com/wholesurplus/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/whole-surplus",
+  "api": "/api/companies/whole-surplus.json"
+}

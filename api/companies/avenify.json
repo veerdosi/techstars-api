@@ -1,0 +1,24 @@
+{
+  "name": "Avenify",
+  "slug": "avenify",
+  "website": "https://linkedin.com/company/avenifyhq",
+  "description": "Building better financial and career services for nurses, starting with income share agreements for student financing",
+  "one_liner": "Building better financial and career services for nurses, starting with income share agreements for student financing",
+  "location": "Oklahoma City, Oklahoma, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AvenifyHQ",
+    "linkedin": "https://linkedin.com/company/avenifyhq",
+    "facebook": "https://facebook.com/AvenifyHQ"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/avenify",
+  "api": "/api/companies/avenify.json"
+}

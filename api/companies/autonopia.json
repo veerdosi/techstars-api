@@ -1,0 +1,23 @@
+{
+  "name": "Autonopia",
+  "slug": "autonopia",
+  "website": "https://autonopia.com/",
+  "description": "Autonomous robots designed for cleaning building windows.",
+  "one_liner": "Autonomous robots designed for cleaning building windows.",
+  "location": "Vancouver, British Columbia, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/autonopia",
+    "linkedin": "https://linkedin.com/company/autonopia"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/autonopia",
+  "api": "/api/companies/autonopia.json"
+}

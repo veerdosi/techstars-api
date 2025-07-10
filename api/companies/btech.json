@@ -1,0 +1,22 @@
+{
+  "name": "bTECH",
+  "slug": "btech",
+  "website": "https://btechls.com/",
+  "description": "bTECH's disruptive wound care technology, called the Halcyon SMART Patch (HSP), prevents lower extremity amputations from chronic non-healing wounds.",
+  "one_liner": "bTECH's disruptive wound care technology, called the Halcyon SMART Patch (HSP), prevents lower extremity amputations from chronic non-healing wounds.",
+  "location": "Cleveland, Ohio, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/wendy-s-ba02b240"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/btech",
+  "api": "/api/companies/btech.json"
+}

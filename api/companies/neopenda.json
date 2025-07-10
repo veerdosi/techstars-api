@@ -1,0 +1,24 @@
+{
+  "name": "Neopenda",
+  "slug": "neopenda",
+  "website": "https://neopenda.com/",
+  "description": "Innovating life-saving medical technologies for emerging markets.",
+  "one_liner": "Innovating life-saving medical technologies for emerging markets.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Neopenda_Health",
+    "linkedin": "https://linkedin.com/company/neopenda",
+    "facebook": "https://facebook.com/Neopenda"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/neopenda",
+  "api": "/api/companies/neopenda.json"
+}

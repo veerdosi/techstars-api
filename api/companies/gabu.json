@@ -1,0 +1,23 @@
+{
+  "name": "Gabu",
+  "slug": "gabu",
+  "website": "https://playgabu.com/",
+  "description": "For parents that want their kids to have a safe and fun online gaming experience, Gabu provides a platform to keep them safe and help them become good digital citizens.",
+  "one_liner": "For parents that want their kids to have a safe and fun online gaming experience, Gabu provides a platform to keep them safe and help them become good digital citizens.",
+  "location": "Zapopan, Jalisco, Mexico",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/playgabu",
+    "facebook": "https://facebook.com/playgabu"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gabu",
+  "api": "/api/companies/gabu.json"
+}

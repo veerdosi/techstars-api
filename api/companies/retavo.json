@@ -1,0 +1,24 @@
+{
+  "name": "Retavo",
+  "slug": "retavo",
+  "website": "https://assistt.com/",
+  "description": "SaaS-based white-label peer-to-eer multi-vendor marketplace platform",
+  "one_liner": "SaaS-based white-label peer-to-eer multi-vendor marketplace platform",
+  "location": "Winter Park, Florida, United States",
+  "industry": "Mobile commerce",
+  "industry_slug": "mobile-commerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AssisttApp",
+    "linkedin": "https://linkedin.com/company/retavo",
+    "facebook": "https://facebook.com/AssisttApp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/retavo",
+  "api": "/api/companies/retavo.json"
+}

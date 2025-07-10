@@ -1,0 +1,24 @@
+{
+  "name": "Elite Sweets",
+  "slug": "elite-sweets",
+  "website": "https://elitedonut.com/",
+  "description": "Elite Sweets makes delicious better for you donuts fit for any lifestyle.",
+  "one_liner": "Elite Sweets makes delicious better for you donuts fit for any lifestyle.",
+  "location": "Pflugerville, Texas, United States",
+  "industry": "Manufacturing",
+  "industry_slug": "manufacturing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/TheEliteSweets",
+    "linkedin": "https://linkedin.com/company/the-elite-sweets",
+    "facebook": "https://facebook.com/TheEliteSweets"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/elite-sweets",
+  "api": "/api/companies/elite-sweets.json"
+}

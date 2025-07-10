@@ -1,0 +1,24 @@
+{
+  "name": "Squirrel",
+  "slug": "squirrel",
+  "website": "https://linkedin.com/company/squirrel-financial-wellbeing",
+  "description": "Squirrel is a technology platform that enables people to regain control of their finances. A financial concierge for the people.",
+  "one_liner": "Squirrel is a technology platform that enables people to regain control of their finances. A financial concierge for the people.",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/asksquirrel",
+    "linkedin": "https://linkedin.com/company/squirrel-financial-wellbeing",
+    "facebook": "https://facebook.com/squirrelmoney"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/squirrel",
+  "api": "/api/companies/squirrel.json"
+}

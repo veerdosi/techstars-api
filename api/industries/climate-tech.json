@@ -1,0 +1,4120 @@
+[
+  {
+    "name": "Twelve",
+    "website": "https://twelve.co/",
+    "description": "We are the carbon transformation(tm) company. We make the world's most critical chemicals, materials and fuels from air with our revolutionary carbon transformation(tm) technology.",
+    "location": "Berkeley, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/twelve_co2",
+      "linkedin": "https://linkedin.com/company/twelveco2",
+      "facebook": "https://facebook.com/twelve.co2/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "INSPECTORIO",
+    "website": "https://inspectorio.com/",
+    "description": "Using data and machine learning to improve quality control and bring transparency to the supply chain.",
+    "location": "Minneapolis, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/inspectorio",
+      "linkedin": "https://linkedin.com/company/inspectorio",
+      "facebook": "https://facebook.com/inspectorioinc"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Project Canary",
+    "website": "https://projectcanary.com/",
+    "description": "Continuous methane monitoring for the energy industry.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ProjectCanary1",
+      "linkedin": "https://linkedin.com/company/projectcanary",
+      "facebook": "https://facebook.com/denverprojectcanary/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Solstice",
+    "website": "https://solstice.us/",
+    "description": "Solstice radically expands access to clean energy by providing community-shared solar power to the 80 percent of Americans that cannot install a system on their rooftop.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/solarforgood",
+      "linkedin": "https://linkedin.com/company/solarforgood",
+      "facebook": "https://facebook.com/solarforgood/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "LevelTen Energy",
+    "website": "https://leveltenenergy.com/",
+    "description": "A renewable energy transaction platform connecting C&I power buyers to PPAs from utility-scale wind, solar, and storage projects",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LevelTenEnergy",
+      "linkedin": "https://linkedin.com/company/levelten-energy",
+      "facebook": "https://facebook.com/LevelTen-Energy-350401385419488/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "SkySpecs",
+    "website": "https://skyspecs.com/",
+    "description": "Simplify the Management of Renewable Energy Assets We offer purpose-built technologies and services so our customers can deliver the most efficient energy.",
+    "location": "Ann Arbor, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/skyspecs",
+      "linkedin": "https://linkedin.com/company/skyspecs",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Pixxel",
+    "website": "https://pixxel.space/",
+    "description": "We build and operate cutting-edge hyperspectral imaging satellites.",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pixxelspace",
+      "linkedin": "https://linkedin.com/company/pixxelspace",
+      "facebook": "https://facebook.com/pixxelspace/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Wunder",
+    "website": "https://wewunder.com/",
+    "description": "Connecting investors with great commercial solar projects",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wundercapital",
+      "linkedin": "https://linkedin.com/company/wunder",
+      "facebook": "https://facebook.com/WunderCapital"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Phoenix Tailings",
+    "website": "https://phoenixtailings.com/",
+    "description": "A mining company powered by technology, eliminating waste and creating sustainably produced metals #MaterialScience #Mining #B2B #Sustainability",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/phoenixtailings",
+      "linkedin": "https://linkedin.com/company/mvmindustrial"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Hydro Wind Energy",
+    "website": "https://hw.energy/",
+    "description": "Breaking The Barrier to a Carbon Emissions Free Future",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/hydrowindenergy",
+      "linkedin": "https://linkedin.com/company/hydro-wind-energy",
+      "facebook": "https://facebook.com/HydroWindEnergy/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Green Eye Technology",
+    "website": "https://greeneye.ag/",
+    "description": "Utilizes A.I. to disrupt the agricultural pest control process by providing precise herbicide application",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/GreeneyeAg",
+      "linkedin": "https://linkedin.com/company/greeneye-technology",
+      "facebook": "https://facebook.com/Greeneye-Technology-110745290618037"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Urban Sky",
+    "website": "https://urbansky.space/",
+    "description": "Developing stratospheric Microballoons to capture the freshest, high-res earth observation data.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/urban-sky-imaging",
+      "facebook": "https://facebook.com/theurbansky/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "SparkCharge",
+    "website": "https://sparkcharge.io/",
+    "description": "World's First Mobile Electric Vehicle Charging Network",
+    "location": "Buffalo, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sparkcharge",
+      "linkedin": "https://linkedin.com/company/sparkcharge",
+      "facebook": "https://facebook.com/SparkChargeCorp"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Overstory",
+    "website": "https://20tree.ai/",
+    "description": "Real-time vegetation intelligence, at scale",
+    "location": "Amsterdam, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/overstoryai",
+      "linkedin": "https://linkedin.com/company/overstoryai"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Smallhold",
+    "website": "https://smallhold.com/",
+    "description": "Smallhold allows businesses and individuals to grow mushrooms and leafy greens easily and affordably through it's technology and subscription service.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/smallhold",
+      "linkedin": "https://linkedin.com/company/smallhold",
+      "facebook": "https://facebook.com/smallhold/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Hydrosat",
+    "website": "https://hydrosat.com/",
+    "description": "Hydrosat tracks the health of every plant, everywhere, every day.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/27211003"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Ampaire",
+    "website": "https://ampaire.com/",
+    "description": "Ampaire is making flying accessible to more people by building electric aircraft that are greener, quieter, and less costly to operate.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ampaireinc",
+      "linkedin": "https://linkedin.com/company/ampaire",
+      "facebook": "https://facebook.com/Ampaire-Inc-1289631264538270/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "WAVE",
+    "website": "https://wavebl.com/",
+    "description": "Safer, faster and more advanced electronic Bills of Lading, built on the Blockchain",
+    "location": "Kefar Sava, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/wavebl",
+      "linkedin": "https://linkedin.com/company/ogydocs",
+      "facebook": "https://facebook.com/waveebl/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Material Evolution",
+    "website": "https://materialevolution.co.uk/",
+    "description": "Material Evolution makes smart and sustainable concrete using data insights.",
+    "location": "Belfast, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/materialevo",
+      "linkedin": "https://linkedin.com/company/materialevolution"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "PLANETARIANS",
+    "website": "https://planetarians.com/",
+    "description": "Most sustainable and affordable protein",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PlanetariansNet",
+      "linkedin": "https://linkedin.com/company/planetarians",
+      "facebook": "https://facebook.com/planetariansnet/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Klaim",
+    "website": "https://klaim.ai/",
+    "description": "\"We help healthcare providers reduce waste, get paid more and faster on their medical claims using artificial intelligence. \"",
+    "location": "Abu Dhabi, United Arab Emirates",
+    "social_media": {
+      "twitter": "https://twitter.com/drklaimai",
+      "linkedin": "https://linkedin.com/company/klaim-ai",
+      "facebook": "https://facebook.com/Dr.Klaim/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Tradeverifyd",
+    "website": "https://tradeverifyd.com/",
+    "description": "Tradeverifyd(r) transforms compliance from a regulatory burden into a strategic asset by providing real-time risk evaluation, AI-powered insights, and end-to-end supply chain visibility--helping the enterprise manage their supply chains with confidence.",
+    "location": "Bethesda, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mesur_io",
+      "linkedin": "https://linkedin.com/company/tradeverifyd",
+      "facebook": "https://facebook.com/mesur.io/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "EcoPlant",
+    "website": "https://ecoplant.co/",
+    "description": "Ecoplant helps maintenance and productions managers, energy supervisors, and service providers save up to 50% on the electricity bill.",
+    "location": "Ashqelon, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/Ecoplant2017",
+      "linkedin": "https://linkedin.com/company/ecoplant-technological-innovation-ltd",
+      "facebook": "https://facebook.com/ecoplant.co/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Spoiler Alert",
+    "website": "https://spoileralert.com/",
+    "description": "Spoiler Alert offers helps operators of food distribution and fulfillment centers better manage unsold inventory.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SpoilerAlert",
+      "linkedin": "https://linkedin.com/company/spoiler-alert",
+      "facebook": "https://facebook.com/foodspoileralert"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Whole Surplus",
+    "website": "https://wholesurplus.com/",
+    "description": "Tech solutions for Surplus Management",
+    "location": "Istanbul, Turkey",
+    "social_media": {
+      "twitter": "https://twitter.com/wholesurplus",
+      "linkedin": "https://linkedin.com/company/wholesurplus",
+      "facebook": "https://facebook.com/wholesurplus/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Conservation Labs",
+    "website": "https://conservationlabs.com/",
+    "description": "Conservation Labs first product, H2know, is a smart water technology for the built environment.",
+    "location": "Brownsville, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/doyouh2know",
+      "linkedin": "https://linkedin.com/company/conservation-labs",
+      "facebook": "https://facebook.com/DoYouH2know"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "MOLG",
+    "website": "https://molg.ai/",
+    "description": "MOLG helps complex electronic products companies design/manufacture more sustainable products using proprietary design software, autonomous robotics, and an open source traceability system.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/molg"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Treet",
+    "website": "https://treet.co/",
+    "description": "Treet helps fashion brands own their secondhand market. Live with three brands with a 45% sell-through rate.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/treetshop",
+      "facebook": "https://facebook.com/shoptreet"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Cabinet Health",
+    "website": "https://wearecabinet.com/",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/joinCabinet",
+      "linkedin": "https://linkedin.com/company/cabinet-health",
+      "facebook": "https://facebook.com/wearecabinet/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "ReelData AI",
+    "website": "https://reeldata.ai/",
+    "description": "AI for aquaculture. Delivers real time weight distributions, feeding analysis, health analysis and growth analysis",
+    "location": "Halifax, Nova Scotia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/reeldataai",
+      "linkedin": "https://linkedin.com/company/reeldata",
+      "facebook": "https://facebook.com/ReelDataAI"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "SwiftComply",
+    "website": "https://swiftcomply.io/",
+    "description": "Simplifying environmental compliance for more sustainable communities.",
+    "location": "Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/SwiftComply",
+      "linkedin": "https://linkedin.com/company/swiftcomply",
+      "facebook": "https://facebook.com/SwiftComply"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Graphite Innovation and Technologies",
+    "website": "https://grapheneenterprise.ca/",
+    "description": "Canada's leading protective marine coatings company specialized in high-performance coatings for large vessels that reduce fuel consumption and GHG",
+    "location": "Dartmouth, Nova Scotia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/GIT_Graphene",
+      "linkedin": "https://linkedin.com/company/grapheneenterprise"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Ecolectro",
+    "website": "https://ecolectro.com/",
+    "description": "Reducing the cost of green hydrogen by 33%.",
+    "location": "Ithaca, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ecolectroinc",
+      "linkedin": "https://linkedin.com/company/ecolectro-inc-",
+      "facebook": "https://facebook.com/ecolectroinc"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Grubbly Farms",
+    "website": "https://grubblyfarms.com/",
+    "description": "Grubbly Farms is producing a sustainable, insect based, food source for pets, aquaculture, and livestock.",
+    "location": "Norcross, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GrubblyFarms",
+      "linkedin": "https://linkedin.com/company/grubbly-farms-inc-",
+      "facebook": "https://facebook.com/GrubblyFarms/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Goodr",
+    "website": "https://goodr.co/",
+    "description": "Goodr is solving the surplus food supply chain problem. Our process helps make sure companies capture the maximum value of their food donations.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TheGoodrCo",
+      "linkedin": "https://linkedin.com/company/goodrco",
+      "facebook": "https://facebook.com/GoodrCo"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Vake",
+    "website": "https://vake.ai/",
+    "description": "Vake applies intelligence to satellite images to analyze all vessel traffic at sea, with the vision to perform this in real-time.",
+    "location": "Oslo, Norway",
+    "social_media": {
+      "twitter": "https://twitter.com/VakeAI",
+      "linkedin": "https://linkedin.com/company/vake-ai",
+      "facebook": "https://facebook.com/vakeai/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "2NDNATURE",
+    "website": "https://2ndnaturewater.com/",
+    "description": "2NDNATURE builds enterprise cloud stormwater compliance and management software to inform clean water.",
+    "location": "Santa Cruz, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/2ndnaturewater",
+      "linkedin": "https://linkedin.com/company/2ndnaturewater",
+      "facebook": "https://facebook.com/2ndnaturewater/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Enertiv",
+    "website": "https://enertiv.com/",
+    "description": "Enertiv transforms real-time building data into actionable insights and recommendations that save energy and money.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/enertiv",
+      "linkedin": "https://linkedin.com/company/enertiv",
+      "facebook": "https://facebook.com/enertiv"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Lunasonde",
+    "website": "https://lunasonde.com/",
+    "description": "Lunasonde makes the underground world visible.  Through our revolutionary low-frequency radar, we're pioneering subsurface imaging while providing a sustainable approach to resource exploration.",
+    "location": "Cortaro, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lunasonde",
+      "linkedin": "https://linkedin.com/company/lunasonde"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Dispatch Goods",
+    "website": "https://dispatchgoods.com/",
+    "description": "Dispatch Goods is a reverse logistics company accelerating the shift to reusable packaging for restaurants, food businesses & consumers.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dispatch-goods",
+      "facebook": "https://facebook.com/dispatchgoods/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Bitfinder",
+    "website": "https://bitfinder.co/",
+    "description": "Awair is the smart indoor air monitor that learns your wellness needs and provides solutions to a healthier environment.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getawair",
+      "linkedin": "https://linkedin.com/company/bitfinder",
+      "facebook": "https://facebook.com/getawair"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "StormSensor",
+    "website": "https://stormsensor.io/",
+    "description": "StormSensor creates smart urban watersheds. Our sensors & analytics provide insights to cities regarding how their stormwater systems function & where they fail",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/stormsensor",
+      "linkedin": "https://linkedin.com/company/stormsensor",
+      "facebook": "https://facebook.com/stormsensor.inc"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "TradeLanes",
+    "website": "https://tradelanes.co/",
+    "description": "TradeLanes eliminates the manual paperwork needed to ship ocean containers.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tradelanesinc",
+      "linkedin": "https://linkedin.com/company/tradelanes",
+      "facebook": "https://facebook.com/tradelanes/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "AGTools",
+    "website": "https://ag.tools/",
+    "description": "Agtools is a real-time data and market intelligence platform that provides transparency to the global food & ag industry.",
+    "location": "Irvine, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ag_tools",
+      "linkedin": "https://linkedin.com/company/agtools",
+      "facebook": "https://facebook.com/AgtoolsInc/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Phood Solutions",
+    "website": "https://phoodsolutions.com/",
+    "description": "Food waste prevention company that helps food businesses reduce their food waste by 50%, save 8-10% of food costs, and assists with food donations.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/phoodsolutions",
+      "linkedin": "https://linkedin.com/company/phoodsolutions",
+      "facebook": "https://facebook.com/phoodsolutions"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Riverse",
+    "website": "https://riverse.io/",
+    "description": "Enables European SMEs scaling decarbonization technologies to monetize their impact with a platform",
+    "location": "Fresnes, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/riverse"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Sirius",
+    "website": "https://besirius.io/",
+    "description": "Sirius empowers small businesses to decarbonize: discover, finance, implement.",
+    "location": "Amsterdam, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/besirius",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "MITO Material Solutions",
+    "website": "https://mitomaterials.com/",
+    "description": "MITO Material Solutions manufactures hybrid nano-additives, enabling composite manufacturers to create tougher, lighter, and more durable products.",
+    "location": "Stillwater, Oklahoma, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MITO_Materials",
+      "linkedin": "https://linkedin.com/company/mitomaterials",
+      "facebook": "https://facebook.com/MITOMaterialSolutions/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Kazadi Enterprises",
+    "website": "https://kazadienterprises.com/",
+    "description": "Kazadi Enterprises is reducing the energy requirements of AC and brine reduction for mineral recovery by using environmental heat as a primary energy source.",
+    "location": "Batavia, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/kazadienterpri1",
+      "linkedin": "https://linkedin.com/company/kazadi-enterprises",
+      "facebook": "https://facebook.com/kazadienterprises"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Sheets & Giggles",
+    "website": "https://sheetsgiggles.com/",
+    "description": "Rapidly growing direct-to-consumer brand offers premium, sustainable home textiles at an affordable price.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SheetsGiggles",
+      "linkedin": "https://linkedin.com/company/sheetsgiggles",
+      "facebook": "https://facebook.com/SheetsGiggles/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Boson Motors",
+    "website": "https://bosonmotors.com/",
+    "description": "Boson Motors designs and manufactures certified light-duty electric vehicle powertrains and an Android-based vehicle operating system.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/w65gzgrvga1qioqqvnhu",
+    "location": "Milpitas, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/aforaruntej",
+      "linkedin": "https://linkedin.com/company/boson-motors"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Mushroom Material",
+    "website": "https://mushroommaterial.com/",
+    "description": "A sustainable mushroom based alternative to polystyrene Styrofoam and cardboard packaging",
+    "location": "Auckland, New Zealand",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mushroom-material"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "IONA",
+    "website": "https://ionadrones.com/",
+    "description": "IONA develops zero-emission autonomous drone solutions for sustainable and efficient logistics in low population density areas.",
+    "location": "Bedford, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ionalogistics"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Flecto",
+    "website": "https://flecto.io/",
+    "description": "Rnters is the rental solution for any company.",
+    "location": "Lisbon, Portugal",
+    "social_media": {
+      "twitter": "https://twitter.com/flectoio",
+      "linkedin": "https://linkedin.com/company/flecto-io",
+      "facebook": "https://facebook.com/rnters/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "microTERRA",
+    "website": "https://microterra.com.mx/",
+    "description": "Sustainable protein from wastewater. By combining Biotech and Hardware we develop microalgae systems that transform the fish farms wastewater into fish feed.",
+    "location": "Irapuato, Guanajuato, Mexico",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/40664387",
+      "facebook": "https://facebook.com/microTERRA.mx/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "KITRO",
+    "website": "https://kitro.ch/",
+    "description": "Simplifying food waste management for the food and beverage industry",
+    "location": "Renens, Switzerland",
+    "social_media": {
+      "twitter": "https://twitter.com/KITRO_FoodWaste",
+      "linkedin": "https://linkedin.com/company/kitro",
+      "facebook": "https://facebook.com/KITROFoodWaste/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Pelikan Mobility",
+    "website": "https://pelikan-mobility.com/",
+    "description": "Software platform to optimize the electrification and operation of commercial fleets.",
+    "location": "Paris, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pelikan-mobility"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "PolyXLabs",
+    "website": "https://poliloop.com/",
+    "description": "We make non-biodegradable plastics microbially biodegrade and then turn the byproducts into valuable endproducts.",
+    "location": "Budapest, Hungary",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/poliloop"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Salient Energy",
+    "website": "https://salientenergy.ca/",
+    "description": "Cheap, safe, and long lasting zinc ion batteries for energy storage.",
+    "location": "Dartmouth, Nova Scotia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/SalientEnergy",
+      "linkedin": "https://linkedin.com/company/salient-energy"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Yoona",
+    "website": "https://yoona-tech.com/",
+    "description": "Puma, Vaude, and Vogue Magazine are already using Yoona.ai to shorten their design processes.",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/yoona",
+      "linkedin": "https://linkedin.com/company/yoonaai",
+      "facebook": "https://facebook.com/YOONAtech"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Renoster Systems",
+    "website": "https://renostersystems.co/",
+    "description": "Deep Transparency for the world's carbon credits.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/systemsrenoster",
+      "linkedin": "https://linkedin.com/company/53448926"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Resourcly",
+    "website": "https://resourcly.earth/",
+    "description": "Resourcly helps manufacturers improve working capital with their shared inventory OS by leveraging product data and AI.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nhwtwxgzlxizocndm7jl",
+    "location": "Mannheim, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/resourcly"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "illuminem",
+    "website": "https://illuminem.com/",
+    "description": "illuminem is the world's leading source of sustainability & energy information",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fhgdrhxwtrcjhrjtpxe5",
+    "location": "Pistoia, Pistoia, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/illuminemNews",
+      "linkedin": "https://linkedin.com/company/illuminem"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Peerby",
+    "website": "https://peerby.com/",
+    "description": "Borrow the things you need from others in their neighborhood.",
+    "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/112248-6ba181c8aec16fea2624569252be169d-medium_jpg.jpg?buster=1344532685",
+    "location": "Amsterdam, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/peerby",
+      "linkedin": "https://linkedin.com/company/2459488",
+      "facebook": "https://facebook.com/peerby"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Dyrt",
+    "website": "https://dyrt.co/",
+    "description": "Dyrt is a food waste management platform that provides visibility and simplicity for large-scale producers of food waste while simultaneously bringing compliance to an evolving regulatory environment.",
+    "location": "Rancho Palos Verdes, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dyrt"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Valyuu",
+    "website": "https://valyuu.com/",
+    "description": "Circular economy marketplace that unlocks the financial and environmental benefits of used electronic products.",
+    "location": "Gorinchem, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/HelloValyuu",
+      "linkedin": "https://linkedin.com/company/valyuu",
+      "facebook": "https://facebook.com/HelloValyuu/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Ambee",
+    "website": "https://getambee.com/",
+    "description": "Ambee aims to make hyperlocal air quality data accessable to developers, consumers, health researchers and media companies",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "twitter": "https://twitter.com/get_ambee",
+      "linkedin": "https://linkedin.com/company/getambee",
+      "facebook": "https://facebook.com/getambee/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Graphenest",
+    "website": "https://graphenest.com/",
+    "description": "Graphenest provides a two order of magnitude cost reduction in manufacture of graphene, a wonder material that enables high-performance materials",
+    "location": "Sever do Vouga, Portugal",
+    "social_media": {
+      "twitter": "https://twitter.com/graphenest",
+      "linkedin": "https://linkedin.com/company/graphenest---advanced-nanotechnology",
+      "facebook": "https://facebook.com/graphenest"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Go To-U",
+    "website": "https://go-tou.com/",
+    "description": "GO TO-U is a SaaS operating system that helps manage and monetize EV charging infrastructure for electric vehicles. Using big data and machine learning to optimize demand, predict electricity consumption, and monitor charging sessions.",
+    "location": "Lviv, Ukraine",
+    "social_media": {
+      "twitter": "https://twitter.com/GoToUgreen",
+      "linkedin": "https://linkedin.com/company/to-u",
+      "facebook": "https://facebook.com/gotougreen"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Green Canopy NODE",
+    "website": "https://greencanopynode.com/",
+    "description": "Node is a global talent marketplace to help companies hire the best international talent using local recruiters and universities.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nodeeco",
+      "linkedin": "https://linkedin.com/company/node-recruiting",
+      "facebook": "https://facebook.com/artificialintuition/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Movopack",
+    "website": "https://movopack.com/",
+    "description": "Movo provides circular and reusable packaging solutions for e-commerce folks.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gq1pnrsfooafpwwencbx",
+    "location": "Milan, Milan, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/movopack",
+      "facebook": "https://facebook.com/Movopack/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "WorkTorch",
+    "website": "https://getquickhire.com/",
+    "description": "A career discovery platform for the service economy workforce.",
+    "location": "Wichita, Kansas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getquickhire",
+      "linkedin": "https://linkedin.com/company/getquickhire",
+      "facebook": "https://facebook.com/getquickhire/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Cnergreen",
+    "website": "https://cnergreen.ca/",
+    "description": "Enhanced oil recovery and CO2 storage efficiency via resilient nanoparticle-based foam technology",
+    "location": "Calgary, Alberta, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cnergreen"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Cassie",
+    "website": "https://aircassie.com/",
+    "description": "CASSIE creates green air filtration with a patented technology that is placed in ventilation systems. CASSIE disinfects mold, bacteria, and viruses within 8 seconds. Since CASSIE disinfects germs within 8 seconds it is controlled by our web portal.",
+    "location": "Virginia Beach, Virginia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/2e1blab"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Renewal Mill",
+    "website": "https://renewalmill.com/",
+    "description": "Renewal Mill is a next generation ingredients company that upcycles byproducts from food manufacturing into high-quality ingredients and products.",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/renewalmill",
+      "linkedin": "https://linkedin.com/company/renewal-mill",
+      "facebook": "https://facebook.com/renewalmill"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "ValueCo",
+    "website": "https://valuecometrics.com/",
+    "description": "ValueCo is here to solve the ESG mess and bring more objectivity and engagement in the space",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/Valuecometrics",
+      "linkedin": "https://linkedin.com/company/valuecometrics",
+      "facebook": "https://facebook.com/Valuecometrics"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "ServeScape",
+    "website": "https://servescape.net/",
+    "description": "Georgia Grown Plants Delivered.",
+    "location": "Chamblee, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ServeScape",
+      "linkedin": "https://linkedin.com/company/28671336",
+      "facebook": "https://facebook.com/ServeScape/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Saara",
+    "website": "https://saara.io/",
+    "description": "Saara helps ecommerce businesses reduce, automate and monetize returns.",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "twitter": "https://twitter.com/Saara_inc",
+      "linkedin": "https://linkedin.com/company/saara-inc",
+      "facebook": "https://facebook.com/SaaraInc/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Freshline",
+    "website": "https://freshline.io/",
+    "description": "Connecting restaurants and commercial seafood harvesters.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/coastlinemarket",
+      "linkedin": "https://linkedin.com/company/freshlineapp",
+      "facebook": "https://facebook.com/freshline.io/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Wattmore",
+    "website": "https://wattmore.com/",
+    "description": "Nikola Power provides technology solutions in energy storage and solar.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nikola_power",
+      "linkedin": "https://linkedin.com/company/16262747",
+      "facebook": "https://facebook.com/Nikola-Power-1467102610009093"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "EthicsGrade",
+    "website": "https://ethicsgrade.io/",
+    "description": "EthicsGrade is a SaaS platform for rating your supplier's ESG risks. We focus on ESG risks of digitalisation such as cybersecurity, data protection and AI ethics",
+    "location": "St Briavels, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/ethicsgrade",
+      "linkedin": "https://linkedin.com/company/ethicsgrade"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Gelatex",
+    "website": "https://gelatex.com/",
+    "description": "Gelatex is the catalyst for cultured meat, wound care, filtration, and energy storage by providing up to 100 times cheaper and scalable nanofiber production.",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "twitter": "https://twitter.com/gela_tex",
+      "linkedin": "https://linkedin.com/company/gelatex",
+      "facebook": "https://facebook.com/gelatex/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "CAALA",
+    "website": "https://caala.de/",
+    "description": "Digital assistant for architects to provide real time information regarding the energy demand and CO2 footprint of the building in the early design phase.",
+    "location": "Munich, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/caala_s",
+      "linkedin": "https://linkedin.com/company/caala",
+      "facebook": "https://facebook.com/caalasoftware/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Latitudo40",
+    "website": "https://latitudo40.com/",
+    "description": "Latitudo 40 transforms images into useful information with actionable insights on our planet.",
+    "location": "Naples, Naples, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/latitudo40",
+      "linkedin": "https://linkedin.com/company/latitudo-40",
+      "facebook": "https://facebook.com/latitudo40/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "hexafarms",
+    "website": "https://hexafarms.com/",
+    "description": "Hyper-efficient autonomous indoor farms that scale at the speed of software",
+    "location": "Saarbrücken, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hexa-farms",
+      "facebook": "https://facebook.com/hexafarms"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Wiseair",
+    "website": "https://wiseair.vision/",
+    "description": "At Wiseair, we are enabling data-driven policy-making for sustainable cities and communities. Our product today is a solution to tackle air pollution in cities.",
+    "location": "Milan, Milan, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/wiseair_social",
+      "linkedin": "https://linkedin.com/company/19026152",
+      "facebook": "https://facebook.com/wiseair.social/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Local Crate",
+    "website": "https://localcratemeals.com/",
+    "description": "Fresh, local ingredients & chef-designed recipes delivered weekly to your home or office.",
+    "location": "Chanhassen, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/localcrate",
+      "linkedin": "https://linkedin.com/company/localcrate",
+      "facebook": "https://facebook.com/localcrate"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Bridged Media",
+    "website": "https://bridged.media/",
+    "description": "The AdSense for Impact, boosting publisher revenues, engagement and retention by up to 30% with Millennials and Gen-Z",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/nitl_app",
+      "linkedin": "https://linkedin.com/company/nitl-app",
+      "facebook": "https://facebook.com/newsinthreelines/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Nossa Data",
+    "website": "https://nossadata.com/",
+    "description": "Empowering companies to manage and plan their Environmental, Social, and Governance (ESG) needs.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Nossa_Data",
+      "linkedin": "https://linkedin.com/company/nossadata"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Wildnote",
+    "website": "https://wildnoteapp.com/",
+    "description": "Wildnote is a digital platform to seamlessly collect and report environmental data, eliminating the need for time-consuming traditional paperwork.",
+    "location": "San Luis Obispo, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/WildnoteApp",
+      "linkedin": "https://linkedin.com/company/wildnote",
+      "facebook": "https://facebook.com/wildnoteapp/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Wind Fisher",
+    "website": "https://wind-fisher.com/",
+    "description": "There is on shore ; there is off shore ; and there is high altitude wind. We develop a revolutionary concept for high altitude wind energy: safer, lighter, quicker, and more cost-effective. We re-invent wind power",
+    "location": "Les Adrets, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/wind-fisher"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Jaipur Robotics",
+    "website": "https://jaipurrobotics.com/",
+    "description": "Jaipur Robotics is building Europe's #1 AI-powered waste recognition and sorting solution for recycling and energy recovery.",
+    "location": "Manno, Switzerland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/jaipurrobotics"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Replace",
+    "website": "https://replacefund.com/",
+    "description": "Services for Renewable Energy",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/Replacefund",
+      "linkedin": "https://linkedin.com/company/renewable-energy-place-ltd",
+      "facebook": "https://facebook.com/Replacefund"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Carbon Limit",
+    "website": "https://carbonlimit.com/",
+    "description": "A climate tech company with a technology that transforms concrete into a permanent Carbon Capture & Storage Solution (CCS).",
+    "location": "Boca Raton, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CarbonLimit",
+      "linkedin": "https://linkedin.com/company/carbonlimit"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "geoFluxus",
+    "website": "https://geofluxus.com/",
+    "description": "We map waste",
+    "location": "Rotterdam, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/GFluxus",
+      "linkedin": "https://linkedin.com/company/geofluxus"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Elektrik App",
+    "website": "https://elektrikapp.com/",
+    "description": "Building the first online marketplace for the $200B electrical equipment industry.",
+    "location": "Lindon, Utah, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/elektrik_app",
+      "linkedin": "https://linkedin.com/company/elektrik-app"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "OE Systems AB",
+    "website": "https://oe-systems.com/",
+    "description": "A product and service company that delivers our own commercial wave energy solution that focuses on being installed in parallel with offshore wind turbines to enable increased production.",
+    "location": "Göteborg, Sweden",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oe-systems-ab"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "FlyWire",
+    "website": "https://flywirecameras.com/",
+    "description": "We work with fishers & seafood suppliers to provide at-sea verification of sustainable fishing, translating video-enabled fisher data into actionable insights",
+    "location": "Lexington, Kentucky, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/flywirecameras",
+      "linkedin": "https://linkedin.com/company/flywire-line-of-sight-cameras",
+      "facebook": "https://facebook.com/flywirecameras/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "E-Fish",
+    "website": "https://e-fish.com/",
+    "description": "DTC seafood marketplace connecting at-home discerning cooks to independent seafood wholesalers at scale.  10 suppliers, 1000+ customers,  $30K+ Monthly GMV.",
+    "location": "Newport Beach, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/e-fish-co",
+      "facebook": "https://facebook.com/Efishco"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "CircularPlace",
+    "website": "https://circularplace.fr/",
+    "description": "Vendez, donnez ou recyclez, vos invendus et vos retours clients.",
+    "location": "Meudon, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/circularplace"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "OKO",
+    "website": "https://oko.finance/",
+    "description": "OKO is an InsurTech solution to bring crop insurance to emerging markets and provide smallholder farmers with a financial protection against climate risks",
+    "location": "Luxembourg, Luxembourg",
+    "social_media": {
+      "twitter": "https://twitter.com/OKO_insurance",
+      "linkedin": "https://linkedin.com/company/oko-exchange",
+      "facebook": "https://facebook.com/OKOInsurance/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Natufia Labs",
+    "website": "https://natufia.com/",
+    "description": "Access to a sustainable, easy and immediate supply of fresh greens is a human right. We are the Nespresso for plants and herbs.",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "twitter": "https://twitter.com/NATUFIA_Labs",
+      "linkedin": "https://linkedin.com/company/natufia-labs",
+      "facebook": "https://facebook.com/natufia"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "ReVert Technologies",
+    "website": "https://revert-tech.com/",
+    "description": "We make AI-enabled power outlets to help consumers become conservers.",
+    "location": "Jersey City, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/revert-technologies-inc",
+      "facebook": "https://facebook.com/TeakSmartCube"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Nditive",
+    "website": "https://nditive.com/",
+    "description": "AI-powered digital twin-driven gas monitoring system",
+    "location": "St. John's, Newfoundland and Labrador, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nditive"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "f3nice",
+    "website": "https://f3nice.com/",
+    "description": "Circular economy for additive manufacturing",
+    "location": "Milan, Milan, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/f3nice"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Allegiant H2O",
+    "website": "https://h2oallegiant.com/",
+    "description": "Bridging the gap between water projects, the necessary technology and financial solutions.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/h2o-allegiant",
+      "facebook": "https://facebook.com/H2OAllegiant"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Dynamic Green Products",
+    "website": "https://nvearth.com/",
+    "description": "Innovative products for a cleaner future",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/dgpworks",
+      "linkedin": "https://linkedin.com/in/dynamic-green-products-63a0b733",
+      "facebook": "https://facebook.com/nvearth"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Hydrologistics Africa",
+    "website": "https://hydroiq.africa/",
+    "description": "HydroIQ is the World's First Virtual Water Network Operator (VWNO), bringing value in every drop.",
+    "location": "Nairobi, Kenya",
+    "social_media": {
+      "twitter": "https://twitter.com/HydroIQ",
+      "linkedin": "https://linkedin.com/company/hydroiq",
+      "facebook": "https://facebook.com/HydroIQ/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Elegus Technologies",
+    "website": "https://elegustech.com/",
+    "description": "Elegus is commercializing Kevlar nanotechnology that can enable safer, longer lasting batteries.",
+    "location": "Ann Arbor, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/elegustech",
+      "linkedin": "https://linkedin.com/company/elegus-technologies"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Tova Earth",
+    "website": "https://tova.earth/",
+    "description": "We predict business risk from water scarcity. WaterProof(tm) is a DaaS product using our physics informed AI hydrologic model to forecast water availability anywhere, accessible via an interactive platform and API. Corporations and investors will use WaterProof to minimize disruptions, eliminate water constraints on growth, and identify investment opportunities. Our AI replaces expensive, manual consulting with automated, high-resolution insights. The TurboTax of water engineering consulting.",
+    "location": "Amherst, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tovaearth"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Troposphere",
+    "website": "https://troposphe.re/",
+    "description": "Clair helps you breathe easy with air monitoring. Our devices tell you what's in the air, identify the source of impurities, and provide air-clearing advice.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tropotweets",
+      "linkedin": "https://linkedin.com/company/getclair",
+      "facebook": "https://facebook.com/getclair"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "ATMO",
+    "website": "https://atmo.earth/",
+    "description": "atmo helps banks to reduce their financed emissions - starting with food.",
+    "location": "Berlin, Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/atmoearth"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "SurPlusMap",
+    "website": "https://surplusmap.com/",
+    "description": "Geospatial analytics to empower decision-makers in the green transition.",
+    "location": "Oslo, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/surplusmap"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Sol Clarity",
+    "website": "https://solclarityeds.com/",
+    "description": "Water-free, Automated and Self-Cleaning Solar Power.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sol-clarity"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "VORTEX BLADELESS",
+    "website": "https://vortexbladeless.com/",
+    "description": "Harnessing wind energy without blades ; reducing the cost of electricity",
+    "location": "Las Rozas de Madrid, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/vortexbladeless",
+      "linkedin": "https://linkedin.com/company/9333952",
+      "facebook": "https://facebook.com/vortexbladeless"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Albo",
+    "website": "https://albosys.com/",
+    "description": "Albo analyzes satellite imagery to survey soil deep beneath the surface, empowering farmers to grow more efficiently and more sustainably.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/AlboClimate",
+      "linkedin": "https://linkedin.com/company/albosys",
+      "facebook": "https://facebook.com/AlboSystems/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Nicslab",
+    "website": "https://nicslab.com/",
+    "description": "Nicslab, a fabless chip company, developing electronic and photonic integrated circuits for future optical solutions in data centers, AI, and quantum computing.",
+    "location": "Sydney, New South Wales, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/NicslabOfficial",
+      "linkedin": "https://linkedin.com/company/nicslab",
+      "facebook": "https://facebook.com/Nicslab.Support/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Verifi Data Corp",
+    "website": "https://verifi.eco/",
+    "description": "VeriFi solves sustainable agriculture programs' critical issues in credibility, profitability, and scale with our configurable farm-level data automation SaaS providing data sovereignty, validation, verification, analysis, and transaction.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/verifidatacorp"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "SanChip",
+    "website": "https://sanchip.net/",
+    "description": "SanChip gives machine owners peace of mind by enabling the move to Predictive Maintenance strategies, thanks to real-time, remote monitoring of machines",
+    "location": "Capannori, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sanchip"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Rana",
+    "website": "https://ranaenergy.co/",
+    "description": "RANA is building a brighter future for you, we provide an Energy-as-a-service ecosystem that is reliable, hassle-free and clean",
+    "location": "London, United Kingdom",
+    "social_media": {},
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "YEESMA SARL",
+    "website": "https://yeesma.com/",
+    "description": "YEESMA Provides EXCITING Solutions.",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {},
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Biomod AI",
+    "website": "https://biomodai.com/",
+    "description": "AI Assistant for Biotech R&D",
+    "location": "Zuid-Scharwoude, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/biomodai"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Induction Food Systems",
+    "website": "https://inductionfoodsystems.com/",
+    "description": "Advanced fluid heating equipment that helps industrials profitably decarbonize their manufacturing ops.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ifsheating",
+      "linkedin": "https://linkedin.com/company/induction-food-systems"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Big Wheelbarrow",
+    "website": "https://bigwheelbarrow.com/",
+    "description": "Big Wheelbarrow is a saas company that enables wholesale food buyers to find and work with small local producers.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/big_wheelbarrow",
+      "linkedin": "https://linkedin.com/company/big-wheelbarrow",
+      "facebook": "https://facebook.com/bigwheelbarrow"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Igugu Global",
+    "website": "https://igugu.global/",
+    "description": "Africa's green deal room",
+    "location": "Johannesburg, South Africa",
+    "social_media": {
+      "twitter": "https://twitter.com/GlobalIgugu",
+      "linkedin": "https://linkedin.com/company/igugu-global"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Elio",
+    "website": "https://elio.earth/",
+    "description": "Elio enables analysts in companies & governments to respond to climate change's dynamism and rapidly act on climate solutions with confidence, by putting leading scientific data into context.",
+    "location": "Yorba Linda, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ElioEarth",
+      "linkedin": "https://linkedin.com/company/elio-earth"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Climatescape",
+    "website": "https://climatescape.org/",
+    "description": "Climatescape is the investment platform for the climate generation",
+    "location": "Walnut, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/climatescape",
+      "linkedin": "https://linkedin.com/company/climatescape"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Benchmark Labs",
+    "website": "https://benchmarklabs.com/",
+    "description": "Benchmark Labs reduces operational costs and improves management practices by offering localized environmental forecasts for the agricultural sector and beyond.",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LabsBenchmark",
+      "linkedin": "https://linkedin.com/company/benchmark-labs-inc"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Aclymate",
+    "website": "https://aclymate.com/",
+    "description": "Aclymate empowers small businesses to become Climate Leaders",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AclymateCarbon",
+      "linkedin": "https://linkedin.com/company/aclymate",
+      "facebook": "https://facebook.com/Aclymate/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Tobe Energy",
+    "website": "https://tobe.energy/",
+    "description": "Tobe Energy cuts green hydrogen production costs by over 50% with a breakthrough electrolysis technology, making hydrogen a scalable, zero-emission fuel source",
+    "location": "Tulsa, Oklahoma, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tobe-energy"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Smartbin",
+    "website": "https://smartbin.io/",
+    "description": "Smartbin is an indoor waste bin that notifies you when its full, keeps your space tidy and collects data about waste and recycling generation every single day.",
+    "location": "Walnut, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Smartbin_",
+      "linkedin": "https://linkedin.com/company/GetSmartBin"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Roll Scooters",
+    "website": "https://rollscooters.com/",
+    "description": "Roll offers smart mobility solutions by providing dock-less electric scooter and bike-share services to cities and campuses.",
+    "location": "Scarborough, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/roll_scooters",
+      "linkedin": "https://linkedin.com/company/roll-technologies",
+      "facebook": "https://facebook.com/rollscooters"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Namara Water Technologies",
+    "website": "https://namarawater.ai/",
+    "description": "Namara produces the most advance water management and conservation tools available in the market today.",
+    "location": "Carlsbad, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/namarawater"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Rivalia Chemical Co",
+    "website": "https://rivaliachemical.com/",
+    "description": "American-made rare earths, produced from wastes",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wix",
+      "linkedin": "https://linkedin.com/company/rivalia-chemical-co",
+      "facebook": "https://facebook.com/wix"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Latimer Controls",
+    "website": "https://latimercontrols.com/",
+    "description": "Provides an embedded control software solution that allows utility-scale solar power plants to mitigate the instabilities of power production associated with irradiance volatility.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/latimer-controls"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Fiskher AS",
+    "website": "https://fishbuddy.app/",
+    "description": "Fishbuddy revolutionizes recreational fishing with a knowledge-based approach, combining expert advice from top anglers in each country, AI/AR technology, and satellite data. Offering tailored fishing spots and real-time insights for key species, Fishbuddy also supports marine conservation by working with authorities like the Coast Guard, empowering users to fish smarter while protecting marine ecosystems.",
+    "location": "Lillesand, Agder, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/fishbuddy"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Ecolytics",
+    "website": "https://ecolytics.io/",
+    "description": "An impact intelligence platform designed to use environmental impact to support core business metrics and strategic decision-making",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ecolytics",
+      "linkedin": "https://linkedin.com/company/ecolytics",
+      "facebook": "https://facebook.com/ecolytics"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "ISeeChange",
+    "website": "https://iseechange.org/",
+    "description": "Mobilizing communities to provide valuable insight and micro-data about climate impacts",
+    "location": "New Orleans, Louisiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/iseechange",
+      "linkedin": "https://linkedin.com/company/iseechange",
+      "facebook": "https://facebook.com/iSeeChange"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Frontline Gig",
+    "website": "https://frontlinegig.com/",
+    "description": "Making it easy to source vetted, entry level and semi-skilled hourly workers for cleanups, inspections and managing green assets.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gnm2roiv8ebolzmjghqc",
+    "location": "Norfolk, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FrontlineGig",
+      "linkedin": "https://linkedin.com/company/frontline-gig",
+      "facebook": "https://facebook.com/frontlinegig"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Downtown AI",
+    "website": "https://downtown.ai/",
+    "description": "Analyze, Map and Predict Human Movements in Cities",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/DowntownAI",
+      "linkedin": "https://linkedin.com/company/downtown-ai",
+      "facebook": "https://facebook.com/downtownai"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Cobalt Water Global",
+    "website": "https://cobaltwater-global.com/",
+    "description": "AI & machine learning for sustainable urban water management.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cobaltwater_gbl",
+      "linkedin": "https://linkedin.com/company/cobalt-water-global",
+      "facebook": "https://facebook.com/totalwater/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Tether EV",
+    "website": "https://tetherev.io/",
+    "description": "Software that turns Electric Vehicles into giant virtual batteries.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xo3necd1ycsptdes6auz",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tetherev"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Norsjór AS",
+    "website": "https://norsjor.no/",
+    "description": "Norsjor has designed a technology to preserve marine life by using radiation.",
+    "location": "Kristiansand, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/norsjor-as"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Neomare",
+    "website": "https://neomare.no/",
+    "description": "Neomare is a developer of environmental technology platform providing seismic imaging using a containerized modular survey platform.",
+    "location": "Lillestrøm, Norway",
+    "social_media": {
+      "twitter": "https://twitter.com/NGeoservices",
+      "linkedin": "https://linkedin.com/company/neomare-as"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "NeedEnergy",
+    "website": "https://needenergy.io/",
+    "description": "Leverages innovation, data and modern technology relevant with times as its core values are to provide sustainable and clean energy solutions.",
+    "location": "Melbourne, Victoria, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/NeedEnergyzw",
+      "linkedin": "https://linkedin.com/company/needenergy",
+      "facebook": "https://facebook.com/NeedEnergyzw"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Liquidstar",
+    "website": "https://liquistar.io/",
+    "description": "Using solar energy to provide electricity, water and internet to the 1B+ without.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {},
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Enurgen",
+    "website": "https://enurgen.com/",
+    "description": "Deep-Tech Software Defining Utility Scale Solar Systems of Tomorrow\r\nCapturing Solar Asset Performance from Cells to Systems",
+    "location": "Ottawa, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/enurgeninc",
+      "linkedin": "https://linkedin.com/company/enurgen"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "EnkiAI",
+    "website": "https://enkiai.com/",
+    "description": "Revenue, business development, and investment teams use Enki to discover the next business opportunities.",
+    "location": "Valencia, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/enkiai",
+      "linkedin": "https://linkedin.com/company/enkiai",
+      "facebook": "https://facebook.com/enkiai"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "EarthCare",
+    "website": "https://earthcare.ai/",
+    "description": "EarthCare.ai helps (re)insurances, real-estate, retail, finance & agriculture sectors get access to the most accurate historical and real-time environmental & climate data to bolster resilience.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/earthcareai",
+      "linkedin": "https://linkedin.com/company/earthcareai",
+      "facebook": "https://facebook.com/earthcareai"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Flite Material Sciences",
+    "website": "https://flite.tech/",
+    "description": "FLITE is developing a technique to prevent ice, rust and fouling on surfaces using clean lasers instead of toxic coatings.",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/flite-material-sciences"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "RetroLabs",
+    "website": "https://retrolabs.io/",
+    "description": "Make any fridge smart. From reducing waste to auto-reordering your favorite foods, FreshCam does it for you.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/retrolabs-inc"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Trilleco",
+    "website": "https://trilleco.com/",
+    "description": "Trilleco is a 3D IoT sustainability platform that provides data transparency and transforms footprint.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/khyczbm32nrtavkmsenj",
+    "location": "Oulu, Finland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/trilleco",
+      "facebook": "https://facebook.com/Trilleco/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Terraseed",
+    "website": "https://terraseed.com/",
+    "description": "Sustainable and ethical supplements for the vegan, vegetarian and plant-based lifestyles.  .",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/terraseed",
+      "facebook": "https://facebook.com/earthseedmultivitamin"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "FortyGuard",
+    "website": "https://fortyguard.com/",
+    "description": "Climate technology leader revolutionizing AI-driven temperature intelligence targeting urban heat. We offer tailored, fast, and affordable  solutions, delivering precise, hyper-local maps and smart analytics.",
+    "location": "Abu Dhabi, United Arab Emirates",
+    "social_media": {
+      "twitter": "https://twitter.com/fortyguard",
+      "linkedin": "https://linkedin.com/company/fortyguard"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "IXON Food Technology",
+    "website": "https://ixon.com.hk/",
+    "description": "IXON specializes in advanced sous-vide aseptic packaging (ASAP), a technology that enables fresh meat to be stored at room temperature for up to two years.",
+    "location": "Fo Tan, Hong Kong",
+    "social_media": {
+      "twitter": "https://twitter.com/ixonfood",
+      "linkedin": "https://linkedin.com/company/ixonfoodtechnology",
+      "facebook": "https://facebook.com/ixonfoodtechnology/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Sync",
+    "website": "https://syncenergyai.com/",
+    "description": "No-code AI-based predictive software that streamlines planning and operations for electrical utilities, especially during emergencies.",
+    "location": "Hicksville, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/syncenergyai",
+      "linkedin": "https://linkedin.com/company/sync-energy"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "MeterLeader",
+    "website": "https://meterleader.com/",
+    "description": "MeterLeader sells its gamification platform to corporations to help with their real estate energy goals (ESG reporting), while also improving employee engagement. Their platform is integrated with real-time utility data and uses challenges to motivate use",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/eb9a57c21520d170fdf4",
+    "location": "Huntington Beach, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MeterLeader",
+      "linkedin": "https://linkedin.com/company/meterleader",
+      "facebook": "https://facebook.com/MeterLeaderCo/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Hyperion Global Energy",
+    "website": "https://hyperionenergy.ca/",
+    "description": "Developing modular carbon capture & recycling technology at a breakthrough industrial scale.",
+    "location": "Ottawa, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hyperion-global-energy"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Geolumina",
+    "website": "https://geolumina.ai/",
+    "description": "Intuitive AI with geologic insight",
+    "location": "Lakeway, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/geolumina"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "EnergyHawk",
+    "website": "https://energyhawk.co/",
+    "description": "Satellite Powered Energy Assessments, designed to accelerate the growth of distributed energy solutions.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EnergyHawk",
+      "linkedin": "https://linkedin.com/company/energyhawkinc",
+      "facebook": "https://facebook.com/EnergyHawkInc/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Dhakai",
+    "website": "https://dhakai.com/",
+    "description": "Dhakai is a premium B2B clothing sourcing marketplace that connects fashion brands directly to verified apparel manufacturers.",
+    "location": "Cedar Falls, Iowa, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/DhakaiDotCom",
+      "linkedin": "https://linkedin.com/company/dhakai",
+      "facebook": "https://facebook.com/dhakaidotcom/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Ashipa Electric",
+    "website": "https://ashipaelectric.com/",
+    "description": "Microgrid developer creating power solutions to energize economic activities in underserved communities across the globe.",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AshipaElectric",
+      "linkedin": "https://linkedin.com/company/ashipa-electric-corp",
+      "facebook": "https://facebook.com/AshipaElectric/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Witching Hour",
+    "website": "https://witchinghour.io/",
+    "description": "Eliminate forest fire risk for your electric utility",
+    "location": "St. Petersburg, Florida, United States",
+    "social_media": {},
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Regen Network",
+    "website": "https://regen.network/",
+    "description": "A global marketplace & contracting platform for Earth's ecosystem assets, services, and data.",
+    "location": "GREAT BARRINGTON, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/regen_network",
+      "linkedin": "https://linkedin.com/company/regen-network",
+      "facebook": "https://facebook.com/weareregennetwork"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Mobius",
+    "website": "https://mobius.co/",
+    "description": "We're creating a world where There's Wonder in Waste. We envision a future where waste streams are upcycled into chemicals and materials.",
+    "location": "Lenoir City, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mobiuspbc",
+      "linkedin": "https://linkedin.com/company/mobiuspbc",
+      "facebook": "https://facebook.com/mobiuspbc/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Dig Robotics",
+    "website": "https://digrobotics.com/",
+    "description": "Improving mass excavation, one bucket at a time.",
+    "location": "Nir Am, Israel",
+    "social_media": {},
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Blaise Transit",
+    "website": "https://blaisetransit.com/",
+    "description": "Blaise is an AI-based software platform that allows transit operators to run on-demand bus services using their existing vehicles.",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/blaisetransit",
+      "linkedin": "https://linkedin.com/company/blaisetransit",
+      "facebook": "https://facebook.com/blaisetransit/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Bext360",
+    "website": "https://bext360.com/",
+    "description": "Bext360 is a supply chain software management tool that tracks global commodities from the first mile, across processing nodes, and through retail.",
+    "location": "Golden, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bext360",
+      "linkedin": "https://linkedin.com/company/bext360",
+      "facebook": "https://facebook.com/bext360/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "AmorSui",
+    "website": "https://amorsuiclothing.com/",
+    "description": "AmorSui offers premium connected, integrated safety products that bring sustainability to healthcare innovators",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AmorsuiC",
+      "linkedin": "https://linkedin.com/company/amorsui",
+      "facebook": "https://facebook.com/amorsuiclothing/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Heuristech",
+    "website": "https://heuristech.eu/",
+    "description": "Differential Relectometry Mapping to assist with pipeline corrosion the correct way.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/x8izwhokrpydlff8ry1r",
+    "location": "Strasbourg, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/heuristech-sas"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Carbonext",
+    "website": "https://carbonextinc.com/",
+    "description": "At Carbonext Inc., we are developing a circularity strategy that retrofits existing architectures to produce industrial grade graphene in a cost-effective, scalable and environmentally friendly manner. Our technology addresses the pains of graphite users",
+    "location": "Houston, Texas, United States",
+    "social_media": {},
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Preflet",
+    "website": "https://preflet.com/",
+    "description": "Reducing buildings' carbon footprint with Energy AI",
+    "location": "Reutlingen, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/wearepreflet",
+      "linkedin": "https://linkedin.com/company/preflet",
+      "facebook": "https://facebook.com/preflet"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Moduly",
+    "website": "https://moduly.io/",
+    "description": "Smart energy storage platform designed to address the issue between power utilities and the mass of the population, such as GHG emissions, energy overproduction, peak consumption times, and its costs",
+    "location": "Longueuil, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/moduly_io",
+      "linkedin": "https://linkedin.com/company/12639702",
+      "facebook": "https://facebook.com/Moduly.io"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Iroko Analytics",
+    "website": "https://irokoanalytics.com/",
+    "description": "Provides EU timber traders with the analytics they need to comply with their legal due diligence requirements",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/project_canopy",
+      "linkedin": "https://linkedin.com/company/project-canopy"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Haylon Technologies",
+    "website": "https://haylontech.com/",
+    "description": "Making electrified products more sustainable by unleashing the full potential of existing batteries.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pkrnai4q4rldqqiyjr6p",
+    "location": "Champaign, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/haylon-technologies"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Accelerate Wind",
+    "website": "https://acceleratewind.com/",
+    "description": "Accelerate Wind is making wind energy generation affordable on commercial buildings.",
+    "location": "St. Louis, Missouri, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/acceleratewind"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Vestive",
+    "website": "https://getvestive.com/",
+    "description": "A digital investment advisor creating solutions that are better for the environment, our society, and our user's financial futures.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getvestive",
+      "linkedin": "https://linkedin.com/company/vestive",
+      "facebook": "https://facebook.com/getvestive"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "MADA Analytics",
+    "website": "https://madaanalytics.com/",
+    "description": "MADA Analytics is a predictive data analytic company for optimizing profits of renewable energy investments and operations with integrated storage solutions.",
+    "location": "Jerusalem, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mada-analytics"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Undesert Corporation",
+    "website": "https://undesert.com/",
+    "description": "Undesert is produce electrical power, deionized water, and dry salt with no liquid waste - Zero Liquid Discharge (ZLD).",
+    "location": "Los Alamos, New Mexico, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/undesert"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "SAILWINT",
+    "website": "https://sailwint.com/",
+    "description": "SAILWINT produces and delivers cheap, clean and resilient hydrogen at scale with autonomous wind turbine ships sailing offshore seas",
+    "location": "Berlin, Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sailwint"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Redivivum",
+    "website": "https://redivivumtechnology.com/",
+    "description": "Redivivum is developing the leading AI-driven automation solution to tackle the labor and expertise shortages in resale operations for the fashion industry.",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/redivivum"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Capyble",
+    "website": "https://capyble.com/",
+    "description": "Bringing experts to 1 million workplaces.",
+    "location": "Binalong, New South Wales, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/od-ai"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "NanoAPI",
+    "website": "https://nanoapi.io/",
+    "description": "NanoAPI is building the #1 refactoring tool for large codebases through automatically splitting APIs apart into microservices.",
+    "location": "Amsterdam, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nano-api"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Laminar Scientific",
+    "website": "https://laminarscientific.com/",
+    "description": "Laminar Scientific is tapping into the ocean to capture the steadiest renewable energy source.",
+    "location": "Iowa City, Iowa, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/laminarscientific",
+      "facebook": "https://facebook.com/laminarscientific"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Eolic Wall",
+    "website": "https://eolicwall.com/",
+    "description": "We provide homes, communities and businesses with cheap and highly efficient on-site wind energy to reach net-zero.",
+    "location": "Lima, Peru",
+    "social_media": {
+      "twitter": "https://twitter.com/@EolicWall",
+      "linkedin": "https://linkedin.com/company/eolic-wall"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Crow Industries",
+    "website": "https://crowindustriesinc.com/",
+    "description": "Critical Minerals producers cannot keep pace with the current and future resources demands for the Renewable Energy Transition. We are building the fully autonomous robotic laborforce that will allow these producers to exceed production targets while keep",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xdwzfupg75r9clgq4l0x",
+    "location": "Phoenix, Arizona, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/crowindustriesinc"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Novele",
+    "website": "https://novele.com/",
+    "description": "Novele is a real estate technology company that designs and develops solutions for the building in the digital age.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/noveleinc",
+      "linkedin": "https://linkedin.com/company/novele"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Spiral Blue",
+    "website": "https://spiralblue.space/",
+    "description": "Developing a SmallSat constellation with LiDAR-optical multisensor technology",
+    "location": "Eveleigh, New South Wales, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/spiralblue",
+      "facebook": "https://facebook.com/spiralblueptyltd/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Mithril Technologies",
+    "website": "https://mithril.space/",
+    "description": "Creates re-shapeable mesh antennas \r\nfor weather monitoring and SDA satellites\r\nin GEO",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mithril-technologies-inc"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "ColliMate Space",
+    "website": "https://collimatespace.com/",
+    "description": "Building a next gen ground-space operations software, using multi-modal AI/ML based systems.",
+    "location": "Santa Clara, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/collimate-space"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Afineur",
+    "website": "https://afineur.com/",
+    "description": "Afineur is developing fermentation technologies to enhance food flavor & nutritional profile",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/eatcultured",
+      "linkedin": "https://linkedin.com/company/afineur",
+      "facebook": "https://facebook.com/eatcultured"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Imago AI",
+    "website": "https://imagoai.com/",
+    "description": "ImagoAI provides agri-food quality decision system using Artificial Intelligence.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ttrktxcpkbz1son4uoeu",
+    "location": "Gurgaon, Haryana, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/imagoai"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Contain",
+    "website": "https://contain.ag/",
+    "description": "Platform that connects the people who make indoor growing happen.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hqsa5uqjskpbqjqubqdw",
+    "location": "Reno, Nevada, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/containag",
+      "linkedin": "https://linkedin.com/company/contain"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Strayos",
+    "website": "https://strayos.com/",
+    "description": "Strayos is a visual AI platform using computer vision, drones and sensor data to map subsurface for underground object detection",
+    "location": "Buffalo, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/StrayosAI",
+      "linkedin": "https://linkedin.com/company/strayos",
+      "facebook": "https://facebook.com/strayos/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Generation Environment",
+    "website": "https://generationenvironment.com/",
+    "description": "Generation Environment is a micro-philanthropy app that supports climate solutions and biodiversity protection.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/dt3celaaogikkz1k0wn8",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/generationenvironment",
+      "facebook": "https://facebook.com/WeAreAllGenE"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Pull To Refresh",
+    "website": "https://pulltorefresh.earth/",
+    "description": "Pull To Refresh is an environmental conservation organization that develops carbon removal technologies.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kvidrotiaemzbfvwlhxs",
+    "location": "Sunnvale, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/refreshingearth/",
+      "linkedin": "https://linkedin.com/company/pulltorefresh",
+      "facebook": "https://facebook.com/refreshingearth/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "TerraWaste",
+    "website": "https://terrawaste.tech/",
+    "description": "Waste-to-material (WTM) process converting plastic into feedstock",
+    "location": "Riga, Latvia",
+    "social_media": {
+      "twitter": "https://twitter.com/WasteTerra",
+      "linkedin": "https://linkedin.com/company/terrawaste"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "TAINR",
+    "website": "https://gotainr.com/",
+    "description": "TAINR manufactures modern dispensers to eliminate single-use plastic packaging from products.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wnjhkquefazx83fvhf4z",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/gotainr"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Segura",
+    "website": "https://segura-water.com/",
+    "description": "Water quality testing without the need for a lab - heavy metals at ppb level in under 5 minutes through a digitally connected device",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/segura-water"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Maygia",
+    "website": "https://maygia.com/",
+    "description": "Device using hydrogen to clean water while producing electricity",
+    "location": "Haifa, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/maygia"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Kadeya",
+    "website": "https://kadeya.com/",
+    "description": "Kadeya is a closed-loop water vending business that utilizes digitally connected reusable water bottles and tiny bottling equipment. Kadeya was founded by Manuela Zoninsein.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hellokadeya",
+      "linkedin": "https://linkedin.com/company/kdy",
+      "facebook": "https://facebook.com/AWMLimited"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "CarbonBridge",
+    "website": "https://carbonbridge.io/",
+    "description": "CarbonBridge is a climate-action company that generates industrial and transportation gases from agricultural waste streams. The methods used result in CDR as well as some offsets.",
+    "location": "San Jose, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/carbonbridge"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "3R Pallets",
+    "website": "https://3rpallets.com/",
+    "description": "Transforming Supply Chain with Closed Loop Cost Effective, Durable, & Sustainable Bio-Composite Pallets, Reducing Deforestation & Carbon Footprint",
+    "location": "Okmoes, Michigan, United States",
+    "social_media": {},
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Lotic Labs",
+    "website": "https://loticlabs.com/",
+    "description": "Powering financial innovation for water and the environment.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/loticlabs",
+      "linkedin": "https://linkedin.com/company/lotic-labs"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "MATERIA intel",
+    "website": "https://materiaintel.com/",
+    "description": "World's first border carbon adjustment (BCA) market intelligence platform",
+    "location": "Roma, Rome, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/martellafrancesco"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Raise Green",
+    "website": "https://raisegreen.com/",
+    "description": "Climatetech marketplace for local impact investing connecting capital with community need.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/raisegreeninc",
+      "linkedin": "https://linkedin.com/company/29305067",
+      "facebook": "https://facebook.com/RaiseGreenInc/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Fenyx",
+    "website": "https://fenyxhome.com/",
+    "description": "Tech-enabled broker for secondhand products, unlocking a second life for products.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/w71jz8put9yhzjuow7gu",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/fenyxhome"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Chargerzilla",
+    "website": "https://chargerzilla.com/",
+    "description": "Chargerzilla is a community-driven, AI-powered EV charging marketplace that connects property owners, EV charging networks, and businesses to EV drivers. Our platform increases utilization rates for charge point operators and unlocks new revenue streams for businesses such as hotels, commercial properties, and individual home owners.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/chargerzilla",
+      "linkedin": "https://linkedin.com/company/chargerzilla",
+      "facebook": "https://facebook.com/chargerzilla"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "BuildQ",
+    "website": "https://buildq.ai/",
+    "description": "AI-powered financing platform for sustainable infrastructure project",
+    "location": "Stanford, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/buildq"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Electromaim",
+    "website": "https://electromaim.com/",
+    "description": "Electromaim's solution produces clean energy from the water distribution systems of urban buildings. Our unique approach to capture a vast but hidden wasted energy stream not only contributes to decarbonization to fight climate change but also addresses the most important target: existing building infrastructure.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/electromaim"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Dedalo",
+    "website": "https://dedalo.ai/",
+    "description": "Dedalo AI, a pioneering Climate Tech enterprise, is dedicated to quantifying and mitigating the digital CO2 footprint.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vbj2o4h9wg2sdqdyuzqo",
+    "location": "Turin, Turin, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/DedaloAi",
+      "linkedin": "https://linkedin.com/company/dedalo-ai"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "ClimeRock",
+    "website": "https://climerock.com/",
+    "description": "Removing carbon while restoring soils with Enhanced Rock Weathering.",
+    "location": "Colombes, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/climerock"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Carbontribe Labs",
+    "website": "https://carbontribe.me/",
+    "description": "ReFi, Computer Vision MRV, Satellite x Machine Learning, Mangrove, Carbon Credit",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/awsoglgeqpldi0plhn23",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/Carbontribeme",
+      "linkedin": "https://linkedin.com/company/carbontribe"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "ADHERE GEAR Technology",
+    "website": "https://adheregearpodpaq.com/",
+    "description": "Sensor-based technology to monitor frozen and perishable food products",
+    "location": "Beaverton, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/adhere-gear-technology-corporation"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Split EV",
+    "website": "https://splitev.co/",
+    "description": "We're building the nation's largest electric vehicle charging network.",
+    "location": "Newark, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SplitEv",
+      "linkedin": "https://linkedin.com/company/81954408"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Hya Bioplastics",
+    "website": "https://hyabioplastics.com/",
+    "description": "Hya Bioplastics makes cost-competitive biodegradable food packaging using its proprietary decentralized manufacturing technology.",
+    "location": "Kampala, Uganda",
+    "social_media": {
+      "twitter": "https://twitter.com/hyabioplastics",
+      "linkedin": "https://linkedin.com/company/hya-bioplastics",
+      "facebook": "https://facebook.com/hyabioplastics/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "BOxES 4",
+    "website": "https://boxesdevices.com/",
+    "description": "We're powering the future of retail combining physical and digital technology to democratize convenient, space-efficient, affordable & sustainable retail!",
+    "location": "Minneapolis, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Boxesdevices",
+      "linkedin": "https://linkedin.com/company/boxes-dispositivos-dispensadores",
+      "facebook": "https://facebook.com/Boxes-dispositivos-dispensadores-103733117941696"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "MemPro USA",
+    "website": "https://mempro.com/",
+    "description": "Saving critical metals and lowering the costs of production",
+    "location": "Edwards, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/john-finley-8812435"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Vision Anchor",
+    "website": "https://visionanchor.net/",
+    "description": "VisionAnchor has developed the world's first smart anchoring system that actually tracks the anchor and sends a data feed to the boat. This makes anchoring faster and safer saving the owners hundreds of thousands of USD in damages or fines.",
+    "location": "Ljubljana, Slovenia",
+    "social_media": {
+      "twitter": "https://twitter.com/anchor_vision",
+      "linkedin": "https://linkedin.com/company/visionanchor",
+      "facebook": "https://facebook.com/visionanchorcam"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Soraytec",
+    "website": "https://soraytec.com/",
+    "description": "Direct Primary Side Monitoring and Metering of Electricity Networks",
+    "location": "Sankt Augustin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/soraytec"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Soltrex",
+    "website": "https://soltrex.io/",
+    "description": "Leading the solar energy automation revolution  with fully interoperable plant mgmt. and operation. Our RaaS platform, based on unmanned ground vehicles, tackles routine tasks from construction to maintenance, ensuring higher profits and cleaner power.",
+    "location": "Tel Aviv, Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/soltrex"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Reviway",
+    "website": "https://reviway.com/",
+    "description": "Reviway has the main aim of solving definitively the road surfaces deterioration problem, reducing roads maintenance costs by +30% and the related environmental impact by +50%.",
+    "location": "Reggio Emilia, Reggio Emilia, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/reviway"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "REN3for",
+    "website": "https://ren3for.com/",
+    "description": "REN3for offers a Predictive Weather and Power Prediction model that can predict weather 96 hours out, updated in real-time, at an average of 99% accuracy.",
+    "location": "Richmond, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/lisa-brunet"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Plug Zen",
+    "website": "https://plugzen.us/",
+    "description": "EV Charging Solutions, we develop & manufacture EV charging solutions",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/plug_zen",
+      "linkedin": "https://linkedin.com/company/plug-zen"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "ONOS",
+    "website": "https://onos.app/",
+    "description": "Onos is a safety & sustainability platform that helps companies reduce risk, enhance compliance, and lower their carbon footprint by automating and streamlining data collection, management, and reporting tools, eliminating busy work, and centralising key processes.",
+    "location": "Belfast, Northern Ireland, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/onostech"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Nimbus Aerospace",
+    "website": "https://nimbusaerospace.com/",
+    "description": "Electrifying private air travel",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/95763755"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Firewave",
+    "website": "https://firewave.earth/",
+    "description": "Firewave uses AI-powered IoT sensors for early wildfire detection, preventing small fires from escalating. We're dedicated to protecting communities and ecosystems.",
+    "location": "PARDES HANA KARKUR, Northern District, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/firewave-earth"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Eqtrade",
+    "website": "https://eqgrow.mydurable.com/",
+    "description": "Eqtrade, powered by AI and ML, bridges the gaps in international food systems. Empowering farmers without business knowledge to transform their lands into sustainable ventures.",
+    "location": "Madrid, Spain",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/isabella-bernal-colpas-25768b11a"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Eden Materials",
+    "website": "https://edenmaterials.io/",
+    "description": "Eden Materials transforms agricultural waste and turns it into biodegradable plastic.",
+    "location": "Tel Aviv, Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/eden-materials"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Dodda",
+    "website": "https://dodda.ai/",
+    "description": "Dodda is a SaaS product for Site Information and Building Code Analysis",
+    "location": "Clyde Hill, Washington, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/gayathri-g3-venkataraman-361915"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Cognitensor",
+    "website": "https://cognitensor.com/",
+    "description": "Helping transforming ESG data into operational efficiency!",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/uzkhfuhdegxpsw0jit8h",
+    "location": "Delhi, Delhi, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cognitensor"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Pirl Technology",
+    "website": "https://thepirl.com/",
+    "description": "Pirl: Largest EV charging network",
+    "location": "Rockville, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pirl-technology"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Monsapo",
+    "website": "https://monsapo.com/",
+    "description": "Monsapo manufactures and supplies cleaning products.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pjereuanfe8yr76uxpjb",
+    "location": "PARIS 8, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/monsapo"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "LoneReport",
+    "website": "https://lonereport.com/",
+    "description": "Verified and Automated ESG Compliance",
+    "location": "San Francisco, California, United States",
+    "social_media": {},
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Jackalo",
+    "website": "https://hellojackalo.com/",
+    "description": "Jackalo | Playclothes Made Better",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hellojackalo",
+      "linkedin": "https://linkedin.com/company/jackalo",
+      "facebook": "https://facebook.com/hellojackalo"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "RideCommerce",
+    "website": "https://ridecommerce.co/",
+    "description": "ESG Supply Chain Platform for Scope 1,2,3 emissions",
+    "location": "Slough, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ridecommerce"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Carbo Energy",
+    "website": "https://carbo.energy/",
+    "description": "Scaling energy storage for a greener future",
+    "location": "Ciudad de Buenos Aires, Argentina",
+    "social_media": {},
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Rhubarb Labs",
+    "website": "https://joinrhubarb.com/",
+    "description": "Trusted Social Commerce for Food Gardeners & the Industry that supports them.\nRhubarb is an AI-powered, globally connected community of home food growers who are all committed to making a positive change.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/yu7ygjmdxwbhxqtsjwth",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rhubarblabs"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Rayda",
+    "website": "https://rayda.co/",
+    "description": "Acquire, manage and dispose of IT assets globally",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xyv3u8rypovcx9s3mlac",
+    "location": "Lewes, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rayda_hq",
+      "linkedin": "https://linkedin.com/company/raydahq",
+      "facebook": "https://facebook.com/myraydaHQ"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Prinsta",
+    "website": "https://prinsta.io/",
+    "description": "Prinsta is developing the next generation of electronic manufacturing. Today we are launching our factory-in-a-box desktop circuit board printer.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/prinsta",
+      "facebook": "https://facebook.com/PrinstaOfficial/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Impact Bytes",
+    "website": "https://impactbytes.io/",
+    "description": "The fair and sustainable search engine that collects from over 300 fashion brands in one place.",
+    "location": "Amsterdam, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/Project_Cece",
+      "linkedin": "https://linkedin.com/company/project-cece",
+      "facebook": "https://facebook.com/projectcece/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Craste",
+    "website": "https://craste.co/",
+    "description": "Craste is a company which build sustainable packaging and furniture from crop waste.",
+    "location": "Pune, Maharashtra, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/craste",
+      "facebook": "https://facebook.com/CrasteCompany/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Climatize",
+    "website": "https://climatize.earth/",
+    "description": "For Gen Z & Millennials struggling with climate-anxiety, Climatize provides a mobile app where they can simply invest the spare change from their everyday credit card purchases directly in profitable climate projects.",
+    "location": "Santa Cruz, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Climatize_earth",
+      "linkedin": "https://linkedin.com/company/climatize-earth",
+      "facebook": "https://facebook.com/climatize.earth"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "BuckUp",
+    "website": "https://gobuckup.com/",
+    "description": "BuckUp helps your wallet & the planet - we give your old tech a second life and get cash in your wallet, in minutes.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gobuckup",
+      "linkedin": "https://linkedin.com/company/buckup-inc",
+      "facebook": "https://facebook.com/GoBuckUp"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Boxologic",
+    "website": "https://boxologic.com/",
+    "description": "Boxologic is an MA, Boston-based start-up focusing on e-commerce fulfillment robotics.",
+    "location": "Watertown, Connecticut, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/boxologic",
+      "linkedin": "https://linkedin.com/in/yildiray-sager-4aaa763"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "AlgenAir",
+    "website": "https://algenair.com/",
+    "description": "The first natural air purifier that reduces CO2 using an algae subscription service.",
+    "location": "Columbia, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AlgenAir",
+      "linkedin": "https://linkedin.com/company/algenair",
+      "facebook": "https://facebook.com/algenair"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Tarot Analytics",
+    "website": "https://tarotanalytics.com/",
+    "description": "\"Waze for vehicle fleets\":  Simpler Multi-Stop Route Optimisation",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/TarotAnalytics",
+      "linkedin": "https://linkedin.com/company/tarot-analytics",
+      "facebook": "https://facebook.com/tarotanalytics"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Gather Flora",
+    "website": "https://gatherflora.com/",
+    "description": "Global Flower Marketplace",
+    "location": "Vallejo, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GatherFloraHelp",
+      "linkedin": "https://linkedin.com/company/gather-flora",
+      "facebook": "https://facebook.com/gatherflora/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Alo Index",
+    "website": "https://aloindex.com/",
+    "description": "Alo Index is an AI-powered B2B sustainable hotel marketplace that matches corporate travel buyers with ESG targets to the hotels that can fulfill them.",
+    "location": "Guilford, Connecticut, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/al%C5%8D-index"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "InFLOWS",
+    "website": "https://designflow.inflows-ai.com/",
+    "description": "InFLOWS AI provides toolboxes that augment R&D chemists to design products 10X faster & cleaner.",
+    "location": "Paris, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/inflowsai"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "EnviCore",
+    "website": "https://envicoreinc.com/",
+    "description": "EnviCore aspires to revolutionize current tailings mitigation practices and promote a circular economy in the mining sector.",
+    "location": "Calgary, Alberta, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/EnvicoreI",
+      "linkedin": "https://linkedin.com/company/envicore-inc"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Cancrie",
+    "website": "https://cancrie.co/",
+    "description": "We are transforming waste into superior quality advanced material to power energy storage devices like batteries and capacitors.",
+    "location": "Jaipur, Rajasthan, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cancrie"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "StepWise",
+    "website": "https://getstepwise.com/",
+    "description": "Stepwise is a software-defined device that helps everyone access green technology.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/getstepwise"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "SALUBATA",
+    "website": "https://salubataofficial.com/",
+    "description": "They have a new patented technology of modular shoes made from old plastic bottles enables you to experience a new form of magic.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/SalubataX",
+      "linkedin": "https://linkedin.com/company/salubataofficial",
+      "facebook": "https://facebook.com/salubataofficial"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "GO See The City",
+    "website": "https://goseethecity.com/",
+    "description": "GO See The City is a food waste reduction platform that connects surplus food from restaurants to consumers & nonprofits. It aims to be used as a catalyst to assist the USDA & EPA in reducing food waste by 50% by 2030. The platform includes a mobile app,",
+    "location": "Tampa, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/goseethecity/",
+      "linkedin": "https://linkedin.com/in/aneshai-smith-458973118",
+      "facebook": "https://facebook.com/GoSeeTheCity/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Recycled Granite",
+    "website": "https://recycledgranite.com/",
+    "description": "Recycled Granite is developing new granite technologies from granite waste.",
+    "location": "Griffith, Indiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RecycledGranite",
+      "linkedin": "https://linkedin.com/in/julierizzo",
+      "facebook": "https://facebook.com/RecycledGranite/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "MAGMENT",
+    "website": "https://magment.de/",
+    "description": "Concrete wireless power",
+    "location": "Unterhaching, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/magnetic_cement",
+      "linkedin": "https://linkedin.com/company/10304282",
+      "facebook": "https://facebook.com/magment.de"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "AquaRealTime",
+    "website": "https://algaetracker.com/",
+    "description": "AlgaeTracker is a revolutionary Early Warning System for Harmful Algae Blooms (HABs) and other water pollutants",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Chrisaquarealt1",
+      "linkedin": "https://linkedin.com/company/aquarealtime",
+      "facebook": "https://facebook.com/wix"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Washbnb",
+    "website": "https://washbnb.com/",
+    "description": "Eliminates laundry for Airbnb hosts.",
+    "location": "Milwaukee, Wisconsin, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/washbnb",
+      "linkedin": "https://linkedin.com/company/washbnb",
+      "facebook": "https://facebook.com/washbnb/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Gift Nabü",
+    "website": "https://giftnabu.com/",
+    "description": "A gift registry for kids where friends and family come together to gift activities and experiences instead of toys and stuff.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nabulife",
+      "linkedin": "https://linkedin.com/company/giftnabu",
+      "facebook": "https://facebook.com/gift.nabu1"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Arch Pet Food",
+    "website": "https://archpetfood.com/",
+    "description": "We take the guesswork (food sensitivities, allergies, and environmental footprint) out of the equation for young pet owners.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ArchPetFood",
+      "linkedin": "https://linkedin.com/in/gabrielhuertasdelpino",
+      "facebook": "https://facebook.com/archpetfood"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Carbon Analytics",
+    "website": "https://carbonanalytics.com/",
+    "description": "Carbon Analytics is a granular carbon tracking, intelligence and offsetting platform for industrial decarbonisation.",
+    "location": "Ely, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/prognosticio",
+      "linkedin": "https://linkedin.com/company/carbonanalytics",
+      "facebook": "https://facebook.com/co2analytics/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "WunderGrubs",
+    "website": "https://wundergrubs.com/",
+    "description": "WunderGrubs is an agtech start-up that sustainably produces edible insects.",
+    "location": "Stone Mountain, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wundergrubs",
+      "linkedin": "https://linkedin.com/company/wundergrubs",
+      "facebook": "https://facebook.com/wundergrubs/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Windcredible",
+    "website": "https://windcredible.com/",
+    "description": "Urban Wind Turbines for Renewable Energy Generation",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cyxbtefnvz7dkix8cjt3",
+    "location": "Águas Livres, Portugal",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/windcredible"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Voltaage",
+    "website": "https://voltaage.io/",
+    "description": "Voltaage is an electric mobility marketplace for companies needing to electrify their vehicles fleet.",
+    "location": "Paris, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/voltaage"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "S.Lab",
+    "website": "https://instagram.com/i_lab_s",
+    "description": "Sustainable packaging - natural replacement of foamed plastic out of mycelium  and agricultural waste",
+    "location": "Malaga, Spain",
+    "social_media": {
+      "instagram": "https://instagram.com/i_lab_s"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Silvis Materials",
+    "website": "https://silvismaterials.com/",
+    "description": "Developing 100% bio-based emulsions for the $26B polymer emulsion market for adhesives, binders and coatings, reducing dependence on petroleum while helping clean up our world.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SilvisMaterials",
+      "linkedin": "https://linkedin.com/company/78792156",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Rego",
+    "website": "https://liverego.com/",
+    "description": "Rego powers the circular economy for multifamily communities, starting with bulky, hard to recycle items like furniture.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rego-app",
+      "facebook": "https://facebook.com/regoapp.io"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "NIX AIR SOLUTIONS",
+    "website": "https://nix-iot.com/",
+    "location": "Avignon, France",
+    "social_media": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/company/nix-air-solutions"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Instinct",
+    "website": "https://instinctenvironmental.com/",
+    "description": "Bringing real-time data to forest management, wildfire detection and environmental monitoring through ground-based wireless sensor networks.",
+    "location": "Hillsboro, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/instinct-rapid-wildfire-detection"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Good Agriculture",
+    "website": "https://goodagriculture.com/",
+    "description": "Supports current and future regenerative farmers with business services such as finding funding, managing finances, and reaching new customers.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/good-agriculture"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "AWSM Sauce",
+    "website": "https://awsmsauce.co/",
+    "description": "AWSM Sauce is the world's first zero-waste and sustainable condiment company.",
+    "location": "West Chester, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AWSMSauceCo",
+      "linkedin": "https://linkedin.com/company/awsm-sauce-co",
+      "facebook": "https://facebook.com/AWSMSauce.Co/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Avrio",
+    "website": "https://avrio.com/",
+    "description": "Sharing research and insights is messy. Avrio is here to change that.\n\nWith Avrio you can transform your customer conversations, data analysis, and scattered knowledge into insights that drive growth for your business.\n\nAvrio gives you the tools to bri...",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ejtgdflayz5ylevi2ahd",
+    "location": "Rijsenhout, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/AvrioHQ",
+      "linkedin": "https://linkedin.com/company/avriohq",
+      "facebook": "https://facebook.com/AvrioHQ/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Augurisk",
+    "website": "https://augurisk.com/",
+    "description": "Augurisk helps mitigate crime and natural disaster risks anywhere in the US by providing predictive analysis and advanced risk scoring.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/augurisk",
+      "linkedin": "https://linkedin.com/company/augurisk",
+      "facebook": "https://facebook.com/Augurisknow/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Aabshar",
+    "website": "https://aabshar.net/",
+    "description": "Aabshar is an impact-driven startup focused on addressing global water scarcity and high utility costs through innovative, AI-driven technology. Our patent-pending solution saves up to 98% of water usage, reduces utility expenses by up to 60%, and cuts CO2 emissions significantly. We empower homes, industries, and community centers, particularly in water-stressed regions, by providing real-time data and actionable insights to manage resources efficiently.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mbcei5kfdcwwnnz7kcdp",
+    "location": "Lahore, Islamabad, Pakistan",
+    "social_media": {
+      "twitter": "https://twitter.com/aabsharsolution",
+      "linkedin": "https://linkedin.com/company/aabshar",
+      "facebook": "https://facebook.com/aabsharsolutions"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "SIPP",
+    "website": "https://sippsafely.com/",
+    "description": "Smart home device to treat drinking water and drive home automation",
+    "location": "Hoover, Alabama, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sippsafe"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Seafood AI",
+    "website": "https://seafoodai.com/",
+    "description": "Revolutionizing seafood sourcing with advanced technology",
+    "location": "Millbrea, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/seafood-ai"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "ProsumerGrid",
+    "website": "https://prosumergrid.com/",
+    "description": "Software for optimal planning, forecasting, and impact assessment of distributed energy resources",
+    "location": "Brookhaven, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/santiago-grijalva-556b8216"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Positive Finance",
+    "website": "https://positive.finance/",
+    "description": "For businesses prioritizing employee retention and sustainability, we offer an impact finance platform supporting environmental and social causes.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/positivefin",
+      "linkedin": "https://linkedin.com/company/positivefinanceinc",
+      "facebook": "https://facebook.com/positivefinanceinc"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Nestar Energy",
+    "website": "https://nestarenergy.com/",
+    "description": "Introducing Lunar Power! We generate renewable energy by re-timing the moon's gravitational pull on ocean tides. Cheaper and more reliable than wind & solar; massive enough to supply more than a THIRD of global electricity demand.",
+    "location": "Eagan, Minnesota, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nestar-energy"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Moby",
+    "website": "https://mobyfilter.com/",
+    "description": "We create washing machine filters for homes and businesses to capture and reuse toxic microplastics released from laundry routines. Our circular innovation tackles the most common microplastics, protecting nature, people's health, and frontline communities everywhere.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mobyfilters"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Meknology",
+    "website": "https://meknology.com/",
+    "description": "Sustainable wastewater up-cycling and drinking water distillation.",
+    "location": "Southfield, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/meknology"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Hydropool LTD",
+    "website": "https://get-water.africa/",
+    "description": "Hydropool aggregates private water vendors to provide on-demand water tanker delivery and on-premise metered supply of potable water. Get-Water helps people save money and productive time required to access clean water supply.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hydropool-ng"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "HydroPhos Solutions",
+    "website": "https://hydrophossolutions.com/",
+    "description": "A phosphorus filtration technology",
+    "location": "Sanbornton, New Hampshire, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hydrophos-solutions"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "GridLink",
+    "website": "https://grid-link.co/",
+    "description": "For EV fleet managers looking to reduce costs of operation, Gridlink provides intelligent charging management software to streamline operations and save on charging.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/gridlinkco"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "AquaOrganix USA",
+    "website": "https://aquaorganixusa.com/",
+    "description": "AquaOrganix transforms plant waste into high-value fertilizers, biostimulants, and nutrients through our BioFermentative Nutrient Extraction process. We produce 13 natural products in 24 hours, eliminating the need for synthetic inputs. Our approach enriches soil, boosts plant growth, and reduces energy and labor costs. By converting waste into valuable resources, AquaOrganix accelerates growth and increases yields, driving sustainable, profitable, and ethical agriculture worldwide.",
+    "location": "Sheridan Wyoming, Wyoming, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/aquaorganix"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Aerofuse",
+    "website": "https://aero-fuse.com/",
+    "description": "Fusion Powered Aviation",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/96918498"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "4Point AI",
+    "website": "https://4point.ai/",
+    "description": "AI/ML for predictive ore mapping, helping junior mines accurately drill future cores.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/4point-ai"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "CarbonBright",
+    "website": "https://carbonbright.co/",
+    "description": "CarbonBright is an AI-driven platform transforming sustainability in the CPG industry. We automate and scale product-level Life Cycle Assessments (LCAs), addressing Scope 3 emissions by leveraging generative AI, making product sustainability measurable and actionable at scale.",
+    "location": "Bend, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/carbonbright"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Canopey",
+    "website": "https://canopey.com/",
+    "description": "Sustainable Marketplace",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/dsjbmykjsxvsnvuwzj2k",
+    "location": "Norwich, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/canopeyuk",
+      "linkedin": "https://linkedin.com/company/canopeyuk",
+      "facebook": "https://facebook.com/canopeyuk"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Terralytiq",
+    "website": "https://terralytiq.com/",
+    "description": "Terralytiq helps manufacturers reduce supplier emissions by automating hybrid Scope 3 data collection and managing decarbonization initiatives",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/terralytiq"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Climatta",
+    "website": "https://climatta.com/",
+    "description": "Climatta helpsSustainability teams automate their carbon emissions  compliance and ESG reporting 10x faster.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jegrx2ogv5oaq2mhnx43",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/globalcarbonesg",
+      "linkedin": "https://linkedin.com/company/climatta"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "BioReact",
+    "website": "https://bioreact.co/",
+    "description": "BioReact is an analytics platform used by scientists to improve their understanding of complex experimental data.",
+    "location": "Indianapolis, Indiana, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bioreact-inc"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Hamilton Perkins Collection",
+    "website": "https://hamiltonperkins.com/",
+    "description": "Hamilton Perkins Collection is an independent brand, designing and producing bags and accessories from recycled materials.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hamiltonperkins",
+      "linkedin": "https://linkedin.com/company/hamilton-perkins-collection",
+      "facebook": "https://facebook.com/hamiltonperkins"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "GoSprout",
+    "website": "https://gosprout.app/",
+    "description": "GoSprout is a pioneering platform that revolutionizes the management of workforce programs. By streamlining compliance, enhancing employer engagement, and facilitating real-time skills tracking, GoSprout empowers organizations to cultivate a skilled workforce aligned with industry needs. With a focus on energy, STEM, and healthcare sectors, GoSprout is bridging the skills gap, driving workforce readiness, and fostering sustainable growth.",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/gosproutapp"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "ContractPower",
+    "website": "https://contractpower.ai/",
+    "description": "A vertical specific contract management platform that reduces liability while decreasing reading time by 80%.",
+    "location": "Encinitas, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/contractpower"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Earthics",
+    "website": "https://earthics.net/",
+    "description": "Carbon SeaQuest develops decarbonization solutions for hard-to-abate sectors, utilizing low-cost and high-performing advanced materials.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/carbon-seaquest"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Senzi",
+    "website": "https://pathogenix.ai/",
+    "description": "The Senzi Monitor uses technology from 3D printer waste to check air quality, protecting spaces from harmful gases.",
+    "location": "Grand Rapids, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/@www.mesenzi.com",
+      "linkedin": "https://linkedin.com/company/senzimeinfo",
+      "facebook": "https://facebook.com/senzimeinfo/followers/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "DataTherm",
+    "website": "https://datatherm.net/",
+    "description": "DataTherm uses waste heat from data centers to provide hot water to hotels, apartments, and pools.",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {},
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "tsenso",
+    "website": "https://tsenso.com/",
+    "description": "tsenso tells the TRUE freshness of food, improving supply chains transparency in the food industry",
+    "location": "Stuttgart, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/tsensoCom",
+      "linkedin": "https://linkedin.com/company/tsenso",
+      "facebook": "https://facebook.com/FreshIndex"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Mammoth Water",
+    "website": "https://mammothwater.com/",
+    "description": "The smarter, simpler way to track and trade water.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mammoth_water",
+      "linkedin": "https://linkedin.com/company/mammothwater",
+      "facebook": "https://facebook.com/mammothwaterco"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Wheeli",
+    "website": "https://linkedin.com/company/wheeli",
+    "description": "Wheeli is the carpooling app for college students. Think of it as the Airbnb for the empty car seats on the road - 80% of which are empty when people drive.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wheeliofficial",
+      "linkedin": "https://linkedin.com/company/wheeli",
+      "facebook": "https://facebook.com/wheeliofficial/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "WatchTower Robotics",
+    "website": "https://linkedin.com/company/watchtower-robotics",
+    "description": "Affordable, reliable, accurate leak detection that allows utilities to stop reacting and prevent pipe bursts before they happen.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/watchtowerrobot",
+      "linkedin": "https://linkedin.com/company/watchtower-robotics",
+      "facebook": "https://facebook.com/watchtowerrobotics"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "TEQ",
+    "website": "https://linkedin.com/company/teq-charging-inc-",
+    "description": "TEQ increases affordability of charging infrastructure for properties and accessibility of charging for electric vehicle (EV) drivers.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TEQCharging",
+      "linkedin": "https://linkedin.com/company/teq-charging-inc-",
+      "facebook": "https://facebook.com/teqcharging"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Teporto",
+    "website": "https://linkedin.com/company/teporto",
+    "description": "Cloud-based commuting solution that manages shuttles with adaptive routes for employers and cities",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Teporto_Commute",
+      "linkedin": "https://linkedin.com/company/teporto"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Tempus Energy",
+    "website": "https://linkedin.com/company/tempus-energy-limited",
+    "description": "By predicting volatility in carbon intensityAllow customers to reduce their energy costs - while simultaneously enhancing their use of renewables.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1464946590/puoxs3p3wcxgihhuvx9f.png",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/tempusenergy",
+      "linkedin": "https://linkedin.com/company/tempus-energy-limited",
+      "facebook": "https://facebook.com/pages/Tempus-Energy/278395772365421"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Sustaio",
+    "website": "https://linkedin.com/company/sustaio",
+    "description": "Sustaio provides consumer climate impact intelligence & data. Think of us as the credit score for sustainability.",
+    "location": "Telluride, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sustaio",
+      "linkedin": "https://linkedin.com/company/sustaio",
+      "facebook": "https://facebook.com/sustaio/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Sundar",
+    "website": "https://linkedin.com/company/sundar-inc-",
+    "description": "Vertru: where Google meets Bloomberg for ESG data",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sundarinc",
+      "linkedin": "https://linkedin.com/company/sundar-inc-"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Solenica",
+    "website": "https://linkedin.com/company/solenica",
+    "description": "Solenica completely reshapes your experience of the indoors through beautifully Italian designed robots that improve the spaces you work and live in.",
+    "location": "Rome, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/_Solenica_",
+      "linkedin": "https://linkedin.com/company/solenica",
+      "facebook": "https://facebook.com/caiabysolenica"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Senscity",
+    "website": "https://linkedin.com/company/18592146",
+    "description": "Software as a Service that provides monitoring and evaluation of climate change's risks, impacts, and solutions across our cities",
+    "location": "Sydney, New South Wales, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/senscity_",
+      "linkedin": "https://linkedin.com/company/18592146"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Relovv",
+    "website": "https://linkedin.com/company/relovv",
+    "description": "Relovv is the new, sustainable fashion marketplace for Gen-Z consumers. Curious how she works? It's as easy as buy, sell, and relovv! #ReduceReuseRelovv",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/relovv",
+      "linkedin": "https://linkedin.com/company/relovv",
+      "facebook": "https://facebook.com/relovvapp/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Provender",
+    "website": "https://linkedin.com/company/provender",
+    "description": "A marketplace for growers and buyers of fresh food",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/provender",
+      "linkedin": "https://linkedin.com/company/provender",
+      "facebook": "https://facebook.com/getprovender"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Pistol Lake",
+    "website": "https://linkedin.com/company/pistollake",
+    "description": "Ultra-functional apparel for minimalists.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1502290811/qb5awfdq9qb7btesufir.jpg",
+    "location": "Walnut, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PistolLake",
+      "linkedin": "https://linkedin.com/company/pistollake",
+      "facebook": "https://facebook.com/pistollake"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Pesky Fish",
+    "website": "https://linkedin.com/company/pesky-fish-ltd",
+    "description": "Pesky fish enable fishermen across the country to sell their catch directly to consumers in the fastest, freshest and most traceable supply chain",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/pesky_fish",
+      "linkedin": "https://linkedin.com/company/pesky-fish-ltd",
+      "facebook": "https://facebook.com/Pesky-Fish-365849560604177/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Nori",
+    "website": "https://linkedin.com/company/noridoteco",
+    "description": "A marketplace for removing CO2 from the atmosphere.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nori",
+      "linkedin": "https://linkedin.com/company/noridoteco",
+      "facebook": "https://facebook.com/noridoteco"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "MilkRun",
+    "website": "https://linkedin.com/company/milkrun",
+    "description": "A new type of food system built to deliver fresh local groceries every day of the year",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LocalMilkRun",
+      "linkedin": "https://linkedin.com/company/milkrun",
+      "facebook": "https://facebook.com/localmilkrun"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Mantaray Climate",
+    "description": "Making it simpler, faster and cheaper for companies to find verified climate-friendly suppliers.",
+    "location": "Potts Point, New South Wales, Australia",
+    "social_media": {},
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "LaneSpotter Bike",
+    "website": "https://linkedin.com/company/lanespotter",
+    "description": "Mapping and navigation created for cyclists by cyclists, with a focus on safety.",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lanespotter",
+      "linkedin": "https://linkedin.com/company/lanespotter",
+      "facebook": "https://facebook.com/lanespotter"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Iridium Dynamics",
+    "website": "https://linkedin.com/company/7588250",
+    "description": "High-performance, long-range automated aircraft suitable for surveying and mapping",
+    "location": "Brisbane, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/iridiumdynamics",
+      "linkedin": "https://linkedin.com/company/7588250",
+      "facebook": "https://facebook.com/iridiumdynamics"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Iamus",
+    "website": "https://linkedin.com/company/iamus-technologies",
+    "description": "Empowering poultry farmers to make better and safer production decisions through AI and robotics.",
+    "location": "Dublin, Ireland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/iamus-technologies"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Grove",
+    "website": "https://linkedin.com/company/grove-group",
+    "description": "Technology for local, healthy food. Products that help people grow their own food right where they live.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GroveLabs",
+      "linkedin": "https://linkedin.com/company/grove-group",
+      "facebook": "https://facebook.com/GroveLabs"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Given Goods",
+    "website": "https://linkedin.com/pub/riley-end",
+    "description": "Marketplace for products that give back",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GivenGoods",
+      "linkedin": "https://linkedin.com/pub/riley-end",
+      "facebook": "https://facebook.com/givengoodscompany"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Geospiza",
+    "website": "https://linkedin.com/company/geospiza-us",
+    "description": "Geopsiza helps emergency managers and elected officials save lives in disaster by harnessing big data and translating it into forward leaning decision support.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HelloGeospiza",
+      "linkedin": "https://linkedin.com/company/geospiza-us",
+      "facebook": "https://facebook.com/geospizaus/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Food for All",
+    "website": "https://linkedin.com/company/foodforall",
+    "description": "Food for All is a Marketplace for Surplus Food. Allowing restaurants to sell their extra meals to our users for at least 50% off.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FoodForAllapp",
+      "linkedin": "https://linkedin.com/company/foodforall",
+      "facebook": "https://facebook.com/FoodforAllapp/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Five Letter Foods",
+    "website": "https://linkedin.com/company/five-letter-foods",
+    "description": "Not dog food, but real food for dogs without factory farming",
+    "location": "Helsinki, Finland",
+    "social_media": {
+      "twitter": "https://twitter.com/fiveletterfoods",
+      "linkedin": "https://linkedin.com/company/five-letter-foods"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Enco",
+    "website": "https://linkedin.com/company/energiacollettiva",
+    "description": "An innovative model that allows individuals, companies and public bodies to reduce environmental impact, save on bills, and reduce the payback time",
+    "location": "Florence, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/energiacollettiva",
+      "facebook": "https://facebook.com/EncoEnergiaCollettiva"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "ecoVent",
+    "website": "https://linkedin.com/company/ecovent-systems",
+    "description": "Wireless, room-by-room temperature control",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EcoVentSystems",
+      "linkedin": "https://linkedin.com/company/ecovent-systems",
+      "facebook": "https://facebook.com/pages/ecovent-Systems/479465472091275"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Ecoisme",
+    "website": "https://linkedin.com/company/ecoisme",
+    "description": "Ecoisme is a home energy monitoring solution that recognizes individual devices in households, based on their signature within the electrical grid",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/ecoisme",
+      "linkedin": "https://linkedin.com/company/ecoisme",
+      "facebook": "https://facebook.com/ecoisme"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Ecocrumb",
+    "website": "https://linkedin.com/company/ecocrumb",
+    "description": "Ecocrumb automates and simplifies reporting for ESG.",
+    "location": "Eden Prairie, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ecocrumb",
+      "linkedin": "https://linkedin.com/company/ecocrumb"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Don't Shop, Swap",
+    "website": "https://linkedin.com/company/69675204",
+    "description": "Don't Shop, Swap is a gamified clothes-swapping platform.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/dvjqwsqjk1xs3i2hpxbb",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/69675204"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Curie London",
+    "website": "https://crunchbase.com/organization/curie-london",
+    "description": "Online market for all-plant-based product choices - Starting with plant based meat.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "facebook": "https://facebook.com/CURIE.LONDON.UNITED.KINGDOM"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "CoolChip Technologies",
+    "website": "https://linkedin.com/company/coolchip-technologies",
+    "description": "CoolChip Technologies, Inc. is the worldwide leader in Kinetic Cooling, a product category transforming the electronics cooling industry",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CoolChipTech",
+      "linkedin": "https://linkedin.com/company/coolchip-technologies",
+      "facebook": "https://facebook.com/CoolchipTechnologies"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Conserve With Us",
+    "website": "https://linkedin.com/company/conserve-with-us",
+    "description": "Our platform connects brands, nonprofits, and consumers to make social and environmental impact.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/conservewithus",
+      "linkedin": "https://linkedin.com/company/conserve-with-us",
+      "facebook": "https://facebook.com/conservewithus/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Chargd",
+    "website": "https://linkedin.com/company/chargd-app",
+    "description": "Connecting vehicles, chargers and people to integrate  EV experiences into individual lifestyles.",
+    "location": "Munich, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/chargd-app"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Avemus",
+    "website": "https://linkedin.com/company/avemus",
+    "description": "Revolutionizing agricultural cooperatives",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/platfarm",
+      "linkedin": "https://linkedin.com/company/avemus"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Aqulytics",
+    "website": "https://linkedin.com/company/aqulytics",
+    "description": "Aqulytics is a cloud-based platform to help governments, businesses, NGOs and communities, track and protect freshwater resources.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/aqulytics",
+      "linkedin": "https://linkedin.com/company/aqulytics",
+      "facebook": "https://facebook.com/aqulytics/"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Credential",
+    "website": "https://linkedin.com/company/credential-inc",
+    "description": "All B2B Lenders, One Contract, One Integration",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nzwkybrev5jxhnczmij0",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/credential-inc"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "BEAWaRe",
+    "website": "https://linkedin.com/company/beawarecircular",
+    "description": "Supporting the administrations, companies and waste companies in simplifying bureaucracy, automating waste tracking in a sustainable way.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/w68bltr7qzzqkswvg2nv",
+    "location": "Rome, Rome, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/beawarecircular",
+      "facebook": "https://facebook.com/BEAWaReCircularOfficial"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  },
+  {
+    "name": "Marli Technology Solutions",
+    "website": "https://linkedin.com/company/marli-tech",
+    "description": "Connects businesses and individuals directly with environmental projects that save or absorb CO2.",
+    "location": "Docklands, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/Marli_Tech",
+      "linkedin": "https://linkedin.com/company/marli-tech"
+    },
+    "industry": "Climate tech",
+    "industry_slug": "climate-tech"
+  }
+]

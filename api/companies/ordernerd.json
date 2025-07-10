@@ -1,0 +1,24 @@
+{
+  "name": "OrderNerd",
+  "slug": "ordernerd",
+  "website": "https://ordernerd.com/",
+  "description": "All of your online orders in one place.",
+  "one_liner": "All of your online orders in one place.",
+  "location": "Peachtree Corners, Georgia, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ordernerd",
+    "linkedin": "https://linkedin.com/company/ordernerd",
+    "facebook": "https://facebook.com/OrderNerd/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ordernerd",
+  "api": "/api/companies/ordernerd.json"
+}

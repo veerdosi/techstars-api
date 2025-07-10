@@ -1,0 +1,24 @@
+{
+  "name": "Duhqa",
+  "slug": "duhqa",
+  "website": "https://duhqa.com/",
+  "description": "Duhqa is an end to end supply chain & distribution technology platform connecting manufacturers, retailers and individuals.",
+  "one_liner": "Duhqa is an end to end supply chain & distribution technology platform connecting manufacturers, retailers and individuals.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/DuhqaL",
+    "linkedin": "https://linkedin.com/company/duhqa",
+    "facebook": "https://facebook.com/duhqa"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/duhqa",
+  "api": "/api/companies/duhqa.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Dotterel",
+  "slug": "dotterel",
+  "website": "https://dotterel.co.nz/",
+  "description": "Noise reduction and audio recording technology for drones.",
+  "one_liner": "Noise reduction and audio recording technology for drones.",
+  "location": "Auckland, New Zealand",
+  "industry": "Robotics and Drones",
+  "industry_slug": "robotics-drones",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/dottereluav",
+    "linkedin": "https://linkedin.com/company/dotterel-technologies"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dotterel",
+  "api": "/api/companies/dotterel.json"
+}

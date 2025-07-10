@@ -1,0 +1,23 @@
+{
+  "name": "Jogg",
+  "slug": "jogg",
+  "website": "https://jogg.co/",
+  "description": "Video-powered feedback from your audience",
+  "one_liner": "Video-powered feedback from your audience",
+  "location": "Glendale, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/joggco",
+    "linkedin": "https://linkedin.com/company/jogg-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/jogg",
+  "api": "/api/companies/jogg.json"
+}

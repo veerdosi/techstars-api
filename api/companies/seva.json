@@ -1,0 +1,24 @@
+{
+  "name": "Seva",
+  "slug": "seva",
+  "website": "https://linkedin.com/company/hiseva",
+  "description": "a smarter way to discover and organize information at work",
+  "one_liner": "a smarter way to discover and organize information at work",
+  "location": "New York City, New York, United States",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hisevanyc",
+    "linkedin": "https://linkedin.com/company/hiseva",
+    "facebook": "https://facebook.com/hisevanyc/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/seva",
+  "api": "/api/companies/seva.json"
+}

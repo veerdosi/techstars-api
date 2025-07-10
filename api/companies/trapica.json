@@ -1,0 +1,24 @@
+{
+  "name": "Trapica",
+  "slug": "trapica",
+  "website": "https://trapica.com/",
+  "description": "AI Powered Marketing Suite for Every Business - AI Marekting and Targeting, Market Research and Cyber/hacking protection for marketers.",
+  "one_liner": "AI Powered Marketing Suite for Every Business - AI Marekting and Targeting, Market Research and Cyber/hacking protection for marketers.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Trapica_labs",
+    "linkedin": "https://linkedin.com/company/13179762",
+    "facebook": "https://facebook.com/trapica-992322914168590"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/trapica",
+  "api": "/api/companies/trapica.json"
+}

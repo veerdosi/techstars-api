@@ -1,0 +1,23 @@
+{
+  "name": "Omaiven Health",
+  "slug": "omaiven-health",
+  "website": "https://linkedin.com/company/omaiven-health",
+  "description": "Omaiven is the automation & intelligence solution built specifically for clinic teams to reduce time spent on manual and data tasks.",
+  "one_liner": "Omaiven is the automation & intelligence solution built specifically for clinic teams to reduce time spent on manual and data tasks.",
+  "location": "Austin, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/omaivenhealth",
+    "linkedin": "https://linkedin.com/company/omaiven-health"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/omaiven-health",
+  "api": "/api/companies/omaiven-health.json"
+}

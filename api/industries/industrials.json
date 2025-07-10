@@ -1,0 +1,1105 @@
+[
+  {
+    "name": "Veho",
+    "website": "https://shipveho.com/",
+    "description": "Provider of end-to-end e-commerce delivery service intended to offer personalized next-day package delivery.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/shipveho",
+      "linkedin": "https://linkedin.com/company/shipveho",
+      "facebook": "https://facebook.com/pg/VehoDrivers"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Kepler Communications",
+    "website": "https://kepler.space/",
+    "description": "Enabling real-time communications access to other spacecraft by developing a constellation of data relaying satellites that will effectively act as on-orbit cell phone towers.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/KeplerComms",
+      "linkedin": "https://linkedin.com/company/kepler-communications-inc-",
+      "facebook": "https://facebook.com/KeplerCommunications"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Project Canary",
+    "website": "https://projectcanary.com/",
+    "description": "Continuous methane monitoring for the energy industry.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ProjectCanary1",
+      "linkedin": "https://linkedin.com/company/projectcanary",
+      "facebook": "https://facebook.com/denverprojectcanary/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Vita Inclinata",
+    "website": "https://vitatech.co/",
+    "description": "Vita Inclinata creates load stabilization technology for the search and rescue and industrial industries.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vitainclinata",
+      "linkedin": "https://linkedin.com/company/vita-inclinata-technologies",
+      "facebook": "https://facebook.com/vitainclinata/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Phoenix Tailings",
+    "website": "https://phoenixtailings.com/",
+    "description": "A mining company powered by technology, eliminating waste and creating sustainably produced metals #MaterialScience #Mining #B2B #Sustainability",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/phoenixtailings",
+      "linkedin": "https://linkedin.com/company/mvmindustrial"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Sea Machines Robotics",
+    "website": "https://sea-machines.com/",
+    "description": "Autonomous self-driving systems for boats.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SeaMachines",
+      "linkedin": "https://linkedin.com/company/sea-machines",
+      "facebook": "https://facebook.com/pg/seamachinesrobotics/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "INURU",
+    "website": "https://inuru.de/",
+    "description": "INURU brings light & motion on paper with cutting edge printed light tech",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/Inuru_",
+      "linkedin": "https://linkedin.com/company/siod",
+      "facebook": "https://facebook.com/inuru.live/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "MOLG",
+    "website": "https://molg.ai/",
+    "description": "MOLG helps complex electronic products companies design/manufacture more sustainable products using proprietary design software, autonomous robotics, and an open source traceability system.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/molg"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "De-Ice",
+    "website": "https://deice.io/",
+    "description": "De-icing airplanes without harmful chemicals",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/deicetech",
+      "linkedin": "https://linkedin.com/company/de-icetechnologies"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Castor",
+    "website": "https://3dcastor.com/",
+    "description": "The first intelligent 3D printing software for manufacturing",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/Castor86786352",
+      "linkedin": "https://linkedin.com/company/ciwit-b-v-",
+      "facebook": "https://facebook.com/3DCastor/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "REEV",
+    "website": "https://reev.care/",
+    "description": "Helping those affected by neurological gait disorders like stroke to overcome their daily disability by becoming more autonomous and independent in their movements",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lqz0gwn1qm5xlsatx7we",
+    "location": "Toulouse, France",
+    "social_media": {
+      "twitter": "https://twitter.com/wearereev",
+      "linkedin": "https://linkedin.com/company/reevcare",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "MITO Material Solutions",
+    "website": "https://mitomaterials.com/",
+    "description": "MITO Material Solutions manufactures hybrid nano-additives, enabling composite manufacturers to create tougher, lighter, and more durable products.",
+    "location": "Stillwater, Oklahoma, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MITO_Materials",
+      "linkedin": "https://linkedin.com/company/mitomaterials",
+      "facebook": "https://facebook.com/MITOMaterialSolutions/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Kazadi Enterprises",
+    "website": "https://kazadienterprises.com/",
+    "description": "Kazadi Enterprises is reducing the energy requirements of AC and brine reduction for mineral recovery by using environmental heat as a primary energy source.",
+    "location": "Batavia, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/kazadienterpri1",
+      "linkedin": "https://linkedin.com/company/kazadi-enterprises",
+      "facebook": "https://facebook.com/kazadienterprises"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Diagon Technologies",
+    "website": "https://diagon.ai/",
+    "description": "First-of-its-kind equipment sourcing platform bringing hardware, services, and financing into a consolidated user experience.",
+    "location": "Alameda, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/diagon-tech"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "STAND+",
+    "website": "https://weargales.com/",
+    "description": "Gales Smart PPE Footwear(r) - The first and only antimicrobial, easy to clean, protective shoes for healthcare.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/weargales",
+      "linkedin": "https://linkedin.com/company/weargales",
+      "facebook": "https://facebook.com/weargales/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Toolsvilla",
+    "website": "https://toolsvilla.com/",
+    "description": "A Digital Marketplace for Machinery, Tools & Equipment that solve operational inefficiencies in the farm & food businesses of India.",
+    "location": "Durgapur, West Bengal, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/toolsvilla",
+      "facebook": "https://facebook.com/toolsvilla/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Mineral Forecast",
+    "website": "https://en.mineralforecast.com/",
+    "description": "Using machine learning to improve drillhole targeting to find the critical metals a greener economy needs.",
+    "location": "Santiago, Chile",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mineral-forecast"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Shurpa",
+    "website": "https://shurpa.com/",
+    "description": "Shurpa is an AI-enabled logistics platform for the healthcare industry",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/shurpadelivery",
+      "linkedin": "https://linkedin.com/company/shurpa",
+      "facebook": "https://facebook.com/shurpapackage"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Telekinesis",
+    "website": "https://telekinesis.ai/",
+    "description": "Telekinesis is building the first AI-powered robotics cloud platform\nto automate manufacturing.",
+    "location": "Darmstadt, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/telekinesis_ai",
+      "linkedin": "https://linkedin.com/company/telekinesis-ai"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Sees",
+    "website": "https://sees.ai/",
+    "description": "Unlocking aerial data capture at scale, by providing clients with a solution that enables the remote operation of drones from a central control room.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/sees_ai",
+      "linkedin": "https://linkedin.com/company/sees-ai"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Zohr",
+    "website": "https://zohr.com/",
+    "description": "The tire shop that comes to you.",
+    "location": "Kansas City, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getzohr",
+      "linkedin": "https://linkedin.com/company/7323436",
+      "facebook": "https://facebook.com/zohr"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Gelatex",
+    "website": "https://gelatex.com/",
+    "description": "Gelatex is the catalyst for cultured meat, wound care, filtration, and energy storage by providing up to 100 times cheaper and scalable nanofiber production.",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "twitter": "https://twitter.com/gela_tex",
+      "linkedin": "https://linkedin.com/company/gelatex",
+      "facebook": "https://facebook.com/gelatex/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Super Dispatch",
+    "website": "https://mysuperdispatch.com/",
+    "description": "Super Dispatch is a platform that enables automotive logistics companies to eliminate paperwork, manage loads, drivers and billing all in one place.",
+    "location": "Kansas City, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/superdispatch",
+      "linkedin": "https://linkedin.com/company/super-dispatch",
+      "facebook": "https://facebook.com/My-Super-Dispatch-531609600223067/timeline/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Jaipur Robotics",
+    "website": "https://jaipurrobotics.com/",
+    "description": "Jaipur Robotics is building Europe's #1 AI-powered waste recognition and sorting solution for recycling and energy recovery.",
+    "location": "Manno, Switzerland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/jaipurrobotics"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "OE Systems AB",
+    "website": "https://oe-systems.com/",
+    "description": "A product and service company that delivers our own commercial wave energy solution that focuses on being installed in parallel with offshore wind turbines to enable increased production.",
+    "location": "Göteborg, Sweden",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oe-systems-ab"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Nditive",
+    "website": "https://nditive.com/",
+    "description": "AI-powered digital twin-driven gas monitoring system",
+    "location": "St. John's, Newfoundland and Labrador, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nditive"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Routific",
+    "website": "https://routific.com/",
+    "description": "Route optimization platform for delivery businesses.",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/routific",
+      "linkedin": "https://linkedin.com/company/routific",
+      "facebook": "https://facebook.com/routific"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "OmniPreSense Corporation",
+    "website": "https://omnipresense.com/",
+    "description": "Supplier of short range radar sensors for drone, robots, and IoT systems allowing them to \"see\" the world around them.",
+    "location": "San Jose, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/OmniPSense",
+      "linkedin": "https://linkedin.com/company/17992858",
+      "facebook": "https://facebook.com/omnipsense/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Atomos Space",
+    "website": "https://atomosspace.com/",
+    "description": "Builds and operates orbital transfer vehicles that help satellites get to orbit more cost-effectively",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AtomosSpace",
+      "linkedin": "https://linkedin.com/company/atomosspace",
+      "facebook": "https://facebook.com/AtomosSpace"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Troposphere",
+    "website": "https://troposphe.re/",
+    "description": "Clair helps you breathe easy with air monitoring. Our devices tell you what's in the air, identify the source of impurities, and provide air-clearing advice.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tropotweets",
+      "linkedin": "https://linkedin.com/company/getclair",
+      "facebook": "https://facebook.com/getclair"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "TommyRun",
+    "website": "https://tommyrun.com/",
+    "description": "TommyRun is an on-demand delivery platform for building and construction materials, reducing inefficiencies for builders.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TeamTommyRun",
+      "linkedin": "https://linkedin.com/company/tommy-run",
+      "facebook": "https://facebook.com/teamtommyrun/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Bild Corp",
+    "website": "https://bild-engineering.io/",
+    "description": "Bild is an AI agent for CAD that helps medical device companies with their regulatory documentation.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bild-engineering"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Permitech",
+    "website": "https://permi.tech/",
+    "description": "Permitech is a software platform that empowers industrial operators to minimize safety incidents.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/uhhbmk1ceeqbtrvfkydo",
+    "location": "Dammam, Saudi Arabia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/permittech"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Zippiai",
+    "website": "https://zippiai.com/",
+    "description": "ZippiAi is a predictive maintenance software designed to predict and reduce machine breakdown and improve energy efficiency.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/zippiai-inc"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Induction Food Systems",
+    "website": "https://inductionfoodsystems.com/",
+    "description": "Advanced fluid heating equipment that helps industrials profitably decarbonize their manufacturing ops.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ifsheating",
+      "linkedin": "https://linkedin.com/company/induction-food-systems"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Collider",
+    "website": "https://collidertech.com/",
+    "description": "A world leader in production innovation, Collider designs and develops technologies that advance and simplify the process of making things.",
+    "location": "Chattanooga, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/collidertech",
+      "linkedin": "https://linkedin.com/company/collidertech",
+      "facebook": "https://facebook.com/collidertech"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Kaavio",
+    "website": "https://kaavio.ai/",
+    "description": "Kaavio automates product catalog management for B2B distributors, eliminating fragmented and manual processes to enhance product content and drive sales.",
+    "location": "Danville, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kaavio-ai"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Rivalia Chemical Co",
+    "website": "https://rivaliachemical.com/",
+    "description": "American-made rare earths, produced from wastes",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wix",
+      "linkedin": "https://linkedin.com/company/rivalia-chemical-co",
+      "facebook": "https://facebook.com/wix"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "NayamWings",
+    "website": "https://nayamwings.com/",
+    "description": "NayamWings brings a new-breed of wind propulsion for ships, using airplane technology  airfoil designs as a hybrid system to cut fuel use and emissions",
+    "location": "Haifa, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nayamwings"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "MODICA",
+    "website": "https://madebymodica.com/",
+    "description": "Self-organizing, super-scalable Factory-as-a-Service modules, deployed anywhere.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/madebyMODICA",
+      "linkedin": "https://linkedin.com/company/modica",
+      "facebook": "https://facebook.com/modicamicroindustries/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Flite Material Sciences",
+    "website": "https://flite.tech/",
+    "description": "FLITE is developing a technique to prevent ice, rust and fouling on surfaces using clean lasers instead of toxic coatings.",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/flite-material-sciences"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Unlimited Engineering",
+    "website": "https://rideunlimited.co/",
+    "description": "Modular powertrain for light electric vehicles enabled by advanced embedded software and a proprietary battery management architecture.",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/rideunlimited",
+      "linkedin": "https://linkedin.com/company/unlimited-engineering-sl",
+      "facebook": "https://facebook.com/rideunlimited/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Flora Coating",
+    "website": "https://floracoating.com/",
+    "description": "Develops and manufactures high performance, smart, and sustainable coatings",
+    "location": "Phoenix, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/floracoatings",
+      "linkedin": "https://linkedin.com/company/flora-coating",
+      "facebook": "https://facebook.com/floracoating"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Qsee",
+    "website": "https://qsee.io/",
+    "description": "Better productivity with Zero Defective Manufacturing.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hjdmqjsoj9cgntkbzcmx",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/QseeIO",
+      "linkedin": "https://linkedin.com/company/qsee"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Mobius",
+    "website": "https://mobius.co/",
+    "description": "We're creating a world where There's Wonder in Waste. We envision a future where waste streams are upcycled into chemicals and materials.",
+    "location": "Lenoir City, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mobiuspbc",
+      "linkedin": "https://linkedin.com/company/mobiuspbc",
+      "facebook": "https://facebook.com/mobiuspbc/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Invendor",
+    "website": "https://invendor.com/",
+    "description": "Self-checkout sites for industrial distributors to sell spare parts and consumables at manufacturing locations",
+    "location": "Lehmja küla, Estonia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/invendor",
+      "facebook": "https://facebook.com/Scanbrobusiness"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Eat Sleep RIDE",
+    "website": "https://eatsleepride.com/",
+    "description": "EatSleepRIDE Motorcycle GPS is the best tracking, social + safety app for motorcycle riders.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/EatSleepRide",
+      "linkedin": "https://linkedin.com/company/eatsleepride",
+      "facebook": "https://facebook.com/ESR.cc"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Canopy Aerospace",
+    "website": "https://canopyaerospace.com/",
+    "description": "Thermal protection systems including heat shields for emerging space and hypersonic industries",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/asrxyvzs1461hlgz2mkc",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/canopyaerospace"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "xBlock",
+    "website": "https://xblock.ai/",
+    "description": "An organizational intelligence platform to capture, organize, and activate business knowledge.",
+    "location": "Anacortes, Washington, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/xblock-ai"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Undesert Corporation",
+    "website": "https://undesert.com/",
+    "description": "Undesert is produce electrical power, deionized water, and dry salt with no liquid waste - Zero Liquid Discharge (ZLD).",
+    "location": "Los Alamos, New Mexico, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/undesert"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Redivivum",
+    "website": "https://redivivumtechnology.com/",
+    "description": "Redivivum is developing the leading AI-driven automation solution to tackle the labor and expertise shortages in resale operations for the fashion industry.",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/redivivum"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "HyperTunnel",
+    "website": "https://hypertunnel.com/",
+    "description": "Our mixed reality software platform enables real-time (synchronous) and time-delayed (asynchronous) collaboration between frontline workers and domain experts - from remote physical worksites to centralized immersive digital twins.",
+    "location": "Jersey City, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/factualvr",
+      "linkedin": "https://linkedin.com/company/hypertunnel",
+      "facebook": "https://facebook.com/HyperTunnel"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Crow Industries",
+    "website": "https://crowindustriesinc.com/",
+    "description": "Critical Minerals producers cannot keep pace with the current and future resources demands for the Renewable Energy Transition. We are building the fully autonomous robotic laborforce that will allow these producers to exceed production targets while keep",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xdwzfupg75r9clgq4l0x",
+    "location": "Phoenix, Arizona, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/crowindustriesinc"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Nido Robotics",
+    "website": "https://nidorobotics.com/",
+    "description": "At Nido Robotics we help shipowners, fish farmers, and similar companies reduce their underwater inspection and maintenance costs through robotics.",
+    "location": "Murcia, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/nidorobotics",
+      "linkedin": "https://linkedin.com/company/nidorobotics",
+      "facebook": "https://facebook.com/nidorobotics.eu/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Nyad",
+    "website": "https://nyad.ai/",
+    "description": "Microbiology co-pilot for wastewater operators to remove maximum pollutants at best cost.",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nyad-ai"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Segura",
+    "website": "https://segura-water.com/",
+    "description": "Water quality testing without the need for a lab - heavy metals at ppb level in under 5 minutes through a digitally connected device",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/segura-water"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Maygia",
+    "website": "https://maygia.com/",
+    "description": "Device using hydrogen to clean water while producing electricity",
+    "location": "Haifa, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/maygia"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Kadeya",
+    "website": "https://kadeya.com/",
+    "description": "Kadeya is a closed-loop water vending business that utilizes digitally connected reusable water bottles and tiny bottling equipment. Kadeya was founded by Manuela Zoninsein.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hellokadeya",
+      "linkedin": "https://linkedin.com/company/kdy",
+      "facebook": "https://facebook.com/AWMLimited"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "CarbonBridge",
+    "website": "https://carbonbridge.io/",
+    "description": "CarbonBridge is a climate-action company that generates industrial and transportation gases from agricultural waste streams. The methods used result in CDR as well as some offsets.",
+    "location": "San Jose, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/carbonbridge"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "MATERIA intel",
+    "website": "https://materiaintel.com/",
+    "description": "World's first border carbon adjustment (BCA) market intelligence platform",
+    "location": "Roma, Rome, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/martellafrancesco"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "AlterEcho",
+    "website": "https://alterecho.io/",
+    "description": "Remote Embodiment Robotics for Aseptic Manufacturing",
+    "location": "Copenhagen, Capital Region, Denmark",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/alterecho-io"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Spacebackend",
+    "website": "https://openmoon.space/",
+    "description": "Reducing Satellite integrations from years to days. SpaceBackend provides a cloud platform for spacecraft and payload companies, delivering end-to-end operational and automation solutions for the space industry.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/spacebackend"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "NeuralTeks",
+    "website": "https://neuralteks.com/",
+    "description": "Revolutionizing lab diagnostics with AI-powered data analysis, delivering faster, precise results for microbiology labs",
+    "location": "Neuilly-sur-Seine, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/neuralteks"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Caesarea Labs",
+    "website": "https://caesarealabs.com/",
+    "description": "Caesarea Labs is a semiconductor post-silicon validation EDA company, enhancing chip developers' efficiency and productivity. Our solutions help the industry deliver high-quality products faster, with better performance and reduced costs",
+    "location": "Kfar Saba, Tel Aviv, Israel",
+    "social_media": {},
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Bob's Containers",
+    "website": "https://bobscontainers.com/",
+    "description": "We build fast, affordable, and profitable housing solutions from shipping containers.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fxhqmvnq8ome60kuqzxz",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bobscontainers",
+      "linkedin": "https://linkedin.com/company/bobs-containers",
+      "facebook": "https://facebook.com/bobscontainers"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Monsapo",
+    "website": "https://monsapo.com/",
+    "description": "Monsapo manufactures and supplies cleaning products.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pjereuanfe8yr76uxpjb",
+    "location": "PARIS 8, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/monsapo"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Inclusion Unpacked",
+    "website": "https://inclusionunpacked.com/",
+    "description": "Inclusion Unpacked is on a mission to make diversity and inclusion simple and easy for founders and leaders. Companies pay a monthly subscription fee and gain access to DEI experts, tools and resources on demand.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/inclusion-unpacked"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Amatama",
+    "website": "https://amatama.co/",
+    "description": "Amatama is a computing and manufacturing company that researches and develops hierarchical architectures and robot computers.",
+    "location": "Nagoya, Japan",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/yuichi-horiuchi"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "3D Continuum",
+    "website": "https://3dcontinuum.com/",
+    "description": "3D Continuum is a software technology startup leveraging data to drive operational efficiency in the heavy industry.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/phwq12jo1ixaqedjqs2e",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/3dcontinuum"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Exovolar Industries",
+    "website": "https://exovolar.com/",
+    "description": "Empowering human aerial mobility. Making people FLY like superheroes.",
+    "location": "Union City, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/exovolar",
+      "linkedin": "https://linkedin.com/company/exovolar",
+      "facebook": "https://facebook.com/exovolar"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "MV Sales&Logistics",
+    "website": "https://mvsalesandlogistics.com/",
+    "description": "Live a unique experience automating and controlling through AI tools your field sales and logistics teams with MV sales & logistics platform.",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/movil-ventas"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Fleetglue",
+    "website": "https://fleetglue.com/",
+    "description": "FleetGlue is building a vertical robotic suite designed to make deploying, operating, and scaling mobile robots seamless",
+    "location": "Las Vegas, Nevada, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/fleetglue"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "4Point AI",
+    "website": "https://4point.ai/",
+    "description": "AI/ML for predictive ore mapping, helping junior mines accurately drill future cores.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/4point-ai"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Terralytiq",
+    "website": "https://terralytiq.com/",
+    "description": "Terralytiq helps manufacturers reduce supplier emissions by automating hybrid Scope 3 data collection and managing decarbonization initiatives",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/terralytiq"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Tecde",
+    "website": "https://tecde.co/",
+    "description": "B2B SaaS and Tech Services",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/qcw4tmlpcuclv01birdi",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tecdeing",
+      "linkedin": "https://linkedin.com/company/tecde-ingenieria"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Earthics",
+    "website": "https://earthics.net/",
+    "description": "Carbon SeaQuest develops decarbonization solutions for hard-to-abate sectors, utilizing low-cost and high-performing advanced materials.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/carbon-seaquest"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Proof",
+    "website": "https://proofgov.com/",
+    "description": "Proof empowers governments to go paperless by streamlining approvals and improving data-driven decisions.",
+    "location": "Whitehorse, Yukon, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/proofgov",
+      "linkedin": "https://linkedin.com/company/proofgov",
+      "facebook": "https://facebook.com/proofgov"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "WorkMob",
+    "website": "https://linkedin.com/company/workmob",
+    "description": "Where the best developers in the world find and manage their work",
+    "location": "Berkeley, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/theworkmob",
+      "linkedin": "https://linkedin.com/company/workmob"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Talented",
+    "website": "https://linkedin.com/company/51626202",
+    "description": "Identify and invest in employee potential with the Talented automated professional development & discovery system.",
+    "location": "Chapel Hill, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Talented_App",
+      "linkedin": "https://linkedin.com/company/51626202",
+      "facebook": "https://facebook.com/Talented-1783742028575047/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "STRUCTUR3D PRINTING",
+    "website": "https://linkedin.com/company/structur3d-printing",
+    "description": "Specialized hardware that interfaces with software for additive manufacturing using advanced liquid materials.",
+    "location": "Kitchener, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/structur3Dprint",
+      "linkedin": "https://linkedin.com/company/structur3d-printing",
+      "facebook": "https://facebook.com/Structur3DPrinting/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Priva",
+    "website": "https://linkedin.com/company/priva-building-intelligence",
+    "description": "Priva is door-to-door regional mobility. We give travelers time for productivity while in transit by providing a streamlined alternative to commuter flights.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/privaint",
+      "linkedin": "https://linkedin.com/company/priva-building-intelligence",
+      "facebook": "https://facebook.com/Priva-Inc-1773340752941690"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "NRGI",
+    "website": "https://linkedin.com/company/nrgi-ai",
+    "description": "NRGI.ai is an online electricity platform that helps companies buy energy at fair prices and save money by choosing the right electricity provider.",
+    "location": "Dublin, Ireland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nrgi-ai"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "MICRON3DP",
+    "website": "https://linkedin.com/company/micron3dp",
+    "description": "Pioneering High Speed - High Resolution Metal 3D Printing",
+    "location": "Kefar Sava, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/Micron3DP",
+      "linkedin": "https://linkedin.com/company/micron3dp",
+      "facebook": "https://facebook.com/micron3dp/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Leo Aerospace",
+    "website": "https://linkedin.com/company/18269653",
+    "description": "Dedicated Launch Service for Microsatellites",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hisxv1s5eqvxlv1x4syx",
+    "location": "Gardena, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/leoaerospace",
+      "linkedin": "https://linkedin.com/company/18269653",
+      "facebook": "https://facebook.com/Leo-Aerospace-758267854367519"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Lengoo",
+    "website": "https://linkedin.com/company/lengoo",
+    "description": "Lengoo provides premium language translation services using a combination of the latest machine translation technology and professional linguists.",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/LengooTweets",
+      "linkedin": "https://linkedin.com/company/lengoo",
+      "facebook": "https://facebook.com/lengootranslations"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Flinja",
+    "website": "https://linkedin.com/company/flinja",
+    "description": "Connecting talented individuals to work that allows them to show off their skills",
+    "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/98097-c7ff86f57d053ca9dcca37b75fc570ed-medium_jpg.jpg?buster=1342207077",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/flinjaworld",
+      "linkedin": "https://linkedin.com/company/flinja",
+      "facebook": "https://facebook.com/theflinja"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Declique",
+    "website": "https://linkedin.com/company/declique",
+    "description": "Declique allow clients to collect all field data, analyse the extent of losses and justify investments based on the data collected.",
+    "location": "Labege, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/declique"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Control Tower",
+    "website": "https://linkedin.com/company/converge-industries-co",
+    "description": "Making it easy for companies to inspect buildings by using a drone.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/converge_co",
+      "linkedin": "https://linkedin.com/company/converge-industries-co"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "BRAIQ",
+    "website": "https://linkedin.com/company/10806942",
+    "description": "Braiq personalizes the ride experience in autonomous vehicles by teaching artificial intelligence how to better read human emotions.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/BraiqInc",
+      "linkedin": "https://linkedin.com/company/10806942"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Apeiron Space",
+    "website": "https://crunchbase.com/organization/apeiron-space",
+    "description": "Apeiron is redefining launch services and space travel by creating a fully reusable, medium-to-heavy class launch vehicle.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/x5mdfdaxng8exvolhm7e",
+    "location": "Huntington Beach, California, United States",
+    "social_media": {},
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  },
+  {
+    "name": "Merklebot",
+    "website": "https://linkedin.com/company/merklebot",
+    "description": "Connecting universe to metaverse",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MerkleB0t",
+      "linkedin": "https://linkedin.com/company/merklebot",
+      "facebook": "https://facebook.com/MerkleBot/"
+    },
+    "industry": "Industrials",
+    "industry_slug": "industrials"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "name": "Burpy",
+  "slug": "burpy",
+  "website": "https://linkedin.com/company/burpy-incorporated",
+  "description": "Same day grocery delivery service",
+  "one_liner": "Same day grocery delivery service",
+  "location": "Austin, Texas, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/BURPYdelivers",
+    "linkedin": "https://linkedin.com/company/burpy-incorporated",
+    "facebook": "https://facebook.com/BURPYdotCOM"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/burpy",
+  "api": "/api/companies/burpy.json"
+}

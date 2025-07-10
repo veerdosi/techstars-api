@@ -1,0 +1,22 @@
+{
+  "name": "Popp",
+  "slug": "popp",
+  "website": "https://joinpopp.com/",
+  "description": "Incentivise valuable behaviours with branded reward coins",
+  "one_liner": "Incentivise valuable behaviours with branded reward coins",
+  "location": "London, United Kingdom",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/join-popp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/popp",
+  "api": "/api/companies/popp.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Bench",
+  "slug": "bench",
+  "website": "https://linkedin.com/company/benchaccounting",
+  "description": "America's largest cloud-based bookkeeping solution for business owners.",
+  "one_liner": "America's largest cloud-based bookkeeping solution for business owners.",
+  "location": "Vancouver, British Columbia, Canada",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Bench",
+    "linkedin": "https://linkedin.com/company/benchaccounting",
+    "facebook": "https://facebook.com/BenchAccounting"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bench",
+  "api": "/api/companies/bench.json"
+}

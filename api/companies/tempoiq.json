@@ -1,0 +1,24 @@
+{
+  "name": "TempoIQ",
+  "slug": "tempoiq",
+  "website": "https://tempoiq.com/",
+  "description": "The backend for sensor analytics",
+  "one_liner": "The backend for sensor analytics",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/tempo_IQ",
+    "linkedin": "https://linkedin.com/company/tempoiq",
+    "facebook": "https://facebook.com/TempoIQ-Inc-1592958947597543/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tempoiq",
+  "api": "/api/companies/tempoiq.json"
+}

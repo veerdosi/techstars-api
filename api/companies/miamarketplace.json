@@ -1,0 +1,23 @@
+{
+  "name": "miamarketplace",
+  "slug": "miamarketplace",
+  "website": "https://miamarketplace.com/",
+  "description": "Mia helps companies automate manual tasks with AI",
+  "one_liner": "Mia helps companies automate manual tasks with AI",
+  "location": "Westmount, Quebec, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mia__ml",
+    "linkedin": "https://linkedin.com/company/mia-ml"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/miamarketplace",
+  "api": "/api/companies/miamarketplace.json"
+}

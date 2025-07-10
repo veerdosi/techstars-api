@@ -1,0 +1,23 @@
+{
+  "name": "Boson Motors",
+  "slug": "boson-motors",
+  "website": "https://bosonmotors.com/",
+  "description": "Boson Motors designs and manufactures certified light-duty electric vehicle powertrains and an Android-based vehicle operating system.",
+  "one_liner": "Boson Motors designs and manufactures certified light-duty electric vehicle powertrains and an Android-based vehicle operating system.",
+  "location": "Milpitas, California, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/w65gzgrvga1qioqqvnhu",
+  "social_media": {
+    "twitter": "https://twitter.com/aforaruntej",
+    "linkedin": "https://linkedin.com/company/boson-motors"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/boson-motors",
+  "api": "/api/companies/boson-motors.json"
+}

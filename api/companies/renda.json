@@ -1,0 +1,24 @@
+{
+  "name": "Renda",
+  "slug": "renda",
+  "website": "https://renda.co/",
+  "description": "Renda provides Fulfillment and Logistics infrastructure that enables and empowers E-Commerce businesses to process large volume of orders across Africa.",
+  "one_liner": "Renda provides Fulfillment and Logistics infrastructure that enables and empowers E-Commerce businesses to process large volume of orders across Africa.",
+  "location": "Lagos, Nigeria",
+  "industry": "Supply chain technology",
+  "industry_slug": "supply-chain-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/tpfsl2hut0k8yjchbayo",
+  "social_media": {
+    "twitter": "https://twitter.com/rendaafrica",
+    "linkedin": "https://linkedin.com/company/rendaafrica",
+    "facebook": "https://facebook.com/rendaafrica/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/renda",
+  "api": "/api/companies/renda.json"
+}

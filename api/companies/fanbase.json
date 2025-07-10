@@ -1,0 +1,24 @@
+{
+  "name": "Fanbase",
+  "slug": "fanbase",
+  "website": "https://fanbaseclub.com/",
+  "description": "Fanbase is a fan operating system built to connect people through sports. Sports Organisations outside the very top tier of sport (NFL, NBA, MLB) have small back office teams with large revenue profiles. They are spinning a lot of plates, covering multipl",
+  "one_liner": "Fanbase is a fan operating system built to connect people through sports. Sports Organisations outside the very top tier of sport (NFL, NBA, MLB) have small back office teams with large revenue profiles. They are spinning a lot of plates, covering multipl",
+  "location": "Edinburgh, Scotland, United Kingdom",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/fanbase_clubs/",
+    "linkedin": "https://linkedin.com/company/fanbaseclubs",
+    "facebook": "https://facebook.com/FanbaseClub2020/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fanbase",
+  "api": "/api/companies/fanbase.json"
+}

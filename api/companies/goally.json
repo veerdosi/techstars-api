@@ -1,0 +1,24 @@
+{
+  "name": "Goally",
+  "slug": "goally",
+  "website": "https://goally.co/",
+  "description": "Goally is a behavioral science-based system that helps kids with executive functioning disabilities like ADHD or autism get on the fast-track to independence",
+  "one_liner": "Goally is a behavioral science-based system that helps kids with executive functioning disabilities like ADHD or autism get on the fast-track to independence",
+  "location": "Louisville, Colorado, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/goallyteam",
+    "linkedin": "https://linkedin.com/company/goally",
+    "facebook": "https://facebook.com/goallyteam"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/goally",
+  "api": "/api/companies/goally.json"
+}

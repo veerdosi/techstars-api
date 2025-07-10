@@ -1,0 +1,24 @@
+{
+  "name": "Recheck",
+  "slug": "recheck",
+  "website": "https://recheck.io/",
+  "description": "Objective and transparent monitoring and certification of energy, sustainability, and air quality performance of commercial real estate.",
+  "one_liner": "Objective and transparent monitoring and certification of energy, sustainability, and air quality performance of commercial real estate.",
+  "location": "Heerlen, Netherlands",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/recheck_io",
+    "linkedin": "https://linkedin.com/company/recheck-bv",
+    "facebook": "https://facebook.com/recheck.io/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/recheck",
+  "api": "/api/companies/recheck.json"
+}

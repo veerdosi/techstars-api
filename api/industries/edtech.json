@@ -1,0 +1,2889 @@
+[
+  {
+    "name": "Degreed",
+    "website": "https://degreed.com/",
+    "description": "Degreed is the upskilling platform that connects learning, talent development and internal mobility opportunities in one place.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/degreed",
+      "linkedin": "https://linkedin.com/company/degreed",
+      "facebook": "https://facebook.com/degreedofficial"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Preply",
+    "website": "https://preply.com/",
+    "description": "a fast growing marketplace for tutoring",
+    "location": "Brighton, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/preplycom",
+      "linkedin": "https://linkedin.com/company/2762432",
+      "facebook": "https://facebook.com/preply/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "DataCamp",
+    "website": "https://datacamp.com/",
+    "description": "Learn data analysis, interactively",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/DataCamp",
+      "linkedin": "https://linkedin.com/school/datacampinc",
+      "facebook": "https://facebook.com/pages/DataCamp/726282547396228"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Sphero",
+    "website": "https://sphero.com/",
+    "description": "We create amazing connected toys.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/littleBits",
+      "linkedin": "https://linkedin.com/company/1199924",
+      "facebook": "https://facebook.com/GoSphero"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Mentor Collective",
+    "website": "https://mentorcollective.org/",
+    "description": "Shearwater keeps students enrolled and engaged.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/shearwaterintl",
+      "linkedin": "https://linkedin.com/company/3353745",
+      "facebook": "https://facebook.com/mentorcollective/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "LearnPlatform",
+    "website": "https://learnplatform.com/",
+    "description": "The Complete EdTech Management Platform",
+    "location": "Raleigh, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LearnPlatformUS",
+      "linkedin": "https://linkedin.com/company/lea-r-n",
+      "facebook": "https://facebook.com/LearnTrials/timeline"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Branching Minds",
+    "website": "https://branchingminds.com/",
+    "description": "path for every learner",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/BranchingMinds",
+      "linkedin": "https://linkedin.com/company/branching-minds",
+      "facebook": "https://facebook.com/branchingminds"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Skilljar",
+    "website": "https://skilljar.com/",
+    "description": "Customer training made simple",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/skilljar",
+      "linkedin": "https://linkedin.com/company/skilljar",
+      "facebook": "https://facebook.com/skilljar"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Memrise",
+    "website": "https://memrise.com/",
+    "description": "Turns learning into a compulsive sport",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/memrise",
+      "linkedin": "https://linkedin.com/company/memrise",
+      "facebook": "https://facebook.com/memrise"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Mainstay",
+    "website": "https://admithub.com/",
+    "description": "AdmitHub provides virtual college counseling to students, and helps colleges connect with prospects like never before",
+    "location": "Arlington, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/admithub",
+      "linkedin": "https://linkedin.com/company/heymainstay",
+      "facebook": "https://facebook.com/admithub"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Kinetic",
+    "website": "https://wearkinetic.com/",
+    "description": "Kinetic is an industrial analytics company using wearables to improve worker safety.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/WearKinetic",
+      "linkedin": "https://linkedin.com/company/kineticxyz",
+      "facebook": "https://facebook.com/KineticUSA"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Lingvist",
+    "website": "https://lingvist.com/",
+    "description": "Lingvist is building technology to make human learning 10x more efficient.",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "twitter": "https://twitter.com/lingvist",
+      "linkedin": "https://linkedin.com/company/lingvist",
+      "facebook": "https://facebook.com/TheLingvist"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Educative",
+    "website": "https://educative.io/",
+    "description": "Educative provides interactive & adaptive courses for professional software developers with pre-provisioned cloud-based training environments.",
+    "location": "Bellevue, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/educativeinc",
+      "linkedin": "https://linkedin.com/company/educative-inc",
+      "facebook": "https://facebook.com/educativeinc"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Zogo Finance",
+    "website": "https://zogofinance.com/",
+    "description": "Zogo helps financial institutions engage GenZ through a financial education app that pays kids to learn.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/zogofinance",
+      "linkedin": "https://linkedin.com/company/28974382",
+      "facebook": "https://facebook.com/zogoapp"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Edvisor",
+    "website": "https://edvisor.io/",
+    "description": "School and Agency Collaboration For the 21st Century",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/Edvisorio",
+      "linkedin": "https://linkedin.com/company/edvisor-io",
+      "facebook": "https://facebook.com/749555088410228"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "CareAcademy",
+    "website": "https://careacademy.com/",
+    "description": "CareAcademy provides home care agencies with a best in class online education platform that delivers engaging video-based classes and real world scenarios that walk through aspects of the caregiver experience.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/careacademyco",
+      "linkedin": "https://linkedin.com/company/careacademy",
+      "facebook": "https://facebook.com/CareAcademy/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Pack",
+    "website": "https://thepack.tech/",
+    "description": "HR-Tech platform to foster people's growth with data-driven mentoring and increase employees' retention.",
+    "location": "Firenze, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/startup-pack-mentoring"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Mimo",
+    "website": "https://getmimo.com/",
+    "description": "Mimo is an iOS app that teaches programming, HTML, CSS, JavaScript, Swift, and more through gamified and interactive lessons on the go.",
+    "location": "Vienna, Austria",
+    "social_media": {
+      "twitter": "https://twitter.com/getmimo",
+      "linkedin": "https://linkedin.com/company/mimo-inc",
+      "facebook": "https://facebook.com/getmimo"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Brite",
+    "website": "https://gobrite.io/",
+    "description": "Turn-Key SaaS platform that helps after-school educators to manage their businesses and find high-quality STEM curricula.",
+    "location": "Bothell, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gobrite_io",
+      "linkedin": "https://linkedin.com/company/brite-education",
+      "facebook": "https://facebook.com/BritePaymentGroup"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "CodeMentor",
+    "website": "https://codementor.io/",
+    "description": "Instant help marketplace for developers",
+    "location": "Sunnyvale, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/codementorIO",
+      "linkedin": "https://linkedin.com/company/10036603",
+      "facebook": "https://facebook.com/codementor"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Zzish",
+    "website": "https://zzish.com/",
+    "description": "An infrastructure and toolset for building amazing mobile learning apps",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/zzishcom",
+      "linkedin": "https://linkedin.com/company/zzish",
+      "facebook": "https://facebook.com/Quizalize/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "University Startups",
+    "website": "https://university-startups.com/",
+    "description": "University Startups create opportunities for students and life learners to expand their minds.",
+    "location": "Gaithersburg, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/univstartups",
+      "linkedin": "https://linkedin.com/company/university-startups",
+      "facebook": "https://facebook.com/univstartups"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Lingco Language Labs",
+    "website": "https://lingco.io/",
+    "description": "Lingco Classroom is an adaptive language learning platform designed for the classroom that delivers personalized learning at scale",
+    "location": "Lansing, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lingcolabs",
+      "linkedin": "https://linkedin.com/company/lingco-language-labs",
+      "facebook": "https://facebook.com/LingcoLabs/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "LOU Web Technologies",
+    "website": "https://louassist.com/",
+    "description": "Lou is the easiest way to create product tours & announcements that drive product adoption.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LOUassistant",
+      "linkedin": "https://linkedin.com/company/louassist"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Upkid",
+    "website": "https://joinupkid.com/",
+    "description": "Upkid is solving the child care shortage in America by providing daycares with qualified flexible staff so daycares can open up more spots for parents.",
+    "location": "Eagle Mountain, Utah, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/upkid",
+      "facebook": "https://facebook.com/joinupkid"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "YOURIKA",
+    "website": "https://yourika.ai/",
+    "description": "Intelligent learning at scale",
+    "location": "Waterloo, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/15189982"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Blue Studios",
+    "website": "https://bluestudios.io/",
+    "description": "Blue Studios is a live and on-demand platform, like Peloton, broadcasting the best and most entertaining STEM classes for kids, taught by the best instructors.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bluestudiosusa",
+      "linkedin": "https://linkedin.com/company/blue-studios-io",
+      "facebook": "https://facebook.com/bluestudiosio/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Tutornow",
+    "website": "https://tutornow.it/",
+    "description": "End-to-end online tutoring platform with a focus on learning disorders.",
+    "location": "Appiano Gentile, Como, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tutornowonline",
+      "facebook": "https://facebook.com/tutornow.it/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Ediphi",
+    "website": "https://goediphi.com/",
+    "description": "Training. Above and Beyond.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/worldwide-internships-philippines",
+      "facebook": "https://facebook.com/wwiphilippines"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Lendorse",
+    "website": "https://lendorse.com/",
+    "description": "Helping students fund tuition fees, living expenses, visa deposits and provide them with mentoring support during the admission process and career-building.",
+    "location": "Munich, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lendorse"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Dynepic",
+    "website": "https://dynepic.com/",
+    "description": "Platform of Platforms Powering the Future of Knowledge",
+    "location": "Folly Beach, South Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/dynepic",
+      "linkedin": "https://linkedin.com/company/dynepic-inc-",
+      "facebook": "https://facebook.com/dynepicllc"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "PenPal Schools",
+    "website": "https://penpalschools.com/",
+    "description": "PenPal Schools connects students from around the world to learn together.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/penpalschools",
+      "linkedin": "https://linkedin.com/company/penpal-schools",
+      "facebook": "https://facebook.com/PenPalSchools"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "PanOpen",
+    "website": "https://panopen.com/",
+    "description": "The platform that faculty and students use to engage with Open Educational Resources.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/panopen",
+      "linkedin": "https://linkedin.com/company/panopen",
+      "facebook": "https://facebook.com/panopenoer"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "PsycApps",
+    "website": "https://psycapps.com/",
+    "description": "Digital Mental Health Games",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/equoogame",
+      "linkedin": "https://linkedin.com/company/psycapps",
+      "facebook": "https://facebook.com/PsycApps/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "ModernGuild",
+    "website": "https://modernguild.com/",
+    "description": "1-on-1, online tutoring programs to help students maximize their college experience and find the career they love",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/modernguild",
+      "linkedin": "https://linkedin.com/in/brad-aston-4256a714",
+      "facebook": "https://facebook.com/modernguild"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "testive",
+    "website": "https://testive.com/",
+    "description": "Adaptive test prep that works",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Testive",
+      "linkedin": "https://linkedin.com/company/testive-inc",
+      "facebook": "https://facebook.com/testive"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Clutch Prep",
+    "website": "https://clutchprep.com/",
+    "description": "Clutch Prep helps college students get better grades with in-depth, textbook-specific video courses.",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ClutchPrep",
+      "linkedin": "https://linkedin.com/company/clutch-prep",
+      "facebook": "https://facebook.com/ClutchPrep"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "College Contact",
+    "website": "https://sophieconsults.com/",
+    "description": "At College Contact, we believe in making the process of applying to college stress-free.",
+    "location": "Charlottesville, Virginia, United States",
+    "social_media": {},
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Sunlight Technologies",
+    "website": "https://sunlight.is/",
+    "description": "Sunlight helps companies grow a highly engaging learning culture by facilitating their team's access to any book, event or course in the world.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/WithSunlight",
+      "linkedin": "https://linkedin.com/company/sunlight.is",
+      "facebook": "https://facebook.com/withsunlight"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "VIAR",
+    "website": "https://viar.si/",
+    "description": "We help people experience things that they never thought possible by providing easy-to-use authoring & distribution tools for Virtual & Augmented Reality.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/weareviar",
+      "linkedin": "https://linkedin.com/company/viar",
+      "facebook": "https://facebook.com/weareviar/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Appsembler",
+    "website": "https://appsembler.com/",
+    "description": "Appsembler is the leading hosted platform for online corporate training and professional development",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/appsembler",
+      "linkedin": "https://linkedin.com/company/appsembler",
+      "facebook": "https://facebook.com/appsembler"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Ranku",
+    "website": "https://goranku.com/",
+    "description": "Online degree marketplace",
+    "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/224452-181f87bbe6ac261b931b7ed48cc473ad-medium_jpg.jpg?buster=1371575258",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/goranku",
+      "facebook": "https://facebook.com/ranku.inc"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "IQID Technology",
+    "website": "https://iqid.io/",
+    "description": "Empowering university admission offices to enhance and monitor their communication practices.",
+    "location": "Lewes, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AeInsights",
+      "linkedin": "https://linkedin.com/company/iqidio",
+      "facebook": "https://facebook.com/AcceleratedEquityInsights"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "ROCKY",
+    "website": "https://rocky.ai/",
+    "description": "The leadership coach in your pocket. Build high performer habits and sharpen soft skills daily with ROCKY.AI with a coaching chatbot.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/RockyAITalks",
+      "linkedin": "https://linkedin.com/company/rocky-robots",
+      "facebook": "https://facebook.com/rocky.ai.coach"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "RobotLAB",
+    "website": "https://robotlab.com/",
+    "description": "RobotsLAB is on a mission to change the way abstract math and science is being taught. We bring abstract math and science concepts to life, using robots, making teachers super-heros, engaging students and ensuring their career and college readiness.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RobotLABInc",
+      "linkedin": "https://linkedin.com/company/3195197",
+      "facebook": "https://facebook.com/RobotLABInc"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Ovida",
+    "website": "https://ovida.io/",
+    "description": "Ovida is an AI-driven communication skills platform that helps people master critical workplace conversations through personalized feedback and skill development. By combining advanced AI analysis with expert-designed learning journeys, we enable organizations to develop their people's communication and leadership capabilities at scale - focusing on the human interactions that will remain essential in the AI era, while delivering results at a fraction of traditional training cost and time.",
+    "location": "Nottingham, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ovida-ai"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Creation Crate",
+    "website": "https://mycreationcrate.com/",
+    "description": "Creation Crate is the platform to develop STEM skills through hands-on learning.",
+    "location": "Scarborough, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/creationcrate",
+      "linkedin": "https://linkedin.com/company/creation-crate",
+      "facebook": "https://facebook.com/CreationCrate/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Seed",
+    "website": "https://seedlawpr.com/",
+    "description": "Our mission is to democratize access to the Latin music industry through education, technology, and community.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pz323v5ifnvwkwfcbadx",
+    "location": "Fort Lauderdale, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/seed_europe",
+      "linkedin": "https://linkedin.com/company/seedcademy",
+      "facebook": "https://facebook.com/pg/seedkinderwagen"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Hiveclass",
+    "website": "https://hiveclass.co/",
+    "description": "Digital platform for modern, whole-child wellness resources serving educational institutions.",
+    "location": "Bridgehampton, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hiveclass",
+      "linkedin": "https://linkedin.com/company/hiveclass",
+      "facebook": "https://facebook.com/HiveClassAPP"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "STHRIVE",
+    "website": "https://sthrive.com/",
+    "description": "STHRIVE is a learning platform for salesforce education, offering content curation, AI-driven training, analytics, and gamified experiences.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/khszadyf1mfvp5esdpbk",
+    "location": "Dubai, United Arab Emirates",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sthrive"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Birdhouse",
+    "website": "https://flybirdhouse.com/",
+    "description": "Birdhouse is reimagining child care by transforming residential homes into tech-enabled early learning hubs, tailored to the needs of modern families.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/flybirdhouse"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Talimai SAS",
+    "website": "https://brio.ink/",
+    "description": "AI agent to prepare and assess critical conversations, starting with the job interview",
+    "location": "Orléans, Centre, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/brioapp"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Biomod AI",
+    "website": "https://biomodai.com/",
+    "description": "AI Assistant for Biotech R&D",
+    "location": "Zuid-Scharwoude, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/biomodai"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "StudyFree",
+    "website": "https://studyfree.org/",
+    "description": "StudyFree is a platform that connects students with international opportunities worldwide.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/StudyFreeWorld",
+      "linkedin": "https://linkedin.com/company/studyfree",
+      "facebook": "https://facebook.com/studyfreeinternational/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Modality",
+    "website": "https://findmodality.com/",
+    "description": "Powering the next generation of wellness workers",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/modality1"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Labbox",
+    "website": "https://labbox.education/",
+    "description": "A system of electronic blocks designed to teach children about electronics",
+    "location": "Prishtina, Kosovo",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/labbox",
+      "facebook": "https://facebook.com/labboxedu"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Sholder",
+    "website": "https://sholder.com/",
+    "description": "\"Sholder, short for Spaceholder(tm), is the gig platform for transformative mental & emotional support from qualified non-clinical providers. \"",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sholder",
+      "facebook": "https://facebook.com/SholderInc"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Naria AI",
+    "website": "https://naria.ai/",
+    "description": "Unlock the magic of storytelling with Naria.ai. Create, share, and print your own AI-powered illustrated children's books--start your creative journey today!",
+    "location": "San Mateo, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/naria_ai",
+      "linkedin": "https://linkedin.com/company/naria-ai"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Aplic Platform",
+    "website": "https://aplic.io/",
+    "description": "Solving global higher education's financial crisis by matching universities and colleges with students seeking study abroad opportunities",
+    "location": "North Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/aplicplatform",
+      "linkedin": "https://linkedin.com/company/aplicplatform",
+      "facebook": "https://facebook.com/aplic.io"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Nifty Learning",
+    "website": "https://niftylearning.io/",
+    "description": "Through smart automations we handle admin tasks and provide real-time insights to learning coordinators so they can focus on strategic work.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/niftylearningio",
+      "linkedin": "https://linkedin.com/company/17904213",
+      "facebook": "https://facebook.com/niftylearning.io/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "wryte",
+    "website": "https://wryte.io/",
+    "description": "The most advanced note-taking app for students, teachers, lecturers, and tutoring agencies.",
+    "location": "Munich, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/wryte",
+      "facebook": "https://facebook.com/wryte.io"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Virtual Sapiens",
+    "website": "https://virtualsapiens.co/",
+    "description": "Virtual Sapiens leverages AI and behavioral science to provide insights on nonverbal communication cues on video.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wpkbklj4iqjduk2rvzzr",
+    "location": "Beverly, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vsapiens_ai",
+      "linkedin": "https://linkedin.com/company/72435434"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "PowerTechs",
+    "website": "https://powertechs.us/",
+    "description": "Upskill Workforce to Renewables accelerating a transition to a sustainable energy future",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/figma",
+      "linkedin": "https://linkedin.com/company/figma",
+      "facebook": "https://facebook.com/figmadesign"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "SkillPop",
+    "website": "https://skillpop.com/",
+    "description": "SkillPop makes in-person learning accessible through community-based pop-up classes.",
+    "location": "Charlotte, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/skillpophq",
+      "linkedin": "https://linkedin.com/company/skillpop",
+      "facebook": "https://facebook.com/skillpophq/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "TechRow",
+    "website": "https://techrow.org/",
+    "description": "Immersive learning experiences for all to enjoy.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kjwuydygbzpaf8b4por8",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/techrownyc",
+      "linkedin": "https://linkedin.com/company/tech-row",
+      "facebook": "https://facebook.com/techrownyc/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Skylyte",
+    "website": "https://skylyte.com/",
+    "description": "Skylyte is building a Chief Wellbeing Officer in every team's pocket to empower them to proactively manage burnout and wellbeing.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vdpoixzfnaieyf7bm5iq",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SkylyteComms",
+      "linkedin": "https://linkedin.com/company/skylyte"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Recruiting Innovation",
+    "website": "https://recruitinginnovation.com/",
+    "description": "Recruiting Innovation is on a mission to help companies scale by training and enabling their recruiting teams to talk tech.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mudhhkztpvwnawlepnhr",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RecInnovation",
+      "linkedin": "https://linkedin.com/company/recruitinginnovation",
+      "facebook": "https://facebook.com/recruitinginnovation/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "LivedX",
+    "website": "https://livedx.com/",
+    "description": "LivedX is an online equity platform that translates peoples' lived & learned experiences using ML into power skills credentials for educational and job success.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/sxfjjbflq9z2blz0ifhj",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/gverma116"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Everprep",
+    "website": "https://everprep.com/",
+    "description": "Everprep empowers creators to author, design, and deliver exam prep to learners around the world.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nr49dubij2qixf4ppjvc",
+    "location": "Auburn, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ver_prep",
+      "linkedin": "https://linkedin.com/company/everprep"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Escalate",
+    "website": "https://escalateusa.com/",
+    "description": "Escalate unlocks frontline retention for employers and a path for entry-level talent to advance.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cafjhtjj219sfemaia4k",
+    "location": "Silver Spring, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EscalateUSA",
+      "linkedin": "https://linkedin.com/company/escalateusa"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "EmpiricaLab",
+    "website": "https://empiricalab.com/",
+    "description": "EmpiricaLab is a last mile training, team-centric authoring  and knowledge platform focused on enabling peer-learning for healthcare teams",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/qo5cr2mdhnzg05mgesr5",
+    "location": "McAllen, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/empiricalab",
+      "linkedin": "https://linkedin.com/company/empiricalab-team"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Teeread",
+    "website": "https://teeread.com/",
+    "description": "TeeRead uses AI and speech recognition to support teachers and parents and make our literacy crisis a problem of the past.",
+    "location": "Hallandale Beach, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/teeread"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "GoManda",
+    "website": "https://gomanda.org/",
+    "description": "Dedicated to empowering autistic children by helping them accept, nurture, and cheer for their strengths",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/zqus9sljj5vausqiltnb",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/gomanda",
+      "facebook": "https://facebook.com/gomandaonline"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Sirius Education",
+    "website": "https://sirius.education/",
+    "description": "A platform used to develop soft skills and connect users with the innovation ecosystem.",
+    "location": "Lagoinha, Brazil",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sirius-educacao"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Immigo",
+    "website": "https://immigo.io/",
+    "description": "The easiest way for creators to monetize and engage their learning community.",
+    "location": "Sacramento, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/teamimmigo",
+      "facebook": "https://facebook.com/groups/immigo"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Zoee",
+    "website": "https://zoee.com/",
+    "description": "First cloud-based platform to bring coaches and clients together on a national client-coach-matching marketplace combined with streamlined workflow solutions.",
+    "location": "Hendersonville, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/solelifeinc",
+      "linkedin": "https://linkedin.com/company/zoee",
+      "facebook": "https://facebook.com/pg/solelife.inc/about/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "SWYE360 Learning",
+    "website": "https://swye360.com/",
+    "description": "With over 1700 software applications used each semester, administrators struggle to track their effectiveness. SWYE360 solves this by using machine learning to aggregate ROI and academic returns for all software used by students",
+    "location": "Frisco, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/swye360",
+      "linkedin": "https://linkedin.com/company/swye360-learning"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Highbrow",
+    "website": "https://joinhighbrow.com/",
+    "description": "Creating and distributing engaging videos for children world-wide.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/joinhighbrow",
+      "linkedin": "https://linkedin.com/company/join-highbrow",
+      "facebook": "https://facebook.com/joinhighbrow"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Gateway",
+    "website": "https://careergateway.io/",
+    "description": "Gateway saves 95% of time and cost it takes to onboard and train new employees by  transforming long training hours into engaging micro-learning modules that improve retention, knowledge absorption, and job readiness.",
+    "location": "McLean, Virginia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/careergateway"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Tassel Software",
+    "website": "https://tasselsoftware.com/",
+    "description": "Helping college students connect the dots from their academic plans to their career aspirations.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TasselSoftware",
+      "linkedin": "https://linkedin.com/company/tassel-software"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "SkillMapper",
+    "website": "https://skillmapper.com/",
+    "description": "SkillMapper is a search and discovery engine for educational content powered by artificial intelligence and community curators.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/skillmapper",
+      "linkedin": "https://linkedin.com/company/skillmapper",
+      "facebook": "https://facebook.com/skillmapper"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "LetMeDoIt",
+    "website": "https://letmedoit.org/",
+    "description": "Let Me Do It is an App Empowering Individuals with Disabilities to Make Informed Decisions.",
+    "location": "Sandy Springs, Georgia, United States",
+    "social_media": {},
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Introwise",
+    "website": "https://introwise.com/",
+    "description": "Making it easy for everyday experts to offer coaching and advice online.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/introwise",
+      "linkedin": "https://linkedin.com/company/introwise",
+      "facebook": "https://facebook.com/introwise/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "International Scientific Advisors",
+    "website": "https://joinisa.io/",
+    "description": "The new way to train and scale scientific advisory boards.",
+    "location": "Beaverton, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/international-scientific-advisors",
+      "facebook": "https://facebook.com/InternationalScientificAdvisors"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Grasshopper Kids",
+    "website": "https://grasshopperkids.com/",
+    "description": "In-person learning experiences for kids",
+    "location": "Carefree, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Grasshopper",
+      "linkedin": "https://linkedin.com/company/grasshopperkids",
+      "facebook": "https://facebook.com/grasshopper"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Freespeech",
+    "website": "https://freespeechnow.ai/",
+    "description": "Platform providing users with the most important and timeless content heard in multiple languages in incredible voices.",
+    "location": "Long Island City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/freespeechlab",
+      "linkedin": "https://linkedin.com/company/freespeechnow"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "EmpowerU",
+    "website": "https://empoweru-startup.github.io/",
+    "description": "EmpowerU is an Ed-Tech Platform that provides students with the resources and tools they need to obtain higher education",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/empoweru-startup"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "CampusLush",
+    "website": "https://campuslush.com/",
+    "description": "CampusLush | The Eventbrite for Colleges",
+    "location": "West Haverstraw, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/campuslush"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Beelinguapp",
+    "website": "https://beelinguapp.com/",
+    "description": "Award-winning language learning app with an innovative method using audio and side-by-side text. 3 million+ organic downloads, great reviews, profitable and now ready for growth. #education #languagelearning #app #B2C",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/thebeelinguapp",
+      "linkedin": "https://linkedin.com/company/beelinguapp",
+      "facebook": "https://facebook.com/beelinguapp"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Prep Intel",
+    "website": "https://prepintel.io/",
+    "description": "AI-driven enrollment platform revolutionizing college admissions, aiding institutions, recruiters & students in data-driven decision-making.",
+    "location": "Trussville, Alabama, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PrepIntel1",
+      "linkedin": "https://linkedin.com/company/prepintel"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Zest",
+    "website": "https://zestapp.co/",
+    "description": "An app that provides an intuitive way to improve at cooking.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/zestisapp",
+      "linkedin": "https://linkedin.com/company/zestapp",
+      "facebook": "https://facebook.com/getzest.is"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Wibo",
+    "website": "https://wibo.app/",
+    "description": "Wibo helps corporates retain talents using a community based, mobile first learning platform.",
+    "location": "Turin, Turin, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/wiboorg",
+      "linkedin": "https://linkedin.com/company/wiboapp",
+      "facebook": "https://facebook.com/wibo.family"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "TutorMe",
+    "website": "https://trytutor.me/",
+    "description": "We're building the a virtual classroom powered by GenAI. For students that struggle with effectively studying for different standardized tests, we built a centralized virtual tutoring center, right now we're focused on the global IB curriculum.",
+    "location": "London, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/trytutor-me"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Near",
+    "website": "https://feelnear.com/",
+    "description": "Providing personalized 1-on-1 tech coaching for existing and new devices to help older adult users stay connected with their family and friends",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/qmm2uqcbaapt8xwj96nf",
+    "location": "Evanston, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/near_technology",
+      "linkedin": "https://linkedin.com/company/neartechnology",
+      "facebook": "https://facebook.com/feelnearalways"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Intuitivo",
+    "website": "https://en.intuitivo.pt/",
+    "description": "All-in-one digital assessment platform for schools.",
+    "location": "Porto, Portugal",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/intuitivo-edu",
+      "facebook": "https://facebook.com/intuitivo.pt/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Enlightapp",
+    "website": "https://enlightapp.co/",
+    "description": "Enlight amplifies student voices and showcases their uniqueness - enabling educators to understand, teach, and impact their students in new deep and quantifiable ways.",
+    "location": "West Fargo, North Dakota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/enlightapp_co",
+      "linkedin": "https://linkedin.com/company/enlightapps",
+      "facebook": "https://facebook.com/enlightapp.co/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Brocali",
+    "website": "https://brocali.io/",
+    "description": "Developing a modern E-learning platform simplifying medical studies by providing detailed explanations, summaries, and interactive infographic videos.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fqj2dmcjycd53lkzxpfm",
+    "location": "Haifa, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/Brocali4",
+      "linkedin": "https://linkedin.com/company/brocali",
+      "facebook": "https://facebook.com/Brocaliwebsite"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Biiah",
+    "website": "https://biiah.com/",
+    "description": "Biiah empowers people to reclaim their singing voice as a source of wellbeing through their app and associated virtual and in person singing sessions.",
+    "location": "Wembley, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/tchzant",
+      "linkedin": "https://linkedin.com/company/choral-hub",
+      "facebook": "https://facebook.com/tchzant/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "EX-IQ",
+    "website": "https://ex-iq.com/",
+    "description": "EX-IQ's dynamic, artificial intelligence technology transforms any environment into a personalized high-speed learning laboratory.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ejor0pjhnusrrbvqbrzu",
+    "location": "Fayetteville, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EXIQ_Notecast",
+      "linkedin": "https://linkedin.com/company/ex-iq"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Capyble",
+    "website": "https://capyble.com/",
+    "description": "Bringing experts to 1 million workplaces.",
+    "location": "Binalong, New South Wales, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/od-ai"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Medtribe",
+    "website": "https://medtribe.com/",
+    "description": "Medtribe forges a network for healthcare professionals, fostering collaboration, knowledge sharing, and career growth opportunities.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Medtribe_",
+      "linkedin": "https://linkedin.com/company/medtribe",
+      "facebook": "https://facebook.com/MedTribeOfficial"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Latte",
+    "website": "https://latteconnect.com/",
+    "description": "Platform that helps higher-ed administrators run effective student career mentorship programs.",
+    "location": "New York City, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lattemkt",
+      "linkedin": "https://linkedin.com/company/latteconnect",
+      "facebook": "https://facebook.com/lattemkt/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Inner Peak AI",
+    "website": "https://innerpeak.ai/",
+    "description": "For high schools and colleges struggling to support students' mental health needs with limited resources, Peak blends the best of AI and world-class therapist expertise through video content to provide 24/7 personalized mental wellness support for students and critical insights and initiative tracking for schools",
+    "location": "Maumee, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/inner-peak-ai"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Inkwire",
+    "website": "https://inkwire.co/",
+    "description": "Education copilot for the future of work and learning.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/inkwireco"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Groopie",
+    "website": "https://joingroopie.com/",
+    "description": "Female Startup Club is a modern media company and platform dedicated to empowering professional women with the tools, resources, and community they need to build financial security and achieve economic independence. With our innovative data engine driving insights and product development, we connect and inspire women globally to take control of their financial futures, creating a world where every woman can thrive on her own terms.",
+    "location": "Bronte, New South Wales, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/female-startup-club"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "CAHill TECH",
+    "website": "https://cahilltech.com/",
+    "description": "Tackling the construction labor gap through an e-learning platform to train and onboard construction workers.",
+    "location": "Akron, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cahillresources",
+      "linkedin": "https://linkedin.com/company/cahilltech",
+      "facebook": "https://facebook.com/CaHill.resources/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Plus Up",
+    "website": "https://gogoodtimer.com/",
+    "description": "Award-winning product is all about encouraging kids to do their best every day.",
+    "location": "CROWNSVILLE, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/plus-up",
+      "facebook": "https://facebook.com/GoGoodTimer/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Matutto",
+    "website": "https://matutto.com/",
+    "description": "Building the world's largest community of expats online",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/matuttodotcom",
+      "linkedin": "https://linkedin.com/company/matutto",
+      "facebook": "https://facebook.com/matuttodotcom"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Konnected",
+    "website": "https://konnectedwithcare.us/",
+    "description": "Konnected with Care is a comprehensive platform that helps organizations and government agencies serving youth and families stay connected, providing them with vital data and resources to save time, money, and lives.",
+    "location": "Ann Arbor, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/KonnectedXCare",
+      "linkedin": "https://linkedin.com/company/konnected-with-care"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "ivee",
+    "website": "https://ivee.jobs/",
+    "description": "ivee provides cutting-edge AI tailored upskilling to equip women with the tools to confidently return to work.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v0gagtdcrxkwkj6zxsf0",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/iveejobs",
+      "facebook": "https://facebook.com/people/Ivee/61552049597835/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Quartolio",
+    "website": "https://quartolio.com/",
+    "description": "Quartolio is the Insight Cloud for R&D, synthesizing research leads from the work R&D teams have done and the work that they're doing in real-time.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/quartolio",
+      "linkedin": "https://linkedin.com/company/quartolio",
+      "facebook": "https://facebook.com/quartolio"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Voovo",
+    "website": "https://voovostudy.com/",
+    "description": "Voovo is an educational application that helps students to absorb loads of difficult information quickly by creating the fastest and easiest way to make digital flashcards.",
+    "location": "Solymár, Hungary",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/voovo",
+      "facebook": "https://facebook.com/voovo.study"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Violet",
+    "website": "https://violet.org.au/",
+    "description": "Helping people talk about and plan for the last stage of life",
+    "location": "Haymarket, New South Wales, Australia",
+    "social_media": {},
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "TruLeague",
+    "website": "https://truleague.com/",
+    "description": "Digitize Your Ambassador Program to Engage Prospects and Increase Enrollment Yield",
+    "location": "Newton, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/truleague"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Trainizi",
+    "website": "https://trainizi.com/",
+    "description": "Trainizi is an interactive micro-learning mobile platform maximizing engagement for training deskless employees powered by Gamification & AI.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/trainizi",
+      "facebook": "https://facebook.com/trainizisoftware"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Pico",
+    "website": "https://getpico.co/",
+    "description": "Learn coding the fun way by building your favorite games",
+    "location": "Lewisham, New South Wales, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pico-coding",
+      "facebook": "https://facebook.com/picocoding"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "BLOOM",
+    "website": "https://bloomforall.com/",
+    "description": "BLOOM is a digital health platform offering employers comprehensive support in family care, counseling and mental health interventions, and personal well-being programs.",
+    "location": "Gloucester, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bloomforall",
+      "facebook": "https://facebook.com/bloomforallhub/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Anywyse",
+    "website": "https://anywyse.audio/",
+    "description": "Anywyse is the first audio learning platform allowing you to easily transform any written text into 15 minutes didactic audio learning modules.",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/anywyse"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Wingspans",
+    "website": "https://wingspans.com/",
+    "description": "Wingspans is a platform that uses storytelling to build a new and diverse workforce.",
+    "location": "Providence, Rhode Island, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wing_spans",
+      "linkedin": "https://linkedin.com/company/wing-spans",
+      "facebook": "https://facebook.com/YourWingspans"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Vero Learning",
+    "website": "https://verolearning.com/",
+    "description": "Talent optimization and recruitment platform built for Gen Z's transition from the classroom into the workforce.",
+    "location": "Pembroke Pines, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/vero-learning"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "SubHub",
+    "website": "https://joinsubhub.com/",
+    "description": "For school districts with a substitute teacher shortage and a difficult time retaining subs, SubHub provides mobile-friendly, short-form, training content for subs.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/joinsubhub"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Sparc",
+    "website": "https://sparcopen.org/",
+    "description": "Sparc is a professional networking platform for securing jobs, career mentorship, and making money (coaching and tutoring). College students and professionals leverage their \"professional organization pages\" on Sparc to connect directly with employers (via their company page) to form partnerships and arrange recruiting events.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fdifxe8r5svmfh5d438b",
+    "location": "Silver Spring, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SparcTheWorld",
+      "linkedin": "https://linkedin.com/company/sparctheworld",
+      "facebook": "https://facebook.com/SparcTheWorld"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "SoFiiT",
+    "website": "https://sofiit.io/",
+    "description": "An innovative solution to empower wellness with data insights and social conne",
+    "location": "Monterey Park, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sofiit"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "SLAIT School",
+    "website": "https://slait.school/",
+    "description": "AI Tutor for learning American Sign Language",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/slait",
+      "facebook": "https://facebook.com/slait.school/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Scaffolded",
+    "website": "https://scaffolded.io/",
+    "description": "Scaffold Ed is building the last mile in K-12 data",
+    "location": "Newtown Square, Pennsylvania, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/scaffold-ed"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Notey",
+    "website": "https://notey.co/",
+    "description": "Notey Inc: Merging gaming and music education.",
+    "location": "Cayce, South Carolina, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/notey",
+      "facebook": "https://facebook.com/noteysworld/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Mili Llama",
+    "website": "https://milillama.com/",
+    "description": "Mili Llama is the Uber for substitute teachers.",
+    "location": "Thornton, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LlamaMili",
+      "linkedin": "https://linkedin.com/company/mili-llama"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Market Games",
+    "website": "https://marketgames.io/",
+    "description": "MG | the new standard for business education",
+    "location": "San Carlos, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/themarketgames",
+      "linkedin": "https://linkedin.com/company/themarketgames",
+      "facebook": "https://facebook.com/themarketgames"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Mapt",
+    "website": "https://mapt.co/",
+    "description": "For families that don't know how to plan for college and can't afford a consultant, Mapt offers a mobile suite to navigate the college admissions process, build a college list, get feedback from advisors, and follow a clear roadmap with key milestones.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/maptapp",
+      "linkedin": "https://linkedin.com/company/maptapp",
+      "facebook": "https://facebook.com/maptcollegeadvising"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Making Space",
+    "website": "https://making-space.com/",
+    "description": "Talent acquisition and learning experience platform for companies to access pre-qualified underrepresented talent pools.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/makingspacework"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Incskill",
+    "website": "https://incskill.com/",
+    "description": "For people with disabilities and nontraditional learners that struggle due to inaccessible platforms and standard learning styles, we provide an AI-powered platform that helps them with career discovery inspired by real experiences, and accessible and ada",
+    "location": "Bellevue, Washington, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/istemindia"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Flexspeak",
+    "website": "https://flexspeak.com/",
+    "description": "Flexspeak makes assistive communication software for non-speaking people with autism, Down syndrome, and cerebral palsy.",
+    "location": "Westminster, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/flexspeak"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Fathom",
+    "website": "https://fathompbc.org/",
+    "description": "For workforce directors with applicant tracking and job placement challenges, we provide a career management platform that streamlines employment, training, and support services for workforce agencies and organizations.",
+    "location": "Antioch, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fathom_pbc",
+      "linkedin": "https://linkedin.com/company/fathompbc"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Edifii",
+    "website": "https://edifii.me/",
+    "description": "AI and Neuroscience-powered chatbot to provide students world-class, individualized guidance counseling.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Edifii314",
+      "linkedin": "https://linkedin.com/company/edifii"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Dev",
+    "website": "https://devf.la/",
+    "description": "Cohort-based educational program that trains Hispanic Americans in digital skills such as coding, data science, AI, and UX, and helps them secure a high-quality job.",
+    "location": "Mexico City, Federal District, Mexico",
+    "social_media": {
+      "twitter": "https://twitter.com/devflatam",
+      "linkedin": "https://linkedin.com/school/devf",
+      "facebook": "https://facebook.com/devfla/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "DeltaGenAI",
+    "website": "https://deltagen.ai/",
+    "description": "DeltaGen transforms AI from a complex tool for the elite into an accessible, powerful asset for employees at all levels. Our enterprise AI platform eliminates the need for prompting and coding, delivering tailored results seamlessly. Key features include LinkedIn integration, role-specific workflows, and multi-model capabilities, all secured with top-tier data privacy. Join us in redefining AI usability and driving widespread adoption.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ailamoapp",
+      "linkedin": "https://linkedin.com/company/deltagenai",
+      "facebook": "https://facebook.com/ailamoapp"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Clymb",
+    "website": "https://clymbup.io/",
+    "description": "Infinite Focus Schools is a socio-emotional learning-focused app.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vx4jqiry7pc4mh7s8us9",
+    "location": "Baltimore, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ClymbUp",
+      "linkedin": "https://linkedin.com/company/clymb",
+      "facebook": "https://facebook.com/infinitefocuschools/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "CareerGenie",
+    "website": "https://careergenie.app/",
+    "description": "CareerGenie creates job market data-driven personalized & gamified mobile career journeys to help talent navigate through career discovery to upskilling & interview readiness to job applications.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/career-genie-app"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Beepboop",
+    "website": "https://beepboop.us/",
+    "description": "Audio-only virtual school for language learning",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/beepboopus",
+      "linkedin": "https://linkedin.com/company/beepboop",
+      "facebook": "https://facebook.com/groups/beepboopgroup"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "AKALA",
+    "website": "https://goakala.com/",
+    "description": "AKALA levels the playing field for American teens in access to high-quality college admissions guidance.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/uehzijgcqt20bwu0oosr",
+    "location": "Beverly Hills, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GoAKALA",
+      "linkedin": "https://linkedin.com/company/goakala",
+      "facebook": "https://facebook.com/AKALA-College-Admissions-Consulting-145474796111287/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "8LAB",
+    "website": "https://8lab.ai/",
+    "description": "8LAB is the members-only hub where creatives and tech pros connect and innovate with guidance from industry leaders + AI, Agent 8.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/join8lab"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Optimo",
+    "website": "https://optimo.so/",
+    "description": "A B2B SaaS EdTech Startup that helps manufacturing companies to upskill blue-collar workers for Industry 4.0.",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tryoptimo"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Medsembly",
+    "website": "https://medsembly.com/",
+    "description": "Medsembly bridges the gap between healthcare hopefuls and healthcare heroes",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ioqjkuqv7ffynslbkalv",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/medsembly",
+      "linkedin": "https://linkedin.com/company/medsembly",
+      "facebook": "https://facebook.com/medsembly"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "EverLearn",
+    "website": "https://everlearncampus-student.com/",
+    "description": "Project-Based, High-Quality Small Classes (Always Live) AND a Vibrant 50+ Lifelong Learner Community",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {},
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Elly",
+    "website": "https://ellyhealth.com/",
+    "description": "Elly is the world's first empathetic audio companion for patients living with a chronic disease.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pwk3ibkmqthld6dwaa3y",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ellyhealthinc",
+      "facebook": "https://facebook.com/EllyHealth"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Out of the Box Education",
+    "website": "https://ootb.education/",
+    "description": "A complete learning solution for early learners, comprising software (learning platform with machine learning) and hardware (mobile classroom-in-a-box).",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/outofthebox_edu",
+      "linkedin": "https://linkedin.com/company/ootb-edu",
+      "facebook": "https://facebook.com/ootbedu%20,%20https://www.instagram.com/outofthebox_edu/%20,%20https://twitter.com/outofthebox_edu",
+      "instagram": "https://facebook.com/ootbedu%20,%20https://www.instagram.com/outofthebox_edu/%20,%20https://twitter.com/outofthebox_edu"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Clever Girl Finance",
+    "website": "https://clevergirlfinance.com/",
+    "description": "Online financial education platform for women providing education through bite-size easy to digest online courses and access to an incredible community.",
+    "location": "Annandale, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/clevergirlcgf",
+      "linkedin": "https://linkedin.com/company/clever-girl-finance",
+      "facebook": "https://facebook.com/clevergirlfinance/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Henna",
+    "website": "https://askhenna.com/",
+    "description": "AI agents for commercializing scientific IP.",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/askhenna"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Topset Learning",
+    "website": "https://topset.app/",
+    "description": "Serves students aged 5 - 18 with personalized online tutoring.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lingawa",
+      "facebook": "https://facebook.com/topsettutoring.africa"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Skilbi",
+    "website": "https://skilbi.com/",
+    "description": "A community that connects Business and STEM students to companies for career advice and skill-building opportunities",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cnd94hbj40xzxyusytnn",
+    "location": "Oak Park, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Its_Skilbi",
+      "linkedin": "https://linkedin.com/company/helloskilbi"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Ride iQ",
+    "website": "https://ride-iq.com/",
+    "description": "Transform your independent schooling today with on-demand audio lessons taught by one of Ride iQ's world-class equestrian coaches with the mobile application.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ul0xnttd7zjtev3lzmm4",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ride-iq",
+      "facebook": "https://facebook.com/RideIQOfficial/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Reality Trail",
+    "website": "https://realityjourneys.com/",
+    "description": "Step into the future with Reality Trail! Our platform empowers businesses to create captivating augmented reality experiences that shape consumer behavior in alignment with their goals",
+    "location": "Tulsa, Oklahoma, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/reality-trail"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Pay4Me App",
+    "website": "https://pay4me.app/",
+    "description": "Pay4Me App provides seamless cross-border payments for International students and migrants.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kxtxss1wur2j0o8zv7mk",
+    "location": "Middletown, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pay4meapp",
+      "linkedin": "https://linkedin.com/company/pay4meapp",
+      "facebook": "https://facebook.com/Pay4meap"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Besample",
+    "website": "https://besample.app/",
+    "description": "Besample is a data marketplace that empowers research beyond the West. \n\nWith a focus on the growing Global South, Besample provides human-focused researchers across healthcare, industry, and academia with access to primary data from a diverse and representative pool of people in 42 countries of Africa, Asia, Latin America, and CIS.",
+    "location": "Tallahassee, Florida, United States",
+    "social_media": {},
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Be Human(e)",
+    "website": "https://behumane.co/",
+    "description": "Be Human(e) helps in development and assessment of students' soft skills by developing a game-based learning platform.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/filipc_sara",
+      "linkedin": "https://linkedin.com/in/filipcicsara"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "XCredit",
+    "website": "https://myxcredit.com/",
+    "description": "We want to build a credit building system that incentives individuals to build credit by doing their day to day activities. We take into account rent, utilities, dinner, concert tickets, etc. to help secure financial stability for people.",
+    "location": "Pleasanton, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/myxcredit",
+      "linkedin": "https://linkedin.com/company/xcredit",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Pique",
+    "website": "https://pique.so/",
+    "description": "Pique is an AI-powered note-taking platform that transforms lectures and meetings into personalized learning experiences, with a focus on supporting neurodivergent learners.",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/piquetechnologies"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Work Simplr",
+    "website": "https://worksimplr.com/",
+    "description": "Software platform to place and manage vetted, qualified students to paid short-term, remote entry level work.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/upskls",
+      "linkedin": "https://linkedin.com/company/worksimplr",
+      "facebook": "https://facebook.com/Worksimplr/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "StudioUS",
+    "website": "https://studious.net/",
+    "description": "Studious is creating an AI-powered learning platform that delivers personalized, bite-sized modules tailored to credentialing exams.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/studiousnet",
+      "linkedin": "https://linkedin.com/company/studious-technologies",
+      "facebook": "https://facebook.com/StudiousSocial"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Hardly",
+    "website": "https://hardly-work.com/",
+    "description": "Hardly is a robust ecosystem of collaborative career tools that consolidates career support services, enabling them to serve more job seekers and increase economic mobility.",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hardlytech",
+      "linkedin": "https://linkedin.com/company/hardly",
+      "facebook": "https://facebook.com/HardlyWorkTech"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Earn & Learn",
+    "website": "https://earnlearn.us/",
+    "description": "Earn & Learn built a robust work-based learning tracking and coordination platform designed to provide real-time visibility into work-based learning opportunities.",
+    "location": "Walnut Creek, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/earn-learn"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Arbol",
+    "website": "https://growarbol.com/",
+    "description": "Arbol helps low income students stay in school and graduate through financial and community support.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/izhfoi4apvqshskdaiiv",
+    "location": "Buffalo, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/grow_arbol",
+      "linkedin": "https://linkedin.com/company/growarbol",
+      "facebook": "https://facebook.com/GrowArbol"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Peadbo",
+    "website": "https://peadbo.com/",
+    "description": "Peadbo is an advisory board management tool, but for individuals rather than businesses.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getpeadbo",
+      "linkedin": "https://linkedin.com/company/peadbo",
+      "facebook": "https://facebook.com/getpeadbo"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "LearnHaus",
+    "website": "https://learn.haus/",
+    "description": "LearnHaus is an AI-based learning journey platform helping parents to easily get their kids the right learning-focused tools and activities.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bentoinvesting",
+      "linkedin": "https://linkedin.com/company/learnhaus",
+      "facebook": "https://facebook.com/bentoinvesting"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Healthy Hip Hop",
+    "website": "https://healthy.hiphop/",
+    "description": "Healthy Hip Hop is an online platform powered by the arts and social interaction. The \"Sesame Street of the 21st Century\".",
+    "location": "Kansas City, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/healthy_hip_hop",
+      "linkedin": "https://linkedin.com/company/healthy-hip-hop",
+      "facebook": "https://facebook.com/healthyhiphop"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Gift Nabü",
+    "website": "https://giftnabu.com/",
+    "description": "A gift registry for kids where friends and family come together to gift activities and experiences instead of toys and stuff.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nabulife",
+      "linkedin": "https://linkedin.com/company/giftnabu",
+      "facebook": "https://facebook.com/gift.nabu1"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Enrichly",
+    "website": "https://enrichly.world/",
+    "description": "Enrichly offers youth development courses virtually and in-person to elementary, middle, and high school students that aim to increase self-esteem and confidence.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/enrich_ly",
+      "linkedin": "https://linkedin.com/company/enrich-ly",
+      "facebook": "https://facebook.com/YouthEnrichments"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "BestFit",
+    "website": "https://best-fit.app/",
+    "description": "BestFit is a web platform reimagining the social safety net for college students.",
+    "location": "New York City, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bestfit_app",
+      "linkedin": "https://linkedin.com/company/bestfit-app",
+      "facebook": "https://facebook.com/findyourbestfitcollege"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Upfront Online",
+    "website": "https://allupfront.com/",
+    "description": "Upfront is a FinTech startup that provides financial advisory services for refinancing car loans.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/UpfrontOnline",
+      "linkedin": "https://linkedin.com/company/upfrontonline",
+      "facebook": "https://facebook.com/upfrontonline"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "TinnCann",
+    "website": "https://tinncann.com/",
+    "description": "A marketplace where aspirational athletes and enthusiasts experience world-class mentorship from the Experts they admire most, through paid 1-on-1 video calls.",
+    "location": "Cincinnati, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TinnCannCo",
+      "linkedin": "https://linkedin.com/company/tinncann",
+      "facebook": "https://facebook.com/tinncannco/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "TARA",
+    "website": "https://tarateachers.com/",
+    "description": "The SaaS assistant for K-12 teachers - because when teachers come first, students win.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cevgt0esdofucyoqkoat",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TaraEdTech1",
+      "linkedin": "https://linkedin.com/company/tara-education-technologies",
+      "facebook": "https://facebook.com/taraedtech1"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "PopPD",
+    "website": "https://poppd.co/",
+    "description": "A peer learning platform for educators, by educators.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/poppdco",
+      "linkedin": "https://linkedin.com/company/pop-pd",
+      "facebook": "https://facebook.com/Poppdco-104920042112759"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "KeepWOL",
+    "website": "https://keepwol.com/",
+    "description": "Improving employee engagement and retention using games.",
+    "location": "Phoenix, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/playkeepwol",
+      "linkedin": "https://linkedin.com/company/keepwol",
+      "facebook": "https://facebook.com/PlayKeepWOL"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Her Skill Academy",
+    "website": "https://herskillacademy.com/",
+    "description": "Her Skill Academy helps early career women with the tools, strategies, and community to unlock their full potential.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/her-skill-academy"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Equipt",
+    "website": "https://joinequipt.com/",
+    "description": "We help fast-growing tech companies attract, recruit, and retain diverse talent by using online community-based learning experiences.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/joinequipt",
+      "facebook": "https://facebook.com/joinequipt/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "BeAKid",
+    "website": "https://beakid.com/",
+    "description": "Marketplace for Parents and Enrichment Program Providers",
+    "location": "Boca Raton, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/beakid",
+      "facebook": "https://facebook.com/BeakidPage/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Waggle",
+    "website": "https://waggle.work/",
+    "description": "An AI copilot that assists managers in all aspects of their business",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/wearewaggle"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "SocialPreneur Lab",
+    "website": "https://socialpreneurlab.org/",
+    "description": "Edtech Company providing an applied learning entrepreneurship opportunities for youth.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nfviamza9am4f1znq3pe",
+    "location": "Tulsa, Oklahoma, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/socialpreneurlb",
+      "linkedin": "https://linkedin.com/company/socialpreneur-lab",
+      "facebook": "https://facebook.com/socialpreneurLB/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Shur",
+    "website": "https://getshur.com/",
+    "description": "Shur is a B2B2C connecting the financial services industry to millions of Professionals with Student Loans. Our company-based financial wellness programs integrate alternative credit scoring, advice, insurance, and banking. Borrowers move from debt to wealth creation, while we build new revenue for banks and other financial institutions.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/shurco"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Kiri",
+    "website": "https://kiritoys.com/",
+    "description": "For parents with young children whom they want to learn a second language, our smart toy provides a multisensory learning experience that teaches kids English, Mandarin and Spanish through play. We teach 46 subjects in all 3 languages.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kiritoys",
+      "facebook": "https://facebook.com/kiritoys.co/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Leka",
+    "website": "https://leka.io/",
+    "description": "Leka makes a multi-sensory robotic ball with lights, sounds, and vibrations to engage children with special needs while tracking their progress.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/weareleka",
+      "linkedin": "https://linkedin.com/company/weareleka",
+      "facebook": "https://facebook.com/WeAreLeka/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Memby",
+    "website": "https://joinmemby.com/",
+    "description": "Memby is a suite of research-driven software products designed for museums so that people retain more information and ultimately achieve their full potential in school and in life.",
+    "location": "Rockford, Illinois, United States",
+    "social_media": {},
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "MedDefend",
+    "website": "https://mymeddefend.com/",
+    "description": "A new way to navigate healthcare",
+    "location": "West Des Moines, Iowa, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/90448850"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "immersionED",
+    "website": "https://immersioned.org/",
+    "description": "For humanities teachers looking to keep their students engaged, immersionED creates immersive learning video games tailored to the AP curriculum.",
+    "location": "Greenwich, Connecticut, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/immersioned"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Column",
+    "website": "https://joincolumn.com/",
+    "description": "A new social network that puts users in control of their content",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rxnrqjudvhrnnb8jboba",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/column-inc"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "BeautyVoyage",
+    "website": "https://beautyvoyage.co/",
+    "description": "BeautyVoyage is the first marketplace for Beauty Professional peer mentorship.",
+    "location": "Anchorage, Alaska, United States",
+    "social_media": {},
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Aya Holding",
+    "website": "https://beta.ayagigs.com/",
+    "description": "Aya is a curated marketplace for start-ups and mid-level businesses to access vetted web3 digital skilled African talents.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/x9lbs8istzrmewn3o0ld",
+    "location": "Parkville, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ayagigs",
+      "linkedin": "https://linkedin.com/company/ayagigs",
+      "facebook": "https://facebook.com/myayagigs"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Nurovant AI",
+    "website": "https://nurovant.com/",
+    "description": "SaaS, Mobile App, Web Platform",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pokfgnoqb32csxmfaygl",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nurovantai"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Hack Latino",
+    "website": "https://hacklatino.com/",
+    "description": "First Latino American Dream Guide App",
+    "location": "Cumming, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hack-latino"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Embark",
+    "website": "https://embark.live/",
+    "description": "Embark is startup TV. Our B2B marketplace uses content to connect startups to knowledge workers.",
+    "location": "Royal Oak, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/embark_live",
+      "linkedin": "https://linkedin.com/company/embark-live",
+      "facebook": "https://facebook.com/embark.live/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Galilei Learning",
+    "website": "https://galileilearning.com/",
+    "description": "Boost your deskless employee training with gamified learning and real-life application.",
+    "location": "Medellín, Antioquia, Colombia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/galilei-learning"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "StageKeep",
+    "website": "https://stagekeep.com/",
+    "description": "Collaborative tool for creators to easily manage, design and review the pre-production logistics, rehearsals and videos for performance productions saving stakeholders time and money.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/thfcs3xoffowg4lzbumt",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/stagekeep",
+      "linkedin": "https://linkedin.com/company/stagekeep",
+      "facebook": "https://facebook.com/stagekeep"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Klas",
+    "website": "https://tryklas.com/",
+    "description": "Klas is building the next-gen online teaching platform. We make it easy for creators to schedule, monetize, and host live classes.\n\nOur mission is to unlock the power of knowledge sharing.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rhtbirhghbtylmazvoza",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/tryklas",
+      "linkedin": "https://linkedin.com/company/tryklas"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "gaga",
+    "website": "https://gaga-app.com/",
+    "description": "A marketplace to find live and interactive online activities for kids.",
+    "location": "Dhahran, Saudi Arabia",
+    "social_media": {
+      "twitter": "https://twitter.com/GagaApp_",
+      "linkedin": "https://linkedin.com/company/gagaapp",
+      "facebook": "https://facebook.com/gagaapp2/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "EZCheck",
+    "website": "https://ezcheck.me/",
+    "description": "The easiest check-in platform ever, 50K users strong.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/ezcheckme",
+      "linkedin": "https://linkedin.com/company/ezcheck-me",
+      "facebook": "https://facebook.com/EZCheck.Me/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "AlGooru",
+    "website": "https://algooru.com/",
+    "description": "A tutoring network platform that connects students with tutors on an app.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/al_gooru",
+      "linkedin": "https://linkedin.com/company/algooru",
+      "facebook": "https://facebook.com/algooru/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Adaptively Education",
+    "website": "https://adaptivelyeducation.com/",
+    "description": "Adaptively Education seamlessly delivers live virtual teacher-led classroom experiences to help students reach their academic goals.",
+    "location": "Bellevue, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/adaptivelyeducation",
+      "linkedin": "https://linkedin.com/company/adaptively-education",
+      "facebook": "https://facebook.com/adaptivelyeducation"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Designlab",
+    "website": "https://designlab.com/",
+    "description": "We unlock creative potential and empower people to do the work they love.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/trydesignlab",
+      "linkedin": "https://linkedin.com/company/designlab-learning",
+      "facebook": "https://facebook.com/trydesignlab"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Druid Learning",
+    "website": "https://druidlearning.com/",
+    "description": "Bridging the gap between a publishers content and the use of that content in AI.",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/ltdDruid",
+      "linkedin": "https://linkedin.com/company/druid-learning-limited"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Playpower Labs",
+    "website": "https://playpowerlabs.com/",
+    "description": "Making math interactive and engaging",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/playpower",
+      "linkedin": "https://linkedin.com/company/playpower-labs",
+      "facebook": "https://facebook.com/Playpower"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Plurawl",
+    "website": "https://plurawl.com/",
+    "description": "Plurawl helps people stop jumping to conclusions.",
+    "location": "The Bronx, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/plurawl"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Altior Academy",
+    "website": "https://altior.academy/",
+    "description": "AI-powered adaptive learning that customizes courses for each student.",
+    "location": "West Hollywood, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/altior-academy"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Uvize",
+    "website": "https://uvize.com/",
+    "description": "Mentorship. Unleashed.",
+    "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/30626-19ab550ca321ebb8fd2e70dd9c2971fa-medium_jpg.jpg?buster=1324414268",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Uvize",
+      "linkedin": "https://linkedin.com/company/uvize-inc",
+      "facebook": "https://facebook.com/pages/Uvize/153019591451334"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Lore",
+    "website": "https://lore.com/",
+    "description": "Social online course management",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Learn",
+      "linkedin": "https://linkedin.com/company/lore-online",
+      "facebook": "https://facebook.com/lorenetwork"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Educhain",
+    "website": "https://educhain.io/",
+    "description": "Educhain enables secure issuance, sharing, and verification of blockchain-enabled records.",
+    "location": "Port Moody, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/educhainio",
+      "linkedin": "https://linkedin.com/company/educhain",
+      "facebook": "https://facebook.com/wordpress"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "TrueAbility",
+    "website": "https://trueability.com/",
+    "description": "Performance-based IT Skills Assessment, Training and Certification Made Easy",
+    "location": "San Antonio, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/trueability",
+      "linkedin": "https://linkedin.com/company/trueability",
+      "facebook": "https://facebook.com/TrueAbilityScreen"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Upful",
+    "website": "https://linkedin.com/in/shirini",
+    "description": "Coaching tool to write meaningful & inclusive people evaluations / feedback.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kociwko2szkfzyel9kmt",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/shirini"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "TutorialTab",
+    "website": "https://linkedin.com/company/tutorialtab",
+    "description": "Learnable websites, no coding",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tutorialtab",
+      "linkedin": "https://linkedin.com/company/tutorialtab"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "TruantToday",
+    "website": "https://linkedin.com/company/truanttoday-inc.",
+    "description": "Simple, easy-to-use education software",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/truanttoday",
+      "linkedin": "https://linkedin.com/company/truanttoday-inc."
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Treasure",
+    "website": "https://linkedin.com/company/treasurehq",
+    "description": "Treasure is a digital bank for kids, powering financial literacy.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/treasure_fi",
+      "linkedin": "https://linkedin.com/company/treasurehq",
+      "facebook": "https://facebook.com/TreasureHQ"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Subhe",
+    "website": "https://linkedin.com/company/subhelearning",
+    "description": "On-demand skill development in Indian Languages",
+    "location": "New Delhi, India",
+    "social_media": {
+      "twitter": "https://twitter.com/subhelearning",
+      "linkedin": "https://linkedin.com/company/subhelearning",
+      "facebook": "https://facebook.com/pg/subhelearning"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "ShiftUp",
+    "website": "https://linkedin.com/company/learninggyms",
+    "description": "ShiftUp helps the US government run more effective job training for the unemployed.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LearningGyms",
+      "linkedin": "https://linkedin.com/company/learninggyms",
+      "facebook": "https://facebook.com/LearningGyms/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Red Rover",
+    "website": "https://linkedin.com/company/red-rover_3",
+    "description": "Peer-to-peer learning platform",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/redroverhq",
+      "linkedin": "https://linkedin.com/company/red-rover_3"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "ReAble",
+    "website": "https://linkedin.com/company/reable-inc.",
+    "description": "ReAble designs tools and apps to enable people with special needs to participate in the financial sector.",
+    "location": "Lebanon, New Hampshire, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/WeAreReable",
+      "linkedin": "https://linkedin.com/company/reable-inc.",
+      "facebook": "https://facebook.com/WeAreReAble/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Osper",
+    "website": "https://linkedin.com/company/osper",
+    "description": "Teaching young people to manage money responsibly",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/osper",
+      "linkedin": "https://linkedin.com/company/osper",
+      "facebook": "https://facebook.com/meetosper"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "MoneyVerbs",
+    "website": "https://linkedin.com/company/moneyverbs",
+    "description": "Experience Money Differently",
+    "location": "Minneapolis, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/moneyverbs",
+      "linkedin": "https://linkedin.com/company/moneyverbs",
+      "facebook": "https://facebook.com/MoneyVerbs/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Lancify",
+    "website": "https://linkedin.com/company/lancify",
+    "description": "Uses 60 day training modules to build a young workforce of experts on trending SAAS tools.",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "twitter": "https://twitter.com/lancifyofficial",
+      "linkedin": "https://linkedin.com/company/lancify",
+      "facebook": "https://facebook.com/lancify/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Highre",
+    "website": "https://linkedin.com/company/highre",
+    "description": "A hassle-free virtual career fair platform, helping universities move campus job fairs online. #CollegeRecruiting #Education #Universities #VirtualEvents #SaaS",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/highre_co",
+      "linkedin": "https://linkedin.com/company/highre",
+      "facebook": "https://facebook.com/highre.co/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Gritly",
+    "website": "https://linkedin.com/company/gritlyhq",
+    "description": "Gritly is building the infrastructure for skills-based training & hiring.",
+    "location": "Northglenn, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Gritly_HQ",
+      "linkedin": "https://linkedin.com/company/gritlyhq",
+      "facebook": "https://facebook.com/Internalyze/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Floop",
+    "website": "https://linkedin.com/company/floop-edu",
+    "description": "Founded by teachers, Floop is the feedback literacy company that empowers learners with the lifelong skills of seeking, giving, and using feedback to learn. Our web app helps teachers give feedback 4x faster and teaches students to engage with feedback.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/floopedu",
+      "linkedin": "https://linkedin.com/company/floop-edu"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Dodo Smart",
+    "website": "https://linkedin.com/company/dodo-smart",
+    "description": "Dodo smart is creating a platform with playful learning experience for preschool children in Arabic.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/DodoSmart_",
+      "linkedin": "https://linkedin.com/company/dodo-smart",
+      "facebook": "https://facebook.com/dodosmart1/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "CottageClass",
+    "website": "https://linkedin.com/company/cottageclass",
+    "description": "Community marketplace for PreK12 education, powered by teachers",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cottageclass",
+      "linkedin": "https://linkedin.com/company/cottageclass",
+      "facebook": "https://facebook.com/cottageclass"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Bird Coach",
+    "website": "https://linkedin.com/company/birdcoach",
+    "description": "Solving the gap in the endurance sports market by bringing affordable, personalized  coaching to more athletes.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/birdcoach",
+      "facebook": "https://facebook.com/birdcoach"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Beanstalk",
+    "website": "https://linkedin.com/company/beanstalk-co",
+    "description": "Provides families with live and on-demand interactive kids classes at home.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/beanstalk_co",
+      "linkedin": "https://linkedin.com/company/beanstalk-co",
+      "facebook": "https://facebook.com/beanstalkkids.co"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Beagle Learning",
+    "website": "https://linkedin.com/company/beagle-inc",
+    "description": "Faster strategic decision making supported by AI. Measure team performance, achieve 35% cost savings, and boost team engagement 50%.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/beaglelearning",
+      "linkedin": "https://linkedin.com/company/beagle-inc"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Agovest",
+    "website": "https://linkedin.com/company/a-govest",
+    "description": "For the 125M middle-income women in LATAM struggling with financial stress, A'govest offers a gamified financial platform, backed by behavioral research, that empowers women to build wealth using our marketplace for embedded finance.",
+    "location": "Mexico City, Mexico",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/a-govest",
+      "facebook": "https://facebook.com/agovest"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "SOMOS",
+    "website": "https://linkedin.com/company/getsomos",
+    "description": "Health Monitoring System",
+    "location": "Cuauhtemoc, Federal District, Mexico",
+    "social_media": {
+      "twitter": "https://twitter.com/somos",
+      "linkedin": "https://linkedin.com/company/getsomos",
+      "facebook": "https://facebook.com/getsomos"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Mellow",
+    "website": "https://linkedin.com/company/mellowapp",
+    "description": "Mellow is a mobile platform for parents to teach kids 6-18 how to build money habits and use digital payments across savings, spending, and earnings.",
+    "location": "Hong Kong, Hong Kong",
+    "social_media": {
+      "twitter": "https://twitter.com/mellowsousvide",
+      "linkedin": "https://linkedin.com/company/mellowapp",
+      "facebook": "https://facebook.com/mellowapphk"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Cuentología",
+    "website": "https://linkedin.com/company/cuentolog%C3%ADa",
+    "description": "Cuentologia aims to create more confident and creative children in the world.",
+    "location": "Middletown, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cuentolog%C3%ADa",
+      "facebook": "https://facebook.com/cuentologia"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Turing School",
+    "website": "https://turing.edu/",
+    "description": "Turing School unlocks human potential by training a diverse and inclusive student body to succeed in high fulfillment technical careers.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/turingschool",
+      "linkedin": "https://linkedin.com/school/turingschool",
+      "facebook": "https://facebook.com/turingschool/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "The AI Education Project",
+    "website": "https://aiedu.org/",
+    "description": "aiEDU.org builds equitable learning experiences about artificial intelligence for students everywhere",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/evrnuoa1enic6zd6rmip",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/aieduorg",
+      "linkedin": "https://linkedin.com/company/aiedu",
+      "facebook": "https://facebook.com/pages/Alpha-International/577410935697853"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "Story2",
+    "website": "https://story2.com/",
+    "description": "Story2 expands writing through storytelling. We've taught over 25,000 students to tell their stories and advocate for themselves in college admissions--and all",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Story2",
+      "linkedin": "https://linkedin.com/company/story2",
+      "facebook": "https://facebook.com/Story2LLC"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  },
+  {
+    "name": "AdvanceEDU",
+    "website": "https://myadvanceedu.org/",
+    "description": "An innovative, team-based approach to college and career.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/advanceedu",
+      "facebook": "https://facebook.com/myadvanceedu/"
+    },
+    "industry": "Edtech",
+    "industry_slug": "edtech"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "Invendor",
+  "slug": "invendor",
+  "website": "https://invendor.com/",
+  "description": "Self-checkout sites for industrial distributors to sell spare parts and consumables at manufacturing locations",
+  "one_liner": "Self-checkout sites for industrial distributors to sell spare parts and consumables at manufacturing locations",
+  "location": "Lehmja küla, Estonia",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/invendor",
+    "facebook": "https://facebook.com/Scanbrobusiness"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/invendor",
+  "api": "/api/companies/invendor.json"
+}

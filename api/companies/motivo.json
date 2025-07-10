@@ -1,0 +1,24 @@
+{
+  "name": "Motivo",
+  "slug": "motivo",
+  "website": "https://wearemotivo.com/",
+  "description": "Motivo is an online platform that helps mental health therapists get credentialed in a faster, easier way.",
+  "one_liner": "Motivo is an online platform that helps mental health therapists get credentialed in a faster, easier way.",
+  "location": "Chattanooga, Tennessee, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/wearemotivo",
+    "linkedin": "https://linkedin.com/company/motivohealth",
+    "facebook": "https://facebook.com/wearemotivo/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/motivo",
+  "api": "/api/companies/motivo.json"
+}

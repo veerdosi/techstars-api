@@ -1,0 +1,24 @@
+{
+  "name": "Approveit",
+  "slug": "approveit",
+  "website": "https://approveit.today/",
+  "description": "For Financial Controllers / VPs of Finance who want to streamline vendor onboarding, invoice processing, and ensure compliance, Approveit  provides an AI-powered solution for efficient and compliant workflows.",
+  "one_liner": "For Financial Controllers / VPs of Finance who want to streamline vendor onboarding, invoice processing, and ensure compliance, Approveit  provides an AI-powered solution for efficient and compliant workflows.",
+  "location": "Dover, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/approveit_",
+    "linkedin": "https://linkedin.com/company/approveit-today",
+    "facebook": "https://facebook.com/approveittoday"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/approveit",
+  "api": "/api/companies/approveit.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "NMRKT",
+  "slug": "nmrkt",
+  "website": "https://nmrkt.com/",
+  "description": "Turning readers into shoppers",
+  "one_liner": "Turning readers into shoppers",
+  "location": "New York City, New York, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ShopNMRKT",
+    "linkedin": "https://linkedin.com/company/nmrkt",
+    "facebook": "https://facebook.com/nmrkt"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nmrkt",
+  "api": "/api/companies/nmrkt.json"
+}

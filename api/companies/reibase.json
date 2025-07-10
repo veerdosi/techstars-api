@@ -1,0 +1,20 @@
+{
+  "name": "Reibase",
+  "slug": "reibase",
+  "website": "https://reibase.rs/",
+  "description": "A protocol to incentivize open source",
+  "one_liner": "A protocol to incentivize open source",
+  "location": "New York City, New York, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/g1w23gfjk7dnqyz6iuol",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/reibase",
+  "api": "/api/companies/reibase.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "EnviCore",
+  "slug": "envicore",
+  "website": "https://envicoreinc.com/",
+  "description": "EnviCore aspires to revolutionize current tailings mitigation practices and promote a circular economy in the mining sector.",
+  "one_liner": "EnviCore aspires to revolutionize current tailings mitigation practices and promote a circular economy in the mining sector.",
+  "location": "Calgary, Alberta, Canada",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/EnvicoreI",
+    "linkedin": "https://linkedin.com/company/envicore-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/envicore",
+  "api": "/api/companies/envicore.json"
+}

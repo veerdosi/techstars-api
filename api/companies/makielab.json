@@ -1,0 +1,24 @@
+{
+  "name": "MakieLab",
+  "slug": "makielab",
+  "website": "https://makielab.com/",
+  "description": "Custom toys & games",
+  "one_liner": "Custom toys & games",
+  "location": "London, United Kingdom",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1397203254/5bf54961318e5b2d285864be84c805af.gif",
+  "social_media": {
+    "twitter": "https://twitter.com/makielab",
+    "linkedin": "https://linkedin.com/company/2459909",
+    "facebook": "https://facebook.com/OfficialMakies"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/makielab",
+  "api": "/api/companies/makielab.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "VivorCare",
+  "slug": "vivorcare",
+  "website": "https://vivorcare.com/",
+  "description": "VivorCare is the first virtual survivorship clinic providing whole-person care to survivors of critical illness, starting with cancer.",
+  "one_liner": "VivorCare is the first virtual survivorship clinic providing whole-person care to survivors of critical illness, starting with cancer.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mger204zhviu1gqlnskn",
+  "social_media": {
+    "twitter": "https://twitter.com/vivorcare",
+    "linkedin": "https://linkedin.com/company/vivorcare"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vivorcare",
+  "api": "/api/companies/vivorcare.json"
+}

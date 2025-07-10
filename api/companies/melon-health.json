@@ -1,0 +1,24 @@
+{
+  "name": "Melon Health",
+  "slug": "melon-health",
+  "website": "https://melonhealth.com/",
+  "description": "Digital therapeutics for physical, emotional and social health. Melon combines behavior science, data and design to deliver evidence based wellness interventions supported by humans and enabled by technology.",
+  "one_liner": "Digital therapeutics for physical, emotional and social health. Melon combines behavior science, data and design to deliver evidence based wellness interventions supported by humans and enabled by technology.",
+  "location": "San Francisco, California, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/melonhealth",
+    "linkedin": "https://linkedin.com/company/social-code",
+    "facebook": "https://facebook.com/SocialCode.io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/melon-health",
+  "api": "/api/companies/melon-health.json"
+}

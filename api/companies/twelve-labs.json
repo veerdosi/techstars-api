@@ -1,0 +1,24 @@
+{
+  "name": "Twelve Labs",
+  "slug": "twelve-labs",
+  "website": "https://twelvelabs.io/",
+  "description": "CTRL + F for contexts within videos.",
+  "one_liner": "CTRL + F for contexts within videos.",
+  "location": "San Francisco, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/twelve_labs",
+    "linkedin": "https://linkedin.com/company/twelvelabs",
+    "facebook": "https://facebook.com/twelvelabs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/twelve-labs",
+  "api": "/api/companies/twelve-labs.json"
+}

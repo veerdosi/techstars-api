@@ -1,0 +1,24 @@
+{
+  "name": "Octane Technologies",
+  "slug": "octane-technologies",
+  "website": "https://driveoctane.com/",
+  "description": "Made by enthusiasts, for enthusiasts, the Octane mobile application provides a video game like cruising experience, in addition to a map-based database of stunning routes and car-related events.",
+  "one_liner": "Made by enthusiasts, for enthusiasts, the Octane mobile application provides a video game like cruising experience, in addition to a map-based database of stunning routes and car-related events.",
+  "location": "Vernon Hills, Illinois, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/app_octane",
+    "linkedin": "https://linkedin.com/company/octane-technologies",
+    "facebook": "https://facebook.com/app.octane/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/octane-technologies",
+  "api": "/api/companies/octane-technologies.json"
+}

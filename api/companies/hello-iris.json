@@ -1,0 +1,24 @@
+{
+  "name": "Hello Iris",
+  "slug": "hello-iris",
+  "website": "https://linkedin.com/company/good-people-house",
+  "description": "Helping people see themselves and each other more clearly so they can fall in love.",
+  "one_liner": "Helping people see themselves and each other more clearly so they can fall in love.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/goodpeoplehouse",
+    "linkedin": "https://linkedin.com/company/good-people-house",
+    "facebook": "https://facebook.com/pg/goodpeoplehouse/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hello-iris",
+  "api": "/api/companies/hello-iris.json"
+}

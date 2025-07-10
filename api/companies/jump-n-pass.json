@@ -1,0 +1,23 @@
+{
+  "name": "Jump n Pass",
+  "slug": "jump-n-pass",
+  "website": "https://jumpnpass.com/",
+  "description": "Jump n Pass is an online platform that provides easy checkout service making shopping very easy.",
+  "one_liner": "Jump n Pass is an online platform that provides easy checkout service making shopping very easy.",
+  "location": "Culver City, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/iylajj9bumk6rtctg37n",
+  "social_media": {
+    "twitter": "https://twitter.com/jumpnpass_",
+    "linkedin": "https://linkedin.com/company/jump-pass-technologies"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/jump-n-pass",
+  "api": "/api/companies/jump-n-pass.json"
+}

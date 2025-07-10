@@ -1,0 +1,23 @@
+{
+  "name": "Mine'd",
+  "slug": "mine-d",
+  "website": "https://doyoumined.com/",
+  "description": "A platform for consumers to discover and interact with emotional health experts and for those experts to engage and monetize their audience.",
+  "one_liner": "A platform for consumers to discover and interact with emotional health experts and for those experts to engage and monetize their audience.",
+  "location": "New York City, New York, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/mine-d",
+    "facebook": "https://facebook.com/doyoumined/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mine-d",
+  "api": "/api/companies/mine-d.json"
+}

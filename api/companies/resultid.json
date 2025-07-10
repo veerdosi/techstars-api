@@ -1,0 +1,24 @@
+{
+  "name": "Resultid",
+  "slug": "resultid",
+  "website": "https://resultid.com/",
+  "description": "Market intelligence AI engine extracting and connecting signals among vast data streams to enable better decision-making and power innovation.",
+  "one_liner": "Market intelligence AI engine extracting and connecting signals among vast data streams to enable better decision-making and power innovation.",
+  "location": "Durham, North Carolina, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/resultid",
+    "linkedin": "https://linkedin.com/company/resultid",
+    "facebook": "https://facebook.com/nanovest"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/resultid",
+  "api": "/api/companies/resultid.json"
+}

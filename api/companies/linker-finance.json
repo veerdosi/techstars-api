@@ -1,0 +1,23 @@
+{
+  "name": "Linker Finance",
+  "slug": "linker-finance",
+  "website": "https://linkerfinance.com/",
+  "description": "Linker Finance is a cost-effective turnkey solution and low-code platform that enables brands to launch their custom FinTech app in weeks.",
+  "one_liner": "Linker Finance is a cost-effective turnkey solution and low-code platform that enables brands to launch their custom FinTech app in weeks.",
+  "location": "Pasadena, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/LinkerFinance",
+    "linkedin": "https://linkedin.com/company/linkerfinance"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/linker-finance",
+  "api": "/api/companies/linker-finance.json"
+}

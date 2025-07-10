@@ -1,0 +1,24 @@
+{
+  "name": "Ubi Interactive",
+  "slug": "ubi-interactive",
+  "website": "https://ubi-interactive.com/",
+  "description": "Plug and play: ubiEngine - a software that turns any surface into 3D multi-touch screen",
+  "one_liner": "Plug and play: ubiEngine - a software that turns any surface into 3D multi-touch screen",
+  "location": "Seattle, Washington, United States",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ubi_interactive",
+    "linkedin": "https://linkedin.com/company/ubi-interactive",
+    "facebook": "https://facebook.com/pages/ubi-interactive/113596875388581"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ubi-interactive",
+  "api": "/api/companies/ubi-interactive.json"
+}

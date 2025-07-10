@@ -1,0 +1,24 @@
+{
+  "name": "GINGER",
+  "slug": "ginger",
+  "website": "https://ginger.com/",
+  "description": "Coaching, therapy, and psychiatry from the privacy of your smartphone.",
+  "one_liner": "Coaching, therapy, and psychiatry from the privacy of your smartphone.",
+  "location": "San Francisco, California, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/carebyginger",
+    "linkedin": "https://linkedin.com/company/carebyginger",
+    "facebook": "https://facebook.com/pages/Gingerio/216227078391733"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ginger",
+  "api": "/api/companies/ginger.json"
+}

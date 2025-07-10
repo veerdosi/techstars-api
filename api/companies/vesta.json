@@ -1,0 +1,24 @@
+{
+  "name": "Vesta",
+  "slug": "vesta",
+  "website": "https://eventvesta.com/",
+  "description": "Vesta is an Event Management Platform that connects communities through events.",
+  "one_liner": "Vesta is an Event Management Platform that connects communities through events.",
+  "location": "Ralston, Nebraska, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xquhfzddpnuepvv2qooq",
+  "social_media": {
+    "twitter": "https://twitter.com/eventvesta",
+    "linkedin": "https://linkedin.com/company/eventvesta",
+    "facebook": "https://facebook.com/pg/eventvesta/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vesta",
+  "api": "/api/companies/vesta.json"
+}

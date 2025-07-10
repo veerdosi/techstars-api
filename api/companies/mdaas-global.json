@@ -1,0 +1,24 @@
+{
+  "name": "MDaaS Global",
+  "slug": "mdaas-global",
+  "website": "https://mdaas.io/",
+  "description": "MDaaS Global builds and operates tech-enabled diagnostic and primary care centers in clinically underserved communities in Africa.",
+  "one_liner": "MDaaS Global builds and operates tech-enabled diagnostic and primary care centers in clinically underserved communities in Africa.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mdaasglobal",
+    "linkedin": "https://linkedin.com/company/mdaas",
+    "facebook": "https://facebook.com/mdaasglobal/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mdaas-global",
+  "api": "/api/companies/mdaas-global.json"
+}

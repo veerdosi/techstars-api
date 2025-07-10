@@ -1,0 +1,22 @@
+{
+  "name": "Blomso",
+  "slug": "blomso",
+  "website": "https://blomso-ag.com/",
+  "description": "For farmers that want to reduce operating cost and digitize operations, we provide a novel live rate soil sensing tech and SaaS based solution to reduce fertilizer waste, validate carbon capture, and bring digitization into the agricultural sector.",
+  "one_liner": "For farmers that want to reduce operating cost and digitize operations, we provide a novel live rate soil sensing tech and SaaS based solution to reduce fertilizer waste, validate carbon capture, and bring digitization into the agricultural sector.",
+  "location": "Baltimore, Ohio, United States",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/100920784"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/blomso",
+  "api": "/api/companies/blomso.json"
+}

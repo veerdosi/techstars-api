@@ -1,0 +1,23 @@
+{
+  "name": "Borde",
+  "slug": "borde",
+  "website": "https://borde.io/",
+  "description": "Brings operational efficiencies to industrial plants, saving time, money, and increasing accuracy.",
+  "one_liner": "Brings operational efficiencies to industrial plants, saving time, money, and increasing accuracy.",
+  "location": "San Ramon, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AutonomousEdge",
+    "linkedin": "https://linkedin.com/company/bordeio"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/borde",
+  "api": "/api/companies/borde.json"
+}

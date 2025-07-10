@@ -1,0 +1,22 @@
+{
+  "name": "Grandstand",
+  "slug": "grandstand",
+  "website": "https://grandstand.io/",
+  "description": "Grandstand is an AI-powered studio that helps athletes engage and monetize their fans by automatically tracking games and results, gathering relevant media, and generating prompts and highlights that make social media easy.",
+  "one_liner": "Grandstand is an AI-powered studio that helps athletes engage and monetize their fans by automatically tracking games and results, gathering relevant media, and generating prompts and highlights that make social media easy.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/grandstandinc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/grandstand",
+  "api": "/api/companies/grandstand.json"
+}

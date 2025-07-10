@@ -1,0 +1,23 @@
+{
+  "name": "INVIOU",
+  "slug": "inviou",
+  "website": "https://inviou.com/",
+  "description": "INVIOU is a platform for registry networks, eliminating information asymmetry, boosting collaboration, preventing  fraud and reducing friction.",
+  "one_liner": "INVIOU is a platform for registry networks, eliminating information asymmetry, boosting collaboration, preventing  fraud and reducing friction.",
+  "location": "Caesarea, Israel",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/INVioUplatform",
+    "linkedin": "https://linkedin.com/company/inviou"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/inviou",
+  "api": "/api/companies/inviou.json"
+}

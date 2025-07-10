@@ -1,0 +1,24 @@
+{
+  "name": "Chaos Reactor",
+  "slug": "chaos-reactor",
+  "website": "https://linkedin.com/company/voxable",
+  "description": "The design platform for teams that want to build better voice and chat apps.",
+  "one_liner": "The design platform for teams that want to build better voice and chat apps.",
+  "location": "Austin, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/voxable",
+    "linkedin": "https://linkedin.com/company/voxable",
+    "facebook": "https://facebook.com/Voxable"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/chaos-reactor",
+  "api": "/api/companies/chaos-reactor.json"
+}

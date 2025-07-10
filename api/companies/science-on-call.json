@@ -1,0 +1,24 @@
+{
+  "name": "Science On Call",
+  "slug": "science-on-call",
+  "website": "https://scienceoncall.com/",
+  "description": "24/7 subscription-based tech support for restaurants. Help with point of sale, internet, Wi-Fi, online ordering, and more--just one call or text away!",
+  "one_liner": "24/7 subscription-based tech support for restaurants. Help with point of sale, internet, Wi-Fi, online ordering, and more--just one call or text away!",
+  "location": "Oak Park, Illinois, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/scienceoncall",
+    "linkedin": "https://linkedin.com/company/scienceoncall",
+    "facebook": "https://facebook.com/scienceoncall"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/science-on-call",
+  "api": "/api/companies/science-on-call.json"
+}

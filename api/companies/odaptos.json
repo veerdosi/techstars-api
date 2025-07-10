@@ -1,0 +1,24 @@
+{
+  "name": "Odaptos",
+  "slug": "odaptos",
+  "website": "https://odaptos.com/",
+  "description": "Odaptos is an artificial intelligence platform that allows users to perform usability testing.",
+  "one_liner": "Odaptos is an artificial intelligence platform that allows users to perform usability testing.",
+  "location": "Perols, Occitanie, France",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ephhcsbgvin7qfhw4xma",
+  "social_media": {
+    "twitter": "https://twitter.com/odaptos",
+    "linkedin": "https://linkedin.com/company/odaptos",
+    "facebook": "https://facebook.com/people/Odaptos/100070848931160"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/odaptos",
+  "api": "/api/companies/odaptos.json"
+}

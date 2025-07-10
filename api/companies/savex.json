@@ -1,0 +1,23 @@
+{
+  "name": "Savex",
+  "slug": "savex",
+  "website": "https://getsavex.com/",
+  "description": "Permissionless infrastructure company for cross-border payments",
+  "one_liner": "Permissionless infrastructure company for cross-border payments",
+  "location": "South Lake Tahoe, California, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ls8xbd4o7dbhvv4nyi0l",
+  "social_media": {
+    "twitter": "https://twitter.com/getsavex",
+    "linkedin": "https://linkedin.com/company/getsavex"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/savex",
+  "api": "/api/companies/savex.json"
+}

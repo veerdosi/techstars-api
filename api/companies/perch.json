@@ -1,0 +1,24 @@
+{
+  "name": "Perch",
+  "slug": "perch",
+  "website": "https://perch.fit/",
+  "description": "Perch uses computer vision and machine learning to enhance the safety and effectiveness of exercise.",
+  "one_liner": "Perch uses computer vision and machine learning to enhance the safety and effectiveness of exercise.",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/perchFit",
+    "linkedin": "https://linkedin.com/company/winncompanies",
+    "facebook": "https://facebook.com/perchinteractive"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/perch",
+  "api": "/api/companies/perch.json"
+}

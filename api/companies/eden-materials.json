@@ -1,0 +1,22 @@
+{
+  "name": "Eden Materials",
+  "slug": "eden-materials",
+  "website": "https://edenmaterials.io/",
+  "description": "Eden Materials transforms agricultural waste and turns it into biodegradable plastic.",
+  "one_liner": "Eden Materials transforms agricultural waste and turns it into biodegradable plastic.",
+  "location": "Tel Aviv, Tel Aviv, Israel",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/eden-materials"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/eden-materials",
+  "api": "/api/companies/eden-materials.json"
+}

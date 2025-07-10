@@ -1,0 +1,24 @@
+{
+  "name": "Conquer",
+  "slug": "conquer",
+  "website": "https://conquerapp.io/",
+  "description": "Conquer is a marketplace that empowers game organizers to earn money hosting sports events through our app, which handles scheduling, payment processing, leaderboards, and connects with their existing network, venues, and players.",
+  "one_liner": "Conquer is a marketplace that empowers game organizers to earn money hosting sports events through our app, which handles scheduling, payment processing, leaderboards, and connects with their existing network, venues, and players.",
+  "location": "Norwood, New Jersey, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/realconquerapp",
+    "linkedin": "https://linkedin.com/company/%E9%87%8D%E5%BA%86%E5%BA%B7%E5%88%BB%E5%B0%94%E5%88%B6%E8%8D%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+    "facebook": "https://facebook.com/conquer_app-103214081871751/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/conquer",
+  "api": "/api/companies/conquer.json"
+}

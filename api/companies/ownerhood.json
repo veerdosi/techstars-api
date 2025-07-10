@@ -1,0 +1,24 @@
+{
+  "name": "Ownerhood",
+  "slug": "ownerhood",
+  "website": "https://linkedin.com/company/ownerhood",
+  "description": "Digital marketplace for buying and selling property slices - Democratizing the residential real-estate market.",
+  "one_liner": "Digital marketplace for buying and selling property slices - Democratizing the residential real-estate market.",
+  "location": "Tel Aviv, Israel",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/TheOwnerhood",
+    "linkedin": "https://linkedin.com/company/ownerhood",
+    "facebook": "https://facebook.com/ownerhood"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ownerhood",
+  "api": "/api/companies/ownerhood.json"
+}

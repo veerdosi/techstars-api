@@ -1,0 +1,24 @@
+{
+  "name": "Pass It Down",
+  "slug": "pass-it-down",
+  "website": "https://passitdown.com/",
+  "description": "The digital design platform powering the world's most engaging online & touchscreen exhibits.",
+  "one_liner": "The digital design platform powering the world's most engaging online & touchscreen exhibits.",
+  "location": "Chattanooga, Tennessee, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/passitdown",
+    "linkedin": "https://linkedin.com/company/pass-it-down",
+    "facebook": "https://facebook.com/passitdownapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pass-it-down",
+  "api": "/api/companies/pass-it-down.json"
+}

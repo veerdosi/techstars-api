@@ -1,0 +1,23 @@
+{
+  "name": "Water Monster",
+  "slug": "water-monster",
+  "website": "https://watermonster.io/",
+  "description": "IoT based services platform for water infrastructure",
+  "one_liner": "IoT based services platform for water infrastructure",
+  "location": "000, Delaware, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/y8ygvwkqp9jp4g8basbu",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/water-monster-io",
+    "facebook": "https://facebook.com/watermonster.io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/water-monster",
+  "api": "/api/companies/water-monster.json"
+}

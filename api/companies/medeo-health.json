@@ -1,0 +1,24 @@
+{
+  "name": "Medeo-health",
+  "slug": "medeo-health",
+  "website": "https://medeo-health.com/",
+  "description": "Medeo helps healthcare providers save time and be more efficient with an intuitive and secure medical software.",
+  "one_liner": "Medeo helps healthcare providers save time and be more efficient with an intuitive and secure medical software.",
+  "location": "Lyon, France",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/medeo_health",
+    "linkedin": "https://linkedin.com/company/medeo-health",
+    "facebook": "https://facebook.com/medeohealth"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/medeo-health",
+  "api": "/api/companies/medeo-health.json"
+}

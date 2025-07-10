@@ -1,0 +1,23 @@
+{
+  "name": "Laurels",
+  "slug": "laurels",
+  "website": "https://laurels.app/",
+  "description": "Platform for pro bono programs enabling corporate employees to support local non profits.",
+  "one_liner": "Platform for pro bono programs enabling corporate employees to support local non profits.",
+  "location": "Studio City, California, United States",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/laurels_app",
+    "linkedin": "https://linkedin.com/company/laurels-app"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/laurels",
+  "api": "/api/companies/laurels.json"
+}

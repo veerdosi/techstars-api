@@ -1,0 +1,24 @@
+{
+  "name": "Omnio",
+  "slug": "omnio",
+  "website": "https://omnio.global/",
+  "description": "Omnio is a banking-as-a-Service platform.",
+  "one_liner": "Omnio is a banking-as-a-Service platform.",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/OmnioGlobal",
+    "linkedin": "https://linkedin.com/company/payment-cloud-technologies",
+    "facebook": "https://facebook.com/omnio.net"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/omnio",
+  "api": "/api/companies/omnio.json"
+}

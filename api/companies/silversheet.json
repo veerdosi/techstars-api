@@ -1,0 +1,24 @@
+{
+  "name": "Silversheet",
+  "slug": "silversheet",
+  "website": "https://silversheet.com/",
+  "description": "Silversheet helps healthcare facilities and medical staff connect and work together more efficiently.",
+  "one_liner": "Silversheet helps healthcare facilities and medical staff connect and work together more efficiently.",
+  "location": "Culver City, California, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/silversheet",
+    "linkedin": "https://linkedin.com/company/silversheet",
+    "facebook": "https://facebook.com/silversheetHQ"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/silversheet",
+  "api": "/api/companies/silversheet.json"
+}

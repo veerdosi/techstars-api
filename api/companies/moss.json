@@ -1,0 +1,23 @@
+{
+  "name": "Moss",
+  "slug": "moss",
+  "website": "https://moss.social/",
+  "description": "One place for the news and events you care about from your web3 communities",
+  "one_liner": "One place for the news and events you care about from your web3 communities",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ei5rphmpc3iwlgabv2bp",
+  "social_media": {
+    "twitter": "https://twitter.com/moss_social",
+    "linkedin": "https://linkedin.com/company/moss-social-web3"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/moss",
+  "api": "/api/companies/moss.json"
+}

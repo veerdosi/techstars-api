@@ -1,0 +1,23 @@
+{
+  "name": "Dispatch Goods",
+  "slug": "dispatch-goods",
+  "website": "https://dispatchgoods.com/",
+  "description": "Dispatch Goods is a reverse logistics company accelerating the shift to reusable packaging for restaurants, food businesses & consumers.",
+  "one_liner": "Dispatch Goods is a reverse logistics company accelerating the shift to reusable packaging for restaurants, food businesses & consumers.",
+  "location": "San Francisco, California, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/dispatch-goods",
+    "facebook": "https://facebook.com/dispatchgoods/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dispatch-goods",
+  "api": "/api/companies/dispatch-goods.json"
+}

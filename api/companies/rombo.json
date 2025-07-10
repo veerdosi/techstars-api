@@ -1,0 +1,20 @@
+{
+  "name": "Rombo",
+  "slug": "rombo",
+  "website": "https://rombo.ooo/",
+  "description": "The animation layer for the web.",
+  "one_liner": "The animation layer for the web.",
+  "location": "London, United Kingdom",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rombo",
+  "api": "/api/companies/rombo.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sparrow",
+  "slug": "sparrow",
+  "website": "https://joinsparrow.co/",
+  "description": "The premiere destination for all things crypto for women, by women.",
+  "one_liner": "The premiere destination for all things crypto for women, by women.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sparrow_invest",
+    "linkedin": "https://linkedin.com/company/sparrowfinance"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sparrow",
+  "api": "/api/companies/sparrow.json"
+}

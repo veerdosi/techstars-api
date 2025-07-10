@@ -1,0 +1,24 @@
+{
+  "name": "Flick",
+  "slug": "flick",
+  "website": "https://getflick.app/",
+  "description": "Flick enables fast contactless payments across Africa.",
+  "one_liner": "Flick enables fast contactless payments across Africa.",
+  "location": "Lagos, Nigeria",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getflick_africa",
+    "linkedin": "https://linkedin.com/company/getflick",
+    "facebook": "https://facebook.com/getflick.africa"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/flick",
+  "api": "/api/companies/flick.json"
+}

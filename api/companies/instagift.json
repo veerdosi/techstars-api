@@ -1,0 +1,24 @@
+{
+  "name": "InstaGift",
+  "slug": "instagift",
+  "website": "https://instagift.com/",
+  "description": "The easiest way to sell gift cards online and build complementary rewards programs",
+  "one_liner": "The easiest way to sell gift cards online and build complementary rewards programs",
+  "location": "Birmingham, Alabama, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/InstaGift",
+    "linkedin": "https://linkedin.com/company/instagift",
+    "facebook": "https://facebook.com/dealcoop"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/instagift",
+  "api": "/api/companies/instagift.json"
+}

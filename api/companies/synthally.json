@@ -1,0 +1,24 @@
+{
+  "name": "SynthAlly",
+  "slug": "synthally",
+  "website": "https://synthally.com/",
+  "description": "We're making it easy for 5 people to manage a billion-dollar consumer brand leveraging AI agents.",
+  "one_liner": "We're making it easy for 5 people to manage a billion-dollar consumer brand leveraging AI agents.",
+  "location": "Austin, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getsynth",
+    "linkedin": "https://linkedin.com/company/heysynth",
+    "facebook": "https://facebook.com/getsynth"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/synthally",
+  "api": "/api/companies/synthally.json"
+}

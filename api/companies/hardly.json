@@ -1,0 +1,24 @@
+{
+  "name": "Hardly",
+  "slug": "hardly",
+  "website": "https://hardly-work.com/",
+  "description": "Hardly is a robust ecosystem of collaborative career tools that consolidates career support services, enabling them to serve more job seekers and increase economic mobility.",
+  "one_liner": "Hardly is a robust ecosystem of collaborative career tools that consolidates career support services, enabling them to serve more job seekers and increase economic mobility.",
+  "location": "Pittsburgh, Pennsylvania, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hardlytech",
+    "linkedin": "https://linkedin.com/company/hardly",
+    "facebook": "https://facebook.com/HardlyWorkTech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hardly",
+  "api": "/api/companies/hardly.json"
+}

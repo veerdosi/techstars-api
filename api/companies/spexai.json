@@ -1,0 +1,23 @@
+{
+  "name": "SpexAI",
+  "slug": "spexai",
+  "website": "https://linkedin.com/company/spexai",
+  "description": "Unlocking millions of revenue by simplifying plant production and delivering actionable insights in real-time.",
+  "one_liner": "Unlocking millions of revenue by simplifying plant production and delivering actionable insights in real-time.",
+  "location": "Dresden, Germany",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SpexAI",
+    "linkedin": "https://linkedin.com/company/spexai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/spexai",
+  "api": "/api/companies/spexai.json"
+}

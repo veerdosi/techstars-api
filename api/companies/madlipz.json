@@ -1,0 +1,24 @@
+{
+  "name": "MadLipz",
+  "slug": "madlipz",
+  "website": "https://madlipz.com/",
+  "description": "MadLipz lets you make instant voiceover and subtitle parodies to share with everyone! You could be the creator of the next viral meme!",
+  "one_liner": "MadLipz lets you make instant voiceover and subtitle parodies to share with everyone! You could be the creator of the next viral meme!",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/madlipzapp",
+    "linkedin": "https://linkedin.com/company/madlipz",
+    "facebook": "https://facebook.com/madlipzapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/madlipz",
+  "api": "/api/companies/madlipz.json"
+}

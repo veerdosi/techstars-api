@@ -1,0 +1,24 @@
+{
+  "name": "Beanstalk",
+  "slug": "beanstalk",
+  "website": "https://linkedin.com/company/beanstalk-co",
+  "description": "Provides families with live and on-demand interactive kids classes at home.",
+  "one_liner": "Provides families with live and on-demand interactive kids classes at home.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/beanstalk_co",
+    "linkedin": "https://linkedin.com/company/beanstalk-co",
+    "facebook": "https://facebook.com/beanstalkkids.co"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/beanstalk",
+  "api": "/api/companies/beanstalk.json"
+}

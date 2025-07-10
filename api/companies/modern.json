@@ -1,0 +1,24 @@
+{
+  "name": "Modern",
+  "slug": "modern",
+  "website": "https://modernis.com/",
+  "description": "My Dealer Service provides software solutions to heavy equipment dealers creating elevated customer experiences, increasing customer retention and revenue.",
+  "one_liner": "My Dealer Service provides software solutions to heavy equipment dealers creating elevated customer experiences, increasing customer retention and revenue.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/modernb2b",
+    "linkedin": "https://linkedin.com/company/modernwallet",
+    "facebook": "https://facebook.com/modernb2b"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/modern",
+  "api": "/api/companies/modern.json"
+}

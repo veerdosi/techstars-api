@@ -1,0 +1,22 @@
+{
+  "name": "Athion",
+  "slug": "athion",
+  "website": "https://athion.io/",
+  "description": "Athion revolutionizes industrial automation collaboration with our patent-pending software platform that streamlines engineering design evaluation, minimizes costly late changes, and enhances communication across liquid manufacturing projects and the lifecycle of the facility.",
+  "one_liner": "Athion revolutionizes industrial automation collaboration with our patent-pending software platform that streamlines engineering design evaluation, minimizes costly late changes, and enhances communication across liquid manufacturing projects and the lifecycle of the facility.",
+  "location": "Chesterfield, Missouri, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/athion-io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/athion",
+  "api": "/api/companies/athion.json"
+}

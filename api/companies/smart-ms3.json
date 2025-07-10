@@ -1,0 +1,23 @@
+{
+  "name": "Smart MS3",
+  "slug": "smart-ms3",
+  "website": "https://smartms3.com/",
+  "description": "Smart MS3 is a wearable biofeedback solution that provides objective, real-time metrics to maximize adherence and efficacy of Physical Therapy",
+  "one_liner": "Smart MS3 is a wearable biofeedback solution that provides objective, real-time metrics to maximize adherence and efficacy of Physical Therapy",
+  "location": "Robbinsville, New Jersey, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/smartms3",
+    "facebook": "https://facebook.com/Smart-MS3-102735054864840/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/smart-ms3",
+  "api": "/api/companies/smart-ms3.json"
+}

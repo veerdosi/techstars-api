@@ -1,0 +1,24 @@
+{
+  "name": "Heddoko",
+  "slug": "heddoko",
+  "website": "https://linkedin.com/company/5239645",
+  "description": "Wearable Motion Capture For Workplace Safety",
+  "one_liner": "Wearable Motion Capture For Workplace Safety",
+  "location": "Montréal, Quebec, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Heddoko",
+    "linkedin": "https://linkedin.com/company/5239645",
+    "facebook": "https://facebook.com/heddoko"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/heddoko",
+  "api": "/api/companies/heddoko.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "str8bat",
+  "slug": "str8bat",
+  "website": "https://str8bat.com/",
+  "description": "str8bat sits on your sports equipment & gives you actionable insights to help you PLAY BETTER, connects you to worlds best coaches and your peers.",
+  "one_liner": "str8bat sits on your sports equipment & gives you actionable insights to help you PLAY BETTER, connects you to worlds best coaches and your peers.",
+  "location": "Bengaluru, Karnataka, India",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Str8Bat",
+    "linkedin": "https://linkedin.com/company/str8bat-sport-tech-solutions-pvt.-ltd.",
+    "facebook": "https://facebook.com/str8bat/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/str8bat",
+  "api": "/api/companies/str8bat.json"
+}

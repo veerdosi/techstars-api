@@ -1,0 +1,24 @@
+{
+  "name": "AgadoLive",
+  "slug": "agadolive",
+  "website": "https://agadolive.com/",
+  "description": "Enables wellness businesses to create and deliver effective remote sessions, and eventually, make them available in the metaverse.",
+  "one_liner": "Enables wellness businesses to create and deliver effective remote sessions, and eventually, make them available in the metaverse.",
+  "location": "Ramat Hashron, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/agadolive",
+    "linkedin": "https://linkedin.com/company/agado-live",
+    "facebook": "https://facebook.com/Agado-For-Fitness-107702807775242"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/agadolive",
+  "api": "/api/companies/agadolive.json"
+}

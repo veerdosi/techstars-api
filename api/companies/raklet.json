@@ -1,0 +1,24 @@
+{
+  "name": "Raklet",
+  "slug": "raklet",
+  "website": "https://hello.raklet.com/",
+  "description": "Automate your workflows.",
+  "one_liner": "Automate your workflows.",
+  "location": "Berlin, Germany",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/raklet_en",
+    "linkedin": "https://linkedin.com/company/raklet",
+    "facebook": "https://facebook.com/rakletapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/raklet",
+  "api": "/api/companies/raklet.json"
+}

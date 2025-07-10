@@ -1,0 +1,24 @@
+{
+  "name": "ConverSight",
+  "slug": "conversight",
+  "website": "https://conversight.ai/",
+  "description": "ConverSight's natural language voice platform, ConverSight.ai, delivers actionable business insights in real time.",
+  "one_liner": "ConverSight's natural language voice platform, ConverSight.ai, delivers actionable business insights in real time.",
+  "location": "Indianapolis, Indiana, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ConverSight_ai",
+    "linkedin": "https://linkedin.com/company/conversight",
+    "facebook": "https://facebook.com/ThickStatConverSight"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/conversight",
+  "api": "/api/companies/conversight.json"
+}

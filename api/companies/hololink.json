@@ -1,0 +1,23 @@
+{
+  "name": "Hololink",
+  "slug": "hololink",
+  "website": "https://hololink.io/",
+  "description": "Hololink is the easiest and fastest way to create interactive augmented reality experiences with no code and no apps.",
+  "one_liner": "Hololink is the easiest and fastest way to create interactive augmented reality experiences with no code and no apps.",
+  "location": "Copenhagen, Denmark",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wcu582mk6rxcdhmb7rbj",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/hololink",
+    "facebook": "https://facebook.com/Hololink.io/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hololink",
+  "api": "/api/companies/hololink.json"
+}

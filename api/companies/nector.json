@@ -1,0 +1,23 @@
+{
+  "name": "Nector",
+  "slug": "nector",
+  "website": "https://nectorcapital.com/",
+  "description": "Nector is a platform that helps commercial real estate borrowers secure better loans, by enabling them to create debt packages (loan requests) within minutes instead of days and efficiently reach a wide range of pre-vetted lenders through our internal mar",
+  "one_liner": "Nector is a platform that helps commercial real estate borrowers secure better loans, by enabling them to create debt packages (loan requests) within minutes instead of days and efficiently reach a wide range of pre-vetted lenders through our internal mar",
+  "location": "Cincinnati, Ohio, United States",
+  "industry": "Real estate tech",
+  "industry_slug": "real-estate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/@nectorcap",
+    "linkedin": "https://linkedin.com/company/nectorcap"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nector",
+  "api": "/api/companies/nector.json"
+}

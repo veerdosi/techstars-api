@@ -1,0 +1,24 @@
+{
+  "name": "Notch",
+  "slug": "notch",
+  "website": "https://notchtechnologies.com/",
+  "description": "Changing the wireless world using a platform technology called RF metasurfaces",
+  "one_liner": "Changing the wireless world using a platform technology called RF metasurfaces",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/notchtechnology",
+    "linkedin": "https://linkedin.com/company/notch-technologies",
+    "facebook": "https://facebook.com/notchteam/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/notch",
+  "api": "/api/companies/notch.json"
+}

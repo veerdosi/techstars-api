@@ -1,0 +1,23 @@
+{
+  "name": "ZoneIn",
+  "slug": "zonein",
+  "website": "https://getzonein.com/",
+  "description": "ZoneIn is the first nutrition and hydration app that is personalized to the unique training schedule, goals, and body needs of every athlete.",
+  "one_liner": "ZoneIn is the first nutrition and hydration app that is personalized to the unique training schedule, goals, and body needs of every athlete.",
+  "location": "New York City, New York, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/zonein",
+    "facebook": "https://facebook.com/getZoneIn"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/zonein",
+  "api": "/api/companies/zonein.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Glade",
+  "slug": "glade",
+  "website": "https://linkedin.com/company/gladefinance",
+  "description": "A fintech startup that enables SME's to have a global reach through offering cross border payments and multi-currency accounts",
+  "one_liner": "A fintech startup that enables SME's to have a global reach through offering cross border payments and multi-currency accounts",
+  "location": "Lagos, Nigeria",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/clje1ksraxoghdlhtyxx",
+  "social_media": {
+    "twitter": "https://twitter.com/gladebanking",
+    "linkedin": "https://linkedin.com/company/gladefinance",
+    "facebook": "https://facebook.com/gladebanking"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/glade",
+  "api": "/api/companies/glade.json"
+}

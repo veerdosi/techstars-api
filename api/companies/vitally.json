@@ -1,0 +1,24 @@
+{
+  "name": "Vitally",
+  "slug": "vitally",
+  "website": "https://vitally.io/",
+  "description": "From subscription analytics to customer success, Vitally provides B2B SaaS companies with a platform to convert trials, measure & grow MRR, and reduce churn.",
+  "one_liner": "From subscription analytics to customer success, Vitally provides B2B SaaS companies with a platform to convert trials, measure & grow MRR, and reduce churn.",
+  "location": "New York City, New York, United States",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/vitally_io",
+    "linkedin": "https://linkedin.com/company/vitally.io",
+    "facebook": "https://facebook.com/Vitally.io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vitally",
+  "api": "/api/companies/vitally.json"
+}

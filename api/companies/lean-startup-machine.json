@@ -1,0 +1,24 @@
+{
+  "name": "Lean Startup Machine",
+  "slug": "lean-startup-machine",
+  "website": "https://javelin.com/",
+  "description": "Intensive lean startup workshop",
+  "one_liner": "Intensive lean startup workshop",
+  "location": "San Francisco, California, United States",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/lean",
+    "linkedin": "https://linkedin.com/company/1103516",
+    "facebook": "https://facebook.com/leanstartupmachine"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lean-startup-machine",
+  "api": "/api/companies/lean-startup-machine.json"
+}

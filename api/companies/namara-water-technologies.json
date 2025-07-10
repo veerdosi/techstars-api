@@ -1,0 +1,22 @@
+{
+  "name": "Namara Water Technologies",
+  "slug": "namara-water-technologies",
+  "website": "https://namarawater.ai/",
+  "description": "Namara produces the most advance water management and conservation tools available in the market today.",
+  "one_liner": "Namara produces the most advance water management and conservation tools available in the market today.",
+  "location": "Carlsbad, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/namarawater"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/namara-water-technologies",
+  "api": "/api/companies/namara-water-technologies.json"
+}

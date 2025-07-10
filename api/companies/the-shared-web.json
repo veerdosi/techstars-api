@@ -1,0 +1,23 @@
+{
+  "name": "The Shared Web",
+  "slug": "the-shared-web",
+  "website": "https://useframe.com/",
+  "description": "",
+  "one_liner": "",
+  "location": "New York City, New York, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/thesharedweb",
+    "facebook": "https://facebook.com/TheSharedWeb"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/the-shared-web",
+  "api": "/api/companies/the-shared-web.json"
+}

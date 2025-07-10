@@ -1,0 +1,24 @@
+{
+  "name": "Tech1M",
+  "slug": "tech1m",
+  "website": "https://tech1m.com/",
+  "description": "We solve hiring challenges for managers by matching them with skilled talent and streamlining the hiring process. Our platform offers video applications, global talent management, and secure payment options to reduce turnover and improve accessibility",
+  "one_liner": "We solve hiring challenges for managers by matching them with skilled talent and streamlining the hiring process. Our platform offers video applications, global talent management, and secure payment options to reduce turnover and improve accessibility",
+  "location": "Grays, United Kingdom",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/tech1million",
+    "linkedin": "https://linkedin.com/company/techonemillion",
+    "facebook": "https://facebook.com/tech1million"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tech1m",
+  "api": "/api/companies/tech1m.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Preveta",
+  "slug": "preveta",
+  "website": "https://preveta.com/",
+  "description": "Preveta is transforming cancer care by building the richest database of patient insights that will drive transformation for providers, pharma and payers",
+  "one_liner": "Preveta is transforming cancer care by building the richest database of patient insights that will drive transformation for providers, pharma and payers",
+  "location": "Redondo Beach, California, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hellopreveta",
+    "linkedin": "https://linkedin.com/company/preveta",
+    "facebook": "https://facebook.com/HelloPreveta"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/preveta",
+  "api": "/api/companies/preveta.json"
+}

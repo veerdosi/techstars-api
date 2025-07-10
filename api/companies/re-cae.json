@@ -1,0 +1,23 @@
+{
+  "name": "Re Cae",
+  "slug": "re-cae",
+  "website": "https://re-cae.com/",
+  "description": "Pioneering sovereign space operation system for the future of space exploration",
+  "one_liner": "Pioneering sovereign space operation system for the future of space exploration",
+  "location": "Bassins, Switzerland",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/y7qkbl1kzmiskjmmlq83",
+  "social_media": {
+    "twitter": "https://twitter.com/Re_CAE_",
+    "linkedin": "https://linkedin.com/company/re-cae"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/re-cae",
+  "api": "/api/companies/re-cae.json"
+}

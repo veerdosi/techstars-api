@@ -1,0 +1,24 @@
+{
+  "name": "Remetrik",
+  "slug": "remetrik",
+  "website": "https://remetrik.com/",
+  "description": "Better { Royalty * Analytics * Data } Software for the Music Industry",
+  "one_liner": "Better { Royalty * Analytics * Data } Software for the Music Industry",
+  "location": "St. Louis, Missouri, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/remetrik",
+    "linkedin": "https://linkedin.com/company/remetrik",
+    "facebook": "https://facebook.com/remetrik"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/remetrik",
+  "api": "/api/companies/remetrik.json"
+}

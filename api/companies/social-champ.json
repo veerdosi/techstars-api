@@ -1,0 +1,24 @@
+{
+  "name": "Social Champ",
+  "slug": "social-champ",
+  "website": "https://socialchamp.io/",
+  "description": "The next generation's simplest social media management tool, helping users to publish, analyze content, and engage with their audience - all from one place!",
+  "one_liner": "The next generation's simplest social media management tool, helping users to publish, analyze content, and engage with their audience - all from one place!",
+  "location": "Karachi, Pakistan",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1494409411/u77bf8isdbyaa3kpztwc.png",
+  "social_media": {
+    "twitter": "https://twitter.com/socialchampsays",
+    "linkedin": "https://linkedin.com/company/social-champ",
+    "facebook": "https://facebook.com/socialchampio"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/social-champ",
+  "api": "/api/companies/social-champ.json"
+}

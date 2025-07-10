@@ -1,0 +1,24 @@
+{
+  "name": "Kinumi",
+  "slug": "kinumi",
+  "website": "https://kinumi.com/",
+  "description": "Kinumi serves active older adults by providing personal care concierge services to empower them to live independently, while giving loved ones peace of mind.",
+  "one_liner": "Kinumi serves active older adults by providing personal care concierge services to empower them to live independently, while giving loved ones peace of mind.",
+  "location": "New York City, New York, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/joinkinumi",
+    "linkedin": "https://linkedin.com/company/liv-life-in-view",
+    "facebook": "https://facebook.com/LIVLifeinView-177703247126389"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kinumi",
+  "api": "/api/companies/kinumi.json"
+}

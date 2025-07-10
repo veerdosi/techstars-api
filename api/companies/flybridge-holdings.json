@@ -1,0 +1,24 @@
+{
+  "name": "Flybridge Holdings",
+  "slug": "flybridge-holdings",
+  "website": "https://qwyk.io/",
+  "description": "At Qwyk we're building the future of logistics, driven by data and innovative application that connect customers and logistics providers.",
+  "one_liner": "At Qwyk we're building the future of logistics, driven by data and innovative application that connect customers and logistics providers.",
+  "location": "Dordrecht, Netherlands",
+  "industry": "Supply chain technology",
+  "industry_slug": "supply-chain-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/qwyk_io",
+    "linkedin": "https://linkedin.com/company/qwyk",
+    "facebook": "https://facebook.com/qwyksearch"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/flybridge-holdings",
+  "api": "/api/companies/flybridge-holdings.json"
+}

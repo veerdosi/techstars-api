@@ -1,0 +1,23 @@
+{
+  "name": "DocNexus",
+  "slug": "docnexus",
+  "website": "https://medscrape.com/",
+  "description": "Reinventing the global healthcare ecosystem with search",
+  "one_liner": "Reinventing the global healthcare ecosystem with search",
+  "location": "Seattle, Washington, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/medscrape",
+    "linkedin": "https://linkedin.com/company/medscrape"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/docnexus",
+  "api": "/api/companies/docnexus.json"
+}

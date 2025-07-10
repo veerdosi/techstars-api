@@ -1,0 +1,24 @@
+{
+  "name": "MedPilot",
+  "slug": "medpilot",
+  "website": "https://medpilot.com/",
+  "description": "MedPilot is a patient financial engagement company.",
+  "one_liner": "MedPilot is a patient financial engagement company.",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/MedPilotNYC",
+    "linkedin": "https://linkedin.com/company/medpilot",
+    "facebook": "https://facebook.com/MedPilotInc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/medpilot",
+  "api": "/api/companies/medpilot.json"
+}

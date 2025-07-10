@@ -1,0 +1,24 @@
+{
+  "name": "Comet",
+  "slug": "comet",
+  "website": "https://comet.com/",
+  "description": "Comet is doing for AI what GitHub did for software.",
+  "one_liner": "Comet is doing for AI what GitHub did for software.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Cometml",
+    "linkedin": "https://linkedin.com/company/comet-ml",
+    "facebook": "https://facebook.com/cometdotml/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/comet",
+  "api": "/api/companies/comet.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Nytilus",
+  "slug": "nytilus",
+  "website": "https://linkedin.com/company/11301672",
+  "description": "AR+AI platform for industrial applications.",
+  "one_liner": "AR+AI platform for industrial applications.",
+  "location": "Montréal, Quebec, Canada",
+  "industry": "Robotics and Drones",
+  "industry_slug": "robotics-drones",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Nytilus_AR",
+    "linkedin": "https://linkedin.com/company/11301672",
+    "facebook": "https://facebook.com/Nytilus/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nytilus",
+  "api": "/api/companies/nytilus.json"
+}

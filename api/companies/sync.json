@@ -1,0 +1,23 @@
+{
+  "name": "Sync",
+  "slug": "sync",
+  "website": "https://syncenergyai.com/",
+  "description": "No-code AI-based predictive software that streamlines planning and operations for electrical utilities, especially during emergencies.",
+  "one_liner": "No-code AI-based predictive software that streamlines planning and operations for electrical utilities, especially during emergencies.",
+  "location": "Hicksville, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/syncenergyai",
+    "linkedin": "https://linkedin.com/company/sync-energy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sync",
+  "api": "/api/companies/sync.json"
+}

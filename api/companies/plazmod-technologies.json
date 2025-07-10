@@ -1,0 +1,20 @@
+{
+  "name": "Plazmod Technologies",
+  "slug": "plazmod-technologies",
+  "website": "https://crunchbase.com/organization/plazmod",
+  "description": "Battery manufacturing process innovation out of Yale University",
+  "one_liner": "Battery manufacturing process innovation out of Yale University",
+  "location": "Woodbridge, Connecticut, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/plazmod-technologies",
+  "api": "/api/companies/plazmod-technologies.json"
+}

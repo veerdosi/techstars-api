@@ -1,0 +1,24 @@
+{
+  "name": "Sportsicon",
+  "slug": "sportsicon",
+  "website": "https://sportsicon.co/",
+  "description": "Connect with the greatest sportspeople of all time through NFTs.",
+  "one_liner": "Connect with the greatest sportspeople of all time through NFTs.",
+  "location": "London, United Kingdom",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SportsIcon_",
+    "linkedin": "https://linkedin.com/company/sportsicon",
+    "facebook": "https://facebook.com/SportsIcon.co/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sportsicon",
+  "api": "/api/companies/sportsicon.json"
+}

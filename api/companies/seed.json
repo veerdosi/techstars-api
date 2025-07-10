@@ -1,0 +1,24 @@
+{
+  "name": "Seed",
+  "slug": "seed",
+  "website": "https://seedlawpr.com/",
+  "description": "Our mission is to democratize access to the Latin music industry through education, technology, and community.",
+  "one_liner": "Our mission is to democratize access to the Latin music industry through education, technology, and community.",
+  "location": "Fort Lauderdale, Florida, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pz323v5ifnvwkwfcbadx",
+  "social_media": {
+    "twitter": "https://twitter.com/seed_europe",
+    "linkedin": "https://linkedin.com/company/seedcademy",
+    "facebook": "https://facebook.com/pg/seedkinderwagen"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/seed",
+  "api": "/api/companies/seed.json"
+}

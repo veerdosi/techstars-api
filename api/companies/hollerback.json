@@ -1,0 +1,24 @@
+{
+  "name": "Hollerback",
+  "slug": "hollerback",
+  "website": "https://linkedin.com/in/jeffreynoh",
+  "description": "A mobile app that lets you talk to friends and family through short, fun video messages",
+  "one_liner": "A mobile app that lets you talk to friends and family through short, fun video messages",
+  "location": "San Francisco, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hollerback",
+    "linkedin": "https://linkedin.com/in/jeffreynoh",
+    "facebook": "https://facebook.com/HollerbackApp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hollerback",
+  "api": "/api/companies/hollerback.json"
+}

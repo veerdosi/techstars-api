@@ -1,0 +1,698 @@
+[
+  {
+    "name": "Pixxel",
+    "website": "https://pixxel.space/",
+    "description": "We build and operate cutting-edge hyperspectral imaging satellites.",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pixxelspace",
+      "linkedin": "https://linkedin.com/company/pixxelspace",
+      "facebook": "https://facebook.com/pixxelspace/"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Smallhold",
+    "website": "https://smallhold.com/",
+    "description": "Smallhold allows businesses and individuals to grow mushrooms and leafy greens easily and affordably through it's technology and subscription service.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/smallhold",
+      "linkedin": "https://linkedin.com/company/smallhold",
+      "facebook": "https://facebook.com/smallhold/"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Milk Moovement",
+    "website": "https://milkmoovement.com/",
+    "description": "Milk Moovement is transforming the traditional dairy supply chain by bringing all stakeholders onto its collaborative, cloud-based software.",
+    "location": "Halifax, Nova Scotia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/MilkMoovement",
+      "linkedin": "https://linkedin.com/company/milk-moovement",
+      "facebook": "https://facebook.com/milkmoovement"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Traive",
+    "website": "https://traivefinance.com/",
+    "description": "Traive is an ag-fintech which unlocks credit to farmers by connecting them to lenders and by providing ML-based credit risk assessment and monitoring.",
+    "location": "São Paulo, Brazil",
+    "social_media": {
+      "twitter": "https://twitter.com/traivefinance",
+      "linkedin": "https://linkedin.com/company/traive",
+      "facebook": "https://facebook.com/TrAlve-261721727927288"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "PLANETARIANS",
+    "website": "https://planetarians.com/",
+    "description": "Most sustainable and affordable protein",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PlanetariansNet",
+      "linkedin": "https://linkedin.com/company/planetarians",
+      "facebook": "https://facebook.com/planetariansnet/"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "AGTools",
+    "website": "https://ag.tools/",
+    "description": "Agtools is a real-time data and market intelligence platform that provides transparency to the global food & ag industry.",
+    "location": "Irvine, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ag_tools",
+      "linkedin": "https://linkedin.com/company/agtools",
+      "facebook": "https://facebook.com/AgtoolsInc/"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Mushroom Material",
+    "website": "https://mushroommaterial.com/",
+    "description": "A sustainable mushroom based alternative to polystyrene Styrofoam and cardboard packaging",
+    "location": "Auckland, New Zealand",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mushroom-material"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "HeavyConnect",
+    "website": "https://heavyconnect.com/",
+    "description": "Helping farmers comply with food safety practices with simple technology",
+    "location": "Salinas, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HeavyConnected",
+      "linkedin": "https://linkedin.com/company/heavyconnect",
+      "facebook": "https://facebook.com/757765870969227"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Toolsvilla",
+    "website": "https://toolsvilla.com/",
+    "description": "A Digital Marketplace for Machinery, Tools & Equipment that solve operational inefficiencies in the farm & food businesses of India.",
+    "location": "Durgapur, West Bengal, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/toolsvilla",
+      "facebook": "https://facebook.com/toolsvilla/"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Shipshape Urban Farms",
+    "website": "https://shipshapeurbanfarms.com/",
+    "description": "Shipshape designs and manufactures modular, hydroponic farms that make fresh vegetables accessible in urban markets year-round.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vr7rehktg4jg6idhktkb",
+    "location": "Mobile, Alabama, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Shipshapefarms",
+      "linkedin": "https://linkedin.com/company/shipshapeurbanfarms",
+      "facebook": "https://facebook.com/ShipshapeUrbanFarms/"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Avenews",
+    "website": "https://avenews-gt.com/",
+    "description": "Avenews is a fintech company connecting two of the largest and most important industries in the world: the financial industry and the agricultural industry.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/Avenews_gt",
+      "linkedin": "https://linkedin.com/company/10961166",
+      "facebook": "https://facebook.com/AvenewsGT/"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "hexafarms",
+    "website": "https://hexafarms.com/",
+    "description": "Hyper-efficient autonomous indoor farms that scale at the speed of software",
+    "location": "Saarbrücken, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hexa-farms",
+      "facebook": "https://facebook.com/hexafarms"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "ATMO",
+    "website": "https://atmo.earth/",
+    "description": "atmo helps banks to reduce their financed emissions - starting with food.",
+    "location": "Berlin, Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/atmoearth"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "AgHelp",
+    "website": "https://aghelpusa.com/",
+    "description": "Resolving the agricultural labor shortage by empowering workers to find job and support resources nationally.",
+    "location": "Belding, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/agriculturehelp",
+      "linkedin": "https://linkedin.com/company/22293834",
+      "facebook": "https://facebook.com/agriculturehelp/"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Planette",
+    "website": "https://planette.ai/",
+    "description": "Planette.ai empowers enterprises to adapt to climate change by providing year-ahead extreme weather risk forecasts.",
+    "location": "Fremont, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/planetteai"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Verifi Data Corp",
+    "website": "https://verifi.eco/",
+    "description": "VeriFi solves sustainable agriculture programs' critical issues in credibility, profitability, and scale with our configurable farm-level data automation SaaS providing data sovereignty, validation, verification, analysis, and transaction.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/verifidatacorp"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Biomod AI",
+    "website": "https://biomodai.com/",
+    "description": "AI Assistant for Biotech R&D",
+    "location": "Zuid-Scharwoude, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/biomodai"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Benchmark Labs",
+    "website": "https://benchmarklabs.com/",
+    "description": "Benchmark Labs reduces operational costs and improves management practices by offering localized environmental forecasts for the agricultural sector and beyond.",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LabsBenchmark",
+      "linkedin": "https://linkedin.com/company/benchmark-labs-inc"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Agri-Trak",
+    "website": "https://agri-trak.com/",
+    "description": "Agri-Trak is a software platform that manages farm labor and tracks productivity and harvest data.",
+    "location": "Williamson, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AgriTrak",
+      "linkedin": "https://linkedin.com/company/agritrak"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "FeedX",
+    "website": "https://carllippert.com/",
+    "description": "An online marketplace for the animal feed industry.",
+    "location": "Madison, Wisconsin, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tryFeedX",
+      "linkedin": "https://linkedin.com/company/feedx",
+      "facebook": "https://facebook.com/tryFeedX/"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Mavuno Technologies",
+    "website": "https://mavuno.tech/",
+    "description": "Ag & FinTech social startup",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/mavunotech",
+      "linkedin": "https://linkedin.com/company/mavunotech",
+      "facebook": "https://facebook.com/mavunotech"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "BeeSage",
+    "website": "https://beesage.co/",
+    "description": "Beehive monitoring system that provides real-time data to beekeepers, saving time and reducing bee mortality.",
+    "location": "Amsterdam, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/BeeSageCo",
+      "linkedin": "https://linkedin.com/company/beesage",
+      "facebook": "https://facebook.com/beesageco"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Rubilabs",
+    "website": "https://rubilabs.com/",
+    "description": "RVS is Africa's largest livestock marketplace. We provide everything a livestock farmer needs for poultry, ruminants & fish farming.",
+    "location": "San Francisco, California, United States",
+    "social_media": {},
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "ToMarket",
+    "website": "https://tomarket.farm/",
+    "description": "A simple communication and ordering platform to support and expand local food communities.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ToMarketdotFarm",
+      "linkedin": "https://linkedin.com/in/david-moosman-07219635",
+      "facebook": "https://facebook.com/tomarket.farm/"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Magueyexchange",
+    "website": "https://magueyexchange.com/",
+    "description": "Technology enabling ethical exchange",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/maguey-exchange",
+      "facebook": "https://facebook.com/magueyexchange"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Contain",
+    "website": "https://contain.ag/",
+    "description": "Platform that connects the people who make indoor growing happen.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hqsa5uqjskpbqjqubqdw",
+    "location": "Reno, Nevada, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/containag",
+      "linkedin": "https://linkedin.com/company/contain"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "EcoBloc",
+    "website": "https://bloc.eco/",
+    "description": "EcoBloc protects inventory and equipment using ultrasonic waves.",
+    "location": "Portugal Cove-St. Philip's, Newfoundland and Labrador, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ecobloc"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "CropConex",
+    "website": "https://cropconex.com/",
+    "description": "CropConex is a marketplace and supply chain management platform streamlining the sales and exports of specialty crops worldwide.",
+    "location": "Highland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CropConex",
+      "linkedin": "https://linkedin.com/company/cropconex",
+      "facebook": "https://facebook.com/cropconex"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "CarbonBridge",
+    "website": "https://carbonbridge.io/",
+    "description": "CarbonBridge is a climate-action company that generates industrial and transportation gases from agricultural waste streams. The methods used result in CDR as well as some offsets.",
+    "location": "San Jose, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/carbonbridge"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "AgroCenta",
+    "website": "https://agrocenta.com/",
+    "description": "Agricultural technology platform creating shared value for smallholder farmers and businesses",
+    "location": "Accra, Ghana",
+    "social_media": {
+      "twitter": "https://twitter.com/agrocenta",
+      "linkedin": "https://linkedin.com/company/10857307",
+      "facebook": "https://facebook.com/agrocenta"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Arbor Insight",
+    "website": "https://arbor-insight.com/",
+    "description": "End-to-end agriculture robotic technology",
+    "location": "Milwaukee, Wisconsin, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/arborinsight"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Lambdai Space",
+    "website": "https://lambdai.space/",
+    "description": "We are democratizing access to remote monitoring for climate impact",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/evkiil0uzt3zodyawzyi",
+    "location": "Milano, Lombardy, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lambdai-space"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "ClimeRock",
+    "website": "https://climerock.com/",
+    "description": "Removing carbon while restoring soils with Enhanced Rock Weathering.",
+    "location": "Colombes, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/climerock"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Greener Herd",
+    "website": "https://greenerherd.com/",
+    "description": "Greener Herd is pioneering the future of livestock farming with cutting-edge AI solutions designed to reduce methane emissions, enhance productivity, and promote sustainability.",
+    "location": "Newark, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/greener-herd"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Eqtrade",
+    "website": "https://eqgrow.mydurable.com/",
+    "description": "Eqtrade, powered by AI and ML, bridges the gaps in international food systems. Empowering farmers without business knowledge to transform their lands into sustainable ventures.",
+    "location": "Madrid, Spain",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/isabella-bernal-colpas-25768b11a"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Carpe Mañana",
+    "website": "https://mayahueltec.com/",
+    "description": "Carpe Manana creates a proprietary bio plastic, PLAgave, using agave fibers from mezcal production, and our process helps clean the land and rivers of Oaxaca, for future generations.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/aaron-robinson-carpe-manana-inc",
+      "facebook": "https://facebook.com/mayahueltecoaxaca/"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Raiz",
+    "website": "https://raiz.farm/",
+    "description": "Urban Farming Evolution. Building distributed farms catering to urban consumers in an energy efficient manner.",
+    "location": "Lisbon, Portugal",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/raiz-vertical-farms"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Inverto Tech",
+    "website": "https://inverto.tech/",
+    "description": "Rewilding coastlines - beyond planting trees",
+    "location": "Hilterfingen, Switzerland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/inverto-earth",
+      "facebook": "https://facebook.com/invertoit"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Gather Flora",
+    "website": "https://gatherflora.com/",
+    "description": "Global Flower Marketplace",
+    "location": "Vallejo, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GatherFloraHelp",
+      "linkedin": "https://linkedin.com/company/gather-flora",
+      "facebook": "https://facebook.com/gatherflora/"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "edn",
+    "website": "https://edntech.com/",
+    "description": "Developer of intelligent indoor gardens",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/edngarden",
+      "linkedin": "https://linkedin.com/company/edn-group-s-r-l-",
+      "facebook": "https://facebook.com/edngarden"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Share Farm",
+    "website": "https://sharefarm.com/",
+    "description": "A digital farm economy, leveraging technology to simplify the distribution chain from Farm to Institution, hospitality and food service, providing members with unprecedented supply and demand insights.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vcikmftcmzchc8cd2xuw",
+    "location": "Colbert, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ShareFarmApp",
+      "linkedin": "https://linkedin.com/company/share-farm",
+      "facebook": "https://facebook.com/sharefarmapp/"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Blomso",
+    "website": "https://blomso-ag.com/",
+    "description": "For farmers that want to reduce operating cost and digitize operations, we provide a novel live rate soil sensing tech and SaaS based solution to reduce fertilizer waste, validate carbon capture, and bring digitization into the agricultural sector.",
+    "location": "Baltimore, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/100920784"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "inlike",
+    "website": "https://inlike.ai/",
+    "description": "inlike enables SMB real estate developers to manage projects on a single cost-effective platform.",
+    "location": "Menlo Park, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/inlike_ai",
+      "linkedin": "https://linkedin.com/company/inlike-ai"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Masa",
+    "website": "https://masafresh.com/",
+    "description": "Farmers market made simple",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/18975084",
+      "facebook": "https://facebook.com/himasafresh"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Good Agriculture",
+    "website": "https://goodagriculture.com/",
+    "description": "Supports current and future regenerative farmers with business services such as finding funding, managing finances, and reaching new customers.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/good-agriculture"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Seafood AI",
+    "website": "https://seafoodai.com/",
+    "description": "Revolutionizing seafood sourcing with advanced technology",
+    "location": "Millbrea, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/seafood-ai"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Meknology",
+    "website": "https://meknology.com/",
+    "description": "Sustainable wastewater up-cycling and drinking water distillation.",
+    "location": "Southfield, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/meknology"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "HydroPhos Solutions",
+    "website": "https://hydrophossolutions.com/",
+    "description": "A phosphorus filtration technology",
+    "location": "Sanbornton, New Hampshire, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hydrophos-solutions"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Gaia Agricultural & Technology",
+    "website": "https://gaiabox.webflow.io/",
+    "description": "A hydroponic growth system",
+    "location": "Owing Mills, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/the-gaia-box"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "AquaOrganix USA",
+    "website": "https://aquaorganixusa.com/",
+    "description": "AquaOrganix transforms plant waste into high-value fertilizers, biostimulants, and nutrients through our BioFermentative Nutrient Extraction process. We produce 13 natural products in 24 hours, eliminating the need for synthetic inputs. Our approach enriches soil, boosts plant growth, and reduces energy and labor costs. By converting waste into valuable resources, AquaOrganix accelerates growth and increases yields, driving sustainable, profitable, and ethical agriculture worldwide.",
+    "location": "Sheridan Wyoming, Wyoming, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/aquaorganix"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Agriwater Corp",
+    "website": "https://agriwater.tech/",
+    "description": "AgriWater Tech is a designer of a zero-waste ionizer device that helps clean water for agricultural, residential, and commercial use.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vsyyohrnmmtp7esoarkz",
+    "location": "Knoxville, Tennessee, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/agriwater-corp",
+      "facebook": "https://facebook.com/agriwa.tech"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "GustoMarket",
+    "website": "https://gustomarket.co/",
+    "description": "GustoMarket is a software as a service (SaaS) that vertically integrates the food value chain for the hospitality industry.",
+    "location": "Ithaca, New York, United States",
+    "social_media": {},
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "BioReact",
+    "website": "https://bioreact.co/",
+    "description": "BioReact is an analytics platform used by scientists to improve their understanding of complex experimental data.",
+    "location": "Indianapolis, Indiana, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bioreact-inc"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "UfarmX",
+    "website": "https://ufarmx.com/",
+    "description": "UfarmX is an AI-driven agri-fintech platform that provides farmers with collateral-free, input-based loans by analyzing geospatial and socioeconomic data. Our technology de-risks agricultural lending, enabling financial institutions to scale farmer financing while helping agribusinesses streamline procurement and market access.",
+    "location": "Elkridge, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ufarmx"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "EIO Diagnostics",
+    "website": "https://eiodiagnostics.com/",
+    "description": "EIO Diagnostics is an animal health diagnostics company launching our first product in the dairy industry focused on early indication of mastitis infections.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EIODiagnostics",
+      "linkedin": "https://linkedin.com/company/18253436",
+      "facebook": "https://facebook.com/EIODiagnostics/"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Dispatch",
+    "website": "https://dispatch.me/",
+    "description": "We make it easy for enterprise service brands to gain real-time visibility across their entire independent network while delivering unparalleled experiences to their end-customers.",
+    "logo_url": "https://pbs.twimg.com/profile_images/3402046298/a6cf4773b69e71d158e52c40ed2c9f7f_bigger.jpeg",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Dispatch",
+      "linkedin": "https://linkedin.com/company/dispatch-labs",
+      "facebook": "https://facebook.com/dispatchitinc"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Avemus",
+    "website": "https://linkedin.com/company/avemus",
+    "description": "Revolutionizing agricultural cooperatives",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/platfarm",
+      "linkedin": "https://linkedin.com/company/avemus"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  },
+  {
+    "name": "Freight Farms",
+    "website": "https://linkedin.com/company/freight-farms",
+    "description": "A local farming solution for global food supply",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FreightFarms",
+      "linkedin": "https://linkedin.com/company/freight-farms",
+      "facebook": "https://facebook.com/freightfarms"
+    },
+    "industry": "Agtech",
+    "industry_slug": "agtech"
+  }
+]

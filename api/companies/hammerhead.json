@@ -1,0 +1,24 @@
+{
+  "name": "Hammerhead",
+  "slug": "hammerhead",
+  "website": "https://hammerhead.io/",
+  "description": "Hammerhead helps bikers find their way and discover new ones.",
+  "one_liner": "Hammerhead helps bikers find their way and discover new ones.",
+  "location": "New York City, New York, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hammerheadrides",
+    "linkedin": "https://linkedin.com/company/hammerhead-navigation",
+    "facebook": "https://facebook.com/HammerheadNavigation"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hammerhead",
+  "api": "/api/companies/hammerhead.json"
+}

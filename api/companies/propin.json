@@ -1,0 +1,22 @@
+{
+  "name": "Propin",
+  "slug": "propin",
+  "website": "https://propin.ai/",
+  "description": "a location intelligence platform that uses live geospatial data and AI to help sales and marketing teams upgrade their decisions.",
+  "one_liner": "a location intelligence platform that uses live geospatial data and AI to help sales and marketing teams upgrade their decisions.",
+  "location": "Or Yehuda, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/propin-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/propin",
+  "api": "/api/companies/propin.json"
+}

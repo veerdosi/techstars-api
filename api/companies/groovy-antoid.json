@@ -1,0 +1,24 @@
+{
+  "name": "Groovy Antoid",
+  "slug": "groovy-antoid",
+  "website": "https://groovyantoid.com/",
+  "description": "Mobile and messenger gaming company building polished casual games, with cute, colorful characters and quirky, social gameplay.",
+  "one_liner": "Mobile and messenger gaming company building polished casual games, with cute, colorful characters and quirky, social gameplay.",
+  "location": "Beirut, Lebanon",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GroovyAntoid",
+    "linkedin": "https://linkedin.com/company/groovy-antoid",
+    "facebook": "https://facebook.com/GroovyAntoid"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/groovy-antoid",
+  "api": "/api/companies/groovy-antoid.json"
+}

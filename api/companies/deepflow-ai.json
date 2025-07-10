@@ -1,0 +1,23 @@
+{
+  "name": "Deepflow AI",
+  "slug": "deepflow-ai",
+  "website": "https://deepflow.ai/",
+  "description": "Deepflow is a visual inspection platform that empowers industrial manufacturers to automate quality control processes with machine vision.",
+  "one_liner": "Deepflow is a visual inspection platform that empowers industrial manufacturers to automate quality control processes with machine vision.",
+  "location": "Bordeaux, France",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/deepflowai",
+    "linkedin": "https://linkedin.com/company/thinkdeep-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/deepflow-ai",
+  "api": "/api/companies/deepflow-ai.json"
+}

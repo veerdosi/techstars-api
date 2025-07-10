@@ -1,0 +1,24 @@
+{
+  "name": "Cogni",
+  "slug": "cogni",
+  "website": "https://getcogni.com/",
+  "description": "Cogni provides banking services for the shared and freelancer economy",
+  "one_liner": "Cogni provides banking services for the shared and freelancer economy",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getcogni",
+    "linkedin": "https://linkedin.com/company/cognibanking",
+    "facebook": "https://facebook.com/getcogniapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cogni",
+  "api": "/api/companies/cogni.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sequestr",
+  "slug": "sequestr",
+  "website": "https://sequestr.io/",
+  "description": "Accelerating the transition to a low-carbon economy by unlocking institutional capital for carbon markets via risk and pricing products.",
+  "one_liner": "Accelerating the transition to a low-carbon economy by unlocking institutional capital for carbon markets via risk and pricing products.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/zu10phkg7g44mb3p8pqv",
+  "social_media": {
+    "twitter": "https://twitter.com/SequestrIO",
+    "linkedin": "https://linkedin.com/company/sequestr"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sequestr",
+  "api": "/api/companies/sequestr.json"
+}

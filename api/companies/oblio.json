@@ -1,0 +1,22 @@
+{
+  "name": "Oblio",
+  "slug": "oblio",
+  "website": "https://oblio.ai/",
+  "description": "Oblio is at the forefront of revolutionizing university enrollment with our innovative Inbox-Based AI tool.",
+  "one_liner": "Oblio is at the forefront of revolutionizing university enrollment with our innovative Inbox-Based AI tool.",
+  "location": "Murrieta, California, United States",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/oblio-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/oblio",
+  "api": "/api/companies/oblio.json"
+}

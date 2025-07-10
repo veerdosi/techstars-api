@@ -1,0 +1,24 @@
+{
+  "name": "Spitfire Athlete",
+  "slug": "spitfire-athlete",
+  "website": "https://spitfireathlete.com/",
+  "description": "We're building a movement that stands for greatness and badassery among women starting with a strength training app.",
+  "one_liner": "We're building a movement that stands for greatness and badassery among women starting with a strength training app.",
+  "location": "San Francisco, California, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/spitfireathlete",
+    "linkedin": "https://linkedin.com/company/8308640",
+    "facebook": "https://facebook.com/SpitfireAthlete"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/spitfire-athlete",
+  "api": "/api/companies/spitfire-athlete.json"
+}

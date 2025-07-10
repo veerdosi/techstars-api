@@ -1,0 +1,24 @@
+{
+  "name": "Styku",
+  "slug": "styku",
+  "website": "https://styku.com/",
+  "description": "Styku is a 3D body scanning platform for fitness, health, and wellness markets. We believe in the best way to demonstrate progress is to visualize results.",
+  "one_liner": "Styku is a 3D body scanning platform for fitness, health, and wellness markets. We believe in the best way to demonstrate progress is to visualize results.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Styku3D",
+    "linkedin": "https://linkedin.com/company/2603837",
+    "facebook": "https://facebook.com/pages/Styku/189401271084369"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/styku",
+  "api": "/api/companies/styku.json"
+}

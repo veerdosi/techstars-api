@@ -1,0 +1,22 @@
+{
+  "name": "G2Q Computing",
+  "slug": "g2q-computing",
+  "website": "https://g2qcomputing.com/",
+  "description": "G2Q develops advanced hybrid quantum-classical software to solve complex real-world problems on Near Term Quantum Computers.",
+  "one_liner": "G2Q develops advanced hybrid quantum-classical software to solve complex real-world problems on Near Term Quantum Computers.",
+  "location": "Milan, Milan, Italy",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/g2qcomputing"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/g2q-computing",
+  "api": "/api/companies/g2q-computing.json"
+}

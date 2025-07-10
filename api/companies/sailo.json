@@ -1,0 +1,24 @@
+{
+  "name": "Sailo",
+  "slug": "sailo",
+  "website": "https://sailo.com/",
+  "description": "Sailo is an online marketplace that connects people who want to rent boats to boat owners, charter operators and licensed captains",
+  "one_liner": "Sailo is an online marketplace that connects people who want to rent boats to boat owners, charter operators and licensed captains",
+  "location": "New York City, New York, United States",
+  "industry": "Mobility tech",
+  "industry_slug": "mobility-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SailoBoats",
+    "linkedin": "https://linkedin.com/company/5241229",
+    "facebook": "https://facebook.com/Sailoboats"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sailo",
+  "api": "/api/companies/sailo.json"
+}

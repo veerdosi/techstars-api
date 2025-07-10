@@ -1,0 +1,24 @@
+{
+  "name": "Subhe",
+  "slug": "subhe",
+  "website": "https://linkedin.com/company/subhelearning",
+  "description": "On-demand skill development in Indian Languages",
+  "one_liner": "On-demand skill development in Indian Languages",
+  "location": "New Delhi, India",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/subhelearning",
+    "linkedin": "https://linkedin.com/company/subhelearning",
+    "facebook": "https://facebook.com/pg/subhelearning"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/subhe",
+  "api": "/api/companies/subhe.json"
+}

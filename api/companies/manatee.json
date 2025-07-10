@@ -1,0 +1,24 @@
+{
+  "name": "Manatee",
+  "slug": "manatee",
+  "website": "https://getmanatee.com/",
+  "description": "Everyday therapy for kids",
+  "one_liner": "Everyday therapy for kids",
+  "location": "Denver, Colorado, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getmanatee",
+    "linkedin": "https://linkedin.com/company/33297510",
+    "facebook": "https://facebook.com/getmanatee"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/manatee",
+  "api": "/api/companies/manatee.json"
+}

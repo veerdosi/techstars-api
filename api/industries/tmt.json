@@ -1,0 +1,4105 @@
+[
+  {
+    "name": "Outreach",
+    "website": "https://outreach.io/",
+    "description": "Outreach is a sales engagement platform that accelerates revenue growth by optimizing interactions throughout the customer lifecycle.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/outreach_io",
+      "linkedin": "https://linkedin.com/company/outreach-saas",
+      "facebook": "https://facebook.com/Outreach.io/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Gorgias",
+    "website": "https://gorgias.com/",
+    "description": "Manage all your customer support in one place with Gorgias.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gorgiasio",
+      "linkedin": "https://linkedin.com/company/gorgias",
+      "facebook": "https://facebook.com/gorgiasio"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Funnel Leasing",
+    "website": "https://funnelleasing.com/",
+    "description": "Making it easier to find a place to live",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FunnelLeasing",
+      "linkedin": "https://linkedin.com/company/funnelleasing",
+      "facebook": "https://facebook.com/funnelleasing/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "soona",
+    "website": "https://soona.co/",
+    "description": "Provides brands with fast casual content at a same-day photo and video studio.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/soonastudios",
+      "linkedin": "https://linkedin.com/company/soona",
+      "facebook": "https://facebook.com/soonastudios/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Help Scout",
+    "website": "https://helpscout.com/",
+    "description": "Help Scout makes customer support tools that keep customers happy as you grow.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/helpscout",
+      "linkedin": "https://linkedin.com/company/1447019",
+      "facebook": "https://facebook.com/helpscout"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Pilot",
+    "website": "https://pilotfiber.com/",
+    "description": "Pilot keeps businesses connected with internet that's fast, reliable, and backed by the best customer experience in telecom.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pilotfiber",
+      "linkedin": "https://linkedin.com/company/pilot",
+      "facebook": "https://facebook.com/pilotfiber"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Mentor Collective",
+    "website": "https://mentorcollective.org/",
+    "description": "Shearwater keeps students enrolled and engaged.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/shearwaterintl",
+      "linkedin": "https://linkedin.com/company/3353745",
+      "facebook": "https://facebook.com/mentorcollective/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Skiptown",
+    "website": "https://skiptown.io/",
+    "description": "Trusted care for busy people who love their pets. We're launching the first ever tech-infused dog bar, social hub and pet care facility. skiptownclt.com",
+    "location": "Charlotte, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/skiptownclt",
+      "linkedin": "https://linkedin.com/company/skipper-pets",
+      "facebook": "https://facebook.com/skiptownclt"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Smallhold",
+    "website": "https://smallhold.com/",
+    "description": "Smallhold allows businesses and individuals to grow mushrooms and leafy greens easily and affordably through it's technology and subscription service.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/smallhold",
+      "linkedin": "https://linkedin.com/company/smallhold",
+      "facebook": "https://facebook.com/smallhold/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Swag",
+    "website": "https://swag.com/",
+    "description": "The best place for companies to buy promotional swag that people will actually want to keep.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/promotewithswag",
+      "linkedin": "https://linkedin.com/company/11025034",
+      "facebook": "https://facebook.com/promotewithswag/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Mosaic Manufacturing",
+    "website": "https://mosaicmanufacturing.com/",
+    "description": "Mosaic develops multi-color and multi-material desktop 3D printing technologies.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/mosaicmfg",
+      "linkedin": "https://linkedin.com/company/mosaicmfg",
+      "facebook": "https://facebook.com/MosaicMfg/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Lynq",
+    "website": "https://lynqme.com/",
+    "description": "Lynq is changing how low-bandwidth data is communicated, allowing devices to transmit data for miles without cellular networks or infrastructure.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lynq_me",
+      "linkedin": "https://linkedin.com/company/lynqme",
+      "facebook": "https://facebook.com/lynqme/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Groover",
+    "website": "https://groover.co/",
+    "description": "Reinventing music promotion",
+    "location": "Vauville, France",
+    "social_media": {
+      "twitter": "https://twitter.com/HeyGroover",
+      "linkedin": "https://linkedin.com/company/heygroover",
+      "facebook": "https://facebook.com/HeyGroover/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Kinetic",
+    "website": "https://wearkinetic.com/",
+    "description": "Kinetic is an industrial analytics company using wearables to improve worker safety.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/WearKinetic",
+      "linkedin": "https://linkedin.com/company/kineticxyz",
+      "facebook": "https://facebook.com/KineticUSA"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Cobalt",
+    "website": "https://cobalt.pe/",
+    "description": "Cobalt offers an integrated solution for portfolio monitoring and reporting for private equity and venture capital firms.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Cobalt_Software",
+      "linkedin": "https://linkedin.com/company/cobaltrobotics",
+      "facebook": "https://facebook.com/CobaltSoftware"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Kapost",
+    "website": "https://kapost.com/",
+    "description": "Content marketing software",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/kapost",
+      "linkedin": "https://linkedin.com/company/kapost",
+      "facebook": "https://facebook.com/kapostnewsrooms"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Clarisights",
+    "website": "https://clarisights.com/",
+    "description": "End-to-end BI for marketing",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/clarisights",
+      "linkedin": "https://linkedin.com/company/clarisights",
+      "facebook": "https://facebook.com/ClarisightsOfficial/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Promoboxx",
+    "website": "https://promoboxx.com/",
+    "description": "Brand-to-retailer marketing platform",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Promoboxx",
+      "linkedin": "https://linkedin.com/company/promoboxx",
+      "facebook": "https://facebook.com/Promoboxx"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "SyncOnSet Technologies",
+    "website": "https://synconset.com/",
+    "description": "Modern software for TV & Film production management",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SyncOnSet",
+      "linkedin": "https://linkedin.com/company/synconset-technologies",
+      "facebook": "https://facebook.com/synconset/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "PartySlate",
+    "website": "https://partyslate.com/",
+    "description": "PartySlate is the first digital platform designed specifically for event professionals for a better way to showcase their work.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PartySlate",
+      "linkedin": "https://linkedin.com/company/partyslate",
+      "facebook": "https://facebook.com/partyslate/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Donut Media",
+    "website": "https://donut.media/",
+    "description": "The media company for the next generation of automotive enthusiasts.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/donut_media",
+      "linkedin": "https://linkedin.com/company/6589845",
+      "facebook": "https://facebook.com/donutmedia"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Embeddable",
+    "website": "https://trevor.io/",
+    "description": "Trevor lets your whole team query and learn from your database data.",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/trevormydata",
+      "linkedin": "https://linkedin.com/company/trevor-io",
+      "facebook": "https://facebook.com/trevormydata"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Project Admission",
+    "website": "https://projectadmission.com/",
+    "description": "A software solution that integrates with ticketing platforms, Project Admission makes buying, transferring and reselling tickets simple, intuitive and effective.",
+    "location": "Nashville, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PAticketing",
+      "linkedin": "https://linkedin.com/company/project-admission"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Edvisor",
+    "website": "https://edvisor.io/",
+    "description": "School and Agency Collaboration For the 21st Century",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/Edvisorio",
+      "linkedin": "https://linkedin.com/company/edvisor-io",
+      "facebook": "https://facebook.com/749555088410228"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Silversheet",
+    "website": "https://silversheet.com/",
+    "description": "Silversheet helps healthcare facilities and medical staff connect and work together more efficiently.",
+    "location": "Culver City, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/silversheet",
+      "linkedin": "https://linkedin.com/company/silversheet",
+      "facebook": "https://facebook.com/silversheetHQ"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Shippable",
+    "website": "https://shippable.com/",
+    "description": "Ship code faster",
+    "location": "Bellevue, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/BeShippable",
+      "linkedin": "https://linkedin.com/company/shippable",
+      "facebook": "https://facebook.com/beShippable"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Beastcoast",
+    "website": "https://beastcoast.gg/",
+    "description": "Beastcoast is global professional gaming organization and digital media enterprise.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/beastcoast",
+      "linkedin": "https://linkedin.com/company/beastcoast",
+      "facebook": "https://facebook.com/beastcoastg"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Poppy",
+    "website": "https://poppyflowers.com/",
+    "description": "Poppy is a new, transparent way to buy wedding, event & gift flowers, powered by a network of floral designers working from home.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/yrpoppyflowers",
+      "linkedin": "https://linkedin.com/company/yourpoppyflowers",
+      "facebook": "https://facebook.com/meetpoppy"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "OnFrontiers",
+    "website": "https://onfrontiers.com/",
+    "description": "OnFrontiers helps business professionals uncover deep insights into the topics or industries most important to them, by connecting them with leading sources of local intelligence.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Onfrontiers",
+      "linkedin": "https://linkedin.com/company/onfrontiers",
+      "facebook": "https://facebook.com/onfrontiers"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Poppins",
+    "website": "https://poppins.io/",
+    "description": "We digitize music therapy into engaging products for accessible technologies.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/ask_mila",
+      "linkedin": "https://linkedin.com/company/wearepoppins",
+      "facebook": "https://facebook.com/usemila"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "echo3D",
+    "website": "https://echo3d.co/",
+    "description": "Cloud platform for augmented and virtual reality (AR/VR) apps that provides tools & server-side infrastructure to help companies build better 3D apps.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/_echoAR_",
+      "linkedin": "https://linkedin.com/company/echo3D",
+      "facebook": "https://facebook.com/echo3DInc/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "EcoMap Technologies",
+    "website": "https://ecomap.tech/",
+    "description": "EcoMap builds platforms that digitize ecosystems, from entrepreneurial communities to corporate networks and beyond.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ecomaptech",
+      "linkedin": "https://linkedin.com/company/ecomaptechnologies",
+      "facebook": "https://facebook.com/ecomaptech"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Mocavo",
+    "website": "https://mocavo.com/",
+    "description": "Sold in 2014",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mocavo",
+      "linkedin": "https://linkedin.com/company/mocavo-com",
+      "facebook": "https://facebook.com/mocavo"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Beam",
+    "website": "https://beam.pro/",
+    "description": "Interactive Livestreaming for Gamers",
+    "location": "Bellevue, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Beam",
+      "linkedin": "https://linkedin.com/company/6139255",
+      "facebook": "https://facebook.com/wearebeam"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Ten Spot",
+    "website": "https://tenspot.com/",
+    "description": "The workforce engagement platform that gets your team talking",
+    "location": "West Hollywood, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tenspot",
+      "linkedin": "https://linkedin.com/company/tenspot",
+      "facebook": "https://facebook.com/fitspotapp"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Ambassador",
+    "website": "https://getambassador.com/",
+    "description": "Referral, Partner and Affiliate Tracking and Management.",
+    "location": "Royal Oak, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Ambassador",
+      "linkedin": "https://linkedin.com/company/getambassador",
+      "facebook": "https://facebook.com/getambassador"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "VidGrid",
+    "website": "https://vidgrid.com/",
+    "description": "VidGrid is the video's most interactive platform for sales and marketing.",
+    "location": "West Saint Paul, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/VidGridInc",
+      "linkedin": "https://linkedin.com/company/vidgrid",
+      "facebook": "https://facebook.com/vidgrid"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Serve First",
+    "website": "https://servefirst.co.uk/",
+    "description": "Serve First provides customer feedback surveys and staff engagement platforms.",
+    "location": "Epping, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/serve-first-cx",
+      "facebook": "https://facebook.com/servefirstcx"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Baton Media",
+    "website": "https://baton.media/",
+    "description": "The collaboration protocol designed by artists, for artists.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/baton_media",
+      "linkedin": "https://linkedin.com/company/baton-media-inc"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Kairos Sports Tech",
+    "website": "https://kairostech.io/",
+    "description": "A communication tool for professional sports teams, provides feedback to players and offers time savings and efficiencies to staff, admin and coaches",
+    "location": "Belfast, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/KairosSportsHQ",
+      "linkedin": "https://linkedin.com/company/kairos-sports-tech"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "INBOTIQA",
+    "website": "https://inbotiqa.com/",
+    "description": "Inbotiqa's enterprise email solution for high-volume & group mailboxes improves productivity & customer service via workflow management in middle & back offices",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/inbotiqa",
+      "linkedin": "https://linkedin.com/company/inbotiqa"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "hobbyDB",
+    "website": "https://hobbydb.com/",
+    "description": "A catalog of every collectible ever made where collectors can buy, sell, research and show off.",
+    "location": "Superior, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hobbyDB",
+      "linkedin": "https://linkedin.com/company/hobbydb",
+      "facebook": "https://facebook.com/hobbyDB"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "coUrbanize",
+    "website": "https://courbanize.com/",
+    "description": "Tracks the process of real estate development",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/courbanize",
+      "linkedin": "https://linkedin.com/company/courbanize",
+      "facebook": "https://facebook.com/courbanize"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "TVbeat",
+    "website": "https://tvbeat.com/",
+    "description": "Google Analytics for IPTV",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/tvbeatfeed",
+      "linkedin": "https://linkedin.com/company/tvbeat"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Dimeq",
+    "website": "https://dimeq.no/",
+    "description": "No more lives lost at sea with nextgen IoT",
+    "location": "Kalvåg, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dimeq",
+      "facebook": "https://facebook.com/Dimeq.norway/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Eventnoire",
+    "website": "https://eventnoire.com/",
+    "description": "Eventnoire is the digital gateway to Black culture-centric events",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/eventnoire",
+      "linkedin": "https://linkedin.com/company/eventnoire",
+      "facebook": "https://facebook.com/eventnoire"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Makeswift",
+    "website": "https://makeswift.com/",
+    "description": "A new way for teams to build the web.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MakeswiftHQ",
+      "linkedin": "https://linkedin.com/company/landinglion",
+      "facebook": "https://facebook.com/landinglion/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Zelta",
+    "website": "https://zelta.ai/",
+    "description": "Annotate, comment and collaborate with teammates directly within the web application users build",
+    "location": "Jersey City, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/zeltaai"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "VendorHawk",
+    "website": "https://vendorhawk.co/",
+    "description": "SaaS Optimization for the Modern Enterprise",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vendorhawk",
+      "linkedin": "https://linkedin.com/company/17904273",
+      "facebook": "https://facebook.com/OptimizeSaaS/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Garmentory",
+    "website": "https://garmentory.com/",
+    "description": "Shop the best of the sale from boutiques and designers",
+    "location": "Bellevue, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/garmentory",
+      "linkedin": "https://linkedin.com/company/garmentory",
+      "facebook": "https://facebook.com/Garmentory"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "StoryTap",
+    "website": "https://storytap.com/",
+    "description": "Star rated video reviews from anyone, anywhere.",
+    "location": "Port Coquitlam, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/storytapvideo",
+      "linkedin": "https://linkedin.com/company/storytapvideo",
+      "facebook": "https://facebook.com/storytap/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Hellotickets",
+    "website": "https://hellotickets.com/",
+    "description": "Book tours, activities and day trips around the world at the best price.",
+    "location": "Madrid, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/hello_tickets",
+      "linkedin": "https://linkedin.com/company/18257545",
+      "facebook": "https://facebook.com/Hellotickets-196515730752792/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "P.S. Bridal Rental",
+    "website": "https://psbridal.co.uk/",
+    "description": "P.S. Bridal Rental is a company that simplifies bridal dress shopping with personalized, circular, and sustainable options.",
+    "location": "Hertfordshire, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/psbridal",
+      "facebook": "https://facebook.com/psbridalrental/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "boxxtech",
+    "website": "https://boxxtech.ai/",
+    "description": "AI verification vending machine.",
+    "location": "Scottsdale, Arizona, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/boxxtech",
+      "facebook": "https://facebook.com/ezvendingmachines"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "WriterDuet",
+    "website": "https://writerduet.com/",
+    "description": "WriterDuet is a real-time collaborative platform for creative teams to build stories.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/writerduet",
+      "linkedin": "https://linkedin.com/company/writerduet",
+      "facebook": "https://facebook.com/WriterDuet"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Inclusivv",
+    "website": "https://inclusivv.co/",
+    "description": "Civic Dinners is a community engagement platform that brings people together for conversations that matter.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/civicdinners",
+      "linkedin": "https://linkedin.com/company/inclusivv",
+      "facebook": "https://facebook.com/Inclusivv"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Sailo",
+    "website": "https://sailo.com/",
+    "description": "Sailo is an online marketplace that connects people who want to rent boats to boat owners, charter operators and licensed captains",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SailoBoats",
+      "linkedin": "https://linkedin.com/company/5241229",
+      "facebook": "https://facebook.com/Sailoboats"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Whitebalance",
+    "website": "https://whitebalance.co/",
+    "description": "Uses use AI, computer vision, and 3D graphics to help companies build narrative, capture, edit, and manage video in a fully online and decentralized way.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/whitebalanceHQ",
+      "linkedin": "https://linkedin.com/company/whitebalanceco"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "testive",
+    "website": "https://testive.com/",
+    "description": "Adaptive test prep that works",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Testive",
+      "linkedin": "https://linkedin.com/company/testive-inc",
+      "facebook": "https://facebook.com/testive"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "PhoneWagon",
+    "website": "https://phonewagon.com/",
+    "description": "PhoneWagon is call tracking software that helps businesses and digital marketing agencies attribute phone calls back to specific marketing campaigns.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/phonewagon",
+      "linkedin": "https://linkedin.com/company/phonewagon",
+      "facebook": "https://facebook.com/phonewagon"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Switchboard Live",
+    "website": "https://switchboard.live/",
+    "description": "Switchboard simultaneously distributes live video content to multiple platforms, allowing content creators instant access to targeted audiences.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/switchboardlive",
+      "linkedin": "https://linkedin.com/company/switchboardlive",
+      "facebook": "https://facebook.com/switchboardlive"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Ordercube",
+    "website": "https://ordercube.de/",
+    "description": "Simplify Restaurant Communication",
+    "location": "Grafing b. München, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/ordercube",
+      "linkedin": "https://linkedin.com/company/18028666",
+      "facebook": "https://facebook.com/ordercube/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Odaptos",
+    "website": "https://odaptos.com/",
+    "description": "Odaptos is an artificial intelligence platform that allows users to perform usability testing.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ephhcsbgvin7qfhw4xma",
+    "location": "Perols, Occitanie, France",
+    "social_media": {
+      "twitter": "https://twitter.com/odaptos",
+      "linkedin": "https://linkedin.com/company/odaptos",
+      "facebook": "https://facebook.com/people/Odaptos/100070848931160"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Twigtale",
+    "website": "https://twigtale.com/",
+    "description": "Create personalized stories like never before.",
+    "logo_url": "https://pbs.twimg.com/profile_images/459839014036447232/M6_qh6hZ.jpeg",
+    "location": "Marina del Rey, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/twigtale",
+      "linkedin": "https://linkedin.com/company/twigtale",
+      "facebook": "https://facebook.com/twigtale"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "OmniPreSense Corporation",
+    "website": "https://omnipresense.com/",
+    "description": "Supplier of short range radar sensors for drone, robots, and IoT systems allowing them to \"see\" the world around them.",
+    "location": "San Jose, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/OmniPSense",
+      "linkedin": "https://linkedin.com/company/17992858",
+      "facebook": "https://facebook.com/omnipsense/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Parsempo",
+    "website": "https://parsempo.com/",
+    "description": "Parsempo makes it easy for Digital Signage and DOOH display owners to manage their screens, create engaging experiences, measure performance and generate passive revenue anywhere in the world.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/parsempo",
+      "linkedin": "https://linkedin.com/company/parsempo",
+      "facebook": "https://facebook.com/GoParsempo"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Ranku",
+    "website": "https://goranku.com/",
+    "description": "Online degree marketplace",
+    "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/224452-181f87bbe6ac261b931b7ed48cc473ad-medium_jpg.jpg?buster=1371575258",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/goranku",
+      "facebook": "https://facebook.com/ranku.inc"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Pippa",
+    "website": "https://pippa.io/",
+    "description": "Pippa is the simplest, smartest way to share your podcast.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/choosepippa",
+      "linkedin": "https://linkedin.com/company/pippa.io",
+      "facebook": "https://facebook.com/pippapodcasts"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Sameroom",
+    "website": "https://sameroom.io/",
+    "description": "IM interoperability as-a-service",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sameroomhq",
+      "linkedin": "https://linkedin.com/company/sameroom",
+      "facebook": "https://facebook.com/sameroomhq"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "FEM",
+    "website": "https://fem-inc.com/",
+    "description": "Video Recommendation Engine",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FEMInc",
+      "linkedin": "https://linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%95%E3%82%A7%E3%83%A0",
+      "facebook": "https://facebook.com/FemInc"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "HomeBinder",
+    "website": "https://homebinder.com/",
+    "description": "We currently help 4% of home buyers reduce headaches and save money through property specific support and digital organization for everything home-related.",
+    "location": "Burlington, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HomeBinder",
+      "linkedin": "https://linkedin.com/company/homebinder-com",
+      "facebook": "https://facebook.com/homebinder"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Superpowered",
+    "website": "https://superpowered.com/",
+    "description": "Superpowered allows consumers to listen, watch and play longer by using software to reduce CPU load -- making mobile and embedded hardware more efficient.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SuperpoweredSDK",
+      "linkedin": "https://linkedin.com/company/superpowered",
+      "facebook": "https://facebook.com/SuperpoweredSDK/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Flomio",
+    "website": "https://flomio.com/",
+    "description": "NFC and RFID solutions for Developers",
+    "location": "Miami Beach, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/flomio",
+      "linkedin": "https://linkedin.com/in/timronan",
+      "facebook": "https://facebook.com/pages/Flomio/218724368144282"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Grapevine",
+    "website": "https://grapevinelogic.com/",
+    "description": "Grapevine connects consumer brands with digital stars to produce sponsored content",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/grapevinelogic",
+      "linkedin": "https://linkedin.com/company/grapevine-logic",
+      "facebook": "https://facebook.com/GrapevineLogic/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Conspire",
+    "website": "https://conspire.com/",
+    "description": "Unlock your email network",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/goconspire",
+      "linkedin": "https://linkedin.com/company/conspire",
+      "facebook": "https://facebook.com/aireumsoftware"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Reeler",
+    "website": "https://reelertech.com/",
+    "description": "UGC (user-generated content) marketing enterprise SaaS platform",
+    "location": "Stockholm, Sweden",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/reelertech",
+      "facebook": "https://facebook.com/reelertech"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "IntenseDebate",
+    "website": "https://intensedebate.com/",
+    "description": "Blog commenting system",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/intensedebate",
+      "linkedin": "https://linkedin.com/company/intensedebate.com"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Fanbase",
+    "website": "https://fanbaseclub.com/",
+    "description": "Fanbase is a fan operating system built to connect people through sports. Sports Organisations outside the very top tier of sport (NFL, NBA, MLB) have small back office teams with large revenue profiles. They are spinning a lot of plates, covering multipl",
+    "location": "Edinburgh, Scotland, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/fanbase_clubs/",
+      "linkedin": "https://linkedin.com/company/fanbaseclubs",
+      "facebook": "https://facebook.com/FanbaseClub2020/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Unidentified Landed Object",
+    "website": "https://ulo.world/",
+    "description": "A no-code platform to easily create immersive experiences for mobile & SMS marketing - ulo.io. Founder previously @ Snap Inc.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ulo_world",
+      "linkedin": "https://linkedin.com/in/danivandesande",
+      "facebook": "https://facebook.com/UNIDENTIFIEDLANDEDOBJECT/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Grandstand",
+    "website": "https://grandstand.io/",
+    "description": "Grandstand is an AI-powered studio that helps athletes engage and monetize their fans by automatically tracking games and results, gathering relevant media, and generating prompts and highlights that make social media easy.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/grandstandinc"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Ovida",
+    "website": "https://ovida.io/",
+    "description": "Ovida is an AI-driven communication skills platform that helps people master critical workplace conversations through personalized feedback and skill development. By combining advanced AI analysis with expert-designed learning journeys, we enable organizations to develop their people's communication and leadership capabilities at scale - focusing on the human interactions that will remain essential in the AI era, while delivering results at a fraction of traditional training cost and time.",
+    "location": "Nottingham, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ovida-ai"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "NEKOD",
+    "website": "https://nekod.co/",
+    "description": "Governance and monitoring for end user computing (low-code/no-code)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nekod"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "BlackOakTV",
+    "website": "https://blackoak.tv/",
+    "description": "BlackOakTV is a subscription video-on-demand service focused on super-serving black viewers!",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/blackoaktv",
+      "linkedin": "https://linkedin.com/company/blackoaktv",
+      "facebook": "https://facebook.com/blackoaktv"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "OBEY",
+    "website": "https://obeyme.world/",
+    "description": "Helps micro-influencers monetize their following.",
+    "location": "London, United Kingdom",
+    "social_media": {},
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Confetti",
+    "website": "https://confetti.io/",
+    "description": "Confetti is the wedding app for the thoughtful couple -- we automate the guest experience so that couples can focus on celebrating their love with the people that they love.\n\nWe are building an event operating system that optimizes for connectivity between guests and hosts which enables effective communication and a more memorable guest experience that increases fun and gifting at the event.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/confetti-inc"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Stready",
+    "website": "https://stready.com/",
+    "description": "Stready is supercharging loyalty by enabling retailers and brands to encourage physical activity.\n\nTo view the company one-page summary click here - https://app.buildmemo.com/s/yxr~~w",
+    "location": "Trondheim, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/stready",
+      "facebook": "https://facebook.com/stready/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Shop Latinx",
+    "website": "https://shoplatinx.com/",
+    "description": "Shop Latinx is the leading fashion and beauty lifestyle marketplace with products designed by and for the Latinx community",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/shoplatinx",
+      "linkedin": "https://linkedin.com/company/shoplatinx",
+      "facebook": "https://facebook.com/ShopLatinx/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Cluster",
+    "website": "https://hello-cluster.com/",
+    "description": "AI driven customer acquisition on WhatsApp",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cluster-software"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "PerformVu",
+    "website": "https://performvu.com/",
+    "description": "PerformVu is the global hub for streaming impactful performance & video art from the world's top artists and art institutions",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/performvu"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Vlipsy",
+    "website": "https://vlipsy.com/",
+    "description": "The video clip search engine for expressive clips of content found on the internet and repurposed for digital communication.",
+    "location": "Canton, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vlipsyapp",
+      "linkedin": "https://linkedin.com/company/vlipsy",
+      "facebook": "https://facebook.com/vlipsy"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Awaaz",
+    "website": "https://awaaz.ai/",
+    "description": "Awaaz AI supercharges enterprise customer engagement through personalized conversational voice AI agents that understand local languages and contexts for the 3B customers in emerging markets, starting with India's financial services sector",
+    "location": "Mather, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/awaazai"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "INSPIRR",
+    "website": "https://inspirr.io/",
+    "description": "INSPIRR is a first-of-its-kind platform for investing in the future earnings, ventures and success of ambitious individuals.",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getinspirr",
+      "linkedin": "https://linkedin.com/company/91559040"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Skyglass",
+    "website": "https://skyglass.com/",
+    "description": "Hollywood effects for content creators",
+    "location": "Lyons, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/skyglassapp",
+      "linkedin": "https://linkedin.com/company/skyglass"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Conduit Virtual",
+    "website": "https://conduit.gg/",
+    "description": "The premium marketplace for the video game industry.\n\nWe want to help every game company find and transact with one another.\n\nTrack market movements and insights only on Conduit.",
+    "location": "Culver City, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/conduitgg"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Buildstash",
+    "website": "https://buildstash.com/",
+    "description": "The build-to-release manager app and game developers have been dreaming of. Automated build archival, simple sharing with your team, and seamless deployment.",
+    "location": "Glasgow, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/buildstash",
+      "linkedin": "https://linkedin.com/company/buildstash"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "SuperQuickQuestion",
+    "website": "https://superquickquestion.com/",
+    "description": "SuperQuickQuestion is a one-on-one video chat app with a 60-second time limit that works with Slack.",
+    "location": "Astoria, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/superquickquestion"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "TechRow",
+    "website": "https://techrow.org/",
+    "description": "Immersive learning experiences for all to enjoy.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kjwuydygbzpaf8b4por8",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/techrownyc",
+      "linkedin": "https://linkedin.com/company/tech-row",
+      "facebook": "https://facebook.com/techrownyc/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Spatial Guide",
+    "website": "https://spatial.guide/",
+    "description": "Mobile platform to create & distribute instruction manuals in augmented reality, to reduce usage friction for equipment users.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/g4en8ybvnrnma74poyrt",
+    "location": "Delaware, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/guideapp_",
+      "linkedin": "https://linkedin.com/company/spatial-guide",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "ReelCrafter",
+    "website": "https://reelcrafter.com/",
+    "description": "ReelCrafter helps connect audio creatives with the entertainment industry professionals who hire them.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ReelCrafter",
+      "linkedin": "https://linkedin.com/company/reelcrafter",
+      "facebook": "https://facebook.com/reelcrafter/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Malamute",
+    "website": "https://malamute.us/",
+    "description": "AI-layered industrial communication networks to empower workers with the right data at the right time",
+    "location": "Newport, Rhode Island, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MalamuteInc",
+      "linkedin": "https://linkedin.com/company/malamute"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Ahoi",
+    "website": "https://ahoimate.com/",
+    "description": "We're making the world a more accessible place",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ahoimate"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Smartsy",
+    "website": "https://smarsty.ai/",
+    "description": "Powered by AI, Smartsy enables resource-strapped small businesses to instantly create beautiful, on-brand social media graphics",
+    "location": "Miami, Florida, United States",
+    "social_media": {},
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Cloudoor",
+    "website": "https://cloudoor.com/",
+    "description": "For only $396/month, Cloudoor manages all your Cloud/DevOps needs, so you can concentrate on business growth and let developers code.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cloudoor"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Zinnia Technologies",
+    "website": "https://zinniatv.com/",
+    "description": "Life-enhancing videos that support and uplift people facing cognitive changes and dementia.",
+    "location": "Winnetka, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/zinnia-technologies-inc",
+      "facebook": "https://facebook.com/ZinniaTV"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Voike",
+    "website": "https://voike.com/",
+    "description": "Voike enables digital media in emerging markets by simulating an online experience for prepaid cellphone users without unlimited data. This targets 80-90% of users who are mostly disconnected, starting with music, and benefits both users and advertisers.",
+    "logo_url": "https://pbs.twimg.com/profile_images/636379800807018496/jhvXSul4_400x400.png",
+    "location": "Coral Gables, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/voike",
+      "linkedin": "https://linkedin.com/company/voike-inc",
+      "facebook": "https://facebook.com/voike.fans"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "TERAL",
+    "website": "https://teralmed.com/",
+    "description": "TERAL will be the largest repository of clinical cases in the world to solve challenging cases between health professionals at real time",
+    "location": "Medellín, Colombia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/teralmed",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Sigen AI",
+    "website": "https://sigen.ai/",
+    "description": "Sigen AI is a platform that helps companies monetize their video datasets by solving the problem of unusable video data due to privacy regulations.",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sigenai"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "aXumption",
+    "website": "https://axumption.com/",
+    "description": "Uncover cloud inefficiencies and optimize costs using architecture insights",
+    "location": "Bogotá, Colombia",
+    "social_media": {
+      "twitter": "https://twitter.com/axumption_",
+      "linkedin": "https://linkedin.com/company/axumption"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Astronome AI",
+    "website": "https://astronome.ai/",
+    "description": "Astronome AI is a company that provides streamlined IT management for SMEs, powered by AI.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lr8j5rsmiftw7l9qxsiw",
+    "location": "London, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/astronome"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Sports Vision",
+    "website": "https://sportsvision.ai/",
+    "description": "SportsVision turns raw video data into winning strategies. It is an easy-to-use AI platform that takes videos from a mobile phone, a basic camera, or even existing archives and transforms them into real-time, sports science-level insights. No fancy gear,",
+    "location": "Minneapolis, Minnesota, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sportsvision1"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Cup Carrier Media",
+    "website": "https://cupcarrier.meida/",
+    "description": "Cup Carrier Media provides handy advertising for better engagement. Providing 40x the engagement, Cup Carrier Media is changing sports sponsorships and out-of-home marketing with unique Portable Billboard(tm) drink carriers and a connected digital engagement",
+    "location": "Calgary, Alberta, Canada",
+    "social_media": {},
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Soleil Space",
+    "website": "https://soleilspace.com/",
+    "description": "Soleil Space - A new way to stream, together.",
+    "location": "Decatur, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/soleil-space"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Qlerify",
+    "website": "https://qlerify.com/",
+    "description": "Qlerify helps non-techies to easily turn their domain knowledge into visual specifications in a format that software developers love",
+    "location": "Stockholm, Sweden",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/qlerify"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Moonai",
+    "website": "https://moonai.app/",
+    "description": "Neuroscience science-based & personalised sounds app to alleviate period pain & enhance cognitive functions",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/moonaiapp",
+      "linkedin": "https://linkedin.com/company/moonaiapp",
+      "facebook": "https://facebook.com/moonaiapp/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Introwise",
+    "website": "https://introwise.com/",
+    "description": "Making it easy for everyday experts to offer coaching and advice online.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/introwise",
+      "linkedin": "https://linkedin.com/company/introwise",
+      "facebook": "https://facebook.com/introwise/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "GoodAction",
+    "website": "https://goodaction.com/",
+    "description": "GoodAction offers an AI-powered platform that helps corporations and nonprofits track, measure, and report social responsibility initiatives. It solves the problem of aligning CSR/ESG efforts with SDGs, simplifies complex reporting, and enhances stakeholder engagement. The platform provides precise impact metrics, clear reports, and tools for boosting participation, making social initiatives more transparent, efficient, and impactful.",
+    "logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/w2qbj5lziodgvkccf70k",
+    "location": "Lawrenceville, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/good-action"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Eat Sleep RIDE",
+    "website": "https://eatsleepride.com/",
+    "description": "EatSleepRIDE Motorcycle GPS is the best tracking, social + safety app for motorcycle riders.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/EatSleepRide",
+      "linkedin": "https://linkedin.com/company/eatsleepride",
+      "facebook": "https://facebook.com/ESR.cc"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Virtual Tables",
+    "website": "https://virtualtables.com/",
+    "description": "Virtual Tables is a virtual events solutions company, offering services and products to elevate all events into the virtual space. DigiSign is one of the virtual engagement products created and powered by Virtual Tables.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/VRTLlive",
+      "linkedin": "https://linkedin.com/company/virtual-tables"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Vesta",
+    "website": "https://eventvesta.com/",
+    "description": "Vesta is an Event Management Platform that connects communities through events.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xquhfzddpnuepvv2qooq",
+    "location": "Ralston, Nebraska, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/eventvesta",
+      "linkedin": "https://linkedin.com/company/eventvesta",
+      "facebook": "https://facebook.com/pg/eventvesta/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "TicketRev",
+    "website": "https://ticketrev.com/",
+    "description": "Reverse marketplace for event tickets, buyers create bids on events, enabling sellers to accept a bid and sell their tickets instantly.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pe0tucmvljrtkttf49tl",
+    "location": "Boca Raton, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ticketrev",
+      "linkedin": "https://linkedin.com/company/ticketrev",
+      "facebook": "https://facebook.com/ticketrev"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "MOWIES",
+    "website": "https://mowies.com/",
+    "description": "Mowies is a film and TV shows marketplace for filmmakers, distributors, and consumers, empowering creators to sell directly to their customers.",
+    "location": "Medellín, Colombia",
+    "social_media": {
+      "twitter": "https://twitter.com/mowiesinc",
+      "linkedin": "https://linkedin.com/company/mowies",
+      "facebook": "https://facebook.com/Letsmowies"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Heloola",
+    "website": "https://heloola.com/",
+    "description": "Heloola is a subscription-based digital book club which enriches the reading experience delivering exclusive content from best-selling authors and making room for human interaction.",
+    "location": "Milan, Milan, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/company/heloola",
+      "facebook": "https://facebook.com/heloola.bookclub"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Flustr",
+    "website": "https://flustr.com/",
+    "description": "A mobile platform for users to compete with friends in a live, short-form video game where spectators control the outcome.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vfrngpleg1xqw2ifbdj7",
+    "location": "Inglewood, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/uvsfriends",
+      "linkedin": "https://linkedin.com/company/flustr",
+      "facebook": "https://facebook.com/flvstr"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "ByteNite",
+    "website": "https://bytenite.com/",
+    "description": "ByteNite empowers busy developer teams with a fully-managed serverless container platform, streamlining cloud infrastructure to save 50% in time and cost. Our solution accelerates processes across AI inference, ETL, and more, enhancing performance and efficiency.",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bytenite2",
+      "linkedin": "https://linkedin.com/company/bytenite",
+      "facebook": "https://facebook.com/bytenite2"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Biiah",
+    "website": "https://biiah.com/",
+    "description": "Biiah empowers people to reclaim their singing voice as a source of wellbeing through their app and associated virtual and in person singing sessions.",
+    "location": "Wembley, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/tchzant",
+      "linkedin": "https://linkedin.com/company/choral-hub",
+      "facebook": "https://facebook.com/tchzant/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Undesert Corporation",
+    "website": "https://undesert.com/",
+    "description": "Undesert is produce electrical power, deionized water, and dry salt with no liquid waste - Zero Liquid Discharge (ZLD).",
+    "location": "Los Alamos, New Mexico, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/undesert"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Shutterspeed",
+    "website": "https://shutterspeed.io/",
+    "description": "Creativity driven by data",
+    "location": "Auckland, New Zealand",
+    "social_media": {
+      "twitter": "https://twitter.com/shutterspeed",
+      "linkedin": "https://linkedin.com/company/shutterspeedio"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Groopie",
+    "website": "https://joingroopie.com/",
+    "description": "Female Startup Club is a modern media company and platform dedicated to empowering professional women with the tools, resources, and community they need to build financial security and achieve economic independence. With our innovative data engine driving insights and product development, we connect and inspire women globally to take control of their financial futures, creating a world where every woman can thrive on her own terms.",
+    "location": "Bronte, New South Wales, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/female-startup-club"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Mithril Technologies",
+    "website": "https://mithril.space/",
+    "description": "Creates re-shapeable mesh antennas \r\nfor weather monitoring and SDA satellites\r\nin GEO",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mithril-technologies-inc"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Tuva",
+    "website": "https://tuvalabs.com/",
+    "description": "Building for a data literate future. Making data exploration, analysis, visualization, and interpretation human and accessible to all.",
+    "location": "Claymont, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tuvalabs",
+      "linkedin": "https://linkedin.com/company/tuvalabs",
+      "facebook": "https://facebook.com/TuvaLabs"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Sonnet",
+    "website": "https://sonnetai.com/",
+    "description": "Sonnet is a tailored sales outreach copilot that creates hundreds of well-researched and human-sounding sales emails.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/n5o9xx6k238s6dyoef5k",
+    "location": "Dublin, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sonnetai"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Generation Environment",
+    "website": "https://generationenvironment.com/",
+    "description": "Generation Environment is a micro-philanthropy app that supports climate solutions and biodiversity protection.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/dt3celaaogikkz1k0wn8",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/generationenvironment",
+      "facebook": "https://facebook.com/WeAreAllGenE"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "OfSpectrum",
+    "website": "https://ofspectrum.com/",
+    "description": "We provide comprehensive voice security and ethical AI solutions in four aspects",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ofspectrum"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Stride Racing",
+    "website": "https://app.strideracing.io/",
+    "description": "Stride Racing is a platform that enables fans to purchase elite racehorses. Similar to Angelist, investors can research, buy, manage and watch their portfolios of syndicated thoroughbreds at a fraction of the traditional ownership cost.",
+    "location": "Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/tsyndicates",
+      "linkedin": "https://linkedin.com/in/johne-murphy",
+      "facebook": "https://facebook.com/@tsyndicates"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Plate",
+    "website": "https://plate.social/",
+    "description": "Social marketplace for influencer recipes.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/plate-social"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "anthym",
+    "website": "https://anthym.life/",
+    "description": "The most badass connection platform on the planet.",
+    "location": "Phoenix, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getanthym",
+      "linkedin": "https://linkedin.com/company/getanthym",
+      "facebook": "https://facebook.com/getanthym"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Krak",
+    "website": "https://skatekrak.com/",
+    "description": "KRAK is a social and e-commerce platform for rebellious sports",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/skatekrak",
+      "linkedin": "https://linkedin.com/company/indy-trackers",
+      "facebook": "https://facebook.com/pg/Krakdk/about/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Beatpulse",
+    "website": "https://beatpulselabs.com/",
+    "description": "Ethical Data Provision for Generative Music and Audio Models",
+    "location": "Hamburg, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/68149994"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "RIPA AI",
+    "website": "https://oriongeo.com/",
+    "description": "Geopolitical Risk, Predicted.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/orion-geo"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Ekos",
+    "website": "https://ekos.ai/",
+    "description": "EKOS.AI is an all-in-one engagement platform built for hybrid communities.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ekos_ai",
+      "linkedin": "https://linkedin.com/company/ekosai",
+      "facebook": "https://facebook.com/ekosbrewmaster"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Between",
+    "website": "https://between.co/",
+    "description": "Call from Anywhere, Sound like You're in the Room",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/betweenco"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Amherst Intelligent Security",
+    "website": "https://amherstintelligentsecurity.com/",
+    "description": "Security with a Single Sign On.",
+    "location": "Belchertown, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/amherstintelligentsecurity",
+      "facebook": "https://facebook.com/AmherstIntellScc"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Split EV",
+    "website": "https://splitev.co/",
+    "description": "We're building the nation's largest electric vehicle charging network.",
+    "location": "Newark, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SplitEv",
+      "linkedin": "https://linkedin.com/company/81954408"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "MeetFox",
+    "website": "https://meetfox.com/",
+    "description": "MeetFox empowers professionals to digitize, manage and monetize interactions with their clients.",
+    "location": "Vienna, Austria",
+    "social_media": {
+      "twitter": "https://twitter.com/myMeetFox",
+      "linkedin": "https://linkedin.com/company/meetfox",
+      "facebook": "https://facebook.com/mymeetfox"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "TruLeague",
+    "website": "https://truleague.com/",
+    "description": "Digitize Your Ambassador Program to Engage Prospects and Increase Enrollment Yield",
+    "location": "Newton, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/truleague"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Qoncert",
+    "website": "https://qoncertapp.com/",
+    "description": "We are an artist accelerator that gives the world the best experience in live independent music.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/aubl2hbnr5rwssxvjuen",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/qoncertapp",
+      "linkedin": "https://linkedin.com/company/qoncertapp",
+      "facebook": "https://facebook.com/qoncertapp"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Pardon",
+    "website": "https://pardon-app.com/",
+    "description": "Boosting sales of Restaurants&Hotels and hospitality brands with AI.",
+    "location": "Istanbul, Istanbul, Turkey",
+    "social_media": {
+      "twitter": "https://twitter.com/Pardon_tr",
+      "linkedin": "https://linkedin.com/company/pardonapp",
+      "facebook": "https://facebook.com/pardonturkey/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "OutAt",
+    "website": "https://outatinc.com/",
+    "description": "OutAt brings communities together through events & streaming while modernizing entertainment by focusing on diversity, education, & family-friendly fun.",
+    "location": "Escondido, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/outatinc",
+      "facebook": "https://facebook.com/outatthefair"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Kabila",
+    "website": "https://joinkabila.com/",
+    "description": "Kabila is an inclusive co-founder matching app & global community for tech startup founders.",
+    "location": "Alpharetta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/joinkabila",
+      "linkedin": "https://linkedin.com/company/joinkabila"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Impact AI",
+    "website": "https://impact.ai/",
+    "description": "Impact AI offers a modular AIProductOps platform that empowers teams to efficiently manage, govern, and align their AI products, ensuring they deliver maximum impact.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/impact-ai-ecosystem"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Combat IQ",
+    "website": "https://combatiq.io/",
+    "description": "The world's first Computer Vision powered analytics company dedicated to Combat Sports",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hemk4o3cg9ex06nonylp",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/combat-iq",
+      "facebook": "https://facebook.com/combatiq"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Playeasy",
+    "website": "https://playeasy.com/",
+    "description": "Playeasy is an online platform that matches people looking for places to play with athletic facilities in their area.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/playeasysports",
+      "linkedin": "https://linkedin.com/company/playeasysports",
+      "facebook": "https://facebook.com/playeasysports/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "tychon",
+    "website": "https://tychon.app/",
+    "description": "Web-Based SaaS Platform for Micro-Influencers and Brands to meet and collaborate",
+    "location": "Tacarigua, Trinidad and Tobago",
+    "social_media": {
+      "twitter": "https://twitter.com/TychonApp",
+      "linkedin": "https://linkedin.com/company/tychonapp",
+      "facebook": "https://facebook.com/TychonApp/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "ReviewTailor",
+    "website": "https://reviewtailor.com/",
+    "description": "ReviewTailor is an HR performance management solution that streamlines the process, transforming performance reviews into a true employee engagement tool.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tryreviewtailor",
+      "linkedin": "https://linkedin.com/company/reviewtailor"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Retavo",
+    "website": "https://assistt.com/",
+    "description": "SaaS-based white-label peer-to-eer multi-vendor marketplace platform",
+    "location": "Winter Park, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AssisttApp",
+      "linkedin": "https://linkedin.com/company/retavo",
+      "facebook": "https://facebook.com/AssisttApp"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Porthos & Co",
+    "website": "https://porthos.co/",
+    "description": "Porthos & Co does bespoke finance for the entrepreneurial by digitally assembling a full range of data from open banking to property and private shares and so prove affordability and suitability at scale. We are the only UK business that can achieve this.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/porthos_co",
+      "linkedin": "https://linkedin.com/company/porthos-co",
+      "facebook": "https://facebook.com/porthosco"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Monsapo",
+    "website": "https://monsapo.com/",
+    "description": "Monsapo manufactures and supplies cleaning products.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pjereuanfe8yr76uxpjb",
+    "location": "PARIS 8, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/monsapo"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Demtec",
+    "website": "https://dem-tec.com/",
+    "description": "Talking on the phone wastes time. We can fix that.",
+    "location": "State College, Pennsylvania, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/democracytec"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "ALIVE Podcast Network",
+    "website": "https://alivepodcastnetwork.com/",
+    "description": "The ALIVE Podcast Network is designed with the black creative and receiver at the heart of the platform.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/alivepodcastapp",
+      "linkedin": "https://linkedin.com/company/alivepodcastapp",
+      "facebook": "https://facebook.com/alivepodcastapp"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "StoryXpress",
+    "website": "https://storyxpress.co/",
+    "description": "Create, host and track videos at scale.",
+    "location": "Roselle, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/StoryXpress",
+      "linkedin": "https://linkedin.com/company/storyxpress",
+      "facebook": "https://facebook.com/StoryXpress"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Third Design",
+    "website": "https://third.design/",
+    "description": "Third Design makes it easy for anyone to create professional 3D designs.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/thirddesign"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "The Stands",
+    "website": "https://thestands.io/",
+    "description": "TheStands is an interactive rewards and community platform for global fans to engage with their favourite soccer teams",
+    "location": "San Francisco, California, United States",
+    "social_media": {},
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Palmly",
+    "website": "https://getpalmly.com/",
+    "description": "The mobile platform where people build community and grow in faith together",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PalmlyApp",
+      "linkedin": "https://linkedin.com/company/palmly-christian-social-network",
+      "facebook": "https://facebook.com/palmlyapp/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "OpenAxis",
+    "website": "https://openaxis.com/",
+    "description": "Visualize, share, and collaborate with data to tell stories.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/openaxishq",
+      "linkedin": "https://linkedin.com/company/openaxisinc"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Ganymede Games",
+    "website": "https://ganymede.games/",
+    "description": "For adult gamers with busy lives, Ganymede builds bite-sized episodic games.",
+    "location": "Las Cruces, New Mexico, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ganymede_games",
+      "linkedin": "https://linkedin.com/company/ganymede-games",
+      "facebook": "https://facebook.com/ganymedegames/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "The Highlights App",
+    "website": "https://thehighlightsapp.com/",
+    "description": "Catch the best moments",
+    "location": "Aventura, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/the-highlights-app"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Bebop - Audio Messaging",
+    "website": "https://joinbebop.com/",
+    "description": "A voice-only mobile app for creating, sharing and storing your most precious voice messages and to connect with your family and your closest friends.",
+    "location": "Helsinki, Finland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bebopaudiomessaging"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Samaria",
+    "website": "https://samaria.co.jp/",
+    "description": "Unleashes the potential of Japanese manga to the world with AI",
+    "location": "Toshima City, Japan",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/yukoyamasaki"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "AfroLandTV",
+    "website": "https://afrolandtv.com/",
+    "description": "AfroLandTV is a free online streaming service for afro-centric TV shows and movies from Africa and its diaspora.",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/afrolandtv",
+      "linkedin": "https://linkedin.com/company/AfroLandTV",
+      "facebook": "https://facebook.com/afrolandtv/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "VideoDraft",
+    "website": "https://videodraft.ai/",
+    "description": "Personal AI Agents for Pre-Production",
+    "location": "Fremont, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/videodraft"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "PopViewers",
+    "website": "https://popviewers.com/",
+    "description": "Popviewers is a technology startup that aims to amplify diverse entertainment audiences. They are democratizing the TV and movie review process and plan to soon become a sentiment analytics and marketing resource for theater chains, studios, networks...",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/popviewers",
+      "linkedin": "https://linkedin.com/company/popviewers",
+      "facebook": "https://facebook.com/popviewers"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Munivestor",
+    "website": "https://munivestor.io/",
+    "description": "Munivestor is a digital securities marketplace created for the purpose of helping cities cultivate and execute Municipal Non-Fungible Tokens (\"Muni NFTs\").",
+    "location": "New Orleans, Louisiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Munivestor_",
+      "linkedin": "https://linkedin.com/company/munivestor",
+      "facebook": "https://facebook.com/Munivestor"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Legends",
+    "website": "https://livemylegend.com/",
+    "description": "Legends transforms phone and photo data into actionable consumer insights to help brands personalize.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/livemylegends",
+      "linkedin": "https://linkedin.com/company/livemylegend",
+      "facebook": "https://facebook.com/livemylegend11/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "dev-docs",
+    "website": "https://dev-docs.dev/",
+    "description": "A developer-first approach to documentation",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/a",
+      "linkedin": "https://linkedin.com/company/devdocs",
+      "facebook": "https://facebook.com/na"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Localize",
+    "website": "https://localizejs.com/",
+    "description": "Translate a website with one line of code",
+    "location": "Kingston, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/localizejs",
+      "linkedin": "https://linkedin.com/company/localizecorp",
+      "facebook": "https://facebook.com/localizejs"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Pubble",
+    "website": "https://pubble.io/",
+    "description": "A community engagement platform that brings the social web to any site",
+    "location": "Mountain View, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pubbleio",
+      "linkedin": "https://linkedin.com/company/pubble-co",
+      "facebook": "https://facebook.com/pubbleio"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Lightboard",
+    "website": "https://lightboarding.com/",
+    "description": "Design on demand for marketing and sales departments, starting at $75/hr.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lightboarding",
+      "linkedin": "https://linkedin.com/company/lightboarding",
+      "facebook": "https://facebook.com/lightboarding/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Fairwaves",
+    "website": "https://fairwaves.co/",
+    "description": "We're reinventing mobile networks for those who need them the most",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fairwaves",
+      "linkedin": "https://linkedin.com/company/998442",
+      "facebook": "https://facebook.com/fairwavesco/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "SWERVE Fitness",
+    "website": "https://swervefitness.com/",
+    "description": "Swerve is the first boutique fitness studio to livestream its experience into gyms and studios around the world. Swerve is also the first concept to feature location vs. location competition.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SWERVE_Fitness",
+      "linkedin": "https://linkedin.com/company/swerve-fitness",
+      "facebook": "https://facebook.com/swervefit"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Work Simplr",
+    "website": "https://worksimplr.com/",
+    "description": "Software platform to place and manage vetted, qualified students to paid short-term, remote entry level work.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/upskls",
+      "linkedin": "https://linkedin.com/company/worksimplr",
+      "facebook": "https://facebook.com/Worksimplr/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Socian Technologies",
+    "website": "https://socian.io/",
+    "description": "Autonomous drone systems that serve as the ultimate accountability tool for safer community policing.",
+    "location": "Glenwood, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/socian-technologies"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Reflekt Me",
+    "website": "https://reflektme.com/",
+    "description": "A B2B SaaS platform enabling beauty and fashion brands to monetize their user and employee generated content by curating and displaying images that reflect untapped online communities, resulting in a 1% top-line revenue increase for large brands.",
+    "location": "Sandy Springs, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/reflektme",
+      "linkedin": "https://linkedin.com/company/reflekt-me",
+      "facebook": "https://facebook.com/reflektme/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Peadbo",
+    "website": "https://peadbo.com/",
+    "description": "Peadbo is an advisory board management tool, but for individuals rather than businesses.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getpeadbo",
+      "linkedin": "https://linkedin.com/company/peadbo",
+      "facebook": "https://facebook.com/getpeadbo"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Parallux",
+    "website": "https://parallux.co/",
+    "description": "Parallux makes it easy for brands and creators to design, build, and host 3D virtual spaces in the metaverse.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/9c74999fc0acb0c49199",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/paralluxco",
+      "linkedin": "https://linkedin.com/company/parallux",
+      "facebook": "https://facebook.com/parallux/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Opnr",
+    "website": "https://opnrmusic.com/",
+    "description": "Opnr is a cloud-based application that connects musicians with concert organizers offering opener performance opportunities.",
+    "location": "Grand Rapids, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/opnrmusic",
+      "linkedin": "https://linkedin.com/company/opnrmusic",
+      "facebook": "https://facebook.com/opnrmusic"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Imaginario",
+    "website": "https://imaginario.ai/",
+    "description": "Imaginario is an AI-powered platform and API that identifies specific moments in video and audio in seconds, allowing content marketers and creators to discover, find, and clip content faster.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kr3yfby5i9nseeliudjz",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/imaginario2030",
+      "linkedin": "https://linkedin.com/company/imaginario-ai"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Gift Nabü",
+    "website": "https://giftnabu.com/",
+    "description": "A gift registry for kids where friends and family come together to gift activities and experiences instead of toys and stuff.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nabulife",
+      "linkedin": "https://linkedin.com/company/giftnabu",
+      "facebook": "https://facebook.com/gift.nabu1"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Foto Visura",
+    "website": "https://visura.co/",
+    "description": "Visura is a marketplace for publishers to license visual content from freelancers.",
+    "location": "Stowe, Vermont, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/visuramedia",
+      "linkedin": "https://linkedin.com/company/visura-media",
+      "facebook": "https://facebook.com/visura.co/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Collectiv",
+    "website": "https://collectiv.tv/",
+    "description": "Collectiv.TV's platform helps creators and content owners to distribute and monetize their content on free ad-supported streaming TV (FAST).",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lfel1ju8lxkqvhi8zytl",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/collectivtv",
+      "linkedin": "https://linkedin.com/company/collectivtv",
+      "facebook": "https://facebook.com/people/CollectivTV/100083325939719/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Apparier",
+    "website": "https://apparier.com/",
+    "description": "Our software solution allows the restaurant team to sell their best products, when they want, through our product management system.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/myapparier",
+      "linkedin": "https://linkedin.com/company/apparier"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Virtkick",
+    "website": "https://virtkick.com/",
+    "description": "Giving independent hosting companies the tools they need to compete with big cloud providers",
+    "location": "San Antonio, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/virtkick",
+      "linkedin": "https://linkedin.com/company/virtkick-inc-",
+      "facebook": "https://facebook.com/virtkick"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Two to Tango",
+    "website": "https://twototango.co/",
+    "description": "A borderless business networking platform that transforms connections and opportunities into real deals for everyone.",
+    "location": "Bogotá, Colombia",
+    "social_media": {
+      "twitter": "https://twitter.com/twototangomatch",
+      "linkedin": "https://linkedin.com/company/tttnetworking",
+      "facebook": "https://facebook.com/twoto.tango.54"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "The LO",
+    "website": "https://wearethelo.com/",
+    "description": "A private, membership-based network connecting LGBTQ women to friendships and community near them.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/whvfgdwolpcx93scwoow",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/the-lo"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Pibox",
+    "website": "https://pibox.com/",
+    "description": "Pibox- is an all-in-one collaboration platform for creative content producers.",
+    "location": "Helsinki, Finland",
+    "social_media": {
+      "twitter": "https://twitter.com/piboxapp",
+      "linkedin": "https://linkedin.com/company/piboxapp",
+      "facebook": "https://facebook.com/piboxcom/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Curastory",
+    "website": "https://curastory.co/",
+    "description": "Curastory allows creators to shoot and edit high-quality video, monetize shows, and distribute to all of their video channels, 100% free.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CurastoryUS",
+      "linkedin": "https://linkedin.com/company/curastory",
+      "facebook": "https://facebook.com/curastory"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Chroma Signet",
+    "website": "https://chromasignet.com/",
+    "description": "Chroma Signet is a new crypto-native barcode that connects to an open source supply chain provenance platform.",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/chromasignet",
+      "linkedin": "https://linkedin.com/company/chroma-games",
+      "facebook": "https://facebook.com/chromafund/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Branch Politics",
+    "website": "https://branch.vote/",
+    "description": "Website that walks you through the elections and candidates in your area. We break down who the candidates are, what they believe, and why it matters, so you can quickly and confidently vote for who aligns with your values.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/znysaai5wbi20foelvzc",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/branchpolitics",
+      "linkedin": "https://linkedin.com/company/branchpolitics",
+      "facebook": "https://facebook.com/branchpolitics"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Bloominous",
+    "website": "https://bloominous.com/",
+    "description": "The largest and fastest growing wedding floral brand in the United States!",
+    "location": "Monterey Park, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bloominous",
+      "linkedin": "https://linkedin.com/company/bloominous",
+      "facebook": "https://facebook.com/Bloominous/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Ranked® Media & Technologies",
+    "website": "https://ranked.technology/",
+    "description": "We connect Brands to Creators, unlocking potential and amplifying authenticity.",
+    "location": "Sherman Oaks, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Rankedmediatech",
+      "linkedin": "https://linkedin.com/company/18629907"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "mokSa AI",
+    "website": "https://moksa.ai/",
+    "description": "mokSa.ai is an AI-powered video surveillance and audit platform that enhances small business security and efficiency.",
+    "location": "Sterling Heights, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MoksaAi",
+      "linkedin": "https://linkedin.com/company/moksa-ai",
+      "facebook": "https://facebook.com/mokSa2021"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Laundr",
+    "website": "https://laundr.io/",
+    "description": "Laundr is an on-demand laundry app that will pick up, wash, fold, and deliver your clothing within 24 hours.",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LaundrioApp",
+      "linkedin": "https://linkedin.com/company/laundrllc",
+      "facebook": "https://facebook.com/pages/Laundrio/377232182428401"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Inpathy",
+    "website": "https://inpathy.co/",
+    "description": "Inpathy is a social app creating empathetic communities through transparency, normalizing moods, and recreating the human experience.",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Inpathyapp",
+      "linkedin": "https://linkedin.com/company/inpathy",
+      "facebook": "https://facebook.com/inpathy/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Hipclip",
+    "website": "https://hipclip.ai/",
+    "description": "Create amazing content with ease using Hipclip, the ultimate editing platform for creators, startups, and agencies. Our text-based editing feature allows you to easily manipulate your media files",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/usehipclip",
+      "linkedin": "https://linkedin.com/company/77760449"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Destined AI",
+    "website": "https://destined.ai/",
+    "description": "Destined AI helps companies detect and mitigate unwanted bias in AI.",
+    "location": "Lawrenceville, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/destinedai",
+      "linkedin": "https://linkedin.com/company/destined-ai",
+      "facebook": "https://facebook.com/pg/DiversityStock/about/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Ceemo",
+    "website": "https://perfectlypitched.co/",
+    "description": "At Perfectly Pitched, we're automating our pitch methods that break past bias & get founders funded, raising $10m in the past year.",
+    "location": "Sterling, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PitchedDC",
+      "linkedin": "https://linkedin.com/company/perfectlypitched"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Bling",
+    "website": "https://bling.cloud/",
+    "description": "We are building the future of communications - a central communications platform that allows business owners of all sizes  to have a single place for an omnichannel communication with their clients and customers.",
+    "location": "San Jose, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/blingcloud",
+      "facebook": "https://facebook.com/bling.cloud"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Aurgin",
+    "website": "https://aurgin.com/",
+    "description": "Aurgin automates publishing registration filings to 200+ royalty collection databases worldwide for music companies so they can collect publishing royalties without extensive staffing",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {},
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Thryft Ship",
+    "website": "https://thryftship.com/",
+    "description": "We built Thryft Ship to simplify selling, order management, and fulfillment for small businesses in the $90B social media commerce space--where sellers rely on DMs, spreadsheets, and manual workflows to run their operations. Thryft automates order capture, eliminates the need to copy/paste addresses, and streamlines shipping--all in one platform.",
+    "location": "Johns Creek, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/thryftship"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "ProsumerGrid",
+    "website": "https://prosumergrid.com/",
+    "description": "Software for optimal planning, forecasting, and impact assessment of distributed energy resources",
+    "location": "Brookhaven, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/santiago-grijalva-556b8216"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "PodLand Media",
+    "website": "https://podland.co/",
+    "description": "Unbiased news outlet in the front.  B2B A.I. platform for policy advisors and consultants shops in the back. Think Bloomberg for lobbyists.",
+    "location": "Sherman Oaks, California, United States",
+    "social_media": {},
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "LifeWeb 360",
+    "website": "https://lifeweb360.com/",
+    "description": "A unique digital space to honor those important in our lives in a way authentic to them.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lifeweb360",
+      "linkedin": "https://linkedin.com/company/lifeweb360",
+      "facebook": "https://facebook.com/lifeweb360"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Cicada",
+    "website": "https://cicadamusic.net/",
+    "description": "Cicada helps musicians make more money from live gigs.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cicadamusic"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Tressed DBA The Weave Outlet",
+    "website": "https://tressed.com/",
+    "description": "The Weave Outlet specialize in providing the best virgin premium hair for the best wholesale prices on the market",
+    "location": "Midland, Georgia, United States",
+    "social_media": {},
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "GETELEVENAPP",
+    "website": "https://getelevenapp.com/",
+    "description": "Let's crank 1:1s to eleven!",
+    "location": "White Bear Lake, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/yoursecondcall",
+      "linkedin": "https://linkedin.com/company/getelevenapp",
+      "facebook": "https://facebook.com/yoursecondcall/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "ezWiFi",
+    "website": "https://ezwi.fi/",
+    "description": "WiFi platform providing an extra source of monetary income whenever customers connect to their network and view an advertisement.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/sxjk9ucrjmnyorokp6fv",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ezwifitech"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Hack Latino",
+    "website": "https://hacklatino.com/",
+    "description": "First Latino American Dream Guide App",
+    "location": "Cumming, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hack-latino"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "freeWriter",
+    "website": "https://freewrtr.com/",
+    "description": "Ai-guided, gamified writing muse for novice writers and story tellers.",
+    "location": "Grand Rapids, Michigan, United States",
+    "social_media": {},
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Instant Car Fix",
+    "website": "https://instantcarfix.com/",
+    "description": "Instant Car Fix is an online platform for car & fleet owners providing mobile auto repair services at their home or office.",
+    "location": "Ashburn, Virginia, United States",
+    "social_media": {
+      "facebook": "https://facebook.com/InstantCarFix"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Hilltop",
+    "website": "https://hilltop-app.com/",
+    "description": "Hilltop is the first AI-powered tool giving voters direct access to Capitol Hill",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {},
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Switch",
+    "website": "https://myswitchapp.com/",
+    "description": "Switch encourages users to make impactful and intentional connections that transcend the swipe culture of modern love.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/switch_app_%20(same%20on%20Instagram)",
+      "linkedin": "https://linkedin.com/company/myswitchapp"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Konvas AI",
+    "website": "https://konvas.ai/",
+    "description": "We are building global AI agents for e-commerce brands to help automate marketing, improve decision-making, and grow sales.",
+    "location": "Hutto, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/konvas-ai"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Honey to Cocoa",
+    "website": "https://honeytococoa.com/",
+    "description": "Leveraging AI to help people of color match makeup to their unique skin tones",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/honeytococoa"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Aayats",
+    "website": "https://aayats.com/",
+    "description": "Aayats is a ai-powered marketplace that connects recording-artists with music industry professionals streamlining the music production process. We do this with a proprietary ai-model that personalizes and speeds-up the shopping experience 10x.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/sbq9vm7gwkfhblnjkycv",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/aayats"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Social Champ",
+    "website": "https://socialchamp.io/",
+    "description": "The next generation's simplest social media management tool, helping users to publish, analyze content, and engage with their audience - all from one place!",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1494409411/u77bf8isdbyaa3kpztwc.png",
+    "location": "Karachi, Pakistan",
+    "social_media": {
+      "twitter": "https://twitter.com/socialchampsays",
+      "linkedin": "https://linkedin.com/company/social-champ",
+      "facebook": "https://facebook.com/socialchampio"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Simpu",
+    "website": "https://simpu.co/",
+    "description": "Build better experiences for your customers.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gj5y3kstsrmpq3udfuuy",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/simpuinc",
+      "linkedin": "https://linkedin.com/company/simpu-inc",
+      "facebook": "https://facebook.com/SimpuHq"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "LaborHack",
+    "website": "https://laborhack.com/",
+    "description": "LaborHack is a captive marketplace connecting artisans to certifications and jobs as well as laddered services including payments, savings, micro credit, and micro health insurance",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/Laborhack_ng",
+      "linkedin": "https://linkedin.com/company/laborhack-limited",
+      "facebook": "https://facebook.com/laborhackng"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "ChipedIn",
+    "website": "https://chipedin.com/",
+    "description": "Our platform provides an innovative solution by combining crowdfunding and personal shopper services. We enable communities to pool their contributions towards desired, high-value gifts, effectively minimizing returns and elevating the gifting experience.",
+    "location": "New York City, New York, United States",
+    "social_media": {},
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Ubi Interactive",
+    "website": "https://ubi-interactive.com/",
+    "description": "Plug and play: ubiEngine - a software that turns any surface into 3D multi-touch screen",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ubi_interactive",
+      "linkedin": "https://linkedin.com/company/ubi-interactive",
+      "facebook": "https://facebook.com/pages/ubi-interactive/113596875388581"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "rfrd",
+    "website": "https://rfrd.io/",
+    "description": "Self-service tools and studio quality production to create authentic customer videos that generate leads, win deals, and expand opportunities",
+    "location": "Middletown, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rfrdio",
+      "linkedin": "https://linkedin.com/company/rfrd"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Ovv",
+    "website": "https://ovvio.io/",
+    "description": "Productivity solution for professional services firms.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/Ovvio_io",
+      "linkedin": "https://linkedin.com/company/ovvio-io",
+      "facebook": "https://facebook.com/ovvio.io/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Parsed",
+    "website": "https://parsedco.com/",
+    "description": "SaaS collaborative workspace to create AI-autonomous-agents applications with your company's data and team.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rrzg5oz5yu748yyd2q4a",
+    "location": "Lewes, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/parsedco"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Druid Learning",
+    "website": "https://druidlearning.com/",
+    "description": "Bridging the gap between a publishers content and the use of that content in AI.",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/ltdDruid",
+      "linkedin": "https://linkedin.com/company/druid-learning-limited"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Capoom",
+    "website": "https://capoom.com/",
+    "description": "Capoom is a software company developing AI based automatic 3d modeling software.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/irk4bkrls8rlqrqwd7ci",
+    "location": "Ann Arbor, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/capoom"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "GoChime",
+    "website": "https://gochime.com/",
+    "description": "ESP/CRM Retargeting on Facebook, Twitter and more",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gochime",
+      "linkedin": "https://linkedin.com/company/gochime",
+      "facebook": "https://facebook.com/GoChime"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Creator Loop",
+    "website": "https://node-app.com/",
+    "description": "Influencer marketing in 3 clicks.",
+    "location": "Markham, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/nodeinfluencers",
+      "linkedin": "https://linkedin.com/company/node-app",
+      "facebook": "https://facebook.com/node.influencers/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Creativo",
+    "website": "https://creativo.ai/",
+    "description": "Creativo is a revolutionary AI that replaces your entire marketing department. Our platform crafts compelling campaigns, optimizes engagement, and delivers data-driven results--without the overhead of a traditional team. Scale rapidly, cut costs, and outperform competitors with intelligent automation that handles everything from creative content to analytics. Welcome to the future of marketing.",
+    "location": "Tulsa, Oklahoma, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/creativo-ai"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Thinkfuse",
+    "website": "https://thinkfuse.com/",
+    "description": "Share your progress",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thinkfuse",
+      "linkedin": "https://linkedin.com/company/thinkfuse",
+      "facebook": "https://facebook.com/thinkfuse"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Marquee",
+    "website": "https://marquee.by/",
+    "description": "Ridiculously simple publishing",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/marquee",
+      "linkedin": "https://linkedin.com/company/marquee.studio",
+      "facebook": "https://facebook.com/getmarquee"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Sqord",
+    "website": "https://sqord.com/",
+    "description": "A fun social platform that inspires kids to be active during everyday play",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Sqord_Inc",
+      "linkedin": "https://linkedin.com/company/sqord-inc-",
+      "facebook": "https://facebook.com/sqord"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Uvize",
+    "website": "https://uvize.com/",
+    "description": "Mentorship. Unleashed.",
+    "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/30626-19ab550ca321ebb8fd2e70dd9c2971fa-medium_jpg.jpg?buster=1324414268",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Uvize",
+      "linkedin": "https://linkedin.com/company/uvize-inc",
+      "facebook": "https://facebook.com/pages/Uvize/153019591451334"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "PivotDesk",
+    "website": "https://pivotdesk.com/",
+    "description": "Office-sharing marketplace",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PivotDesk",
+      "linkedin": "https://linkedin.com/company/2661580",
+      "facebook": "https://facebook.com/PivotDesk"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Lore",
+    "website": "https://lore.com/",
+    "description": "Social online course management",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Learn",
+      "linkedin": "https://linkedin.com/company/lore-online",
+      "facebook": "https://facebook.com/lorenetwork"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Laveem",
+    "website": "https://laveem.com/",
+    "description": "Eat tastier, eat healthier",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mylaveem",
+      "facebook": "https://facebook.com/pages/Laveem/333002643405821"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Inside Social",
+    "website": "https://insidesocial.com/",
+    "description": "Prove and improve the impact social has on the metrics that drive business",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/inside_social",
+      "linkedin": "https://linkedin.com/company/3113798",
+      "facebook": "https://facebook.com/InsideSocial"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Dossier",
+    "website": "https://trydossier.com/",
+    "description": "The first truly integrated team collaboration platform",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/trydossier",
+      "linkedin": "https://linkedin.com/company/plutora",
+      "facebook": "https://facebook.com/plutora-477274535678416"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "socedo",
+    "website": "https://socedo.com/",
+    "description": "Socedo helps businesses discover leads and drive more sales/conversions on the social web.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SocedoApp",
+      "linkedin": "https://linkedin.com/company/socedo",
+      "facebook": "https://facebook.com/Socedo"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Jargon",
+    "website": "https://jargon.com/",
+    "description": "Jargon is a voice-first conversation platform",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/jargonjourney",
+      "linkedin": "https://linkedin.com/company/jargon-com",
+      "facebook": "https://facebook.com/jargoncom-197368107361989/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "DataBlade",
+    "website": "https://datablade.io/",
+    "description": "Data insights without the overhead",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/databladeio",
+      "linkedin": "https://linkedin.com/company/datablade-inc-",
+      "facebook": "https://facebook.com/pg/datablade/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "LLUNA",
+    "website": "https://hellolluna.com/",
+    "description": "LLUNA's technology is the TeamOS for modern employers, combining personal operating profiles and smart dashboards to increase connection, effectiveness, and productivity for individuals, teams, and companies.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/zidxkkhuxrhf58vvk7ye",
+    "location": "Wayne, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/llunalife",
+      "linkedin": "https://linkedin.com/company/llunalife",
+      "facebook": "https://facebook.com/llunalife"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Datapath",
+    "website": "https://datapath.io/",
+    "description": "Simple control of network routing for DevOps",
+    "location": "Mainz, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/datapath_io",
+      "linkedin": "https://linkedin.com/company/datapath-io",
+      "facebook": "https://facebook.com/datapath.io"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Demoflow",
+    "website": "https://gondola.ai/",
+    "description": "Gondola is a virtual economy management tool that enables mobile game developers to balance and optimize virtual economies.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GondolaIO",
+      "linkedin": "https://linkedin.com/company/demoflow",
+      "facebook": "https://facebook.com/trygondola"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Klooff",
+    "website": "https://klooff.com/",
+    "description": "The world's favorite pets",
+    "logo_url": "https://pbs.twimg.com/profile_images/430860401593425920/9bBV_1ii_bigger.png",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/klooffofficial",
+      "linkedin": "https://linkedin.com/company/klooff",
+      "facebook": "https://facebook.com/Klooff"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Sorry As A Service",
+    "website": "https://sorryasaservice.com/",
+    "description": "Sorry as a Service is a customer retention solution that enables businesses to send apologies, measure, track and optimize their retention activities and reduce churn and negative sentiment.",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "twitter": "https://twitter.com/SorryAsAService",
+      "linkedin": "https://linkedin.com/company/sorry-as-a-service",
+      "facebook": "https://facebook.com/sorryasaservice"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Growth Geeks",
+    "website": "https://growthgeeks.com/",
+    "description": "An exclusive network of digital marketing experts.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/growth_geeks",
+      "linkedin": "https://linkedin.com/company/growth-geeks",
+      "facebook": "https://facebook.com/growthgeeks"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Smart Host",
+    "website": "https://smarthost.me/",
+    "description": "Dynamic Pricing & Data Analytics for Vacation Rentals",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/smarthost",
+      "linkedin": "https://linkedin.com/company/smart-host",
+      "facebook": "https://facebook.com/smarthostme"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "NMRKT",
+    "website": "https://nmrkt.com/",
+    "description": "Turning readers into shoppers",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ShopNMRKT",
+      "linkedin": "https://linkedin.com/company/nmrkt",
+      "facebook": "https://facebook.com/nmrkt"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Settld",
+    "website": "https://settld.care/",
+    "description": "A simple, secure solution to end-of-life admin.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rpeoyjarzgslfghup5eq",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Settldsupport",
+      "linkedin": "https://linkedin.com/company/settldsupport",
+      "facebook": "https://facebook.com/Settldsupport"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Voray",
+    "website": "https://voray.com/",
+    "description": "A technology company whose goal is to connect industry leaders to each other",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vorayinc",
+      "linkedin": "https://linkedin.com/company/voray",
+      "facebook": "https://facebook.com/VorayApp"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Voyhoy",
+    "website": "https://linkedin.com/company/voyhoy",
+    "description": "Multi-modal booking platform that helps people save time and money traveling long distances across bus, plane, train, ferry, and rideshare in South America.",
+    "location": "Santiago, Chile",
+    "social_media": {
+      "twitter": "https://twitter.com/voyhoy",
+      "linkedin": "https://linkedin.com/company/voyhoy",
+      "facebook": "https://facebook.com/yovoyhoy"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Vector Legal Method",
+    "website": "https://linkedin.com/company/vectorlegalmethod",
+    "description": "The Future of Litigation",
+    "location": "Kansas City, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vector_legal",
+      "linkedin": "https://linkedin.com/company/vectorlegalmethod",
+      "facebook": "https://facebook.com/VectorLegalMethod/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Urban Leash",
+    "website": "https://linkedin.com/company/urban-leash",
+    "description": "Urban Leash helps busy professionals find reliable pet care at a click of a button and stay connected to their pets every step of the way.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/urban_leash",
+      "linkedin": "https://linkedin.com/company/urban-leash",
+      "facebook": "https://facebook.com/UrbanLeash"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "UniqueSound",
+    "website": "https://linkedin.com/company/uniquesound",
+    "description": "First platform for composers and sound creatives to showcase their work and get hired",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/joinUniqueSound",
+      "linkedin": "https://linkedin.com/company/uniquesound",
+      "facebook": "https://facebook.com/uniquesoundoff"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "TrueFacet",
+    "website": "https://linkedin.com/company/truefacet",
+    "description": "Shop and sell designer jewelry with confidence",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/truefacet",
+      "linkedin": "https://linkedin.com/company/truefacet",
+      "facebook": "https://facebook.com/TrueFacet"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Tinitell",
+    "website": "https://linkedin.com/company/tinitell",
+    "description": "Your kids first mobile phone.",
+    "location": "Stockholm, Sweden",
+    "social_media": {
+      "twitter": "https://twitter.com/tinitellmobile",
+      "linkedin": "https://linkedin.com/company/tinitell",
+      "facebook": "https://facebook.com/Tinitell"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "STIGMA",
+    "website": "https://linkedin.com/company/stigmaapp",
+    "description": "Stigma App is a media firm and mental health app dedicated to eradicating the stigma associated with mental illness and other misunderstood disorders. Founded in 2020 and is based in Chicago, IL.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/upr7nrogjpvbituqalqj",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TheSTIGMAApp",
+      "linkedin": "https://linkedin.com/company/stigmaapp",
+      "facebook": "https://facebook.com/TheSTIGMAapp"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Stark Mobility",
+    "website": "https://linkedin.com/company/starkmobility",
+    "description": "The future of transportation is shared.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/starkmobility",
+      "linkedin": "https://linkedin.com/company/starkmobility",
+      "facebook": "https://facebook.com/starkmobility"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Sophia",
+    "website": "https://linkedin.com/company/trysophia",
+    "description": "practice management for mental health therapists",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sophiatherapy",
+      "linkedin": "https://linkedin.com/company/trysophia",
+      "facebook": "https://facebook.com/trysophia"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Soluki",
+    "website": "https://linkedin.com/company/soluki",
+    "description": "Mobile website building platform for the new, mobile-first internet.",
+    "location": "Dubai, United Arab Emirates",
+    "social_media": {
+      "twitter": "https://twitter.com/solukicom",
+      "linkedin": "https://linkedin.com/company/soluki",
+      "facebook": "https://facebook.com/solukicom/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Sixth Man Technologies",
+    "website": "https://linkedin.com/company/sixthmantechnologies",
+    "description": "Automated highlight clip generation for teams",
+    "location": "Dearborn, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/6thManApps",
+      "linkedin": "https://linkedin.com/company/sixthmantechnologies",
+      "facebook": "https://facebook.com/6thmanapps"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Seva",
+    "website": "https://linkedin.com/company/hiseva",
+    "description": "a smarter way to discover and organize information at work",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hisevanyc",
+      "linkedin": "https://linkedin.com/company/hiseva",
+      "facebook": "https://facebook.com/hisevanyc/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "SeaMiles",
+    "website": "https://linkedin.com/company/seamiles-rewards",
+    "description": "SeaMiles is the worlds first loyalty rewards programme designed to incentivise seafarers and shore personnel in the form of an easy to use mobile application.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "twitter": "https://twitter.com/SeaMilesRewards",
+      "linkedin": "https://linkedin.com/company/seamiles-rewards",
+      "facebook": "https://facebook.com/seamilesrewards"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "SciArt Software",
+    "website": "https://linkedin.com/company/sciart-llc",
+    "description": "We provide software tools for Generative Design when it matters most",
+    "location": "Madison, Wisconsin, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sciartsoft",
+      "linkedin": "https://linkedin.com/company/sciart-llc",
+      "facebook": "https://facebook.com/paretosoftware"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Rosso & Flynn",
+    "website": "https://linkedin.com/company/rosso-flynn",
+    "description": "Rosso & Flynn brings together the quality and transparency of old school butcher shops with the convenience of online ordering and delivery.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rossoflynn",
+      "linkedin": "https://linkedin.com/company/rosso-flynn",
+      "facebook": "https://facebook.com/rossoandflynn/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Reveler",
+    "website": "https://linkedin.com/company/goreveler",
+    "description": "We connect fans & venues to create digital sports experiences IRL.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/reveler_app",
+      "linkedin": "https://linkedin.com/company/goreveler",
+      "facebook": "https://facebook.com/goReveler/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "RetargetLinks",
+    "website": "https://linkedin.com/company/6391164",
+    "description": "Democratizing digital advertising by making it ridiculously easy to advertise in premium online publishers.",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/retargetlinks",
+      "linkedin": "https://linkedin.com/company/6391164",
+      "facebook": "https://facebook.com/RetargetLinksVan/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Repairly",
+    "website": "https://linkedin.com/company/repairly",
+    "description": "Repairly provides on-demand tech engineers to repair smartphones, tablets and laptops.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/repairly",
+      "linkedin": "https://linkedin.com/company/repairly",
+      "facebook": "https://facebook.com/repairly"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Red Rover",
+    "website": "https://linkedin.com/company/red-rover_3",
+    "description": "Peer-to-peer learning platform",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/redroverhq",
+      "linkedin": "https://linkedin.com/company/red-rover_3"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Quantac",
+    "website": "https://linkedin.com/company/quantac",
+    "description": "Quantac provides the first method of integrating sweat sensing technology with mass market wearables.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Quantac_Co",
+      "linkedin": "https://linkedin.com/company/quantac",
+      "facebook": "https://facebook.com/Quantac-Co-247523868972523/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Provender",
+    "website": "https://linkedin.com/company/provender",
+    "description": "A marketplace for growers and buyers of fresh food",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/provender",
+      "linkedin": "https://linkedin.com/company/provender",
+      "facebook": "https://facebook.com/getprovender"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Project Fixup",
+    "website": "https://linkedin.com/company/project-fixup",
+    "description": "The best way for singles to experience their city with someone new",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ProjectFixup",
+      "linkedin": "https://linkedin.com/company/project-fixup",
+      "facebook": "https://facebook.com/ProjectFixup"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Pongo",
+    "website": "https://linkedin.com/company/pongo",
+    "description": "Pongo empowers content creators to engage their audience with SMS.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/dguildrltykt3t6zien6",
+    "location": "Sammamish, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/joinpongo",
+      "linkedin": "https://linkedin.com/company/pongo"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Pesky Fish",
+    "website": "https://linkedin.com/company/pesky-fish-ltd",
+    "description": "Pesky fish enable fishermen across the country to sell their catch directly to consumers in the fastest, freshest and most traceable supply chain",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/pesky_fish",
+      "linkedin": "https://linkedin.com/company/pesky-fish-ltd",
+      "facebook": "https://facebook.com/Pesky-Fish-365849560604177/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Open Labs",
+    "website": "https://linkedin.com/company/open-labs",
+    "description": "Providing hope for those with brain disorders",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/openlabsco",
+      "linkedin": "https://linkedin.com/company/open-labs",
+      "facebook": "https://facebook.com/openlabsbrasil"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "ollo wearables",
+    "website": "https://linkedin.com/company/2933179",
+    "description": "A wearable, voice controlled cellular phone for seniors that actively monitors well being and keeps them constantly connected to family",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ollowearables",
+      "linkedin": "https://linkedin.com/company/2933179",
+      "facebook": "https://facebook.com/ollowearables"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Nextly",
+    "website": "https://linkedin.com/company/nextlyteam",
+    "description": "Browse handpicked collections of webpages, and curate your own",
+    "logo_url": "https://pbs.twimg.com/profile_images/378800000638938607/284e7e0926ed4727bd4e374f9be34929_bigger.jpeg",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nextly",
+      "linkedin": "https://linkedin.com/company/nextlyteam",
+      "facebook": "https://facebook.com/pages/Marginize/128247180553731"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Musicasa",
+    "website": "https://linkedin.com/company/musicasa-concerts",
+    "description": "Giving users the chance to connect in real-time with talented independent and emerging musicians through intimate home concerts.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ijqtc2gvuty84o3wzyhu",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/musicasalive",
+      "linkedin": "https://linkedin.com/company/musicasa-concerts",
+      "facebook": "https://facebook.com/Musicasaa"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "MIO ROBOT KIOSKs",
+    "website": "https://linkedin.com/in/romandrokov",
+    "description": "Bringing your desires",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/MioRobots",
+      "linkedin": "https://linkedin.com/in/romandrokov",
+      "facebook": "https://facebook.com/miokiosk/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "MeetMindful",
+    "website": "https://linkedin.com/company/ourfabriq",
+    "description": "MeetMindful is the meeting ground for your most life-changing and inspiring connections.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/our_fabriq",
+      "linkedin": "https://linkedin.com/company/ourfabriq",
+      "facebook": "https://facebook.com/ourfabriq/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Loudcaster",
+    "website": "https://linkedin.com/company/loudcaster",
+    "description": "Enabling people to DJ online",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/loudcaster",
+      "linkedin": "https://linkedin.com/company/loudcaster",
+      "facebook": "https://facebook.com/Loudcaster"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Loom Network",
+    "website": "https://linkedin.com/company/18292138",
+    "description": "Loom Network is a network of application-specific sidechains for Ethereum where developers can run their decentralized applications at scale.",
+    "location": "Bangkok, Thailand",
+    "social_media": {
+      "twitter": "https://twitter.com/loomnetwork",
+      "linkedin": "https://linkedin.com/company/18292138",
+      "facebook": "https://facebook.com/loomxnetwork/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Leblum",
+    "website": "https://linkedin.com/company/leblum",
+    "description": "Leblum lets consumers buy top quality flowers directly from the growers.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Le_blum",
+      "linkedin": "https://linkedin.com/company/leblum",
+      "facebook": "https://facebook.com/leblumNY/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "LangoLab",
+    "website": "https://crunchbase.com/organization/langolab",
+    "description": "Foreign language education",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/langolab",
+      "facebook": "https://facebook.com/langoLAB"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Knoow",
+    "website": "https://linkedin.com/company/knoow",
+    "description": "Knoow is a real-time, search and service engine that allows you to ask questions that can only be answered with real-time information.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/knoowinc",
+      "linkedin": "https://linkedin.com/company/knoow",
+      "facebook": "https://facebook.com/KnoowLLC"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Kisura",
+    "website": "https://linkedin.com/company/kisura-gmbh",
+    "description": "Digital shopping assistant for female fashion.",
+    "location": "Essen, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/Kisura_official",
+      "linkedin": "https://linkedin.com/company/kisura-gmbh",
+      "facebook": "https://facebook.com/Kisura.de/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Jagger",
+    "website": "https://linkedin.com/company/jagger-solutions",
+    "description": "Rockstar marketing for brands. Drive more sales by harnessing the marketing power of your local resellers",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/jagger_ai",
+      "linkedin": "https://linkedin.com/company/jagger-solutions"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "InstaCar",
+    "website": "https://linkedin.com/company/instacar-technologies",
+    "description": "Expanding India's mobility options for intercity travel.",
+    "location": "Indore, Madhya Pradesh, India",
+    "social_media": {
+      "twitter": "https://twitter.com/instacarin",
+      "linkedin": "https://linkedin.com/company/instacar-technologies",
+      "facebook": "https://facebook.com/instacar.in"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "HuBoard",
+    "website": "https://linkedin.com/company/huboard-inc-",
+    "description": "HuBoard provides simple agile tracking boards, keeping your developers productive and your projects organized.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/huboard",
+      "linkedin": "https://linkedin.com/company/huboard-inc-",
+      "facebook": "https://facebook.com/HuBoard"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Headliner",
+    "website": "https://linkedin.com/company/headliner-io",
+    "description": "Headliner is a marketplace connecting event planners with the world's live entertainment to easily book acts for weddings, celebrations or corporate events.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/headlinerio",
+      "linkedin": "https://linkedin.com/company/headliner-io",
+      "facebook": "https://facebook.com/pg/headliner1ive/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Harvey",
+    "website": "https://linkedin.com/company/harveyimmobilier",
+    "description": "HomeHero powers family directed care.",
+    "location": "Louisville, Kentucky, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/homehero",
+      "linkedin": "https://linkedin.com/company/harveyimmobilier",
+      "facebook": "https://facebook.com/goharveyapp"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Greets",
+    "website": "https://linkedin.com/company/cardswap",
+    "description": "Personalized Greeting Cards and Invitations",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cardswap",
+      "linkedin": "https://linkedin.com/company/cardswap",
+      "facebook": "https://facebook.com/ClosetGroupie"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Green Room App",
+    "website": "https://linkedin.com/company/greenroomapp",
+    "description": "Green Room is building the tools that let live entertainers be their own business managers by providing modern payments, tax compliance, and benefits.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getgreenroom",
+      "linkedin": "https://linkedin.com/company/greenroomapp",
+      "facebook": "https://facebook.com/getgreenroom/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Grace",
+    "website": "https://linkedin.com/company/grace-accelerator",
+    "description": "Grace is revolutionizing the $20b funeral industry with an end-of-life planning platform built to help families focus on what matters.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MeetGrace",
+      "linkedin": "https://linkedin.com/company/grace-accelerator",
+      "facebook": "https://facebook.com/gracehq/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Gastrozentrale",
+    "website": "https://linkedin.com/company/gastrozentrale-de",
+    "description": "Gastrozentrale.de - the focal point for all those who are looking for high-quality gastronomy technology and want thereby save even more .",
+    "location": "Munich, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/Gastrozentrale",
+      "linkedin": "https://linkedin.com/company/gastrozentrale-de",
+      "facebook": "https://facebook.com/gastrozentrale"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Fazta",
+    "website": "https://linkedin.com/in/stephen-lorusso",
+    "description": "Customer Acquisition Automation Using AI.  Formerly known as FAZTA.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/acquisitionly",
+      "linkedin": "https://linkedin.com/in/stephen-lorusso",
+      "facebook": "https://facebook.com/gofazta/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Fan Powered",
+    "website": "https://crunchbase.com/organization/fanpowered",
+    "description": "The platform allows fans to curate and fund the sporting competitions that they really want to see.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/eraavdx38of3zccdtl4u",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FanPoweredbxng",
+      "facebook": "https://facebook.com/Fanpowered/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Drinkeasy",
+    "website": "https://linkedin.com/company/drinkeasy",
+    "description": "A Conversational Commerce Platform for Retail",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/DrinkeasyHQ",
+      "linkedin": "https://linkedin.com/company/drinkeasy",
+      "facebook": "https://facebook.com/DrinkeasyHQ/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Deekit",
+    "website": "https://linkedin.com/company/deekit",
+    "description": "Deekit is a virtual whiteboard to help remote teams work seamlessly.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/deekitapp",
+      "linkedin": "https://linkedin.com/company/deekit",
+      "facebook": "https://facebook.com/Deekit"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Dashbell",
+    "website": "https://linkedin.com/company/dashbell",
+    "description": "OpenTable for independent hotels",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/dashbell",
+      "linkedin": "https://linkedin.com/company/dashbell",
+      "facebook": "https://facebook.com/dashbelltravel"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "CuddlUp",
+    "website": "https://linkedin.com/company/cuddl%27up",
+    "description": "Cuddl'Up is the digital brigade for restaurant owners",
+    "location": "Nice, France",
+    "social_media": {
+      "twitter": "https://twitter.com/CuddlUp",
+      "linkedin": "https://linkedin.com/company/cuddl%27up",
+      "facebook": "https://facebook.com/cuddlup/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Crescendo",
+    "website": "https://linkedin.com/company/crescendomusic",
+    "description": "Crescendo is an AI-powered interactive music trainer that facilitates focused practice and immediate feedback.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/CrescendoWork",
+      "linkedin": "https://linkedin.com/company/crescendomusic",
+      "facebook": "https://facebook.com/crescendowork/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Contellio",
+    "website": "https://linkedin.com/company/10051020?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId%3A2592863651467320724097%2CVSRPtargetId%3A10051020%2CVSRPcmpt%3Aprimary",
+    "description": "Companies use Contellio to create stunning marketing designs that sell.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/contellio",
+      "linkedin": "https://linkedin.com/company/10051020?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId%3A2592863651467320724097%2CVSRPtargetId%3A10051020%2CVSRPcmpt%3Aprimary",
+      "facebook": "https://facebook.com/contellio"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Civin",
+    "website": "https://linkedin.com/company/civin",
+    "description": "The analytics platform for local government (coming soon).",
+    "location": "East Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/civin_co",
+      "linkedin": "https://linkedin.com/company/civin",
+      "facebook": "https://facebook.com/civindotco"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Canopy",
+    "website": "https://linkedin.com/company/underthecanopy",
+    "description": "A dedicated community for Creators to help Creators succeed and build a sustainable career.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/underthecanopy"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "BuildersCloud",
+    "website": "https://linkedin.com/company/builderscloud",
+    "description": "BuildersCloud makes sharing, accessing and working with construction documents incredibly easy.",
+    "location": "Bellevue, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/builderscloud",
+      "linkedin": "https://linkedin.com/company/builderscloud",
+      "facebook": "https://facebook.com/BuildersCloud"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Bild",
+    "website": "https://linkedin.com/company/webild",
+    "description": "An investing platform for sustainable assets focused on smart infrastructure and clean energy powered by the distributed ledger technology",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/webildit",
+      "linkedin": "https://linkedin.com/company/webild"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Avisare",
+    "website": "https://linkedin.com/company/avisare",
+    "description": "A marketplace simplifying the RFP process for the multi trillion dollar procurement industry",
+    "location": "Redlands, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/avisare1",
+      "linkedin": "https://linkedin.com/company/avisare",
+      "facebook": "https://facebook.com/Hello.Avisare"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Avemus",
+    "website": "https://linkedin.com/company/avemus",
+    "description": "Revolutionizing agricultural cooperatives",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/platfarm",
+      "linkedin": "https://linkedin.com/company/avemus"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Attentive",
+    "website": "https://linkedin.com/company/attentive",
+    "description": "AI Assistant for Sales teams",
+    "location": "Braga, Portugal",
+    "social_media": {
+      "twitter": "https://twitter.com/attentiveus",
+      "linkedin": "https://linkedin.com/company/attentive",
+      "facebook": "https://facebook.com/attentiveus"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Ampogee",
+    "website": "https://linkedin.com/company/ampogee",
+    "description": "We Make Work Matter",
+    "location": "Greensboro, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getampogee",
+      "linkedin": "https://linkedin.com/company/ampogee",
+      "facebook": "https://facebook.com/makeworkmatter/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Ambie",
+    "website": "https://linkedin.com/company/ambie",
+    "description": "Ambie is personalised, music streaming service for businesses.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/ambiefm",
+      "linkedin": "https://linkedin.com/company/ambie",
+      "facebook": "https://facebook.com/AmbieFM"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "3chron",
+    "website": "https://linkedin.com/company/3chron",
+    "description": "3chron makes video conferencing more like a real-life conversation",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/3chron"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Audioland",
+    "website": "https://linkedin.com/company/theaudioland",
+    "description": "Audioland is the Substack for audio that helps creators turn their texts or AI-generated texts into monetizable audio content.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/theaudioland",
+      "linkedin": "https://linkedin.com/company/theaudioland"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "EQLAB",
+    "website": "https://linkedin.com/company/eqlab-global",
+    "description": "Building a metaverse that will provide meaningful education, healthcare and mediation services to the populations that most need it",
+    "location": "St. Petersburg, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/eqlab-global"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Re-Style",
+    "website": "https://linkedin.com/company/87232424",
+    "description": "An online tailoring platform intended to encourage re-pair, and re-wear by connecting individuals to tailors and alterations professionals.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/87232424",
+      "facebook": "https://facebook.com/restyleapp/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "LOCCO",
+    "website": "https://linkedin.com/company/loccoapp",
+    "description": "LOCCO is a platform that uses location-based technology to provide drivers with audio content access.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ksap24ouybmlam8i5g9j",
+    "location": "Munich, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/loccoapp",
+      "facebook": "https://facebook.com/yourlocalcompanion"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "Strangeloop Studios",
+    "website": "https://linkedin.com/company/strangeloop-studios",
+    "description": "Strangeloop Studios is a new media content studio, producing virtual characters and narrative IP across IRL and digital platforms.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/strangeloop_s",
+      "linkedin": "https://linkedin.com/company/strangeloop-studios",
+      "facebook": "https://facebook.com/strangelooptv/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "nFlux",
+    "website": "https://linkedin.com/company/nflux",
+    "description": "The Ask Engine that can contextually understand the content of user's data enabling them to quickly make sense of this massive ocean of unstructured data.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nfluxAI",
+      "linkedin": "https://linkedin.com/company/nflux"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  },
+  {
+    "name": "zenchef",
+    "website": "https://zenchef.com/",
+    "description": "The easiest marketing and booking system for restaurants. Manage your bookings, reviews, database and emailing all in one place",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/zenchef",
+      "linkedin": "https://linkedin.com/company/zenchef",
+      "facebook": "https://facebook.com/ZenchefFrance/"
+    },
+    "industry": "Technology, media and telecommunications",
+    "industry_slug": "tmt"
+  }
+]

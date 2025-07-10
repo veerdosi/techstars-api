@@ -1,0 +1,24 @@
+{
+  "name": "Chipolo",
+  "slug": "chipolo",
+  "website": "https://chipolo.net/",
+  "description": "Innovative multinational technology company, recognized as one of the leading brands on the Bluetooth tracker market.",
+  "one_liner": "Innovative multinational technology company, recognized as one of the leading brands on the Bluetooth tracker market.",
+  "location": "Trvoblje, Slovenia",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/chipolotm",
+    "linkedin": "https://linkedin.com/company/chipolo",
+    "facebook": "https://facebook.com/chipolotm"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/chipolo",
+  "api": "/api/companies/chipolo.json"
+}

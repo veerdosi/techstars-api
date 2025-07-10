@@ -1,0 +1,24 @@
+{
+  "name": "Dronesmith Technologies",
+  "slug": "dronesmith-technologies",
+  "website": "https://linkedin.com/company/skyworks-aerial-systems",
+  "description": "Dronesmith is the fastest and easiest way for businesses to integrate drones into existing workflows.",
+  "one_liner": "Dronesmith is the fastest and easiest way for businesses to integrate drones into existing workflows.",
+  "location": "Henderson, Nevada, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/dronesmithtech",
+    "linkedin": "https://linkedin.com/company/skyworks-aerial-systems",
+    "facebook": "https://facebook.com/dronesmithtech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dronesmith-technologies",
+  "api": "/api/companies/dronesmith-technologies.json"
+}

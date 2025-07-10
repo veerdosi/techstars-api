@@ -1,0 +1,24 @@
+{
+  "name": "Switchboard Live",
+  "slug": "switchboard-live",
+  "website": "https://switchboard.live/",
+  "description": "Switchboard simultaneously distributes live video content to multiple platforms, allowing content creators instant access to targeted audiences.",
+  "one_liner": "Switchboard simultaneously distributes live video content to multiple platforms, allowing content creators instant access to targeted audiences.",
+  "location": "Philadelphia, Pennsylvania, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/switchboardlive",
+    "linkedin": "https://linkedin.com/company/switchboardlive",
+    "facebook": "https://facebook.com/switchboardlive"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/switchboard-live",
+  "api": "/api/companies/switchboard-live.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Votemo",
+  "slug": "votemo",
+  "website": "https://votemo.eu/",
+  "description": "Audience Engagement Tools for Events",
+  "one_liner": "Audience Engagement Tools for Events",
+  "location": "Tallinn, Estonia",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/votemo",
+    "facebook": "https://facebook.com/votemoapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/votemo",
+  "api": "/api/companies/votemo.json"
+}

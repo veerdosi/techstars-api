@@ -1,0 +1,24 @@
+{
+  "name": "RentMonitor",
+  "slug": "rentmonitor",
+  "website": "https://linkedin.com/company/rentmonitor",
+  "description": "The easiest way to collect and pay rent.",
+  "one_liner": "The easiest way to collect and pay rent.",
+  "location": "Des Moines, Iowa, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/rentmonitor",
+    "linkedin": "https://linkedin.com/company/rentmonitor",
+    "facebook": "https://facebook.com/rentmonitor"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rentmonitor",
+  "api": "/api/companies/rentmonitor.json"
+}

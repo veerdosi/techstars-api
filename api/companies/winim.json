@@ -1,0 +1,24 @@
+{
+  "name": "WINIM",
+  "slug": "winim",
+  "website": "https://winim.com.ar/",
+  "description": "Assists businesses sell surplus daily food, helping take care of the environment by preventing food from being thrown away.",
+  "one_liner": "Assists businesses sell surplus daily food, helping take care of the environment by preventing food from being thrown away.",
+  "location": "Buenos Aires, Argentina",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mcvtptslp6eoiwsinznq",
+  "social_media": {
+    "twitter": "https://twitter.com/WINIMArgentina",
+    "linkedin": "https://linkedin.com/company/winimarg",
+    "facebook": "https://facebook.com/WINIMArg"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/winim",
+  "api": "/api/companies/winim.json"
+}

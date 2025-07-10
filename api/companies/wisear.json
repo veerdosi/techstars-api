@@ -1,0 +1,24 @@
+{
+  "name": "Wisear",
+  "slug": "wisear",
+  "website": "https://wisear.io/",
+  "description": "Let your mind be in control.",
+  "one_liner": "Let your mind be in control.",
+  "location": "Paris, France",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/wiseario",
+    "linkedin": "https://linkedin.com/company/wisear",
+    "facebook": "https://facebook.com/wisearphones"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/wisear",
+  "api": "/api/companies/wisear.json"
+}

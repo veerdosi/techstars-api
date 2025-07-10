@@ -1,0 +1,24 @@
+{
+  "name": "Beatmatch",
+  "slug": "beatmatch",
+  "website": "https://beatmatchsocial.com/",
+  "description": "Beatmatch is the dating app that helps music lovers find relationships by matching people with similar music tastes.",
+  "one_liner": "Beatmatch is the dating app that helps music lovers find relationships by matching people with similar music tastes.",
+  "location": "Torrance, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/beatmatchsocial",
+    "linkedin": "https://linkedin.com/company/joinbeatmatch",
+    "facebook": "https://facebook.com/beatmatchsocial"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/beatmatch",
+  "api": "/api/companies/beatmatch.json"
+}

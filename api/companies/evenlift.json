@@ -1,0 +1,22 @@
+{
+  "name": "Evenlift",
+  "slug": "evenlift",
+  "website": "https://evenlift.io/",
+  "description": "EvenLift improves gym retention and monetization through a digital personal trainer who counts your reps, corrects your form, and tracks your progress using AI-enabled, wall-mounted cameras alongside a mobile app.",
+  "one_liner": "EvenLift improves gym retention and monetization through a digital personal trainer who counts your reps, corrects your form, and tracks your progress using AI-enabled, wall-mounted cameras alongside a mobile app.",
+  "location": "Pflugerville, Texas, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/evenlift"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/evenlift",
+  "api": "/api/companies/evenlift.json"
+}

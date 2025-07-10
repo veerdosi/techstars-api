@@ -1,0 +1,23 @@
+{
+  "name": "STRAFFR",
+  "slug": "straffr",
+  "website": "https://en.straffr.com/",
+  "description": "Enables people to work out anytime anywhere, motivating them to stay active and fit.",
+  "one_liner": "Enables people to work out anytime anywhere, motivating them to stay active and fit.",
+  "location": "Kassel, Germany",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/straffr",
+    "facebook": "https://facebook.com/straffr.official"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/straffr",
+  "api": "/api/companies/straffr.json"
+}

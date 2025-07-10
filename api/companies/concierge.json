@@ -1,0 +1,23 @@
+{
+  "name": "Concierge",
+  "slug": "concierge",
+  "website": "https://conciergeteam.co/",
+  "description": "Concierge is a messaging platform for growing direct-to-consumer brands.",
+  "one_liner": "Concierge is a messaging platform for growing direct-to-consumer brands.",
+  "location": "Calgary, Alberta, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/concierge_home",
+    "linkedin": "https://linkedin.com/company/conciergeteam"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/concierge",
+  "api": "/api/companies/concierge.json"
+}

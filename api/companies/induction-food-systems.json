@@ -1,0 +1,23 @@
+{
+  "name": "Induction Food Systems",
+  "slug": "induction-food-systems",
+  "website": "https://inductionfoodsystems.com/",
+  "description": "Advanced fluid heating equipment that helps industrials profitably decarbonize their manufacturing ops.",
+  "one_liner": "Advanced fluid heating equipment that helps industrials profitably decarbonize their manufacturing ops.",
+  "location": "Durham, North Carolina, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ifsheating",
+    "linkedin": "https://linkedin.com/company/induction-food-systems"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/induction-food-systems",
+  "api": "/api/companies/induction-food-systems.json"
+}

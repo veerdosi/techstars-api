@@ -1,0 +1,23 @@
+{
+  "name": "Innerlogic",
+  "slug": "innerlogic",
+  "website": "https://innerlogic.com/",
+  "description": "Innerlogic is a culture optimization software company that assists businesses in monitoring and mastering their culture.",
+  "one_liner": "Innerlogic is a culture optimization software company that assists businesses in monitoring and mastering their culture.",
+  "location": "Bedford, Nova Scotia, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/innerlogicteam",
+    "linkedin": "https://linkedin.com/company/innerlogic-leadership-software"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/innerlogic",
+  "api": "/api/companies/innerlogic.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Neon Wild",
+  "slug": "neon-wild",
+  "website": "https://linkedin.com/company/neon-wild",
+  "description": "Neon Wild transforms any child into a custom avatar as the star of immersive stories and games.",
+  "one_liner": "Neon Wild transforms any child into a custom avatar as the star of immersive stories and games.",
+  "location": "New York City, New York, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/neon__wild",
+    "linkedin": "https://linkedin.com/company/neon-wild",
+    "facebook": "https://facebook.com/TheNeonWild/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/neon-wild",
+  "api": "/api/companies/neon-wild.json"
+}

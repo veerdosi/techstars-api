@@ -1,0 +1,24 @@
+{
+  "name": "Wattmore",
+  "slug": "wattmore",
+  "website": "https://wattmore.com/",
+  "description": "Nikola Power provides technology solutions in energy storage and solar.",
+  "one_liner": "Nikola Power provides technology solutions in energy storage and solar.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/nikola_power",
+    "linkedin": "https://linkedin.com/company/16262747",
+    "facebook": "https://facebook.com/Nikola-Power-1467102610009093"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/wattmore",
+  "api": "/api/companies/wattmore.json"
+}

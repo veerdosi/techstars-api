@@ -1,0 +1,24 @@
+{
+  "name": "Mondaycar",
+  "slug": "mondaycar",
+  "website": "https://mondaycar.com/",
+  "description": "A way for everyone to participate in the financing of shared cars in an easy and profitable way, without the need of ever seeing a car",
+  "one_liner": "A way for everyone to participate in the financing of shared cars in an easy and profitable way, without the need of ever seeing a car",
+  "location": "Paris, France",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/gohiveway",
+    "linkedin": "https://linkedin.com/company/hiveway",
+    "facebook": "https://facebook.com/gohiveaway/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mondaycar",
+  "api": "/api/companies/mondaycar.json"
+}

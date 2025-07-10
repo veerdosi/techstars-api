@@ -1,0 +1,24 @@
+{
+  "name": "Swiftly",
+  "slug": "swiftly",
+  "website": "https://linkedin.com/company/swiftlyone",
+  "description": "World's first AI platform that searches and applies for jobs",
+  "one_liner": "World's first AI platform that searches and applies for jobs",
+  "location": "Stockholm, Sweden",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hire",
+    "linkedin": "https://linkedin.com/company/swiftlyone",
+    "facebook": "https://facebook.com/swiftlyone"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/swiftly",
+  "api": "/api/companies/swiftly.json"
+}

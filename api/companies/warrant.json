@@ -1,0 +1,22 @@
+{
+  "name": "Warrant",
+  "slug": "warrant",
+  "website": "https://hellowarrant.com/",
+  "description": "Warrant is building the GitHub for marketing to ensure communications are reviewed, on-brand, and risk-free. (Marketing Compliance for Fintechs and Financial Services)",
+  "one_liner": "Warrant is building the GitHub for marketing to ensure communications are reviewed, on-brand, and risk-free. (Marketing Compliance for Fintechs and Financial Services)",
+  "location": "Durham, North Carolina, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/warrant"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/warrant",
+  "api": "/api/companies/warrant.json"
+}

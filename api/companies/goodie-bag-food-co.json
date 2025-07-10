@@ -1,0 +1,22 @@
+{
+  "name": "Goodie Bag Food Co",
+  "slug": "goodie-bag-food-co",
+  "website": "https://app.goodiebag.co/",
+  "description": "Goodie Bag helps to connect customers to local shops by providing a marketplace solution for surplus food.",
+  "one_liner": "Goodie Bag helps to connect customers to local shops by providing a marketplace solution for surplus food.",
+  "location": "Belmar, New Jersey, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/goodiebag-co"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/goodie-bag-food-co",
+  "api": "/api/companies/goodie-bag-food-co.json"
+}

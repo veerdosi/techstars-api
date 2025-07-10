@@ -1,0 +1,24 @@
+{
+  "name": "Nestrom",
+  "slug": "nestrom",
+  "website": "https://nestrom.com/",
+  "description": "The platform enables cost control & rapid servicing through automation of work-orders & workflows for field teams in industries like Energy & Utilities, Facilities Management, Construction, Mining, and Manufacturing.",
+  "one_liner": "The platform enables cost control & rapid servicing through automation of work-orders & workflows for field teams in industries like Energy & Utilities, Facilities Management, Construction, Mining, and Manufacturing.",
+  "location": "Amman, Jordan",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Nestrom",
+    "linkedin": "https://linkedin.com/company/7947195",
+    "facebook": "https://facebook.com/nestromiot/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nestrom",
+  "api": "/api/companies/nestrom.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Findit",
+  "slug": "findit",
+  "website": "https://linkedin.com/company/peoplematics",
+  "description": "The easiest way to find emails and files across cloud accounts using a smartphone",
+  "one_liner": "The easiest way to find emails and files across cloud accounts using a smartphone",
+  "location": "Sunnyvale, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/finditapp",
+    "linkedin": "https://linkedin.com/company/peoplematics",
+    "facebook": "https://facebook.com/finditapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/findit",
+  "api": "/api/companies/findit.json"
+}

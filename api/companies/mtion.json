@@ -1,0 +1,23 @@
+{
+  "name": "mtion",
+  "slug": "mtion",
+  "website": "https://mtion.tv/",
+  "description": "Mtion connects streamers with their fans through shared 3D experiences.",
+  "one_liner": "Mtion connects streamers with their fans through shared 3D experiences.",
+  "location": "Kitchener, Ontario, Canada",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mtiontv",
+    "linkedin": "https://linkedin.com/company/mtion-tv"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mtion",
+  "api": "/api/companies/mtion.json"
+}

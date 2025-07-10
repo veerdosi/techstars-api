@@ -1,0 +1,24 @@
+{
+  "name": "Stackhouse",
+  "slug": "stackhouse",
+  "website": "https://stackhouse.life/",
+  "description": "Stackhouse builds urban vertical docking communities for movable container homes. First location will be Denver, CO in 2022.",
+  "one_liner": "Stackhouse builds urban vertical docking communities for movable container homes. First location will be Denver, CO in 2022.",
+  "location": "Tucson, Arizona, United States",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Stackhouse_life",
+    "linkedin": "https://linkedin.com/company/stackhouse-life",
+    "facebook": "https://facebook.com/pg/stackhouseliving/about/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/stackhouse",
+  "api": "/api/companies/stackhouse.json"
+}

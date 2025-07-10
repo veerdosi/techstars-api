@@ -1,0 +1,24 @@
+{
+  "name": "Knit",
+  "slug": "knit",
+  "website": "https://purpics.com/",
+  "description": "Founded on the idea \"pictures with purpose,\" PurPics is the platform connecting brands to everyday consumers over a cause.",
+  "one_liner": "Founded on the idea \"pictures with purpose,\" PurPics is the platform connecting brands to everyday consumers over a cause.",
+  "location": "Suffolk, Virginia, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/knitofficial_",
+    "linkedin": "https://linkedin.com/company/goknit",
+    "facebook": "https://facebook.com/GoKnitOfficial/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/knit",
+  "api": "/api/companies/knit.json"
+}

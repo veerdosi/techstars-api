@@ -1,0 +1,24 @@
+{
+  "name": "Postmaster",
+  "slug": "postmaster",
+  "website": "https://linkedin.com/company/postmaster-sp-zoo",
+  "description": "A simple API for shipping packages",
+  "one_liner": "A simple API for shipping packages",
+  "location": "Austin, Texas, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/postmaster_io",
+    "linkedin": "https://linkedin.com/company/postmaster-sp-zoo",
+    "facebook": "https://facebook.com/postmasterio"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/postmaster",
+  "api": "/api/companies/postmaster.json"
+}

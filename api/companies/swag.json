@@ -1,0 +1,24 @@
+{
+  "name": "Swag",
+  "slug": "swag",
+  "website": "https://swag.com/",
+  "description": "The best place for companies to buy promotional swag that people will actually want to keep.",
+  "one_liner": "The best place for companies to buy promotional swag that people will actually want to keep.",
+  "location": "New York City, New York, United States",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/promotewithswag",
+    "linkedin": "https://linkedin.com/company/11025034",
+    "facebook": "https://facebook.com/promotewithswag/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/swag",
+  "api": "/api/companies/swag.json"
+}

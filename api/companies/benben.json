@@ -1,0 +1,23 @@
+{
+  "name": "BenBen",
+  "slug": "benben",
+  "website": "https://linkedin.com/company/benben-lands-",
+  "description": "BenBen is a digital land database that provides fast and easy access to trusted information about land through Blockchain technology.",
+  "one_liner": "BenBen is a digital land database that provides fast and easy access to trusted information about land through Blockchain technology.",
+  "location": "Accra, Ghana",
+  "industry": "Real estate tech",
+  "industry_slug": "real-estate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/benbenlands",
+    "linkedin": "https://linkedin.com/company/benben-lands-"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/benben",
+  "api": "/api/companies/benben.json"
+}

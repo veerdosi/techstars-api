@@ -1,0 +1,22 @@
+{
+  "name": "Upful",
+  "slug": "upful",
+  "website": "https://linkedin.com/in/shirini",
+  "description": "Coaching tool to write meaningful & inclusive people evaluations / feedback.",
+  "one_liner": "Coaching tool to write meaningful & inclusive people evaluations / feedback.",
+  "location": "Santa Monica, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kociwko2szkfzyel9kmt",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/shirini"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/upful",
+  "api": "/api/companies/upful.json"
+}

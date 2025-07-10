@@ -1,0 +1,24 @@
+{
+  "name": "Gofer",
+  "slug": "gofer",
+  "website": "https://linkedin.com/company/gofer-solutions-ltd",
+  "description": "The tech-powered community of hospitality professionals that reinvents work-on-demand.",
+  "one_liner": "The tech-powered community of hospitality professionals that reinvents work-on-demand.",
+  "location": "Sèvres, France",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/gofer_fr",
+    "linkedin": "https://linkedin.com/company/gofer-solutions-ltd",
+    "facebook": "https://facebook.com/goferfr/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gofer",
+  "api": "/api/companies/gofer.json"
+}

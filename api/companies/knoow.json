@@ -1,0 +1,24 @@
+{
+  "name": "Knoow",
+  "slug": "knoow",
+  "website": "https://linkedin.com/company/knoow",
+  "description": "Knoow is a real-time, search and service engine that allows you to ask questions that can only be answered with real-time information.",
+  "one_liner": "Knoow is a real-time, search and service engine that allows you to ask questions that can only be answered with real-time information.",
+  "location": "New York City, New York, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/knoowinc",
+    "linkedin": "https://linkedin.com/company/knoow",
+    "facebook": "https://facebook.com/KnoowLLC"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/knoow",
+  "api": "/api/companies/knoow.json"
+}

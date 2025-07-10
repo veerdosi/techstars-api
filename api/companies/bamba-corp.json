@@ -1,0 +1,24 @@
+{
+  "name": "Bamba Corp",
+  "slug": "bamba-corp",
+  "website": "https://bambagroup.com/",
+  "description": "Bamba is a real-time data collection tool to gain insights from the 1.5 billion people in the emerging market.",
+  "one_liner": "Bamba is a real-time data collection tool to gain insights from the 1.5 billion people in the emerging market.",
+  "location": "Nairobi, Kenya",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/BambaGroup",
+    "linkedin": "https://linkedin.com/company/bamba-rewards",
+    "facebook": "https://facebook.com/BambaRewards"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bamba-corp",
+  "api": "/api/companies/bamba-corp.json"
+}

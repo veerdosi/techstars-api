@@ -1,0 +1,24 @@
+{
+  "name": "Mycroft",
+  "slug": "mycroft",
+  "website": "https://linkedin.com/company/10255844",
+  "description": "Mycroft has developed an open source artificial intelligence platform for the connected home and beyond.",
+  "one_liner": "Mycroft has developed an open source artificial intelligence platform for the connected home and beyond.",
+  "location": "Lawrence, Kansas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mycroft_ai",
+    "linkedin": "https://linkedin.com/company/10255844",
+    "facebook": "https://facebook.com/aiforeveryone"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mycroft",
+  "api": "/api/companies/mycroft.json"
+}

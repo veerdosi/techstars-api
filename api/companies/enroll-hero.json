@@ -1,0 +1,24 @@
+{
+  "name": "Enroll Hero",
+  "slug": "enroll-hero",
+  "website": "https://linkedin.com/company/enrollhero",
+  "description": "Personalized recommendation engine empowering seniors to make smarter decisions in retirement, starting with Medicare health insurance.",
+  "one_liner": "Personalized recommendation engine empowering seniors to make smarter decisions in retirement, starting with Medicare health insurance.",
+  "location": "Santa Monica, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/EnrollHero",
+    "linkedin": "https://linkedin.com/company/enrollhero",
+    "facebook": "https://facebook.com/enrollhero"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/enroll-hero",
+  "api": "/api/companies/enroll-hero.json"
+}

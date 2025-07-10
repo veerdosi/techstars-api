@@ -1,0 +1,24 @@
+{
+  "name": "Voyager Portal",
+  "slug": "voyager-portal",
+  "website": "https://voyagerportal.com/",
+  "description": "Voyager is a multi-party collaboration and workflow solution for the bulk shipping industry",
+  "one_liner": "Voyager is a multi-party collaboration and workflow solution for the bulk shipping industry",
+  "location": "Houston, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/VoyagerPortal",
+    "linkedin": "https://linkedin.com/company/voyager-real-estate",
+    "facebook": "https://facebook.com/pg/InvestVoyager/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/voyager-portal",
+  "api": "/api/companies/voyager-portal.json"
+}

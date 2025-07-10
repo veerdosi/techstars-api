@@ -1,0 +1,24 @@
+{
+  "name": "Nourisher",
+  "slug": "nourisher",
+  "website": "https://linkedin.com/company/milkful",
+  "description": "Milkful lactation bars help support breast milk production for breastfeeding moms.",
+  "one_liner": "Milkful lactation bars help support breast milk production for breastfeeding moms.",
+  "location": "Charlotte, North Carolina, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Milkful_Mama",
+    "linkedin": "https://linkedin.com/company/milkful",
+    "facebook": "https://facebook.com/milkfulbars/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nourisher",
+  "api": "/api/companies/nourisher.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "CompleteSet",
+  "slug": "completeset",
+  "website": "https://linkedin.com/company/completeset",
+  "description": "CompleteSet is a shoppable knowledge base of collectibles. We instantly match what sellers have to collectors who want to own it.",
+  "one_liner": "CompleteSet is a shoppable knowledge base of collectibles. We instantly match what sellers have to collectors who want to own it.",
+  "location": "Cincinnati, Ohio, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/completeset",
+    "linkedin": "https://linkedin.com/company/completeset",
+    "facebook": "https://facebook.com/completeset"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/completeset",
+  "api": "/api/companies/completeset.json"
+}

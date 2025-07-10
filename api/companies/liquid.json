@@ -1,0 +1,24 @@
+{
+  "name": "Liquid",
+  "slug": "liquid",
+  "website": "https://goliquid.io/",
+  "description": "On a mission to power1M agile SMBs with a global freelancer and vendor payments platform that automates and standardizes key tasks, enforces financial controls and ensures tax and legal compliance.",
+  "one_liner": "On a mission to power1M agile SMBs with a global freelancer and vendor payments platform that automates and standardizes key tasks, enforces financial controls and ensures tax and legal compliance.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/teamgoliquid",
+    "linkedin": "https://linkedin.com/company/liquidglobal",
+    "facebook": "https://facebook.com/teamgoliquid"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/liquid",
+  "api": "/api/companies/liquid.json"
+}

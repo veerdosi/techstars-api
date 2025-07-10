@@ -1,0 +1,23 @@
+{
+  "name": "Enco",
+  "slug": "enco",
+  "website": "https://linkedin.com/company/energiacollettiva",
+  "description": "An innovative model that allows individuals, companies and public bodies to reduce environmental impact, save on bills, and reduce the payback time",
+  "one_liner": "An innovative model that allows individuals, companies and public bodies to reduce environmental impact, save on bills, and reduce the payback time",
+  "location": "Florence, Italy",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/energiacollettiva",
+    "facebook": "https://facebook.com/EncoEnergiaCollettiva"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/enco",
+  "api": "/api/companies/enco.json"
+}

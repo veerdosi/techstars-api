@@ -1,0 +1,23 @@
+{
+  "name": "CogniScope",
+  "slug": "cogniscope",
+  "website": "https://cogniscope.app/",
+  "description": "We offer a pioneering SaaS solution for gaming studios that leverages advanced AI models based on psychological studies to interpret player emotions and behaviors, transforming insights into prioritized action items for strategic decision-making.",
+  "one_liner": "We offer a pioneering SaaS solution for gaming studios that leverages advanced AI models based on psychological studies to interpret player emotions and behaviors, transforming insights into prioritized action items for strategic decision-making.",
+  "location": "London, England, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/cogniscope",
+    "facebook": "https://facebook.com/dert.solutions"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cogniscope",
+  "api": "/api/companies/cogniscope.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ruth Health",
+  "slug": "ruth-health",
+  "website": "https://linkedin.com/company/ruthhealth",
+  "description": "Ruth Health is the digital + at-home clinic for pregnant people, collecting the world's largest, most equitable database on maternal health.",
+  "one_liner": "Ruth Health is the digital + at-home clinic for pregnant people, collecting the world's largest, most equitable database on maternal health.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Femtech",
+  "industry_slug": "femtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/RuthWomxn",
+    "linkedin": "https://linkedin.com/company/ruthhealth",
+    "facebook": "https://facebook.com/ruthwomxn"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ruth-health",
+  "api": "/api/companies/ruth-health.json"
+}

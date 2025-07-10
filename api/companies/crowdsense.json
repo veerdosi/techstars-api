@@ -1,0 +1,24 @@
+{
+  "name": "CrowdSense",
+  "slug": "crowdsense",
+  "website": "https://linkedin.com/company/crowdsenseai",
+  "description": "NLP-based Intelligence as a Service Platform, that detects  breaking events, risks, and trends in real-time for risk management and business intelligence",
+  "one_liner": "NLP-based Intelligence as a Service Platform, that detects  breaking events, risks, and trends in real-time for risk management and business intelligence",
+  "location": "Tel Aviv, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Crowdsenseai",
+    "linkedin": "https://linkedin.com/company/crowdsenseai",
+    "facebook": "https://facebook.com/Crowdsenseai-2070664129695666/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/crowdsense",
+  "api": "/api/companies/crowdsense.json"
+}

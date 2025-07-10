@@ -1,0 +1,22 @@
+{
+  "name": "QuickCart",
+  "slug": "quickcart",
+  "website": "https://quickcartonline.com/",
+  "description": "QuickCart is a platform powering e-commerce and on-demand delivery for restaurants and stores.\n\nWe're currently one of the leading on-demand delivery platforms in Jamaica, with near-term plans to expand across the rest of the Caribbean and into Latin America.",
+  "one_liner": "QuickCart is a platform powering e-commerce and on-demand delivery for restaurants and stores.\n\nWe're currently one of the leading on-demand delivery platforms in Jamaica, with near-term plans to expand across the rest of the Caribbean and into Latin America.",
+  "location": "UWI, Saint Andrew Parish, Jamaica",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/quickcart"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/quickcart",
+  "api": "/api/companies/quickcart.json"
+}

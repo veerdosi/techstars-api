@@ -1,0 +1,23 @@
+{
+  "name": "Buildoor Labs",
+  "slug": "buildoor-labs",
+  "website": "https://buildoor.xyz/",
+  "description": "A Usability Infrastructure to simplify UX, retain, engage and track users in Web3",
+  "one_liner": "A Usability Infrastructure to simplify UX, retain, engage and track users in Web3",
+  "location": "Wardha, Maharashtra, India",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/%20buildoorxyz",
+    "linkedin": "https://linkedin.com/company/buildoorlabs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/buildoor-labs",
+  "api": "/api/companies/buildoor-labs.json"
+}

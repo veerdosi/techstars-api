@@ -1,0 +1,24 @@
+{
+  "name": "Biiah",
+  "slug": "biiah",
+  "website": "https://biiah.com/",
+  "description": "Biiah empowers people to reclaim their singing voice as a source of wellbeing through their app and associated virtual and in person singing sessions.",
+  "one_liner": "Biiah empowers people to reclaim their singing voice as a source of wellbeing through their app and associated virtual and in person singing sessions.",
+  "location": "Wembley, United Kingdom",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/tchzant",
+    "linkedin": "https://linkedin.com/company/choral-hub",
+    "facebook": "https://facebook.com/tchzant/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/biiah",
+  "api": "/api/companies/biiah.json"
+}

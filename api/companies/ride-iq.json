@@ -1,0 +1,23 @@
+{
+  "name": "Ride iQ",
+  "slug": "ride-iq",
+  "website": "https://ride-iq.com/",
+  "description": "Transform your independent schooling today with on-demand audio lessons taught by one of Ride iQ's world-class equestrian coaches with the mobile application.",
+  "one_liner": "Transform your independent schooling today with on-demand audio lessons taught by one of Ride iQ's world-class equestrian coaches with the mobile application.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ul0xnttd7zjtev3lzmm4",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/ride-iq",
+    "facebook": "https://facebook.com/RideIQOfficial/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ride-iq",
+  "api": "/api/companies/ride-iq.json"
+}

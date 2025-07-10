@@ -1,0 +1,23 @@
+{
+  "name": "Fathom",
+  "slug": "fathom",
+  "website": "https://fathompbc.org/",
+  "description": "For workforce directors with applicant tracking and job placement challenges, we provide a career management platform that streamlines employment, training, and support services for workforce agencies and organizations.",
+  "one_liner": "For workforce directors with applicant tracking and job placement challenges, we provide a career management platform that streamlines employment, training, and support services for workforce agencies and organizations.",
+  "location": "Antioch, Tennessee, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/fathom_pbc",
+    "linkedin": "https://linkedin.com/company/fathompbc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fathom",
+  "api": "/api/companies/fathom.json"
+}

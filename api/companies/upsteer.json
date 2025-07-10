@@ -1,0 +1,22 @@
+{
+  "name": "Upsteer",
+  "slug": "upsteer",
+  "website": "https://linkedin.com/company/upsteer-io",
+  "description": "Upsteer is an operations copilot for e-commerce brands that combines data across their business, enabling them to automate workflows from replenishment to wholesale operations and make the best decisions through task recommendations.",
+  "one_liner": "Upsteer is an operations copilot for e-commerce brands that combines data across their business, enabling them to automate workflows from replenishment to wholesale operations and make the best decisions through task recommendations.",
+  "location": "San Francisco, California, United States",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/upsteer-io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/upsteer",
+  "api": "/api/companies/upsteer.json"
+}

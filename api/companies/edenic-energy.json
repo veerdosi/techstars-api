@@ -1,0 +1,22 @@
+{
+  "name": "Edenic Energy",
+  "slug": "edenic-energy",
+  "website": "https://edenicenergy.ai/",
+  "description": "Edenic Energy is a Building Information Engine that connects updated data to outdated buildings in disadvantaged communities to address the high barriers of building retrofits and operational cost in old properties.",
+  "one_liner": "Edenic Energy is a Building Information Engine that connects updated data to outdated buildings in disadvantaged communities to address the high barriers of building retrofits and operational cost in old properties.",
+  "location": "Virginia Beach, Virginia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/thomaslhunterjr"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/edenic-energy",
+  "api": "/api/companies/edenic-energy.json"
+}

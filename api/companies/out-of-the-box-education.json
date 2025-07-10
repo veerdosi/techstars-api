@@ -1,0 +1,25 @@
+{
+  "name": "Out of the Box Education",
+  "slug": "out-of-the-box-education",
+  "website": "https://ootb.education/",
+  "description": "A complete learning solution for early learners, comprising software (learning platform with machine learning) and hardware (mobile classroom-in-a-box).",
+  "one_liner": "A complete learning solution for early learners, comprising software (learning platform with machine learning) and hardware (mobile classroom-in-a-box).",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/outofthebox_edu",
+    "linkedin": "https://linkedin.com/company/ootb-edu",
+    "facebook": "https://facebook.com/ootbedu%20,%20https://www.instagram.com/outofthebox_edu/%20,%20https://twitter.com/outofthebox_edu",
+    "instagram": "https://facebook.com/ootbedu%20,%20https://www.instagram.com/outofthebox_edu/%20,%20https://twitter.com/outofthebox_edu"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/out-of-the-box-education",
+  "api": "/api/companies/out-of-the-box-education.json"
+}

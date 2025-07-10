@@ -1,0 +1,22 @@
+{
+  "name": "Making Space",
+  "slug": "making-space",
+  "website": "https://making-space.com/",
+  "description": "Talent acquisition and learning experience platform for companies to access pre-qualified underrepresented talent pools.",
+  "one_liner": "Talent acquisition and learning experience platform for companies to access pre-qualified underrepresented talent pools.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/makingspacework"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/making-space",
+  "api": "/api/companies/making-space.json"
+}

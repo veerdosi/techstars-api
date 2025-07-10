@@ -1,0 +1,24 @@
+{
+  "name": "AppSheet",
+  "slug": "appsheet",
+  "website": "https://appsheet.com/",
+  "description": "AppSheet lets you create mobile apps automatically and instantly",
+  "one_liner": "AppSheet lets you create mobile apps automatically and instantly",
+  "location": "Bellevue, Washington, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/appsheet",
+    "linkedin": "https://linkedin.com/company/4794728",
+    "facebook": "https://facebook.com/appsheet"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/appsheet",
+  "api": "/api/companies/appsheet.json"
+}

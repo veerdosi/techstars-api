@@ -1,0 +1,24 @@
+{
+  "name": "SwiftComply",
+  "slug": "swiftcomply",
+  "website": "https://swiftcomply.io/",
+  "description": "Simplifying environmental compliance for more sustainable communities.",
+  "one_liner": "Simplifying environmental compliance for more sustainable communities.",
+  "location": "Dublin, Ireland",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SwiftComply",
+    "linkedin": "https://linkedin.com/company/swiftcomply",
+    "facebook": "https://facebook.com/SwiftComply"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/swiftcomply",
+  "api": "/api/companies/swiftcomply.json"
+}

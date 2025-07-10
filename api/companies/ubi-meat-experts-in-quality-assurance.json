@@ -1,0 +1,24 @@
+{
+  "name": "UBI Meat Experts in Quality Assurance",
+  "slug": "ubi-meat-experts-in-quality-assurance",
+  "website": "https://ubimeat.com/",
+  "description": "UBI's a meat grading and monitoring platform that leverages AI/ML helping meat processors to measure and document quality assurance in real-time.",
+  "one_liner": "UBI's a meat grading and monitoring platform that leverages AI/ML helping meat processors to measure and document quality assurance in real-time.",
+  "location": "Montréal, Quebec, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ubimeat",
+    "linkedin": "https://linkedin.com/company/ubi-meat",
+    "facebook": "https://facebook.com/ubimeat/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ubi-meat-experts-in-quality-assurance",
+  "api": "/api/companies/ubi-meat-experts-in-quality-assurance.json"
+}

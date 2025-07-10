@@ -1,0 +1,24 @@
+{
+  "name": "Nise",
+  "slug": "nise",
+  "website": "https://nise.tech/",
+  "description": "Helping people create, experiment, and serve delicious food with smart hardware and an all-in-one cooking education app.",
+  "one_liner": "Helping people create, experiment, and serve delicious food with smart hardware and an all-in-one cooking education app.",
+  "location": "Brampton, Ontario, Canada",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/nisetech",
+    "linkedin": "https://linkedin.com/company/nisetechfrance",
+    "facebook": "https://facebook.com/nisetech/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nise",
+  "api": "/api/companies/nise.json"
+}

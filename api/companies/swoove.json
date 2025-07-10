@@ -1,0 +1,24 @@
+{
+  "name": "Swoove",
+  "slug": "swoove",
+  "website": "https://swoove.delivery/",
+  "description": "Swoove is a tech aggregator platform of logistics infrastructure for African commerce",
+  "one_liner": "Swoove is a tech aggregator platform of logistics infrastructure for African commerce",
+  "location": "New York City, Delaware, United States",
+  "industry": "B2B payments",
+  "industry_slug": "b2b-payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/etry1mhcmhp8ezp2mcjb",
+  "social_media": {
+    "twitter": "https://twitter.com/swoovedelivery",
+    "linkedin": "https://linkedin.com/company/swoove",
+    "facebook": "https://facebook.com/swoovedeliveries"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/swoove",
+  "api": "/api/companies/swoove.json"
+}

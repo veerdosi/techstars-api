@@ -1,0 +1,24 @@
+{
+  "name": "Hormonious Flo",
+  "slug": "hormonious-flo",
+  "website": "https://hormoniousflo.com/",
+  "description": "Hormonious Flo - Ending period pain naturally. \n\nTo view the company one-page summary click here -  https://app.buildmemo.com/s/v~8rrh",
+  "one_liner": "Hormonious Flo - Ending period pain naturally. \n\nTo view the company one-page summary click here -  https://app.buildmemo.com/s/v~8rrh",
+  "location": "London, United Kingdom",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hormoniousflo",
+    "linkedin": "https://linkedin.com/company/hormoniousflo",
+    "facebook": "https://facebook.com/hormoniousflo"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hormonious-flo",
+  "api": "/api/companies/hormonious-flo.json"
+}

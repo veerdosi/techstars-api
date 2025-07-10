@@ -1,0 +1,22 @@
+{
+  "name": "Gabriel Money",
+  "slug": "gabriel-money",
+  "website": "https://gabriel.money/",
+  "description": "A fintech for young Americans of Latino origin with no or low credit score, using AI to help them build credit and access non-predatory financial products.",
+  "one_liner": "A fintech for young Americans of Latino origin with no or low credit score, using AI to help them build credit and access non-predatory financial products.",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/gabrielmoney"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gabriel-money",
+  "api": "/api/companies/gabriel-money.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Cashpool",
+  "slug": "cashpool",
+  "website": "https://joinmypool.co/",
+  "description": "Cashpool is a social trading app that decentralizes the hedge fund sector by combining copy trading and community in the stock market and crypto to recreate the experience for retail investors.",
+  "one_liner": "Cashpool is a social trading app that decentralizes the hedge fund sector by combining copy trading and community in the stock market and crypto to recreate the experience for retail investors.",
+  "location": "Houston, Texas, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/cashpoolco"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cashpool",
+  "api": "/api/companies/cashpool.json"
+}

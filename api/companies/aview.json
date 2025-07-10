@@ -1,0 +1,23 @@
+{
+  "name": "AVIEW",
+  "slug": "aview",
+  "website": "https://aviewint.com/",
+  "description": "Aview translates, dubs and redistributes content to unlock creators' full global audience.",
+  "one_liner": "Aview translates, dubs and redistributes content to unlock creators' full global audience.",
+  "location": "Ancaster, Ontario, Canada",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ji4rbpzsbnxqag45azue",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/aview-international",
+    "facebook": "https://facebook.com/aviewinternational"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/aview",
+  "api": "/api/companies/aview.json"
+}

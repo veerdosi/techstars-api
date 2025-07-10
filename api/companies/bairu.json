@@ -1,0 +1,22 @@
+{
+  "name": "Bairu",
+  "slug": "bairu",
+  "website": "https://bairu.io/",
+  "description": "Bairu is making self-service accessible for independent restaurant owners.",
+  "one_liner": "Bairu is making self-service accessible for independent restaurant owners.",
+  "location": "La Paz, Bolivia",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/bairu"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bairu",
+  "api": "/api/companies/bairu.json"
+}

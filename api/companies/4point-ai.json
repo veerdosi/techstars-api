@@ -1,0 +1,22 @@
+{
+  "name": "4Point AI",
+  "slug": "4point-ai",
+  "website": "https://4point.ai/",
+  "description": "AI/ML for predictive ore mapping, helping junior mines accurately drill future cores.",
+  "one_liner": "AI/ML for predictive ore mapping, helping junior mines accurately drill future cores.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/4point-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/4point-ai",
+  "api": "/api/companies/4point-ai.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Thola",
+  "slug": "thola",
+  "website": "https://3d-imo.com/",
+  "description": "Thola is providing reliability of old industrial buildings and their systems infrastructure through an automated energy consumption monitoring and facilities monitoring software paired with smart thermal imaging sensors to provide real-time monitoring of building performance and detect early equipment fault risks and generate actionable real-time warnings in our software.",
+  "one_liner": "Thola is providing reliability of old industrial buildings and their systems infrastructure through an automated energy consumption monitoring and facilities monitoring software paired with smart thermal imaging sensors to provide real-time monitoring of building performance and detect early equipment fault risks and generate actionable real-time warnings in our software.",
+  "location": "Mountain View, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/3d_imo",
+    "linkedin": "https://linkedin.com/company/thola-inc",
+    "facebook": "https://facebook.com/3_dimo-118635522875710"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/thola",
+  "api": "/api/companies/thola.json"
+}

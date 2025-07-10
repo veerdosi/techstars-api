@@ -1,0 +1,23 @@
+{
+  "name": "Autoket",
+  "slug": "autoket",
+  "website": "https://autoket.com/",
+  "description": "AI-Powered B2B Marketplace for Auto Parts",
+  "one_liner": "AI-Powered B2B Marketplace for Auto Parts",
+  "location": "Fort Lauderdale, Florida, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/autoketofficial",
+    "linkedin": "https://linkedin.com/company/autoketofficial"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/autoket",
+  "api": "/api/companies/autoket.json"
+}

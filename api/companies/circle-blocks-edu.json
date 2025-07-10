@@ -1,0 +1,24 @@
+{
+  "name": "Circle Blocks Edu",
+  "slug": "circle-blocks-edu",
+  "website": "https://plabookeducation.com/",
+  "description": "A reading technology that uses natural language processing, speech recognitions and artificial intelligence to teach children how to read",
+  "one_liner": "A reading technology that uses natural language processing, speech recognitions and artificial intelligence to teach children how to read",
+  "location": "Lees Summit, Missouri, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/plabookedu",
+    "linkedin": "https://linkedin.com/company/plabook",
+    "facebook": "https://facebook.com/plabookeducation"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/circle-blocks-edu",
+  "api": "/api/companies/circle-blocks-edu.json"
+}

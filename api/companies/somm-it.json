@@ -1,0 +1,24 @@
+{
+  "name": "SOMM'IT",
+  "slug": "somm-it",
+  "website": "https://linkedin.com/company/11042943",
+  "description": "Somm'It is the ultimate beverages management tool for restaurants who use beverages as key asset for profitability",
+  "one_liner": "Somm'It is the ultimate beverages management tool for restaurants who use beverages as key asset for profitability",
+  "location": "Bordeaux, France",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sommitapp",
+    "linkedin": "https://linkedin.com/company/11042943",
+    "facebook": "https://facebook.com/sommitapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/somm-it",
+  "api": "/api/companies/somm-it.json"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "TUX",
+  "slug": "tux",
+  "website": "https://tux.money/",
+  "description": "For employees with unvested RSU compensation that are worried their companies stock price will drop, we provide downside protection while allowing them full participation in stock's future appreciation.",
+  "one_liner": "For employees with unvested RSU compensation that are worried their companies stock price will drop, we provide downside protection while allowing them full participation in stock's future appreciation.",
+  "location": "San Francisco, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tux",
+  "api": "/api/companies/tux.json"
+}

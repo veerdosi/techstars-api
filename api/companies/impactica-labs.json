@@ -1,0 +1,22 @@
+{
+  "name": "Impactica Labs",
+  "slug": "impactica-labs",
+  "website": "https://impactica.co/",
+  "description": "Collects household financial data & documents so customers can successfully apply and maintain access to government benefits.",
+  "one_liner": "Collects household financial data & documents so customers can successfully apply and maintain access to government benefits.",
+  "location": "Staten Island, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/impacticaco"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/impactica-labs",
+  "api": "/api/companies/impactica-labs.json"
+}

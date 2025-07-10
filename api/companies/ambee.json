@@ -1,0 +1,24 @@
+{
+  "name": "Ambee",
+  "slug": "ambee",
+  "website": "https://getambee.com/",
+  "description": "Ambee aims to make hyperlocal air quality data accessable to developers, consumers, health researchers and media companies",
+  "one_liner": "Ambee aims to make hyperlocal air quality data accessable to developers, consumers, health researchers and media companies",
+  "location": "Bengaluru, Karnataka, India",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/get_ambee",
+    "linkedin": "https://linkedin.com/company/getambee",
+    "facebook": "https://facebook.com/getambee/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ambee",
+  "api": "/api/companies/ambee.json"
+}

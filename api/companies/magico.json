@@ -1,0 +1,24 @@
+{
+  "name": "Magico",
+  "slug": "magico",
+  "website": "https://linkedin.com/company/magicoai",
+  "description": "An Apple Watch app that allows users to control their smart TV with simple hand gestures",
+  "one_liner": "An Apple Watch app that allows users to control their smart TV with simple hand gestures",
+  "location": "Tel Aviv, Israel",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/MagichoApp",
+    "linkedin": "https://linkedin.com/company/magicoai",
+    "facebook": "https://facebook.com/MagichoApp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/magico",
+  "api": "/api/companies/magico.json"
+}

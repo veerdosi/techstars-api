@@ -1,0 +1,22 @@
+{
+  "name": "24seven",
+  "slug": "24seven",
+  "website": "https://24seventech.co/",
+  "description": "24Seven is an asset-light marketplace where small companies and convenience stores can order merchandise.",
+  "one_liner": "24Seven is an asset-light marketplace where small companies and convenience stores can order merchandise.",
+  "location": "Agege, Nigeria",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gijrrtv56jfy07e0h05z",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/24seven-co"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/24seven",
+  "api": "/api/companies/24seven.json"
+}

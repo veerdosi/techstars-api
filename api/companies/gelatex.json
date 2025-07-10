@@ -1,0 +1,24 @@
+{
+  "name": "Gelatex",
+  "slug": "gelatex",
+  "website": "https://gelatex.com/",
+  "description": "Gelatex is the catalyst for cultured meat, wound care, filtration, and energy storage by providing up to 100 times cheaper and scalable nanofiber production.",
+  "one_liner": "Gelatex is the catalyst for cultured meat, wound care, filtration, and energy storage by providing up to 100 times cheaper and scalable nanofiber production.",
+  "location": "Tallinn, Estonia",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/gela_tex",
+    "linkedin": "https://linkedin.com/company/gelatex",
+    "facebook": "https://facebook.com/gelatex/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gelatex",
+  "api": "/api/companies/gelatex.json"
+}

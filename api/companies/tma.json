@@ -1,0 +1,22 @@
+{
+  "name": "TMA",
+  "slug": "tma",
+  "website": "https://tmaiot.com/",
+  "description": "TMA, The Hazardous Goods Companion",
+  "one_liner": "TMA, The Hazardous Goods Companion",
+  "location": "Berlin, Germany",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/margaux-pages"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tma",
+  "api": "/api/companies/tma.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "TEST JAR LABS",
+  "slug": "test-jar-labs",
+  "website": "https://testjarlabs.com/",
+  "description": "A future focused experimentation brand with an emphasis on tech and entertainment.",
+  "one_liner": "A future focused experimentation brand with an emphasis on tech and entertainment.",
+  "location": "Santa Monica, California, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ki5cd7v4ge3mkgug0e6t",
+  "social_media": {
+    "twitter": "https://twitter.com/testjarlabs",
+    "linkedin": "https://linkedin.com/company/testjarlabs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/test-jar-labs",
+  "api": "/api/companies/test-jar-labs.json"
+}

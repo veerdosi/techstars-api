@@ -1,0 +1,24 @@
+{
+  "name": "ShuttleCloud",
+  "slug": "shuttlecloud",
+  "website": "https://shuttlecloud.com/",
+  "description": "Tech holding company",
+  "one_liner": "Tech holding company",
+  "location": "Exton, Pennsylvania, United States",
+  "industry": "SaaS",
+  "industry_slug": "saas",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ShuttleCloud",
+    "linkedin": "https://linkedin.com/company/shuttlecloud-corp-",
+    "facebook": "https://facebook.com/ShuttleCloud"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/shuttlecloud",
+  "api": "/api/companies/shuttlecloud.json"
+}

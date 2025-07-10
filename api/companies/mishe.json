@@ -1,0 +1,24 @@
+{
+  "name": "mishe",
+  "slug": "mishe",
+  "website": "https://mishe.co/",
+  "description": "Mishe brings price transparency for healthcare procedures, providing patients access to discounted rates while enabling providers to receive guaranteed upfront payments bypassing the insurance reimbursement process.",
+  "one_liner": "Mishe brings price transparency for healthcare procedures, providing patients access to discounted rates while enabling providers to receive guaranteed upfront payments bypassing the insurance reimbursement process.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mishehealth",
+    "linkedin": "https://linkedin.com/company/mishecare",
+    "facebook": "https://facebook.com/mishe.care"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mishe",
+  "api": "/api/companies/mishe.json"
+}

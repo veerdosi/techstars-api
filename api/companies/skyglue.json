@@ -1,0 +1,24 @@
+{
+  "name": "SkyGlue",
+  "slug": "skyglue",
+  "website": "https://linkedin.com/company/skyglue.com",
+  "description": "A powerful Google Analytics extension that enables people tracking and actions tracking in the simplest way",
+  "one_liner": "A powerful Google Analytics extension that enables people tracking and actions tracking in the simplest way",
+  "location": "Santa Clara, California, United States",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SkyGlue",
+    "linkedin": "https://linkedin.com/company/skyglue.com",
+    "facebook": "https://facebook.com/skyglue"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/skyglue",
+  "api": "/api/companies/skyglue.json"
+}

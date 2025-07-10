@@ -1,0 +1,24 @@
+{
+  "name": "Spero",
+  "slug": "spero",
+  "website": "https://linkedin.com/company/spero-hq",
+  "description": "Spero builds mobile communities and tools for chronic illnesses.",
+  "one_liner": "Spero builds mobile communities and tools for chronic illnesses.",
+  "location": "Salt Lake City, Utah, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/speroforcancer",
+    "linkedin": "https://linkedin.com/company/spero-hq",
+    "facebook": "https://facebook.com/sperohq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/spero",
+  "api": "/api/companies/spero.json"
+}

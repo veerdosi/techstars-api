@@ -1,0 +1,24 @@
+{
+  "name": "Praktice AI",
+  "slug": "praktice-ai",
+  "website": "https://linkedin.com/company/prakticeai",
+  "description": "AI driven speech bots for hospitals to automate 70% of the daily transactions within the hospital and engage patients 10x better.",
+  "one_liner": "AI driven speech bots for hospitals to automate 70% of the daily transactions within the hospital and engage patients 10x better.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/praktice_ai",
+    "linkedin": "https://linkedin.com/company/prakticeai",
+    "facebook": "https://facebook.com/prakticeai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/praktice-ai",
+  "api": "/api/companies/praktice-ai.json"
+}

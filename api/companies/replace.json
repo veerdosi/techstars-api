@@ -1,0 +1,24 @@
+{
+  "name": "Replace",
+  "slug": "replace",
+  "website": "https://replacefund.com/",
+  "description": "Services for Renewable Energy",
+  "one_liner": "Services for Renewable Energy",
+  "location": "Tel Aviv, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Replacefund",
+    "linkedin": "https://linkedin.com/company/renewable-energy-place-ltd",
+    "facebook": "https://facebook.com/Replacefund"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/replace",
+  "api": "/api/companies/replace.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Permitech",
+  "slug": "permitech",
+  "website": "https://permi.tech/",
+  "description": "Permitech is a software platform that empowers industrial operators to minimize safety incidents.",
+  "one_liner": "Permitech is a software platform that empowers industrial operators to minimize safety incidents.",
+  "location": "Dammam, Saudi Arabia",
+  "industry": "Industrials",
+  "industry_slug": "industrials",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/uhhbmk1ceeqbtrvfkydo",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/permittech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/permitech",
+  "api": "/api/companies/permitech.json"
+}

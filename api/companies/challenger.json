@@ -1,0 +1,23 @@
+{
+  "name": "Challenger",
+  "slug": "challenger",
+  "website": "https://getchallenger.com/",
+  "description": "Challenger Finance is a flexible consumer banking platform for customer and employee retention.",
+  "one_liner": "Challenger Finance is a flexible consumer banking platform for customer and employee retention.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/IncChallenger",
+    "linkedin": "https://linkedin.com/company/challengerfinance"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/challenger",
+  "api": "/api/companies/challenger.json"
+}

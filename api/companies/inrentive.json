@@ -1,0 +1,24 @@
+{
+  "name": "inRentive",
+  "slug": "inrentive",
+  "website": "https://linkedin.com/company/inrentive",
+  "description": "A cloud-based platform for managing multifamily housing listings and vacancy content.",
+  "one_liner": "A cloud-based platform for managing multifamily housing listings and vacancy content.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Real estate tech",
+  "industry_slug": "real-estate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/InRentive",
+    "linkedin": "https://linkedin.com/company/inrentive",
+    "facebook": "https://facebook.com/InRentive"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/inrentive",
+  "api": "/api/companies/inrentive.json"
+}

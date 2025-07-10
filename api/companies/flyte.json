@@ -1,0 +1,24 @@
+{
+  "name": "Flyte",
+  "slug": "flyte",
+  "website": "https://flyteai.com/",
+  "description": "AI platform that helps sales teams sell more and sell better by extracting conversational intelligence from client calls",
+  "one_liner": "AI platform that helps sales teams sell more and sell better by extracting conversational intelligence from client calls",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/flytenotes",
+    "linkedin": "https://linkedin.com/company/flyteai",
+    "facebook": "https://facebook.com/thisisflyte"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/flyte",
+  "api": "/api/companies/flyte.json"
+}

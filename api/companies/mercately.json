@@ -1,0 +1,24 @@
+{
+  "name": "Mercately",
+  "slug": "mercately",
+  "website": "https://mercately.com/",
+  "description": "Mercately is an ecommerce platform for messaging apps. We offer a CRM with omnichannel communications that helps SMEs to increase their sales",
+  "one_liner": "Mercately is an ecommerce platform for messaging apps. We offer a CRM with omnichannel communications that helps SMEs to increase their sales",
+  "location": "Sheridan, Wyoming, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mercately",
+    "linkedin": "https://linkedin.com/company/mercately",
+    "facebook": "https://facebook.com/mercately/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mercately",
+  "api": "/api/companies/mercately.json"
+}

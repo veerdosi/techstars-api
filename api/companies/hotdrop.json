@@ -1,0 +1,23 @@
+{
+  "name": "HotDrop",
+  "slug": "hotdrop",
+  "website": "https://hotdropapp.com/",
+  "description": "HotDrop is an app that connects artists with fans, making music discovery simple and social.",
+  "one_liner": "HotDrop is an app that connects artists with fans, making music discovery simple and social.",
+  "location": "Needham, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/al9yijbig23f9p8u2shp",
+  "social_media": {
+    "twitter": "https://twitter.com/officialhotdrop",
+    "linkedin": "https://linkedin.com/company/hotdropapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hotdrop",
+  "api": "/api/companies/hotdrop.json"
+}

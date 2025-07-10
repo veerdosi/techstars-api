@@ -1,0 +1,22 @@
+{
+  "name": "ECO2GROW",
+  "slug": "eco2grow",
+  "website": "https://eco2grow.com/",
+  "description": "Making sourcing green energy as easy as possible for businesses.",
+  "one_liner": "Making sourcing green energy as easy as possible for businesses.",
+  "location": "Bonn, Germany",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/eco2grow"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/eco2grow",
+  "api": "/api/companies/eco2grow.json"
+}

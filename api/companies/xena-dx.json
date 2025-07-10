@@ -1,0 +1,22 @@
+{
+  "name": "XENA Dx",
+  "slug": "xena-dx",
+  "website": "https://xenadx.com/",
+  "description": "Xena Dx is a healthcare company that develops AI-based non-invasive diagnostic solutions for endometriosis.",
+  "one_liner": "Xena Dx is a healthcare company that develops AI-based non-invasive diagnostic solutions for endometriosis.",
+  "location": "Ludwigshafen, Germany",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/k1jto57qsgew2rn7tpuc",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/xena-dx"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/xena-dx",
+  "api": "/api/companies/xena-dx.json"
+}

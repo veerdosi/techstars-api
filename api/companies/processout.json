@@ -1,0 +1,24 @@
+{
+  "name": "ProcessOut",
+  "slug": "processout",
+  "website": "https://processout.com/",
+  "description": "ProcessOut is the smart router for payments that saves money by optimizing each transaction.",
+  "one_liner": "ProcessOut is the smart router for payments that saves money by optimizing each transaction.",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/processout",
+    "linkedin": "https://linkedin.com/company/processout",
+    "facebook": "https://facebook.com/processout"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/processout",
+  "api": "/api/companies/processout.json"
+}

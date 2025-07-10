@@ -1,0 +1,22 @@
+{
+  "name": "MATERIA intel",
+  "slug": "materia-intel",
+  "website": "https://materiaintel.com/",
+  "description": "World's first border carbon adjustment (BCA) market intelligence platform",
+  "one_liner": "World's first border carbon adjustment (BCA) market intelligence platform",
+  "location": "Roma, Rome, Italy",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/martellafrancesco"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/materia-intel",
+  "api": "/api/companies/materia-intel.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Smartbin",
+  "slug": "smartbin",
+  "website": "https://smartbin.io/",
+  "description": "Smartbin is an indoor waste bin that notifies you when its full, keeps your space tidy and collects data about waste and recycling generation every single day.",
+  "one_liner": "Smartbin is an indoor waste bin that notifies you when its full, keeps your space tidy and collects data about waste and recycling generation every single day.",
+  "location": "Walnut, California, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Smartbin_",
+    "linkedin": "https://linkedin.com/company/GetSmartBin"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/smartbin",
+  "api": "/api/companies/smartbin.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "FitBark",
+  "slug": "fitbark",
+  "website": "https://fitbark.com/",
+  "description": "Healthy Together",
+  "one_liner": "Healthy Together",
+  "location": "Forest Hills, New York, United States",
+  "industry": "Insurtech",
+  "industry_slug": "insurtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/fitbark",
+    "linkedin": "https://linkedin.com/company/fitbark",
+    "facebook": "https://facebook.com/fitbark"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fitbark",
+  "api": "/api/companies/fitbark.json"
+}

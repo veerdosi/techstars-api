@@ -1,0 +1,24 @@
+{
+  "name": "Rainway",
+  "slug": "rainway",
+  "website": "https://rainway.io/",
+  "description": "Rainway is a web-based game streaming platform that lets users play their favorite PC games on different devices so they can play anywhere.",
+  "one_liner": "Rainway is a web-based game streaming platform that lets users play their favorite PC games on different devices so they can play anywhere.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/rainwayapp",
+    "linkedin": "https://linkedin.com/company/rainway-inc",
+    "facebook": "https://facebook.com/RainwayApp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rainway",
+  "api": "/api/companies/rainway.json"
+}

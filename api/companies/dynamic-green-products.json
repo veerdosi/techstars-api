@@ -1,0 +1,24 @@
+{
+  "name": "Dynamic Green Products",
+  "slug": "dynamic-green-products",
+  "website": "https://nvearth.com/",
+  "description": "Innovative products for a cleaner future",
+  "one_liner": "Innovative products for a cleaner future",
+  "location": "Houston, Texas, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/dgpworks",
+    "linkedin": "https://linkedin.com/in/dynamic-green-products-63a0b733",
+    "facebook": "https://facebook.com/nvearth"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dynamic-green-products",
+  "api": "/api/companies/dynamic-green-products.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Spyn Pay",
+  "slug": "spyn-pay",
+  "website": "https://linkedin.com/company/spyn-card",
+  "description": "A fintech startup offering a card that keeps you out of debt and in control of your finances.",
+  "one_liner": "A fintech startup offering a card that keeps you out of debt and in control of your finances.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SpynCard",
+    "linkedin": "https://linkedin.com/company/spyn-card",
+    "facebook": "https://facebook.com/spyncards"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/spyn-pay",
+  "api": "/api/companies/spyn-pay.json"
+}

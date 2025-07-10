@@ -1,0 +1,23 @@
+{
+  "name": "Dimeq",
+  "slug": "dimeq",
+  "website": "https://dimeq.no/",
+  "description": "No more lives lost at sea with nextgen IoT",
+  "one_liner": "No more lives lost at sea with nextgen IoT",
+  "location": "Kalvåg, Norway",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/dimeq",
+    "facebook": "https://facebook.com/Dimeq.norway/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dimeq",
+  "api": "/api/companies/dimeq.json"
+}

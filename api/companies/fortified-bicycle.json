@@ -1,0 +1,24 @@
+{
+  "name": "Fortified Bicycle",
+  "slug": "fortified-bicycle",
+  "website": "https://fortifiedbike.com/",
+  "description": "Bike gear that survives the city. Guaranteed against theft.",
+  "one_liner": "Bike gear that survives the city. Guaranteed against theft.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/FORTIFIEDbike",
+    "linkedin": "https://linkedin.com/company/fortified-bicycle-alliance",
+    "facebook": "https://facebook.com/fortifiedbike"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fortified-bicycle",
+  "api": "/api/companies/fortified-bicycle.json"
+}

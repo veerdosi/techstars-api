@@ -1,0 +1,24 @@
+{
+  "name": "EnMass Energy",
+  "slug": "enmass-energy",
+  "website": "https://linkedin.com/company/enmass-energy",
+  "description": "EnMass Energy operates a global platform supporting waste-to-energy projects through optimized collection, transportation, and operation of RE projects.",
+  "one_liner": "EnMass Energy operates a global platform supporting waste-to-energy projects through optimized collection, transportation, and operation of RE projects.",
+  "location": "Durham, North Carolina, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/enmassenergy",
+    "linkedin": "https://linkedin.com/company/enmass-energy",
+    "facebook": "https://facebook.com/enmassenergy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/enmass-energy",
+  "api": "/api/companies/enmass-energy.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Giftbit",
+  "slug": "giftbit",
+  "website": "https://giftbit.com/",
+  "description": "The digital-first gift card platform.",
+  "one_liner": "The digital-first gift card platform.",
+  "location": "Victoria, British Columbia, Canada",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/giftbit",
+    "linkedin": "https://linkedin.com/company/giftbit",
+    "facebook": "https://facebook.com/getgiftbit"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/giftbit",
+  "api": "/api/companies/giftbit.json"
+}

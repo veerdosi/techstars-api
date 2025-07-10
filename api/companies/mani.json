@@ -1,0 +1,24 @@
+{
+  "name": "Mani",
+  "slug": "mani",
+  "website": "https://manime.co/",
+  "description": "Designer nails made for you, delivered to your door.",
+  "one_liner": "Designer nails made for you, delivered to your door.",
+  "location": "Palo Alto, California, United States",
+  "industry": "Beauty",
+  "industry_slug": "beauty",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ManiMe_Co",
+    "linkedin": "https://linkedin.com/company/mani-me",
+    "facebook": "https://facebook.com/manime.co"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mani",
+  "api": "/api/companies/mani.json"
+}

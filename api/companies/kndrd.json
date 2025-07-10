@@ -1,0 +1,24 @@
+{
+  "name": "Kndrd",
+  "slug": "kndrd",
+  "website": "https://kndrd.io/",
+  "description": "CoLiving Management Software and Global Directory. Technology to facilitate the living in CoLiving",
+  "one_liner": "CoLiving Management Software and Global Directory. Technology to facilitate the living in CoLiving",
+  "location": "Los Angeles, California, United States",
+  "industry": "Real estate tech",
+  "industry_slug": "real-estate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/kndrd_io",
+    "linkedin": "https://linkedin.com/company/kndrd-io",
+    "facebook": "https://facebook.com/kndrd.io/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kndrd",
+  "api": "/api/companies/kndrd.json"
+}

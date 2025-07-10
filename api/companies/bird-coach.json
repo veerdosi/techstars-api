@@ -1,0 +1,23 @@
+{
+  "name": "Bird Coach",
+  "slug": "bird-coach",
+  "website": "https://linkedin.com/company/birdcoach",
+  "description": "Solving the gap in the endurance sports market by bringing affordable, personalized  coaching to more athletes.",
+  "one_liner": "Solving the gap in the endurance sports market by bringing affordable, personalized  coaching to more athletes.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/birdcoach",
+    "facebook": "https://facebook.com/birdcoach"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bird-coach",
+  "api": "/api/companies/bird-coach.json"
+}

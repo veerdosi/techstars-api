@@ -1,0 +1,22 @@
+{
+  "name": "Nimbus Aerospace",
+  "slug": "nimbus-aerospace",
+  "website": "https://nimbusaerospace.com/",
+  "description": "Electrifying private air travel",
+  "one_liner": "Electrifying private air travel",
+  "location": "Wilmington, Delaware, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/95763755"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nimbus-aerospace",
+  "api": "/api/companies/nimbus-aerospace.json"
+}

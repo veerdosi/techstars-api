@@ -1,0 +1,22 @@
+{
+  "name": "OptiFab Technologies",
+  "slug": "optifab-technologies",
+  "website": "https://opti-fab.com/",
+  "description": "OptiFab uses AI-driven solutions to eliminate repetitive tasks in manufacturing, reducing human errors and ensuring faster, smarter and more efficient production.",
+  "one_liner": "OptiFab uses AI-driven solutions to eliminate repetitive tasks in manufacturing, reducing human errors and ensuring faster, smarter and more efficient production.",
+  "location": "Kitchener, Ontario, Canada",
+  "industry": "3D printing",
+  "industry_slug": "3d-printing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/optifab-technologies-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/optifab-technologies",
+  "api": "/api/companies/optifab-technologies.json"
+}

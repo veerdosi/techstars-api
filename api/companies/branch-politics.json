@@ -1,0 +1,24 @@
+{
+  "name": "Branch Politics",
+  "slug": "branch-politics",
+  "website": "https://branch.vote/",
+  "description": "Website that walks you through the elections and candidates in your area. We break down who the candidates are, what they believe, and why it matters, so you can quickly and confidently vote for who aligns with your values.",
+  "one_liner": "Website that walks you through the elections and candidates in your area. We break down who the candidates are, what they believe, and why it matters, so you can quickly and confidently vote for who aligns with your values.",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/znysaai5wbi20foelvzc",
+  "social_media": {
+    "twitter": "https://twitter.com/branchpolitics",
+    "linkedin": "https://linkedin.com/company/branchpolitics",
+    "facebook": "https://facebook.com/branchpolitics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/branch-politics",
+  "api": "/api/companies/branch-politics.json"
+}

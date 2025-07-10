@@ -1,0 +1,23 @@
+{
+  "name": "BlackHedge",
+  "slug": "blackhedge",
+  "website": "https://blackhedge.io/",
+  "description": "Helping retail investors trade successfully. Meet the tool that helps you level up your investing strategy using AI.",
+  "one_liner": "Helping retail investors trade successfully. Meet the tool that helps you level up your investing strategy using AI.",
+  "location": "Ponte Vedra Beach, Florida, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rgynnuxjq94s4t3a4e7i",
+  "social_media": {
+    "twitter": "https://twitter.com/getblackhedge",
+    "linkedin": "https://linkedin.com/company/blackhedge-io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/blackhedge",
+  "api": "/api/companies/blackhedge.json"
+}

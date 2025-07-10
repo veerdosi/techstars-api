@@ -1,0 +1,24 @@
+{
+  "name": "ByDesign",
+  "slug": "bydesign",
+  "website": "https://bydesign.io/",
+  "description": "ByDesign is a tool that harnesses the power of accountability and brings life to effective planning.\r\n\r\n\r\nByDesign was founded in 2019 and was headquartered in Massachusetts.",
+  "one_liner": "ByDesign is a tool that harnesses the power of accountability and brings life to effective planning.\r\n\r\n\r\nByDesign was founded in 2019 and was headquartered in Massachusetts.",
+  "location": "Reading, Massachusetts, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/it95q1sli0plhbfodhjn",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/bydesignapp",
+    "facebook": "https://facebook.com/www.instagram.com/bydesignapp",
+    "instagram": "https://facebook.com/www.instagram.com/bydesignapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bydesign",
+  "api": "/api/companies/bydesign.json"
+}

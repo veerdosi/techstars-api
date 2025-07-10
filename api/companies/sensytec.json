@@ -1,0 +1,24 @@
+{
+  "name": "Sensytec",
+  "slug": "sensytec",
+  "website": "https://sensytec.com/",
+  "description": "Sensytec has developed a Patented Smart Cement Technology to help engineers to monitor cement conditions in real-time through the life-time of any structure.",
+  "one_liner": "Sensytec has developed a Patented Smart Cement Technology to help engineers to monitor cement conditions in real-time through the life-time of any structure.",
+  "location": "Houston, Texas, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Sensytec",
+    "linkedin": "https://linkedin.com/company/sensytec",
+    "facebook": "https://facebook.com/sensytec/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sensytec",
+  "api": "/api/companies/sensytec.json"
+}

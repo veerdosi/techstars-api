@@ -1,0 +1,24 @@
+{
+  "name": "CloudGuide",
+  "slug": "cloudguide",
+  "website": "https://cloudguide.me/",
+  "description": "The global app to guide and engage the visitors at tourist attractions.",
+  "one_liner": "The global app to guide and engage the visitors at tourist attractions.",
+  "location": "Barcelona, Spain",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/CloudGuideMe",
+    "linkedin": "https://linkedin.com/company/cloudguide-s-l",
+    "facebook": "https://facebook.com/cloudguide"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cloudguide",
+  "api": "/api/companies/cloudguide.json"
+}

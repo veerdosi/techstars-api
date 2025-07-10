@@ -1,0 +1,24 @@
+{
+  "name": "GroupRaise",
+  "slug": "groupraise",
+  "website": "https://groupraise.com/",
+  "description": "GroupRaise helps restaurants host large group meals, typically 20-200 people, in exchange for the restaurant donating a percentage back to a charitable cause.",
+  "one_liner": "GroupRaise helps restaurants host large group meals, typically 20-200 people, in exchange for the restaurant donating a percentage back to a charitable cause.",
+  "location": "Houston, Texas, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GroupRaise",
+    "linkedin": "https://linkedin.com/company/groupraise.com",
+    "facebook": "https://facebook.com/groupraise"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/groupraise",
+  "api": "/api/companies/groupraise.json"
+}

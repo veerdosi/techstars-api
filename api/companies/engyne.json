@@ -1,0 +1,22 @@
+{
+  "name": "Engyne",
+  "slug": "engyne",
+  "website": "https://engyne.ai/",
+  "description": "AI agents for B2B Content Marketing",
+  "one_liner": "AI agents for B2B Content Marketing",
+  "location": "Brampton, Ontario, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/engynehq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/engyne",
+  "api": "/api/companies/engyne.json"
+}

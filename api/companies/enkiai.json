@@ -1,0 +1,24 @@
+{
+  "name": "EnkiAI",
+  "slug": "enkiai",
+  "website": "https://enkiai.com/",
+  "description": "Revenue, business development, and investment teams use Enki to discover the next business opportunities.",
+  "one_liner": "Revenue, business development, and investment teams use Enki to discover the next business opportunities.",
+  "location": "Valencia, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/enkiai",
+    "linkedin": "https://linkedin.com/company/enkiai",
+    "facebook": "https://facebook.com/enkiai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/enkiai",
+  "api": "/api/companies/enkiai.json"
+}

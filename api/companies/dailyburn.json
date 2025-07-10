@@ -1,0 +1,24 @@
+{
+  "name": "DailyBurn",
+  "slug": "dailyburn",
+  "website": "https://dailyburn.com/",
+  "description": "Nutrition and fitness social network",
+  "one_liner": "Nutrition and fitness social network",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/dailyburn",
+    "linkedin": "https://linkedin.com/company/daily-burn-an-iac-company",
+    "facebook": "https://facebook.com/dailyburn"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dailyburn",
+  "api": "/api/companies/dailyburn.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "BTE Analytics",
+  "slug": "bte-analytics",
+  "website": "https://bteanalytics.co/",
+  "description": "Dribbling Reimagined",
+  "one_liner": "Dribbling Reimagined",
+  "location": "Raleigh, North Carolina, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/BTEanalytics",
+    "linkedin": "https://linkedin.com/company/bte-analytics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bte-analytics",
+  "api": "/api/companies/bte-analytics.json"
+}

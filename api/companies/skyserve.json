@@ -1,0 +1,22 @@
+{
+  "name": "SkySERVE",
+  "slug": "skyserve",
+  "website": "https://skyserve.ai/",
+  "description": "Geospatial insights for Businesses",
+  "one_liner": "Geospatial insights for Businesses",
+  "location": "Bengaluru, Karnataka, India",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ihgz0t94xqozd94bwmpn",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/skyserve-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/skyserve",
+  "api": "/api/companies/skyserve.json"
+}

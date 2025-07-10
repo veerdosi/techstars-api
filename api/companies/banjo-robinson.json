@@ -1,0 +1,24 @@
+{
+  "name": "Banjo Robinson",
+  "slug": "banjo-robinson",
+  "website": "https://banjorobinson.com/",
+  "description": "Introducing Banjo Robinson - your child's new pen pal! A new-to-market subscription which turns writing practice into a magical game for 5-8 year olds.",
+  "one_liner": "Introducing Banjo Robinson - your child's new pen pal! A new-to-market subscription which turns writing practice into a magical game for 5-8 year olds.",
+  "location": "London, United Kingdom",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/banjo_robinson_",
+    "linkedin": "https://linkedin.com/company/banjorobinson",
+    "facebook": "https://facebook.com/BanjoRobinson/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/banjo-robinson",
+  "api": "/api/companies/banjo-robinson.json"
+}

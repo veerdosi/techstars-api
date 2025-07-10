@@ -1,0 +1,23 @@
+{
+  "name": "Basking Automation",
+  "slug": "basking-automation",
+  "website": "https://basking.io/",
+  "description": "Basking.io is an ROI-driven building automation platform for the flexible office space market",
+  "one_liner": "Basking.io is an ROI-driven building automation platform for the flexible office space market",
+  "location": "Berlin, Germany",
+  "industry": "Real estate tech",
+  "industry_slug": "real-estate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/basking_io",
+    "linkedin": "https://linkedin.com/company/basking-workplace-analytics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/basking-automation",
+  "api": "/api/companies/basking-automation.json"
+}

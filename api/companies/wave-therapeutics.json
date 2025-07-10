@@ -1,0 +1,24 @@
+{
+  "name": "Wave Therapeutics",
+  "slug": "wave-therapeutics",
+  "website": "https://wavetherapeuticsinc.com/",
+  "description": "We've developed the first affordable and effective smart cushioning technology to prevent bedsores, save lives, and reduce a major healthcare burden.",
+  "one_liner": "We've developed the first affordable and effective smart cushioning technology to prevent bedsores, save lives, and reduce a major healthcare burden.",
+  "location": "Nashville, Indiana, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/wave4health",
+    "linkedin": "https://linkedin.com/company/wavetherapeuticsinc",
+    "facebook": "https://facebook.com/wavetherapeutics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/wave-therapeutics",
+  "api": "/api/companies/wave-therapeutics.json"
+}

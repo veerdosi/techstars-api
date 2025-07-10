@@ -1,0 +1,24 @@
+{
+  "name": "Improovy",
+  "slug": "improovy",
+  "website": "https://improovy.com/",
+  "description": "The Next Generation Of Home Improvement Service Delivery.",
+  "one_liner": "The Next Generation Of Home Improvement Service Delivery.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/improovy",
+    "linkedin": "https://linkedin.com/company/improovy",
+    "facebook": "https://facebook.com/improovy/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/improovy",
+  "api": "/api/companies/improovy.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "NEKOD",
+  "slug": "nekod",
+  "website": "https://nekod.co/",
+  "description": "Governance and monitoring for end user computing (low-code/no-code)",
+  "one_liner": "Governance and monitoring for end user computing (low-code/no-code)",
+  "location": "Amsterdam, North Holland, Netherlands",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/nekod"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nekod",
+  "api": "/api/companies/nekod.json"
+}

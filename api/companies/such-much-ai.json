@@ -1,0 +1,24 @@
+{
+  "name": "Such Much AI",
+  "slug": "such-much-ai",
+  "website": "https://suchmuchai.com/",
+  "description": "Such Much AI is a no-code procurement process AI automation platform. We empower organizations of all sizes to harness the power of AI without needing technical expertise. Our platform enables users to create AI-driven procurement or public tender workflows with a library of prompt templates or our proprietary AI agent based on open-source large language models (LLM).",
+  "one_liner": "Such Much AI is a no-code procurement process AI automation platform. We empower organizations of all sizes to harness the power of AI without needing technical expertise. Our platform enables users to create AI-driven procurement or public tender workflows with a library of prompt templates or our proprietary AI agent based on open-source large language models (LLM).",
+  "location": "San Francisco, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/whyvawanlnkdjfespqqg",
+  "social_media": {
+    "twitter": "https://twitter.com/such_much_ai",
+    "linkedin": "https://linkedin.com/company/such-much-ai",
+    "facebook": "https://facebook.com/suchmuchai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/such-much-ai",
+  "api": "/api/companies/such-much-ai.json"
+}

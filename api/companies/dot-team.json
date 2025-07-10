@@ -1,0 +1,22 @@
+{
+  "name": "Dot Team",
+  "slug": "dot-team",
+  "website": "https://linkedin.com/company/welcomedot",
+  "description": "Platform helping employees improve their financial wellbeing through a suite of automated optimizations and tools.",
+  "one_liner": "Platform helping employees improve their financial wellbeing through a suite of automated optimizations and tools.",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cnwoopzsvr83dvsuxcxs",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/welcomedot"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dot-team",
+  "api": "/api/companies/dot-team.json"
+}

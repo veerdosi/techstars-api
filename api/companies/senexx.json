@@ -1,0 +1,24 @@
+{
+  "name": "Senexx",
+  "slug": "senexx",
+  "website": "https://senexx.com/",
+  "description": "Ultimate social Q&A platform",
+  "one_liner": "Ultimate social Q&A platform",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SenexxInc",
+    "linkedin": "https://linkedin.com/company/2120877",
+    "facebook": "https://facebook.com/SenexxInc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/senexx",
+  "api": "/api/companies/senexx.json"
+}

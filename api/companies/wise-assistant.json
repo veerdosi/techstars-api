@@ -1,0 +1,24 @@
+{
+  "name": "Wise Assistant",
+  "slug": "wise-assistant",
+  "website": "https://wiseassistant.com/",
+  "description": "Wise is your partner in harnessing the power of community marketing. Building and nurturing a community around your brand is essential for success.",
+  "one_liner": "Wise is your partner in harnessing the power of community marketing. Building and nurturing a community around your brand is essential for success.",
+  "location": "San Francisco, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/gogetwise",
+    "linkedin": "https://linkedin.com/company/gogetwise",
+    "facebook": "https://facebook.com/wiseassistant/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/wise-assistant",
+  "api": "/api/companies/wise-assistant.json"
+}

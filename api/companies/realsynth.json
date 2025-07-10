@@ -1,0 +1,23 @@
+{
+  "name": "RealSynth",
+  "slug": "realsynth",
+  "website": "https://linkedin.com/company/18150568",
+  "description": "Fully custom synthetic annotated image data for machine learning applications",
+  "one_liner": "Fully custom synthetic annotated image data for machine learning applications",
+  "location": "Berlin, Germany",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/RealSynth_GmbH",
+    "linkedin": "https://linkedin.com/company/18150568"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/realsynth",
+  "api": "/api/companies/realsynth.json"
+}

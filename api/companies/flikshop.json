@@ -1,0 +1,24 @@
+{
+  "name": "Flikshop",
+  "slug": "flikshop",
+  "website": "https://flikshop.com/",
+  "description": "Helps families stay in touch with incarcerated loved ones through digitally created postcards",
+  "one_liner": "Helps families stay in touch with incarcerated loved ones through digitally created postcards",
+  "location": "Washington, District of Columbia, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/flikshop",
+    "linkedin": "https://linkedin.com/company/flikshop",
+    "facebook": "https://facebook.com/flikshop"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/flikshop",
+  "api": "/api/companies/flikshop.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Contently",
+  "slug": "contently",
+  "website": "https://contently.com/",
+  "description": "Empowering branded content",
+  "one_liner": "Empowering branded content",
+  "location": "New York City, New York, United States",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/contently",
+    "linkedin": "https://linkedin.com/company/contently",
+    "facebook": "https://facebook.com/contently"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/contently",
+  "api": "/api/companies/contently.json"
+}

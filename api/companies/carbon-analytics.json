@@ -1,0 +1,24 @@
+{
+  "name": "Carbon Analytics",
+  "slug": "carbon-analytics",
+  "website": "https://carbonanalytics.com/",
+  "description": "Carbon Analytics is a granular carbon tracking, intelligence and offsetting platform for industrial decarbonisation.",
+  "one_liner": "Carbon Analytics is a granular carbon tracking, intelligence and offsetting platform for industrial decarbonisation.",
+  "location": "Ely, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/prognosticio",
+    "linkedin": "https://linkedin.com/company/carbonanalytics",
+    "facebook": "https://facebook.com/co2analytics/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/carbon-analytics",
+  "api": "/api/companies/carbon-analytics.json"
+}

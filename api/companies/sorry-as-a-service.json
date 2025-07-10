@@ -1,0 +1,24 @@
+{
+  "name": "Sorry As A Service",
+  "slug": "sorry-as-a-service",
+  "website": "https://sorryasaservice.com/",
+  "description": "Sorry as a Service is a customer retention solution that enables businesses to send apologies, measure, track and optimize their retention activities and reduce churn and negative sentiment.",
+  "one_liner": "Sorry as a Service is a customer retention solution that enables businesses to send apologies, measure, track and optimize their retention activities and reduce churn and negative sentiment.",
+  "location": "Tallinn, Estonia",
+  "industry": "SaaS",
+  "industry_slug": "saas",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SorryAsAService",
+    "linkedin": "https://linkedin.com/company/sorry-as-a-service",
+    "facebook": "https://facebook.com/sorryasaservice"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sorry-as-a-service",
+  "api": "/api/companies/sorry-as-a-service.json"
+}

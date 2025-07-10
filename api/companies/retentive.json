@@ -1,0 +1,24 @@
+{
+  "name": "Retentive",
+  "slug": "retentive",
+  "website": "https://linkedin.com/company/showcasejobs",
+  "description": "Showcase makes dense business videos skimmable with chapters, transcripts and shareable highlights. They enable enterprises to own their customer relationships by bringing a suite of video tools into their existing environments.",
+  "one_liner": "Showcase makes dense business videos skimmable with chapters, transcripts and shareable highlights. They enable enterprises to own their customer relationships by bringing a suite of video tools into their existing environments.",
+  "location": "New York City, New York, United States",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/showcase_jobs",
+    "linkedin": "https://linkedin.com/company/showcasejobs",
+    "facebook": "https://facebook.com/showcasejobsnyc/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/retentive",
+  "api": "/api/companies/retentive.json"
+}

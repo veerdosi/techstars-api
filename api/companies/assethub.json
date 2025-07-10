@@ -1,0 +1,22 @@
+{
+  "name": "Assethub",
+  "slug": "assethub",
+  "website": "https://assethub.io/",
+  "description": "Provides an easy way to create unique 3D models from pictures using AI",
+  "one_liner": "Provides an easy way to create unique 3D models from pictures using AI",
+  "location": "San Francisco, California, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/takuya-goto-027ab0134"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/assethub",
+  "api": "/api/companies/assethub.json"
+}

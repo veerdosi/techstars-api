@@ -1,0 +1,24 @@
+{
+  "name": "Bloveit",
+  "slug": "bloveit",
+  "website": "https://linkedin.com/company/bloveit",
+  "description": "Bloveit is a date night concierge service that helps busy couples plan awesome dates at the click of a button.",
+  "one_liner": "Bloveit is a date night concierge service that helps busy couples plan awesome dates at the click of a button.",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/bloveitinc",
+    "linkedin": "https://linkedin.com/company/bloveit",
+    "facebook": "https://facebook.com/bloveitinc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bloveit",
+  "api": "/api/companies/bloveit.json"
+}

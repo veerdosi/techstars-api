@@ -1,0 +1,22 @@
+{
+  "name": "ToVieFor",
+  "slug": "toviefor",
+  "website": "https://crunchbase.com/organization/toviefor",
+  "description": "Choose the price you pay for lux fashion",
+  "one_liner": "Choose the price you pay for lux fashion",
+  "location": "New York City, New York, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/toviefor"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/toviefor",
+  "api": "/api/companies/toviefor.json"
+}

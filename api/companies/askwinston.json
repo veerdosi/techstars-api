@@ -1,0 +1,24 @@
+{
+  "name": "AskWinston",
+  "slug": "askwinston",
+  "website": "https://askwinston.io/",
+  "description": "Smart household manager for families.",
+  "one_liner": "Smart household manager for families.",
+  "location": "London, United Kingdom",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GetAskWinston",
+    "linkedin": "https://linkedin.com/in/jamesharbridge",
+    "facebook": "https://facebook.com/TryAbstract"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/askwinston",
+  "api": "/api/companies/askwinston.json"
+}

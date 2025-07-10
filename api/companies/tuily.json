@@ -1,0 +1,24 @@
+{
+  "name": "Tuily",
+  "slug": "tuily",
+  "website": "https://tuily.com/",
+  "description": "The business credit card for SMEs",
+  "one_liner": "The business credit card for SMEs",
+  "location": "Naples, Florida, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/tuilyco",
+    "linkedin": "https://linkedin.com/company/tuily",
+    "facebook": "https://facebook.com/tuilyco"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tuily",
+  "api": "/api/companies/tuily.json"
+}

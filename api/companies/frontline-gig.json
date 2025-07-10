@@ -1,0 +1,24 @@
+{
+  "name": "Frontline Gig",
+  "slug": "frontline-gig",
+  "website": "https://frontlinegig.com/",
+  "description": "Making it easy to source vetted, entry level and semi-skilled hourly workers for cleanups, inspections and managing green assets.",
+  "one_liner": "Making it easy to source vetted, entry level and semi-skilled hourly workers for cleanups, inspections and managing green assets.",
+  "location": "Norfolk, Virginia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gnm2roiv8ebolzmjghqc",
+  "social_media": {
+    "twitter": "https://twitter.com/FrontlineGig",
+    "linkedin": "https://linkedin.com/company/frontline-gig",
+    "facebook": "https://facebook.com/frontlinegig"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/frontline-gig",
+  "api": "/api/companies/frontline-gig.json"
+}

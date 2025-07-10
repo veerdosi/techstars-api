@@ -1,0 +1,22 @@
+{
+  "name": "Lagoon",
+  "slug": "lagoon",
+  "website": "https://data-lagoon.com/",
+  "description": "Lagoon empowers professional investors with no-code data science tools. Our technology combines the knowledge and experience of the investor with the power of the machine, generating data-driven actionable insights.",
+  "one_liner": "Lagoon empowers professional investors with no-code data science tools. Our technology combines the knowledge and experience of the investor with the power of the machine, generating data-driven actionable insights.",
+  "location": "Tel Aviv, Israel",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/datalagoon"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lagoon",
+  "api": "/api/companies/lagoon.json"
+}

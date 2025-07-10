@@ -1,0 +1,23 @@
+{
+  "name": "Jagger",
+  "slug": "jagger",
+  "website": "https://linkedin.com/company/jagger-solutions",
+  "description": "Rockstar marketing for brands. Drive more sales by harnessing the marketing power of your local resellers",
+  "one_liner": "Rockstar marketing for brands. Drive more sales by harnessing the marketing power of your local resellers",
+  "location": "Tel Aviv, Israel",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/jagger_ai",
+    "linkedin": "https://linkedin.com/company/jagger-solutions"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/jagger",
+  "api": "/api/companies/jagger.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Collctiv",
+  "slug": "collctiv",
+  "website": "https://collctiv.com/",
+  "description": "Collctiv is the group payments revolution. For busy social people who don't want the hassle of collecting money for a group trip, event or activity. And for the companies that need to handle group purchases and bookings in a seamless and simple way.",
+  "one_liner": "Collctiv is the group payments revolution. For busy social people who don't want the hassle of collecting money for a group trip, event or activity. And for the companies that need to handle group purchases and bookings in a seamless and simple way.",
+  "location": "Manchester, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/collctiv",
+    "linkedin": "https://linkedin.com/company/collctiv",
+    "facebook": "https://facebook.com/CollctivApp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/collctiv",
+  "api": "/api/companies/collctiv.json"
+}

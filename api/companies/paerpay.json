@@ -1,0 +1,24 @@
+{
+  "name": "Paerpay",
+  "slug": "paerpay",
+  "website": "https://paerpay.com/",
+  "description": "Paerpay enables merchants to accept contactless payments without the cost of hardware, changing processors or downloading apps",
+  "one_liner": "Paerpay enables merchants to accept contactless payments without the cost of hardware, changing processors or downloading apps",
+  "location": "Shrewsbury, Massachusetts, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/paerpay",
+    "linkedin": "https://linkedin.com/company/paerpay-inc",
+    "facebook": "https://facebook.com/paerpayapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/paerpay",
+  "api": "/api/companies/paerpay.json"
+}

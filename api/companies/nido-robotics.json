@@ -1,0 +1,24 @@
+{
+  "name": "Nido Robotics",
+  "slug": "nido-robotics",
+  "website": "https://nidorobotics.com/",
+  "description": "At Nido Robotics we help shipowners, fish farmers, and similar companies reduce their underwater inspection and maintenance costs through robotics.",
+  "one_liner": "At Nido Robotics we help shipowners, fish farmers, and similar companies reduce their underwater inspection and maintenance costs through robotics.",
+  "location": "Murcia, Spain",
+  "industry": "Industrials",
+  "industry_slug": "industrials",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/nidorobotics",
+    "linkedin": "https://linkedin.com/company/nidorobotics",
+    "facebook": "https://facebook.com/nidorobotics.eu/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nido-robotics",
+  "api": "/api/companies/nido-robotics.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Crea",
+  "slug": "crea",
+  "website": "https://crea.vision/",
+  "description": "Long Range Computer Vision platform",
+  "one_liner": "Long Range Computer Vision platform",
+  "location": "London, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/CreavisionAI",
+    "linkedin": "https://linkedin.com/company/crea.vision",
+    "facebook": "https://facebook.com/crea.visionAI"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/crea",
+  "api": "/api/companies/crea.json"
+}

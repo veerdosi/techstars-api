@@ -1,0 +1,23 @@
+{
+  "name": "Presta",
+  "slug": "presta",
+  "website": "https://letspresta.com/",
+  "description": "For traditional financial institutions who struggle to lend to small businesses, Presta provides an all-in-one lending platform that allows them to spend more time building relationships and less time managing tedious, manual parts of the lending process.",
+  "one_liner": "For traditional financial institutions who struggle to lend to small businesses, Presta provides an all-in-one lending platform that allows them to spend more time building relationships and less time managing tedious, manual parts of the lending process.",
+  "location": "Cleveland, Ohio, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/LetsPresta",
+    "linkedin": "https://linkedin.com/company/prestainc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/presta",
+  "api": "/api/companies/presta.json"
+}

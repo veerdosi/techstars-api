@@ -1,0 +1,24 @@
+{
+  "name": "Freight Farms",
+  "slug": "freight-farms",
+  "website": "https://linkedin.com/company/freight-farms",
+  "description": "A local farming solution for global food supply",
+  "one_liner": "A local farming solution for global food supply",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/FreightFarms",
+    "linkedin": "https://linkedin.com/company/freight-farms",
+    "facebook": "https://facebook.com/freightfarms"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/freight-farms",
+  "api": "/api/companies/freight-farms.json"
+}

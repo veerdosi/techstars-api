@@ -1,0 +1,23 @@
+{
+  "name": "Prediko",
+  "slug": "prediko",
+  "website": "https://prediko.io/",
+  "description": "Prediko is an e-commerce inventory planning platform that predicts inventory needs, minimizes stock outs and excess inventory.",
+  "one_liner": "Prediko is an e-commerce inventory planning platform that predicts inventory needs, minimizes stock outs and excess inventory.",
+  "location": "London, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/goprediko",
+    "linkedin": "https://linkedin.com/company/prediko"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/prediko",
+  "api": "/api/companies/prediko.json"
+}

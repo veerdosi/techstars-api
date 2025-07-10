@@ -1,0 +1,24 @@
+{
+  "name": "Keybot",
+  "slug": "keybot",
+  "website": "https://linkedin.com/company/10880883",
+  "description": "Keybot lock automates access to the rental properties.",
+  "one_liner": "Keybot lock automates access to the rental properties.",
+  "location": "St. Louis, Missouri, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/keybotlock",
+    "linkedin": "https://linkedin.com/company/10880883",
+    "facebook": "https://facebook.com/keybotlock"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/keybot",
+  "api": "/api/companies/keybot.json"
+}

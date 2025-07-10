@@ -1,0 +1,24 @@
+{
+  "name": "Grips Intelligence",
+  "slug": "grips-intelligence",
+  "website": "https://gripsintelligence.com/",
+  "description": "Data science company that builds optimization and intelligence products for eCommerce",
+  "one_liner": "Data science company that builds optimization and intelligence products for eCommerce",
+  "location": "Berlin, Germany",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GripsIntell",
+    "linkedin": "https://linkedin.com/company/peekd",
+    "facebook": "https://facebook.com/peekdHQ/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/grips-intelligence",
+  "api": "/api/companies/grips-intelligence.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Appetas",
+  "slug": "appetas",
+  "website": "https://appetas.com/",
+  "description": "Make restaurant websites beautiful",
+  "one_liner": "Make restaurant websites beautiful",
+  "location": "Redmond, Washington, United States",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Appetas",
+    "linkedin": "https://linkedin.com/company/appetas",
+    "facebook": "https://facebook.com/Appetas"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/appetas",
+  "api": "/api/companies/appetas.json"
+}

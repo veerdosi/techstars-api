@@ -1,0 +1,23 @@
+{
+  "name": "Bild",
+  "slug": "bild",
+  "website": "https://linkedin.com/company/webild",
+  "description": "An investing platform for sustainable assets focused on smart infrastructure and clean energy powered by the distributed ledger technology",
+  "one_liner": "An investing platform for sustainable assets focused on smart infrastructure and clean energy powered by the distributed ledger technology",
+  "location": "New York City, New York, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/webildit",
+    "linkedin": "https://linkedin.com/company/webild"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bild",
+  "api": "/api/companies/bild.json"
+}

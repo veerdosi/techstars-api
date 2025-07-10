@@ -1,0 +1,24 @@
+{
+  "name": "Ikkos",
+  "slug": "ikkos",
+  "website": "https://linkedin.com/company/ikkos-inc.",
+  "description": "IKKOS is a patent pending, proven brain-based movement learning system developed for athletes of all levels.",
+  "one_liner": "IKKOS is a patent pending, proven brain-based movement learning system developed for athletes of all levels.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Augmented reality",
+  "industry_slug": "augmented-reality",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/172274-1a06284ab12f3af9eb7c001e60027fab-medium_jpg.jpg?buster=1361480003",
+  "social_media": {
+    "twitter": "https://twitter.com/IKKOSHQ",
+    "linkedin": "https://linkedin.com/company/ikkos-inc.",
+    "facebook": "https://facebook.com/pages/IKKOS/511048188937371"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ikkos",
+  "api": "/api/companies/ikkos.json"
+}

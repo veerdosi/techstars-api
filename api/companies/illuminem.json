@@ -1,0 +1,23 @@
+{
+  "name": "illuminem",
+  "slug": "illuminem",
+  "website": "https://illuminem.com/",
+  "description": "illuminem is the world's leading source of sustainability & energy information",
+  "one_liner": "illuminem is the world's leading source of sustainability & energy information",
+  "location": "Pistoia, Pistoia, Italy",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fhgdrhxwtrcjhrjtpxe5",
+  "social_media": {
+    "twitter": "https://twitter.com/illuminemNews",
+    "linkedin": "https://linkedin.com/company/illuminem"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/illuminem",
+  "api": "/api/companies/illuminem.json"
+}

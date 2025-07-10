@@ -1,0 +1,22 @@
+{
+  "name": "Peas Financial",
+  "slug": "peas-financial",
+  "website": "https://peas.money/",
+  "description": "An AI to help couples manage their finances, split expenses, and save together all without ever switching from their bank.",
+  "one_liner": "An AI to help couples manage their finances, split expenses, and save together all without ever switching from their bank.",
+  "location": "Cave Springs, Arkansas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/peas-money"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/peas-financial",
+  "api": "/api/companies/peas-financial.json"
+}

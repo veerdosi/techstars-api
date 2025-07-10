@@ -1,0 +1,24 @@
+{
+  "name": "Unifize",
+  "slug": "unifize",
+  "website": "https://unifize.com/",
+  "description": "We build a SaaS platform that helps manufacturing and engineering companies reduce the wasted time and errors in their communication processes.",
+  "one_liner": "We build a SaaS platform that helps manufacturing and engineering companies reduce the wasted time and errors in their communication processes.",
+  "location": "Bengaluru, Karnataka, India",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/unifize",
+    "linkedin": "https://linkedin.com/company/unifize",
+    "facebook": "https://facebook.com/pg/unifize/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/unifize",
+  "api": "/api/companies/unifize.json"
+}

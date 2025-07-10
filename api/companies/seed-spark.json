@@ -1,0 +1,24 @@
+{
+  "name": "Seed&Spark",
+  "slug": "seed-spark",
+  "website": "https://seedandspark.com/",
+  "description": "Seed&Spark has reimagined the studio for independent film & TV. World best crowdfunding for filmmakers + curated subscription streaming for audiences.",
+  "one_liner": "Seed&Spark has reimagined the studio for independent film & TV. World best crowdfunding for filmmakers + curated subscription streaming for audiences.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/seedandspark",
+    "linkedin": "https://linkedin.com/company/seed&spark",
+    "facebook": "https://facebook.com/seedandspark"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/seed-spark",
+  "api": "/api/companies/seed-spark.json"
+}

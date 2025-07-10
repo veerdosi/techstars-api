@@ -1,0 +1,23 @@
+{
+  "name": "geoFluxus",
+  "slug": "geofluxus",
+  "website": "https://geofluxus.com/",
+  "description": "We map waste",
+  "one_liner": "We map waste",
+  "location": "Rotterdam, Netherlands",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GFluxus",
+    "linkedin": "https://linkedin.com/company/geofluxus"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/geofluxus",
+  "api": "/api/companies/geofluxus.json"
+}

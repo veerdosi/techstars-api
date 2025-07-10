@@ -1,0 +1,24 @@
+{
+  "name": "Prefix",
+  "slug": "prefix",
+  "website": "https://prefixinc.com/",
+  "description": "PreFix enables you to stop spending time worrying about your home and save 30-50% off annual maintenance costs.",
+  "one_liner": "PreFix enables you to stop spending time worrying about your home and save 30-50% off annual maintenance costs.",
+  "location": "Austin, Texas, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PreFixInc",
+    "linkedin": "https://linkedin.com/company/prefix-digital-marketing-agency",
+    "facebook": "https://facebook.com/prefixinc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/prefix",
+  "api": "/api/companies/prefix.json"
+}

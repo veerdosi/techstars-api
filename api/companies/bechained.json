@@ -1,0 +1,23 @@
+{
+  "name": "BeChained",
+  "slug": "bechained",
+  "website": "https://bechained.com/",
+  "description": "AI solution to eliminate wasted energy in manufacturing, unlock demand-response market access and certify carbon footprint at product level",
+  "one_liner": "AI solution to eliminate wasted energy in manufacturing, unlock demand-response market access and certify carbon footprint at product level",
+  "location": "Dover, Delaware, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/be_chained",
+    "linkedin": "https://linkedin.com/company/bechained"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bechained",
+  "api": "/api/companies/bechained.json"
+}

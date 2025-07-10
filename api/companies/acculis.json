@@ -1,0 +1,24 @@
+{
+  "name": "Acculis",
+  "slug": "acculis",
+  "website": "https://linkedin.com/company/10806199",
+  "description": "Using 3D models to help reduce errors in  construction in the office and on-site",
+  "one_liner": "Using 3D models to help reduce errors in  construction in the office and on-site",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AcculisTech",
+    "linkedin": "https://linkedin.com/company/10806199",
+    "facebook": "https://facebook.com/acculis"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/acculis",
+  "api": "/api/companies/acculis.json"
+}

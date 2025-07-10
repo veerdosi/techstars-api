@@ -1,0 +1,23 @@
+{
+  "name": "Guideli",
+  "slug": "guideli",
+  "website": "https://guideli.com/",
+  "description": "Providing a personalized platform that leverages AI to automate the migration journey and removes all friction from permanent residency to settlement",
+  "one_liner": "Providing a personalized platform that leverages AI to automate the migration journey and removes all friction from permanent residency to settlement",
+  "location": "Milford, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/myguideli",
+    "linkedin": "https://linkedin.com/company/guideli"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/guideli",
+  "api": "/api/companies/guideli.json"
+}

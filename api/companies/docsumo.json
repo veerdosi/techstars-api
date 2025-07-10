@@ -1,0 +1,24 @@
+{
+  "name": "Docsumo",
+  "slug": "docsumo",
+  "website": "https://docsumo.com/",
+  "description": "Docsumo provides intelligent document processing that helps enterprises automate documents and make decisions.",
+  "one_liner": "Docsumo provides intelligent document processing that helps enterprises automate documents and make decisions.",
+  "location": "Mumbai, Maharashtra, India",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/docsumoai",
+    "linkedin": "https://linkedin.com/company/docsumoai",
+    "facebook": "https://facebook.com/docsumoai/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/docsumo",
+  "api": "/api/companies/docsumo.json"
+}

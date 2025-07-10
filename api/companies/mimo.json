@@ -1,0 +1,24 @@
+{
+  "name": "Mimo",
+  "slug": "mimo",
+  "website": "https://getmimo.com/",
+  "description": "Mimo is an iOS app that teaches programming, HTML, CSS, JavaScript, Swift, and more through gamified and interactive lessons on the go.",
+  "one_liner": "Mimo is an iOS app that teaches programming, HTML, CSS, JavaScript, Swift, and more through gamified and interactive lessons on the go.",
+  "location": "Vienna, Austria",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getmimo",
+    "linkedin": "https://linkedin.com/company/mimo-inc",
+    "facebook": "https://facebook.com/getmimo"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mimo",
+  "api": "/api/companies/mimo.json"
+}

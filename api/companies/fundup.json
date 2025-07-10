@@ -1,0 +1,22 @@
+{
+  "name": "FundUp",
+  "slug": "fundup",
+  "website": "https://fundup.co/",
+  "description": "FundUp provides cash advances to subscription businesses so they can accelerate their revenue growth.",
+  "one_liner": "FundUp provides cash advances to subscription businesses so they can accelerate their revenue growth.",
+  "location": "London, England, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/funduptoday"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fundup",
+  "api": "/api/companies/fundup.json"
+}

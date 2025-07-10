@@ -1,0 +1,24 @@
+{
+  "name": "Lumos Helmet",
+  "slug": "lumos-helmet",
+  "website": "https://lumoshelmet.co/",
+  "description": "Lumos is a next generation bike helmet with integrated lights, brake, and turn signals. Currently available at over 300 Apple Stores worldwide.",
+  "one_liner": "Lumos is a next generation bike helmet with integrated lights, brake, and turn signals. Currently available at over 300 Apple Stores worldwide.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/lumoshelmet",
+    "linkedin": "https://linkedin.com/company/lumos-helmet",
+    "facebook": "https://facebook.com/lumoshelmet"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lumos-helmet",
+  "api": "/api/companies/lumos-helmet.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "LevelTen Energy",
+  "slug": "levelten-energy",
+  "website": "https://leveltenenergy.com/",
+  "description": "A renewable energy transaction platform connecting C&I power buyers to PPAs from utility-scale wind, solar, and storage projects",
+  "one_liner": "A renewable energy transaction platform connecting C&I power buyers to PPAs from utility-scale wind, solar, and storage projects",
+  "location": "Seattle, Washington, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/LevelTenEnergy",
+    "linkedin": "https://linkedin.com/company/levelten-energy",
+    "facebook": "https://facebook.com/LevelTen-Energy-350401385419488/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/levelten-energy",
+  "api": "/api/companies/levelten-energy.json"
+}

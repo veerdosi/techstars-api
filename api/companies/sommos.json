@@ -1,0 +1,23 @@
+{
+  "name": "Sommos",
+  "slug": "sommos",
+  "website": "https://sommosapp.com/",
+  "description": "Unlocking the financial potential of the unbanked and underbanked in LatAm through the digitization of rotating savings and credits associations (ROSCA).",
+  "one_liner": "Unlocking the financial potential of the unbanked and underbanked in LatAm through the digitization of rotating savings and credits associations (ROSCA).",
+  "location": "Santa Cruz, Bolivia",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/sommos-app1",
+    "facebook": "https://facebook.com/pasanaq.finanzas"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sommos",
+  "api": "/api/companies/sommos.json"
+}

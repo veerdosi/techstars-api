@@ -1,0 +1,22 @@
+{
+  "name": "Snapshot Reviews",
+  "slug": "snapshot-reviews",
+  "website": "https://snapshot.reviews/",
+  "description": "Snapshot Reviews is an all-in-one platform that delivers unmatched visibility into engineering performance. By pulling data from tools like GitHub, Jira, and more, it helps leaders manage teams, identify risks early, and keep projects on track. With actionable insights and a focus on efficiency, Snapshot Reviews empowers teams to work smarter and hit every deadline.",
+  "one_liner": "Snapshot Reviews is an all-in-one platform that delivers unmatched visibility into engineering performance. By pulling data from tools like GitHub, Jira, and more, it helps leaders manage teams, identify risks early, and keep projects on track. With actionable insights and a focus on efficiency, Snapshot Reviews empowers teams to work smarter and hit every deadline.",
+  "location": "Newark, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/snapshot-reviews"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/snapshot-reviews",
+  "api": "/api/companies/snapshot-reviews.json"
+}

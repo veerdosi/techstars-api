@@ -1,0 +1,344 @@
+[
+  {
+    "name": "3D printing",
+    "slug": "3d-printing",
+    "company_count": 26,
+    "api_endpoint": "/api/industries/3d-printing.json"
+  },
+  {
+    "name": "Adtech",
+    "slug": "adtech",
+    "company_count": 90,
+    "api_endpoint": "/api/industries/adtech.json"
+  },
+  {
+    "name": "Age Tech",
+    "slug": "age-tech",
+    "company_count": 2,
+    "api_endpoint": "/api/industries/age-tech.json"
+  },
+  {
+    "name": "Agtech",
+    "slug": "agtech",
+    "company_count": 58,
+    "api_endpoint": "/api/industries/agtech.json"
+  },
+  {
+    "name": "Artificial intelligence and machine learning",
+    "slug": "ai-ml",
+    "company_count": 1478,
+    "api_endpoint": "/api/industries/ai-ml.json"
+  },
+  {
+    "name": "Audiotech",
+    "slug": "audiotech",
+    "company_count": 36,
+    "api_endpoint": "/api/industries/audiotech.json"
+  },
+  {
+    "name": "Augmented reality",
+    "slug": "augmented-reality",
+    "company_count": 38,
+    "api_endpoint": "/api/industries/augmented-reality.json"
+  },
+  {
+    "name": "B2B payments",
+    "slug": "b2b-payments",
+    "company_count": 4,
+    "api_endpoint": "/api/industries/b2b-payments.json"
+  },
+  {
+    "name": "Beauty",
+    "slug": "beauty",
+    "company_count": 32,
+    "api_endpoint": "/api/industries/beauty.json"
+  },
+  {
+    "name": "Big Data",
+    "slug": "big-data",
+    "company_count": 280,
+    "api_endpoint": "/api/industries/big-data.json"
+  },
+  {
+    "name": "Carsharing",
+    "slug": "carsharing",
+    "company_count": 4,
+    "api_endpoint": "/api/industries/carsharing.json"
+  },
+  {
+    "name": "Cleantech",
+    "slug": "cleantech",
+    "company_count": 332,
+    "api_endpoint": "/api/industries/cleantech.json"
+  },
+  {
+    "name": "Climate tech",
+    "slug": "climate-tech",
+    "company_count": 339,
+    "api_endpoint": "/api/industries/climate-tech.json"
+  },
+  {
+    "name": "Cloudtech and DevOps",
+    "slug": "cloudtech-devops",
+    "company_count": 116,
+    "api_endpoint": "/api/industries/cloudtech-devops.json"
+  },
+  {
+    "name": "Construction technology",
+    "slug": "construction-tech",
+    "company_count": 5,
+    "api_endpoint": "/api/industries/construction-tech.json"
+  },
+  {
+    "name": "Cryptocurrency/Blockchain",
+    "slug": "crypto-blockchain",
+    "company_count": 275,
+    "api_endpoint": "/api/industries/crypto-blockchain.json"
+  },
+  {
+    "name": "Cybersecurity",
+    "slug": "cybersecurity",
+    "company_count": 112,
+    "api_endpoint": "/api/industries/cybersecurity.json"
+  },
+  {
+    "name": "Digital health",
+    "slug": "digital-health",
+    "company_count": 171,
+    "api_endpoint": "/api/industries/digital-health.json"
+  },
+  {
+    "name": "E-commerce",
+    "slug": "ecommerce",
+    "company_count": 60,
+    "api_endpoint": "/api/industries/ecommerce.json"
+  },
+  {
+    "name": "Edtech",
+    "slug": "edtech",
+    "company_count": 233,
+    "api_endpoint": "/api/industries/edtech.json"
+  },
+  {
+    "name": "Femtech",
+    "slug": "femtech",
+    "company_count": 67,
+    "api_endpoint": "/api/industries/femtech.json"
+  },
+  {
+    "name": "Fintech",
+    "slug": "fintech",
+    "company_count": 1014,
+    "api_endpoint": "/api/industries/fintech.json"
+  },
+  {
+    "name": "Foodtech",
+    "slug": "foodtech",
+    "company_count": 106,
+    "api_endpoint": "/api/industries/foodtech.json"
+  },
+  {
+    "name": "Future of work",
+    "slug": "future-of-work",
+    "company_count": 66,
+    "api_endpoint": "/api/industries/future-of-work.json"
+  },
+  {
+    "name": "Gaming",
+    "slug": "gaming",
+    "company_count": 186,
+    "api_endpoint": "/api/industries/gaming.json"
+  },
+  {
+    "name": "HRtech",
+    "slug": "hrtech",
+    "company_count": 330,
+    "api_endpoint": "/api/industries/hrtech.json"
+  },
+  {
+    "name": "Healthtech",
+    "slug": "healthtech",
+    "company_count": 388,
+    "api_endpoint": "/api/industries/healthtech.json"
+  },
+  {
+    "name": "Impact investing",
+    "slug": "impact-investing",
+    "company_count": 97,
+    "api_endpoint": "/api/industries/impact-investing.json"
+  },
+  {
+    "name": "Industrials",
+    "slug": "industrials",
+    "company_count": 91,
+    "api_endpoint": "/api/industries/industrials.json"
+  },
+  {
+    "name": "Infrastructure",
+    "slug": "infrastructure",
+    "company_count": 269,
+    "api_endpoint": "/api/industries/infrastructure.json"
+  },
+  {
+    "name": "Insurtech",
+    "slug": "insurtech",
+    "company_count": 161,
+    "api_endpoint": "/api/industries/insurtech.json"
+  },
+  {
+    "name": "Internet of Things",
+    "slug": "iot",
+    "company_count": 397,
+    "api_endpoint": "/api/industries/iot.json"
+  },
+  {
+    "name": "Legal tech",
+    "slug": "legal-tech",
+    "company_count": 58,
+    "api_endpoint": "/api/industries/legal-tech.json"
+  },
+  {
+    "name": "Life sciences",
+    "slug": "life-sciences",
+    "company_count": 2,
+    "api_endpoint": "/api/industries/life-sciences.json"
+  },
+  {
+    "name": "Lifestyles of Health and Sustainability and wellness",
+    "slug": "lohas-wellness",
+    "company_count": 406,
+    "api_endpoint": "/api/industries/lohas-wellness.json"
+  },
+  {
+    "name": "Manufacturing",
+    "slug": "manufacturing",
+    "company_count": 160,
+    "api_endpoint": "/api/industries/manufacturing.json"
+  },
+  {
+    "name": "Marketing tech",
+    "slug": "marketing-tech",
+    "company_count": 165,
+    "api_endpoint": "/api/industries/marketing-tech.json"
+  },
+  {
+    "name": "Micromobility",
+    "slug": "micromobility",
+    "company_count": 13,
+    "api_endpoint": "/api/industries/micromobility.json"
+  },
+  {
+    "name": "Mobile",
+    "slug": "mobile",
+    "company_count": 1181,
+    "api_endpoint": "/api/industries/mobile.json"
+  },
+  {
+    "name": "Mobile commerce",
+    "slug": "mobile-commerce",
+    "company_count": 85,
+    "api_endpoint": "/api/industries/mobile-commerce.json"
+  },
+  {
+    "name": "Mobility tech",
+    "slug": "mobility-tech",
+    "company_count": 113,
+    "api_endpoint": "/api/industries/mobility-tech.json"
+  },
+  {
+    "name": "Nanotechnology",
+    "slug": "nanotechnology",
+    "company_count": 16,
+    "api_endpoint": "/api/industries/nanotechnology.json"
+  },
+  {
+    "name": "Oil and gas",
+    "slug": "oil-gas",
+    "company_count": 61,
+    "api_endpoint": "/api/industries/oil-gas.json"
+  },
+  {
+    "name": "Oncology",
+    "slug": "oncology",
+    "company_count": 16,
+    "api_endpoint": "/api/industries/oncology.json"
+  },
+  {
+    "name": "Pet tech",
+    "slug": "pet-tech",
+    "company_count": 15,
+    "api_endpoint": "/api/industries/pet-tech.json"
+  },
+  {
+    "name": "Real estate tech",
+    "slug": "real-estate-tech",
+    "company_count": 157,
+    "api_endpoint": "/api/industries/real-estate-tech.json"
+  },
+  {
+    "name": "Restaurant tech",
+    "slug": "restaurant-tech",
+    "company_count": 3,
+    "api_endpoint": "/api/industries/restaurant-tech.json"
+  },
+  {
+    "name": "Ridesharing",
+    "slug": "ridesharing",
+    "company_count": 7,
+    "api_endpoint": "/api/industries/ridesharing.json"
+  },
+  {
+    "name": "Robotics and Drones",
+    "slug": "robotics-drones",
+    "company_count": 181,
+    "api_endpoint": "/api/industries/robotics-drones.json"
+  },
+  {
+    "name": "SaaS",
+    "slug": "saas",
+    "company_count": 124,
+    "api_endpoint": "/api/industries/saas.json"
+  },
+  {
+    "name": "Space tech",
+    "slug": "space-tech",
+    "company_count": 52,
+    "api_endpoint": "/api/industries/space-tech.json"
+  },
+  {
+    "name": "Sports Tech",
+    "slug": "sports-tech",
+    "company_count": 2,
+    "api_endpoint": "/api/industries/sports-tech.json"
+  },
+  {
+    "name": "Supply chain technology",
+    "slug": "supply-chain-tech",
+    "company_count": 153,
+    "api_endpoint": "/api/industries/supply-chain-tech.json"
+  },
+  {
+    "name": "Technology, media and telecommunications",
+    "slug": "tmt",
+    "company_count": 328,
+    "api_endpoint": "/api/industries/tmt.json"
+  },
+  {
+    "name": "Virtual reality",
+    "slug": "virtual-reality",
+    "company_count": 132,
+    "api_endpoint": "/api/industries/virtual-reality.json"
+  },
+  {
+    "name": "Wearables and quantified self",
+    "slug": "wearables",
+    "company_count": 2,
+    "api_endpoint": "/api/industries/wearables.json"
+  },
+  {
+    "name": "eSports",
+    "slug": "esports",
+    "company_count": 23,
+    "api_endpoint": "/api/industries/esports.json"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "Tova Earth",
+  "slug": "tova-earth",
+  "website": "https://tova.earth/",
+  "description": "We predict business risk from water scarcity. WaterProof(tm) is a DaaS product using our physics informed AI hydrologic model to forecast water availability anywhere, accessible via an interactive platform and API. Corporations and investors will use WaterProof to minimize disruptions, eliminate water constraints on growth, and identify investment opportunities. Our AI replaces expensive, manual consulting with automated, high-resolution insights. The TurboTax of water engineering consulting.",
+  "one_liner": "We predict business risk from water scarcity. WaterProof(tm) is a DaaS product using our physics informed AI hydrologic model to forecast water availability anywhere, accessible via an interactive platform and API. Corporations and investors will use WaterProof to minimize disruptions, eliminate water constraints on growth, and identify investment opportunities. Our AI replaces expensive, manual consulting with automated, high-resolution insights. The TurboTax of water engineering consulting.",
+  "location": "Amherst, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/tovaearth"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tova-earth",
+  "api": "/api/companies/tova-earth.json"
+}

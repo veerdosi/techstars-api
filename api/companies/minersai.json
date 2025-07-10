@@ -1,0 +1,22 @@
+{
+  "name": "MinersAI",
+  "slug": "minersai",
+  "website": "https://minersai.com/",
+  "description": "Developer of AI based geologic datasets designed to help the minerals exploration industry cope with the energy transition.",
+  "one_liner": "Developer of AI based geologic datasets designed to help the minerals exploration industry cope with the energy transition.",
+  "location": "Lafayette, Colorado, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/minersai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/minersai",
+  "api": "/api/companies/minersai.json"
+}

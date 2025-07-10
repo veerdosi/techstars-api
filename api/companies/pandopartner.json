@@ -1,0 +1,22 @@
+{
+  "name": "PandoPartner",
+  "slug": "pandopartner",
+  "website": "https://pandopartner.com/",
+  "description": "PandoPartner provides simplified and modernized sponsorship management. The platform helps sports organizations centralize their sponsorship data and activities - leading to more automation and efficiency on the back end of sponsorship management.",
+  "one_liner": "PandoPartner provides simplified and modernized sponsorship management. The platform helps sports organizations centralize their sponsorship data and activities - leading to more automation and efficiency on the back end of sponsorship management.",
+  "location": "Georgetown, Ontario, Canada",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/pandopartner"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pandopartner",
+  "api": "/api/companies/pandopartner.json"
+}

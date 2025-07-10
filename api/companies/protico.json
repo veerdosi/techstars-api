@@ -1,0 +1,24 @@
+{
+  "name": "Protico",
+  "slug": "protico",
+  "website": "https://protico.io/",
+  "description": "The future of a universal chatting interface across all websites and apps",
+  "one_liner": "The future of a universal chatting interface across all websites and apps",
+  "location": "Taipei, Taiwan",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/protico_io",
+    "linkedin": "https://linkedin.com/company/protico",
+    "facebook": "https://facebook.com/web3.chat"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/protico",
+  "api": "/api/companies/protico.json"
+}

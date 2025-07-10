@@ -1,0 +1,24 @@
+{
+  "name": "Digital Will",
+  "slug": "digital-will",
+  "website": "https://digitalwill.co.jp/",
+  "description": "Digital Will's WORTAL empowers game studios to swift distribution, enhanced monetization, and cost-effective efficiency",
+  "one_liner": "Digital Will's WORTAL empowers game studios to swift distribution, enhanced monetization, and cost-effective efficiency",
+  "location": "Minato City, Japan",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/tgpfd36bgksi4tma1hfi",
+  "social_media": {
+    "twitter": "https://twitter.com/digitalwillinc",
+    "linkedin": "https://linkedin.com/company/digital-will",
+    "facebook": "https://facebook.com/digitalwillinc/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/digital-will",
+  "api": "/api/companies/digital-will.json"
+}

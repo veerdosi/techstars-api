@@ -1,0 +1,24 @@
+{
+  "name": "Uils",
+  "slug": "uils",
+  "website": "https://uils.la/",
+  "description": "We provide loans for mobility apps' drivers using their driving history as credit score.",
+  "one_liner": "We provide loans for mobility apps' drivers using their driving history as credit score.",
+  "location": "Buenos Aires, Argentina",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vytiyv3xzhogclcupvcf",
+  "social_media": {
+    "twitter": "https://twitter.com/somosuils",
+    "linkedin": "https://linkedin.com/company/uilsla",
+    "facebook": "https://facebook.com/somosuils"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/uils",
+  "api": "/api/companies/uils.json"
+}

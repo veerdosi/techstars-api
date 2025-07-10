@@ -1,0 +1,24 @@
+{
+  "name": "SwingVision",
+  "slug": "swingvision",
+  "website": "https://swing.tennis/",
+  "description": "A.I. Training Platform for Athletes",
+  "one_liner": "A.I. Training Platform for Athletes",
+  "location": "Milpitas, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/swingtennis",
+    "linkedin": "https://linkedin.com/company/swing-vision",
+    "facebook": "https://facebook.com/swingtennis"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/swingvision",
+  "api": "/api/companies/swingvision.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Klaim",
+  "slug": "klaim",
+  "website": "https://klaim.ai/",
+  "description": "\"We help healthcare providers reduce waste, get paid more and faster on their medical claims using artificial intelligence. \"",
+  "one_liner": "\"We help healthcare providers reduce waste, get paid more and faster on their medical claims using artificial intelligence. \"",
+  "location": "Abu Dhabi, United Arab Emirates",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/drklaimai",
+    "linkedin": "https://linkedin.com/company/klaim-ai",
+    "facebook": "https://facebook.com/Dr.Klaim/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/klaim",
+  "api": "/api/companies/klaim.json"
+}

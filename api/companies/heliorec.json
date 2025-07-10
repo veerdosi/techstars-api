@@ -1,0 +1,24 @@
+{
+  "name": "HelioRec",
+  "slug": "heliorec",
+  "website": "https://heliorec.com/",
+  "description": "HelioRec is developing floating solar technology for near-shore locations where half of global population lives.",
+  "one_liner": "HelioRec is developing floating solar technology for near-shore locations where half of global population lives.",
+  "location": "Nantes, France",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Helio_Rec",
+    "linkedin": "https://linkedin.com/company/heliorec",
+    "facebook": "https://facebook.com/HelioRec/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/heliorec",
+  "api": "/api/companies/heliorec.json"
+}

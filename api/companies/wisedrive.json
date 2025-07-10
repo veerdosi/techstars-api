@@ -1,0 +1,23 @@
+{
+  "name": "WiseDrive",
+  "slug": "wisedrive",
+  "website": "https://wisedrive.ee/",
+  "description": "Auto repair marketplace connecting car owners with trustworthy garages",
+  "one_liner": "Auto repair marketplace connecting car owners with trustworthy garages",
+  "location": "Tallinn, Estonia",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/aspknkotbhwagsqlzi0z",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/wisedrive",
+    "facebook": "https://facebook.com/WiseDriveEesti"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/wisedrive",
+  "api": "/api/companies/wisedrive.json"
+}

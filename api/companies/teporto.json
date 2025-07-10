@@ -1,0 +1,23 @@
+{
+  "name": "Teporto",
+  "slug": "teporto",
+  "website": "https://linkedin.com/company/teporto",
+  "description": "Cloud-based commuting solution that manages shuttles with adaptive routes for employers and cities",
+  "one_liner": "Cloud-based commuting solution that manages shuttles with adaptive routes for employers and cities",
+  "location": "Detroit, Michigan, United States",
+  "industry": "Carsharing",
+  "industry_slug": "carsharing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Teporto_Commute",
+    "linkedin": "https://linkedin.com/company/teporto"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/teporto",
+  "api": "/api/companies/teporto.json"
+}

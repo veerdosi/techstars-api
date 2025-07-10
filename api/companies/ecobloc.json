@@ -1,0 +1,22 @@
+{
+  "name": "EcoBloc",
+  "slug": "ecobloc",
+  "website": "https://bloc.eco/",
+  "description": "EcoBloc protects inventory and equipment using ultrasonic waves.",
+  "one_liner": "EcoBloc protects inventory and equipment using ultrasonic waves.",
+  "location": "Portugal Cove-St. Philip's, Newfoundland and Labrador, Canada",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/ecobloc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ecobloc",
+  "api": "/api/companies/ecobloc.json"
+}

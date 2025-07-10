@@ -1,0 +1,24 @@
+{
+  "name": "EnVue Health",
+  "slug": "envue-health",
+  "website": "https://envuehealth.com/",
+  "description": "EnVue Health is a digital health company offering a directory of multi-specialty and multi-discipline health professionals, combined with telemedicine services, focused on providing equitable care for BIPOC, underserved, and specialized populations.",
+  "one_liner": "EnVue Health is a digital health company offering a directory of multi-specialty and multi-discipline health professionals, combined with telemedicine services, focused on providing equitable care for BIPOC, underserved, and specialized populations.",
+  "location": "Louisville, Kentucky, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/melanatedhealt1",
+    "linkedin": "https://linkedin.com/in/melanated-healthcare%C2%AE-570093201",
+    "facebook": "https://facebook.com/MelanatedHealthcare"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/envue-health",
+  "api": "/api/companies/envue-health.json"
+}

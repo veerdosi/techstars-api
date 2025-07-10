@@ -1,0 +1,24 @@
+{
+  "name": "Telememory",
+  "slug": "telememory",
+  "website": "https://telememory.co/",
+  "description": "Digital companion that detects sadness and intervenes with uplifting emotional memories, video visits and personalized conversation.",
+  "one_liner": "Digital companion that detects sadness and intervenes with uplifting emotional memories, video visits and personalized conversation.",
+  "location": "Kansas City, Kansas, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getmoodspark",
+    "linkedin": "https://linkedin.com/company/Moodspark",
+    "facebook": "https://facebook.com/getmoodspark"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/telememory",
+  "api": "/api/companies/telememory.json"
+}

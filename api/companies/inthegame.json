@@ -1,0 +1,24 @@
+{
+  "name": "Inthegame",
+  "slug": "inthegame",
+  "website": "https://inthegame.io/",
+  "description": "Engagement and monitization platform for broadcasters and video content owners",
+  "one_liner": "Engagement and monitization platform for broadcasters and video content owners",
+  "location": "Tel Aviv, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/inthegameapp",
+    "linkedin": "https://linkedin.com/company/inthegame-io",
+    "facebook": "https://facebook.com/inthegame.io/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/inthegame",
+  "api": "/api/companies/inthegame.json"
+}

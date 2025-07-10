@@ -1,0 +1,22 @@
+{
+  "name": "AmplifAI Health",
+  "slug": "amplifai-health",
+  "website": "https://linkedin.com/in/meshari-f-alwashmi",
+  "description": "AmplifAI Health has a strong dedication to transforming healthcare through the digitalization of clinicians' human senses.",
+  "one_liner": "AmplifAI Health has a strong dedication to transforming healthcare through the digitalization of clinicians' human senses.",
+  "location": "Abu Dhabi, United Arab Emirates",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/p909ehns3jltb3i5b8if",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/meshari-f-alwashmi"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/amplifai-health",
+  "api": "/api/companies/amplifai-health.json"
+}

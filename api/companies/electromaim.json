@@ -1,0 +1,22 @@
+{
+  "name": "Electromaim",
+  "slug": "electromaim",
+  "website": "https://electromaim.com/",
+  "description": "Electromaim's solution produces clean energy from the water distribution systems of urban buildings. Our unique approach to capture a vast but hidden wasted energy stream not only contributes to decarbonization to fight climate change but also addresses the most important target: existing building infrastructure.",
+  "one_liner": "Electromaim's solution produces clean energy from the water distribution systems of urban buildings. Our unique approach to capture a vast but hidden wasted energy stream not only contributes to decarbonization to fight climate change but also addresses the most important target: existing building infrastructure.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/electromaim"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/electromaim",
+  "api": "/api/companies/electromaim.json"
+}

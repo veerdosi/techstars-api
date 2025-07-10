@@ -1,0 +1,23 @@
+{
+  "name": "GoAudience",
+  "slug": "goaudience",
+  "website": "https://goaudience.com/",
+  "description": "GoAudience uses AI to help businesses find new customers based on credit card spending history of 220M US consumers.",
+  "one_liner": "GoAudience uses AI to help businesses find new customers based on credit card spending history of 220M US consumers.",
+  "location": "New York City, New York, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/twjlw2dpkxrirgfhjxtx",
+  "social_media": {
+    "twitter": "https://twitter.com/GoAudiences",
+    "linkedin": "https://linkedin.com/company/goaudience"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/goaudience",
+  "api": "/api/companies/goaudience.json"
+}

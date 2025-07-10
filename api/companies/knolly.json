@@ -1,0 +1,22 @@
+{
+  "name": "Knolly",
+  "slug": "knolly",
+  "website": "https://knolly.ai/",
+  "description": "Knolly is an AI-driven knowledge engine for the curious, allowing readers to have high-quality interaction with literature; books, authors, and characters.",
+  "one_liner": "Knolly is an AI-driven knowledge engine for the curious, allowing readers to have high-quality interaction with literature; books, authors, and characters.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/knoway-labs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/knolly",
+  "api": "/api/companies/knolly.json"
+}

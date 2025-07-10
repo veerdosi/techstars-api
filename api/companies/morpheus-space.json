@@ -1,0 +1,24 @@
+{
+  "name": "Morpheus Space",
+  "slug": "morpheus-space",
+  "website": "https://morpheus.space/",
+  "description": "A leading satellite mobility provider enabling truly dynamic satellite constellation management with in-space electric propulsion",
+  "one_liner": "A leading satellite mobility provider enabling truly dynamic satellite constellation management with in-space electric propulsion",
+  "location": "Los Angeles, California, United States",
+  "industry": "Space tech",
+  "industry_slug": "space-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/MorpheusSpace",
+    "linkedin": "https://linkedin.com/company/morpheus-space",
+    "facebook": "https://facebook.com/MorpheusSpace/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/morpheus-space",
+  "api": "/api/companies/morpheus-space.json"
+}

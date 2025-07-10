@@ -1,0 +1,24 @@
+{
+  "name": "Cooklist",
+  "slug": "cooklist",
+  "website": "https://cooklist.co/",
+  "description": "Shows shoppers recipes they can cook with the groceries they buy, and allows them to choose recipes and automatically order the ingredients they need.",
+  "one_liner": "Shows shoppers recipes they can cook with the groceries they buy, and allows them to choose recipes and automatically order the ingredients they need.",
+  "location": "Dallas, Texas, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Cooklist_co",
+    "linkedin": "https://linkedin.com/company/cooklist",
+    "facebook": "https://facebook.com/CooklistInc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cooklist",
+  "api": "/api/companies/cooklist.json"
+}

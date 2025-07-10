@@ -1,0 +1,23 @@
+{
+  "name": "Crema",
+  "slug": "crema",
+  "website": "https://crema.cm/",
+  "description": "Crema is a payments solution for independent professionals. With Crema, freelancers can charge and get paid on time, without the hassle of following up and begging for money you've rightfully earned. Crema allows freelancers to create gigs and invoices...",
+  "one_liner": "Crema is a payments solution for independent professionals. With Crema, freelancers can charge and get paid on time, without the hassle of following up and begging for money you've rightfully earned. Crema allows freelancers to create gigs and invoices...",
+  "location": "Middletown, Delaware, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/crema_latam",
+    "linkedin": "https://linkedin.com/company/cremacm"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/crema",
+  "api": "/api/companies/crema.json"
+}

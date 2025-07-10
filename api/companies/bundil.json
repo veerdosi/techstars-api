@@ -1,0 +1,24 @@
+{
+  "name": "Bundil",
+  "slug": "bundil",
+  "website": "https://linkedin.com/company/bundil-app",
+  "description": "Easily Invest Your Spare Change Into Cryptocurrency",
+  "one_liner": "Easily Invest Your Spare Change Into Cryptocurrency",
+  "location": "Dallas, Texas, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/u7mb3ed0raez0qjk8wly",
+  "social_media": {
+    "twitter": "https://twitter.com/bundilapp",
+    "linkedin": "https://linkedin.com/company/bundil-app",
+    "facebook": "https://facebook.com/bundilapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bundil",
+  "api": "/api/companies/bundil.json"
+}

@@ -1,0 +1,1178 @@
+[
+  {
+    "name": "Propagate Ventures",
+    "website": "https://propagateventures.com/",
+    "description": "Agroforestry investments & project development platform.",
+    "location": "Hudson, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/propagateorg",
+      "linkedin": "https://linkedin.com/company/propagate-ventures",
+      "facebook": "https://facebook.com/propagateag/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Packworks",
+    "website": "https://thepackworks.com/",
+    "description": "Packworks' goal is to help the millions of micro-entrepreneurs in the Philippines and South East Asia, by providing them with an app to grow their business.",
+    "location": "Makati, Philippines",
+    "social_media": {
+      "twitter": "https://twitter.com/PackworksPH",
+      "linkedin": "https://linkedin.com/company/thepackworks",
+      "facebook": "https://facebook.com/thepackworks"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "AGTools",
+    "website": "https://ag.tools/",
+    "description": "Agtools is a real-time data and market intelligence platform that provides transparency to the global food & ag industry.",
+    "location": "Irvine, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ag_tools",
+      "linkedin": "https://linkedin.com/company/agtools",
+      "facebook": "https://facebook.com/AgtoolsInc/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "REEV",
+    "website": "https://reev.care/",
+    "description": "Helping those affected by neurological gait disorders like stroke to overcome their daily disability by becoming more autonomous and independent in their movements",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lqz0gwn1qm5xlsatx7we",
+    "location": "Toulouse, France",
+    "social_media": {
+      "twitter": "https://twitter.com/wearereev",
+      "linkedin": "https://linkedin.com/company/reevcare",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Kestrl: Muslim Money App",
+    "website": "https://kestrl.io/",
+    "description": "Kestrl is an app that helps Muslims to Budget, Save and Invest in line with their beliefs. Kestrl also offers SaaS services to Banks/Fintechs in the form of it's Personal Financial Management tools.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/phlys0e4mdpr4n3qbi1q",
+    "location": "Waltham Abbey, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/KestrlApp",
+      "linkedin": "https://linkedin.com/company/kestrl",
+      "facebook": "https://facebook.com/kestrl"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "illuminem",
+    "website": "https://illuminem.com/",
+    "description": "illuminem is the world's leading source of sustainability & energy information",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fhgdrhxwtrcjhrjtpxe5",
+    "location": "Pistoia, Pistoia, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/illuminemNews",
+      "linkedin": "https://linkedin.com/company/illuminem"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "SuccessionMatching",
+    "website": "https://successionmatching.com/",
+    "description": "An online community of business buyers, sellers, and succession planning professionals.",
+    "location": "Moose Jaw, Saskatchewan, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/sxnm",
+      "linkedin": "https://linkedin.com/company/succession-matching",
+      "facebook": "https://facebook.com/SuccessionMatching/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Right  Hear",
+    "website": "https://right-hear.com/",
+    "description": "Provides talking signage, so everyone can interpret and understand their surroundings in real time.",
+    "location": "Ra'anana, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/righthearapp",
+      "linkedin": "https://linkedin.com/company/10690086",
+      "facebook": "https://facebook.com/RightHearApp/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "ValueCo",
+    "website": "https://valuecometrics.com/",
+    "description": "ValueCo is here to solve the ESG mess and bring more objectivity and engagement in the space",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/Valuecometrics",
+      "linkedin": "https://linkedin.com/company/valuecometrics",
+      "facebook": "https://facebook.com/Valuecometrics"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "EthicsGrade",
+    "website": "https://ethicsgrade.io/",
+    "description": "EthicsGrade is a SaaS platform for rating your supplier's ESG risks. We focus on ESG risks of digitalisation such as cybersecurity, data protection and AI ethics",
+    "location": "St Briavels, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/ethicsgrade",
+      "linkedin": "https://linkedin.com/company/ethicsgrade"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "ModernGuild",
+    "website": "https://modernguild.com/",
+    "description": "1-on-1, online tutoring programs to help students maximize their college experience and find the career they love",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/modernguild",
+      "linkedin": "https://linkedin.com/in/brad-aston-4256a714",
+      "facebook": "https://facebook.com/modernguild"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Wind Fisher",
+    "website": "https://wind-fisher.com/",
+    "description": "There is on shore ; there is off shore ; and there is high altitude wind. We develop a revolutionary concept for high altitude wind energy: safer, lighter, quicker, and more cost-effective. We re-invent wind power",
+    "location": "Les Adrets, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/wind-fisher"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Lightning Social Ventures",
+    "website": "https://lightningreach.org/",
+    "description": "Enabling charities and public sector organisations to quickly verify and process financial support applications for millions of people in financial hardship.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/lightningreach",
+      "linkedin": "https://linkedin.com/company/lightning-social-ventures",
+      "facebook": "https://facebook.com/lightningreach"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "The Music Fund",
+    "website": "https://themusic.fund/",
+    "description": "Provide independent artists with funding for the next record, tour or PR campaign",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/themusicfund",
+      "linkedin": "https://linkedin.com/company/themusicfund",
+      "facebook": "https://facebook.com/tmf.themusicfund"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Shiperise",
+    "website": "https://shiperise.com/",
+    "description": "Product inventory investment platform (impact investment)",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/m6c29hxyg5ee8kpczwfp",
+    "location": "Brussels, Brussels Capital, Belgium",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/shiperise"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "ATMO",
+    "website": "https://atmo.earth/",
+    "description": "atmo helps banks to reduce their financed emissions - starting with food.",
+    "location": "Berlin, Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/atmoearth"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Propio",
+    "website": "https://joinpropio.com/",
+    "description": "Propio puts Latino independent workers in the driver's seat to seamlessly manage payments, taxes, benefits and financial access.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/join_propio",
+      "linkedin": "https://linkedin.com/company/joinpropio",
+      "facebook": "https://facebook.com/joinpropio"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Verifi Data Corp",
+    "website": "https://verifi.eco/",
+    "description": "VeriFi solves sustainable agriculture programs' critical issues in credibility, profitability, and scale with our configurable farm-level data automation SaaS providing data sovereignty, validation, verification, analysis, and transaction.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/verifidatacorp"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Seedsight",
+    "website": "https://linkedin.com/in/joanaspaiva",
+    "description": "First Worldwide Digital Library of Seed Signatures",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/joanaspaiva"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "PayAngel",
+    "website": "https://payangel.com/",
+    "description": "PayAngel is a remittance company that allows users to send remittances Direct-to-Merchant, to simplify cross-border billing and payments for businesses and migrant workers from Africa.",
+    "location": "Dartford, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/PayAngelMoney",
+      "linkedin": "https://linkedin.com/company/payangelmoney",
+      "facebook": "https://facebook.com/payangelmoney/",
+      "angellist": "https://payangel.com/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "LendKoi",
+    "website": "https://lendkoi.com/",
+    "description": "LendKoi helps high-earning expats and immigrants at Fortune 500 companies build U.S. credit history by providing personal loans and credit solutions.",
+    "location": "Sunrise, Florida, United States",
+    "social_media": {},
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Sholder",
+    "website": "https://sholder.com/",
+    "description": "\"Sholder, short for Spaceholder(tm), is the gig platform for transformative mental & emotional support from qualified non-clinical providers. \"",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sholder",
+      "facebook": "https://facebook.com/SholderInc"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "INSPIRR",
+    "website": "https://inspirr.io/",
+    "description": "INSPIRR is a first-of-its-kind platform for investing in the future earnings, ventures and success of ambitious individuals.",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getinspirr",
+      "linkedin": "https://linkedin.com/company/91559040"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "SANITAS",
+    "website": "https://gotosanitas.com/",
+    "description": "The first-of-its kind AI driven mental health for BIPOC and underrepresented populations.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cg7u72bjt6pqrg6brve5",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/butteflly",
+      "facebook": "https://facebook.com/butterfllyhealth/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "RAZ",
+    "website": "https://razfinance.io/",
+    "description": "RAZ enables impact-financial data origin and authenticity verification across unalterable timelines",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/bkloe50jnrr6xh0ao7kl",
+    "location": "Bnei Brak, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/razfintech",
+      "linkedin": "https://linkedin.com/company/razfintech"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Netta",
+    "website": "https://netta.mx/",
+    "description": "The platform that helps you manage your rental property and advances rents receivable.",
+    "location": "Mexico City, Mexico",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/netta-mx",
+      "facebook": "https://facebook.com/Netta.mx/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Tuktu Care",
+    "website": "https://tuktu.ca/",
+    "description": "Provides seniors with a support platform, so they can get the help they need to age in their own homes and lead a fulfilling life for as long as possible.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/chafrw2cagqp2h8b67vi",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/tuktucare",
+      "linkedin": "https://linkedin.com/company/tuktu-care-inc",
+      "facebook": "https://facebook.com/tuktucare"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Keep Company",
+    "website": "https://keep-company.com/",
+    "description": "Partner with organizations to give their moms, dads and caregivers the tools to integrate the care of themselves, their families, and their work through group coaching.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wearekeepco",
+      "linkedin": "https://linkedin.com/company/joinkeepcompany"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Civic Champs",
+    "website": "https://civicchamps.com/",
+    "description": "We streamline volunteer management for nonprofits and convert their volunteers to donors.",
+    "location": "Bloomington, Indiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CivicChamps",
+      "linkedin": "https://linkedin.com/company/35680598",
+      "facebook": "https://facebook.com/CivicChamps/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Regen Network",
+    "website": "https://regen.network/",
+    "description": "A global marketplace & contracting platform for Earth's ecosystem assets, services, and data.",
+    "location": "GREAT BARRINGTON, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/regen_network",
+      "linkedin": "https://linkedin.com/company/regen-network",
+      "facebook": "https://facebook.com/weareregennetwork"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Moonai",
+    "website": "https://moonai.app/",
+    "description": "Neuroscience science-based & personalised sounds app to alleviate period pain & enhance cognitive functions",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/moonaiapp",
+      "linkedin": "https://linkedin.com/company/moonaiapp",
+      "facebook": "https://facebook.com/moonaiapp/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "LetMeDoIt",
+    "website": "https://letmedoit.org/",
+    "description": "Let Me Do It is an App Empowering Individuals with Disabilities to Make Informed Decisions.",
+    "location": "Sandy Springs, Georgia, United States",
+    "social_media": {},
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "GoodAction",
+    "website": "https://goodaction.com/",
+    "description": "GoodAction offers an AI-powered platform that helps corporations and nonprofits track, measure, and report social responsibility initiatives. It solves the problem of aligning CSR/ESG efforts with SDGs, simplifies complex reporting, and enhances stakeholder engagement. The platform provides precise impact metrics, clear reports, and tools for boosting participation, making social initiatives more transparent, efficient, and impactful.",
+    "logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/w2qbj5lziodgvkccf70k",
+    "location": "Lawrenceville, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/good-action"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Flutter Care",
+    "website": "https://fluttercare.com/",
+    "description": "Predict and prevent pregnancy complications.",
+    "location": "Burnaby, British Columbia, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/fluttercareinc",
+      "facebook": "https://facebook.com/fluttercareinc"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Remote Gravity",
+    "website": "https://remotegravity.com/",
+    "description": "AI-powered underwriting platform for lenders in emerging markets.",
+    "location": "Lekki, Nigeria",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/remote-gravity"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Biiah",
+    "website": "https://biiah.com/",
+    "description": "Biiah empowers people to reclaim their singing voice as a source of wellbeing through their app and associated virtual and in person singing sessions.",
+    "location": "Wembley, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/tchzant",
+      "linkedin": "https://linkedin.com/company/choral-hub",
+      "facebook": "https://facebook.com/tchzant/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Lifesaver",
+    "website": "https://getlifesaver.com/",
+    "description": "Allows community financial institutions to reach a large, scalable market of sticky mobile consumers with no investment in new infrastructure and systems.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getlifesaver",
+      "linkedin": "https://linkedin.com/company/lifesaver",
+      "facebook": "https://facebook.com/getLifesaverApp/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Investrio",
+    "website": "https://investrio.io/",
+    "description": "Personalized financial planning platform that integrates tools, advisory, and community to expedite the journey from debt to wealth.",
+    "location": "Fort Lauderdale, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/investriofinance"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Groopie",
+    "website": "https://joingroopie.com/",
+    "description": "Female Startup Club is a modern media company and platform dedicated to empowering professional women with the tools, resources, and community they need to build financial security and achieve economic independence. With our innovative data engine driving insights and product development, we connect and inspire women globally to take control of their financial futures, creating a world where every woman can thrive on her own terms.",
+    "location": "Bronte, New South Wales, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/female-startup-club"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "alvee",
+    "website": "https://alvee.io/",
+    "description": "AI-driven tools to advance health equity and improve health outcomes for all",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/alveehealth",
+      "linkedin": "https://linkedin.com/company/alveehealth",
+      "facebook": "https://facebook.com/people/Alvee/100071621914815/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Generation Environment",
+    "website": "https://generationenvironment.com/",
+    "description": "Generation Environment is a micro-philanthropy app that supports climate solutions and biodiversity protection.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/dt3celaaogikkz1k0wn8",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/generationenvironment",
+      "facebook": "https://facebook.com/WeAreAllGenE"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Segura",
+    "website": "https://segura-water.com/",
+    "description": "Water quality testing without the need for a lab - heavy metals at ppb level in under 5 minutes through a digitally connected device",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/segura-water"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Maygia",
+    "website": "https://maygia.com/",
+    "description": "Device using hydrogen to clean water while producing electricity",
+    "location": "Haifa, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/maygia"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Kadeya",
+    "website": "https://kadeya.com/",
+    "description": "Kadeya is a closed-loop water vending business that utilizes digitally connected reusable water bottles and tiny bottling equipment. Kadeya was founded by Manuela Zoninsein.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hellokadeya",
+      "linkedin": "https://linkedin.com/company/kdy",
+      "facebook": "https://facebook.com/AWMLimited"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "ImpactableX",
+    "website": "https://impactablex.com/",
+    "description": "The Impact & ESG analytics platform designed for comparability, benchmarking & intelligence across the impact economy and up the capital stack.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/p9pu4d4mlb2knbaqaeja",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/impactable_x",
+      "linkedin": "https://linkedin.com/company/impactablex",
+      "facebook": "https://facebook.com/ImpactableX/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "CarbonBridge",
+    "website": "https://carbonbridge.io/",
+    "description": "CarbonBridge is a climate-action company that generates industrial and transportation gases from agricultural waste streams. The methods used result in CDR as well as some offsets.",
+    "location": "San Jose, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/carbonbridge"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Trove",
+    "website": "https://trovefinance.com/",
+    "description": "Trove is a social investing application for Africans.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/trovefinance",
+      "linkedin": "https://linkedin.com/company/35674891"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Raise Green",
+    "website": "https://raisegreen.com/",
+    "description": "Climatetech marketplace for local impact investing connecting capital with community need.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/raisegreeninc",
+      "linkedin": "https://linkedin.com/company/29305067",
+      "facebook": "https://facebook.com/RaiseGreenInc/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Keza Africa",
+    "website": "https://kezaafrica.com/",
+    "description": "Keza is a platform that allows you to buy a smartphone and pay in installments, conveniently.",
+    "location": "Lagos, Nigeria",
+    "social_media": {},
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Chargerzilla",
+    "website": "https://chargerzilla.com/",
+    "description": "Chargerzilla is a community-driven, AI-powered EV charging marketplace that connects property owners, EV charging networks, and businesses to EV drivers. Our platform increases utilization rates for charge point operators and unlocks new revenue streams for businesses such as hotels, commercial properties, and individual home owners.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/chargerzilla",
+      "linkedin": "https://linkedin.com/company/chargerzilla",
+      "facebook": "https://facebook.com/chargerzilla"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Dedalo",
+    "website": "https://dedalo.ai/",
+    "description": "Dedalo AI, a pioneering Climate Tech enterprise, is dedicated to quantifying and mitigating the digital CO2 footprint.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vbj2o4h9wg2sdqdyuzqo",
+    "location": "Turin, Turin, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/DedaloAi",
+      "linkedin": "https://linkedin.com/company/dedalo-ai"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "ConsciESG",
+    "website": "https://consciesg.com/",
+    "description": "The platform for active asset managers who invest in financially thriving sustainable companies",
+    "location": "Paris, Centre, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/consciesg"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "ClimeRock",
+    "website": "https://climerock.com/",
+    "description": "Removing carbon while restoring soils with Enhanced Rock Weathering.",
+    "location": "Colombes, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/climerock"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Pardon",
+    "website": "https://pardon-app.com/",
+    "description": "Boosting sales of Restaurants&Hotels and hospitality brands with AI.",
+    "location": "Istanbul, Istanbul, Turkey",
+    "social_media": {
+      "twitter": "https://twitter.com/Pardon_tr",
+      "linkedin": "https://linkedin.com/company/pardonapp",
+      "facebook": "https://facebook.com/pardonturkey/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Bob's Containers",
+    "website": "https://bobscontainers.com/",
+    "description": "We build fast, affordable, and profitable housing solutions from shipping containers.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fxhqmvnq8ome60kuqzxz",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bobscontainers",
+      "linkedin": "https://linkedin.com/company/bobs-containers",
+      "facebook": "https://facebook.com/bobscontainers"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "SLAIT School",
+    "website": "https://slait.school/",
+    "description": "AI Tutor for learning American Sign Language",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/slait",
+      "facebook": "https://facebook.com/slait.school/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Plata",
+    "website": "https://conplata.com/",
+    "description": "Plata is a financial technology company and not a bank with a Silver facilitates access to banking services from a partner bank.",
+    "location": "Miami, Florida, United States",
+    "social_media": {},
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "LoneReport",
+    "website": "https://lonereport.com/",
+    "description": "Verified and Automated ESG Compliance",
+    "location": "San Francisco, California, United States",
+    "social_media": {},
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Impactica Labs",
+    "website": "https://impactica.co/",
+    "description": "Collects household financial data & documents so customers can successfully apply and maintain access to government benefits.",
+    "location": "Staten Island, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/impacticaco"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Friendly Shoes",
+    "website": "https://friendlyshoes.com/",
+    "description": "Inclusive and adaptive footwear without sacrificing style or comfort",
+    "location": "Poway, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/friendlyshoesus",
+      "linkedin": "https://linkedin.com/company/friendly-shoes",
+      "facebook": "https://facebook.com/friendlyshoesus"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "8LAB",
+    "website": "https://8lab.ai/",
+    "description": "8LAB is the members-only hub where creatives and tech pros connect and innovate with guidance from industry leaders + AI, Agent 8.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/join8lab"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Climatize",
+    "website": "https://climatize.earth/",
+    "description": "For Gen Z & Millennials struggling with climate-anxiety, Climatize provides a mobile app where they can simply invest the spare change from their everyday credit card purchases directly in profitable climate projects.",
+    "location": "Santa Cruz, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Climatize_earth",
+      "linkedin": "https://linkedin.com/company/climatize-earth",
+      "facebook": "https://facebook.com/climatize.earth"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Alo Index",
+    "website": "https://aloindex.com/",
+    "description": "Alo Index is an AI-powered B2B sustainable hotel marketplace that matches corporate travel buyers with ESG targets to the hotels that can fulfill them.",
+    "location": "Guilford, Connecticut, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/al%C5%8D-index"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Prismia",
+    "website": "https://prismia.so/",
+    "description": "Prismia is a data and process unification interface that enables non-technical users to weave agentic capabilities into their own workflow.",
+    "location": "Pasadena, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/prismia-aui"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "What She Said App",
+    "website": "https://whatshesaidapp.com/",
+    "description": "A trusted referral app for all women and non-binary out there and the businesses they run, they use and they love.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/what-she-said-inc",
+      "facebook": "https://facebook.com/WhatSheSaidInc"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Clyn",
+    "website": "https://clynapp.com/",
+    "description": "Clyn connects you to housekeepers and cleaners you can trust, while providing them with tools to scale their businesses.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/b8juayyqcpchk3wddgoy",
+    "location": "Phoenix, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/clynapp",
+      "linkedin": "https://linkedin.com/company/clynapp",
+      "facebook": "https://facebook.com/clynapp"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Besample",
+    "website": "https://besample.app/",
+    "description": "Besample is a data marketplace that empowers research beyond the West. \n\nWith a focus on the growing Global South, Besample provides human-focused researchers across healthcare, industry, and academia with access to primary data from a diverse and representative pool of people in 42 countries of Africa, Asia, Latin America, and CIS.",
+    "location": "Tallahassee, Florida, United States",
+    "social_media": {},
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Work Simplr",
+    "website": "https://worksimplr.com/",
+    "description": "Software platform to place and manage vetted, qualified students to paid short-term, remote entry level work.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/upskls",
+      "linkedin": "https://linkedin.com/company/worksimplr",
+      "facebook": "https://facebook.com/Worksimplr/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "LearnHaus",
+    "website": "https://learn.haus/",
+    "description": "LearnHaus is an AI-based learning journey platform helping parents to easily get their kids the right learning-focused tools and activities.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bentoinvesting",
+      "linkedin": "https://linkedin.com/company/learnhaus",
+      "facebook": "https://facebook.com/bentoinvesting"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Xworks Tech",
+    "website": "https://xworkstech.com/",
+    "description": "Data-driven circular economy making smart connections for waste and recycling as a service",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/TechXworks",
+      "linkedin": "https://linkedin.com/company/xworks-tech"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "xHood",
+    "website": "https://parentxhood.com/",
+    "description": "A community for Black Queer people to build and nurture healthy families and parent happy children.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/moodic7lutvop6lwr6mo",
+    "location": "Woodbridge, Virginia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/xhood",
+      "facebook": "https://facebook.com/community/whats-new/mia-black-lgbtq-moms-why-i-create/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "The LO",
+    "website": "https://wearethelo.com/",
+    "description": "A private, membership-based network connecting LGBTQ women to friendships and community near them.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/whvfgdwolpcx93scwoow",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/the-lo"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Stratos",
+    "website": "https://trystratos.com/",
+    "description": "Stratos connects communities to life-changing career and networking opportunities.",
+    "location": "Decatur, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/stratoscard",
+      "linkedin": "https://linkedin.com/company/trystratos",
+      "facebook": "https://facebook.com/stratoscard"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Squid IQ",
+    "website": "https://squid-iq.com/",
+    "description": "Take control of medical device management.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/f8zobyjbdge1znsbq45f",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/squid-iq"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Mini City",
+    "website": "https://minicityatl.com/",
+    "description": "Tech enabled solutions to alleviate homelessness.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/minicityatl",
+      "linkedin": "https://linkedin.com/company/mini-city-inc",
+      "facebook": "https://facebook.com/minicityatl"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Good Agriculture",
+    "website": "https://goodagriculture.com/",
+    "description": "Supports current and future regenerative farmers with business services such as finding funding, managing finances, and reaching new customers.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/good-agriculture"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Kiri",
+    "website": "https://kiritoys.com/",
+    "description": "For parents with young children whom they want to learn a second language, our smart toy provides a multisensory learning experience that teaches kids English, Mandarin and Spanish through play. We teach 46 subjects in all 3 languages.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kiritoys",
+      "facebook": "https://facebook.com/kiritoys.co/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Ceemo",
+    "website": "https://perfectlypitched.co/",
+    "description": "At Perfectly Pitched, we're automating our pitch methods that break past bias & get founders funded, raising $10m in the past year.",
+    "location": "Sterling, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PitchedDC",
+      "linkedin": "https://linkedin.com/company/perfectlypitched"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Cashpool",
+    "website": "https://joinmypool.co/",
+    "description": "Cashpool is a social trading app that decentralizes the hedge fund sector by combining copy trading and community in the stock market and crypto to recreate the experience for retail investors.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cashpoolco"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Aabshar",
+    "website": "https://aabshar.net/",
+    "description": "Aabshar is an impact-driven startup focused on addressing global water scarcity and high utility costs through innovative, AI-driven technology. Our patent-pending solution saves up to 98% of water usage, reduces utility expenses by up to 60%, and cuts CO2 emissions significantly. We empower homes, industries, and community centers, particularly in water-stressed regions, by providing real-time data and actionable insights to manage resources efficiently.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mbcei5kfdcwwnnz7kcdp",
+    "location": "Lahore, Islamabad, Pakistan",
+    "social_media": {
+      "twitter": "https://twitter.com/aabsharsolution",
+      "linkedin": "https://linkedin.com/company/aabshar",
+      "facebook": "https://facebook.com/aabsharsolutions"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Pann",
+    "website": "https://pann.app/",
+    "description": "Quick and easy working capital for SMBs through AI-assisted guidance",
+    "location": "Porter Ranch, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/panncapital"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Haven Network",
+    "website": "https://havenproject.io/",
+    "description": "Haven is a mission-driven platform that radically simplifies access to government and corporate contracts--many of which businesses are unaware of. In a landscape of outdated systems, bureaucratic jargon, and scattered portals, Haven unites over 12,000 buying agencies into one intuitive platform. Acting as a business development partner, we automatically match businesses with the right opportunities, drastically reducing the time and effort required to find and secure contracts.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thinkhaven",
+      "linkedin": "https://linkedin.com/company/thinkhaven"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "DubPrime",
+    "website": "https://dubprime.com/",
+    "description": "For lenders that want to grow revenue and be more inclusive, we provide Explainable AI Underwriting.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dubprime-inc"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Zumma",
+    "website": "https://tuzumma.com/",
+    "description": "Zumma is a digital platform that connects, teaches, and enables to save and invest for the client's goals.Founded in 2021, the company is based in Mexico.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fzbtnvnijmzmfoxaq6mz",
+    "location": "Lake Mary, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TuZumma",
+      "linkedin": "https://linkedin.com/company/tuzumma",
+      "facebook": "https://facebook.com/Zumma-106559464992605"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Uils",
+    "website": "https://uils.la/",
+    "description": "We provide loans for mobility apps' drivers using their driving history as credit score.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vytiyv3xzhogclcupvcf",
+    "location": "Buenos Aires, Argentina",
+    "social_media": {
+      "twitter": "https://twitter.com/somosuils",
+      "linkedin": "https://linkedin.com/company/uilsla",
+      "facebook": "https://facebook.com/somosuils"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Stork Exchange",
+    "website": "https://storkexchange.co/",
+    "description": "Stork Exchange is an online marketplace where parents can simply buy and sell secondhand baby products.",
+    "location": "Charlotte, North Carolina, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/stork-exchange-inc",
+      "facebook": "https://facebook.com/storkexchange"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Hamilton Perkins Collection",
+    "website": "https://hamiltonperkins.com/",
+    "description": "Hamilton Perkins Collection is an independent brand, designing and producing bags and accessories from recycled materials.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hamiltonperkins",
+      "linkedin": "https://linkedin.com/company/hamilton-perkins-collection",
+      "facebook": "https://facebook.com/hamiltonperkins"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Humans Deliver",
+    "website": "https://humansdeliver.com/",
+    "description": "Provides an AI-powered API that integrates real-time restroom and meal stop options into delivery routing tools, optimizing efficiency and lowering costs for carriers.",
+    "location": "New York City, New York, United States",
+    "social_media": {},
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Leaf Global Fintech",
+    "website": "https://leafglobalfintech.com/",
+    "description": "Leaf helps refugees safely store and transport assets across borders",
+    "location": "Lewes, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LeafGlobalTech/",
+      "linkedin": "https://linkedin.com/company/leaf-global-fintech",
+      "facebook": "https://facebook.com/leafglobalfintech/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "EIO Diagnostics",
+    "website": "https://eiodiagnostics.com/",
+    "description": "EIO Diagnostics is an animal health diagnostics company launching our first product in the dairy industry focused on early indication of mastitis infections.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EIODiagnostics",
+      "linkedin": "https://linkedin.com/company/18253436",
+      "facebook": "https://facebook.com/EIODiagnostics/"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Quimby",
+    "website": "https://linkedin.com/company/quimby",
+    "description": "Emotional resilience app for work",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/o7kwvj5z1hxzeyfibi1j",
+    "location": "Coppell, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/quimby"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Inuka Pap",
+    "website": "https://crunchbase.com/organization/inuka-pap",
+    "description": "iNuka Pap is a mobile platform that partners with savings and credit co-operatives (SACCOs) in Africa to provide members access to instant loans.",
+    "location": "Nairobi, Kenya",
+    "social_media": {
+      "twitter": "https://twitter.com/inukapap"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Civin",
+    "website": "https://linkedin.com/company/civin",
+    "description": "The analytics platform for local government (coming soon).",
+    "location": "East Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/civin_co",
+      "linkedin": "https://linkedin.com/company/civin",
+      "facebook": "https://facebook.com/civindotco"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Credential",
+    "website": "https://linkedin.com/company/credential-inc",
+    "description": "All B2B Lenders, One Contract, One Integration",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nzwkybrev5jxhnczmij0",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/credential-inc"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Oystr Finance",
+    "website": "https://linkedin.com/company/oystr-finance-ltd",
+    "description": "Alternative financial data infrastructure for Africa",
+    "location": "Lekki, Nigeria",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oystr-finance-ltd"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Marli Technology Solutions",
+    "website": "https://linkedin.com/company/marli-tech",
+    "description": "Connects businesses and individuals directly with environmental projects that save or absorb CO2.",
+    "location": "Docklands, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/Marli_Tech",
+      "linkedin": "https://linkedin.com/company/marli-tech"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  },
+  {
+    "name": "Access Mode",
+    "website": "https://accessmode.org/",
+    "description": "Access Mode cultivates venture-ready tech companies founded by exceptional entrepreneurs of color.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/sb4qyinnodl27lbzyxi0",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/accessmode"
+    },
+    "industry": "Impact investing",
+    "industry_slug": "impact-investing"
+  }
+]

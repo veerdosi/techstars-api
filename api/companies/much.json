@@ -1,0 +1,24 @@
+{
+  "name": "Much",
+  "slug": "much",
+  "website": "https://linkedin.com/company/budget-better",
+  "description": "Much is a social banking platform for millennials and gen-z.",
+  "one_liner": "Much is a social banking platform for millennials and gen-z.",
+  "location": "Norwalk, Connecticut, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/etushoevgo4fumgbizym",
+  "social_media": {
+    "twitter": "https://twitter.com/budgetbetterio",
+    "linkedin": "https://linkedin.com/company/budget-better",
+    "facebook": "https://facebook.com/budgetbetterio"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/much",
+  "api": "/api/companies/much.json"
+}

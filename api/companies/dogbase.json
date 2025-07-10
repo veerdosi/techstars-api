@@ -1,0 +1,23 @@
+{
+  "name": "DogBase",
+  "slug": "dogbase",
+  "website": "https://dogbase.co/",
+  "description": "DogBase is redefining how organizations and individuals manage high-performance dogs by replacing pen-and-paper processes with modern software and productivity-enhancing AI.\n\nWe are bringing digitalization and disruption to an untapped market",
+  "one_liner": "DogBase is redefining how organizations and individuals manage high-performance dogs by replacing pen-and-paper processes with modern software and productivity-enhancing AI.\n\nWe are bringing digitalization and disruption to an untapped market",
+  "location": "Tel Aviv, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/dogbase",
+    "facebook": "https://facebook.com/mydogbase"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dogbase",
+  "api": "/api/companies/dogbase.json"
+}

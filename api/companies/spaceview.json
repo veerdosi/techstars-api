@@ -1,0 +1,24 @@
+{
+  "name": "SpaceView",
+  "slug": "spaceview",
+  "website": "https://space.vu/",
+  "description": "SpaceView is an augmented reality platform that enables anyone to visualize what a physical product will look like in any space, instantly.",
+  "one_liner": "SpaceView is an augmented reality platform that enables anyone to visualize what a physical product will look like in any space, instantly.",
+  "location": "Portland, Oregon, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/spaceviewapp",
+    "linkedin": "https://linkedin.com/company/spaceview",
+    "facebook": "https://facebook.com/spaceviewapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/spaceview",
+  "api": "/api/companies/spaceview.json"
+}

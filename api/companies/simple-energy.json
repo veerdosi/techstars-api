@@ -1,0 +1,24 @@
+{
+  "name": "Simple Energy",
+  "slug": "simple-energy",
+  "website": "https://simpleenergy.com/",
+  "description": "Changing how people save energy",
+  "one_liner": "Changing how people save energy",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/simpleenergy",
+    "linkedin": "https://linkedin.com/company/bleedingbulbfoundation",
+    "facebook": "https://facebook.com/SimpleEnergy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/simple-energy",
+  "api": "/api/companies/simple-energy.json"
+}

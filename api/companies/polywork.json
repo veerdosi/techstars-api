@@ -1,0 +1,24 @@
+{
+  "name": "Polywork",
+  "slug": "polywork",
+  "website": "https://linkedin.com/company/polyworkhq",
+  "description": "Polywork is a social networking platform that allows professionals to collaborate with other professionals.",
+  "one_liner": "Polywork is a social networking platform that allows professionals to collaborate with other professionals.",
+  "location": "London, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/polywork",
+    "linkedin": "https://linkedin.com/company/polyworkhq",
+    "facebook": "https://facebook.com/kalohq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/polywork",
+  "api": "/api/companies/polywork.json"
+}

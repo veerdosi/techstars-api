@@ -1,0 +1,20 @@
+{
+  "name": "Mantaray Climate",
+  "slug": "mantaray-climate",
+  "website": "",
+  "description": "Making it simpler, faster and cheaper for companies to find verified climate-friendly suppliers.",
+  "one_liner": "Making it simpler, faster and cheaper for companies to find verified climate-friendly suppliers.",
+  "location": "Potts Point, New South Wales, Australia",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mantaray-climate",
+  "api": "/api/companies/mantaray-climate.json"
+}

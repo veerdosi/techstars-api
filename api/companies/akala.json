@@ -1,0 +1,24 @@
+{
+  "name": "AKALA",
+  "slug": "akala",
+  "website": "https://goakala.com/",
+  "description": "AKALA levels the playing field for American teens in access to high-quality college admissions guidance.",
+  "one_liner": "AKALA levels the playing field for American teens in access to high-quality college admissions guidance.",
+  "location": "Beverly Hills, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/uehzijgcqt20bwu0oosr",
+  "social_media": {
+    "twitter": "https://twitter.com/GoAKALA",
+    "linkedin": "https://linkedin.com/company/goakala",
+    "facebook": "https://facebook.com/AKALA-College-Admissions-Consulting-145474796111287/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/akala",
+  "api": "/api/companies/akala.json"
+}

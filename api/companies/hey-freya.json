@@ -1,0 +1,24 @@
+{
+  "name": "hey freya",
+  "slug": "hey-freya",
+  "website": "https://heyfreya.co/",
+  "description": "The first complete health solution just for women",
+  "one_liner": "The first complete health solution just for women",
+  "location": "Middletown, Delaware, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/t1wiidwbii8ls58azq9d",
+  "social_media": {
+    "twitter": "https://twitter.com/heyfreyaco",
+    "linkedin": "https://linkedin.com/company/heyfreya",
+    "facebook": "https://facebook.com/heyfreya.co"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hey-freya",
+  "api": "/api/companies/hey-freya.json"
+}

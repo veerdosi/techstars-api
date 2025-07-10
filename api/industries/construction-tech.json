@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Machinery Partner",
+    "website": "https://machinerypartner.com/",
+    "description": "Helping small businesses buy, finance and operate specialist equipment. One segment at a time.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MachineryMP",
+      "linkedin": "https://linkedin.com/company/machinerypartner",
+      "facebook": "https://facebook.com/pg/machinerypartner/about/"
+    },
+    "industry": "Construction technology",
+    "industry_slug": "construction-tech"
+  },
+  {
+    "name": "TRASHBOARD",
+    "website": "https://trashboard.fr/",
+    "description": "Trashboard is a new material.\nBased on recycled cardboard, circular and performing.",
+    "location": "Bayonne, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/trashboard"
+    },
+    "industry": "Construction technology",
+    "industry_slug": "construction-tech"
+  },
+  {
+    "name": "Grid Discovery",
+    "website": "https://griddiscovery.com/",
+    "description": "Grid Discovery helps to accelerate energy resilience with automated community microgrid planning software.",
+    "location": "Montclair, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/griddiscovery"
+    },
+    "industry": "Construction technology",
+    "industry_slug": "construction-tech"
+  },
+  {
+    "name": "LARKI",
+    "website": "https://larki.au/",
+    "description": "Your Go-to 3D Scanning Partner for Better Surveys",
+    "location": "Alexandria, New South Wales, Australia",
+    "social_media": {},
+    "industry": "Construction technology",
+    "industry_slug": "construction-tech"
+  },
+  {
+    "name": "Follo",
+    "website": "https://follo.co/",
+    "description": "The construction industry's go-to platform for effectively managing jobsite deliveries, crane picks, concrete pours, inspections, and carbon emissions tracking.",
+    "location": "Murrieta, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/follo-inc"
+    },
+    "industry": "Construction technology",
+    "industry_slug": "construction-tech"
+  }
+]

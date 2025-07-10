@@ -1,0 +1,24 @@
+{
+  "name": "Waterson",
+  "slug": "waterson",
+  "website": "https://waterson.lv/",
+  "description": "AI-based real-time water-quality surveillance",
+  "one_liner": "AI-based real-time water-quality surveillance",
+  "location": "Riga, Latvia",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/RTU_LV",
+    "linkedin": "https://linkedin.com/company/waterson-technologies",
+    "facebook": "https://facebook.com/rigastehniskauniversitate"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/waterson",
+  "api": "/api/companies/waterson.json"
+}

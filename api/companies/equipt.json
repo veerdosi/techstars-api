@@ -1,0 +1,23 @@
+{
+  "name": "Equipt",
+  "slug": "equipt",
+  "website": "https://joinequipt.com/",
+  "description": "We help fast-growing tech companies attract, recruit, and retain diverse talent by using online community-based learning experiences.",
+  "one_liner": "We help fast-growing tech companies attract, recruit, and retain diverse talent by using online community-based learning experiences.",
+  "location": "Philadelphia, Pennsylvania, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/joinequipt",
+    "facebook": "https://facebook.com/joinequipt/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/equipt",
+  "api": "/api/companies/equipt.json"
+}

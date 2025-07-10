@@ -1,0 +1,22 @@
+{
+  "name": "Okkanti",
+  "slug": "okkanti",
+  "website": "https://okkanti.com/",
+  "description": "Okkanti is a whole health pregnancy care platform that enables a community-ecosystem approach to caring for diverse populations.",
+  "one_liner": "Okkanti is a whole health pregnancy care platform that enables a community-ecosystem approach to caring for diverse populations.",
+  "location": "Madison, Wisconsin, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/okkanti"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/okkanti",
+  "api": "/api/companies/okkanti.json"
+}

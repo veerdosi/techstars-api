@@ -1,0 +1,23 @@
+{
+  "name": "Radia",
+  "slug": "radia",
+  "website": "https://radia.world/",
+  "description": "Radia is a web3 music company building the first multi-chain and multi-web wallet for media & entertainment",
+  "one_liner": "Radia is a web3 music company building the first multi-chain and multi-web wallet for media & entertainment",
+  "location": "Los Angeles, California, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/JessicaLawson92",
+    "linkedin": "https://linkedin.com/company/radia-world"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/radia",
+  "api": "/api/companies/radia.json"
+}

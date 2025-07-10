@@ -1,0 +1,24 @@
+{
+  "name": "fraudmarc",
+  "slug": "fraudmarc",
+  "website": "https://fraudmarc.com/",
+  "description": "We work with all major mailbox providers to identify your valid mail sources. Legitimate senders enjoy improved deliverability & phishing attempts are blocked.",
+  "one_liner": "We work with all major mailbox providers to identify your valid mail sources. Legitimate senders enjoy improved deliverability & phishing attempts are blocked.",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/fraudmarc",
+    "linkedin": "https://linkedin.com/company/10684936",
+    "facebook": "https://facebook.com/fraudmarc/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fraudmarc",
+  "api": "/api/companies/fraudmarc.json"
+}

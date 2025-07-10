@@ -1,0 +1,24 @@
+{
+  "name": "Fanbants",
+  "slug": "fanbants",
+  "website": "https://fanbants.com/",
+  "description": "The social DraftKings of Africa",
+  "one_liner": "The social DraftKings of Africa",
+  "location": "Lagos, Nigeria",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PlayFanbants",
+    "linkedin": "https://linkedin.com/company/fanbants",
+    "facebook": "https://facebook.com/fanbants/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fanbants",
+  "api": "/api/companies/fanbants.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Coconut",
+  "slug": "coconut",
+  "website": "https://getcoconut.com/",
+  "description": "Coconut is simple tax and accounting software for sole traders, landlords & their accountants.",
+  "one_liner": "Coconut is simple tax and accounting software for sole traders, landlords & their accountants.",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getcoconut",
+    "linkedin": "https://linkedin.com/company/getcoconut",
+    "facebook": "https://facebook.com/getcoconut/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/coconut",
+  "api": "/api/companies/coconut.json"
+}

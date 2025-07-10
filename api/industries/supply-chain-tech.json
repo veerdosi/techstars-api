@@ -1,0 +1,1871 @@
+[
+  {
+    "name": "Zipline",
+    "website": "https://flyzipline.com/",
+    "description": "Zipline operates the world's largest autonomous on-demand delivery system with the industry's leading instant logistics technology stack.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/zipline",
+      "linkedin": "https://linkedin.com/company/flyzipline",
+      "facebook": "https://facebook.com/flyzipline/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Veho",
+    "website": "https://shipveho.com/",
+    "description": "Provider of end-to-end e-commerce delivery service intended to offer personalized next-day package delivery.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/shipveho",
+      "linkedin": "https://linkedin.com/company/shipveho",
+      "facebook": "https://facebook.com/pg/VehoDrivers"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Ordermark",
+    "website": "https://ordermark.com/",
+    "description": "Stream all your online orders to one device. Watch your sales grow.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getordermark",
+      "linkedin": "https://linkedin.com/company/ordermark",
+      "facebook": "https://facebook.com/Ordermark/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Tive",
+    "website": "https://tive.com/",
+    "description": "Sensor driven supply chain optimization.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tiveinc",
+      "linkedin": "https://linkedin.com/company/tiveinc"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Convey",
+    "website": "https://getconvey.com/",
+    "description": "Convey helps businesses worldwide to take control of shipping and delivery.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/get_convey",
+      "linkedin": "https://linkedin.com/company/convey-inc",
+      "facebook": "https://facebook.com/pivotfreight"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "SmartHop",
+    "website": "https://smarthop.com/",
+    "description": "SmartHop is an autonomous dispatcher for truckers to plan, search and book loads!",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/smarthop",
+      "linkedin": "https://linkedin.com/company/smarthop",
+      "facebook": "https://facebook.com/smarthopapp"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Wise Systems",
+    "website": "https://wisesystems.com/",
+    "description": "Wise Systems is an enterprise software solution that helps companies make real-time delivery decisions.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gowisesystems",
+      "linkedin": "https://linkedin.com/company/5348684",
+      "facebook": "https://facebook.com/WiseSystemsInc"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Plated",
+    "website": "https://plated.com/",
+    "description": "Chef-designed recipes & fresh ingredients delivered to your door",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/plated",
+      "linkedin": "https://linkedin.com/company/plated",
+      "facebook": "https://facebook.com/theplated"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Metro Africa Xpress",
+    "website": "https://max.ng/",
+    "description": "Providing infrastructure and services to taxi drivers across Africa.",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/maxdotng",
+      "linkedin": "https://linkedin.com/company/maxdriveai",
+      "facebook": "https://facebook.com/pages/Metro-Africa-Xpress-MAX/837791536289252"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Stockly",
+    "website": "https://stockly.ai/",
+    "description": "Stockly helps farmers to rent their available storage space and individuals to store their leisure vehicles more serenely.",
+    "location": "Vitry-sur-Seine, France",
+    "social_media": {
+      "twitter": "https://twitter.com/stockly_ai",
+      "linkedin": "https://linkedin.com/company/stockly",
+      "facebook": "https://facebook.com/StocklyAi/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Denim",
+    "website": "https://denim.com/",
+    "description": "Denim helps freight brokerages and fleets accelerate growth with back-office automation and fast working capital.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/JoinDenim",
+      "linkedin": "https://linkedin.com/company/join-denim",
+      "facebook": "https://facebook.com/joindenim"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Certa",
+    "website": "https://getcerta.com/",
+    "description": "Certa is a software as service platform for business to business interactions, including on-boarding, due diligence, risk mitigation and monitoring of their third party relationships.",
+    "location": "Saratoga, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getcerta",
+      "linkedin": "https://linkedin.com/company/certa-in",
+      "facebook": "https://facebook.com/certanetwork"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Max Retail",
+    "website": "https://maxretail.com/",
+    "description": "Max Retail connects supply with demand to sell unsold inventory.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vierniqrr8pamfclcw4b",
+    "location": "North Palm Beach, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/swapretail",
+      "linkedin": "https://linkedin.com/company/joinmaxretail",
+      "facebook": "https://facebook.com/joinmaxretail"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Pipedream",
+    "website": "https://pipedreamlabs.co/",
+    "description": "Easy Underground Logistics is no longer a pipedream.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pipedream_labs",
+      "linkedin": "https://linkedin.com/company/pipedream-labs"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "TO THE MARKET",
+    "website": "https://tothemarket.com/",
+    "description": "Powering the ethical supply chain.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LetsgoTTM",
+      "linkedin": "https://linkedin.com/company/5016366",
+      "facebook": "https://facebook.com/letsgottm"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Voyager Portal",
+    "website": "https://voyagerportal.com/",
+    "description": "Voyager is a multi-party collaboration and workflow solution for the bulk shipping industry",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/VoyagerPortal",
+      "linkedin": "https://linkedin.com/company/voyager-real-estate",
+      "facebook": "https://facebook.com/pg/InvestVoyager/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Zagster",
+    "website": "https://zagster.com/",
+    "description": "A better way to bike",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/zagster",
+      "linkedin": "https://linkedin.com/company/zagster",
+      "facebook": "https://facebook.com/BikeZagster"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Medzoomer",
+    "website": "https://medzoomer.com/",
+    "description": "On-demand prescription delivery at the touch of a button.",
+    "location": "Tampa, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/medzoomer",
+      "facebook": "https://facebook.com/medzoomer/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "AGTools",
+    "website": "https://ag.tools/",
+    "description": "Agtools is a real-time data and market intelligence platform that provides transparency to the global food & ag industry.",
+    "location": "Irvine, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ag_tools",
+      "linkedin": "https://linkedin.com/company/agtools",
+      "facebook": "https://facebook.com/AgtoolsInc/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Sirius",
+    "website": "https://besirius.io/",
+    "description": "Sirius empowers small businesses to decarbonize: discover, finance, implement.",
+    "location": "Amsterdam, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/besirius",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Diagon Technologies",
+    "website": "https://diagon.ai/",
+    "description": "First-of-its-kind equipment sourcing platform bringing hardware, services, and financing into a consolidated user experience.",
+    "location": "Alameda, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/diagon-tech"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "IONA",
+    "website": "https://ionadrones.com/",
+    "description": "IONA develops zero-emission autonomous drone solutions for sustainable and efficient logistics in low population density areas.",
+    "location": "Bedford, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ionalogistics"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "MDaaS Global",
+    "website": "https://mdaas.io/",
+    "description": "MDaaS Global builds and operates tech-enabled diagnostic and primary care centers in clinically underserved communities in Africa.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mdaasglobal",
+      "linkedin": "https://linkedin.com/company/mdaas",
+      "facebook": "https://facebook.com/mdaasglobal/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Onward Delivery",
+    "website": "https://onwarddelivery.com/",
+    "description": "A freight marketplace that connects heavy goods retailers with trucks based on the direction the load is going - Item Hitchhiking!",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Onward_Delivery",
+      "linkedin": "https://linkedin.com/company/onward-delivery",
+      "facebook": "https://facebook.com/onwarddelivers"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Otrafy",
+    "website": "https://otrafy.com/",
+    "description": "Otrafy is a supply-chain management platform that runs on a track and trace model with a focus on data sharing and product history.",
+    "location": "Saint Paul, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Otrafy",
+      "linkedin": "https://linkedin.com/company/otrafytech",
+      "facebook": "https://facebook.com/Otrafy-325290301636875/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "SPLT",
+    "website": "https://splt.io/",
+    "description": "SPLT is an enterprise ridesharing platform changing the way people commute together.",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/splt",
+      "linkedin": "https://linkedin.com/company/9344679",
+      "facebook": "https://facebook.com/teamsplt"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Toolsvilla",
+    "website": "https://toolsvilla.com/",
+    "description": "A Digital Marketplace for Machinery, Tools & Equipment that solve operational inefficiencies in the farm & food businesses of India.",
+    "location": "Durgapur, West Bengal, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/toolsvilla",
+      "facebook": "https://facebook.com/toolsvilla/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Pulse Charter Connect",
+    "website": "https://pulsecharterconnect.com/",
+    "description": "Pulse Charter Connect provides organ transportation logistics services.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pulse-charter-connect"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Gravel AI",
+    "website": "https://gravelai.com/",
+    "description": "Generating ultra-granular cosmetics ingredient market data from formulation change patterns, ingredients substitution activities, post-launch product survival rate to broad-brush ingredient adoption trends.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/c0abljead5gmou6sm8nh",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/gravel-ai"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Metrobi",
+    "website": "https://metrobi.com/",
+    "description": "The mind behind last-mile logistics. Metrobi provides a shared service for B2B local deliveries.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MetrobiOfficial",
+      "linkedin": "https://linkedin.com/company/metrobi",
+      "facebook": "https://facebook.com/MetrobiCom/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Transmute",
+    "website": "https://transmute.industries/",
+    "description": "The trusted data exchange platform for global trade",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TransmuteNews",
+      "linkedin": "https://linkedin.com/company/11186222"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Captain AI",
+    "website": "https://captain.ai/",
+    "description": "On demand delivery software enabling restaurants to automate their in house delivery",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/captain.ai",
+      "facebook": "https://facebook.com/people/Captainai/100057315284993"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Sorair Technologies",
+    "website": "https://sorair.co.uk/",
+    "description": "Automating end-to-end supply chains using software management systems and robotics technology.",
+    "location": "Didcot, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sorair-technologies",
+      "facebook": "https://facebook.com/Sorairtech"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "geoFluxus",
+    "website": "https://geofluxus.com/",
+    "description": "We map waste",
+    "location": "Rotterdam, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/GFluxus",
+      "linkedin": "https://linkedin.com/company/geofluxus"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Flybridge Holdings",
+    "website": "https://qwyk.io/",
+    "description": "At Qwyk we're building the future of logistics, driven by data and innovative application that connect customers and logistics providers.",
+    "location": "Dordrecht, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/qwyk_io",
+      "linkedin": "https://linkedin.com/company/qwyk",
+      "facebook": "https://facebook.com/qwyksearch"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Wisk Solutions",
+    "website": "https://wisksolutions.com/",
+    "description": "The beverage intelligence platform for liquor reatilers, distributors and producers",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/WISK_ai",
+      "linkedin": "https://linkedin.com/company/wisk",
+      "facebook": "https://facebook.com/WiskApp"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "ODWEN",
+    "website": "https://odwen.co.in/",
+    "description": "India's largest & fully integrated on-demand warehouse network",
+    "location": "Noida, Uttar Pradesh, India",
+    "social_media": {
+      "twitter": "https://twitter.com/odwen6",
+      "linkedin": "https://linkedin.com/company/odwen",
+      "facebook": "https://facebook.com/OdwenWarehouse/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "ATMO",
+    "website": "https://atmo.earth/",
+    "description": "atmo helps banks to reduce their financed emissions - starting with food.",
+    "location": "Berlin, Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/atmoearth"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "BITE Data",
+    "website": "https://bitedata.io/",
+    "description": "BITE Data is a trade compliance screening platform that allows users to screen companies and products in their supply chain for risk in real time; classify commodities for accurate duty rates and tariffs; continuously monitor their supply chain and track their compliance audit tasks. We aim to disrupt the trade compliance screening market with self-service SaaS, and AI agents that provide alternative supply chain routes and product procurement.",
+    "location": "Leesburg, Virginia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bitedata"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Moneiva",
+    "website": "https://moneiva.com/",
+    "description": "Moneiva automates communication in Logistics and Supply Chain using AI-powered voice, email, and text agents. We reduce manual, repetitive tasks that cost teams time and money--every call costs $3.50, even when no one answers. Our deep logistics workflows drive 150%+ productivity gains and reduce communication costs by two-thirds.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/sktqjfnrxb1ocul6ptui",
+    "location": "Omaha, Nebraska, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/moneiva"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "BPRX",
+    "website": "https://getbprx.com/",
+    "description": "BPRX's supply chain finance platform and APIs gives shippers access to alternative credit, enabling faster payments to truckers so they can take on more jobs.",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "social_media": {
+      "twitter": "https://twitter.com/adelantalo",
+      "linkedin": "https://linkedin.com/company/adelantalo",
+      "facebook": "https://facebook.com/adelantalo"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Seedsight",
+    "website": "https://linkedin.com/in/joanaspaiva",
+    "description": "First Worldwide Digital Library of Seed Signatures",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/joanaspaiva"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Aclymate",
+    "website": "https://aclymate.com/",
+    "description": "Aclymate empowers small businesses to become Climate Leaders",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AclymateCarbon",
+      "linkedin": "https://linkedin.com/company/aclymate",
+      "facebook": "https://facebook.com/Aclymate/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Rivalia Chemical Co",
+    "website": "https://rivaliachemical.com/",
+    "description": "American-made rare earths, produced from wastes",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wix",
+      "linkedin": "https://linkedin.com/company/rivalia-chemical-co",
+      "facebook": "https://facebook.com/wix"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Pickups Technologies",
+    "website": "https://usepickups.com/",
+    "description": "Pickups leverages a community of urban residents with space and time at home to help brands and carriers to sustainably optimize their fulfilment, storage, and delivery capabilities.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jwpbgdph3nclcxbdenf0",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/usepickups",
+      "linkedin": "https://linkedin.com/company/usepickups",
+      "facebook": "https://facebook.com/usepickups/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Downtown AI",
+    "website": "https://downtown.ai/",
+    "description": "Analyze, Map and Predict Human Movements in Cities",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/DowntownAI",
+      "linkedin": "https://linkedin.com/company/downtown-ai",
+      "facebook": "https://facebook.com/downtownai"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Kudoti",
+    "website": "https://kudoti.com/",
+    "description": "Kudoti design and develop digital solutions for optimization in the waste management and recycling industries via the platform.",
+    "location": "Johannesburg, South Africa",
+    "social_media": {
+      "twitter": "https://twitter.com/Kudoti_Waste",
+      "linkedin": "https://linkedin.com/company/kudoti",
+      "facebook": "https://facebook.com/Kudoti.Waste/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Trilleco",
+    "website": "https://trilleco.com/",
+    "description": "Trilleco is a 3D IoT sustainability platform that provides data transparency and transforms footprint.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/khyczbm32nrtavkmsenj",
+    "location": "Oulu, Finland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/trilleco",
+      "facebook": "https://facebook.com/Trilleco/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "RxPlace",
+    "website": "https://myrxplace.com/",
+    "description": "RxPlace is the first and only choice for secondary pharmaceutical procurement, connecting you to multiple key wholesalers and providing reliable access to over 20,000 medications and counting.",
+    "location": "Tustin, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rxplace"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Veracity Protocol",
+    "website": "https://veracityprotocol.org/",
+    "description": "Security standard of trust for physical objects. Bridging physical and digital worlds.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/VeracityProtocl",
+      "linkedin": "https://linkedin.com/company/veracityprotocol",
+      "facebook": "https://facebook.com/veracityprotocol/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "SupplyNow",
+    "website": "https://supplynow.org/",
+    "description": "Tech-enabled services that help solve supply-chain challenges for food-service distributors and their independent restaurant customers",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mdzk5rcv5b6bmpw5wnhi",
+    "location": "Cleveland, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/supplynow",
+      "facebook": "https://facebook.com/supplynowllc"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "H+Trace",
+    "website": "https://h-trace.com/",
+    "description": "AI platform for Healthcare supply chain optimization",
+    "location": "Allen, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/h-trace"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Helgen Technologies",
+    "website": "https://helgen.tech/",
+    "description": "YOUR AUTOMATED WORKFORCE",
+    "location": "Killorglin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/helgentech",
+      "linkedin": "https://linkedin.com/company/helgen",
+      "facebook": "https://facebook.com/ipt.trainers/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Birdie Technologies",
+    "website": "https://birdie.mx/",
+    "description": "birdie centralizes and streamlines supply chain operations, enhancing daily workflow management and giving full visibility of shipments",
+    "location": "Hermosillo, Sonora, Mexico",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/birdiemx"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Invendor",
+    "website": "https://invendor.com/",
+    "description": "Self-checkout sites for industrial distributors to sell spare parts and consumables at manufacturing locations",
+    "location": "Lehmja küla, Estonia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/invendor",
+      "facebook": "https://facebook.com/Scanbrobusiness"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Envoi Technologies",
+    "website": "https://envoinow.com/",
+    "description": "Envoi facilitates retailers looking to meet consumer demand for same-day delivery. They circumvent the traditional courier model so that you can service your customers faster, better, and with more visibility.",
+    "location": "Kitchener, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/envoinow",
+      "linkedin": "https://linkedin.com/company/envoinow",
+      "facebook": "https://facebook.com/envoinow"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Charter Space",
+    "website": "https://charter.space/",
+    "description": "Charter is developing logistics software for satellite companies to streamline missions and reduce wasted engineering hours.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/zzfasicadzv4iurxkj2e",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/charter_space_",
+      "linkedin": "https://linkedin.com/company/charter-space"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Bext360",
+    "website": "https://bext360.com/",
+    "description": "Bext360 is a supply chain software management tool that tracks global commodities from the first mile, across processing nodes, and through retail.",
+    "location": "Golden, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bext360",
+      "linkedin": "https://linkedin.com/company/bext360",
+      "facebook": "https://facebook.com/bext360/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "OrdrSmart",
+    "website": "https://ordrsmart.com/",
+    "description": "Ordr Smart offers a sales management platform helping to process sample requests and measure all costs associated with it.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ordrsmart"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Magueyexchange",
+    "website": "https://magueyexchange.com/",
+    "description": "Technology enabling ethical exchange",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/maguey-exchange",
+      "facebook": "https://facebook.com/magueyexchange"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Craftmerce",
+    "website": "https://craftmerce.com/",
+    "description": "Craftmerce is a B2B wholesale marketplace platform that leverages AI to connect mainstream global retailers to African handcrafted brands.",
+    "location": "Middletown, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/craftmerce",
+      "linkedin": "https://linkedin.com/company/craftmerce",
+      "facebook": "https://facebook.com/craftmerce"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Transship Corp",
+    "website": "https://transship.net/",
+    "description": "Automated freight forwarding for international shipments of full container loads of perishable and non perishable goods.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/transship",
+      "linkedin": "https://linkedin.com/company/transship-corp-llc"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "TerraWaste",
+    "website": "https://terrawaste.tech/",
+    "description": "Waste-to-material (WTM) process converting plastic into feedstock",
+    "location": "Riga, Latvia",
+    "social_media": {
+      "twitter": "https://twitter.com/WasteTerra",
+      "linkedin": "https://linkedin.com/company/terrawaste"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Kadeya",
+    "website": "https://kadeya.com/",
+    "description": "Kadeya is a closed-loop water vending business that utilizes digitally connected reusable water bottles and tiny bottling equipment. Kadeya was founded by Manuela Zoninsein.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hellokadeya",
+      "linkedin": "https://linkedin.com/company/kdy",
+      "facebook": "https://facebook.com/AWMLimited"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Ekei",
+    "website": "https://ekei.net/",
+    "description": "Ekei is revolutionizing logistics with the Supply Cloud: a global, provider-agnostic platform unifying freight forwarding and fulfillment. By leveraging automation, AI-driven optimization, and decentralized data sharing, we slash costs, reduce emissions, and enable seamless collaboration across the entire supply chain.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ekeigroup"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "EcoBloc",
+    "website": "https://bloc.eco/",
+    "description": "EcoBloc protects inventory and equipment using ultrasonic waves.",
+    "location": "Portugal Cove-St. Philip's, Newfoundland and Labrador, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ecobloc"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "CropConex",
+    "website": "https://cropconex.com/",
+    "description": "CropConex is a marketplace and supply chain management platform streamlining the sales and exports of specialty crops worldwide.",
+    "location": "Highland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CropConex",
+      "linkedin": "https://linkedin.com/company/cropconex",
+      "facebook": "https://facebook.com/cropconex"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "3R Pallets",
+    "website": "https://3rpallets.com/",
+    "description": "Transforming Supply Chain with Closed Loop Cost Effective, Durable, & Sustainable Bio-Composite Pallets, Reducing Deforestation & Carbon Footprint",
+    "location": "Okmoes, Michigan, United States",
+    "social_media": {},
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "VOIDS",
+    "website": "https://voids.ai/",
+    "description": "Providing technology empowering brands, businesses, and people to build a sustainable e-commerce ecosystem for all.",
+    "location": "Hamburg, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/void's-sl"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "InStockRx",
+    "website": "https://instockrx.com/",
+    "description": "Seamless Access to In-Stock Medication.",
+    "location": "Palm Harbor, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/inview-analytics",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Cuantix",
+    "website": "https://icuantix.com/",
+    "description": "SaaS platform that automates ESG and impact data gathering and reporting.",
+    "location": "Santiago, Chile",
+    "social_media": {
+      "twitter": "https://twitter.com/CuantixIS",
+      "linkedin": "https://linkedin.com/company/cuantix",
+      "facebook": "https://facebook.com/CuantixIS/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "BeautyGoGO",
+    "website": "https://beautygo-go.com/",
+    "description": "The BeautyGoGo app helps Black women by offering immediate delivery or pick up of niche products from a variety of local retailers called beauty supply stores",
+    "location": "Redford, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/beautygogo-inc"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Type W",
+    "website": "https://typew.com/",
+    "description": "Type W revolutionizes the way companies utilize retail sell-through data",
+    "location": "Hermosa Beach, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/typewinc",
+      "linkedin": "https://linkedin.com/company/type-w",
+      "facebook": "https://facebook.com/typew"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "haulsale",
+    "website": "https://haulsale.com/",
+    "description": "A marketplace to sell your used goods in bulk to professional resellers.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/85823421",
+      "facebook": "https://facebook.com/shophaulsale"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Eqtrade",
+    "website": "https://eqgrow.mydurable.com/",
+    "description": "Eqtrade, powered by AI and ML, bridges the gaps in international food systems. Empowering farmers without business knowledge to transform their lands into sustainable ventures.",
+    "location": "Madrid, Spain",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/isabella-bernal-colpas-25768b11a"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "DOConvert",
+    "website": "https://doconvert.co/",
+    "description": "Digitize supply chain document workflows, uncover insights, and drive action",
+    "location": "Moshav Dor, Haifa, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/DOConvert",
+      "linkedin": "https://linkedin.com/company/doconvert",
+      "facebook": "https://facebook.com/DOConvert"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Caltana",
+    "website": "https://caltana.com/",
+    "description": "Caltana is an AI pricing automation and analytics platform for commercial real estate services, providing 10x  faster and more accurate pricing for property owners and service suppliers.",
+    "location": "Los Altos, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/caltana"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Caesarea Labs",
+    "website": "https://caesarealabs.com/",
+    "description": "Caesarea Labs is a semiconductor post-silicon validation EDA company, enhancing chip developers' efficiency and productivity. Our solutions help the industry deliver high-quality products faster, with better performance and reduced costs",
+    "location": "Kfar Saba, Tel Aviv, Israel",
+    "social_media": {},
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Bob's Containers",
+    "website": "https://bobscontainers.com/",
+    "description": "We build fast, affordable, and profitable housing solutions from shipping containers.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fxhqmvnq8ome60kuqzxz",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bobscontainers",
+      "linkedin": "https://linkedin.com/company/bobs-containers",
+      "facebook": "https://facebook.com/bobscontainers"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Smart Border Systems",
+    "website": "https://smartborder.systems/",
+    "description": "SBS | Intelligent Port Arrival systems",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/smart-border-systems",
+      "facebook": "https://facebook.com/smartbordersystems"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "LoneReport",
+    "website": "https://lonereport.com/",
+    "description": "Verified and Automated ESG Compliance",
+    "location": "San Francisco, California, United States",
+    "social_media": {},
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Hansel Medical",
+    "website": "https://hanselmedical.com/",
+    "description": "Maximize revenue and unlock efficiency through intelligent surgical asset tracking",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hanselmedical"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "ERP365",
+    "website": "https://erp365.us/",
+    "description": "ERP365 offers businesses of all sizes a complete ERP Software solution that covers CRM, finance, supply chain, and human resources (HR).",
+    "location": "Tulsa, Oklahoma, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ERP3651",
+      "linkedin": "https://linkedin.com/showcase/inventory365"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "RuleUp",
+    "website": "https://ruleup.ai/",
+    "description": "Effortlessly monitor any cybersecurity, privacy, or technology regulations, automate compliance, and ensure you're always up-to-date with real-time insights.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ruleup"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Payvmnt",
+    "website": "https://getpayvmnt.com/",
+    "description": "Payvmnt is last mile logistics technology company.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gyxbp1rl3oqmzu247phx",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/payvmnt",
+      "linkedin": "https://linkedin.com/company/payvmnt",
+      "facebook": "https://facebook.com/payvmnt"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Jelt",
+    "website": "https://jelt.com.co/",
+    "description": "For businesses of the health sector that experience friction, inefficiencies and cost overruns when getting their medical inventory, Jelt is a B2B platform for easy acquisition and management of medical supplies.",
+    "location": "Doral, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/jeltco",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Tarot Analytics",
+    "website": "https://tarotanalytics.com/",
+    "description": "\"Waze for vehicle fleets\":  Simpler Multi-Stop Route Optimisation",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/TarotAnalytics",
+      "linkedin": "https://linkedin.com/company/tarot-analytics",
+      "facebook": "https://facebook.com/tarotanalytics"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Valio",
+    "website": "https://myvalio.com/",
+    "description": "Unlocking Millions in Untapped Rebates for Health Systems\n\nValio is building the AI infrastructure that turns confusing rebate contracts into cash.",
+    "location": "Zionsville, Indiana, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/valiollc"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Silico Data",
+    "website": "https://silicodata.com/",
+    "description": "Automate and digitize pharmaceutical companies' FDA required work.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/s33wqxokl1vjrbrk7fjw",
+    "location": "San Jose, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/silico-data-services"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Pioneerwork",
+    "website": "https://pioneerwork.co/",
+    "description": "Zag streamlines dropshipping for retailers, facilitating swift supplier integration and transaction. Our platform enables seamless bidirectional exchange of product info, inventory, orders, returns, invoices, and payments between retailers and suppliers. With Zag, onboarding takes minutes, allowing for rapid assortment expansion without inventory risks, supported by integration with major Japanese e-commerce platforms.",
+    "location": "Tokyo, Japan",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/yoichigoto"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Gather Flora",
+    "website": "https://gatherflora.com/",
+    "description": "Global Flower Marketplace",
+    "location": "Vallejo, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GatherFloraHelp",
+      "linkedin": "https://linkedin.com/company/gather-flora",
+      "facebook": "https://facebook.com/gatherflora/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "MediCircle",
+    "website": "https://medicirclerx.com/",
+    "description": "MediCircle saves patients and health insurance plans thousands on their most expensive prescription drugs by reclaiming, recertifying, and redispensing unused medications through our licensed pharmacy.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/medicircle-org"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "CargoShot",
+    "website": "https://cargoshot.com/",
+    "description": "CargoShot is the global supply chain leader of innovative SaaS-based \"proof of condition\" solutions driving supply chain accountability, operational efficiency, and improved financial performance.",
+    "location": "Carlsbad, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cargoshot"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "efficientSC",
+    "website": "https://efficientsc.com/",
+    "description": "efficientSC helps hospitals manage supply disruptions more effectively, and efficiently.",
+    "location": "Hoboken, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/efficientsc"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Zerio",
+    "website": "https://zerio.com/",
+    "description": "Zerio is a platform that authenticates, collects, and traces your product data.",
+    "location": "Lexington, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/@getzerio",
+      "linkedin": "https://linkedin.com/company/zerio",
+      "facebook": "https://facebook.com/getzerio/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "XpressRun",
+    "website": "https://xpressrun.com/",
+    "description": "XpressRun enables an ultra-fast delivery experience while giving brands end to end ownership of the delivery process (Brand identity & Data).",
+    "location": "Louisville, Kentucky, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/XpressRun_hq",
+      "linkedin": "https://linkedin.com/company/xpressrun",
+      "facebook": "https://facebook.com/xpressrunapp"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Share Farm",
+    "website": "https://sharefarm.com/",
+    "description": "A digital farm economy, leveraging technology to simplify the distribution chain from Farm to Institution, hospitality and food service, providing members with unprecedented supply and demand insights.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vcikmftcmzchc8cd2xuw",
+    "location": "Colbert, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ShareFarmApp",
+      "linkedin": "https://linkedin.com/company/share-farm",
+      "facebook": "https://facebook.com/sharefarmapp/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "GroceryList",
+    "website": "https://grocerylistgroup.com/",
+    "description": "Grocery List is a comprehensive, Marketplace on-demand online grocery ordering platform that empowers buyers in Canada, the USA, and the UK to shop for a wide range of products for their loved ones in Latin America and the Caribbean from local merchants",
+    "location": "Longwood, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/grocerylistja",
+      "linkedin": "https://linkedin.com/company/86444996",
+      "facebook": "https://facebook.com/GroceryListJa"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "CentralTexas",
+    "website": "https://squaredeal.app/",
+    "description": "An app for every need and more to help the modern business grow",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lriqk9plvtw52csvhnbc",
+    "location": "San Marcos, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/squaredeal"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Pluck",
+    "website": "https://pluck.eco/",
+    "description": "Share delivery costs with other businesses in your community",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pluckeco"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Gildform",
+    "website": "https://gildform.com/",
+    "description": "Gildform is an on-demand jewelry manufacturing company.",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gildform",
+      "linkedin": "https://linkedin.com/company/gildform",
+      "facebook": "https://facebook.com/gildform/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "eTEU",
+    "website": "https://eteu.co.uk/",
+    "description": "eTEU automates the process of document creation and digitises the transfer of cargo documents in the shipping industry with the help of blockchain technology.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/eteutech",
+      "linkedin": "https://linkedin.com/company/eteutech"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Vesseladmin",
+    "website": "https://vesseladmin.com/",
+    "description": "A fully integrated, digital chartering solution that enables instant, friction-free and automated connections between charterers and vessel owners.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mujuvr1z1sdcl3aczcah",
+    "location": "Oslo, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/vesseladmin-as"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Xworks Tech",
+    "website": "https://xworkstech.com/",
+    "description": "Data-driven circular economy making smart connections for waste and recycling as a service",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/TechXworks",
+      "linkedin": "https://linkedin.com/company/xworks-tech"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Squid IQ",
+    "website": "https://squid-iq.com/",
+    "description": "Take control of medical device management.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/f8zobyjbdge1znsbq45f",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/squid-iq"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Duhqa",
+    "website": "https://duhqa.com/",
+    "description": "Duhqa is an end to end supply chain & distribution technology platform connecting manufacturers, retailers and individuals.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/DuhqaL",
+      "linkedin": "https://linkedin.com/company/duhqa",
+      "facebook": "https://facebook.com/duhqa"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Arvist",
+    "website": "https://arvist.ai/",
+    "description": "Arvist supercharges warehouse operations around quality control and compliance by utilizing current infrastructure such as security cameras, cell phone cameras, and WMS data. With the assistance of Arvist AI, warehouses can guarantee the accuracy of products during shipping and receiving, detect damages in real-time, minimize chargebacks, while improving safety, compliance and warehouse throughput with the aim of achieving a Perfect Order Index (POI) of over 99.99%.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/BeGlobalSafety1",
+      "linkedin": "https://linkedin.com/company/beglobalsafety"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Rifbid",
+    "website": "https://rifbid.com/",
+    "description": "Rifbid is an AI powered e-procurement platform connecting government procurement agencies and suppliers.",
+    "location": "Douglasville, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rifbid"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Saral",
+    "website": "https://mysaralapp.com/",
+    "description": "Saral is a One-stop B2B platform for women homepreneur, to help them\r\ngain easy access to market with packaging & delivery assistance.",
+    "location": "Mumbai, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/saral-app"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "KEXY",
+    "website": "https://getkexy.com/",
+    "description": "KEXY redefines how retailers conduct business with distributors",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jmobbdceki2q4zsyeb52",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getkexy",
+      "linkedin": "https://linkedin.com/company/getkexy",
+      "facebook": "https://facebook.com/getkexy/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Container Deposit Fund",
+    "website": "https://containerdepositfund.com/",
+    "description": "Container Deposit Fund provides fast, reliable, and affordable short-term financing solutions for African logistics operators.",
+    "location": "Wimberley, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CdfAfrica",
+      "linkedin": "https://linkedin.com/company/container-deposit-fund"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Afrigility",
+    "website": "https://afrigility.com/",
+    "description": "Technology-driven B2B fulfillment and on-demand warehousing solution.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/afrigility",
+      "linkedin": "https://linkedin.com/company/afrigility",
+      "facebook": "https://facebook.com/afrigility"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "SiftyML",
+    "website": "https://siftyml.com/",
+    "description": "Enterprise AI for international trade",
+    "location": "London, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/70975358"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Seafood AI",
+    "website": "https://seafoodai.com/",
+    "description": "Revolutionizing seafood sourcing with advanced technology",
+    "location": "Millbrea, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/seafood-ai"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Pills2Me",
+    "website": "https://pills2me.com/",
+    "description": "Pills2Me provides on demand prescription delivery for users from any pharmacy via its mobile app.",
+    "location": "Las Vegas, Nevada, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Pills2Me",
+      "linkedin": "https://linkedin.com/company/pills2me-inc",
+      "facebook": "https://facebook.com/pills2me/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Orca",
+    "website": "https://shiporca.co/",
+    "description": "For eCommerce companies that ship perishable products looking for an easy and affordable fulfillment solution, Orca provides logistics services to reduce costs and improve management.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/shiporca"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "MV Sales&Logistics",
+    "website": "https://mvsalesandlogistics.com/",
+    "description": "Live a unique experience automating and controlling through AI tools your field sales and logistics teams with MV sales & logistics platform.",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/movil-ventas"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Lexir",
+    "website": "https://lexir.com/",
+    "description": "For drink brands struggling with distribution, Lexir provides a global distribution-as-a-Service platform.",
+    "location": "Paris, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lexir"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Hydropool LTD",
+    "website": "https://get-water.africa/",
+    "description": "Hydropool aggregates private water vendors to provide on-demand water tanker delivery and on-premise metered supply of potable water. Get-Water helps people save money and productive time required to access clean water supply.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hydropool-ng"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Haven Network",
+    "website": "https://havenproject.io/",
+    "description": "Haven is a mission-driven platform that radically simplifies access to government and corporate contracts--many of which businesses are unaware of. In a landscape of outdated systems, bureaucratic jargon, and scattered portals, Haven unites over 12,000 buying agencies into one intuitive platform. Acting as a business development partner, we automatically match businesses with the right opportunities, drastically reducing the time and effort required to find and secure contracts.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thinkhaven",
+      "linkedin": "https://linkedin.com/company/thinkhaven"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Bucephalus",
+    "website": "https://bucephalus.tech/",
+    "description": "Bucephalus is a supply chain operations platform that empowers the millions of fast-growing e-commerce brands to move products faster, cheaper, and more sustainably using AI.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bucephalus-tech",
+      "facebook": "https://facebook.com/Bucephalus-Tech-107102708552503/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Autoket",
+    "website": "https://autoket.com/",
+    "description": "AI-Powered B2B Marketplace for Auto Parts",
+    "location": "Fort Lauderdale, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/autoketofficial",
+      "linkedin": "https://linkedin.com/company/autoketofficial"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Tressed DBA The Weave Outlet",
+    "website": "https://tressed.com/",
+    "description": "The Weave Outlet specialize in providing the best virgin premium hair for the best wholesale prices on the market",
+    "location": "Midland, Georgia, United States",
+    "social_media": {},
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "MCLedger",
+    "website": "https://mcledger.fr/",
+    "description": "MCLedger makes innovative Cloud, AI, and Blockchain applications for Supply chain and Fintech.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ihubif9tkozxaee5t6a6",
+    "location": "Palaiseau, France",
+    "social_media": {
+      "twitter": "https://twitter.com/mc_ledger",
+      "linkedin": "https://linkedin.com/company/mcledger",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Hover",
+    "website": "https://hover.direct/",
+    "description": "Autonomous Drone Delivery",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/x8d1hnt5acucpb7kycus",
+    "location": "Richmond Hill, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hoverdirect",
+      "facebook": "https://facebook.com/hover.direct/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "DoDocs",
+    "website": "https://dodocs.ai/",
+    "description": "APIs and AI agent for inventory and data base updates automation for restaurants, hotels, logistics, accounting and others",
+    "location": "Dubai, Dubai, United Arab Emirates",
+    "social_media": {
+      "twitter": "https://twitter.com/AiDodocs11493",
+      "linkedin": "https://linkedin.com/company/dodocsai"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Terralytiq",
+    "website": "https://terralytiq.com/",
+    "description": "Terralytiq helps manufacturers reduce supplier emissions by automating hybrid Scope 3 data collection and managing decarbonization initiatives",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/terralytiq"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Cargoplug Logistics",
+    "website": "https://getcargoplug.com/",
+    "description": "Cargoplug is a logistics company specializing in cross-border solutions via air, sea, and road transport.",
+    "location": "Lekki, Lagos, Nigeria",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cargoplug"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Apexloads",
+    "website": "https://apexloads.com/",
+    "description": "Apexloads is transforming Africa's logistics with a SaaS platform that streamlines freight-truck matching, enhances compliance, and improves cash flow for 3PLs. Unlike traditional logistics providers, we don't offer logistics services; instead, we empowe",
+    "location": "Hinton, Oklahoma, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/apexloads"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "VendorConnect",
+    "website": "https://vendorconnect.ai/",
+    "description": "AI-powered platform that automates operations for freight forwarding, a critical part of the global supply chain.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/soojjelm9nww19qo8wyz",
+    "location": "Miami Beach, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vendorconnectai",
+      "linkedin": "https://linkedin.com/company/vendorconnect-ai"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Stork Exchange",
+    "website": "https://storkexchange.co/",
+    "description": "Stork Exchange is an online marketplace where parents can simply buy and sell secondhand baby products.",
+    "location": "Charlotte, North Carolina, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/stork-exchange-inc",
+      "facebook": "https://facebook.com/storkexchange"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "truQ",
+    "website": "https://mytruq.com/",
+    "description": "Automating and optomizing short haul logistics arcoss Africa",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jywc1mcpn5jclb0zzbsg",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/MytruQ",
+      "linkedin": "https://linkedin.com/company/truq-logistics",
+      "facebook": "https://facebook.com/Mytruq"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Swag Kicks",
+    "website": "https://swag-kicks.com/",
+    "description": "The go-to circular fashion solution loved by millennials and Gen Z's in emerging markets",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/a9zwdqg32qrqv4k77wcw",
+    "location": "Karachi, Pakistan",
+    "social_media": {
+      "twitter": "https://twitter.com/swag_kicks",
+      "linkedin": "https://linkedin.com/company/swag-kicks",
+      "facebook": "https://facebook.com/SwagKicksStore"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Halotrade",
+    "website": "https://halotrade.io/",
+    "description": "HaloTrade is an application to drive sustainable and transparent global supply chains, combining blockchain technology, mobile apps and supplier financing.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/haloethical",
+      "linkedin": "https://linkedin.com/company/halotrade"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Renda",
+    "website": "https://renda.co/",
+    "description": "Renda provides Fulfillment and Logistics infrastructure that enables and empowers E-Commerce businesses to process large volume of orders across Africa.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/tpfsl2hut0k8yjchbayo",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/rendaafrica",
+      "linkedin": "https://linkedin.com/company/rendaafrica",
+      "facebook": "https://facebook.com/rendaafrica/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "CommerceJet",
+    "website": "https://commercejet.com/",
+    "description": "CommerceJet is an integrated platform that streamlines e-commerce operations for SMEs by synchronizing inventory, orders, and customer data across multiple sales channels in real time.",
+    "location": "Sammamish, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/commercejet",
+      "linkedin": "https://linkedin.com/company/commercejet",
+      "facebook": "https://facebook.com/commercejet"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Tegarti",
+    "website": "https://tegarti.com/",
+    "description": "Tegarti is a Cloud-based POS and Omnichannel Retail Management Platform.",
+    "location": "Cairo, Egypt",
+    "social_media": {
+      "twitter": "https://twitter.com/TegartiApp",
+      "linkedin": "https://linkedin.com/company/tegarti",
+      "facebook": "https://facebook.com/TegartiApp"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "DawaFast",
+    "website": "https://dawafast.com/",
+    "description": "In DawaFast we deliver pharmacy products to end users with fast delivery",
+    "location": "Al Sahafah, Saudi Arabia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/12976127",
+      "facebook": "https://facebook.com/dawafast.sa"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Autobia",
+    "website": "https://auto.sa/",
+    "description": "B2B marketplace leveraging the data to solve the infrastructure & after-sales challenges in the automotive industry",
+    "location": "Dhahran, Saudi Arabia",
+    "social_media": {
+      "twitter": "https://twitter.com/autobia_sa",
+      "linkedin": "https://linkedin.com/company/auto-sa"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "UfarmX",
+    "website": "https://ufarmx.com/",
+    "description": "UfarmX is an AI-driven agri-fintech platform that provides farmers with collateral-free, input-based loans by analyzing geospatial and socioeconomic data. Our technology de-risks agricultural lending, enabling financial institutions to scale farmer financing while helping agribusinesses streamline procurement and market access.",
+    "location": "Elkridge, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ufarmx"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Palleter",
+    "website": "https://palleter.com/",
+    "description": "Palleter fills trucks with nearby cargo",
+    "location": "Tartu, Estonia",
+    "social_media": {
+      "twitter": "https://twitter.com/palleters",
+      "linkedin": "https://linkedin.com/company/palleter",
+      "facebook": "https://facebook.com/palleters/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Shipsi",
+    "website": "https://shipsi.com/",
+    "description": "SHIPSI delivers in a major way. Any sized products. For any retailer. In as little as 2 hours.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/shipsiinc",
+      "linkedin": "https://linkedin.com/company/shipsi",
+      "facebook": "https://facebook.com/Shipsi-496815067363180/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Loadzpro",
+    "website": "https://linkedin.com/company/loadzpro",
+    "description": "Our Proprietary Technology Helps anyone with a Truck start making money in the $800 Billion Trucking Industry",
+    "location": "Covington, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/company/loadzpro",
+      "facebook": "https://facebook.com/Loadzpro"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Joylet",
+    "website": "https://linkedin.com/company/joylet",
+    "description": "JoyLet is a monthly rental marketplace for baby/toddler gear that helps urban parents meet their child's constantly-changing developmental needs while saving time and money through our convenient web-based platform that offers a curated selection of top-r",
+    "location": "Milltown, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/joylet",
+      "facebook": "https://facebook.com/RentJoylet/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "EasyLokal",
+    "website": "https://linkedin.com/company/easylokal",
+    "description": "EasyLokal enables businesses to easily localize their mobile apps, websites and digital content, thereby increasing user reach and improving engagement.",
+    "location": "Kolkata, India",
+    "social_media": {
+      "twitter": "https://twitter.com/EasyLokal",
+      "linkedin": "https://linkedin.com/company/easylokal",
+      "facebook": "https://facebook.com/EasyLokal"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Crowdz",
+    "website": "https://linkedin.com/company/crowdz",
+    "description": "The Digital Silk Road for Global Commerce",
+    "location": "Campbell, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MyCrowdz",
+      "linkedin": "https://linkedin.com/company/crowdz",
+      "facebook": "https://facebook.com/MyCrowdz"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "CartFresh",
+    "website": "https://linkedin.com/company/10073294",
+    "description": "CartFresh is the only comprehensive white-label delivery solution for grocery retailers.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gvmachines",
+      "linkedin": "https://linkedin.com/company/10073294",
+      "facebook": "https://facebook.com/cartfresh"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Credential",
+    "website": "https://linkedin.com/company/credential-inc",
+    "description": "All B2B Lenders, One Contract, One Integration",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nzwkybrev5jxhnczmij0",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/credential-inc"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Materian",
+    "website": "https://linkedin.com/company/materian-ai",
+    "description": "For General Contractors facing material supply chain management challenges, Materian.ai provides an AI-powered platform that optimizes lead times, reduces costs, and streamlines procurement.",
+    "location": "Albuquerque, New Mexico, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/materian_ai",
+      "linkedin": "https://linkedin.com/company/materian-ai"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Facenote",
+    "website": "https://linkedin.com/company/facenote",
+    "description": "Biometric payments and access via facial recognition in a private, secure and compliant way.",
+    "location": "Anaheim, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/facenoteme",
+      "linkedin": "https://linkedin.com/company/facenote",
+      "facebook": "https://facebook.com/Facenoteme-166182484006366"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "heySimulate",
+    "website": "https://linkedin.com/company/heysimulate",
+    "description": "heySimulate provides logistic support to last-mile logistics companies.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/heysimulate"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "Merklebot",
+    "website": "https://linkedin.com/company/merklebot",
+    "description": "Connecting universe to metaverse",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MerkleB0t",
+      "linkedin": "https://linkedin.com/company/merklebot",
+      "facebook": "https://facebook.com/MerkleBot/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  },
+  {
+    "name": "SOMM'IT",
+    "website": "https://linkedin.com/company/11042943",
+    "description": "Somm'It is the ultimate beverages management tool for restaurants who use beverages as key asset for profitability",
+    "location": "Bordeaux, France",
+    "social_media": {
+      "twitter": "https://twitter.com/sommitapp",
+      "linkedin": "https://linkedin.com/company/11042943",
+      "facebook": "https://facebook.com/sommitapp/"
+    },
+    "industry": "Supply chain technology",
+    "industry_slug": "supply-chain-tech"
+  }
+]

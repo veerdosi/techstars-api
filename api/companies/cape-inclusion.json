@@ -1,0 +1,24 @@
+{
+  "name": "CAPE Inclusion",
+  "slug": "cape-inclusion",
+  "website": "https://capeinclusion.om/",
+  "description": "Bridging the Gap Between Intent and Impact.",
+  "one_liner": "Bridging the Gap Between Intent and Impact.",
+  "location": "Parker, Colorado, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/CAPEInclusion",
+    "linkedin": "https://linkedin.com/company/capeinclusion",
+    "facebook": "https://facebook.com/capeinclusion/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cape-inclusion",
+  "api": "/api/companies/cape-inclusion.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Bark",
+  "slug": "bark",
+  "website": "https://bark.us/",
+  "description": "Bark uses machine learning to detect and alert parents to issues their children are facing online, such as cyberbullying, sexting, and thoughts of suicide.",
+  "one_liner": "Bark uses machine learning to detect and alert parents to issues their children are facing online, such as cyberbullying, sexting, and thoughts of suicide.",
+  "location": "Richmond Hill, Georgia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/barktechco",
+    "linkedin": "https://linkedin.com/company/7582462",
+    "facebook": "https://facebook.com/barktechnologies"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bark",
+  "api": "/api/companies/bark.json"
+}

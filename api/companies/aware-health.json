@@ -1,0 +1,24 @@
+{
+  "name": "Aware Health",
+  "slug": "aware-health",
+  "website": "https://awarehealth.io/",
+  "description": "Aware Health diagnoses/treats joint pain without imaging or surgery.",
+  "one_liner": "Aware Health diagnoses/treats joint pain without imaging or surgery.",
+  "location": "Dover, Delaware, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/b2l5cknpcp03gnvvqyyb",
+  "social_media": {
+    "twitter": "https://twitter.com/heidiojha",
+    "linkedin": "https://linkedin.com/company/awareorthopedichealth",
+    "facebook": "https://facebook.com/aware.health"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/aware-health",
+  "api": "/api/companies/aware-health.json"
+}

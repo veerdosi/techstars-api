@@ -1,0 +1,23 @@
+{
+  "name": "Aligned Business",
+  "slug": "aligned-business",
+  "website": "https://alignedbiz.com/",
+  "description": "A SaaS platform that allows insurers to create and deploy any insurance product to market in weeks instead of years at a fraction of the cost.",
+  "one_liner": "A SaaS platform that allows insurers to create and deploy any insurance product to market in weeks instead of years at a fraction of the cost.",
+  "location": "Singapore, Singapore",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/OrigamInsureTec",
+    "linkedin": "https://linkedin.com/company/aligned-business"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/aligned-business",
+  "api": "/api/companies/aligned-business.json"
+}

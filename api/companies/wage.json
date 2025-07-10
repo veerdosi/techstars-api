@@ -1,0 +1,20 @@
+{
+  "name": "Wage",
+  "slug": "wage",
+  "website": "https://playwage.io/",
+  "description": "Wage is a mobile app which allows players to create virtual portfolios and compete head-to-head for money. Wage combines elements of alternative assets, gaming, finance, and sports betting.",
+  "one_liner": "Wage is a mobile app which allows players to create virtual portfolios and compete head-to-head for money. Wage combines elements of alternative assets, gaming, finance, and sports betting.",
+  "location": "Suwanee, Georgia, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/wage",
+  "api": "/api/companies/wage.json"
+}

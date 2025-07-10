@@ -1,0 +1,22 @@
+{
+  "name": "Aradon",
+  "slug": "aradon",
+  "website": "https://aradon.bio/",
+  "description": "Aradon makes biotech robot labs easy to install and operate for scientists. Removing the manual work bottleneck from biotech will enable new medical solutions and enhance healthcare globally.",
+  "one_liner": "Aradon makes biotech robot labs easy to install and operate for scientists. Removing the manual work bottleneck from biotech will enable new medical solutions and enhance healthcare globally.",
+  "location": "Leiden, Netherlands",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/aradon-bio"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/aradon",
+  "api": "/api/companies/aradon.json"
+}

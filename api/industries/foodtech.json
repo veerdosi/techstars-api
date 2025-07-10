@@ -1,0 +1,1305 @@
+[
+  {
+    "name": "Bevi",
+    "website": "https://bevi.co/",
+    "description": "Bevi is a smart water cooler that customizes still and sparkling water with healthy flavors.",
+    "location": "Concord, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getbevi",
+      "linkedin": "https://linkedin.com/company/bevi",
+      "facebook": "https://facebook.com/pages/Bevi/921798307850581"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Ordermark",
+    "website": "https://ordermark.com/",
+    "description": "Stream all your online orders to one device. Watch your sales grow.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getordermark",
+      "linkedin": "https://linkedin.com/company/ordermark",
+      "facebook": "https://facebook.com/Ordermark/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Plated",
+    "website": "https://plated.com/",
+    "description": "Chef-designed recipes & fresh ingredients delivered to your door",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/plated",
+      "linkedin": "https://linkedin.com/company/plated",
+      "facebook": "https://facebook.com/theplated"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "NutriSense",
+    "website": "https://nutrisense.io/",
+    "description": "A bio-feedback powered, personalized nutrition coach.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nutrisenseio",
+      "linkedin": "https://linkedin.com/company/nutrisenseio",
+      "facebook": "https://facebook.com/nutrisenseio"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Fly By Jing",
+    "website": "https://flybyjing.com/",
+    "description": "Deeply flavorful, all natural Chinese food",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/flybyjing",
+      "linkedin": "https://linkedin.com/company/flybyjing",
+      "facebook": "https://facebook.com/flybyjing"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "PLANETARIANS",
+    "website": "https://planetarians.com/",
+    "description": "Most sustainable and affordable protein",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PlanetariansNet",
+      "linkedin": "https://linkedin.com/company/planetarians",
+      "facebook": "https://facebook.com/planetariansnet/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Best Food Trucks",
+    "website": "https://bestfoodtrucks.com/",
+    "description": "Platform for office buildings to book & order online from food trucks.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lotmom",
+      "linkedin": "https://linkedin.com/company/bestfoodtrucks",
+      "facebook": "https://facebook.com/bestfoodtrucksusa"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "KitchenMate",
+    "website": "https://kitchenmate.com/",
+    "description": "KitchenMate brings the takeout experience into your office kitchen, like a Keurig for freshly cooked restaurant quality meals.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/kitchen_mate",
+      "linkedin": "https://linkedin.com/company/kitchenmate",
+      "facebook": "https://facebook.com/mykitchenmate"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "AGTools",
+    "website": "https://ag.tools/",
+    "description": "Agtools is a real-time data and market intelligence platform that provides transparency to the global food & ag industry.",
+    "location": "Irvine, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ag_tools",
+      "linkedin": "https://linkedin.com/company/agtools",
+      "facebook": "https://facebook.com/AgtoolsInc/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Phood Solutions",
+    "website": "https://phoodsolutions.com/",
+    "description": "Food waste prevention company that helps food businesses reduce their food waste by 50%, save 8-10% of food costs, and assists with food donations.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/phoodsolutions",
+      "linkedin": "https://linkedin.com/company/phoodsolutions",
+      "facebook": "https://facebook.com/phoodsolutions"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Cheerfy",
+    "website": "https://cheerfy.com/",
+    "description": "Cheerfy enables personalised contextual customer experiences in the physical world.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/cheerfy",
+      "linkedin": "https://linkedin.com/company/cheerfy",
+      "facebook": "https://facebook.com/cheerfy/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Bevz",
+    "website": "https://bevz.com/",
+    "description": "Convenience store technology and services platform",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/uqr1lzkjyprkl9qdhxib",
+    "location": "Van Nuys, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bevzdelivery",
+      "linkedin": "https://linkedin.com/company/37514481",
+      "facebook": "https://facebook.com/BevzAlcoholDelivery/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Science On Call",
+    "website": "https://scienceoncall.com/",
+    "description": "24/7 subscription-based tech support for restaurants. Help with point of sale, internet, Wi-Fi, online ordering, and more--just one call or text away!",
+    "location": "Oak Park, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/scienceoncall",
+      "linkedin": "https://linkedin.com/company/scienceoncall",
+      "facebook": "https://facebook.com/scienceoncall"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "2ndKitchen",
+    "website": "https://2ndkitchen.com/",
+    "description": "2ndKitchen enables businesses without a kitchen to serve food seamlessly using a custom menu from nearby restaurants.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/2ndKitchen",
+      "linkedin": "https://linkedin.com/company/2ndkitchen",
+      "facebook": "https://facebook.com/Your2ndKitchen/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Otrafy",
+    "website": "https://otrafy.com/",
+    "description": "Otrafy is a supply-chain management platform that runs on a track and trace model with a focus on data sharing and product history.",
+    "location": "Saint Paul, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Otrafy",
+      "linkedin": "https://linkedin.com/company/otrafytech",
+      "facebook": "https://facebook.com/Otrafy-325290301636875/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Deliverart",
+    "website": "https://deliverart.it/",
+    "description": "Deliverart is the smart platform from which restaurants can manage all their home deliveries.",
+    "location": "Rome, Rome, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/deliverart_it",
+      "linkedin": "https://linkedin.com/company/deliverart",
+      "facebook": "https://facebook.com/deliverart.italia/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "DwellSocial",
+    "website": "https://dwellsocial.com/",
+    "description": "DwellSocial empowers homeowners AND contractors by aggregating demand for any project or service into neighborhood groups of homeowners.",
+    "location": "Northbrook, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/DwellSocial",
+      "linkedin": "https://linkedin.com/company/dwellsocial",
+      "facebook": "https://facebook.com/dwellsocial/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Cooklist",
+    "website": "https://cooklist.co/",
+    "description": "Shows shoppers recipes they can cook with the groceries they buy, and allows them to choose recipes and automatically order the ingredients they need.",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Cooklist_co",
+      "linkedin": "https://linkedin.com/company/cooklist",
+      "facebook": "https://facebook.com/CooklistInc"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Captain AI",
+    "website": "https://captain.ai/",
+    "description": "On demand delivery software enabling restaurants to automate their in house delivery",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/captain.ai",
+      "facebook": "https://facebook.com/people/Captainai/100057315284993"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Caddy Systems",
+    "website": "https://joincaddy.com/",
+    "description": "Unlocking smarter food safety and traceability by automating food processors' everyday workflows.",
+    "location": "Markham, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/joincaddy",
+      "linkedin": "https://linkedin.com/company/joincaddy",
+      "facebook": "https://facebook.com/joincaddy/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "High Time Foods",
+    "website": "https://hightimefoods.com/",
+    "description": "High Time Foods empowers chefs with accessible, shelf-stable, and cuisine-agnostic plant-based meat alternatives that are better for people, the planet, and peeps.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/high-time-foods"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Ordercube",
+    "website": "https://ordercube.de/",
+    "description": "Simplify Restaurant Communication",
+    "location": "Grafing b. München, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/ordercube",
+      "linkedin": "https://linkedin.com/company/18028666",
+      "facebook": "https://facebook.com/ordercube/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "MyFavorito",
+    "website": "https://myfavorito.com/",
+    "description": "MyFavorito helps the \"Fortune 5 million\" sports clubs around the world to make more money and attract more sponsors.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/myfavoritoapp",
+      "linkedin": "https://linkedin.com/company/5226239",
+      "facebook": "https://facebook.com/myfavoritoapp"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Wisk Solutions",
+    "website": "https://wisksolutions.com/",
+    "description": "The beverage intelligence platform for liquor reatilers, distributors and producers",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/WISK_ai",
+      "linkedin": "https://linkedin.com/company/wisk",
+      "facebook": "https://facebook.com/WiskApp"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Smunch",
+    "website": "https://smunch.co/",
+    "description": "A virtual cafeteria for companies - easy for the company, delicious for the employee",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/SmunchSays",
+      "linkedin": "https://linkedin.com/company/smunch",
+      "facebook": "https://facebook.com/smunch.co"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Elite Personal Chefs",
+    "website": "https://elitepersonalchefs.com/",
+    "description": "Elite Personal Chefs is a technology platform enabling chefs to take control of their personal and financial independence",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/elitepchefs",
+      "linkedin": "https://linkedin.com/company/elite-personal-chefs-llc",
+      "facebook": "https://facebook.com/elitepersonalchefs"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Happiest Ours",
+    "website": "https://happiestours.com/",
+    "description": "Happiest Ours is a mobile bartending platform that is disrupting the way alcohol is distributed to corporate events.",
+    "location": "Corona, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HappiestOurs",
+      "linkedin": "https://linkedin.com/company/happiest-ours-wine-spirits",
+      "facebook": "https://facebook.com/happiestours/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "OrderNerd",
+    "website": "https://ordernerd.com/",
+    "description": "All of your online orders in one place.",
+    "location": "Peachtree Corners, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ordernerd",
+      "linkedin": "https://linkedin.com/company/ordernerd",
+      "facebook": "https://facebook.com/OrderNerd/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "GET DUCK",
+    "website": "https://getduck.io/",
+    "description": "Get DUCK is a mobile ordering solution for sporting venues.\n\nTo view the company one-page summary click here - https://app.buildmemo.com/s/fnbb5g",
+    "location": "Melbourne, Victoria, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/getduck_io",
+      "linkedin": "https://linkedin.com/company/get-duck",
+      "facebook": "https://facebook.com/getduck.io"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Easy Platter",
+    "website": "https://easyplatter.com/",
+    "description": "Platform to hire a chef to cook weekly meals in your home starting $89/Wk.",
+    "location": "Halifax, Nova Scotia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/EasyPlatter",
+      "linkedin": "https://linkedin.com/company/easy-platter",
+      "facebook": "https://facebook.com/KritrimEntertainment"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Seedsight",
+    "website": "https://linkedin.com/in/joanaspaiva",
+    "description": "First Worldwide Digital Library of Seed Signatures",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/joanaspaiva"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Xook",
+    "website": "https://xook.io/",
+    "description": "Xook makes robotic food kiosks for office canteens, college/university campuses and apartment complexes globally.",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "twitter": "https://twitter.com/xook_chef",
+      "linkedin": "https://linkedin.com/company/xook-io",
+      "facebook": "https://facebook.com/xookio"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Epicurate",
+    "website": "https://epicurate.vip/",
+    "description": "Epicurate is a revolutionary hospitality platform that simplifies the organization of luxury lifestyles. It empowers independent luxury experience providers to streamline their businesses and connect with our network of hospitality marketplaces.",
+    "location": "Dundee, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/epicuratevip"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Qi Aerista",
+    "website": "https://qiaerista.com/",
+    "description": "We at Qi Aerista are a Hong Kong start-up company established in 2013. Our mission is to offer smart and modern tea experience for tea lovers around the world.",
+    "location": "Hong Kong, Hong Kong",
+    "social_media": {
+      "twitter": "https://twitter.com/qi_aerista",
+      "linkedin": "https://linkedin.com/company/keyway-innovations",
+      "facebook": "https://facebook.com/pg/QiAerista/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Meal IQ",
+    "website": "https://getmealiq.com/",
+    "description": "MealIQ uses AI to help people with health conditions to plan and shop meals in 3 clicks.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/mealiq",
+      "linkedin": "https://linkedin.com/company/mealiq",
+      "facebook": "https://facebook.com/getmealiq"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "WINIM",
+    "website": "https://winim.com.ar/",
+    "description": "Assists businesses sell surplus daily food, helping take care of the environment by preventing food from being thrown away.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mcvtptslp6eoiwsinznq",
+    "location": "Buenos Aires, Argentina",
+    "social_media": {
+      "twitter": "https://twitter.com/WINIMArgentina",
+      "linkedin": "https://linkedin.com/company/winimarg",
+      "facebook": "https://facebook.com/WINIMArg"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Fuddis",
+    "website": "https://fuddis.com/",
+    "description": "Social Food Marketplace of SMBs in LATAM",
+    "location": "Zapopan, Jalisco, Mexico",
+    "social_media": {},
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "SupplyNow",
+    "website": "https://supplynow.org/",
+    "description": "Tech-enabled services that help solve supply-chain challenges for food-service distributors and their independent restaurant customers",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mdzk5rcv5b6bmpw5wnhi",
+    "location": "Cleveland, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/supplynow",
+      "facebook": "https://facebook.com/supplynowllc"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Saavor",
+    "website": "https://saavor.co/",
+    "description": "Saavor helps academic institutions efficiently automate dining operations. With unused meal plan dollars being common, Saavor assists kitchens in campus dining while helping students save money",
+    "location": "Fords, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/saavor-inc",
+      "facebook": "https://facebook.com/Saavor-473263999741624/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Rotender",
+    "website": "https://rotender.com/",
+    "description": "Rotender automates the service and sale of alcoholic beverages.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gpwmz4urvghqp64p3c6y",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rotenderba",
+      "linkedin": "https://linkedin.com/company/rotender"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Zest",
+    "website": "https://zestapp.co/",
+    "description": "An app that provides an intuitive way to improve at cooking.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/zestisapp",
+      "linkedin": "https://linkedin.com/company/zestapp",
+      "facebook": "https://facebook.com/getzest.is"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Meal Village",
+    "website": "https://mealvillage.com/",
+    "description": "Freshly prepared meals made fresh daily, and delivered to the door",
+    "location": "Lisle, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/meal-village",
+      "facebook": "https://facebook.com/mealvillage"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "BāKIT Box",
+    "website": "https://bakitbox.com/",
+    "description": "Makes baking easy and fun for all different skill levels with monthly subscription based baking kits",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bakitbox_home",
+      "linkedin": "https://linkedin.com/company/bakitbox",
+      "facebook": "https://facebook.com/bakitboxhome"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Lulo",
+    "website": "https://hellolulo.com/",
+    "description": "Platform to empower WIC eligible families to maximize their food benefits.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hello-lulo"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "ToMarket",
+    "website": "https://tomarket.farm/",
+    "description": "A simple communication and ordering platform to support and expand local food communities.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ToMarketdotFarm",
+      "linkedin": "https://linkedin.com/in/david-moosman-07219635",
+      "facebook": "https://facebook.com/tomarket.farm/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Tablz",
+    "website": "https://transparentkitchen.ca/",
+    "description": "Discover the Best Restaurants .Follow Elite Chefs.Enjoy the Finest Ingredients",
+    "location": "Ottawa, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/TransparentKit",
+      "linkedin": "https://linkedin.com/company/tablz",
+      "facebook": "https://facebook.com/TABLZbyTK"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "TAINR",
+    "website": "https://gotainr.com/",
+    "description": "TAINR manufactures modern dispensers to eliminate single-use plastic packaging from products.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wnjhkquefazx83fvhf4z",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/gotainr"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "srve",
+    "website": "https://srve.co/",
+    "description": "SRVE is a personal chef booking app connecting the social gathering planner to chefs they can hire.",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/srve",
+      "facebook": "https://facebook.com/SRVEchefs/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Sipply",
+    "website": "https://beta.sipp.ly/",
+    "description": "Sipply is a B2B plug-in recommendation engine that matches drink pairings to food, and generates trends data.",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sipplylabs"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Served",
+    "website": "https://served-app.com/",
+    "description": "Served is empowering people with allergies to dine out while helping restaurants to cater for them.",
+    "location": "London, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/servedapp"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Plate",
+    "website": "https://plate.social/",
+    "description": "Social marketplace for influencer recipes.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/plate-social"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Perks",
+    "website": "https://perksrewards.app/",
+    "description": "Perks is a AI restaurant management app that allows restaurants to efficiently staff employees based on external factors.",
+    "location": "Minneapolis, Minnesota, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/perks-rewards"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Kadeya",
+    "website": "https://kadeya.com/",
+    "description": "Kadeya is a closed-loop water vending business that utilizes digitally connected reusable water bottles and tiny bottling equipment. Kadeya was founded by Manuela Zoninsein.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hellokadeya",
+      "linkedin": "https://linkedin.com/company/kdy",
+      "facebook": "https://facebook.com/AWMLimited"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Inspectle Food",
+    "website": "https://inspectle.online/",
+    "description": "Inspectle Food is a platform for conducting frequent hygiene inspections in GFSI-certified food manufacturing plants.",
+    "location": "Tallinn, Harjumaa, Estonia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/inspectle-food"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Hop Robotics",
+    "website": "https://hoprobotics.com/",
+    "description": "Hop Robotics produces automation systems to streamline draft beverage dispensing for events and venues.  Our technology enables automatic fulfillment after payment allowing operators to capture up to 40% more revenue to maximize existing labor.  We leverage the reliability of industrial-grade robotics to support the hospitality sector in reducing waste and increasing speed of service without sacrificing the human touch.",
+    "location": "Townville, South Carolina, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/54120285"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "EcoBloc",
+    "website": "https://bloc.eco/",
+    "description": "EcoBloc protects inventory and equipment using ultrasonic waves.",
+    "location": "Portugal Cove-St. Philip's, Newfoundland and Labrador, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ecobloc"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "CropConex",
+    "website": "https://cropconex.com/",
+    "description": "CropConex is a marketplace and supply chain management platform streamlining the sales and exports of specialty crops worldwide.",
+    "location": "Highland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CropConex",
+      "linkedin": "https://linkedin.com/company/cropconex",
+      "facebook": "https://facebook.com/cropconex"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Bairu",
+    "website": "https://bairu.io/",
+    "description": "Bairu is making self-service accessible for independent restaurant owners.",
+    "location": "La Paz, Bolivia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bairu"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Availyst",
+    "website": "https://home.availyst.com/",
+    "description": "Availyst is a delivery management platform that offers a personalized search engine for food and beverage delivery. It helps users save time and money on delivery and on-demand services.\n\nThe platform was founded by Mandy Poston.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/availyst",
+      "linkedin": "https://linkedin.com/company/availyst",
+      "facebook": "https://facebook.com/availyst"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Black and Mobile",
+    "website": "https://blackandmobile.com/",
+    "description": "Black and Mobile is a revolutionary food delivery service that connects food enthusiasts with Black-owned restaurants. They aim to promote cultural diversity and support local communities through their user-friendly mobile platform.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/blackandmobile1",
+      "linkedin": "https://linkedin.com/company/79068733",
+      "facebook": "https://facebook.com/theculturedelivered"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Ziscuit",
+    "website": "https://ziscuit.shop/",
+    "description": "Ziscuit is a grocery search engine that delivers INSTANT savings to shoppers and high value traffic to retailers.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Ziscuit2",
+      "linkedin": "https://linkedin.com/company/ziscuit",
+      "facebook": "https://facebook.com/ziscuit/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Pardon",
+    "website": "https://pardon-app.com/",
+    "description": "Boosting sales of Restaurants&Hotels and hospitality brands with AI.",
+    "location": "Istanbul, Istanbul, Turkey",
+    "social_media": {
+      "twitter": "https://twitter.com/Pardon_tr",
+      "linkedin": "https://linkedin.com/company/pardonapp",
+      "facebook": "https://facebook.com/pardonturkey/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Goodie Bag Food Co",
+    "website": "https://app.goodiebag.co/",
+    "description": "Goodie Bag helps to connect customers to local shops by providing a marketplace solution for surplus food.",
+    "location": "Belmar, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/goodiebag-co"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "farmshare",
+    "website": "https://farmshare.co/",
+    "description": "Farmshare is the operating system for modern American farmers, enabling them to excel in the direct-to-market sales channel with tools like logistics technology optimized for shipping perishable goods and AI email marketing automation.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/farmshareco",
+      "facebook": "https://facebook.com/people/Farmshare/100085093153410"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Eqtrade",
+    "website": "https://eqgrow.mydurable.com/",
+    "description": "Eqtrade, powered by AI and ML, bridges the gaps in international food systems. Empowering farmers without business knowledge to transform their lands into sustainable ventures.",
+    "location": "Madrid, Spain",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/isabella-bernal-colpas-25768b11a"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Bestie Bite",
+    "website": "https://bestiebite.it/",
+    "description": "Reshaping restaurant discovery and reviews through a peer-to-peer community based on video insights and personalized recommendations helping the new generation of foodies to make more informed and fast decisions.",
+    "location": "Rome, Rome, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bestie-bite-app",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Super Bloom Bakery",
+    "website": "https://superbloombakery.com/",
+    "description": "Superfood-Enhanced & Allergen-Free Bread",
+    "location": "Long Beach, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/superbloombakery",
+      "facebook": "https://facebook.com/superbloombakery/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Secured Health",
+    "website": "https://securedhealth.co/",
+    "description": "Secured Health, where technology meets community to transform healthcare engagement. As a pioneering member engagement platform, we're dedicated to bridging the gap in social determinants of health through innovative solutions.",
+    "location": "Falls Church, Virginia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/securedhealth"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Komi",
+    "website": "https://eatkomi.com/",
+    "description": "Chef-created, dietician-approved custom meal plans.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/eatkomi"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Rhubarb Labs",
+    "website": "https://joinrhubarb.com/",
+    "description": "Trusted Social Commerce for Food Gardeners & the Industry that supports them.\nRhubarb is an AI-powered, globally connected community of home food growers who are all committed to making a positive change.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/yu7ygjmdxwbhxqtsjwth",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rhubarblabs"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "MenuData",
+    "website": "https://menudata.ai/",
+    "description": "MenuData provides Food & Beverage Innovation through AI.",
+    "location": "Pleasanton, California, United States",
+    "social_media": {},
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Cookonnect",
+    "website": "https://cookonnect.com/",
+    "description": "Connecting users with in-home meal services from great, unestablished chefs",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cookonnect-inc",
+      "facebook": "https://facebook.com/Cookonnect/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Gather Flora",
+    "website": "https://gatherflora.com/",
+    "description": "Global Flower Marketplace",
+    "location": "Vallejo, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GatherFloraHelp",
+      "linkedin": "https://linkedin.com/company/gather-flora",
+      "facebook": "https://facebook.com/gatherflora/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Alsteni Medical",
+    "website": "https://alstenimedical.com/",
+    "description": "Patient-controlled feeding tube that can trigger the body's own powerful appetite-suppressing hormones, including GLP-1, without drugs or surgery.",
+    "location": "Sierra Madre, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/alsteni-medical-inc"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "EasyShake®",
+    "website": "https://theeasyshake.com/",
+    "description": "Fast, convenient, cleanup-free protein shakes. Access to convenient nutrition is key to living a healthy, happy life. Experience effortless nutrition that fits seamlessly into your busy lifestyle so you can reclaim your time for what truly matters!",
+    "location": "Manhattan Beach, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/easyshake"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Share Farm",
+    "website": "https://sharefarm.com/",
+    "description": "A digital farm economy, leveraging technology to simplify the distribution chain from Farm to Institution, hospitality and food service, providing members with unprecedented supply and demand insights.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vcikmftcmzchc8cd2xuw",
+    "location": "Colbert, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ShareFarmApp",
+      "linkedin": "https://linkedin.com/company/share-farm",
+      "facebook": "https://facebook.com/sharefarmapp/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "GroceryList",
+    "website": "https://grocerylistgroup.com/",
+    "description": "Grocery List is a comprehensive, Marketplace on-demand online grocery ordering platform that empowers buyers in Canada, the USA, and the UK to shop for a wide range of products for their loved ones in Latin America and the Caribbean from local merchants",
+    "location": "Longwood, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/grocerylistja",
+      "linkedin": "https://linkedin.com/company/86444996",
+      "facebook": "https://facebook.com/GroceryListJa"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Globowl",
+    "website": "https://theglobowl.com/",
+    "description": "A baby and toddler food company focused on early allergen introduction through internationally-inspired cuisine.",
+    "location": "Middletown, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/theglobowl",
+      "linkedin": "https://linkedin.com/company/theglobowl",
+      "facebook": "https://facebook.com/theglobowl/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Omega 3 Nutrition",
+    "website": "https://eatomega3.com/",
+    "description": "Nutrition brand committed to enhancing brain health through the use of organic, brain-boosting ingredients.",
+    "location": "Bethesda, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/eatomega3",
+      "linkedin": "https://linkedin.com/company/omega-3-llc",
+      "facebook": "https://facebook.com/eatomega3"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Jackson McCrea",
+    "website": "https://jacksonmccreawhiskey.com/",
+    "description": "Focused on bringing women into the conversation of whiskey.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/jacksonmccrea",
+      "linkedin": "https://linkedin.com/company/jackson-mccrea",
+      "facebook": "https://facebook.com/jacksonmccreawhiskey"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "inlike",
+    "website": "https://inlike.ai/",
+    "description": "inlike enables SMB real estate developers to manage projects on a single cost-effective platform.",
+    "location": "Menlo Park, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/inlike_ai",
+      "linkedin": "https://linkedin.com/company/inlike-ai"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "GO See The City",
+    "website": "https://goseethecity.com/",
+    "description": "GO See The City is a food waste reduction platform that connects surplus food from restaurants to consumers & nonprofits. It aims to be used as a catalyst to assist the USDA & EPA in reducing food waste by 50% by 2030. The platform includes a mobile app,",
+    "location": "Tampa, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/goseethecity/",
+      "linkedin": "https://linkedin.com/in/aneshai-smith-458973118",
+      "facebook": "https://facebook.com/GoSeeTheCity/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "BEERMKR",
+    "website": "https://beermkr.com/",
+    "description": "For beer lovers who want to make beer but can't due to its complexity, cost, time and equipment requirements, BEERMKR provides a fast, simple, and easy way to make award winning beer. BEERMKR is a hardware + consumable revenue company.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MkrBeer",
+      "linkedin": "https://linkedin.com/company/the-elite-sweets",
+      "facebook": "https://facebook.com/BEERMKRbeer/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Tastebase",
+    "website": "https://tastebase.com/",
+    "description": "The home base for food lovers to discover new tastes from emerging brands helping consumers find the right products they'll love.",
+    "location": "Saratoga, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tastebaseco",
+      "linkedin": "https://linkedin.com/company/tastebaseco",
+      "facebook": "https://facebook.com/tastebasefoods"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Masa",
+    "website": "https://masafresh.com/",
+    "description": "Farmers market made simple",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/18975084",
+      "facebook": "https://facebook.com/himasafresh"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Veba",
+    "website": "https://vebababy.com/",
+    "description": "For parents that manually track breastmilk or formula expiration, we have a device that turns a baby bottle into a smart bottle; automatically notifying parents of when the milk or formula has expired and is no longer safe to give the baby.",
+    "location": "Coral Springs, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/veba-baby-corp",
+      "facebook": "https://facebook.com/VebaBaby"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Seafood AI",
+    "website": "https://seafoodai.com/",
+    "description": "Revolutionizing seafood sourcing with advanced technology",
+    "location": "Millbrea, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/seafood-ai"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Pann",
+    "website": "https://pann.app/",
+    "description": "Quick and easy working capital for SMBs through AI-assisted guidance",
+    "location": "Porter Ranch, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/panncapital"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "MV Sales&Logistics",
+    "website": "https://mvsalesandlogistics.com/",
+    "description": "Live a unique experience automating and controlling through AI tools your field sales and logistics teams with MV sales & logistics platform.",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/movil-ventas"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Meknology",
+    "website": "https://meknology.com/",
+    "description": "Sustainable wastewater up-cycling and drinking water distillation.",
+    "location": "Southfield, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/meknology"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "AquaOrganix USA",
+    "website": "https://aquaorganixusa.com/",
+    "description": "AquaOrganix transforms plant waste into high-value fertilizers, biostimulants, and nutrients through our BioFermentative Nutrient Extraction process. We produce 13 natural products in 24 hours, eliminating the need for synthetic inputs. Our approach enriches soil, boosts plant growth, and reduces energy and labor costs. By converting waste into valuable resources, AquaOrganix accelerates growth and increases yields, driving sustainable, profitable, and ethical agriculture worldwide.",
+    "location": "Sheridan Wyoming, Wyoming, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/aquaorganix"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "MEEK'S VEGAN",
+    "website": "https://meeksvegan.com/",
+    "description": "Vegan pizza ingredients",
+    "location": "Houston, Oklahoma, United States",
+    "social_media": {},
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Cootoh",
+    "website": "https://cootoh.com/",
+    "description": "Set the mood, chill the good wine, and let Cootoh do the cooking. Cootoh simplifies direct-to-consumer chef experiences for private and corporate events, as well as part-time and seasonal services, allowing you to leave stress at the door and reclaim your most valuable asset--time. Simultaneously, our platform enables talented chefs to break free from the low-paying, high-stress environments of restaurants and thrive as food entrepreneurs.",
+    "location": "Las Vegas, Nevada, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cootoh"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Nourish and Bloom Technologies",
+    "website": "https://nourishandbloomtechnologies.com/",
+    "description": "A sustainable autonomous gourmet grocery market and bistro",
+    "location": "McDonough, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nourish-and-bloom-market"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "QuickCart",
+    "website": "https://quickcartonline.com/",
+    "description": "QuickCart is a platform powering e-commerce and on-demand delivery for restaurants and stores.\n\nWe're currently one of the leading on-demand delivery platforms in Jamaica, with near-term plans to expand across the rest of the Caribbean and into Latin America.",
+    "location": "UWI, Saint Andrew Parish, Jamaica",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/quickcart"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "jalebi",
+    "website": "https://jalebi.io/",
+    "description": "Catalyzing the growth of food businesses with a freemium, unified, purpose-built platform.",
+    "location": "Dubai, United Arab Emirates",
+    "social_media": {
+      "twitter": "https://twitter.com/getjalebi",
+      "linkedin": "https://linkedin.com/company/jalebi",
+      "facebook": "https://facebook.com/getjalebi"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Dispatch",
+    "website": "https://dispatch.me/",
+    "description": "We make it easy for enterprise service brands to gain real-time visibility across their entire independent network while delivering unparalleled experiences to their end-customers.",
+    "logo_url": "https://pbs.twimg.com/profile_images/3402046298/a6cf4773b69e71d158e52c40ed2c9f7f_bigger.jpeg",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Dispatch",
+      "linkedin": "https://linkedin.com/company/dispatch-labs",
+      "facebook": "https://facebook.com/dispatchitinc"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Trackter Systems",
+    "website": "https://linkedin.com/company/trackter",
+    "description": "They connect buyers, shippers, and logistics partners. Our system automates communications between these stakeholders in order to reduce phone calls, emails, and repetitive data entry and to ultimately enable all parties to generate higher profit margins.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/d1vvkvwx2liwzbrbt3c8",
+    "location": "Newnan, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/trackter",
+      "facebook": "https://facebook.com/Tracktersystems/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Saige",
+    "website": "https://linkedin.com/company/heysaige",
+    "description": "Fresh, made-from-scratch meals prepared daily by our chef and delivered to your door - just order by 4PM each day",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SaigeChefs",
+      "linkedin": "https://linkedin.com/company/heysaige",
+      "facebook": "https://facebook.com/SaigeChefs/"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Provender",
+    "website": "https://linkedin.com/company/provender",
+    "description": "A marketplace for growers and buyers of fresh food",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/provender",
+      "linkedin": "https://linkedin.com/company/provender",
+      "facebook": "https://facebook.com/getprovender"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Pepr",
+    "website": "https://linkedin.com/organization/10626537",
+    "description": "AI-powered software to help restaurants improve profits",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Pepr_app",
+      "linkedin": "https://linkedin.com/organization/10626537",
+      "facebook": "https://facebook.com/peprapp"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Kitchenswaps",
+    "website": "https://linkedin.com/company/kitchenswaps",
+    "description": "Marketplace for commercial kitchen space",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/aebcxubinv7xe96pruqi",
+    "location": "Valby, Denmark",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kitchenswaps",
+      "facebook": "https://facebook.com/kitchenswaps"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Five Letter Foods",
+    "website": "https://linkedin.com/company/five-letter-foods",
+    "description": "Not dog food, but real food for dogs without factory farming",
+    "location": "Helsinki, Finland",
+    "social_media": {
+      "twitter": "https://twitter.com/fiveletterfoods",
+      "linkedin": "https://linkedin.com/company/five-letter-foods"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Chef Connie",
+    "website": "https://linkedin.com/company/conniedotai",
+    "description": "Saves commercial kitchens time and money with a hands-free cooking assistant that creates prep lists, training materials, and productivity reports from any recipe",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/thatchefconnie",
+      "linkedin": "https://linkedin.com/company/conniedotai",
+      "facebook": "https://facebook.com/thatchefconnie"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "Burpy",
+    "website": "https://linkedin.com/company/burpy-incorporated",
+    "description": "Same day grocery delivery service",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/BURPYdelivers",
+      "linkedin": "https://linkedin.com/company/burpy-incorporated",
+      "facebook": "https://facebook.com/BURPYdotCOM"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  },
+  {
+    "name": "OjaExpress",
+    "website": "https://linkedin.com/company/ojaexpress",
+    "description": "A mobile grocery delivery platform for your ethnic grocery needs.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ojaexpress",
+      "linkedin": "https://linkedin.com/company/ojaexpress",
+      "facebook": "https://facebook.com/ojaex"
+    },
+    "industry": "Foodtech",
+    "industry_slug": "foodtech"
+  }
+]

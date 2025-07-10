@@ -1,0 +1,24 @@
+{
+  "name": "Atom Universe",
+  "slug": "atom-universe",
+  "website": "https://atomstars.com/",
+  "description": "Metaverse-as-a-Service offering brands to launch their own metaverse platform to engage their user in breathtaking white label virtual worlds",
+  "one_liner": "Metaverse-as-a-Service offering brands to launch their own metaverse platform to engage their user in breathtaking white label virtual worlds",
+  "location": "Woking, United Kingdom",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AtomRepublic",
+    "linkedin": "https://linkedin.com/company/atom-republic",
+    "facebook": "https://facebook.com/AtomRepublic"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/atom-universe",
+  "api": "/api/companies/atom-universe.json"
+}

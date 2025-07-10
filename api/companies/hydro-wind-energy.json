@@ -1,0 +1,24 @@
+{
+  "name": "Hydro Wind Energy",
+  "slug": "hydro-wind-energy",
+  "website": "https://hw.energy/",
+  "description": "Breaking The Barrier to a Carbon Emissions Free Future",
+  "one_liner": "Breaking The Barrier to a Carbon Emissions Free Future",
+  "location": "London, United Kingdom",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hydrowindenergy",
+    "linkedin": "https://linkedin.com/company/hydro-wind-energy",
+    "facebook": "https://facebook.com/HydroWindEnergy/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hydro-wind-energy",
+  "api": "/api/companies/hydro-wind-energy.json"
+}

@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Skiptown",
+    "website": "https://skiptown.io/",
+    "description": "Trusted care for busy people who love their pets. We're launching the first ever tech-infused dog bar, social hub and pet care facility. skiptownclt.com",
+    "location": "Charlotte, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/skiptownclt",
+      "linkedin": "https://linkedin.com/company/skipper-pets",
+      "facebook": "https://facebook.com/skiptownclt"
+    },
+    "industry": "Pet tech",
+    "industry_slug": "pet-tech"
+  },
+  {
+    "name": "Wagmo",
+    "website": "https://wagmo.io/",
+    "description": "Wagmo is a doggy wellness plan.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xcpxwggkc5kmidivthxn",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/meetwagmo",
+      "linkedin": "https://linkedin.com/company/wagmo",
+      "facebook": "https://facebook.com/meetwagmo/"
+    },
+    "industry": "Pet tech",
+    "industry_slug": "pet-tech"
+  },
+  {
+    "name": "Adopets",
+    "website": "https://adopets.com/",
+    "description": "For pet lovers seeking a friend for life, Adopets provides the best online adoption for you, your pet and your community.",
+    "location": "South Portland, Maine, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/adopetsus",
+      "linkedin": "https://linkedin.com/company/adopets",
+      "facebook": "https://facebook.com/adopetsus"
+    },
+    "industry": "Pet tech",
+    "industry_slug": "pet-tech"
+  },
+  {
+    "name": "Rainwalk Technology",
+    "website": "https://rainwalk.io/",
+    "description": "Rainwalk is Pet Health Insurance embedded in shelters at point of adoption.",
+    "location": "Columbia, South Carolina, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rainwalk",
+      "facebook": "https://facebook.com/rainwalkinsurance"
+    },
+    "industry": "Pet tech",
+    "industry_slug": "pet-tech"
+  },
+  {
+    "name": "Empethy",
+    "website": "https://empethy.it/",
+    "description": "End-to-end platform that is changing the way people find, choose and adopt a pet.",
+    "location": "Napoli, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/empethy",
+      "facebook": "https://facebook.com/empethylive"
+    },
+    "industry": "Pet tech",
+    "industry_slug": "pet-tech"
+  },
+  {
+    "name": "Understanding Zoe",
+    "website": "https://essentialshift.co/",
+    "description": "Caring for every mind",
+    "location": "Woolooware, New South Wales, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/understandingzoe"
+    },
+    "industry": "Pet tech",
+    "industry_slug": "pet-tech"
+  },
+  {
+    "name": "DogBase",
+    "website": "https://dogbase.co/",
+    "description": "DogBase is redefining how organizations and individuals manage high-performance dogs by replacing pen-and-paper processes with modern software and productivity-enhancing AI.\n\nWe are bringing digitalization and disruption to an untapped market",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dogbase",
+      "facebook": "https://facebook.com/mydogbase"
+    },
+    "industry": "Pet tech",
+    "industry_slug": "pet-tech"
+  },
+  {
+    "name": "Koala",
+    "website": "https://getkoala.ai/",
+    "description": "Started as Pet care made easy. Now has pivoted completely for a hotel to offer luxury services to budget hotels.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lwhyph67oineontktu8o",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/koala-ai"
+    },
+    "industry": "Pet tech",
+    "industry_slug": "pet-tech"
+  },
+  {
+    "name": "Coda",
+    "website": "https://evviaftercare.com/",
+    "description": "Modern pet aftercare & cremation",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/https",
+      "linkedin": "https://linkedin.com/company/evviaftercare"
+    },
+    "industry": "Pet tech",
+    "industry_slug": "pet-tech"
+  },
+  {
+    "name": "Arch Pet Food",
+    "website": "https://archpetfood.com/",
+    "description": "We take the guesswork (food sensitivities, allergies, and environmental footprint) out of the equation for young pet owners.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ArchPetFood",
+      "linkedin": "https://linkedin.com/in/gabrielhuertasdelpino",
+      "facebook": "https://facebook.com/archpetfood"
+    },
+    "industry": "Pet tech",
+    "industry_slug": "pet-tech"
+  },
+  {
+    "name": "MV Sales&Logistics",
+    "website": "https://mvsalesandlogistics.com/",
+    "description": "Live a unique experience automating and controlling through AI tools your field sales and logistics teams with MV sales & logistics platform.",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/movil-ventas"
+    },
+    "industry": "Pet tech",
+    "industry_slug": "pet-tech"
+  },
+  {
+    "name": "Interplay",
+    "website": "https://gointerplay.com/",
+    "description": "Interplay provides dog crates that makes life easier for dog owners who want to care for and interact with their dog.",
+    "location": "Kansas City, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gointerplay1",
+      "linkedin": "https://linkedin.com/company/gointerplay",
+      "facebook": "https://facebook.com/GoInterplay"
+    },
+    "industry": "Pet tech",
+    "industry_slug": "pet-tech"
+  },
+  {
+    "name": "Klooff",
+    "website": "https://klooff.com/",
+    "description": "The world's favorite pets",
+    "logo_url": "https://pbs.twimg.com/profile_images/430860401593425920/9bBV_1ii_bigger.png",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/klooffofficial",
+      "linkedin": "https://linkedin.com/company/klooff",
+      "facebook": "https://facebook.com/Klooff"
+    },
+    "industry": "Pet tech",
+    "industry_slug": "pet-tech"
+  },
+  {
+    "name": "Urban Leash",
+    "website": "https://linkedin.com/company/urban-leash",
+    "description": "Urban Leash helps busy professionals find reliable pet care at a click of a button and stay connected to their pets every step of the way.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/urban_leash",
+      "linkedin": "https://linkedin.com/company/urban-leash",
+      "facebook": "https://facebook.com/UrbanLeash"
+    },
+    "industry": "Pet tech",
+    "industry_slug": "pet-tech"
+  },
+  {
+    "name": "Five Letter Foods",
+    "website": "https://linkedin.com/company/five-letter-foods",
+    "description": "Not dog food, but real food for dogs without factory farming",
+    "location": "Helsinki, Finland",
+    "social_media": {
+      "twitter": "https://twitter.com/fiveletterfoods",
+      "linkedin": "https://linkedin.com/company/five-letter-foods"
+    },
+    "industry": "Pet tech",
+    "industry_slug": "pet-tech"
+  }
+]

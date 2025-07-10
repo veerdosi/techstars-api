@@ -1,0 +1,24 @@
+{
+  "name": "The 2",
+  "slug": "the-2",
+  "website": "https://the20.co/",
+  "description": "A career customization SaaS company connecting ambitious professionals to career-long support",
+  "one_liner": "A career customization SaaS company connecting ambitious professionals to career-long support",
+  "location": "Charlotte, North Carolina, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/2pt0collective",
+    "linkedin": "https://linkedin.com/company/the20co",
+    "facebook": "https://facebook.com/the2.0co"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/the-2",
+  "api": "/api/companies/the-2.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "TinnCann",
+  "slug": "tinncann",
+  "website": "https://tinncann.com/",
+  "description": "A marketplace where aspirational athletes and enthusiasts experience world-class mentorship from the Experts they admire most, through paid 1-on-1 video calls.",
+  "one_liner": "A marketplace where aspirational athletes and enthusiasts experience world-class mentorship from the Experts they admire most, through paid 1-on-1 video calls.",
+  "location": "Cincinnati, Ohio, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/TinnCannCo",
+    "linkedin": "https://linkedin.com/company/tinncann",
+    "facebook": "https://facebook.com/tinncannco/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tinncann",
+  "api": "/api/companies/tinncann.json"
+}

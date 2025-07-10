@@ -1,0 +1,23 @@
+{
+  "name": "Elio",
+  "slug": "elio",
+  "website": "https://elio.earth/",
+  "description": "Elio enables analysts in companies & governments to respond to climate change's dynamism and rapidly act on climate solutions with confidence, by putting leading scientific data into context.",
+  "one_liner": "Elio enables analysts in companies & governments to respond to climate change's dynamism and rapidly act on climate solutions with confidence, by putting leading scientific data into context.",
+  "location": "Yorba Linda, California, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ElioEarth",
+    "linkedin": "https://linkedin.com/company/elio-earth"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/elio",
+  "api": "/api/companies/elio.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "AppInsight",
+  "slug": "appinsight",
+  "website": "https://linkedin.com/company/appvocado",
+  "description": "Mobile application security",
+  "one_liner": "Mobile application security",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/app_inside",
+    "linkedin": "https://linkedin.com/company/appvocado",
+    "facebook": "https://facebook.com/AppInsight-557149341109577"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/appinsight",
+  "api": "/api/companies/appinsight.json"
+}

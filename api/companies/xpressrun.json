@@ -1,0 +1,24 @@
+{
+  "name": "XpressRun",
+  "slug": "xpressrun",
+  "website": "https://xpressrun.com/",
+  "description": "XpressRun enables an ultra-fast delivery experience while giving brands end to end ownership of the delivery process (Brand identity & Data).",
+  "one_liner": "XpressRun enables an ultra-fast delivery experience while giving brands end to end ownership of the delivery process (Brand identity & Data).",
+  "location": "Louisville, Kentucky, United States",
+  "industry": "Supply chain technology",
+  "industry_slug": "supply-chain-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/XpressRun_hq",
+    "linkedin": "https://linkedin.com/company/xpressrun",
+    "facebook": "https://facebook.com/xpressrunapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/xpressrun",
+  "api": "/api/companies/xpressrun.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PathSpot",
+  "slug": "pathspot",
+  "website": "https://pathspot.com/",
+  "description": "PathSpot scans employee's hands to detect pathogens that cause food borne illness - all in under 2 seconds.",
+  "one_liner": "PathSpot scans employee's hands to detect pathogens that cause food borne illness - all in under 2 seconds.",
+  "location": "New York City, New York, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PathSpot",
+    "linkedin": "https://linkedin.com/company/pathspot",
+    "facebook": "https://facebook.com/PathSpot/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pathspot",
+  "api": "/api/companies/pathspot.json"
+}

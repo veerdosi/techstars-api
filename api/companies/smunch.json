@@ -1,0 +1,24 @@
+{
+  "name": "Smunch",
+  "slug": "smunch",
+  "website": "https://smunch.co/",
+  "description": "A virtual cafeteria for companies - easy for the company, delicious for the employee",
+  "one_liner": "A virtual cafeteria for companies - easy for the company, delicious for the employee",
+  "location": "Berlin, Germany",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SmunchSays",
+    "linkedin": "https://linkedin.com/company/smunch",
+    "facebook": "https://facebook.com/smunch.co"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/smunch",
+  "api": "/api/companies/smunch.json"
+}

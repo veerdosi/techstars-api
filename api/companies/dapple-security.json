@@ -1,0 +1,22 @@
+{
+  "name": "Dapple Security",
+  "slug": "dapple-security",
+  "website": "https://dapplesecurity.com/",
+  "description": "For companies who are experiencing the pain and cost of passwords, Dapple Security provides the first passwordless login that is truly phishing-resistant and purpose-built for enterprises.",
+  "one_liner": "For companies who are experiencing the pain and cost of passwords, Dapple Security provides the first passwordless login that is truly phishing-resistant and purpose-built for enterprises.",
+  "location": "Centennial, Colorado, United States",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/dapple-security"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dapple-security",
+  "api": "/api/companies/dapple-security.json"
+}

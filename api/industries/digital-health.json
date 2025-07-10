@@ -1,0 +1,2049 @@
+[
+  {
+    "name": "GINGER",
+    "website": "https://ginger.com/",
+    "description": "Coaching, therapy, and psychiatry from the privacy of your smartphone.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/carebyginger",
+      "linkedin": "https://linkedin.com/company/carebyginger",
+      "facebook": "https://facebook.com/pages/Gingerio/216227078391733"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Owlet Baby Care",
+    "website": "https://owletcare.com/",
+    "description": "Owlet's baby monitoring ecosystem works together seamlessly to give your family easier days and nights.",
+    "location": "Lehi, Utah, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/owletbabycare",
+      "linkedin": "https://linkedin.com/company/owlet-care-monitors",
+      "facebook": "https://facebook.com/OwletBabyMonitors"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "PillPack",
+    "website": "https://pillpack.com/",
+    "description": "We're a full-service online pharmacy that packages your medication and delivers to your door every month.",
+    "location": "Manchester, New Hampshire, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pillpack",
+      "linkedin": "https://linkedin.com/company/pillpack",
+      "facebook": "https://facebook.com/pillpack"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Artera",
+    "website": "https://artera.io/",
+    "description": "Artera is the SaaS digital health leader in patient communications and two-time Best in KLAS winner in Patient Outreach.",
+    "location": "Santa Barbara, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Artera_io",
+      "linkedin": "https://linkedin.com/company/artera-io",
+      "facebook": "https://facebook.com/artera.io/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Ovia Health",
+    "website": "https://oviahealth.com/",
+    "description": "Accurate fertility monitoring",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/OviaHealth",
+      "linkedin": "https://linkedin.com/company/ovia-health",
+      "facebook": "https://facebook.com/ovuline"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Preveta",
+    "website": "https://preveta.com/",
+    "description": "Preveta is transforming cancer care by building the richest database of patient insights that will drive transformation for providers, pharma and payers",
+    "location": "Redondo Beach, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hellopreveta",
+      "linkedin": "https://linkedin.com/company/preveta",
+      "facebook": "https://facebook.com/HelloPreveta"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Deep 6 AI",
+    "website": "https://deep6.ai/",
+    "description": "Deep 6 AI applies artificial intelligence and natural language processing to medical records to find more patients for clinical trials exponentially faster.",
+    "location": "Pasadena, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/deep6ai",
+      "linkedin": "https://linkedin.com/company/deep-6-ai",
+      "facebook": "https://facebook.com/deep6ai"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Poppins",
+    "website": "https://poppins.io/",
+    "description": "We digitize music therapy into engaging products for accessible technologies.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/ask_mila",
+      "linkedin": "https://linkedin.com/company/wearepoppins",
+      "facebook": "https://facebook.com/usemila"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "DocStation",
+    "website": "https://docstation.co/",
+    "description": "DocStation is a clinical platform (EHR) for pharmacists.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/docstationapp",
+      "linkedin": "https://linkedin.com/company/docstation",
+      "facebook": "https://facebook.com/docstationapp/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Nicolette",
+    "website": "https://nicolette.com/",
+    "description": "Patient empowerment. Provider partnership.",
+    "location": "Long Beach, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nicoboard",
+      "linkedin": "https://linkedin.com/company/nicolette",
+      "facebook": "https://facebook.com/nicolettecompany"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Asepha",
+    "website": "https://asepha.ai/",
+    "description": "AI clinical tools to enable automation and personalization in pharmacies.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/i0g0bca8xvwk7jdip2kb",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/asepha"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "MDaaS Global",
+    "website": "https://mdaas.io/",
+    "description": "MDaaS Global builds and operates tech-enabled diagnostic and primary care centers in clinically underserved communities in Africa.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mdaasglobal",
+      "linkedin": "https://linkedin.com/company/mdaas",
+      "facebook": "https://facebook.com/mdaasglobal/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "CaptureProof",
+    "website": "https://captureproof.com/",
+    "description": "The first HIPAA-secure photo and video sharing platform for patients and all medical professionals",
+    "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/170885-5c4cc9433f623c2d31c203a3be67be3c-medium_jpg.jpg?buster=1362084163",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/captureproof",
+      "linkedin": "https://linkedin.com/company/captureproof",
+      "facebook": "https://facebook.com/captureproof"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Flexia",
+    "website": "https://flexiapilates.com/",
+    "description": "Flexia is a connected fitness company that brings the Pilates studio experience into your living room with our Pilates Reformer and online studio of classes.",
+    "location": "Sacramento, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/flexiapilates",
+      "facebook": "https://facebook.com/flexiapilates"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Plannly",
+    "website": "https://plannlyhealth.com/",
+    "description": "Plannly Health is dedicated to enhancing healthcare by taking a proactive approach to identify and address significant workforce risks.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/plannly",
+      "linkedin": "https://linkedin.com/company/plannly",
+      "facebook": "https://facebook.com/plann.ly"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Kinometrix",
+    "website": "https://kinometrix.com/",
+    "description": "For hospitals that struggle to identify patients at risk for hospital acquired conditions, Kinometrix provides a patient safety platform that uses electronic health record data and machine learning to predict patient harm accurately and in real-time.",
+    "location": "Fort Belvoir, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Kinometrix",
+      "linkedin": "https://linkedin.com/company/kinometrix",
+      "facebook": "https://facebook.com/Kinometrix"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Fit!",
+    "website": "https://macrofit.co/",
+    "description": "Fit! is a connected fitness startup that pairs innovative, at-home fitness hardware with app-based fitness programs from over 50 trainers.",
+    "location": "Valley Village, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/thefitapp"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Albert Health",
+    "website": "https://albert.health/",
+    "description": "Albert is a voice-based health assistant that helps patients to take the right dose at the right time and make life easier for caregivers.",
+    "location": "Istanbul, Turkey",
+    "social_media": {
+      "twitter": "https://twitter.com/albert_health",
+      "linkedin": "https://linkedin.com/company/albert-health"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Skintelligent Corporation",
+    "website": "https://skintelligentlab.com/",
+    "description": "Developing AI skin analysis solutions to power the future of skin health.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SkintelligentAI",
+      "linkedin": "https://linkedin.com/company/skintelligent"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Injoy",
+    "website": "https://injoy.bio/",
+    "description": "Health tracking and microbiome testing for people with gut health issues.",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/phyla",
+      "facebook": "https://facebook.com/micropredictome/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Solim Health",
+    "website": "https://solimhealth.com/",
+    "description": "We are using AI to rebuild memories and delivering therapy that slows down dementia and memory loss",
+    "location": "Dover, Delaware, United States",
+    "social_media": {},
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Haven",
+    "website": "https://feelslikefloating.com/",
+    "description": "Floating is a weekly all-ages outdoor arts series that explores the harmony between soundscape and landscape.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jfednoovquwqqi89m5bx",
+    "location": "Studio City, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/feelslikefloating"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "DocuMentor",
+    "website": "https://yourdocumentor.com/",
+    "description": "DocuMentor is an easy to use and affordable electronic visit verification (EVV) solution for in-home care providers that simplifies compliance",
+    "location": "Indianapolis, Indiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/yourdocumentor",
+      "linkedin": "https://linkedin.com/company/yourdocumentor"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Hormonious Flo",
+    "website": "https://hormoniousflo.com/",
+    "description": "Hormonious Flo - Ending period pain naturally. \n\nTo view the company one-page summary click here -  https://app.buildmemo.com/s/v~8rrh",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/hormoniousflo",
+      "linkedin": "https://linkedin.com/company/hormoniousflo",
+      "facebook": "https://facebook.com/hormoniousflo"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Trellis Health",
+    "website": "https://jointrellsihealth.com/",
+    "description": "Modern personal health software for you to access your past, manage your present, and build a foundation for the future of your family's health.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mytrellishealth"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Zeph",
+    "website": "https://zephbreath.com/",
+    "description": "AI software for a new era of lung care for chronic respiratory patients.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lwallataqo4dmqumzhh0",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/zephbreath"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Fasten Health",
+    "website": "https://fastenhealth.com/",
+    "description": "Interoperability platform that allows patients to share medical records with organizations they trust.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/fastenhealth"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "8medical",
+    "website": "https://8medical.co/",
+    "description": "Eight medical is a platform connecting emergency medical resources to users in need in 10 mins",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/klvpm7qp9r0ij51i1d3x",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/8medicalng",
+      "linkedin": "https://linkedin.com/company/eight-medical-ltd",
+      "facebook": "https://facebook.com/8Medicalng/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Reme-D",
+    "website": "https://reme-d-inc.com/",
+    "description": "Reme-D is an innovative startup specializing in the development and production of cutting-edge diagnostic kits.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/reme-d-inc"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Biomod AI",
+    "website": "https://biomodai.com/",
+    "description": "AI Assistant for Biotech R&D",
+    "location": "Zuid-Scharwoude, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/biomodai"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Littl",
+    "website": "https://trylittl.com/",
+    "description": "For new parents overwhelmed by information overload and generic advice, Littl provides evidence-based, personalized guidance and companionship, ensuring they navigate parenthood confidently.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/littl"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "ELANZA Wellness",
+    "website": "https://elanzawellness.com/",
+    "description": "ELANZA Wellness is a digital health platform that partners with fertility clinics to provide behavioral coaching and personalized support at scale",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/elanzawellness",
+      "linkedin": "https://linkedin.com/company/elanzawellness",
+      "facebook": "https://facebook.com/ElanzaWellness/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "DocOne",
+    "website": "https://docone.fr/",
+    "description": "DocOne offers middle-layer building blocks for the next generation of AI-powered digital health applications.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/docone"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Sholder",
+    "website": "https://sholder.com/",
+    "description": "\"Sholder, short for Spaceholder(tm), is the gig platform for transformative mental & emotional support from qualified non-clinical providers. \"",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sholder",
+      "facebook": "https://facebook.com/SholderInc"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Nimblemind",
+    "website": "https://nimblemind.ai/",
+    "description": "SaaS platform for healthcare data enrichment.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nimblemindai"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "RunAgain",
+    "website": "https://runagain.com/",
+    "description": "RunAgain provides ONE integrated platform which serves the needs of both runners and organizers by enabling organizers to promote & sell bookings to their events, and runners to easily find & book quality events.  Join our community of 20k+ runners and 60",
+    "location": "Lillestrøm, Akershus, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/runagain"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "hey freya",
+    "website": "https://heyfreya.co/",
+    "description": "The first complete health solution just for women",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/t1wiidwbii8ls58azq9d",
+    "location": "Middletown, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/heyfreyaco",
+      "linkedin": "https://linkedin.com/company/heyfreya",
+      "facebook": "https://facebook.com/heyfreya.co"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Dear Doc Singapore",
+    "website": "https://dear-doc.com/",
+    "description": "Dear Doc is simplifying & personalizing healthcare for women in Asia",
+    "location": "Gurgaon, Haryana, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dear-doc",
+      "facebook": "https://facebook.com/DearDoc.SG/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "BodyPro",
+    "website": "https://mybodypro.fit/",
+    "description": "At BodyPro we are an AI-athletic performance platform, helping sports clubs optimize performance & scale the athlete-to-personal coach experience",
+    "location": "Ra'anana, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mybodypro",
+      "facebook": "https://facebook.com/mybodyproapp"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "SANITAS",
+    "website": "https://gotosanitas.com/",
+    "description": "The first-of-its kind AI driven mental health for BIPOC and underrepresented populations.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cg7u72bjt6pqrg6brve5",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/butteflly",
+      "facebook": "https://facebook.com/butterfllyhealth/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "EmpiricaLab",
+    "website": "https://empiricalab.com/",
+    "description": "EmpiricaLab is a last mile training, team-centric authoring  and knowledge platform focused on enabling peer-learning for healthcare teams",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/qo5cr2mdhnzg05mgesr5",
+    "location": "McAllen, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/empiricalab",
+      "linkedin": "https://linkedin.com/company/empiricalab-team"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "dehaze",
+    "website": "https://dehaze.de/",
+    "description": "dehaze enables clinicians to harness the power of AI for precise diagnostics and prognostic",
+    "location": "Fürstenfeldbruck, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dehazeai"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "STRAFFR",
+    "website": "https://en.straffr.com/",
+    "description": "Enables people to work out anytime anywhere, motivating them to stay active and fit.",
+    "location": "Kassel, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/straffr",
+      "facebook": "https://facebook.com/straffr.official"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Stabl",
+    "website": "https://stabl.io/",
+    "description": "Moving Recovery from Clinic to Living Room",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/stabl-inc"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Recovr Health",
+    "website": "https://recovr.health/",
+    "description": "Verapy is a mobile rehabilitation platform that utilizes virtual reality (VR) to create immersive games for physical therapy, resulting in better patient experiences by making rehabilitation more productive, fun and engaging",
+    "location": "Tampa, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/verapytherapy",
+      "linkedin": "https://linkedin.com/company/verapy",
+      "facebook": "https://facebook.com/verapytherapy"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Cerbrec",
+    "website": "https://cerbrec.com/",
+    "description": "The AI platform that empowers developers and researchers to create bespoke AI solutions by just drag and drop.",
+    "location": "Hoboken, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Cerbrec",
+      "linkedin": "https://linkedin.com/company/cerbrec"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "BOOMROOM Fitness",
+    "website": "https://boomroom.fit/",
+    "description": "BOOMROOM gives users personalized business coaching and backend technology to help them build their brand and streamline operations",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kfva04xpagft1erqvzsf",
+    "location": "Charlotte, North Carolina, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/boomroomfitness",
+      "facebook": "https://facebook.com/boomroom.fit"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Articulate Labs",
+    "website": "https://articulatelabs.com/",
+    "description": "On-the-go physical therapy and rehabilitation through muscle stimulation and machine learning.",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/articulatelabs",
+      "linkedin": "https://linkedin.com/company/articulate-labs",
+      "facebook": "https://facebook.com/ArticulateLabs"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "zuri fertility",
+    "website": "https://zurifertility.com/",
+    "description": "We take the stress and anxiety out of infertility. We incorporate a convenient, at-home evaluation with personalized knowledge and care throughout your fertility journey.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/zurifertility",
+      "linkedin": "https://linkedin.com/company/zuri-fertility",
+      "facebook": "https://facebook.com/zurifertility"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Zinnia Technologies",
+    "website": "https://zinniatv.com/",
+    "description": "Life-enhancing videos that support and uplift people facing cognitive changes and dementia.",
+    "location": "Winnetka, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/zinnia-technologies-inc",
+      "facebook": "https://facebook.com/ZinniaTV"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Tuktu Care",
+    "website": "https://tuktu.ca/",
+    "description": "Provides seniors with a support platform, so they can get the help they need to age in their own homes and lead a fulfilling life for as long as possible.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/chafrw2cagqp2h8b67vi",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/tuktucare",
+      "linkedin": "https://linkedin.com/company/tuktu-care-inc",
+      "facebook": "https://facebook.com/tuktucare"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "TERAL",
+    "website": "https://teralmed.com/",
+    "description": "TERAL will be the largest repository of clinical cases in the world to solve challenging cases between health professionals at real time",
+    "location": "Medellín, Colombia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/teralmed",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Mission-Driven Tech",
+    "website": "https://missiondriventech.com/",
+    "description": "For women that have to receive brachytherapy (internal radiation therapy), we have designed a patient-centered device that minimizes discomfort, improves procedure safety, patient outcomes and access to care.",
+    "location": "Flanders, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mission-driven-tech"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Lotus Labs",
+    "website": "https://lotuslabs.org/",
+    "description": "A wearable ring that controls objects at home by pointing, including blinds and curtains, lights and fans, and televisions.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jpaoktu10i2yi9qybfr7",
+    "location": "San Jose, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/inclotuslabs",
+      "linkedin": "https://linkedin.com/company/labslotus",
+      "facebook": "https://facebook.com/labslotus"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Keep Company",
+    "website": "https://keep-company.com/",
+    "description": "Partner with organizations to give their moms, dads and caregivers the tools to integrate the care of themselves, their families, and their work through group coaching.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wearekeepco",
+      "linkedin": "https://linkedin.com/company/joinkeepcompany"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "The Playbook",
+    "website": "https://sportsmentalhealthplaybook.com/",
+    "description": "The Playbook helps athletes practice better. It is an award-winning, trademarked approach to track, treat, and improve overall well-being and performance for athletes and individuals who are operating at the highest level. The team has developed a system",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sportsmentalhealthplaybook"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "ValidProof",
+    "website": "https://validproof.com/",
+    "description": "We are solving the $200 billion epidemic of falsified medicine.",
+    "location": "Helsinki, Finland",
+    "social_media": {
+      "twitter": "https://twitter.com/@HRTNET1",
+      "linkedin": "https://linkedin.com/company/validproofhq",
+      "facebook": "https://facebook.com/ValidproofHQ"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Moonai",
+    "website": "https://moonai.app/",
+    "description": "Neuroscience science-based & personalised sounds app to alleviate period pain & enhance cognitive functions",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/moonaiapp",
+      "linkedin": "https://linkedin.com/company/moonaiapp",
+      "facebook": "https://facebook.com/moonaiapp/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "MedEngine",
+    "website": "https://flytta.info/",
+    "description": "Helping people with Parkinson's track their symptoms and optimize their treatments with Flytta, our wearable and app combination. #medtech #software #hardware",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/medenginegmbh",
+      "linkedin": "https://linkedin.com/company/medengine-gmbh",
+      "facebook": "https://facebook.com/MedEngineGmbH/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "LetMeDoIt",
+    "website": "https://letmedoit.org/",
+    "description": "Let Me Do It is an App Empowering Individuals with Disabilities to Make Informed Decisions.",
+    "location": "Sandy Springs, Georgia, United States",
+    "social_media": {},
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Kimba",
+    "website": "https://kimba.ai/",
+    "description": "Kimba helps enhance customer's sleep quality by using AI to analyze biometric data while they sleep to diffuse personalized scent therapy from its custom hardware.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {},
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Everlong",
+    "website": "https://geteverlong.com/",
+    "description": "Everlong helps people regain control of their health and nutrition by automatically verifying their insurance benefits and providing them personalized care from top-vetted telehealth dietitians for $0 out-of-pocket.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/geteverlong",
+      "linkedin": "https://linkedin.com/company/geteverlong"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Corra Health",
+    "website": "https://corra.health/",
+    "description": "An all-inclusive health tracking app that uses a correlative software to provide individualized insights for each user.",
+    "location": "Camarillo, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/corrainc"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Candlelit Care",
+    "website": "https://candlelitcare.com/",
+    "description": "Candlelit Care leverages patient data to address symptoms of maternal depression and anxiety among Black mothers.",
+    "location": "Monroe, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/candlelitcare",
+      "linkedin": "https://linkedin.com/company/candlelitcare",
+      "facebook": "https://facebook.com/candlelitcares"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Adomo Health",
+    "website": "https://adomohealth.com/",
+    "description": "Adomo Health enables doctors to conveniently send advanced diagnostic testing such as x-ray, ultrasound, and EKG to be done on-demand in patients' homes, reducing the need for unnecessary emergency room visits.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/adomo-health"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Xplosion Technology",
+    "website": "https://xplosionlive.com/",
+    "description": "A coaching platform that transforms motion sensor data into actionable insights for coaches and athletes.",
+    "location": "Missouri City, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/XplosionTech",
+      "linkedin": "https://linkedin.com/company/xplosion-technology",
+      "facebook": "https://facebook.com/xplosiontech/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "LUBU Technologies",
+    "website": "https://lubu.ai/",
+    "description": "AI-powered smart insoles designed to augment physical performance and minimize injury risks.",
+    "location": "West Hollywood, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lubu"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "HealthBlox",
+    "website": "https://healthblox.care/",
+    "description": "For healthcare companies seeking deeper integrations with their customers, we provide tools for building EHR-centric pathways for care orchestration, patient management and value delivery. By doing so, we are trying to build the largest, horizontally-scaled repository of structured Health Data.",
+    "location": "Beaverton, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/healthblox"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "CaloSense",
+    "website": "https://calosense.com/",
+    "description": "CaloSense is a comprehensive pre- and post-bariatric surgery program with two major value propositions:\nDramatically increase the conversion rate of potential patients to actual surgeries, resulting in more surgeries for clinics.\nImprove long-term patient outcomes, addressing the 35% of patients who regain weight, and reducing costs for health insurance.",
+    "location": "Lewes, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CaloSense",
+      "linkedin": "https://linkedin.com/company/calosense"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Brave",
+    "website": "https://bravevirtualworlds.com/",
+    "description": "Providing the most affordable and most portable motion capture technology for teams, academies, researchers, and individuals, Brave is charting a new world of motion capture and all its possibility.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Brave_Motion",
+      "linkedin": "https://linkedin.com/company/bravevirtualworlds",
+      "facebook": "https://facebook.com/bravevirtualworlds"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "The Care Hack",
+    "website": "https://thecarehack.com/",
+    "description": "Equips families battling mental illness or dementia with simple, expert tools so they can lead happier, healthier lives.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/the-care-hack"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Lulo",
+    "website": "https://hellolulo.com/",
+    "description": "Platform to empower WIC eligible families to maximize their food benefits.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hello-lulo"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Jaimee",
+    "website": "https://jaimee.ai/",
+    "description": "The AI companion for women",
+    "location": "East Melbourne, Victoria, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/jaimee"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Inner Peak AI",
+    "website": "https://innerpeak.ai/",
+    "description": "For high schools and colleges struggling to support students' mental health needs with limited resources, Peak blends the best of AI and world-class therapist expertise through video content to provide 24/7 personalized mental wellness support for students and critical insights and initiative tracking for schools",
+    "location": "Maumee, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/inner-peak-ai"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Curada",
+    "website": "https://curada.co.uk/",
+    "description": "Helping doctors deliver Pharmacological Extinction Therapy digitally, ensuring discreet and convenient access to this paradigm-shifting approach for all in need.",
+    "location": "Teddington, United Kingdom",
+    "social_media": {},
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Antares Health",
+    "website": "https://antares.health/",
+    "description": "Antares Health is a medical care company that provides fertility treatments.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/antares-health"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Affiniti AI",
+    "website": "https://affiniti.ai/",
+    "description": "At Affiniti, provide Generative Conversational AI models for Wellbeing and Mental Health Services",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/affiniti-ai"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Fovionics",
+    "website": "https://fovionics.com/",
+    "description": "We are building the world's first hands-free and affordable assistive technology for the visually impaired.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/beyondsight"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "RepOne Strength",
+    "website": "https://reponestrength.com/",
+    "description": "RepOne is an athlete management system that helps trainers utilize data to automate guidance so they can manage more athletes.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/valoheofnr3xztjuinqv",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RepOneStrength",
+      "linkedin": "https://linkedin.com/company/repone-strength",
+      "facebook": "https://facebook.com/RepOneStrength/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Plus Up",
+    "website": "https://gogoodtimer.com/",
+    "description": "Award-winning product is all about encouraging kids to do their best every day.",
+    "location": "CROWNSVILLE, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/plus-up",
+      "facebook": "https://facebook.com/GoGoodTimer/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Plate",
+    "website": "https://plate.social/",
+    "description": "Social marketplace for influencer recipes.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/plate-social"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Evenlift",
+    "website": "https://evenlift.io/",
+    "description": "EvenLift improves gym retention and monetization through a digital personal trainer who counts your reps, corrects your form, and tracks your progress using AI-enabled, wall-mounted cameras alongside a mobile app.",
+    "location": "Pflugerville, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/evenlift"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Madbarz",
+    "website": "https://madbarz.com/",
+    "description": "Next gen fitness app right in the middle of the modern fitness revolution",
+    "location": "Zagreb, Croatia",
+    "social_media": {
+      "twitter": "https://twitter.com/madbarz1",
+      "linkedin": "https://linkedin.com/company/madbarz",
+      "facebook": "https://facebook.com/Madbarz.1/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Lemons in the room",
+    "website": "https://lemonsintheroom.com/",
+    "description": "Immersive VR solutions to reduce anxiety during medical treatments",
+    "location": "Firenze, Florence, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lemons-in-the-room"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Sainte",
+    "website": "https://withsainte.com/",
+    "description": "Sainte transforms trauma into resilience through AI-driven, trauma-informed support, helping individuals stabilize, thrive, and break cycles of recidivism and stigma. Our scalable solutions serve underserved communities, employers, and healthcare providers, combining lived experiences with cutting-edge technology to build a resilient, inclusive society. Join us in creating systems that heal and empower.",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/totalreentrysolution"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Rewire Health",
+    "website": "https://rewire-health.com/",
+    "description": "Enabling culinary medicine with B2B software",
+    "location": "Boalsburg, Pennsylvania, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rewire-health"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "EnVue Health",
+    "website": "https://envuehealth.com/",
+    "description": "EnVue Health is a digital health company offering a directory of multi-specialty and multi-discipline health professionals, combined with telemedicine services, focused on providing equitable care for BIPOC, underserved, and specialized populations.",
+    "location": "Louisville, Kentucky, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/melanatedhealt1",
+      "linkedin": "https://linkedin.com/in/melanated-healthcare%C2%AE-570093201",
+      "facebook": "https://facebook.com/MelanatedHealthcare"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "BioticsAI",
+    "website": "https://biotics.ai/",
+    "description": "We use AI to detect fetal abnormalities.",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/BioticsAI",
+      "linkedin": "https://linkedin.com/company/bioticsai"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Vitelle",
+    "website": "https://vitelle.co/",
+    "description": "Vitelle is a data-driven female longevity platform that creates and adapts longevity protocols specifically for the female body. We give women more healthy years in the future by bridging the gap between their health at home and their clinical care.",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/vitelle"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Violet",
+    "website": "https://violet.org.au/",
+    "description": "Helping people talk about and plan for the last stage of life",
+    "location": "Haymarket, New South Wales, Australia",
+    "social_media": {},
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Reactiv",
+    "website": "https://reactivrehab.com/",
+    "description": "Reactiv is a virtual physical rehabilitation clinic, where we use computer vision and gaming to increase engagement and improve outcome.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/reactivrehab",
+      "linkedin": "https://linkedin.com/company/reactivrehab",
+      "facebook": "https://facebook.com/reactivrehab"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "BLOOM",
+    "website": "https://bloomforall.com/",
+    "description": "BLOOM is a digital health platform offering employers comprehensive support in family care, counseling and mental health interventions, and personal well-being programs.",
+    "location": "Gloucester, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bloomforall",
+      "facebook": "https://facebook.com/bloomforallhub/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Awake Labs",
+    "website": "https://awakelabs.com/",
+    "description": "Awake Labs supports people with cognitive disabilities whose mental health challenges are often misunderstood.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/awakelabs",
+      "linkedin": "https://linkedin.com/company/awakelabs",
+      "facebook": "https://facebook.com/awakelabs/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Chorus Health",
+    "website": "https://chorushealth.io/",
+    "description": "Digital therapeutic for women's health",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/virtue-io"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Wolomi",
+    "website": "https://wolomi.com/",
+    "description": "BIPOC maternal health e-learning & community",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/_wolomi",
+      "linkedin": "https://linkedin.com/company/wolomi",
+      "facebook": "https://facebook.com/wolomimoms"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Secured Health",
+    "website": "https://securedhealth.co/",
+    "description": "Secured Health, where technology meets community to transform healthcare engagement. As a pioneering member engagement platform, we're dedicated to bridging the gap in social determinants of health through innovative solutions.",
+    "location": "Falls Church, Virginia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/securedhealth"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Moolathon",
+    "website": "https://moolathon.com/",
+    "description": "Get Fit. Raise Money.",
+    "location": "Prospect, Kentucky, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/moolathon",
+      "linkedin": "https://linkedin.com/company/moolathon",
+      "facebook": "https://facebook.com/moolathon/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Kliq",
+    "website": "https://joinkliq.io/",
+    "description": "A white-label peer-to-peer platform that enables creators to build, manage, and monetize their community",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/remotecoach_fit",
+      "linkedin": "https://linkedin.com/in/ben-camara-410124a",
+      "facebook": "https://facebook.com/remotecoachfit/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Karneyium  Health",
+    "website": "https://karneyium.com/",
+    "description": "Empowering Clinical Trials: Bridging Innovation with Universal Access!",
+    "location": "Mason, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/karneyium-health"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Grain Fertility",
+    "website": "https://grainfertility.com/",
+    "description": "Empowering fertility patients through their data",
+    "location": "Silver Spring, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/grain-fertility"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Cuvris Technologies",
+    "website": "https://cuvris.com/",
+    "description": "Reducing claims denials, increasing  healthcare practice revenue and streamlining operations with AI Agents",
+    "location": "Kitchener, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cuvris"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Cerebro NeuroTech",
+    "website": "https://cerebroneurotech.com/",
+    "description": "Cerebro is developing the world's most intelligent rapid detection software for Sports-Related Concussions",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/paolo-alejandro-catilo-38b30bb8"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Arbizal",
+    "website": "https://arbizal.com/",
+    "description": "Healthcare data redefined: quick, secure, normalized data - internal or external, at a fraction of the cost.",
+    "location": "Nashville, Tennessee, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/arbizal"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Tot Squad",
+    "website": "https://totsquad.com/",
+    "description": "Telehealth marketplace for new & expecting parents to book health, wellness & safety services (sleep & lactation consulting, car seat installs, babyproofing)",
+    "location": "Sherman Oaks, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TheTotSquad",
+      "linkedin": "https://linkedin.com/company/1945202",
+      "facebook": "https://facebook.com/TheTotSquad"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "SökerData",
+    "website": "https://soker-data.com/",
+    "description": "SokerData is a biotechnology company that provides research, and data analysis solutions for disease-related datasets.",
+    "location": "London, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/soker-data"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "NeuroGeneces",
+    "website": "https://neurogeneces.com/",
+    "description": "NeuroGeneces measures and improves Brain Health",
+    "location": "Santa Fe, New Mexico, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/NeuroGeneces",
+      "linkedin": "https://linkedin.com/company/neurogeneces",
+      "facebook": "https://facebook.com/pegaces/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "mishe",
+    "website": "https://mishe.co/",
+    "description": "Mishe brings price transparency for healthcare procedures, providing patients access to discounted rates while enabling providers to receive guaranteed upfront payments bypassing the insurance reimbursement process.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mishehealth",
+      "linkedin": "https://linkedin.com/company/mishecare",
+      "facebook": "https://facebook.com/mishe.care"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Metric Mate",
+    "website": "https://themetricmate.com/",
+    "description": "Metric Mate turns any strength training equipment into smart equipment, allowing users to track their fitness progress.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/twitter",
+      "linkedin": "https://linkedin.com/company/metric-mate-inc",
+      "facebook": "https://facebook.com/metricmate/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Elly",
+    "website": "https://ellyhealth.com/",
+    "description": "Elly is the world's first empathetic audio companion for patients living with a chronic disease.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pwk3ibkmqthld6dwaa3y",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ellyhealthinc",
+      "facebook": "https://facebook.com/EllyHealth"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Galen Health",
+    "website": "https://galenhealth.org/",
+    "description": "Vertical AI Agents for Cancer Care",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/galen-ai"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Sloop",
+    "website": "https://sloop.ai/",
+    "description": "Sloop eliminates AI hallucinations by encoding your prompts with hypertokens, the GPS for LLMs that instantly upgrades the memory, reasoning, and privacy of your AI tools.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sloopfx"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Unpluq",
+    "website": "https://unpluq.com/",
+    "description": "Unpluq is on a mission to empower everyone to enjoy a healthy digital life, through a unique mobile solution.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vmtuxu8um1fg0mr4zx5s",
+    "location": "Rotterdam, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/unpluq",
+      "linkedin": "https://linkedin.com/company/unpluq",
+      "facebook": "https://facebook.com/UnpluqTechnology"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Neatsy",
+    "website": "https://neatsy.ai/",
+    "description": "Neatsy is anapp helps to check foot and spine health with AI and iPhone camera and enables telehealth for orthopedic surgeons.",
+    "location": "Menlo Park, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/neatsyai",
+      "facebook": "https://facebook.com/neatsyai"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "JETSWEAT",
+    "website": "https://jetsweatfitness.com/",
+    "description": "Jetsweat is an app that lets users take all their favorite boutique fitness classes wherever they may be.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/JetsweatFitness",
+      "linkedin": "https://linkedin.com/company/jetsweat",
+      "facebook": "https://facebook.com/jetsweatfitness/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Group B Labs",
+    "website": "https://linkedin.com/company/groupblabs",
+    "description": "Helping the 92% of new mothers who struggle with feeding by finally revolutionizing bottle prep, feeding data collection, and access to nutritional support.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GroupBLabs",
+      "linkedin": "https://linkedin.com/company/groupblabs",
+      "facebook": "https://facebook.com/groupblabs/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Breathing",
+    "website": "https://breathing.ai/",
+    "description": "Adaptive workstations - patented and personalized relaxing screen experiences to reduce stress and improve performance for enterprises and individual consumers",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/breathing_ai",
+      "linkedin": "https://linkedin.com/company/breathingai",
+      "facebook": "https://facebook.com/breathingai/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Aman",
+    "website": "https://liveaman.com/",
+    "description": "Supercharge Your Employee Health Benefits with Aman!",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/un2fewcmgodtmfei7njz",
+    "location": "Jakarta, Indonesia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/liveaman",
+      "facebook": "https://facebook.com/AMAN.EPAYMENT"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "EasyShake®",
+    "website": "https://theeasyshake.com/",
+    "description": "Fast, convenient, cleanup-free protein shakes. Access to convenient nutrition is key to living a healthy, happy life. Experience effortless nutrition that fits seamlessly into your busy lifestyle so you can reclaim your time for what truly matters!",
+    "location": "Manhattan Beach, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/easyshake"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Preface Health",
+    "website": "https://prefacehealth.com/",
+    "description": "Preface Health predicts and automates clinical tasks for healthcare.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {},
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Vita Innovations",
+    "website": "https://vitainnovations.co/",
+    "description": "Vita Innovations offers an AI-powered triage platform to streamline Emergency Department patient intake and monitoring.",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/vita-innovations"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "nurtur",
+    "website": "https://nurturteam.com/",
+    "description": "nurtur's revolutionary digital health application harnesses the power of AI to proactively predict postpartum depression risk and enroll high-risk women in care plans proven to prevent postpartum depression.",
+    "location": "Weston, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nurturteam"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Limber Technologies",
+    "website": "https://limber.life/",
+    "description": "Limber is the first tech-enabled fall prevention service for older adults with impaired mobility, addressing a $30B annual cost to Medicare.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/limbermobility"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Clinicbox",
+    "website": "https://clinicbox.com/",
+    "description": "Clinicbox helps the 2 million healthcare providers in Mexico reduce patient onboarding times by enabling automation",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/oakxqgnumu4d9jis4loa",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mimedik",
+      "linkedin": "https://linkedin.com/company/clinicbox",
+      "facebook": "https://facebook.com/mimedikhq"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Asclepius Health",
+    "website": "https://tryasclepius.com/",
+    "description": "An AI medical assistant for outpatient clinics to fully automate clinic workflow",
+    "location": "Austin, Texas, United States",
+    "social_media": {},
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Decimal Code",
+    "website": "https://decimalcode.com/",
+    "description": "Automated medical coding and revenue cycle AI solutions",
+    "location": "Ann Arbor, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/decimal-code"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Seek",
+    "website": "https://seekhealthtest.com/",
+    "description": "Seek is the first at-home lab test that measures how alcohol impacts women's health.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {},
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Revella Health",
+    "website": "https://revellahealth.com/",
+    "description": "We optimize revenue capture through AI-Powered patient insights",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {},
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Pedal Data",
+    "website": "https://pedaldata.com/",
+    "description": "Pedal Data Pioneers AI algorithms for Insole Gait Tracking Sensors to stop Neurodegenerative diseases like Parkinsons for a Healthier Tomorrow",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/pedal-data-b91998296"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Nerveli",
+    "website": "https://getnerveli.com/",
+    "description": "Nerveli is a scientifically proven platform that empowers you to holistically understand and manage your pain and then guides you with a personalized approach to pain relief.",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nerveli-inc"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Gisens Biotech",
+    "website": "https://gisensbiotech.com/",
+    "description": "Revolutionizing diagnostics through nanotechnology",
+    "location": "Berkeley, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GisensB",
+      "linkedin": "https://linkedin.com/company/gisens-biotech-sa"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Gale Payments",
+    "website": "https://withgale.com/",
+    "description": "Gale is the new hassle-free way to accept HSA & FSA payments.",
+    "location": "Lantana, Texas, United States",
+    "social_media": {},
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "ElectroKare",
+    "website": "https://electrokare.com/",
+    "description": "Fitness Software, Biotechnology Research,",
+    "location": "Vernon Hills, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/electrocare1"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "CliniSpan Health",
+    "website": "https://clinispanhealth.com/",
+    "description": "CliniSpan Health has built an Influencer Relationship Management Platform (IRM) for clinical research.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/clinispanhealth",
+      "linkedin": "https://linkedin.com/company/clinispan-health",
+      "facebook": "https://facebook.com/CliniSpanHealth/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Vital Audio",
+    "website": "https://vitalaudio.io/",
+    "description": "A subscription-based and device-agnostic voice AI software for patient monitoring and patient screening to help telehealth Primary Care Physicians to assess severity of atrial fibrillation and heart failure remotely to reduce 10% readmissions rates.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vitalaudioinc",
+      "linkedin": "https://linkedin.com/company/vital-audio-inc"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "SWERVE Fitness",
+    "website": "https://swervefitness.com/",
+    "description": "Swerve is the first boutique fitness studio to livestream its experience into gyms and studios around the world. Swerve is also the first concept to feature location vs. location competition.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SWERVE_Fitness",
+      "linkedin": "https://linkedin.com/company/swerve-fitness",
+      "facebook": "https://facebook.com/swervefit"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Cubtale",
+    "website": "https://cubtale.com/",
+    "description": "Solving the problem of sleep deprivation and the lack of easy to use care tracking solutions by simplifying the process to log data.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cubtale",
+      "facebook": "https://facebook.com/cubtale"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Joystik Life",
+    "website": "https://joystik.life/",
+    "description": "A digital health application focused on stress for improved performance and health to a younger audience via universities and other strategic partnerships.",
+    "location": "Nashotah, Wisconsin, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/joystik-life-inc"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Enrichly",
+    "website": "https://enrichly.world/",
+    "description": "Enrichly offers youth development courses virtually and in-person to elementary, middle, and high school students that aim to increase self-esteem and confidence.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/enrich_ly",
+      "linkedin": "https://linkedin.com/company/enrich-ly",
+      "facebook": "https://facebook.com/YouthEnrichments"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Cappella",
+    "website": "https://cappella.io/",
+    "description": "For all the caregivers around a new baby who need to understand its needs better to provide more efficiently and accurately, Cappella builds a super accurate hands-off baby cry translator",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cappella_io",
+      "linkedin": "https://linkedin.com/company/cappella-io",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "A-Champs",
+    "website": "https://a-champs.com/",
+    "description": "A-Champs develops interactive, gamified and sports-science based training solutions for people of all ages and fitness levels.",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/achampsofficial",
+      "linkedin": "https://linkedin.com/company/a-champs",
+      "facebook": "https://facebook.com/AChampsOfficial/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "xHood",
+    "website": "https://parentxhood.com/",
+    "description": "A community for Black Queer people to build and nurture healthy families and parent happy children.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/moodic7lutvop6lwr6mo",
+    "location": "Woodbridge, Virginia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/xhood",
+      "facebook": "https://facebook.com/community/whats-new/mia-black-lgbtq-moms-why-i-create/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Squid IQ",
+    "website": "https://squid-iq.com/",
+    "description": "Take control of medical device management.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/f8zobyjbdge1znsbq45f",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/squid-iq"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "DiveThru",
+    "website": "https://divethru.com/",
+    "description": "DiveThru is building mental health studios that connect young people with therapy, community and themselves... like a gym, but for your mental health.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/eepqwhyocswxiridnlwp",
+    "location": "Edmonton, Alberta, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/letsdivethru",
+      "linkedin": "https://linkedin.com/company/divethru",
+      "facebook": "https://facebook.com/divethruapp"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Veba",
+    "website": "https://vebababy.com/",
+    "description": "For parents that manually track breastmilk or formula expiration, we have a device that turns a baby bottle into a smart bottle; automatically notifying parents of when the milk or formula has expired and is no longer safe to give the baby.",
+    "location": "Coral Springs, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/veba-baby-corp",
+      "facebook": "https://facebook.com/VebaBaby"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Inpathy",
+    "website": "https://inpathy.co/",
+    "description": "Inpathy is a social app creating empathetic communities through transparency, normalizing moods, and recreating the human experience.",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Inpathyapp",
+      "linkedin": "https://linkedin.com/company/inpathy",
+      "facebook": "https://facebook.com/inpathy/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Zencey",
+    "website": "https://zencey.com/",
+    "description": "AI-driven digital health & wellness for chronic care in emerging markets",
+    "location": "Upper Marlboro, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/zenceyhealth",
+      "linkedin": "https://linkedin.com/company/zencey",
+      "facebook": "https://facebook.com/zenceyafrica/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Somnea Health",
+    "website": "https://somnea.co/",
+    "description": "We combine human-led care with technology to empower people with sleep apnea to sleep better at home.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SomneaHealth",
+      "linkedin": "https://linkedin.com/company/somnea-health"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Smart MS3",
+    "website": "https://smartms3.com/",
+    "description": "Smart MS3 is a wearable biofeedback solution that provides objective, real-time metrics to maximize adherence and efficacy of Physical Therapy",
+    "location": "Robbinsville, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/smartms3",
+      "facebook": "https://facebook.com/Smart-MS3-102735054864840/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "PainNavigator",
+    "website": "https://navigatemypain.com/",
+    "description": "Creating digital solutions for chronic pain.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/painnavigator",
+      "linkedin": "https://linkedin.com/company/pain-navigator",
+      "facebook": "https://facebook.com/navigatemypain"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Mindhelpa",
+    "website": "https://mindhelpa.com/",
+    "description": "Mindhelpa improves access to mental healthcare by providing affordable and effective online group therapy to individuals, facilitated by licensed therapists.",
+    "location": "Dundee, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mindhelpa"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "MedDefend",
+    "website": "https://mymeddefend.com/",
+    "description": "A new way to navigate healthcare",
+    "location": "West Des Moines, Iowa, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/90448850"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "LifeWeb 360",
+    "website": "https://lifeweb360.com/",
+    "description": "A unique digital space to honor those important in our lives in a way authentic to them.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lifeweb360",
+      "linkedin": "https://linkedin.com/company/lifeweb360",
+      "facebook": "https://facebook.com/lifeweb360"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "AWEAR Technologies",
+    "website": "https://awear.us/",
+    "description": "For people with anxiety we provide an AI neurofeedback coach to enhance mental wellbeing everyday.",
+    "location": "San Francisco, California, United States",
+    "social_media": {},
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Smart Tracker",
+    "website": "https://smarttracker.health/",
+    "description": "SmartTracker is a Hispanic-owned digital health firm providing Public Health technology solutions to city and county agencies.",
+    "location": "Clermont, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/smarttracker"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Myri Health",
+    "website": "https://myrihealth.com/",
+    "description": "Myri Health transforms maternal care with the Myri Health App, a comprehensive platform that leverages AI to deliver personalized pregnancy and postpartum support. By identifying risks and detecting preterm labor, we significantly improve birth outcomes. \n\nWe meet growing families where they are and provide affordable resources.",
+    "logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/rdfueyc6ikgunbw0yaxu",
+    "location": "Norman, Oklahoma, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/myrihealth",
+      "linkedin": "https://linkedin.com/company/myrihealth",
+      "facebook": "https://facebook.com/myrihealth"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Utopia Global Wellness",
+    "website": "https://utopiaspaandglobalwellness.com/",
+    "description": "Welcome to Utopia Global Wellness (UGW) - Where Integrated Workplace Well-Being Meets Belonging--Worldwide! We are your B2B SaaS digital HR and retention partner, combating burnout while elevating employee health, happiness, and productivity on a global scale.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/utopiasgw",
+      "linkedin": "https://linkedin.com/company/utopiasgw",
+      "facebook": "https://facebook.com/UtopiaSGW/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "LyfPlus",
+    "website": "https://lyfplus.com/",
+    "description": "LyfPlus provides a software infrastructure for health facilities to set up custom digital health products that suit their patient needs. The module-based architecture allows products like telehealth, EHRs and e-pharmacies to be developed, deployed and scaled independently.\n\nHealth facilities can;\n\n1. Quickly set up and launch solutions across the patient value chain at $0 initial cost.\n2. Use data insights to predict patient dynamics and enhance the quality of their services.\n3.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/dp0r1ioexn5ol9c5uxg4",
+    "location": "Dar es Salaam, Dar es Salaam Region, Tanzania",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lyfplus-limited"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "VITia",
+    "website": "https://vitiacare.com/",
+    "description": "VITiaCARE helps patients to better manage their chronic conditions through personalized solutions, AI insights, and rewards.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/VITiaCARE",
+      "linkedin": "https://linkedin.com/company/vitiacare",
+      "facebook": "https://facebook.com/vitiacare"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "UpTrials",
+    "website": "https://uptrials.com/",
+    "description": "UpTrials is an online marketplace connecting you to our database of prescreened clinical research professionals.",
+    "location": "Aurora, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/uptrials"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Chapter",
+    "website": "https://askchapter.org/",
+    "description": "Chapter is the only unbiased and tech-enabled Medicare advisor.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/_perfectapp",
+      "linkedin": "https://linkedin.com/company/joinchapter",
+      "facebook": "https://facebook.com/ChapterMedicare"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Melon Health",
+    "website": "https://melonhealth.com/",
+    "description": "Digital therapeutics for physical, emotional and social health. Melon combines behavior science, data and design to deliver evidence based wellness interventions supported by humans and enabled by technology.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/melonhealth",
+      "linkedin": "https://linkedin.com/company/social-code",
+      "facebook": "https://facebook.com/SocialCode.io"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "SureConsent",
+    "website": "https://linkedin.com/company/sureconsent",
+    "description": "Painlessly empowering patients",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sure_consent",
+      "linkedin": "https://linkedin.com/company/sureconsent",
+      "facebook": "https://facebook.com/SureConsent/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Sophia",
+    "website": "https://linkedin.com/company/trysophia",
+    "description": "practice management for mental health therapists",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sophiatherapy",
+      "linkedin": "https://linkedin.com/company/trysophia",
+      "facebook": "https://facebook.com/trysophia"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Quimby",
+    "website": "https://linkedin.com/company/quimby",
+    "description": "Emotional resilience app for work",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/o7kwvj5z1hxzeyfibi1j",
+    "location": "Coppell, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/quimby"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Quantac",
+    "website": "https://linkedin.com/company/quantac",
+    "description": "Quantac provides the first method of integrating sweat sensing technology with mass market wearables.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Quantac_Co",
+      "linkedin": "https://linkedin.com/company/quantac",
+      "facebook": "https://facebook.com/Quantac-Co-247523868972523/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Qualia Health",
+    "website": "https://linkedin.com/company/qualia-health",
+    "description": "Using data science to measure changes in overall home health and improve lives.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/QualiaHealth",
+      "linkedin": "https://linkedin.com/company/qualia-health"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Pulsewave",
+    "website": "https://linkedin.com/company/71327340",
+    "description": "Discreet and reliable remote patient monitoring with existing eyeglasses",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/drch6hmjoafby30uyeoc",
+    "location": "Biel, Switzerland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/71327340"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Meenta",
+    "website": "https://linkedin.com/company/meenta",
+    "description": "The world's largest marketplace for diagnostic tests.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/meentaNGS",
+      "linkedin": "https://linkedin.com/company/meenta"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Frame Health",
+    "website": "https://linkedin.com/company/frame-health",
+    "description": "Frame Health identifies & diagnoses high cost non-adherent patients and prescribes tailored  treatment plans that improve adherence and outcome, and save money.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FrameHealth",
+      "linkedin": "https://linkedin.com/company/frame-health"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Duality Health",
+    "website": "https://linkedin.com/company/duality-health",
+    "description": "Accurately identify and link individual patients with their digitized health care information to enable an interoperable health data ecosystem.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/g02otfcffmx3xpwstvbq",
+    "location": "San Antonio, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/duality-health"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  },
+  {
+    "name": "Compsol eCOIDA",
+    "website": "https://linkedin.com/company/compsoliod",
+    "description": "We have created an online real-time multi-party social security technology platform that promotes service delivery across the value chain.",
+    "location": "Port Elizabeth, South Africa",
+    "social_media": {
+      "twitter": "https://twitter.com/compsolstl",
+      "linkedin": "https://linkedin.com/company/compsoliod",
+      "facebook": "https://facebook.com/CompSol-281970508584941/"
+    },
+    "industry": "Digital health",
+    "industry_slug": "digital-health"
+  }
+]

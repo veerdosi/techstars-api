@@ -1,0 +1,24 @@
+{
+  "name": "Voyc",
+  "slug": "voyc",
+  "website": "https://voyc.ai/",
+  "description": "AI software to monitor & improve call centre quality assurance & agent performance.",
+  "one_liner": "AI software to monitor & improve call centre quality assurance & agent performance.",
+  "location": "Cape Town, South Africa",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/voyc_ai",
+    "linkedin": "https://linkedin.com/company/voycai",
+    "facebook": "https://facebook.com/voycai-280510892827223/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/voyc",
+  "api": "/api/companies/voyc.json"
+}

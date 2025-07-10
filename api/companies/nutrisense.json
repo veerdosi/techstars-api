@@ -1,0 +1,24 @@
+{
+  "name": "NutriSense",
+  "slug": "nutrisense",
+  "website": "https://nutrisense.io/",
+  "description": "A bio-feedback powered, personalized nutrition coach.",
+  "one_liner": "A bio-feedback powered, personalized nutrition coach.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/nutrisenseio",
+    "linkedin": "https://linkedin.com/company/nutrisenseio",
+    "facebook": "https://facebook.com/nutrisenseio"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nutrisense",
+  "api": "/api/companies/nutrisense.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Talkstack",
+  "slug": "talkstack",
+  "website": "https://talkstack.ai/",
+  "description": "TalkStack provides a no-code Gen AI customer experience platform to enterprises without AI teams and can deliver human-like conversations including lead generation and qualification.",
+  "one_liner": "TalkStack provides a no-code Gen AI customer experience platform to enterprises without AI teams and can deliver human-like conversations including lead generation and qualification.",
+  "location": "Singapore, Singapore",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Gummys_io",
+    "linkedin": "https://linkedin.com/company/talkstackai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/talkstack",
+  "api": "/api/companies/talkstack.json"
+}

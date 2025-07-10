@@ -1,0 +1,3405 @@
+[
+  {
+    "name": "TradingView",
+    "website": "https://tradingview.com/",
+    "description": "Social network where traders exchange ideas to maximize profits",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tradingview",
+      "linkedin": "https://linkedin.com/company/tradingview",
+      "facebook": "https://facebook.com/tradingview"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Gorgias",
+    "website": "https://gorgias.com/",
+    "description": "Manage all your customer support in one place with Gorgias.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gorgiasio",
+      "linkedin": "https://linkedin.com/company/gorgias",
+      "facebook": "https://facebook.com/gorgiasio"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Lifebit Biotech",
+    "website": "https://lifebit.ai/",
+    "description": "LifeBit enables companies to do DNA analysis at scale.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/lifebitAI",
+      "linkedin": "https://linkedin.com/company/lifebit-ai",
+      "facebook": "https://facebook.com/lifebitAI/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Comet",
+    "website": "https://comet.com/",
+    "description": "Comet is doing for AI what GitHub did for software.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Cometml",
+      "linkedin": "https://linkedin.com/company/comet-ml",
+      "facebook": "https://facebook.com/cometdotml/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Slingshot Aerospace",
+    "website": "https://slingshotaerospace.com/",
+    "description": "Slingshot develops technology to process and mine the disparate, ever-increasing deluge of signal data at a scale optimized for earth observation.",
+    "location": "El Segundo, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sling_shot_aero",
+      "linkedin": "https://linkedin.com/company/slingshot-aerospace",
+      "facebook": "https://facebook.com/slingshotaero/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Rasa",
+    "website": "https://rasa.com/",
+    "description": "Rasa is building the standard infrastructure layer for conversational AI.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Rasa_HQ",
+      "linkedin": "https://linkedin.com/company/rasa.",
+      "facebook": "https://facebook.com/RasaHQ/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Wise Systems",
+    "website": "https://wisesystems.com/",
+    "description": "Wise Systems is an enterprise software solution that helps companies make real-time delivery decisions.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gowisesystems",
+      "linkedin": "https://linkedin.com/company/5348684",
+      "facebook": "https://facebook.com/WiseSystemsInc"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Fideo Intelligence",
+    "website": "https://fideo.ai/",
+    "description": "Cloud based contact management",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FullContact",
+      "linkedin": "https://linkedin.com/company/fideointelligence",
+      "facebook": "https://facebook.com/FullContactAPI"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Pixxel",
+    "website": "https://pixxel.space/",
+    "description": "We build and operate cutting-edge hyperspectral imaging satellites.",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pixxelspace",
+      "linkedin": "https://linkedin.com/company/pixxelspace",
+      "facebook": "https://facebook.com/pixxelspace/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Stream",
+    "website": "https://getstream.io/",
+    "description": "API for building activity feeds and chat",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getstream_io",
+      "linkedin": "https://linkedin.com/company/getstream-io",
+      "facebook": "https://facebook.com/getstream.io"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Remesh",
+    "website": "https://remesh.ai/",
+    "description": "A next-gen platform for engaging and understanding a group of people",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/teamremesh",
+      "linkedin": "https://linkedin.com/company/5245293",
+      "facebook": "https://facebook.com/teamremesh"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "CrowdTwist",
+    "website": "https://crowdtwist.com/",
+    "description": "Multi-channel customer relationship & loyalty platform",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/OracleCX",
+      "linkedin": "https://linkedin.com/company/crowdtwist-inc-",
+      "facebook": "https://facebook.com/crowdtwist"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Cloudability",
+    "website": "https://cloudability.com/",
+    "description": "Apptio Cloudability is a cloud financial management platform that improves visibility, optimization, governance and more across cloud environments.",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/apptio",
+      "linkedin": "https://linkedin.com/company/cloudability",
+      "facebook": "https://facebook.com/Apptio"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Urban Sky",
+    "website": "https://urbansky.space/",
+    "description": "Developing stratospheric Microballoons to capture the freshest, high-res earth observation data.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/urban-sky-imaging",
+      "facebook": "https://facebook.com/theurbansky/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Forward Platform",
+    "website": "https://forwardplatform.com/",
+    "description": "Easily turn data into charts, maps and dashboards",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LiveStoriesCom",
+      "linkedin": "https://linkedin.com/company/livestories",
+      "facebook": "https://facebook.com/livestories"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Rwazi",
+    "website": "https://rwazi.com/",
+    "description": "Rwazi makes actionable data from developing markets accessible to drive sales.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fmjb9xolefo7cav1owu4",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rwaziltd",
+      "linkedin": "https://linkedin.com/company/rwazi",
+      "facebook": "https://facebook.com/RwaziLtd/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "SkyWatch",
+    "website": "https://skywatch.co/",
+    "description": "SkyWatch provides API access to the world's satellite data.",
+    "location": "Waterloo, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/SkyWatchApps",
+      "linkedin": "https://linkedin.com/company/skywatchai",
+      "facebook": "https://facebook.com/SkyWatchAI/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Derq",
+    "website": "https://derq.com/",
+    "description": "MIT spin-off w/ a mission to eliminate road accidents and save lives by using machine learning and V2X technology for both conventional and autonomous vehicles",
+    "location": "Dubai, United Arab Emirates",
+    "social_media": {
+      "twitter": "https://twitter.com/DerqAI",
+      "linkedin": "https://linkedin.com/company/derq",
+      "facebook": "https://facebook.com/DerqAI"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "WAVE",
+    "website": "https://wavebl.com/",
+    "description": "Safer, faster and more advanced electronic Bills of Lading, built on the Blockchain",
+    "location": "Kefar Sava, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/wavebl",
+      "linkedin": "https://linkedin.com/company/ogydocs",
+      "facebook": "https://facebook.com/waveebl/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Simudyne",
+    "website": "https://simudyne.com/",
+    "description": "Artificially Intelligent Simulations for Financial Institutions.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Simudyne",
+      "linkedin": "https://linkedin.com/company/simudyne"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "TransCrypts",
+    "website": "https://transcrypts.com/",
+    "description": "TransCrypts is a tool for Human Resource Departments to automate the issuance of employment and income verification documents using the blockchain.",
+    "location": "Newark, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/transcrypts_",
+      "linkedin": "https://linkedin.com/company/transcrypts",
+      "facebook": "https://facebook.com/transcrypts/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Gridwise",
+    "website": "https://gridwise.io/",
+    "description": "Gridwise uses data analytics to empower on-demand drivers, cities, and other mobility stakeholders.",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gridwise_io",
+      "linkedin": "https://linkedin.com/company/gridwise",
+      "facebook": "https://facebook.com/Gridwise.io"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Valence Discovery",
+    "website": "https://valencediscovery.com/",
+    "description": "Valence is unlocking the true potential of deep learning in drug design by unifying best-in-class deep learning technologies with intuitive infrastructure to allow any drug discovery team to become AI-enabled. We're proudly headquartered at Mila.",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/valence_ai",
+      "linkedin": "https://linkedin.com/company/valence-discovery",
+      "facebook": "https://facebook.com/invivoai/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Jome",
+    "website": "https://jome.com/",
+    "description": "We help real estate agents to predict which property is most likely to be purchased by a client and help them to make more deals within our referral network.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Propertymatehq",
+      "linkedin": "https://linkedin.com/company/propertymate-ai,%20https:",
+      "facebook": "https://facebook.com/meetpropertymate"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Grips Intelligence",
+    "website": "https://gripsintelligence.com/",
+    "description": "Data science company that builds optimization and intelligence products for eCommerce",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/GripsIntell",
+      "linkedin": "https://linkedin.com/company/peekd",
+      "facebook": "https://facebook.com/peekdHQ/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Keen IO",
+    "website": "https://keen.io/",
+    "description": "Event Data Analytics API",
+    "location": "San Antonio, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/keen_io",
+      "linkedin": "https://linkedin.com/company/keen-io",
+      "facebook": "https://facebook.com/Keen.io"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Leucine",
+    "website": "https://leucinetech.com/",
+    "description": "A proactive digital manufacturing platform that enables better drug product quality and patient safety.",
+    "location": "Koramangala 7th Block, Karnataka, India",
+    "social_media": {
+      "twitter": "https://twitter.com/LeucineApp",
+      "linkedin": "https://linkedin.com/company/leucine"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Base Operations",
+    "website": "https://baseoperations.co/",
+    "description": "Base Operations is a security and risk management platform that helps users safely navigate emerging market cities.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/BaseReport",
+      "linkedin": "https://linkedin.com/company/base-operations",
+      "facebook": "https://facebook.com/basereport/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "HData",
+    "website": "https://hdata.us/",
+    "description": "Delivering Smarter Compliance for the Energy Sector and Beyond",
+    "location": "Joliet, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HDataUS",
+      "linkedin": "https://linkedin.com/company/hdata"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "StyleSage",
+    "website": "https://stylesage.co/",
+    "description": "StyleSage helps fashion brands and retailers maximize sales and optimize merchandising and planning, with data-driven insights.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Style_Sage",
+      "linkedin": "https://linkedin.com/company/stylesage",
+      "facebook": "https://facebook.com/StyleSage"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "UBIO Automation Cloud",
+    "website": "https://ub.io/",
+    "description": "Make the Web your API. The UBIO Automation Cloud rapidly automate, transact and connect anything on the web.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/ubio",
+      "linkedin": "https://linkedin.com/company/3498744",
+      "facebook": "https://facebook.com/Ubio-170230710232639/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "SmartMind",
+    "website": "https://smartmind.team/",
+    "description": "We provide AI-powered digital advertising management platform to maximize sales revenue by orchestrating multi channels with real time purchase pattern analysis",
+    "location": "Seoul, South Korea",
+    "social_media": {
+      "twitter": "https://twitter.com/SmartMi71261326",
+      "linkedin": "https://linkedin.com/company/smartmind-inc",
+      "facebook": "https://facebook.com/smartmind.team/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "LunarCrush",
+    "website": "https://lunarcrush.com/",
+    "description": "Social Listening for Crypto. Discover how social media impacts cryptocurrency markets.",
+    "location": "Costa Mesa, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lunarcrush",
+      "linkedin": "https://linkedin.com/company/lunarcrush",
+      "facebook": "https://facebook.com/LunarCrush"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Preveta",
+    "website": "https://preveta.com/",
+    "description": "Preveta is transforming cancer care by building the richest database of patient insights that will drive transformation for providers, pharma and payers",
+    "location": "Redondo Beach, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hellopreveta",
+      "linkedin": "https://linkedin.com/company/preveta",
+      "facebook": "https://facebook.com/HelloPreveta"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Deep 6 AI",
+    "website": "https://deep6.ai/",
+    "description": "Deep 6 AI applies artificial intelligence and natural language processing to medical records to find more patients for clinical trials exponentially faster.",
+    "location": "Pasadena, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/deep6ai",
+      "linkedin": "https://linkedin.com/company/deep-6-ai",
+      "facebook": "https://facebook.com/deep6ai"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "LinqAlpha",
+    "website": "https://linqalpha.com/",
+    "description": "Build Digital CS Team for Your Business.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/WecoverPlatform",
+      "linkedin": "https://linkedin.com/company/wecoverplatforms"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "EdSights",
+    "website": "https://edsights.io/",
+    "description": "We help universities retain their students.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EdSights_",
+      "linkedin": "https://linkedin.com/company/edsights",
+      "facebook": "https://facebook.com/pg/EdSights"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "AGTools",
+    "website": "https://ag.tools/",
+    "description": "Agtools is a real-time data and market intelligence platform that provides transparency to the global food & ag industry.",
+    "location": "Irvine, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ag_tools",
+      "linkedin": "https://linkedin.com/company/agtools",
+      "facebook": "https://facebook.com/AgtoolsInc/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "EcoMap Technologies",
+    "website": "https://ecomap.tech/",
+    "description": "EcoMap builds platforms that digitize ecosystems, from entrepreneurial communities to corporate networks and beyond.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ecomaptech",
+      "linkedin": "https://linkedin.com/company/ecomaptechnologies",
+      "facebook": "https://facebook.com/ecomaptech"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Cheerfy",
+    "website": "https://cheerfy.com/",
+    "description": "Cheerfy enables personalised contextual customer experiences in the physical world.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/cheerfy",
+      "linkedin": "https://linkedin.com/company/cheerfy",
+      "facebook": "https://facebook.com/cheerfy/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "AkashX",
+    "website": "https://akashx.cloud/",
+    "description": "AkashX specilizes in building big data engine to converges the entire BI/Analytics/Data Engineering stack into a single platform.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vgfkow6hvzd80fvdx8ve",
+    "location": "Sheridan, Wyoming, United States",
+    "social_media": {},
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Crave Retail",
+    "website": "https://craveretail.com/",
+    "description": "Crave helps retailers make smarter decisions with every shopper in every fitting room.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CraveRetail",
+      "linkedin": "https://linkedin.com/company/crave-retail",
+      "facebook": "https://facebook.com/craveretailtech/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Compliable",
+    "website": "https://compliable.com/",
+    "description": "Gaming licensing made easy.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rebric_io",
+      "linkedin": "https://linkedin.com/company/compliable",
+      "facebook": "https://facebook.com/compliable"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Serve First",
+    "website": "https://servefirst.co.uk/",
+    "description": "Serve First provides customer feedback surveys and staff engagement platforms.",
+    "location": "Epping, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/serve-first-cx",
+      "facebook": "https://facebook.com/servefirstcx"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "7 Chord",
+    "website": "https://7-chord.com/",
+    "description": "Machine Learning for credit trading",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/7chordbd",
+      "linkedin": "https://linkedin.com/company/7-chord"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Spatialedge",
+    "website": "https://spatialedge.co.za/",
+    "description": "Spatialedge helps you build profitable customer relationships at scale using geospatial data and AI",
+    "location": "Stellenbosch, South Africa",
+    "social_media": {
+      "twitter": "https://twitter.com/Spatialedge_",
+      "linkedin": "https://linkedin.com/company/18022097"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Precog",
+    "website": "https://precog.com/",
+    "description": "Build smarter apps",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/precog",
+      "linkedin": "https://linkedin.com/company/precogdata",
+      "facebook": "https://facebook.com/precogplatform"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Humanitru",
+    "website": "https://toteminsights.com/",
+    "description": "An integrated data and payments solution for nonprofits unifying all of their fundraising, marketing, and engagement funnels: the nonprofit operating system.",
+    "location": "Richmond, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/humanitru",
+      "linkedin": "https://linkedin.com/company/humanitru",
+      "facebook": "https://facebook.com/humanitru"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Bloomfilter",
+    "website": "https://thebloomfilter.com/",
+    "description": "Helping software leaders leverage an organizations's existing data to build advanced analytics and AI to drive real-time activities and project success.",
+    "location": "Cleveland, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Bloomfilter1",
+      "linkedin": "https://linkedin.com/company/bloomfilter-inc"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Gradient Health",
+    "website": "https://gradienthealth.ai/",
+    "description": "Gradient Health aims to label the world's medical imagery, one pathology at a time. Founded in 2018, Gradient Health operates in Durham, North Carolina, United States.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gradienthealth",
+      "linkedin": "https://linkedin.com/company/gradient-health-inc"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "SPIDR Tech",
+    "website": "https://spidrtech.com/",
+    "description": "SPIDR is a platform that transforms law enforcement agencies into data-driven police organizations",
+    "location": "Torrance, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/spidrtech",
+      "linkedin": "https://linkedin.com/company/spidr-tech"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "NexLP",
+    "website": "https://nexlp.com/",
+    "description": "An analytics software company, focused on the eDiscovery and Information Governance industry",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/NexLP_Inc",
+      "linkedin": "https://linkedin.com/company/nexlp",
+      "facebook": "https://facebook.com/NexLPChicago/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Geopipe",
+    "website": "https://geopipe.ai/",
+    "description": "Immersive virtual copies of the world, built by algorithms, for games, SFX, simulation, architecture, real estate, VR/AR, and beyond.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/geopipeinc",
+      "linkedin": "https://linkedin.com/company/10985571",
+      "facebook": "https://facebook.com/geopipeinc/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "KITRO",
+    "website": "https://kitro.ch/",
+    "description": "Simplifying food waste management for the food and beverage industry",
+    "location": "Renens, Switzerland",
+    "social_media": {
+      "twitter": "https://twitter.com/KITRO_FoodWaste",
+      "linkedin": "https://linkedin.com/company/kitro",
+      "facebook": "https://facebook.com/KITROFoodWaste/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Popp",
+    "website": "https://joinpopp.com/",
+    "description": "Incentivise valuable behaviours with branded reward coins",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/join-popp"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "TheMonetizr",
+    "website": "https://themonetizr.com/",
+    "description": "Monetizr is a marketplace enabling game developers to reward and monetize their players with physical rewards.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/themonetizr",
+      "linkedin": "https://linkedin.com/company/10823510",
+      "facebook": "https://facebook.com/themonetizr"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "kelaHealth",
+    "website": "https://kelahealth.com/",
+    "description": "Bringing insights from millions of patients to every patient.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/kelahealth",
+      "linkedin": "https://linkedin.com/company/kelahealth",
+      "facebook": "https://facebook.com/k%C4%93lahealth-104417834782451/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "PortF",
+    "website": "https://portf.io/",
+    "description": "PortF is a platform serves investors, debt providers, and SMEs.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/80373194"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Resultid",
+    "website": "https://resultid.com/",
+    "description": "Market intelligence AI engine extracting and connecting signals among vast data streams to enable better decision-making and power innovation.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/resultid",
+      "linkedin": "https://linkedin.com/company/resultid",
+      "facebook": "https://facebook.com/nanovest"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Resourcly",
+    "website": "https://resourcly.earth/",
+    "description": "Resourcly helps manufacturers improve working capital with their shared inventory OS by leveraging product data and AI.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nhwtwxgzlxizocndm7jl",
+    "location": "Mannheim, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/resourcly"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "illuminem",
+    "website": "https://illuminem.com/",
+    "description": "illuminem is the world's leading source of sustainability & energy information",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fhgdrhxwtrcjhrjtpxe5",
+    "location": "Pistoia, Pistoia, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/illuminemNews",
+      "linkedin": "https://linkedin.com/company/illuminem"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Curated for You",
+    "website": "https://dearduck.com/",
+    "description": "dearduck Helping you find the perfect presents, every time.",
+    "location": "San Antonio, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/dearduck_",
+      "linkedin": "https://linkedin.com/company/10866244",
+      "facebook": "https://facebook.com/dearduckapp/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Ambee",
+    "website": "https://getambee.com/",
+    "description": "Ambee aims to make hyperlocal air quality data accessable to developers, consumers, health researchers and media companies",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "twitter": "https://twitter.com/get_ambee",
+      "linkedin": "https://linkedin.com/company/getambee",
+      "facebook": "https://facebook.com/getambee/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Kinometrix",
+    "website": "https://kinometrix.com/",
+    "description": "For hospitals that struggle to identify patients at risk for hospital acquired conditions, Kinometrix provides a patient safety platform that uses electronic health record data and machine learning to predict patient harm accurately and in real-time.",
+    "location": "Fort Belvoir, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Kinometrix",
+      "linkedin": "https://linkedin.com/company/kinometrix",
+      "facebook": "https://facebook.com/Kinometrix"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "SuccessionMatching",
+    "website": "https://successionmatching.com/",
+    "description": "An online community of business buyers, sellers, and succession planning professionals.",
+    "location": "Moose Jaw, Saskatchewan, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/sxnm",
+      "linkedin": "https://linkedin.com/company/succession-matching",
+      "facebook": "https://facebook.com/SuccessionMatching/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "ValueCo",
+    "website": "https://valuecometrics.com/",
+    "description": "ValueCo is here to solve the ESG mess and bring more objectivity and engagement in the space",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/Valuecometrics",
+      "linkedin": "https://linkedin.com/company/valuecometrics",
+      "facebook": "https://facebook.com/Valuecometrics"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "TempoIQ",
+    "website": "https://tempoiq.com/",
+    "description": "The backend for sensor analytics",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tempo_IQ",
+      "linkedin": "https://linkedin.com/company/tempoiq",
+      "facebook": "https://facebook.com/TempoIQ-Inc-1592958947597543/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Ellipsis Drive",
+    "website": "https://ellipsis-drive.com/",
+    "description": "Ellipsis Drive is a cloud native plug and play solution for collaborating, sharing, and selling spatial data the easy way.",
+    "location": "Ede, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/EllipsisDrive",
+      "linkedin": "https://linkedin.com/company/ellipsis-drive",
+      "facebook": "https://facebook.com/ellipsisdrive"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "ReTravel",
+    "website": "https://retravel.io/",
+    "description": "reTravel is an autonomous cross-selling technology for the travel industry designed to maximize traveler's loyalty and value",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/retravel-io",
+      "facebook": "https://facebook.com/reTravel.io"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Vidrovr",
+    "website": "https://vidrovr.com/",
+    "description": "Vidrovr develops multimodal computer vision and machine learning systems to index, tag and understand video.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vidrovr",
+      "linkedin": "https://linkedin.com/company/10591649"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "OE Systems AB",
+    "website": "https://oe-systems.com/",
+    "description": "A product and service company that delivers our own commercial wave energy solution that focuses on being installed in parallel with offshore wind turbines to enable increased production.",
+    "location": "Göteborg, Sweden",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oe-systems-ab"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Fixel",
+    "website": "https://fixel.ai/",
+    "description": "Fixel is a fully automated audience segmentation tool that ranks your website audience according to their level of engagement.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fixel_ai",
+      "linkedin": "https://linkedin.com/company/fixel.ai",
+      "facebook": "https://facebook.com/fixel.smarter.retargeting"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Nozzle",
+    "website": "https://nozzle.io/",
+    "description": "Nozzle is an innovative marketing channel analytics platform that saves companies millions by maximizing search engine campaigns.",
+    "location": "Lehi, Utah, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nozzleio",
+      "linkedin": "https://linkedin.com/company/nozzle",
+      "facebook": "https://facebook.com/pg/nozzleio/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "EnjoyHQ",
+    "website": "https://getenjoyhq.com/",
+    "description": "EnjoyHQ is the easiest way to search, organize and share all your customer feedback and user research in one place.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/heyenjoyhq",
+      "linkedin": "https://linkedin.com/company/enjoyhq",
+      "facebook": "https://facebook.com/enjoyhq"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Strobe",
+    "website": "https://strobelabs.com/",
+    "description": "The rock n roll fueled lovechild of Ticketmaster and Palantir.",
+    "location": "Providence, Rhode Island, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/strobelabs",
+      "linkedin": "https://linkedin.com/company/strobe-labs-inc",
+      "facebook": "https://facebook.com/strobelabs/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "SeekWell",
+    "website": "https://seekwell.io/",
+    "description": "SeekWell is a analytics platform built to help teams work faster.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v6kavxcwlcvkel7kbfov",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SeekWell_io",
+      "linkedin": "https://linkedin.com/company/seekwell",
+      "facebook": "https://facebook.com/SeekWell.io/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Orderly Health",
+    "website": "https://orderlyhealth.com/",
+    "description": "Orderly provides a free software to help consumers understand their healthcare costs and save money.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/orderlyhealth",
+      "linkedin": "https://linkedin.com/company/orderlyhealth",
+      "facebook": "https://facebook.com/OrderlyHealth/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "TerraManta",
+    "website": "https://terramanta.com/",
+    "description": "Financial markets intelligence",
+    "location": "Irvine, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TerraManta",
+      "linkedin": "https://linkedin.com/in/leonkotovich"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "EMOTIV",
+    "website": "https://emotiv.com/",
+    "description": "EMOTIV is a bioinformatics company that uses electroencephalography (EEG) to track mental performance, monitor emotions, and control virtual and physical objects with thoughts.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/emotiv",
+      "linkedin": "https://linkedin.com/company/emotiv",
+      "facebook": "https://facebook.com/emotiv"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Tova Earth",
+    "website": "https://tova.earth/",
+    "description": "We predict business risk from water scarcity. WaterProof(tm) is a DaaS product using our physics informed AI hydrologic model to forecast water availability anywhere, accessible via an interactive platform and API. Corporations and investors will use WaterProof to minimize disruptions, eliminate water constraints on growth, and identify investment opportunities. Our AI replaces expensive, manual consulting with automated, high-resolution insights. The TurboTax of water engineering consulting.",
+    "location": "Amherst, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tovaearth"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Parasol Platforms",
+    "website": "https://parasolplatforms.com/",
+    "description": "Facilitating the future of commercial insurance broking",
+    "location": "City of Newark, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/parasol-platforms"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "PrettyData",
+    "website": "https://prettydata.co/",
+    "description": "PrettyData is an AI-powered smart pricing platform helping beauty and wellness businesses maximize revenue through data-driven price optimization and market intelligence so beauty professionals can focus on their craft, not math.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/prettydata-co"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Equali",
+    "website": "https://equali.io/",
+    "description": "Automated payment reconciliations for the digital economy. B2B SaaS FinTech.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/sdnjjgksuwswvhlpfxw7",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/80992643"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "SurPlusMap",
+    "website": "https://surplusmap.com/",
+    "description": "Geospatial analytics to empower decision-makers in the green transition.",
+    "location": "Oslo, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/surplusmap"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Verifi Data Corp",
+    "website": "https://verifi.eco/",
+    "description": "VeriFi solves sustainable agriculture programs' critical issues in credibility, profitability, and scale with our configurable farm-level data automation SaaS providing data sovereignty, validation, verification, analysis, and transaction.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/verifidatacorp"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Pika Insights",
+    "website": "https://pikainsights.com/",
+    "description": "Pika Insights exists because 90% of sales in Africa are recorded with pen and paper, making the data inaccessible to corporates. This is the informal trade, a $1 trillion dollar market that is expected to double in two years. But the small shops that make up this sector, cannot present data to vouch for their businesses. We offer them a bookkeeping app that improves their data, reduces risk for lenders, and generates data we sell to multiple industries for marketing and sales intelligence.",
+    "location": "Lagos, FCT, Nigeria",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pika-insights"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "PharmaBusinessReview",
+    "website": "https://pbrinsight.com/",
+    "description": "PBR Life Sciences connects businesses with real-world opportunities in life sciences by combining data, technology, and people.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/yid5getb1wh0oj41ewdz",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/pbrlifesciences",
+      "linkedin": "https://linkedin.com/company/pbr-life-sciences",
+      "facebook": "https://facebook.com/people/PBR-Life-Sciences/61554007611436"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Fllite",
+    "website": "https://fllite.com/",
+    "description": "AI Integrated Marketplace for On-Demand Air Service.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {},
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Arweave",
+    "website": "https://arweave.org/",
+    "description": "On demand permanent data storage",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/arweaveteam",
+      "linkedin": "https://linkedin.com/company/arweave",
+      "facebook": "https://facebook.com/ArchainTeam/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Trinzz",
+    "website": "https://trinzz.com/",
+    "description": "For biomedical and life science companies, Trinzz is building the ultimate data stack, leveraging 3D-stacked biomedical AI to accelerate research and discovery.",
+    "location": "Kolkata, West Bengal, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/trinzz"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Harvest",
+    "website": "https://goharvest.ai/",
+    "description": "For businesses needing real-time web data, Harvest turns the internet into structured, tabular data using AI chat.",
+    "location": "Monroe, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/goharvestai"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Elio",
+    "website": "https://elio.earth/",
+    "description": "Elio enables analysts in companies & governments to respond to climate change's dynamism and rapidly act on climate solutions with confidence, by putting leading scientific data into context.",
+    "location": "Yorba Linda, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ElioEarth",
+      "linkedin": "https://linkedin.com/company/elio-earth"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Skyblue Analytics",
+    "website": "https://skyblueanalytics.com/",
+    "description": "For financial companies without the investment infrastructure and data analytics, we offer a customized white label solution.",
+    "location": "Montevideo, Uruguay",
+    "social_media": {
+      "twitter": "https://twitter.com/SkyBlueData",
+      "linkedin": "https://linkedin.com/company/skyblue-analytics"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "DocOne",
+    "website": "https://docone.fr/",
+    "description": "DocOne offers middle-layer building blocks for the next generation of AI-powered digital health applications.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/docone"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Alt",
+    "website": "https://altfndata.com/",
+    "description": "Alt.Fn is a financial data platform for tracking the $17.2T invested in alternative assets markets.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/in_oarbt",
+      "linkedin": "https://linkedin.com/company/oarbt",
+      "facebook": "https://facebook.com/oarbt/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Tablender",
+    "website": "https://tablender.com/",
+    "description": "Tablender simplifies database management for non-technical users with an AI-assisted, spreadsheet-like UI that merges multiple data sources into a unified system.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tablender"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Smart Bricks",
+    "website": "https://smart-bricks.com/",
+    "description": "Smart Bricks accelerates real estate investing by analyzing 1000x more properties and data points, helping buyers identify smarter, more profitable opportunities.",
+    "location": "Dubai, Dubai, United Arab Emirates",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/smart-bricks"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Agri-Trak",
+    "website": "https://agri-trak.com/",
+    "description": "Agri-Trak is a software platform that manages farm labor and tracks productivity and harvest data.",
+    "location": "Williamson, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AgriTrak",
+      "linkedin": "https://linkedin.com/company/agritrak"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Fiskher AS",
+    "website": "https://fishbuddy.app/",
+    "description": "Fishbuddy revolutionizes recreational fishing with a knowledge-based approach, combining expert advice from top anglers in each country, AI/AR technology, and satellite data. Offering tailored fishing spots and real-time insights for key species, Fishbuddy also supports marine conservation by working with authorities like the Coast Guard, empowering users to fish smarter while protecting marine ecosystems.",
+    "location": "Lillesand, Agder, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/fishbuddy"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Betterteem",
+    "website": "https://betterteem.com/",
+    "description": "Betterteem is a predictive and prescriptive AI platform that enables businesses to predict unwanted employee resignations with AI.\n\n\n\nBetterteem's AI-driven prediction resulted in an 18% increase in employee retention and a 41% increase in productivity in 2023, saving clients over US$18 million in backfill hiring costs and lost productivity.",
+    "location": "Bonifacio Global City, Philippines",
+    "social_media": {
+      "twitter": "https://twitter.com/wearebetterteem",
+      "linkedin": "https://linkedin.com/company/betterteem",
+      "facebook": "https://facebook.com/wearebetterteem"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "CityCop",
+    "website": "https://citycop.org/",
+    "description": "Social platform for community watch to fight crime.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/citycop_en",
+      "linkedin": "https://linkedin.com/company/citycop",
+      "facebook": "https://facebook.com/CitycopApp"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "VecTech",
+    "website": "https://vectech.io/",
+    "description": "A public benefit corporation, MD building solutions that support pest control organizations",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gj4ivajobsbtdokfvnev",
+    "location": "Baltimore, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vectechai",
+      "linkedin": "https://linkedin.com/company/vectechai",
+      "facebook": "https://facebook.com/VectechAI"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "OmicsChart",
+    "website": "https://omicschart.com/",
+    "description": "Patient-centric cancer data and analytics platform for translational cancer biologists",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/g3lgnp3izthtex3dmpxl",
+    "location": "Martinsried, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/omicschart",
+      "linkedin": "https://linkedin.com/company/omicschart"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Neomare",
+    "website": "https://neomare.no/",
+    "description": "Neomare is a developer of environmental technology platform providing seismic imaging using a containerized modular survey platform.",
+    "location": "Lillestrøm, Norway",
+    "social_media": {
+      "twitter": "https://twitter.com/NGeoservices",
+      "linkedin": "https://linkedin.com/company/neomare-as"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "NeedEnergy",
+    "website": "https://needenergy.io/",
+    "description": "Leverages innovation, data and modern technology relevant with times as its core values are to provide sustainable and clean energy solutions.",
+    "location": "Melbourne, Victoria, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/NeedEnergyzw",
+      "linkedin": "https://linkedin.com/company/needenergy",
+      "facebook": "https://facebook.com/NeedEnergyzw"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "EnkiAI",
+    "website": "https://enkiai.com/",
+    "description": "Revenue, business development, and investment teams use Enki to discover the next business opportunities.",
+    "location": "Valencia, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/enkiai",
+      "linkedin": "https://linkedin.com/company/enkiai",
+      "facebook": "https://facebook.com/enkiai"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "EarthCare",
+    "website": "https://earthcare.ai/",
+    "description": "EarthCare.ai helps (re)insurances, real-estate, retail, finance & agriculture sectors get access to the most accurate historical and real-time environmental & climate data to bolster resilience.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/earthcareai",
+      "linkedin": "https://linkedin.com/company/earthcareai",
+      "facebook": "https://facebook.com/earthcareai"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Kudoti",
+    "website": "https://kudoti.com/",
+    "description": "Kudoti design and develop digital solutions for optimization in the waste management and recycling industries via the platform.",
+    "location": "Johannesburg, South Africa",
+    "social_media": {
+      "twitter": "https://twitter.com/Kudoti_Waste",
+      "linkedin": "https://linkedin.com/company/kudoti",
+      "facebook": "https://facebook.com/Kudoti.Waste/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Poliark",
+    "website": "https://poliark.com/",
+    "description": "Poliark is an AI company developing text-to-3D AI to eliminate workflow inefficiency, enabling to finish weeks long work under minutes.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/poliark"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "HeronAI",
+    "website": "https://heron-ai.com/",
+    "description": "Data analytics for all, unlocking data's potential",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/heronai"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Cerbrec",
+    "website": "https://cerbrec.com/",
+    "description": "The AI platform that empowers developers and researchers to create bespoke AI solutions by just drag and drop.",
+    "location": "Hoboken, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Cerbrec",
+      "linkedin": "https://linkedin.com/company/cerbrec"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Invision AI",
+    "website": "https://invision.ai/",
+    "description": "Algocian is an edge computing platform that uses deep learning to make every camera smart.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/algocian",
+      "linkedin": "https://linkedin.com/company/invisionai",
+      "facebook": "https://facebook.com/invisionai/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "FortyGuard",
+    "website": "https://fortyguard.com/",
+    "description": "Climate technology leader revolutionizing AI-driven temperature intelligence targeting urban heat. We offer tailored, fast, and affordable  solutions, delivering precise, hyper-local maps and smart analytics.",
+    "location": "Abu Dhabi, United Arab Emirates",
+    "social_media": {
+      "twitter": "https://twitter.com/fortyguard",
+      "linkedin": "https://linkedin.com/company/fortyguard"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Cloudoor",
+    "website": "https://cloudoor.com/",
+    "description": "For only $396/month, Cloudoor manages all your Cloud/DevOps needs, so you can concentrate on business growth and let developers code.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cloudoor"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "RoadEO",
+    "website": "https://roadeo.io/",
+    "description": "RoadEO offers Road Quality Monitoring and Predictive Road Maintenance 2.0.",
+    "location": "The Hague, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/RoadEO_io",
+      "linkedin": "https://linkedin.com/company/road-eo",
+      "facebook": "https://facebook.com/roadeo.io"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Tuktu Care",
+    "website": "https://tuktu.ca/",
+    "description": "Provides seniors with a support platform, so they can get the help they need to age in their own homes and lead a fulfilling life for as long as possible.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/chafrw2cagqp2h8b67vi",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/tuktucare",
+      "linkedin": "https://linkedin.com/company/tuktu-care-inc",
+      "facebook": "https://facebook.com/tuktucare"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "TERAL",
+    "website": "https://teralmed.com/",
+    "description": "TERAL will be the largest repository of clinical cases in the world to solve challenging cases between health professionals at real time",
+    "location": "Medellín, Colombia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/teralmed",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "RevMatch Technologies",
+    "website": "https://revmatch.io/",
+    "description": "Streamlining the auto enthusiasts' journey through our community and partner-driven AI engine.",
+    "location": "Peachtree Corners, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/revmatchapp"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "H+Trace",
+    "website": "https://h-trace.com/",
+    "description": "AI platform for Healthcare supply chain optimization",
+    "location": "Allen, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/h-trace"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "LOWR",
+    "website": "https://lowr.co/",
+    "description": "Lowr captures fan and employee emission data and leverages behavior change technology to help organizations achieve a reduction in their overall carbon footprint.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/uwrgggsv6ampamgizxpz",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lowr"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Valid",
+    "website": "https://validit.ai/",
+    "description": "We are developing a technology that will allow you to perform a polygraph-like fraud detection test using only your smartphone.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/yossi-p-50a5baab"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Remote Gravity",
+    "website": "https://remotegravity.com/",
+    "description": "AI-powered underwriting platform for lenders in emerging markets.",
+    "location": "Lekki, Nigeria",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/remote-gravity"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Reliabl",
+    "website": "https://reliabl.ai/",
+    "description": "Reliabl's data annotation software transforms traditional data collection methods--hashtags, surveys, feedback, profiles--into machine learning-compatible annotations.  This ensures that your company's AI models are trained on contextual, high-quality, and user-centric data.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/eggpon6ifhvgt4grrr3u",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/andreafrancesb",
+      "linkedin": "https://linkedin.com/company/reliablai"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Iroko Analytics",
+    "website": "https://irokoanalytics.com/",
+    "description": "Provides EU timber traders with the analytics they need to comply with their legal due diligence requirements",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/project_canopy",
+      "linkedin": "https://linkedin.com/company/project-canopy"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Intelis",
+    "website": "https://intelis.ai/",
+    "description": "Intelis enables eCommerce SMBs to play like the pros by providing them with actionable insights and optimization capabilities into their store and market.",
+    "location": "Rishon LeZion, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/67753259",
+      "facebook": "https://facebook.com/ecopriceAnalytics/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "CogniScope",
+    "website": "https://cogniscope.app/",
+    "description": "We offer a pioneering SaaS solution for gaming studios that leverages advanced AI models based on psychological studies to interpret player emotions and behaviors, transforming insights into prioritized action items for strategic decision-making.",
+    "location": "London, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cogniscope",
+      "facebook": "https://facebook.com/dert.solutions"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "ByteNite",
+    "website": "https://bytenite.com/",
+    "description": "ByteNite empowers busy developer teams with a fully-managed serverless container platform, streamlining cloud infrastructure to save 50% in time and cost. Our solution accelerates processes across AI inference, ETL, and more, enhancing performance and efficiency.",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bytenite2",
+      "linkedin": "https://linkedin.com/company/bytenite",
+      "facebook": "https://facebook.com/bytenite2"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Versus",
+    "website": "https://versus.africa/",
+    "description": "Versus combines online and offline consumer data to give brands actionable and competitive insight for the African market.",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/enter5ive",
+      "linkedin": "https://linkedin.com/company/versus-llc",
+      "facebook": "https://facebook.com/VersusforAfrica"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Xena Intelligence",
+    "website": "https://xenaintelligence.com/",
+    "description": "Xena is an AI-powered ecommerce growth platform.",
+    "location": "Louisville, Kentucky, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/IncXena",
+      "linkedin": "https://linkedin.com/company/xena-intelligence",
+      "facebook": "https://facebook.com/xenaintelligence"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Muse Tax",
+    "website": "https://musetax.com/",
+    "description": "The A.I. based tool that finds every tax deduction and credit for users and shows ways to save on taxes.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/musetax_",
+      "linkedin": "https://linkedin.com/company/muse-tax"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Aradon",
+    "website": "https://aradon.bio/",
+    "description": "Aradon makes biotech robot labs easy to install and operate for scientists. Removing the manual work bottleneck from biotech will enable new medical solutions and enhance healthcare globally.",
+    "location": "Leiden, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/aradon-bio"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Affiniti AI",
+    "website": "https://affiniti.ai/",
+    "description": "At Affiniti, provide Generative Conversational AI models for Wellbeing and Mental Health Services",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/affiniti-ai"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Optionsamurai",
+    "website": "https://optionsamurai.com/",
+    "description": "Samurai is a data-driven platform helping financial professionals make better decisions by turning realtime data into action.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/OptionSamurai",
+      "linkedin": "https://linkedin.com/company/option-samurai",
+      "facebook": "https://facebook.com/OptionSamurai/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Lola Vision Systems",
+    "website": "https://lolavisionsystems.com/",
+    "description": "An AI and ML high performance computing systems and silicon provider. We specialize in creating custom solutions for Automotive, Aerospace and Defense OEMs.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lolavisionsystems"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Intrinsic Power",
+    "website": "https://intrinsicpower.com/",
+    "description": "Intrinsic Power provides smart energy management systems with chargers, solar inverters, and energy storage onboard.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/IntrinsicPower_",
+      "linkedin": "https://linkedin.com/company/intrinsic-power-inc"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Emigrait",
+    "website": "https://emigrait.com/",
+    "description": "Forecasting consumer behavior in real estate",
+    "location": "Cedar Falls, Iowa, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Emigrait_Inc",
+      "linkedin": "https://linkedin.com/company/emigrait",
+      "facebook": "https://facebook.com/emigrait"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "CREWASIS",
+    "website": "https://crewasis.ai/",
+    "description": "Crewasis is a marketing intelligence platform (MIP) that is on a mission to find data-driven insights that change the world.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/crewasis",
+      "linkedin": "https://linkedin.com/company/crewasis",
+      "facebook": "https://facebook.com/crewasis/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "alvee",
+    "website": "https://alvee.io/",
+    "description": "AI-driven tools to advance health equity and improve health outcomes for all",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/alveehealth",
+      "linkedin": "https://linkedin.com/company/alveehealth",
+      "facebook": "https://facebook.com/people/Alvee/100071621914815/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Hop Robotics",
+    "website": "https://hoprobotics.com/",
+    "description": "Hop Robotics produces automation systems to streamline draft beverage dispensing for events and venues.  Our technology enables automatic fulfillment after payment allowing operators to capture up to 40% more revenue to maximize existing labor.  We leverage the reliability of industrial-grade robotics to support the hospitality sector in reducing waste and increasing speed of service without sacrificing the human touch.",
+    "location": "Townville, South Carolina, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/54120285"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "goscore",
+    "website": "https://goscore.me/",
+    "description": "Building the FICO of Europe credit score",
+    "location": "Bergen, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/goscore",
+      "facebook": "https://facebook.com/pg/goscoreas"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Ekei",
+    "website": "https://ekei.net/",
+    "description": "Ekei is revolutionizing logistics with the Supply Cloud: a global, provider-agnostic platform unifying freight forwarding and fulfillment. By leveraging automation, AI-driven optimization, and decentralized data sharing, we slash costs, reduce emissions, and enable seamless collaboration across the entire supply chain.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ekeigroup"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Borde",
+    "website": "https://borde.io/",
+    "description": "Brings operational efficiencies to industrial plants, saving time, money, and increasing accuracy.",
+    "location": "San Ramon, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AutonomousEdge",
+      "linkedin": "https://linkedin.com/company/bordeio"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Arbor Insight",
+    "website": "https://arbor-insight.com/",
+    "description": "End-to-end agriculture robotic technology",
+    "location": "Milwaukee, Wisconsin, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/arborinsight"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Litlyx",
+    "website": "https://litlyx.com/",
+    "description": "Cookie-less, AI-powered website analytics platform. Get started in 30 seconds from signup.",
+    "location": "Rome, Rome, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/litlyx"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Vittas",
+    "website": "https://vittasinternational.com/",
+    "description": "Vittas is an Africa-based company that provides loans to small and medium-sized businesses.",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/Vittas15",
+      "linkedin": "https://linkedin.com/company/vittas",
+      "facebook": "https://facebook.com/VittasInternational"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Ultrium Technologies",
+    "website": "https://discoverultrium.com/",
+    "description": "Ultrium leverages AI and real-time vehicle data to predict breakdowns related to automobile maintenance, allowing owners to avoid costly repairs and downtime and adopt safer habits when operating a vehicle.",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/97416122"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Towntalk Solutions",
+    "website": "https://towntalk-solutions.com/",
+    "description": "Towntalk is a data intelligence company that has built Africa's most robust Security Intelligence and Emergency Response Infrastructure.",
+    "location": "Claymont, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/towntalk-solutions"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Sainte",
+    "website": "https://withsainte.com/",
+    "description": "Sainte transforms trauma into resilience through AI-driven, trauma-informed support, helping individuals stabilize, thrive, and break cycles of recidivism and stigma. Our scalable solutions serve underserved communities, employers, and healthcare providers, combining lived experiences with cutting-edge technology to build a resilient, inclusive society. Join us in creating systems that heal and empower.",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/totalreentrysolution"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "OptimizeEV",
+    "website": "https://optimizeev.com/",
+    "description": "OptimizeEV is a software as a service that uses predictive maintenance to prevent electric vehicle charging station downtimes and enhance network reliability and performance.",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/optimizeevdetroit"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Konnected",
+    "website": "https://konnectedwithcare.us/",
+    "description": "Konnected with Care is a comprehensive platform that helps organizations and government agencies serving youth and families stay connected, providing them with vital data and resources to save time, money, and lives.",
+    "location": "Ann Arbor, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/KonnectedXCare",
+      "linkedin": "https://linkedin.com/company/konnected-with-care"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Feeder",
+    "website": "https://getfeeder.com/",
+    "description": "Feeder is a facial recognition app that analysis instant facial reactions of the audience while watching content.",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/feedermetrics",
+      "linkedin": "https://linkedin.com/company/getfeeder",
+      "facebook": "https://facebook.com/FeederMetrics/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Context Data",
+    "website": "https://contextdata.ai/",
+    "description": "Enterprise Data Platform for Generative AI",
+    "location": "Houston, Texas, United States",
+    "social_media": {},
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Bummock AI",
+    "website": "https://bummock.ai/",
+    "description": "Your compliance safety net",
+    "location": "Dover, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bummock-ai"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Xeno",
+    "website": "https://xeno.in/",
+    "description": "Make your loyalty program your company's greatest asset",
+    "location": "New Delhi, India",
+    "social_media": {
+      "twitter": "https://twitter.com/xenohq",
+      "linkedin": "https://linkedin.com/company/xenouganda",
+      "facebook": "https://facebook.com/xenohq"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Maverick IQ",
+    "website": "https://maverickiq.com/",
+    "description": "Maverick IQ optimizes operations and enhances safety with integrated engineering, software, and IoT solutions for remote asset monitoring.",
+    "location": "Sandy Springs, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/maverick-iq"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Type W",
+    "website": "https://typew.com/",
+    "description": "Type W revolutionizes the way companies utilize retail sell-through data",
+    "location": "Hermosa Beach, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/typewinc",
+      "linkedin": "https://linkedin.com/company/type-w",
+      "facebook": "https://facebook.com/typew"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Quartolio",
+    "website": "https://quartolio.com/",
+    "description": "Quartolio is the Insight Cloud for R&D, synthesizing research leads from the work R&D teams have done and the work that they're doing in real-time.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/quartolio",
+      "linkedin": "https://linkedin.com/company/quartolio",
+      "facebook": "https://facebook.com/quartolio"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Vision Anchor",
+    "website": "https://visionanchor.net/",
+    "description": "VisionAnchor has developed the world's first smart anchoring system that actually tracks the anchor and sends a data feed to the boat. This makes anchoring faster and safer saving the owners hundreds of thousands of USD in damages or fines.",
+    "location": "Ljubljana, Slovenia",
+    "social_media": {
+      "twitter": "https://twitter.com/anchor_vision",
+      "linkedin": "https://linkedin.com/company/visionanchor",
+      "facebook": "https://facebook.com/visionanchorcam"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "TMA",
+    "website": "https://tmaiot.com/",
+    "description": "TMA, The Hazardous Goods Companion",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/margaux-pages"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "REN3for",
+    "website": "https://ren3for.com/",
+    "description": "REN3for offers a Predictive Weather and Power Prediction model that can predict weather 96 hours out, updated in real-time, at an average of 99% accuracy.",
+    "location": "Richmond, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/lisa-brunet"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Pardon",
+    "website": "https://pardon-app.com/",
+    "description": "Boosting sales of Restaurants&Hotels and hospitality brands with AI.",
+    "location": "Istanbul, Istanbul, Turkey",
+    "social_media": {
+      "twitter": "https://twitter.com/Pardon_tr",
+      "linkedin": "https://linkedin.com/company/pardonapp",
+      "facebook": "https://facebook.com/pardonturkey/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "ONOS",
+    "website": "https://onos.app/",
+    "description": "Onos is a safety & sustainability platform that helps companies reduce risk, enhance compliance, and lower their carbon footprint by automating and streamlining data collection, management, and reporting tools, eliminating busy work, and centralising key processes.",
+    "location": "Belfast, Northern Ireland, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/onostech"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Leadvolt",
+    "website": "https://leadvolt.com/",
+    "description": "Leadvolt helps insurance agents increase their sales by automating redundant tasks and increasing conversion rates.",
+    "location": "Coral Gables, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/jasonkillings"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Edenic Energy",
+    "website": "https://edenicenergy.ai/",
+    "description": "Edenic Energy is a Building Information Engine that connects updated data to outdated buildings in disadvantaged communities to address the high barriers of building retrofits and operational cost in old properties.",
+    "location": "Virginia Beach, Virginia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/thomaslhunterjr"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Caesarea Labs",
+    "website": "https://caesarealabs.com/",
+    "description": "Caesarea Labs is a semiconductor post-silicon validation EDA company, enhancing chip developers' efficiency and productivity. Our solutions help the industry deliver high-quality products faster, with better performance and reduced costs",
+    "location": "Kfar Saba, Tel Aviv, Israel",
+    "social_media": {},
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Aware",
+    "website": "https://awarelabs.xyz/",
+    "description": "Aware is an intelligent business semantic layer that makes it possible for humans and AI to unlock the business potential in blockchain data by transforming it into a unified, trustable and understandable business language.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/aware_labs",
+      "linkedin": "https://linkedin.com/company/aware-labs-xyz",
+      "facebook": "https://facebook.com/AwareHQ"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Triggr",
+    "website": "https://triggrhealth.com/",
+    "description": "Effective, individualized options for addiction recovery.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/triggrhealth",
+      "linkedin": "https://linkedin.com/company/triggr-health",
+      "facebook": "https://facebook.com/triggrhealth/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Washington’s Hammer",
+    "website": "https://washingtonshammer.com/",
+    "description": "Washington's Hammer - our Navy, our Mission",
+    "location": "Elizabeth City, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/washingtonsham6",
+      "linkedin": "https://linkedin.com/company/washington-s-hammer",
+      "facebook": "https://facebook.com/Washingtons-Hammer-104213464955685"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Porthos & Co",
+    "website": "https://porthos.co/",
+    "description": "Porthos & Co does bespoke finance for the entrepreneurial by digitally assembling a full range of data from open banking to property and private shares and so prove affordability and suitability at scale. We are the only UK business that can achieve this.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/porthos_co",
+      "linkedin": "https://linkedin.com/company/porthos-co",
+      "facebook": "https://facebook.com/porthosco"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Plainr",
+    "website": "https://plainr.io/",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/weareplainr",
+      "linkedin": "https://linkedin.com/company/plainr"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "LyRise",
+    "website": "https://lyrise.ai/",
+    "description": "We are on a mission to solve the shortage of AI and Data talents by assessing, up-skilling, and placing them from Africa to global companies.",
+    "location": "Cairo, Egypt",
+    "social_media": {
+      "twitter": "https://twitter.com/Lyriseai",
+      "linkedin": "https://linkedin.com/company/lyriseai",
+      "facebook": "https://facebook.com/LYRISEAI"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Karneyium  Health",
+    "website": "https://karneyium.com/",
+    "description": "Empowering Clinical Trials: Bridging Innovation with Universal Access!",
+    "location": "Mason, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/karneyium-health"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Drivingo",
+    "website": "https://drivingo.io/",
+    "description": "Drivingo is an automated drive-thru service that uses Touch, Talk, and our proprietary Gesture-Based Ordering to help QSRs increase their TAM through accessible ordering.",
+    "location": "Christiansburg, Virginia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/drivingoinc"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "CloudNine Augmented Intelligence",
+    "website": "https://cloudnineai.com/",
+    "description": "Enterprise Knowledge Management System that secures sensitive data such as PII for data privacy, governance, risk, and compliance",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cloudnineaugmentedintelligence",
+      "facebook": "https://facebook.com/cloudnineai.com"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Chuqlab",
+    "website": "https://chuqlab.com/",
+    "description": "AI powered crime fighting",
+    "location": "Indianapolis, Indiana, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/chuqlab"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "CareerGenie",
+    "website": "https://careergenie.app/",
+    "description": "CareerGenie creates job market data-driven personalized & gamified mobile career journeys to help talent navigate through career discovery to upskilling & interview readiness to job applications.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/career-genie-app"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "BTE Analytics",
+    "website": "https://bteanalytics.co/",
+    "description": "Dribbling Reimagined",
+    "location": "Raleigh, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/BTEanalytics",
+      "linkedin": "https://linkedin.com/company/bte-analytics"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "unmess",
+    "website": "https://unmess.xyz/",
+    "description": "Plug-and-play financial data infrastructure and unit economics platform.",
+    "location": "Reading, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/unmessxyz"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "SökerData",
+    "website": "https://soker-data.com/",
+    "description": "SokerData is a biotechnology company that provides research, and data analysis solutions for disease-related datasets.",
+    "location": "London, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/soker-data"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "RuleUp",
+    "website": "https://ruleup.ai/",
+    "description": "Effortlessly monitor any cybersecurity, privacy, or technology regulations, automate compliance, and ensure you're always up-to-date with real-time insights.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ruleup"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "MenuData",
+    "website": "https://menudata.ai/",
+    "description": "MenuData provides Food & Beverage Innovation through AI.",
+    "location": "Pleasanton, California, United States",
+    "social_media": {},
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Hijack",
+    "website": "https://hijack.bio/",
+    "description": "Genetically engineered bacteria that can make and release biologics in the body",
+    "location": "London, England, United Kingdom",
+    "social_media": {},
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Builty",
+    "website": "https://builty.app/",
+    "description": "For real estate risk managers who lack actionable insights, Builty provides unified intelligence of building permit data.",
+    "location": "Walnut Creek, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/builtyapp",
+      "linkedin": "https://linkedin.com/company/builtyapp"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Standd",
+    "website": "https://standd.io/",
+    "description": "A SaaS platform that connects lawyers and other knowledge workers to the data they need to work and collaborate strategically.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Standd_io",
+      "linkedin": "https://linkedin.com/company/standd"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "InfraHive",
+    "website": "https://infrahive.io/",
+    "description": "A Data Intelligence platform that allows finance, sales and customer teams of enterprises to do real-time analysis, 24x7 -- across company's complex data.",
+    "location": "New Castle, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vercel",
+      "linkedin": "https://linkedin.com/company/infrahive",
+      "facebook": "https://facebook.com/VercelHQ"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Digital Will",
+    "website": "https://digitalwill.co.jp/",
+    "description": "Digital Will's WORTAL empowers game studios to swift distribution, enhanced monetization, and cost-effective efficiency",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/tgpfd36bgksi4tma1hfi",
+    "location": "Minato City, Japan",
+    "social_media": {
+      "twitter": "https://twitter.com/digitalwillinc",
+      "linkedin": "https://linkedin.com/company/digital-will",
+      "facebook": "https://facebook.com/digitalwillinc/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "dealpad",
+    "website": "https://dealpad.io/",
+    "description": "Dealpad is a Virtual Sales Room Platform that transforms more leads into clients and closes transactions on time.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cahstqjns5yfrwtgoovu",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dealpad-io"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Steno",
+    "website": "https://steno.ai/",
+    "description": "We provide secure, private, custom conversational AI solutions that transform content into engaging, personalized user experiences. Our platform can be deployed within a company's infrastructure or as a fully managed SaaS solution, enabling businesses to scale efficiently and increase revenue while retaining full control over their data.",
+    "location": "Covina, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/steno_ai",
+      "linkedin": "https://linkedin.com/company/stenoai"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Tromml",
+    "website": "https://tromml.com/",
+    "description": "Tromml reduces friction in implementing data-driven insights for eCommerce sellers, starting with auto parts and accessories.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tromml"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "PopViewers",
+    "website": "https://popviewers.com/",
+    "description": "Popviewers is a technology startup that aims to amplify diverse entertainment audiences. They are democratizing the TV and movie review process and plan to soon become a sentiment analytics and marketing resource for theater chains, studios, networks...",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/popviewers",
+      "linkedin": "https://linkedin.com/company/popviewers",
+      "facebook": "https://facebook.com/popviewers"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Legends",
+    "website": "https://livemylegend.com/",
+    "description": "Legends transforms phone and photo data into actionable consumer insights to help brands personalize.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/livemylegends",
+      "linkedin": "https://linkedin.com/company/livemylegend",
+      "facebook": "https://facebook.com/livemylegend11/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Complya",
+    "website": "https://complya.ai/",
+    "description": "Complya helps government-regulated businesses in the Care economy automate their compliance journey from start to inspection-ready. We are on a mission to build trust across the care economy.",
+    "location": "Minneapolis, Minnesota, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/complya-inc",
+      "facebook": "https://facebook.com/complya/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Besample",
+    "website": "https://besample.app/",
+    "description": "Besample is a data marketplace that empowers research beyond the West. \n\nWith a focus on the growing Global South, Besample provides human-focused researchers across healthcare, industry, and academia with access to primary data from a diverse and representative pool of people in 42 countries of Africa, Asia, Latin America, and CIS.",
+    "location": "Tallahassee, Florida, United States",
+    "social_media": {},
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Little Place Labs",
+    "website": "https://littleplace.com/",
+    "description": "Building machine learning solutions for space edge computing in a scalable way.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hptajyrc5v4ag4xzmfxn",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/little-place-labs"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Cubtale",
+    "website": "https://cubtale.com/",
+    "description": "Solving the problem of sleep deprivation and the lack of easy to use care tracking solutions by simplifying the process to log data.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cubtale",
+      "facebook": "https://facebook.com/cubtale"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "cohere",
+    "website": "https://thecohere.com/",
+    "description": "An AI-powered retail insights platform for brand growth and product discovery. Cohere connects retailers with latest consumer brands through authentic buyer reviews and insights.",
+    "location": "Pasadena, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TheCohere",
+      "linkedin": "https://linkedin.com/company/thecohere",
+      "facebook": "https://facebook.com/theCohere/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Socian Technologies",
+    "website": "https://socian.io/",
+    "description": "Autonomous drone systems that serve as the ultimate accountability tool for safer community policing.",
+    "location": "Glenwood, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/socian-technologies"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "LearnHaus",
+    "website": "https://learn.haus/",
+    "description": "LearnHaus is an AI-based learning journey platform helping parents to easily get their kids the right learning-focused tools and activities.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bentoinvesting",
+      "linkedin": "https://linkedin.com/company/learnhaus",
+      "facebook": "https://facebook.com/bentoinvesting"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "eTEU",
+    "website": "https://eteu.co.uk/",
+    "description": "eTEU automates the process of document creation and digitises the transfer of cargo documents in the shipping industry with the help of blockchain technology.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/eteutech",
+      "linkedin": "https://linkedin.com/company/eteutech"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Xworks Tech",
+    "website": "https://xworkstech.com/",
+    "description": "Data-driven circular economy making smart connections for waste and recycling as a service",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/TechXworks",
+      "linkedin": "https://linkedin.com/company/xworks-tech"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Upfront Online",
+    "website": "https://allupfront.com/",
+    "description": "Upfront is a FinTech startup that provides financial advisory services for refinancing car loans.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/UpfrontOnline",
+      "linkedin": "https://linkedin.com/company/upfrontonline",
+      "facebook": "https://facebook.com/upfrontonline"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "RivetApp",
+    "website": "https://rivetapp.co/",
+    "description": "Software that helps artists and content creators understand and nurture fan relationships to sell more valuable content and products.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/qrwbtg2ylit4ruhw2zzs",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/userivetapp",
+      "linkedin": "https://linkedin.com/company/rivet-app",
+      "facebook": "https://facebook.com/UseRivetApp/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "NIX AIR SOLUTIONS",
+    "website": "https://nix-iot.com/",
+    "location": "Avignon, France",
+    "social_media": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/company/nix-air-solutions"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "INPUT SOFT",
+    "website": "https://inputsoft.net/",
+    "description": "INPUT SOFT is a web platform for companies in the aviation industry: helps optimize resources, reduce costs, collect and analyze data from all processes.",
+    "location": "Kyiv, Ukraine",
+    "social_media": {
+      "twitter": "https://twitter.com/inputsoftware",
+      "linkedin": "https://linkedin.com/company/inputsoftware"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "BeAKid",
+    "website": "https://beakid.com/",
+    "description": "Marketplace for Parents and Enrichment Program Providers",
+    "location": "Boca Raton, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/beakid",
+      "facebook": "https://facebook.com/BeakidPage/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "SportsMarkit",
+    "website": "https://sportsmarkit.com/",
+    "description": "SportsMarkit Streamlines NIL business dealflow and payments management with one integrated platform.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sportsmarkit",
+      "linkedin": "https://linkedin.com/company/sportsmarkit-llc",
+      "facebook": "https://facebook.com/SportsMarkit/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Sproxxy",
+    "website": "https://sproxxy.com/",
+    "description": "Sproxxy (Speaker + Proxy) is an enterprise Saas solution used to book and manage corporate spokespeople at industry events and find out the ROI and business impact of your efforts. With Sproxxy, you cut waste sponsoring, attending and speaking at events.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sproxxyai",
+      "linkedin": "https://linkedin.com/company/sproxxy"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Shur",
+    "website": "https://getshur.com/",
+    "description": "Shur is a B2B2C connecting the financial services industry to millions of Professionals with Student Loans. Our company-based financial wellness programs integrate alternative credit scoring, advice, insurance, and banking. Borrowers move from debt to wealth creation, while we build new revenue for banks and other financial institutions.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/shurco"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "NGHBR",
+    "website": "https://nghbr.app/",
+    "description": "NGHBR is a mobile app that allows users to know more about the people around them in real-time.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/twfozzqygrfiqrqkbf34",
+    "location": "Upper Marlboro, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nghbr",
+      "linkedin": "https://linkedin.com/company/nghbr-inc"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Movez",
+    "website": "https://movez.com/",
+    "description": "For event curators or experience seekers longing to have their cities' experiences mass-marketed, we provide intuitive software that enables immersive event experiences' discoverability, organization & network cultivation end-to-end.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/movezapp",
+      "linkedin": "https://linkedin.com/company/movezapp",
+      "facebook": "https://facebook.com/movezapp"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Lerch",
+    "website": "https://asklerch.com/",
+    "description": "Lerch is a mobile event app that offers simple and modern assistance to virtually any event.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/f3worrrlqtgltwbaokne",
+    "location": "Cincinnati, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/asklerch",
+      "linkedin": "https://linkedin.com/company/asklerch",
+      "facebook": "https://facebook.com/asklerch"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "human",
+    "website": "https://myhumanapp.com/",
+    "description": "HUMAN is a storytelling and strategy agency that creates media for social impact.",
+    "location": "Nashville, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/myhumanapp",
+      "linkedin": "https://linkedin.com/company/myhumanapp",
+      "facebook": "https://facebook.com/MyHumanApp/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Bohamo",
+    "website": "https://bohamo.ai/",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {},
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Haven Network",
+    "website": "https://havenproject.io/",
+    "description": "Haven is a mission-driven platform that radically simplifies access to government and corporate contracts--many of which businesses are unaware of. In a landscape of outdated systems, bureaucratic jargon, and scattered portals, Haven unites over 12,000 buying agencies into one intuitive platform. Acting as a business development partner, we automatically match businesses with the right opportunities, drastically reducing the time and effort required to find and secure contracts.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thinkhaven",
+      "linkedin": "https://linkedin.com/company/thinkhaven"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Flat",
+    "website": "https://flathomecare.com/",
+    "description": "Subscription-based solution to ongoing home maintenance management.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tryflat",
+      "facebook": "https://facebook.com/flathomecare"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Circle+",
+    "website": "https://circleplus.xyz/",
+    "description": "Circle+ streamlines idle dry powder around scalable innovations in the global south.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/circle-plus"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "4Point AI",
+    "website": "https://4point.ai/",
+    "description": "AI/ML for predictive ore mapping, helping junior mines accurately drill future cores.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/4point-ai"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Periculum",
+    "website": "https://periculum.io/",
+    "description": "Periculum is a data analytics company providing analytic solutions for the African market.",
+    "location": "Waterloo, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/Periculumdotio",
+      "linkedin": "https://linkedin.com/company/26535300",
+      "facebook": "https://facebook.com/periculum.io/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Moneo",
+    "website": "https://moneo.cash/",
+    "description": "We deliver digital promotions to in-store consumers and capture their data in a cost-effective & scalable way to help brands drive sales & optimize digital advertising ROI. \n\nWith our cashback rewards platform  millions of people can save money on their everyday spending.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jq9kchy0yoy1ymt2cpel",
+    "location": "Mexico City, Federal District, Mexico",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/moneo-cash",
+      "facebook": "https://facebook.com/Moneo.cash"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "MinersAI",
+    "website": "https://minersai.com/",
+    "description": "Developer of AI based geologic datasets designed to help the minerals exploration industry cope with the energy transition.",
+    "location": "Lafayette, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/minersai"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "DoDocs",
+    "website": "https://dodocs.ai/",
+    "description": "APIs and AI agent for inventory and data base updates automation for restaurants, hotels, logistics, accounting and others",
+    "location": "Dubai, Dubai, United Arab Emirates",
+    "social_media": {
+      "twitter": "https://twitter.com/AiDodocs11493",
+      "linkedin": "https://linkedin.com/company/dodocsai"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Dataffluent",
+    "website": "https://dataffluent.com/",
+    "description": "We help investors in emerging markets to make decisions faster",
+    "location": "Stony Hill, Saint Andrew Parish, Jamaica",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dataffluent"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Column",
+    "website": "https://joincolumn.com/",
+    "description": "A new social network that puts users in control of their content",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rxnrqjudvhrnnb8jboba",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/column-inc"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "CarbonBright",
+    "website": "https://carbonbright.co/",
+    "description": "CarbonBright is an AI-driven platform transforming sustainability in the CPG industry. We automate and scale product-level Life Cycle Assessments (LCAs), addressing Scope 3 emissions by leveraging generative AI, making product sustainability measurable and actionable at scale.",
+    "location": "Bend, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/carbonbright"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Osazomon",
+    "website": "https://osazomon.com/",
+    "description": "OSAZ is a pioneering AI startup transforming skincare for melanin-rich skin. OSAZ uses cutting-edge generative AI to develop personalized sunscreen and hyperpigmentation treatments.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Byosaz",
+      "linkedin": "https://linkedin.com/company/osazomon"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "CubeNexus",
+    "website": "https://cubenexus.xyz/",
+    "description": "CubeNexus is a software startup developing innovative solutions for data monetization and geolocation. Our flagship B2B SaaS product enables companies to monetize dead or unused data by geocoding it with unparalleled precision. The software organizes data into a time-based, volumetric location system, allowing businesses to extract actionable insights from previously underutilized datasets.",
+    "location": "Columbus, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cubenexus"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "CModel Data",
+    "website": "https://cmodel.io/",
+    "description": "Decision intelligence for leadership teams, providing an easy way to keep their team, strategy, and resources in sync while they grow.",
+    "location": "Vallejo, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CModelData",
+      "linkedin": "https://linkedin.com/company/cmodel",
+      "facebook": "https://facebook.com/CModel-Data-106447052182008"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Hilltop",
+    "website": "https://hilltop-app.com/",
+    "description": "Hilltop is the first AI-powered tool giving voters direct access to Capitol Hill",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {},
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "GustoMarket",
+    "website": "https://gustomarket.co/",
+    "description": "GustoMarket is a software as a service (SaaS) that vertically integrates the food value chain for the hospitality industry.",
+    "location": "Ithaca, New York, United States",
+    "social_media": {},
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Switch",
+    "website": "https://myswitchapp.com/",
+    "description": "Switch encourages users to make impactful and intentional connections that transcend the swipe culture of modern love.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/switch_app_%20(same%20on%20Instagram)",
+      "linkedin": "https://linkedin.com/company/myswitchapp"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Liquid",
+    "website": "https://getliquid.ai/",
+    "description": "Liquid is the decision engine helping you grow your salon business",
+    "location": "Columbia, Missouri, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/liquidhairinstitute"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "HyperVention",
+    "website": "https://hypervention.com/",
+    "description": "HyperVention is a software platform that uses AI to personalize drug schedules for hypertensive patients.",
+    "location": "Carmel, Indiana, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hypervention"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Honey to Cocoa",
+    "website": "https://honeytococoa.com/",
+    "description": "Leveraging AI to help people of color match makeup to their unique skin tones",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/honeytococoa"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Fivvy",
+    "website": "https://getfivvy.com/",
+    "description": "Mobile data and analytics platform that delivers data and insights to succeed in a data driven economy.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wjabb9ucv0pqstb9514w",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/74370828"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Cosito",
+    "website": "https://cosito.ai/",
+    "description": "AI-powered sensors enabling businesses to gain actionable insights from the physical world.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/msqpzhjkqq0uwr8pl1ig",
+    "location": "Bogotá, Bogota D.C., Colombia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cosito-inc"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "BioReact",
+    "website": "https://bioreact.co/",
+    "description": "BioReact is an analytics platform used by scientists to improve their understanding of complex experimental data.",
+    "location": "Indianapolis, Indiana, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bioreact-inc"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Social Champ",
+    "website": "https://socialchamp.io/",
+    "description": "The next generation's simplest social media management tool, helping users to publish, analyze content, and engage with their audience - all from one place!",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1494409411/u77bf8isdbyaa3kpztwc.png",
+    "location": "Karachi, Pakistan",
+    "social_media": {
+      "twitter": "https://twitter.com/socialchampsays",
+      "linkedin": "https://linkedin.com/company/social-champ",
+      "facebook": "https://facebook.com/socialchampio"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Paperade AI",
+    "website": "https://paperade.ai/",
+    "description": "The InnovationOS for Modern Teams.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PaperadeAI",
+      "linkedin": "https://linkedin.com/company/paperadeai"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "ChipedIn",
+    "website": "https://chipedin.com/",
+    "description": "Our platform provides an innovative solution by combining crowdfunding and personal shopper services. We enable communities to pool their contributions towards desired, high-value gifts, effectively minimizing returns and elevating the gifting experience.",
+    "location": "New York City, New York, United States",
+    "social_media": {},
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "MRGN",
+    "website": "https://mrgn.ai/",
+    "description": "MRGN is the only business intelligence platform that incorporates real-world data into its projections, and guides you through both micro and macro challenges in real time.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MRGNbudgeting",
+      "linkedin": "https://linkedin.com/company/mrgn-labs",
+      "facebook": "https://facebook.com/MRGN-106233975015726/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Duck",
+    "website": "https://getduck.co/",
+    "description": "Duck is a big data and analytics company that gives consumer brands insights into product performance in retail stores and consumer preferences, helping them better price, stock, and supply.",
+    "location": "Nairobi, Kenya",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/getduck"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Druid Learning",
+    "website": "https://druidlearning.com/",
+    "description": "Bridging the gap between a publishers content and the use of that content in AI.",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/ltdDruid",
+      "linkedin": "https://linkedin.com/company/druid-learning-limited"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Capoom",
+    "website": "https://capoom.com/",
+    "description": "Capoom is a software company developing AI based automatic 3d modeling software.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/irk4bkrls8rlqrqwd7ci",
+    "location": "Ann Arbor, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/capoom"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Reputize",
+    "website": "https://reputize.co/",
+    "description": "Reputize converts big data to a great customer experience.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/reputize_co",
+      "linkedin": "https://linkedin.com/company/reputize",
+      "facebook": "https://facebook.com/reputize"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Palleter",
+    "website": "https://palleter.com/",
+    "description": "Palleter fills trucks with nearby cargo",
+    "location": "Tartu, Estonia",
+    "social_media": {
+      "twitter": "https://twitter.com/palleters",
+      "linkedin": "https://linkedin.com/company/palleter",
+      "facebook": "https://facebook.com/palleters/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Humans Deliver",
+    "website": "https://humansdeliver.com/",
+    "description": "Provides an AI-powered API that integrates real-time restroom and meal stop options into delivery routing tools, optimizing efficiency and lowering costs for carriers.",
+    "location": "New York City, New York, United States",
+    "social_media": {},
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Ishield",
+    "website": "https://ishield.ai/",
+    "description": "Help companies hire talent 10x faster by automating the entire talent acquisition process using generative AI",
+    "location": "Lewes, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ishield_ai",
+      "linkedin": "https://linkedin.com/company/ishield-ai",
+      "facebook": "https://facebook.com/Ishieldai-102733562149810"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "BeeInstant",
+    "website": "https://beeinstant.com/",
+    "description": "AI-Powered Application Monitoring Platform for Large Enterprises",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1504020447/ua2paoepy2wfycxlqdax.jpg",
+    "location": "Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/BeeInstantMon",
+      "linkedin": "https://linkedin.com/company/11145201",
+      "facebook": "https://facebook.com/pg/BeeInstant"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "SimpleRelevance",
+    "website": "https://simplerelevance.com/",
+    "description": "Smarter email drives more sales",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SimpleRelevance",
+      "linkedin": "https://linkedin.com/company/simplerelevance",
+      "facebook": "https://facebook.com/simplerelevance"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "SocialCrunch",
+    "website": "https://socialcrunch.com/",
+    "description": "The new way to unlock provocative insights for brands and their agencies",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SocialCrunch",
+      "linkedin": "https://linkedin.com/company/socialcrunch",
+      "facebook": "https://facebook.com/raisemarketplace"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Corr",
+    "website": "https://corrbi.com/",
+    "description": "Corr.bI is a sophisticated Business Intelligence platform that mines data from multiple online and offline sources to create a rich intelligence profile",
+    "location": "Herzliya, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/corr.bi",
+      "facebook": "https://facebook.com/corr.bi"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Dispatch",
+    "website": "https://dispatch.me/",
+    "description": "We make it easy for enterprise service brands to gain real-time visibility across their entire independent network while delivering unparalleled experiences to their end-customers.",
+    "logo_url": "https://pbs.twimg.com/profile_images/3402046298/a6cf4773b69e71d158e52c40ed2c9f7f_bigger.jpeg",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Dispatch",
+      "linkedin": "https://linkedin.com/company/dispatch-labs",
+      "facebook": "https://facebook.com/dispatchitinc"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "OpenSauced",
+    "website": "https://opensauced.pizza/",
+    "description": "The open-source intelligence platform for finding the best developers and scaling engineering teams.",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/saucedopen",
+      "linkedin": "https://linkedin.com/company/open-sauced"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Xapix",
+    "website": "https://linkedin.com/company/xapix-io",
+    "description": "Xapix, the \"Github of APIs\" makes it easy for developers to discover, combine and integrate data/services.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/xapix_io",
+      "linkedin": "https://linkedin.com/company/xapix-io"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Whirl",
+    "website": "https://linkedin.com/company/letswhirl",
+    "description": "Whirl is a matchmaking platform where anyone can set up their single friends.",
+    "location": "South San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/theblindcupid",
+      "linkedin": "https://linkedin.com/company/letswhirl"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Vallai",
+    "website": "https://linkedin.com/company/vallai",
+    "description": "Vallai offers a SaaS platform for multi-party collaboration on data and AI projects to overcome the problem of trust and data sharing between partners.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/i0iszlbdegdlrnq5t43h",
+    "location": "Bois-Colombes, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/vallai"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Tuffel",
+    "website": "https://linkedin.com/in/seanschoi",
+    "description": "We revolutionize how we build and use household power tools using the latest and greatest technologies in Machine Learning and IoT.",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/seanschoi"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Sympatic",
+    "website": "https://linkedin.com/company/sympatic-inc",
+    "description": "Enables enterprise data owners to safely share valuable data, providing audit logs and preventing data leakage.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sympatic_data",
+      "linkedin": "https://linkedin.com/company/sympatic-inc"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "SportSyncTech",
+    "website": "https://linkedin.com/company/sportsynctech",
+    "description": "SportSyncTech is empowering amateur & professional athletes with Big data, Artificial intelligence and Blockchain.",
+    "location": "Duppigheim, Grand Est, France",
+    "social_media": {
+      "twitter": "https://twitter.com/SportSyncTech",
+      "linkedin": "https://linkedin.com/company/sportsynctech"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Softcube",
+    "website": "https://linkedin.com/company/softcube-inc",
+    "description": "Automatic video ad creation and optimisation for all products in a store's catalog",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cv4sinplxv1nhqwv5led",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Softcube_video",
+      "linkedin": "https://linkedin.com/company/softcube-inc",
+      "facebook": "https://facebook.com/softcube.video/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Revvo",
+    "website": "https://linkedin.com/company/revvotechnologies",
+    "description": "Revvo provides actionable insights on vehicle tire health through an integrated in-tire sensor + machine learning cloud solution.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RevvoTech",
+      "linkedin": "https://linkedin.com/company/revvotechnologies",
+      "facebook": "https://facebook.com/RevvoTechnologies"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Pansieve",
+    "website": "https://linkedin.com/in/N",
+    "description": "Mobile forms for business",
+    "location": "Redmond, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cuecardapp",
+      "linkedin": "https://linkedin.com/in/N"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Osu",
+    "website": "https://linkedin.com/company/vala",
+    "description": "Enabling safe cross border cash transactions for the unbanked.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/payosu",
+      "linkedin": "https://linkedin.com/company/vala"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "NeveMind",
+    "website": "https://linkedin.com/company/86819039",
+    "description": "The answering machine of the 21st century, Nevemind is a desktop application that automatically replies to all your emails and messages.",
+    "location": "Oslo, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/86819039"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Mindfire Technology",
+    "website": "https://linkedin.com/company/mindfire-technology",
+    "description": "For companies that have huge software backlogs, we supply highly skilled engineering talent. We write custom web systems and mobile apps.",
+    "location": "Salt Lake City, Utah, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MindfireTech",
+      "linkedin": "https://linkedin.com/company/mindfire-technology",
+      "facebook": "https://facebook.com/MindfireTechnology/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "LiquidLandscape",
+    "website": "https://linkedin.com/company/3087901",
+    "description": "LL Notebook is a blazingly fast data exploration tool that empowers domain experts to answer their own questions  and discover new and better questions to ask.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lqdlandscape",
+      "linkedin": "https://linkedin.com/company/3087901",
+      "facebook": "https://facebook.com/getliquidlandscape"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "LightmassDynamics",
+    "website": "https://linkedin.com/company/lightmass-dynamics",
+    "description": "Building a more efficient foundation for real-time simulation",
+    "location": "Lasko, Slovenia",
+    "social_media": {
+      "twitter": "https://twitter.com/LightmassD",
+      "linkedin": "https://linkedin.com/company/lightmass-dynamics",
+      "facebook": "https://facebook.com/LightmassDynamics/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Lean Systems",
+    "website": "https://linkedin.com/company/lean-systems-techstars-nyc-%2717-",
+    "description": "Lean Systems is a scalable, API-based optimization platform for transportation planning.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/leansystemsHQ",
+      "linkedin": "https://linkedin.com/company/lean-systems-techstars-nyc-%2717-",
+      "facebook": "https://facebook.com/leansystemshq"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Kyso",
+    "website": "https://linkedin.com/company/kyso-io",
+    "description": "Kyso gives you one-click data-science and machine-learning environments in the cloud.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/kyso_io",
+      "linkedin": "https://linkedin.com/company/kyso-io",
+      "facebook": "https://facebook.com/kyso.io"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "HomeRoom",
+    "website": "https://linkedin.com/company/homeroomclub",
+    "description": "Access platform-specific features and deliver delightfully unique community experiences",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fd3ekm1is4mpjmznid90",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/homeroom_club",
+      "linkedin": "https://linkedin.com/company/homeroomclub"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "GeoSpock",
+    "website": "https://linkedin.com/company/geospock-ltd-",
+    "description": "GeoSpock provides sub-second big data analysis tools to organisations ingesting billions or even trillions of data points per day.",
+    "location": "Cambridge, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Geospock",
+      "linkedin": "https://linkedin.com/company/geospock-ltd-",
+      "facebook": "https://facebook.com/GeoSpock"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "GamY",
+    "website": "https://linkedin.com/company/gamyworks",
+    "description": "Artificially intelligent battery management systems.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ni3jmj0rpwgjtvordokr",
+    "location": "Munich, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/gamyworks"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Eunimart",
+    "website": "https://linkedin.com/company/eunimartltd",
+    "description": "We unleash the full potential of global commerce by providing a one stop solution for businesses looking to sell anywhere across the globe",
+    "location": "Hyderabad, India",
+    "social_media": {
+      "twitter": "https://twitter.com/eunimartltd",
+      "linkedin": "https://linkedin.com/company/eunimartltd",
+      "facebook": "https://facebook.com/eunimartltd"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Dimensions",
+    "website": "https://linkedin.com/company/digitalscience-dimensions",
+    "description": "Mission Control for Product, Success, Support and everything in between. Free your teams from silos and make them feel superhuman.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/dimensions_cx",
+      "linkedin": "https://linkedin.com/company/digitalscience-dimensions",
+      "facebook": "https://facebook.com/DSDimensions"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Civin",
+    "website": "https://linkedin.com/company/civin",
+    "description": "The analytics platform for local government (coming soon).",
+    "location": "East Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/civin_co",
+      "linkedin": "https://linkedin.com/company/civin",
+      "facebook": "https://facebook.com/civindotco"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "BlazingDB",
+    "website": "https://linkedin.com/company/blazing",
+    "description": "A super-fast data science platform running on graphics cards (GPUs).",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/blazingdb",
+      "linkedin": "https://linkedin.com/company/blazing",
+      "facebook": "https://facebook.com/blazingdb/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "MeeteR",
+    "website": "https://linkedin.com/company/themeeterapp",
+    "description": "Delivering event management at scale.",
+    "location": "TYSONS, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/themeeterapp",
+      "linkedin": "https://linkedin.com/company/themeeterapp",
+      "facebook": "https://facebook.com/themeeterapp/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "CrowdSense",
+    "website": "https://linkedin.com/company/crowdsenseai",
+    "description": "NLP-based Intelligence as a Service Platform, that detects  breaking events, risks, and trends in real-time for risk management and business intelligence",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/Crowdsenseai",
+      "linkedin": "https://linkedin.com/company/crowdsenseai",
+      "facebook": "https://facebook.com/Crowdsenseai-2070664129695666/"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "Oystr Finance",
+    "website": "https://linkedin.com/company/oystr-finance-ltd",
+    "description": "Alternative financial data infrastructure for Africa",
+    "location": "Lekki, Nigeria",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oystr-finance-ltd"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  },
+  {
+    "name": "accelEQ",
+    "website": "https://linkedin.com/company/acceleqinc",
+    "description": "For healthcare professionals tackling documentation challenges, accel-EQ transforms efficiency with AI, freeing up time to focus more on patients and alleviating burnout.",
+    "location": "Tampa, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/acceleqinc"
+    },
+    "industry": "Big Data",
+    "industry_slug": "big-data"
+  }
+]

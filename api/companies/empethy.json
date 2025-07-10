@@ -1,0 +1,23 @@
+{
+  "name": "Empethy",
+  "slug": "empethy",
+  "website": "https://empethy.it/",
+  "description": "End-to-end platform that is changing the way people find, choose and adopt a pet.",
+  "one_liner": "End-to-end platform that is changing the way people find, choose and adopt a pet.",
+  "location": "Napoli, Italy",
+  "industry": "Pet tech",
+  "industry_slug": "pet-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/empethy",
+    "facebook": "https://facebook.com/empethylive"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/empethy",
+  "api": "/api/companies/empethy.json"
+}

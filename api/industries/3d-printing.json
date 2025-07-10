@@ -1,0 +1,315 @@
+[
+  {
+    "name": "Castor",
+    "website": "https://3dcastor.com/",
+    "description": "The first intelligent 3D printing software for manufacturing",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/Castor86786352",
+      "linkedin": "https://linkedin.com/company/ciwit-b-v-",
+      "facebook": "https://facebook.com/3DCastor/"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "Open Bionics",
+    "website": "https://openbionics.com/",
+    "description": "Award winning robotics company producing low-cost bionic body parts for amputees.",
+    "location": "Bristol, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/openbionics",
+      "linkedin": "https://linkedin.com/company/openbionics",
+      "facebook": "https://facebook.com/openbionicsltd"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "Equipment Connect",
+    "website": "https://equipmentconnect.co.uk/",
+    "description": "equipal is the online platform for fast and affordable equipment finance.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Equip_Connect",
+      "linkedin": "https://linkedin.com/company/equipaluk",
+      "facebook": "https://facebook.com/equipaluk"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "Bild Corp",
+    "website": "https://bild-engineering.io/",
+    "description": "Bild is an AI agent for CAD that helps medical device companies with their regulatory documentation.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bild-engineering"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "Korall Engineering",
+    "website": "https://korall.io/",
+    "description": "AI to automate product design workflows and optimize parts for additive manufacturing.",
+    "location": "Bergen, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/korall-engineering-as"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "InStryde",
+    "website": "https://instryde.com/",
+    "description": "inStryde - Superpowering human movement.\n\nTo view the company one-page summary click here -  https://app.buildmemo.com/s/by2rv_",
+    "location": "Winston-Salem, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/instryde_",
+      "linkedin": "https://linkedin.com/company/68964026",
+      "facebook": "https://facebook.com/inStryde"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "OptiFab Technologies",
+    "website": "https://opti-fab.com/",
+    "description": "OptiFab uses AI-driven solutions to eliminate repetitive tasks in manufacturing, reducing human errors and ensuring faster, smarter and more efficient production.",
+    "location": "Kitchener, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/optifab-technologies-inc"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "CICLA 3D",
+    "website": "https://cicla3dshop.com/",
+    "description": "At CICLA we develop and produce advanced composites materials for 3D printers.",
+    "location": "Tampa, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/35689986"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "MODICA",
+    "website": "https://madebymodica.com/",
+    "description": "Self-organizing, super-scalable Factory-as-a-Service modules, deployed anywhere.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/madebyMODICA",
+      "linkedin": "https://linkedin.com/company/modica",
+      "facebook": "https://facebook.com/modicamicroindustries/"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "BioGrip",
+    "website": "https://smart.biogrip.tech/",
+    "description": "Biogrip: Bionic-Ai powered artificial limbs",
+    "location": "Mexico City, Federal District, Mexico",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/biogrip-tech"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "Les Aimants",
+    "website": "https://les-aimants.com/",
+    "description": "Our bridal brand and retail solution eases the shopping experience by using 3D fitting and industrializing the manufacturing of wedding gowns. This solves timeline, customization, and alteration problems, making the process more efficient for the bride.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/les-aimantsbridal",
+      "facebook": "https://facebook.com/lesaimantsbridal/"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "Fieldmade",
+    "website": "https://fieldmade.no/",
+    "description": "Innovate solutions to complex problems based on cutting edge AM technology and software solutions for deployed military use",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nxb9jj2qkfqnas3ausf0",
+    "location": "Oslo, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/fieldmade",
+      "facebook": "https://facebook.com/FieldMade3d/"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "Solideon",
+    "website": "https://solideon.com/",
+    "description": "The company facilitates use of additive manufacturing system, a machine-learning collaborative system.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rvyqaeriunuqfjqw8tch",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SolideonUSA",
+      "linkedin": "https://linkedin.com/company/solideonusa"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "Canopy Aerospace",
+    "website": "https://canopyaerospace.com/",
+    "description": "Thermal protection systems including heat shields for emerging space and hypersonic industries",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/asrxyvzs1461hlgz2mkc",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/canopyaerospace"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "Vessl Prosthetics",
+    "website": "https://vesslpro.com/",
+    "description": "Vessl Prosthetics is a prosthetics firm that is driven by the idea of empowering amputees and their champions to overcome challenges.",
+    "location": "Ilderton, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/vessl-prosthetics",
+      "facebook": "https://facebook.com/VesslProsthetics"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "VXB Aerospace",
+    "website": "https://vxbaerospace.com/",
+    "description": "Breakthrough space systems enhanced by evolutionary AI.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mmnubfjtuhozf6xtn5rq",
+    "location": "Eveleigh, New South Wales, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/vxb-aerospace"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "Kwambio",
+    "website": "https://kwambio.com/",
+    "description": "3D printed ceramics on-demand from scratch to finished product",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/kwambioNY",
+      "linkedin": "https://linkedin.com/company/kwambio",
+      "facebook": "https://facebook.com/pages/Kwambio/750543558339059"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "Carpe Mañana",
+    "website": "https://mayahueltec.com/",
+    "description": "Carpe Manana creates a proprietary bio plastic, PLAgave, using agave fibers from mezcal production, and our process helps clean the land and rivers of Oaxaca, for future generations.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/aaron-robinson-carpe-manana-inc",
+      "facebook": "https://facebook.com/mayahueltecoaxaca/"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "Womp",
+    "website": "https://womp.xyz/",
+    "description": "All- in-one platform for generating and manufacturing 3D files",
+    "location": "Newark, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wompxyz",
+      "linkedin": "https://linkedin.com/company/womp3d",
+      "facebook": "https://facebook.com/wompxyz/"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "Craitor",
+    "website": "https://manufactureanywhere.com/",
+    "description": "Working to revolutionize the DoD and austere industry supply chains through our expeditionary 3D printer; a rugged, portable, intelligent system designed in collaboration with our warfighters, that can manufacture military-grade parts anywhere.",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/craitor",
+      "facebook": "https://facebook.com/craitorinc/"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "Gildform",
+    "website": "https://gildform.com/",
+    "description": "Gildform is an on-demand jewelry manufacturing company.",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gildform",
+      "linkedin": "https://linkedin.com/company/gildform",
+      "facebook": "https://facebook.com/gildform/"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "NIX AIR SOLUTIONS",
+    "website": "https://nix-iot.com/",
+    "location": "Avignon, France",
+    "social_media": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/company/nix-air-solutions"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "Humankind Homes",
+    "website": "https://humankindhomes.com/",
+    "description": "HumanKind Homes is a design-build construction technology company.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/blqkebxdbmfalynuyxoo",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/humankindhomes"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "Cadly",
+    "website": "https://cadly.ai/",
+    "description": "Cultivating creativity through community.",
+    "location": "Powder Springs, Georgia, United States",
+    "social_media": {},
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "Inklocker",
+    "website": "https://linkedin.com/company/inklocker",
+    "description": "Inklocker is the AWS for custom-manufacturing providing a decentralized global network of on-demand manufactures.",
+    "location": "Costa Mesa, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/myinklocker",
+      "linkedin": "https://linkedin.com/company/inklocker",
+      "facebook": "https://facebook.com/myinklocker"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  },
+  {
+    "name": "MetalMaker 3D",
+    "website": "https://linkedin.com/company/metalmaker-3d",
+    "description": "We are using 3D printing to change the way metal parts are made.",
+    "location": "Hartford, Connecticut, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/metalmaker-3d"
+    },
+    "industry": "3D printing",
+    "industry_slug": "3d-printing"
+  }
+]

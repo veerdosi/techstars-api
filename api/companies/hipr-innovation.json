@@ -1,0 +1,22 @@
+{
+  "name": "HiPR Innovation",
+  "slug": "hipr-innovation",
+  "website": "https://hipr.io/",
+  "description": "HiPR innovates pressure ulcer prevention solutions.",
+  "one_liner": "HiPR innovates pressure ulcer prevention solutions.",
+  "location": "Laredo, Texas, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gkpdjpwivkwbszrwhm3l",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/hipr-innovation-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hipr-innovation",
+  "api": "/api/companies/hipr-innovation.json"
+}

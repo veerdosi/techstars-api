@@ -1,0 +1,23 @@
+{
+  "name": "Carbontribe Labs",
+  "slug": "carbontribe-labs",
+  "website": "https://carbontribe.me/",
+  "description": "ReFi, Computer Vision MRV, Satellite x Machine Learning, Mangrove, Carbon Credit",
+  "one_liner": "ReFi, Computer Vision MRV, Satellite x Machine Learning, Mangrove, Carbon Credit",
+  "location": "Berlin, Germany",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/awsoglgeqpldi0plhn23",
+  "social_media": {
+    "twitter": "https://twitter.com/Carbontribeme",
+    "linkedin": "https://linkedin.com/company/carbontribe"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/carbontribe-labs",
+  "api": "/api/companies/carbontribe-labs.json"
+}

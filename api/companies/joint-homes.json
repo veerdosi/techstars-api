@@ -1,0 +1,24 @@
+{
+  "name": "Joint Homes",
+  "slug": "joint-homes",
+  "website": "https://jointhomes.com/",
+  "description": "The first national Housing-as-a-Service platform, focused on serving the military community, enabling our members to turn their rent into wealth.",
+  "one_liner": "The first national Housing-as-a-Service platform, focused on serving the military community, enabling our members to turn their rent into wealth.",
+  "location": "Alexandria, Virginia, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/joint_homes",
+    "linkedin": "https://linkedin.com/company/joint-homes",
+    "facebook": "https://facebook.com/Joint-102405178061577"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/joint-homes",
+  "api": "/api/companies/joint-homes.json"
+}

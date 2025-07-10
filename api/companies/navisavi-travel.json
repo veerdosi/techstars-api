@@ -1,0 +1,24 @@
+{
+  "name": "NaviSavi Travel",
+  "slug": "navisavi-travel",
+  "website": "https://navisaviapp.com/",
+  "description": "Discover, book and share your travel experiences through short videos.",
+  "one_liner": "Discover, book and share your travel experiences through short videos.",
+  "location": "Oxford, Nebraska, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/navisavitravel",
+    "linkedin": "https://linkedin.com/company/navisaviapp",
+    "facebook": "https://facebook.com/navisavitravel/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/navisavi-travel",
+  "api": "/api/companies/navisavi-travel.json"
+}

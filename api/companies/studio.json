@@ -1,0 +1,24 @@
+{
+  "name": "Studio",
+  "slug": "studio",
+  "website": "https://linkedin.com/company/studio-official",
+  "description": "Studio is an online audio and media company that offers online training to cultivate the creative side in the field of music.",
+  "one_liner": "Studio is an online audio and media company that offers online training to cultivate the creative side in the field of music.",
+  "location": "New York City, New York, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/wearestudio",
+    "linkedin": "https://linkedin.com/company/studio-official",
+    "facebook": "https://facebook.com/Studio/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/studio",
+  "api": "/api/companies/studio.json"
+}

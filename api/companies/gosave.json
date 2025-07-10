@@ -1,0 +1,24 @@
+{
+  "name": "GoSave",
+  "slug": "gosave",
+  "website": "https://gosavehq.com/",
+  "description": "GoSave: next generation piggy banks. We build digital piggy banks that make saving and chores fun.",
+  "one_liner": "GoSave: next generation piggy banks. We build digital piggy banks that make saving and chores fun.",
+  "location": "Brisbane, Queensland, Australia",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/gosavers",
+    "linkedin": "https://linkedin.com/company/gosaveinc",
+    "facebook": "https://facebook.com/gosavehq/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gosave",
+  "api": "/api/companies/gosave.json"
+}

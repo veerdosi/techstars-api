@@ -1,0 +1,24 @@
+{
+  "name": "Educative",
+  "slug": "educative",
+  "website": "https://educative.io/",
+  "description": "Educative provides interactive & adaptive courses for professional software developers with pre-provisioned cloud-based training environments.",
+  "one_liner": "Educative provides interactive & adaptive courses for professional software developers with pre-provisioned cloud-based training environments.",
+  "location": "Bellevue, Washington, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/educativeinc",
+    "linkedin": "https://linkedin.com/company/educative-inc",
+    "facebook": "https://facebook.com/educativeinc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/educative",
+  "api": "/api/companies/educative.json"
+}

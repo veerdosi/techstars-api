@@ -1,0 +1,23 @@
+{
+  "name": "BRAIQ",
+  "slug": "braiq",
+  "website": "https://linkedin.com/company/10806942",
+  "description": "Braiq personalizes the ride experience in autonomous vehicles by teaching artificial intelligence how to better read human emotions.",
+  "one_liner": "Braiq personalizes the ride experience in autonomous vehicles by teaching artificial intelligence how to better read human emotions.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/BraiqInc",
+    "linkedin": "https://linkedin.com/company/10806942"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/braiq",
+  "api": "/api/companies/braiq.json"
+}

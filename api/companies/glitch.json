@@ -1,0 +1,20 @@
+{
+  "name": "Glitch",
+  "slug": "glitch",
+  "website": "https://glitch.fun/",
+  "description": "Glitch is performance-based influencer marketing platform specifically for gaming in which gaming publishers pay creators to play and promote their games.",
+  "one_liner": "Glitch is performance-based influencer marketing platform specifically for gaming in which gaming publishers pay creators to play and promote their games.",
+  "location": "Roswell, Georgia, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/glitch",
+  "api": "/api/companies/glitch.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Union Crate",
+  "slug": "union-crate",
+  "website": "https://linkedin.com/company/union-crate",
+  "description": "Union Crate makes it easy for grocers to sell more, stock smarter and promote effectively.",
+  "one_liner": "Union Crate makes it easy for grocers to sell more, stock smarter and promote effectively.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/unioncrate",
+    "linkedin": "https://linkedin.com/company/union-crate",
+    "facebook": "https://facebook.com/Unioncrate-108982357295081/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/union-crate",
+  "api": "/api/companies/union-crate.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Healthy Hip Hop",
+  "slug": "healthy-hip-hop",
+  "website": "https://healthy.hiphop/",
+  "description": "Healthy Hip Hop is an online platform powered by the arts and social interaction. The \"Sesame Street of the 21st Century\".",
+  "one_liner": "Healthy Hip Hop is an online platform powered by the arts and social interaction. The \"Sesame Street of the 21st Century\".",
+  "location": "Kansas City, Missouri, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/healthy_hip_hop",
+    "linkedin": "https://linkedin.com/company/healthy-hip-hop",
+    "facebook": "https://facebook.com/healthyhiphop"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/healthy-hip-hop",
+  "api": "/api/companies/healthy-hip-hop.json"
+}

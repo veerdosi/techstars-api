@@ -1,0 +1,24 @@
+{
+  "name": "Star Kitchens Group",
+  "slug": "star-kitchens-group",
+  "website": "https://orda.africa/",
+  "description": "Orda is a \"cloud-based\" restaurant operating system built for African chefs and food business owners",
+  "one_liner": "Orda is a \"cloud-based\" restaurant operating system built for African chefs and food business owners",
+  "location": "Walnut, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/orda_africa",
+    "linkedin": "https://linkedin.com/company/orda-africa",
+    "facebook": "https://facebook.com/orda.africa"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/star-kitchens-group",
+  "api": "/api/companies/star-kitchens-group.json"
+}

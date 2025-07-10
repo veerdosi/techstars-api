@@ -1,0 +1,22 @@
+{
+  "name": "Silico Data",
+  "slug": "silico-data",
+  "website": "https://silicodata.com/",
+  "description": "Automate and digitize pharmaceutical companies' FDA required work.",
+  "one_liner": "Automate and digitize pharmaceutical companies' FDA required work.",
+  "location": "San Jose, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/s33wqxokl1vjrbrk7fjw",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/silico-data-services"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/silico-data",
+  "api": "/api/companies/silico-data.json"
+}

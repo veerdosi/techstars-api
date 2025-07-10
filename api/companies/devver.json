@@ -1,0 +1,23 @@
+{
+  "name": "Devver",
+  "slug": "devver",
+  "website": "https://linkedin.com/company/devver-inc.",
+  "description": "Ruby testing tools",
+  "one_liner": "Ruby testing tools",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/devver",
+    "linkedin": "https://linkedin.com/company/devver-inc."
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/devver",
+  "api": "/api/companies/devver.json"
+}

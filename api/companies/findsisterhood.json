@@ -1,0 +1,24 @@
+{
+  "name": "findSisterhood",
+  "slug": "findsisterhood",
+  "website": "https://linkedin.com/company/findsisterhood",
+  "description": "findSisterhood is an anonymous social network for women.",
+  "one_liner": "findSisterhood is an anonymous social network for women.",
+  "location": "Santa Monica, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/fsisterhoodapp",
+    "linkedin": "https://linkedin.com/company/findsisterhood",
+    "facebook": "https://facebook.com/FindSisterhood"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/findsisterhood",
+  "api": "/api/companies/findsisterhood.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Crosscourt",
+  "slug": "crosscourt",
+  "website": "https://cross-court.com/",
+  "description": "Crosscourt is a state-of-the-art performance club designed to help ballers build connections, spark competition and inspire creativity through curated basketball inspired experiences",
+  "one_liner": "Crosscourt is a state-of-the-art performance club designed to help ballers build connections, spark competition and inspire creativity through curated basketball inspired experiences",
+  "location": "Los Angeles, California, United States",
+  "industry": "Beauty",
+  "industry_slug": "beauty",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/CrosscourtLA",
+    "linkedin": "https://linkedin.com/company/crosscourt",
+    "facebook": "https://facebook.com/crosscourtball/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/crosscourt",
+  "api": "/api/companies/crosscourt.json"
+}

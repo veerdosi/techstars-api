@@ -1,0 +1,24 @@
+{
+  "name": "Localytics",
+  "slug": "localytics",
+  "website": "https://localytics.com/",
+  "description": "Analytics and marketing platform for mobile and web apps",
+  "one_liner": "Analytics and marketing platform for mobile and web apps",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Localytics",
+    "linkedin": "https://linkedin.com/company/1148792",
+    "facebook": "https://facebook.com/Localytics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/localytics",
+  "api": "/api/companies/localytics.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Kuadra",
+  "slug": "kuadra",
+  "website": "https://kuadra.com.co/",
+  "description": "Kuadra is the platform that has everything your business needs so that you can manage it easily and efficiently from anywhere and at any time.",
+  "one_liner": "Kuadra is the platform that has everything your business needs so that you can manage it easily and efficiently from anywhere and at any time.",
+  "location": "Coral Springs, Florida, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/kuadralatam",
+    "facebook": "https://facebook.com/kuadralatam"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kuadra",
+  "api": "/api/companies/kuadra.json"
+}

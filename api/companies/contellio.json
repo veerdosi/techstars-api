@@ -1,0 +1,24 @@
+{
+  "name": "Contellio",
+  "slug": "contellio",
+  "website": "https://linkedin.com/company/10051020?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId%3A2592863651467320724097%2CVSRPtargetId%3A10051020%2CVSRPcmpt%3Aprimary",
+  "description": "Companies use Contellio to create stunning marketing designs that sell.",
+  "one_liner": "Companies use Contellio to create stunning marketing designs that sell.",
+  "location": "London, United Kingdom",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/contellio",
+    "linkedin": "https://linkedin.com/company/10051020?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId%3A2592863651467320724097%2CVSRPtargetId%3A10051020%2CVSRPcmpt%3Aprimary",
+    "facebook": "https://facebook.com/contellio"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/contellio",
+  "api": "/api/companies/contellio.json"
+}

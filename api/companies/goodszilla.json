@@ -1,0 +1,24 @@
+{
+  "name": "Goodszilla",
+  "slug": "goodszilla",
+  "website": "https://goodszilla.ca/",
+  "description": "Goodszilla is a fintech company revolutionizing how businesses integrate social impact into their payment processes.",
+  "one_liner": "Goodszilla is a fintech company revolutionizing how businesses integrate social impact into their payment processes.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Goodszillapp",
+    "linkedin": "https://linkedin.com/company/goodszilla",
+    "facebook": "https://facebook.com/Goodszilla-App-103528294916009"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/goodszilla",
+  "api": "/api/companies/goodszilla.json"
+}

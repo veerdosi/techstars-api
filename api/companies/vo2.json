@@ -1,0 +1,24 @@
+{
+  "name": "VO2",
+  "slug": "vo2",
+  "website": "https://vo2.fans/",
+  "description": "VO2 is a platform that uses athlete tokens to better engage fans by offering gated experiences, opportunities, and rewards for token holders.",
+  "one_liner": "VO2 is a platform that uses athlete tokens to better engage fans by offering gated experiences, opportunities, and rewards for token holders.",
+  "location": "Philadelphia, Pennsylvania, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/vo2_fans",
+    "linkedin": "https://linkedin.com/company/vo-two",
+    "facebook": "https://facebook.com/vo2fans"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vo2",
+  "api": "/api/companies/vo2.json"
+}

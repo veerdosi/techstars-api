@@ -1,0 +1,24 @@
+{
+  "name": "PadSplit",
+  "slug": "padsplit",
+  "website": "https://padsplit.com/",
+  "description": "PadSplit is creating a world-class marketplace that provides the fastest and most effective solutions for the affordable housing crisis.",
+  "one_liner": "PadSplit is creating a world-class marketplace that provides the fastest and most effective solutions for the affordable housing crisis.",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Real estate tech",
+  "industry_slug": "real-estate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/padsplit",
+    "linkedin": "https://linkedin.com/company/padsplit",
+    "facebook": "https://facebook.com/PadSplit/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/padsplit",
+  "api": "/api/companies/padsplit.json"
+}

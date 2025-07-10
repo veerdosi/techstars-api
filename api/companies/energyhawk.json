@@ -1,0 +1,24 @@
+{
+  "name": "EnergyHawk",
+  "slug": "energyhawk",
+  "website": "https://energyhawk.co/",
+  "description": "Satellite Powered Energy Assessments, designed to accelerate the growth of distributed energy solutions.",
+  "one_liner": "Satellite Powered Energy Assessments, designed to accelerate the growth of distributed energy solutions.",
+  "location": "Somerville, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/EnergyHawk",
+    "linkedin": "https://linkedin.com/company/energyhawkinc",
+    "facebook": "https://facebook.com/EnergyHawkInc/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/energyhawk",
+  "api": "/api/companies/energyhawk.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Gimme Media",
+  "slug": "gimme-media",
+  "website": "https://gimmeradio.com/",
+  "description": "Building Highly Engaged Communities for the Passionate Fan",
+  "one_liner": "Building Highly Engaged Communities for the Passionate Fan",
+  "location": "San Francisco, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/gimmeradio",
+    "linkedin": "https://linkedin.com/company/gimmeradio",
+    "facebook": "https://facebook.com/gimmemetal"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gimme-media",
+  "api": "/api/companies/gimme-media.json"
+}

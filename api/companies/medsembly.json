@@ -1,0 +1,24 @@
+{
+  "name": "Medsembly",
+  "slug": "medsembly",
+  "website": "https://medsembly.com/",
+  "description": "Medsembly bridges the gap between healthcare hopefuls and healthcare heroes",
+  "one_liner": "Medsembly bridges the gap between healthcare hopefuls and healthcare heroes",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ioqjkuqv7ffynslbkalv",
+  "social_media": {
+    "twitter": "https://twitter.com/medsembly",
+    "linkedin": "https://linkedin.com/company/medsembly",
+    "facebook": "https://facebook.com/medsembly"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/medsembly",
+  "api": "/api/companies/medsembly.json"
+}

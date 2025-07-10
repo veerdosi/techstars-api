@@ -1,0 +1,24 @@
+{
+  "name": "Data Everywhere",
+  "slug": "data-everywhere",
+  "website": "https://linkedin.com/company/3530070",
+  "description": "Share data securely between spreadsheets",
+  "one_liner": "Share data securely between spreadsheets",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/dataeverywhere",
+    "linkedin": "https://linkedin.com/company/3530070",
+    "facebook": "https://facebook.com/dataeverywhere"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/data-everywhere",
+  "api": "/api/companies/data-everywhere.json"
+}

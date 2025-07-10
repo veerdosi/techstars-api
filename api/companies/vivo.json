@@ -1,0 +1,24 @@
+{
+  "name": "Vivo",
+  "slug": "vivo",
+  "website": "https://teamvivo.com/",
+  "description": "Vivo is an online, live & interactive clinical fitness program for adults 55 and older with a focus on increasing strength and function with measured outcomes.",
+  "one_liner": "Vivo is an online, live & interactive clinical fitness program for adults 55 and older with a focus on increasing strength and function with measured outcomes.",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/TeamVivoFitness",
+    "linkedin": "https://linkedin.com/company/vivo-enabling-national-networking-of-scientists",
+    "facebook": "https://facebook.com/teamvivo"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vivo",
+  "api": "/api/companies/vivo.json"
+}

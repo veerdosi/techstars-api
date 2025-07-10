@@ -1,0 +1,24 @@
+{
+  "name": "Bridgify",
+  "slug": "bridgify",
+  "website": "https://bridgify.io/",
+  "description": "Bridgify, bridges the gap between the hospitality industry and travelers with a white-label solution, delivering the guests a fully personalized trip itinerary, in order to generate ancillary revenue while improving travelers' experience.",
+  "one_liner": "Bridgify, bridges the gap between the hospitality industry and travelers with a white-label solution, delivering the guests a fully personalized trip itinerary, in order to generate ancillary revenue while improving travelers' experience.",
+  "location": "Tel Aviv, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/BridgifyTravel",
+    "linkedin": "https://linkedin.com/company/bridgifytravel",
+    "facebook": "https://facebook.com/Bridgify.Travel/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bridgify",
+  "api": "/api/companies/bridgify.json"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "DealAngel",
+  "slug": "dealangel",
+  "website": "https://dealangel.com/",
+  "description": "TripAdvisor for hotel prices",
+  "one_liner": "TripAdvisor for hotel prices",
+  "location": "San Francisco, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://pbs.twimg.com/profile_images/2241503155/DG_thumbnail_bigger.jpg",
+  "social_media": {
+    "twitter": "https://twitter.com/DealAngel",
+    "linkedin": "https://linkedin.com/company/dealangel",
+    "facebook": "https://facebook.com/DealAngels",
+    "angellist": "https://dealangel.com/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dealangel",
+  "api": "/api/companies/dealangel.json"
+}

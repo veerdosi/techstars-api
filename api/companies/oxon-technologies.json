@@ -1,0 +1,23 @@
+{
+  "name": "OXON Technologies",
+  "slug": "oxon-technologies",
+  "website": "https://oxon-tech.com/",
+  "description": "The Fuel Matrix helps ocean-going vessels reduce fuel consumption and emissions by improving conventional liquid fuels for more efficient, cleaner combustion.",
+  "one_liner": "The Fuel Matrix helps ocean-going vessels reduce fuel consumption and emissions by improving conventional liquid fuels for more efficient, cleaner combustion.",
+  "location": "Henderson, Nevada, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/oxon-tech-fuelmatrix",
+    "facebook": "https://facebook.com/Fuel-Matrix-842225212559146/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/oxon-technologies",
+  "api": "/api/companies/oxon-technologies.json"
+}

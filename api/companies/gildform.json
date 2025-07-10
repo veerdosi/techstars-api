@@ -1,0 +1,24 @@
+{
+  "name": "Gildform",
+  "slug": "gildform",
+  "website": "https://gildform.com/",
+  "description": "Gildform is an on-demand jewelry manufacturing company.",
+  "one_liner": "Gildform is an on-demand jewelry manufacturing company.",
+  "location": "Detroit, Michigan, United States",
+  "industry": "3D printing",
+  "industry_slug": "3d-printing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/gildform",
+    "linkedin": "https://linkedin.com/company/gildform",
+    "facebook": "https://facebook.com/gildform/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gildform",
+  "api": "/api/companies/gildform.json"
+}

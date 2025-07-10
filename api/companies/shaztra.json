@@ -1,0 +1,23 @@
+{
+  "name": "Shaztra",
+  "slug": "shaztra",
+  "website": "https://shaztra.ai/",
+  "description": "No-Code * AI-Powered * Smart UI Test Automation. Shaztra empowers software teams to easily build UI Test Automation using English.",
+  "one_liner": "No-Code * AI-Powered * Smart UI Test Automation. Shaztra empowers software teams to easily build UI Test Automation using English.",
+  "location": "Mountain View, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ShaztraAI",
+    "linkedin": "https://linkedin.com/company/shaztra"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/shaztra",
+  "api": "/api/companies/shaztra.json"
+}

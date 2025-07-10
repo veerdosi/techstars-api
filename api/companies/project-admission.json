@@ -1,0 +1,23 @@
+{
+  "name": "Project Admission",
+  "slug": "project-admission",
+  "website": "https://projectadmission.com/",
+  "description": "A software solution that integrates with ticketing platforms, Project Admission makes buying, transferring and reselling tickets simple, intuitive and effective.",
+  "one_liner": "A software solution that integrates with ticketing platforms, Project Admission makes buying, transferring and reselling tickets simple, intuitive and effective.",
+  "location": "Nashville, Tennessee, United States",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PAticketing",
+    "linkedin": "https://linkedin.com/company/project-admission"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/project-admission",
+  "api": "/api/companies/project-admission.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Sensible Object",
+  "slug": "sensible-object",
+  "website": "https://sensibleobject.com/",
+  "description": "Making games for a more connected world.",
+  "one_liner": "Making games for a more connected world.",
+  "location": "London, United Kingdom",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sensibleobject",
+    "linkedin": "https://linkedin.com/company/sensible-object",
+    "facebook": "https://facebook.com/sensibleobject/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sensible-object",
+  "api": "/api/companies/sensible-object.json"
+}

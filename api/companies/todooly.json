@@ -1,0 +1,24 @@
+{
+  "name": "Todooly",
+  "slug": "todooly",
+  "website": "https://linkedin.com/company/todoolie",
+  "description": "The easiest way to hire local students to help with outdoor tasks",
+  "one_liner": "The easiest way to hire local students to help with outdoor tasks",
+  "location": "Detroit, Michigan, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/todoolie",
+    "linkedin": "https://linkedin.com/company/todoolie",
+    "facebook": "https://facebook.com/ToDooly"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/todooly",
+  "api": "/api/companies/todooly.json"
+}

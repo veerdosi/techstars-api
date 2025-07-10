@@ -1,0 +1,24 @@
+{
+  "name": "Saara",
+  "slug": "saara",
+  "website": "https://saara.io/",
+  "description": "Saara helps ecommerce businesses reduce, automate and monetize returns.",
+  "one_liner": "Saara helps ecommerce businesses reduce, automate and monetize returns.",
+  "location": "Bengaluru, Karnataka, India",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Saara_inc",
+    "linkedin": "https://linkedin.com/company/saara-inc",
+    "facebook": "https://facebook.com/SaaraInc/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/saara",
+  "api": "/api/companies/saara.json"
+}

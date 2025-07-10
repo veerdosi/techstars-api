@@ -1,0 +1,22 @@
+{
+  "name": "Early Intervention Systems",
+  "slug": "early-intervention-systems",
+  "website": "https://earlyinterventionsystems.com/",
+  "description": "Well-being software to improve caregiver workflows and elder negative outcomes in AL and memory care communities.",
+  "one_liner": "Well-being software to improve caregiver workflows and elder negative outcomes in AL and memory care communities.",
+  "location": "Monmouth Junction, New Jersey, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/early-intervention-systems"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/early-intervention-systems",
+  "api": "/api/companies/early-intervention-systems.json"
+}

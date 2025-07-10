@@ -1,0 +1,22 @@
+{
+  "name": "Jaipur Robotics",
+  "slug": "jaipur-robotics",
+  "website": "https://jaipurrobotics.com/",
+  "description": "Jaipur Robotics is building Europe's #1 AI-powered waste recognition and sorting solution for recycling and energy recovery.",
+  "one_liner": "Jaipur Robotics is building Europe's #1 AI-powered waste recognition and sorting solution for recycling and energy recovery.",
+  "location": "Manno, Switzerland",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/jaipurrobotics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/jaipur-robotics",
+  "api": "/api/companies/jaipur-robotics.json"
+}

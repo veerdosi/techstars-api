@@ -1,0 +1,24 @@
+{
+  "name": "Invio",
+  "slug": "invio",
+  "website": "https://linkedin.com/company/10651199",
+  "description": "Cloud-based automation for clinical trial operations",
+  "one_liner": "Cloud-based automation for clinical trial operations",
+  "location": "Seattle, Washington, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/invioinc",
+    "linkedin": "https://linkedin.com/company/10651199",
+    "facebook": "https://facebook.com/invioincorporated"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/invio",
+  "api": "/api/companies/invio.json"
+}

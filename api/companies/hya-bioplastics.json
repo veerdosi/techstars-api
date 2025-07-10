@@ -1,0 +1,24 @@
+{
+  "name": "Hya Bioplastics",
+  "slug": "hya-bioplastics",
+  "website": "https://hyabioplastics.com/",
+  "description": "Hya Bioplastics makes cost-competitive biodegradable food packaging using its proprietary decentralized manufacturing technology.",
+  "one_liner": "Hya Bioplastics makes cost-competitive biodegradable food packaging using its proprietary decentralized manufacturing technology.",
+  "location": "Kampala, Uganda",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hyabioplastics",
+    "linkedin": "https://linkedin.com/company/hya-bioplastics",
+    "facebook": "https://facebook.com/hyabioplastics/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hya-bioplastics",
+  "api": "/api/companies/hya-bioplastics.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Chord",
+  "slug": "chord",
+  "website": "https://linkedin.com/company/try-chord-now",
+  "description": "Help poor and middle class people build their wealth the way that wealthy people already do.",
+  "one_liner": "Help poor and middle class people build their wealth the way that wealthy people already do.",
+  "location": "Washington, District of Columbia, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/melissapegus",
+    "linkedin": "https://linkedin.com/company/try-chord-now",
+    "facebook": "https://facebook.com/tryCHORDnow"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/chord",
+  "api": "/api/companies/chord.json"
+}

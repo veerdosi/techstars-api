@@ -1,0 +1,24 @@
+{
+  "name": "Mast Reforestation",
+  "slug": "mast-reforestation",
+  "website": "https://mastreforest.com/",
+  "description": "Making reforestation scalable.",
+  "one_liner": "Making reforestation scalable.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/giffett3baesbxlopusv",
+  "social_media": {
+    "twitter": "https://twitter.com/mastreforest",
+    "linkedin": "https://linkedin.com/company/mast-reforest",
+    "facebook": "https://facebook.com/mast.reforest/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mast-reforestation",
+  "api": "/api/companies/mast-reforestation.json"
+}

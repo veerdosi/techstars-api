@@ -1,0 +1,24 @@
+{
+  "name": "Arch Finance",
+  "slug": "arch-finance",
+  "website": "https://archfinance.com.au/",
+  "description": "Arch Finance is a financial company that offers real estate mortgage services.",
+  "one_liner": "Arch Finance is a financial company that offers real estate mortgage services.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/archdefi",
+    "linkedin": "https://linkedin.com/company/archfinance",
+    "facebook": "https://facebook.com/Archfinance"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/arch-finance",
+  "api": "/api/companies/arch-finance.json"
+}

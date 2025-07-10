@@ -1,0 +1,23 @@
+{
+  "name": "Reeler",
+  "slug": "reeler",
+  "website": "https://reelertech.com/",
+  "description": "UGC (user-generated content) marketing enterprise SaaS platform",
+  "one_liner": "UGC (user-generated content) marketing enterprise SaaS platform",
+  "location": "Stockholm, Sweden",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/reelertech",
+    "facebook": "https://facebook.com/reelertech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/reeler",
+  "api": "/api/companies/reeler.json"
+}

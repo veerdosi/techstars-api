@@ -1,0 +1,24 @@
+{
+  "name": "DeltaGenAI",
+  "slug": "deltagenai",
+  "website": "https://deltagen.ai/",
+  "description": "DeltaGen transforms AI from a complex tool for the elite into an accessible, powerful asset for employees at all levels. Our enterprise AI platform eliminates the need for prompting and coding, delivering tailored results seamlessly. Key features include LinkedIn integration, role-specific workflows, and multi-model capabilities, all secured with top-tier data privacy. Join us in redefining AI usability and driving widespread adoption.",
+  "one_liner": "DeltaGen transforms AI from a complex tool for the elite into an accessible, powerful asset for employees at all levels. Our enterprise AI platform eliminates the need for prompting and coding, delivering tailored results seamlessly. Key features include LinkedIn integration, role-specific workflows, and multi-model capabilities, all secured with top-tier data privacy. Join us in redefining AI usability and driving widespread adoption.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ailamoapp",
+    "linkedin": "https://linkedin.com/company/deltagenai",
+    "facebook": "https://facebook.com/ailamoapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/deltagenai",
+  "api": "/api/companies/deltagenai.json"
+}

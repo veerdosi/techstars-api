@@ -1,0 +1,23 @@
+{
+  "name": "dolaGon",
+  "slug": "dolagon",
+  "website": "https://dolagon.com/",
+  "description": "Autonomous off road vehicles.",
+  "one_liner": "Autonomous off road vehicles.",
+  "location": "Rye, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/dolagon-autonomous",
+    "facebook": "https://facebook.com/profile.php"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dolagon",
+  "api": "/api/companies/dolagon.json"
+}

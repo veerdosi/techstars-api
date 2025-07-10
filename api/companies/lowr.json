@@ -1,0 +1,22 @@
+{
+  "name": "LOWR",
+  "slug": "lowr",
+  "website": "https://lowr.co/",
+  "description": "Lowr captures fan and employee emission data and leverages behavior change technology to help organizations achieve a reduction in their overall carbon footprint.",
+  "one_liner": "Lowr captures fan and employee emission data and leverages behavior change technology to help organizations achieve a reduction in their overall carbon footprint.",
+  "location": "London, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/uwrgggsv6ampamgizxpz",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/lowr"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lowr",
+  "api": "/api/companies/lowr.json"
+}

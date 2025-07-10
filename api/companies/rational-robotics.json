@@ -1,0 +1,23 @@
+{
+  "name": "Rational Robotics",
+  "slug": "rational-robotics",
+  "website": "https://linkedin.com/company/5854899",
+  "description": "Smart robots with vision systems that paint things automatically.",
+  "one_liner": "Smart robots with vision systems that paint things automatically.",
+  "location": "San Diego, California, United States",
+  "industry": "Robotics and Drones",
+  "industry_slug": "robotics-drones",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/paintrobot",
+    "linkedin": "https://linkedin.com/company/5854899"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rational-robotics",
+  "api": "/api/companies/rational-robotics.json"
+}

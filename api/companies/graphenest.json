@@ -1,0 +1,24 @@
+{
+  "name": "Graphenest",
+  "slug": "graphenest",
+  "website": "https://graphenest.com/",
+  "description": "Graphenest provides a two order of magnitude cost reduction in manufacture of graphene, a wonder material that enables high-performance materials",
+  "one_liner": "Graphenest provides a two order of magnitude cost reduction in manufacture of graphene, a wonder material that enables high-performance materials",
+  "location": "Sever do Vouga, Portugal",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/graphenest",
+    "linkedin": "https://linkedin.com/company/graphenest---advanced-nanotechnology",
+    "facebook": "https://facebook.com/graphenest"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/graphenest",
+  "api": "/api/companies/graphenest.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Engagespot",
+  "slug": "engagespot",
+  "website": "https://engagespot.co/",
+  "description": "Engagespot's infrastructure as a service helps developers quickly build highly scalable and customizable multi-channel notification experiences.",
+  "one_liner": "Engagespot's infrastructure as a service helps developers quickly build highly scalable and customizable multi-channel notification experiences.",
+  "location": "New York City, Delaware, United States",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/engagespot",
+    "linkedin": "https://linkedin.com/company/engagespot-co",
+    "facebook": "https://facebook.com/engagespot/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/engagespot",
+  "api": "/api/companies/engagespot.json"
+}

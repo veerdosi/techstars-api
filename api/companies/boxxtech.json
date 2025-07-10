@@ -1,0 +1,23 @@
+{
+  "name": "boxxtech",
+  "slug": "boxxtech",
+  "website": "https://boxxtech.ai/",
+  "description": "AI verification vending machine.",
+  "one_liner": "AI verification vending machine.",
+  "location": "Scottsdale, Arizona, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/boxxtech",
+    "facebook": "https://facebook.com/ezvendingmachines"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/boxxtech",
+  "api": "/api/companies/boxxtech.json"
+}

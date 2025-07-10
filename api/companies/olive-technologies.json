@@ -1,0 +1,24 @@
+{
+  "name": "Olive Technologies",
+  "slug": "olive-technologies",
+  "website": "https://olive.gives/",
+  "description": "Helping users round up their digital spare change and donate to non-profits, automatically",
+  "one_liner": "Helping users round up their digital spare change and donate to non-profits, automatically",
+  "location": "Vancouver, British Columbia, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/oliveapphq",
+    "linkedin": "https://linkedin.com/company/olive-gives",
+    "facebook": "https://facebook.com/olivegives/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/olive-technologies",
+  "api": "/api/companies/olive-technologies.json"
+}

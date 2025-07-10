@@ -1,0 +1,23 @@
+{
+  "name": "OB2 AI",
+  "slug": "ob2-ai",
+  "website": "https://ob2.ai/",
+  "description": "OB2.AI, founded by former Cisco FedRAMP security engineers, provides OpsBeacon XSIAM, an extended security intelligence and automation management platform that gives businesses clear visibility and control over their IT infrastructure. Using AI and automation, it quickly analyzes large amounts of data from servers, devices, and networks and responds to cyber threats in seconds.",
+  "one_liner": "OB2.AI, founded by former Cisco FedRAMP security engineers, provides OpsBeacon XSIAM, an extended security intelligence and automation management platform that gives businesses clear visibility and control over their IT infrastructure. Using AI and automation, it quickly analyzes large amounts of data from servers, devices, and networks and responds to cyber threats in seconds.",
+  "location": "Wilmington, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/opsbeacon",
+    "linkedin": "https://linkedin.com/company/ob2ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ob2-ai",
+  "api": "/api/companies/ob2-ai.json"
+}

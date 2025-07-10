@@ -1,0 +1,24 @@
+{
+  "name": "IXON Food Technology",
+  "slug": "ixon-food-technology",
+  "website": "https://ixon.com.hk/",
+  "description": "IXON specializes in advanced sous-vide aseptic packaging (ASAP), a technology that enables fresh meat to be stored at room temperature for up to two years.",
+  "one_liner": "IXON specializes in advanced sous-vide aseptic packaging (ASAP), a technology that enables fresh meat to be stored at room temperature for up to two years.",
+  "location": "Fo Tan, Hong Kong",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ixonfood",
+    "linkedin": "https://linkedin.com/company/ixonfoodtechnology",
+    "facebook": "https://facebook.com/ixonfoodtechnology/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ixon-food-technology",
+  "api": "/api/companies/ixon-food-technology.json"
+}

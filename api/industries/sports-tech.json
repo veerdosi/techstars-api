@@ -1,0 +1,24 @@
+[
+  {
+    "name": "GolferX",
+    "website": "https://golferx.io/",
+    "description": "GolferX provides personalized recommendations using AI to take the guesswork out of buying sports equipment online.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/andrew-ajax-87560912"
+    },
+    "industry": "Sports Tech",
+    "industry_slug": "sports-tech"
+  },
+  {
+    "name": "Wiistream",
+    "website": "https://wiistream.com/",
+    "description": "Wiistream is revolutionising the way that organisations in the Sporting and Events industry can engage with their followers and fanbase",
+    "location": "Mitchelstown, Cork, Ireland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/wiistream"
+    },
+    "industry": "Sports Tech",
+    "industry_slug": "sports-tech"
+  }
+]

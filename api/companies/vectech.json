@@ -1,0 +1,24 @@
+{
+  "name": "VecTech",
+  "slug": "vectech",
+  "website": "https://vectech.io/",
+  "description": "A public benefit corporation, MD building solutions that support pest control organizations",
+  "one_liner": "A public benefit corporation, MD building solutions that support pest control organizations",
+  "location": "Baltimore, Maryland, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gj4ivajobsbtdokfvnev",
+  "social_media": {
+    "twitter": "https://twitter.com/vectechai",
+    "linkedin": "https://linkedin.com/company/vectechai",
+    "facebook": "https://facebook.com/VectechAI"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vectech",
+  "api": "/api/companies/vectech.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "JETSWEAT",
+  "slug": "jetsweat",
+  "website": "https://jetsweatfitness.com/",
+  "description": "Jetsweat is an app that lets users take all their favorite boutique fitness classes wherever they may be.",
+  "one_liner": "Jetsweat is an app that lets users take all their favorite boutique fitness classes wherever they may be.",
+  "location": "New York City, New York, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/JetsweatFitness",
+    "linkedin": "https://linkedin.com/company/jetsweat",
+    "facebook": "https://facebook.com/jetsweatfitness/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/jetsweat",
+  "api": "/api/companies/jetsweat.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "JazzyPay",
+  "slug": "jazzypay",
+  "website": "https://jazzypay.com/",
+  "description": "JazzyPay enables Hospitals, Clinics, Schools, Medical Suppliers, and other essential businesses to adopt cashless payments easily even without a website.",
+  "one_liner": "JazzyPay enables Hospitals, Clinics, Schools, Medical Suppliers, and other essential businesses to adopt cashless payments easily even without a website.",
+  "location": "Makati, Philippines",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/jazzypayph",
+    "linkedin": "https://linkedin.com/company/jazzypay",
+    "facebook": "https://facebook.com/JazzyPay/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/jazzypay",
+  "api": "/api/companies/jazzypay.json"
+}

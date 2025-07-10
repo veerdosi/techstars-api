@@ -1,0 +1,24 @@
+{
+  "name": "Bokio",
+  "slug": "bokio",
+  "website": "https://bokio.se/",
+  "description": "Your digital controller, free of charge.",
+  "one_liner": "Your digital controller, free of charge.",
+  "location": "Göteborg, Sweden",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Bokioapps",
+    "linkedin": "https://linkedin.com/company/bokio",
+    "facebook": "https://facebook.com/bokioappuk"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bokio",
+  "api": "/api/companies/bokio.json"
+}

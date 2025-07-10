@@ -1,0 +1,22 @@
+{
+  "name": "Testimonial IQ",
+  "slug": "testimonial-iq",
+  "website": "https://testimonialiq.com/",
+  "description": "For financial advisors that want to take control of their digital presence, Testimonial IQ provides a compliance-based solution for generating client reviews, social proof, and marketing content.",
+  "one_liner": "For financial advisors that want to take control of their digital presence, Testimonial IQ provides a compliance-based solution for generating client reviews, social proof, and marketing content.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/testimonial-iq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/testimonial-iq",
+  "api": "/api/companies/testimonial-iq.json"
+}

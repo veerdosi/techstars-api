@@ -1,0 +1,22 @@
+{
+  "name": "Astronome AI",
+  "slug": "astronome-ai",
+  "website": "https://astronome.ai/",
+  "description": "Astronome AI is a company that provides streamlined IT management for SMEs, powered by AI.",
+  "one_liner": "Astronome AI is a company that provides streamlined IT management for SMEs, powered by AI.",
+  "location": "London, England, United Kingdom",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lr8j5rsmiftw7l9qxsiw",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/astronome"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/astronome-ai",
+  "api": "/api/companies/astronome-ai.json"
+}

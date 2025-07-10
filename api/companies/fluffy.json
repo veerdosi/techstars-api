@@ -1,0 +1,24 @@
+{
+  "name": "Fluffy",
+  "slug": "fluffy",
+  "website": "https://linkedin.com/company/joinfluffy",
+  "description": "Fluffy help you be the best pet parent possible by leveraging your pet's data to recommend personalised educational content, pet-care products and insurance. Fluffy is loved by 10,000 users and counting!",
+  "one_liner": "Fluffy help you be the best pet parent possible by leveraging your pet's data to recommend personalised educational content, pet-care products and insurance. Fluffy is loved by 10,000 users and counting!",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/riymdg4gjyktcndu2mh2",
+  "social_media": {
+    "twitter": "https://twitter.com/joinfluffy",
+    "linkedin": "https://linkedin.com/company/joinfluffy",
+    "facebook": "https://facebook.com/strelka.io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fluffy",
+  "api": "/api/companies/fluffy.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Troglo",
+  "slug": "troglo",
+  "website": "https://troglo.io/",
+  "description": "LVNDR is a digital platform that improves sexual wellbeing for LGBTQ+ individuals and modernises sexual healthcare for clinics.",
+  "one_liner": "LVNDR is a digital platform that improves sexual wellbeing for LGBTQ+ individuals and modernises sexual healthcare for clinics.",
+  "location": "London, United Kingdom",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/lvndrhealth",
+    "linkedin": "https://linkedin.com/company/lvndrhealth",
+    "facebook": "https://facebook.com/lvndrhealth"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/troglo",
+  "api": "/api/companies/troglo.json"
+}

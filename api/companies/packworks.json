@@ -1,0 +1,24 @@
+{
+  "name": "Packworks",
+  "slug": "packworks",
+  "website": "https://thepackworks.com/",
+  "description": "Packworks' goal is to help the millions of micro-entrepreneurs in the Philippines and South East Asia, by providing them with an app to grow their business.",
+  "one_liner": "Packworks' goal is to help the millions of micro-entrepreneurs in the Philippines and South East Asia, by providing them with an app to grow their business.",
+  "location": "Makati, Philippines",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PackworksPH",
+    "linkedin": "https://linkedin.com/company/thepackworks",
+    "facebook": "https://facebook.com/thepackworks"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/packworks",
+  "api": "/api/companies/packworks.json"
+}

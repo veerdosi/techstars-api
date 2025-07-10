@@ -1,0 +1,24 @@
+{
+  "name": "HomeBinder",
+  "slug": "homebinder",
+  "website": "https://homebinder.com/",
+  "description": "We currently help 4% of home buyers reduce headaches and save money through property specific support and digital organization for everything home-related.",
+  "one_liner": "We currently help 4% of home buyers reduce headaches and save money through property specific support and digital organization for everything home-related.",
+  "location": "Burlington, Massachusetts, United States",
+  "industry": "Real estate tech",
+  "industry_slug": "real-estate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/HomeBinder",
+    "linkedin": "https://linkedin.com/company/homebinder-com",
+    "facebook": "https://facebook.com/homebinder"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/homebinder",
+  "api": "/api/companies/homebinder.json"
+}

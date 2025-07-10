@@ -1,0 +1,24 @@
+{
+  "name": "10% Happier: Meditation for Fidgety Skeptics",
+  "slug": "10-happier-meditation-for-fidgety-skeptics",
+  "website": "https://10percenthappier.com/",
+  "description": "Mobile course platform for behavior change, powered by the advice of world-class experts.",
+  "one_liner": "Mobile course platform for behavior change, powered by the advice of world-class experts.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/10percent",
+    "linkedin": "https://linkedin.com/company/4536313",
+    "facebook": "https://facebook.com/changecollective"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/10-happier-meditation-for-fidgety-skeptics",
+  "api": "/api/companies/10-happier-meditation-for-fidgety-skeptics.json"
+}

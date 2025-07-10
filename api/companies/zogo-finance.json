@@ -1,0 +1,24 @@
+{
+  "name": "Zogo Finance",
+  "slug": "zogo-finance",
+  "website": "https://zogofinance.com/",
+  "description": "Zogo helps financial institutions engage GenZ through a financial education app that pays kids to learn.",
+  "one_liner": "Zogo helps financial institutions engage GenZ through a financial education app that pays kids to learn.",
+  "location": "Durham, North Carolina, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/zogofinance",
+    "linkedin": "https://linkedin.com/company/28974382",
+    "facebook": "https://facebook.com/zogoapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/zogo-finance",
+  "api": "/api/companies/zogo-finance.json"
+}

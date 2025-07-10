@@ -1,0 +1,23 @@
+{
+  "name": "Muse Tax",
+  "slug": "muse-tax",
+  "website": "https://musetax.com/",
+  "description": "The A.I. based tool that finds every tax deduction and credit for users and shows ways to save on taxes.",
+  "one_liner": "The A.I. based tool that finds every tax deduction and credit for users and shows ways to save on taxes.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/musetax_",
+    "linkedin": "https://linkedin.com/company/muse-tax"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/muse-tax",
+  "api": "/api/companies/muse-tax.json"
+}

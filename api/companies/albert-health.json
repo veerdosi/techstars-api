@@ -1,0 +1,23 @@
+{
+  "name": "Albert Health",
+  "slug": "albert-health",
+  "website": "https://albert.health/",
+  "description": "Albert is a voice-based health assistant that helps patients to take the right dose at the right time and make life easier for caregivers.",
+  "one_liner": "Albert is a voice-based health assistant that helps patients to take the right dose at the right time and make life easier for caregivers.",
+  "location": "Istanbul, Turkey",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/albert_health",
+    "linkedin": "https://linkedin.com/company/albert-health"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/albert-health",
+  "api": "/api/companies/albert-health.json"
+}

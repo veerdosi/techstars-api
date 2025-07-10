@@ -1,0 +1,24 @@
+{
+  "name": "bestselfy",
+  "slug": "bestselfy",
+  "website": "https://bestselfy.com/",
+  "description": "AI-powered pocket coach for new managers & employees to make the best work happen, in just 10 minutes a day. Waitlist growing by 100% per week.  Get access now!",
+  "one_liner": "AI-powered pocket coach for new managers & employees to make the best work happen, in just 10 minutes a day. Waitlist growing by 100% per week.  Get access now!",
+  "location": "Orleans, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/bestselfycoach",
+    "linkedin": "https://linkedin.com/company/bestselfy",
+    "facebook": "https://facebook.com/bestselfy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bestselfy",
+  "api": "/api/companies/bestselfy.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Marlo Technologies",
+  "slug": "marlo-technologies",
+  "website": "https://marlo.online/",
+  "description": "World's first neobank for the global maritime industry",
+  "one_liner": "World's first neobank for the global maritime industry",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/marlo-technology",
+    "facebook": "https://facebook.com/Marlo-Technologies-Limited-114205943320459"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/marlo-technologies",
+  "api": "/api/companies/marlo-technologies.json"
+}

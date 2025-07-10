@@ -1,0 +1,24 @@
+{
+  "name": "Smallhold",
+  "slug": "smallhold",
+  "website": "https://smallhold.com/",
+  "description": "Smallhold allows businesses and individuals to grow mushrooms and leafy greens easily and affordably through it's technology and subscription service.",
+  "one_liner": "Smallhold allows businesses and individuals to grow mushrooms and leafy greens easily and affordably through it's technology and subscription service.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/smallhold",
+    "linkedin": "https://linkedin.com/company/smallhold",
+    "facebook": "https://facebook.com/smallhold/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/smallhold",
+  "api": "/api/companies/smallhold.json"
+}

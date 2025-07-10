@@ -1,0 +1,23 @@
+{
+  "name": "Novo Space",
+  "slug": "novo-space",
+  "website": "https://novo.space/",
+  "description": "High-performance radiation-tolerant computers for the new space age",
+  "one_liner": "High-performance radiation-tolerant computers for the new space age",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Space tech",
+  "industry_slug": "space-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/novo_space",
+    "linkedin": "https://linkedin.com/company/novo-space"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/novo-space",
+  "api": "/api/companies/novo-space.json"
+}

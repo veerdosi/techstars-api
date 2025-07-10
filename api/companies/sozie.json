@@ -1,0 +1,24 @@
+{
+  "name": "SOZIE",
+  "slug": "sozie",
+  "website": "https://sozie.com/",
+  "description": "Models don't look like shoppers. Sozies do. We are online fashion's solution to size and fit challenges.",
+  "one_liner": "Models don't look like shoppers. Sozies do. We are online fashion's solution to size and fit challenges.",
+  "location": "London, United Kingdom",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sozie",
+    "linkedin": "https://linkedin.com/company/sozie",
+    "facebook": "https://facebook.com/sozie"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sozie",
+  "api": "/api/companies/sozie.json"
+}

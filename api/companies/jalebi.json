@@ -1,0 +1,24 @@
+{
+  "name": "jalebi",
+  "slug": "jalebi",
+  "website": "https://jalebi.io/",
+  "description": "Catalyzing the growth of food businesses with a freemium, unified, purpose-built platform.",
+  "one_liner": "Catalyzing the growth of food businesses with a freemium, unified, purpose-built platform.",
+  "location": "Dubai, United Arab Emirates",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getjalebi",
+    "linkedin": "https://linkedin.com/company/jalebi",
+    "facebook": "https://facebook.com/getjalebi"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/jalebi",
+  "api": "/api/companies/jalebi.json"
+}

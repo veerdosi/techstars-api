@@ -1,0 +1,24 @@
+{
+  "name": "Eli",
+  "slug": "eli",
+  "website": "https://eli.health/",
+  "description": "Eli enables women to take control of their health across their lives, by providing them with their daily hormone profile.",
+  "one_liner": "Eli enables women to take control of their health across their lives, by providing them with their daily hormone profile.",
+  "location": "Montréal, Quebec, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/elidothealth",
+    "linkedin": "https://linkedin.com/company/elihealth",
+    "facebook": "https://facebook.com/elidothealth/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/eli",
+  "api": "/api/companies/eli.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Cootoh",
+  "slug": "cootoh",
+  "website": "https://cootoh.com/",
+  "description": "Set the mood, chill the good wine, and let Cootoh do the cooking. Cootoh simplifies direct-to-consumer chef experiences for private and corporate events, as well as part-time and seasonal services, allowing you to leave stress at the door and reclaim your most valuable asset--time. Simultaneously, our platform enables talented chefs to break free from the low-paying, high-stress environments of restaurants and thrive as food entrepreneurs.",
+  "one_liner": "Set the mood, chill the good wine, and let Cootoh do the cooking. Cootoh simplifies direct-to-consumer chef experiences for private and corporate events, as well as part-time and seasonal services, allowing you to leave stress at the door and reclaim your most valuable asset--time. Simultaneously, our platform enables talented chefs to break free from the low-paying, high-stress environments of restaurants and thrive as food entrepreneurs.",
+  "location": "Las Vegas, Nevada, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/cootoh"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cootoh",
+  "api": "/api/companies/cootoh.json"
+}

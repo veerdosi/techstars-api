@@ -1,0 +1,24 @@
+{
+  "name": "Electronic Gaming Federation",
+  "slug": "electronic-gaming-federation",
+  "website": "https://egfederation.com/",
+  "description": "The Electronic Gaming Federation organizes and produces college esports.",
+  "one_liner": "The Electronic Gaming Federation organizes and produces college esports.",
+  "location": "Rochester, New York, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/officialegf",
+    "linkedin": "https://linkedin.com/company/electronic-gaming-federation",
+    "facebook": "https://facebook.com/egfederation"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/electronic-gaming-federation",
+  "api": "/api/companies/electronic-gaming-federation.json"
+}

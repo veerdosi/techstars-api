@@ -1,0 +1,23 @@
+{
+  "name": "Split Gym",
+  "slug": "split-gym",
+  "website": "https://linkedin.com/company/69429318",
+  "description": "A mobile app that allows users to rent someone's fitness membership or sell their own.",
+  "one_liner": "A mobile app that allows users to rent someone's fitness membership or sell their own.",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/69429318",
+    "facebook": "https://facebook.com/splitgym/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/split-gym",
+  "api": "/api/companies/split-gym.json"
+}

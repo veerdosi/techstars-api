@@ -1,0 +1,22 @@
+{
+  "name": "Clean OS",
+  "slug": "clean-os",
+  "website": "https://thecleanos.com/",
+  "description": "The first customised, full-arch electric toothbrush delivering professional-grade oral hygiene in under 30 seconds",
+  "one_liner": "The first customised, full-arch electric toothbrush delivering professional-grade oral hygiene in under 30 seconds",
+  "location": "Milan, Milan, Italy",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/clean-os"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/clean-os",
+  "api": "/api/companies/clean-os.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "CarServ",
+  "slug": "carserv",
+  "website": "https://carserv.com/",
+  "description": "The operating system for auto repair.",
+  "one_liner": "The operating system for auto repair.",
+  "location": "Austin, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/carserv_io",
+    "linkedin": "https://linkedin.com/company/carserv",
+    "facebook": "https://facebook.com/carservio"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/carserv",
+  "api": "/api/companies/carserv.json"
+}

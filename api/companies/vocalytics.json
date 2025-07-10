@@ -1,0 +1,24 @@
+{
+  "name": "Vocalytics",
+  "slug": "vocalytics",
+  "website": "https://vocalytics.ai/",
+  "description": "Voice & Sound Intelligence for the Physical World.",
+  "one_liner": "Voice & Sound Intelligence for the Physical World.",
+  "location": "Costa Mesa, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/vocalyticsai",
+    "linkedin": "https://linkedin.com/company/vocalytics",
+    "facebook": "https://facebook.com/vocalytics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vocalytics",
+  "api": "/api/companies/vocalytics.json"
+}

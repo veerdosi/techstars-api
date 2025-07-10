@@ -1,0 +1,20 @@
+{
+  "name": "Carbo Energy",
+  "slug": "carbo-energy",
+  "website": "https://carbo.energy/",
+  "description": "Scaling energy storage for a greener future",
+  "one_liner": "Scaling energy storage for a greener future",
+  "location": "Ciudad de Buenos Aires, Argentina",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/carbo-energy",
+  "api": "/api/companies/carbo-energy.json"
+}

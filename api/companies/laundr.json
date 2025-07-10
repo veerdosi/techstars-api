@@ -1,0 +1,24 @@
+{
+  "name": "Laundr",
+  "slug": "laundr",
+  "website": "https://laundr.io/",
+  "description": "Laundr is an on-demand laundry app that will pick up, wash, fold, and deliver your clothing within 24 hours.",
+  "one_liner": "Laundr is an on-demand laundry app that will pick up, wash, fold, and deliver your clothing within 24 hours.",
+  "location": "Miami, Florida, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/LaundrioApp",
+    "linkedin": "https://linkedin.com/company/laundrllc",
+    "facebook": "https://facebook.com/pages/Laundrio/377232182428401"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/laundr",
+  "api": "/api/companies/laundr.json"
+}

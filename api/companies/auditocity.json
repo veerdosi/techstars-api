@@ -1,0 +1,24 @@
+{
+  "name": "Auditocity",
+  "slug": "auditocity",
+  "website": "https://auditocity.com/",
+  "description": "Auditocity is a B2B human resource auditing company providing compliance tools for business customers",
+  "one_liner": "Auditocity is a B2B human resource auditing company providing compliance tools for business customers",
+  "location": "Fairhope, Alabama, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/auditocity",
+    "linkedin": "https://linkedin.com/in/giawiggins",
+    "facebook": "https://facebook.com/auditocity"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/auditocity",
+  "api": "/api/companies/auditocity.json"
+}

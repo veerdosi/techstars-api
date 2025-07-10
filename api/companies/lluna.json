@@ -1,0 +1,24 @@
+{
+  "name": "LLUNA",
+  "slug": "lluna",
+  "website": "https://hellolluna.com/",
+  "description": "LLUNA's technology is the TeamOS for modern employers, combining personal operating profiles and smart dashboards to increase connection, effectiveness, and productivity for individuals, teams, and companies.",
+  "one_liner": "LLUNA's technology is the TeamOS for modern employers, combining personal operating profiles and smart dashboards to increase connection, effectiveness, and productivity for individuals, teams, and companies.",
+  "location": "Wayne, Pennsylvania, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/zidxkkhuxrhf58vvk7ye",
+  "social_media": {
+    "twitter": "https://twitter.com/llunalife",
+    "linkedin": "https://linkedin.com/company/llunalife",
+    "facebook": "https://facebook.com/llunalife"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lluna",
+  "api": "/api/companies/lluna.json"
+}

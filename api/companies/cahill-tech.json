@@ -1,0 +1,24 @@
+{
+  "name": "CAHill TECH",
+  "slug": "cahill-tech",
+  "website": "https://cahilltech.com/",
+  "description": "Tackling the construction labor gap through an e-learning platform to train and onboard construction workers.",
+  "one_liner": "Tackling the construction labor gap through an e-learning platform to train and onboard construction workers.",
+  "location": "Akron, New York, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/cahillresources",
+    "linkedin": "https://linkedin.com/company/cahilltech",
+    "facebook": "https://facebook.com/CaHill.resources/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cahill-tech",
+  "api": "/api/companies/cahill-tech.json"
+}

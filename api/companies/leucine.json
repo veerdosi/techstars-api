@@ -1,0 +1,23 @@
+{
+  "name": "Leucine",
+  "slug": "leucine",
+  "website": "https://leucinetech.com/",
+  "description": "A proactive digital manufacturing platform that enables better drug product quality and patient safety.",
+  "one_liner": "A proactive digital manufacturing platform that enables better drug product quality and patient safety.",
+  "location": "Koramangala 7th Block, Karnataka, India",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/LeucineApp",
+    "linkedin": "https://linkedin.com/company/leucine"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/leucine",
+  "api": "/api/companies/leucine.json"
+}

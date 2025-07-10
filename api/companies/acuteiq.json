@@ -1,0 +1,23 @@
+{
+  "name": "acuteIQ",
+  "slug": "acuteiq",
+  "website": "https://acuteiq.com/",
+  "description": "acuteIQ is a customer acquisition platform targeting the enterprise lending market.",
+  "one_liner": "acuteIQ is a customer acquisition platform targeting the enterprise lending market.",
+  "location": "Tiburon, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AcuteIq",
+    "linkedin": "https://linkedin.com/company/3815568"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/acuteiq",
+  "api": "/api/companies/acuteiq.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "InfraNergy",
+  "slug": "infranergy",
+  "website": "https://infranergy.us/",
+  "description": "Infranergy develops solar-powered and battery energy storage projects / technology to reduce energy costs, decarbonize and balance the grid.",
+  "one_liner": "Infranergy develops solar-powered and battery energy storage projects / technology to reduce energy costs, decarbonize and balance the grid.",
+  "location": "Wellington, Florida, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/infranergy",
+    "linkedin": "https://linkedin.com/company/infranergy",
+    "facebook": "https://facebook.com/infranergy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/infranergy",
+  "api": "/api/companies/infranergy.json"
+}

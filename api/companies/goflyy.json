@@ -1,0 +1,24 @@
+{
+  "name": "GoFlyy",
+  "slug": "goflyy",
+  "website": "https://goflyy.com/",
+  "description": "GoFlyy powers eCommerce retailers with premium last-mile experiences.",
+  "one_liner": "GoFlyy powers eCommerce retailers with premium last-mile experiences.",
+  "location": "Burbank, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/dmrcos1l5usjts7l0igw",
+  "social_media": {
+    "twitter": "https://twitter.com/goflyyusa",
+    "linkedin": "https://linkedin.com/company/goflyy",
+    "facebook": "https://facebook.com/goflyyusa"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/goflyy",
+  "api": "/api/companies/goflyy.json"
+}

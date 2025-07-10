@@ -1,0 +1,24 @@
+{
+  "name": "Samaritan",
+  "slug": "samaritan",
+  "website": "https://samaritan.city/",
+  "description": "Samaritan produces smart wallets specifically designed for people without a home, linking them to the social and financial capital needed to leave the streets.",
+  "one_liner": "Samaritan produces smart wallets specifically designed for people without a home, linking them to the social and financial capital needed to leave the streets.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nssrslupnhr3kwzf772u",
+  "social_media": {
+    "twitter": "https://twitter.com/youaresamaritan",
+    "linkedin": "https://linkedin.com/company/givesafe",
+    "facebook": "https://facebook.com/cityofsamaritans/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/samaritan",
+  "api": "/api/companies/samaritan.json"
+}

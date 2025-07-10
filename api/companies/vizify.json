@@ -1,0 +1,24 @@
+{
+  "name": "Vizify",
+  "slug": "vizify",
+  "website": "https://vizify.com/",
+  "description": "Personal website powered by your social media data",
+  "one_liner": "Personal website powered by your social media data",
+  "location": "Portland, Oregon, United States",
+  "industry": "SaaS",
+  "industry_slug": "saas",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/vizify",
+    "linkedin": "https://linkedin.com/pub/chris-gueits",
+    "facebook": "https://facebook.com/Vizify"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vizify",
+  "api": "/api/companies/vizify.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "DwellSocial",
+  "slug": "dwellsocial",
+  "website": "https://dwellsocial.com/",
+  "description": "DwellSocial empowers homeowners AND contractors by aggregating demand for any project or service into neighborhood groups of homeowners.",
+  "one_liner": "DwellSocial empowers homeowners AND contractors by aggregating demand for any project or service into neighborhood groups of homeowners.",
+  "location": "Northbrook, Illinois, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/DwellSocial",
+    "linkedin": "https://linkedin.com/company/dwellsocial",
+    "facebook": "https://facebook.com/dwellsocial/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dwellsocial",
+  "api": "/api/companies/dwellsocial.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Highre",
+  "slug": "highre",
+  "website": "https://linkedin.com/company/highre",
+  "description": "A hassle-free virtual career fair platform, helping universities move campus job fairs online. #CollegeRecruiting #Education #Universities #VirtualEvents #SaaS",
+  "one_liner": "A hassle-free virtual career fair platform, helping universities move campus job fairs online. #CollegeRecruiting #Education #Universities #VirtualEvents #SaaS",
+  "location": "London, United Kingdom",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/highre_co",
+    "linkedin": "https://linkedin.com/company/highre",
+    "facebook": "https://facebook.com/highre.co/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/highre",
+  "api": "/api/companies/highre.json"
+}

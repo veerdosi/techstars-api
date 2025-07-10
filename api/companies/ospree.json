@@ -1,0 +1,24 @@
+{
+  "name": "Ospree",
+  "slug": "ospree",
+  "website": "https://ospree.io/",
+  "description": "One seamless AML solution that brings together travel rule, blockchain analytics, and customer onboarding.",
+  "one_liner": "One seamless AML solution that brings together travel rule, blockchain analytics, and customer onboarding.",
+  "location": "Singapore, Singapore",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Ospree_io",
+    "linkedin": "https://linkedin.com/company/ospree",
+    "facebook": "https://facebook.com/OspreeRegTech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ospree",
+  "api": "/api/companies/ospree.json"
+}

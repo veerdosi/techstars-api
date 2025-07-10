@@ -1,0 +1,22 @@
+{
+  "name": "Cloud Fence",
+  "slug": "cloud-fence",
+  "website": "https://cloud-fence.com/",
+  "description": "One-click deploy full stack network security and security insights to manage security across your cloud infrastructure.",
+  "one_liner": "One-click deploy full stack network security and security insights to manage security across your cloud infrastructure.",
+  "location": "Roquebrune Sur Argens, France",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/cloud-fence"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cloud-fence",
+  "api": "/api/companies/cloud-fence.json"
+}

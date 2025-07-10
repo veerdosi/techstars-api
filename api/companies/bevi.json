@@ -1,0 +1,24 @@
+{
+  "name": "Bevi",
+  "slug": "bevi",
+  "website": "https://bevi.co/",
+  "description": "Bevi is a smart water cooler that customizes still and sparkling water with healthy flavors.",
+  "one_liner": "Bevi is a smart water cooler that customizes still and sparkling water with healthy flavors.",
+  "location": "Concord, Massachusetts, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getbevi",
+    "linkedin": "https://linkedin.com/company/bevi",
+    "facebook": "https://facebook.com/pages/Bevi/921798307850581"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bevi",
+  "api": "/api/companies/bevi.json"
+}

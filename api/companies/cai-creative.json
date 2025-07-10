@@ -1,0 +1,22 @@
+{
+  "name": "Cai Creative",
+  "slug": "cai-creative",
+  "website": "https://cai.audio/",
+  "description": "Cai is developing a natural language music composition platform to empower the non-technical composer/musician to compose intuitively and iteratively alongside AI, while still maintaining creative control.",
+  "one_liner": "Cai is developing a natural language music composition platform to empower the non-technical composer/musician to compose intuitively and iteratively alongside AI, while still maintaining creative control.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/cai-creative"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cai-creative",
+  "api": "/api/companies/cai-creative.json"
+}

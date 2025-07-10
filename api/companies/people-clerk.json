@@ -1,0 +1,24 @@
+{
+  "name": "People Clerk",
+  "slug": "people-clerk",
+  "website": "https://peopleclerk.com/",
+  "description": "We help you navigate the small claims court process (disputes under $10k)",
+  "one_liner": "We help you navigate the small claims court process (disputes under $10k)",
+  "location": "Los Angeles, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/peopleclerk",
+    "linkedin": "https://linkedin.com/company/courtam-inc",
+    "facebook": "https://facebook.com/peopleclerk/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/people-clerk",
+  "api": "/api/companies/people-clerk.json"
+}

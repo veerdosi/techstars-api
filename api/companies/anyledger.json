@@ -1,0 +1,23 @@
+{
+  "name": "AnyLedger",
+  "slug": "anyledger",
+  "website": "https://linkedin.com/company/anyledger",
+  "description": "We enable Industrial IoT devices to generate trusted data and securely transact between each other.",
+  "one_liner": "We enable Industrial IoT devices to generate trusted data and securely transact between each other.",
+  "location": "Berlin, Germany",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/anyledgerio",
+    "linkedin": "https://linkedin.com/company/anyledger"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/anyledger",
+  "api": "/api/companies/anyledger.json"
+}

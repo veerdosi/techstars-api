@@ -1,0 +1,24 @@
+{
+  "name": "Gammanics",
+  "slug": "gammanics",
+  "website": "https://ndb.technology/",
+  "description": "Green hydrogen from waste recycling",
+  "one_liner": "Green hydrogen from waste recycling",
+  "location": "London, United Kingdom",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ndbtechnology",
+    "linkedin": "https://linkedin.com/company/ndb-technology",
+    "facebook": "https://facebook.com/ndb.technology"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gammanics",
+  "api": "/api/companies/gammanics.json"
+}

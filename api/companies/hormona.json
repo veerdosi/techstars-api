@@ -1,0 +1,24 @@
+{
+  "name": "Hormona",
+  "slug": "hormona",
+  "website": "https://hormona.io/",
+  "description": "Digitalized hormonal health powered by AI & at home testing",
+  "one_liner": "Digitalized hormonal health powered by AI & at home testing",
+  "location": "Weybridge, United Kingdom",
+  "industry": "Femtech",
+  "industry_slug": "femtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/qly2dqitldilpfnhehmk",
+  "social_media": {
+    "twitter": "https://twitter.com/Hormona7",
+    "linkedin": "https://linkedin.com/company/hormona",
+    "facebook": "https://facebook.com/hormona.io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hormona",
+  "api": "/api/companies/hormona.json"
+}

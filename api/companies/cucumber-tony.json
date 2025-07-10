@@ -1,0 +1,24 @@
+{
+  "name": "Cucumber Tony",
+  "slug": "cucumber-tony",
+  "website": "https://linkedin.com/company/cucumber-tony",
+  "description": "Using Machine Learning to Solve WiFi Problems",
+  "one_liner": "Using Machine Learning to Solve WiFi Problems",
+  "location": "London, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/cucumbertony",
+    "linkedin": "https://linkedin.com/company/cucumber-tony",
+    "facebook": "https://facebook.com/cucumbertony/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cucumber-tony",
+  "api": "/api/companies/cucumber-tony.json"
+}

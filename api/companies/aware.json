@@ -1,0 +1,24 @@
+{
+  "name": "Aware",
+  "slug": "aware",
+  "website": "https://awarelabs.xyz/",
+  "description": "Aware is an intelligent business semantic layer that makes it possible for humans and AI to unlock the business potential in blockchain data by transforming it into a unified, trustable and understandable business language.",
+  "one_liner": "Aware is an intelligent business semantic layer that makes it possible for humans and AI to unlock the business potential in blockchain data by transforming it into a unified, trustable and understandable business language.",
+  "location": "Tel Aviv, Israel",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/aware_labs",
+    "linkedin": "https://linkedin.com/company/aware-labs-xyz",
+    "facebook": "https://facebook.com/AwareHQ"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/aware",
+  "api": "/api/companies/aware.json"
+}

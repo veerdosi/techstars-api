@@ -1,0 +1,24 @@
+{
+  "name": "HackMD",
+  "slug": "hackmd",
+  "website": "https://hackmd.io/",
+  "description": "HackMD helps developers write better documents and build active communities with open collaboration.",
+  "one_liner": "HackMD helps developers write better documents and build active communities with open collaboration.",
+  "location": "Taipei, Taiwan",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hackmdio",
+    "linkedin": "https://linkedin.com/company/hackmd",
+    "facebook": "https://facebook.com/hackmdio"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hackmd",
+  "api": "/api/companies/hackmd.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Paladin",
+  "slug": "paladin",
+  "website": "https://joinpaladin.com/",
+  "description": "Paladin creates an easy way for lawyers to find cases they're passionate about and to capture impact data for the benefit of all.",
+  "one_liner": "Paladin creates an easy way for lawyers to find cases they're passionate about and to capture impact data for the benefit of all.",
+  "location": "New York City, New York, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/joinpaladin",
+    "linkedin": "https://linkedin.com/company/paladin-attachments",
+    "facebook": "https://facebook.com/PaladinPBC"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/paladin",
+  "api": "/api/companies/paladin.json"
+}

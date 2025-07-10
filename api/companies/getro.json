@@ -1,0 +1,24 @@
+{
+  "name": "Getro",
+  "slug": "getro",
+  "website": "https://getro.com/",
+  "description": "Getro makes hiring easier by connecting employers to referred professionals in their network.",
+  "one_liner": "Getro makes hiring easier by connecting employers to referred professionals in their network.",
+  "location": "Boulder, Colorado, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/monday_vc",
+    "linkedin": "https://linkedin.com/company/getro-com",
+    "facebook": "https://facebook.com/mymonday.co/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/getro",
+  "api": "/api/companies/getro.json"
+}

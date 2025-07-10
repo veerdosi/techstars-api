@@ -1,0 +1,22 @@
+{
+  "name": "Shook",
+  "slug": "shook",
+  "website": "https://shoook.io/",
+  "description": "Shook offers no-code infrastructure for verticalized expert / freelance marketplaces - think Shopify for niche Fiverrs/Toptals.",
+  "one_liner": "Shook offers no-code infrastructure for verticalized expert / freelance marketplaces - think Shopify for niche Fiverrs/Toptals.",
+  "location": "Tzur Hadassah, Israel",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/shook-io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/shook",
+  "api": "/api/companies/shook.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "MadKudu",
+  "slug": "madkudu",
+  "website": "https://madkudu.com/",
+  "description": "Improves conversion rates for SaaS companies by leveraging data science to trigger personalized outreach.",
+  "one_liner": "Improves conversion rates for SaaS companies by leveraging data science to trigger personalized outreach.",
+  "location": "Mountain View, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/madkudu",
+    "linkedin": "https://linkedin.com/company/madkudu",
+    "facebook": "https://facebook.com/getMadKudu"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/madkudu",
+  "api": "/api/companies/madkudu.json"
+}

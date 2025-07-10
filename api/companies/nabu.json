@@ -1,0 +1,24 @@
+{
+  "name": "Nabu",
+  "slug": "nabu",
+  "website": "https://nabu.io/",
+  "description": "AI Agents for customs clearance",
+  "one_liner": "AI Agents for customs clearance",
+  "location": "Strasbourg, France",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/nabu_io",
+    "linkedin": "https://linkedin.com/company/nabu-io",
+    "facebook": "https://facebook.com/Nabu.Life2/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nabu",
+  "api": "/api/companies/nabu.json"
+}

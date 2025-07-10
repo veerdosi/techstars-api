@@ -1,0 +1,24 @@
+{
+  "name": "Ecolectro",
+  "slug": "ecolectro",
+  "website": "https://ecolectro.com/",
+  "description": "Reducing the cost of green hydrogen by 33%.",
+  "one_liner": "Reducing the cost of green hydrogen by 33%.",
+  "location": "Ithaca, New York, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ecolectroinc",
+    "linkedin": "https://linkedin.com/company/ecolectro-inc-",
+    "facebook": "https://facebook.com/ecolectroinc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ecolectro",
+  "api": "/api/companies/ecolectro.json"
+}

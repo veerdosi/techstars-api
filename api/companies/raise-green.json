@@ -1,0 +1,24 @@
+{
+  "name": "Raise Green",
+  "slug": "raise-green",
+  "website": "https://raisegreen.com/",
+  "description": "Climatetech marketplace for local impact investing connecting capital with community need.",
+  "one_liner": "Climatetech marketplace for local impact investing connecting capital with community need.",
+  "location": "Somerville, Massachusetts, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/raisegreeninc",
+    "linkedin": "https://linkedin.com/company/29305067",
+    "facebook": "https://facebook.com/RaiseGreenInc/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/raise-green",
+  "api": "/api/companies/raise-green.json"
+}

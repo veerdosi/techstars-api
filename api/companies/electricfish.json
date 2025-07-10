@@ -1,0 +1,24 @@
+{
+  "name": "ElectricFish",
+  "slug": "electricfish",
+  "website": "https://electricfish.co/",
+  "description": "Distributed energy storage for EV charging, and grid-scale energy backup.",
+  "one_liner": "Distributed energy storage for EV charging, and grid-scale energy backup.",
+  "location": "Fremont, California, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/electricfishinc",
+    "linkedin": "https://linkedin.com/company/electricfish",
+    "facebook": "https://facebook.com/electricfish"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/electricfish",
+  "api": "/api/companies/electricfish.json"
+}

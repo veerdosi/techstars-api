@@ -1,0 +1,24 @@
+{
+  "name": "Metro Africa Xpress",
+  "slug": "metro-africa-xpress",
+  "website": "https://max.ng/",
+  "description": "Providing infrastructure and services to taxi drivers across Africa.",
+  "one_liner": "Providing infrastructure and services to taxi drivers across Africa.",
+  "location": "Lagos, Nigeria",
+  "industry": "Micromobility",
+  "industry_slug": "micromobility",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/maxdotng",
+    "linkedin": "https://linkedin.com/company/maxdriveai",
+    "facebook": "https://facebook.com/pages/Metro-Africa-Xpress-MAX/837791536289252"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/metro-africa-xpress",
+  "api": "/api/companies/metro-africa-xpress.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Healthie",
+  "slug": "healthie",
+  "website": "https://gethealthie.com/",
+  "description": "Healthie is a web and mobile platform for dietitians and nutritionists to manage their practice.",
+  "one_liner": "Healthie is a web and mobile platform for dietitians and nutritionists to manage their practice.",
+  "location": "New York City, New York, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/gethealthie",
+    "linkedin": "https://linkedin.com/company/get-healthie",
+    "facebook": "https://facebook.com/GetHealthie/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/healthie",
+  "api": "/api/companies/healthie.json"
+}

@@ -1,0 +1,1380 @@
+[
+  {
+    "name": "Zipline",
+    "website": "https://flyzipline.com/",
+    "description": "Zipline operates the world's largest autonomous on-demand delivery system with the industry's leading instant logistics technology stack.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/zipline",
+      "linkedin": "https://linkedin.com/company/flyzipline",
+      "facebook": "https://facebook.com/flyzipline/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Ordermark",
+    "website": "https://ordermark.com/",
+    "description": "Stream all your online orders to one device. Watch your sales grow.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getordermark",
+      "linkedin": "https://linkedin.com/company/ordermark",
+      "facebook": "https://facebook.com/Ordermark/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Damon Motorcycles",
+    "website": "https://damon.com/",
+    "description": "360o awareness for motorcycle riders",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/damonmotorcycle",
+      "linkedin": "https://linkedin.com/company/damonxlabs",
+      "facebook": "https://facebook.com/damonmotorcycles/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Wise Systems",
+    "website": "https://wisesystems.com/",
+    "description": "Wise Systems is an enterprise software solution that helps companies make real-time delivery decisions.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gowisesystems",
+      "linkedin": "https://linkedin.com/company/5348684",
+      "facebook": "https://facebook.com/WiseSystemsInc"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Phoenix Tailings",
+    "website": "https://phoenixtailings.com/",
+    "description": "A mining company powered by technology, eliminating waste and creating sustainably produced metals #MaterialScience #Mining #B2B #Sustainability",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/phoenixtailings",
+      "linkedin": "https://linkedin.com/company/mvmindustrial"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Metro Africa Xpress",
+    "website": "https://max.ng/",
+    "description": "Providing infrastructure and services to taxi drivers across Africa.",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/maxdotng",
+      "linkedin": "https://linkedin.com/company/maxdriveai",
+      "facebook": "https://facebook.com/pages/Metro-Africa-Xpress-MAX/837791536289252"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Denim",
+    "website": "https://denim.com/",
+    "description": "Denim helps freight brokerages and fleets accelerate growth with back-office automation and fast working capital.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/JoinDenim",
+      "linkedin": "https://linkedin.com/company/join-denim",
+      "facebook": "https://facebook.com/joindenim"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "SparkCharge",
+    "website": "https://sparkcharge.io/",
+    "description": "World's First Mobile Electric Vehicle Charging Network",
+    "location": "Buffalo, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sparkcharge",
+      "linkedin": "https://linkedin.com/company/sparkcharge",
+      "facebook": "https://facebook.com/SparkChargeCorp"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Ara",
+    "website": "https://arascreens.com/",
+    "description": "The in-car marketplace for the ride-sharing economy. Drivers earn more money and improve their riders' experience by providing essential goods on-the-go.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AraScreens",
+      "linkedin": "https://linkedin.com/company/ara-labs-inc",
+      "facebook": "https://facebook.com/arascreens/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Rally",
+    "website": "https://rallypwr.com/",
+    "description": "Rally is Mass Mobility as a Service: technology and business model innovations for the business of buses.",
+    "location": "Buffalo, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RallyBus",
+      "linkedin": "https://linkedin.com/company/getrallyon",
+      "facebook": "https://facebook.com/Rallyio-111181213637213/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "EcoG",
+    "website": "https://ecog.io/",
+    "description": "B2B IoT platform enabling shared revenue streams and value added services in fast charging.",
+    "location": "Munich, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/ecog_io",
+      "linkedin": "https://linkedin.com/company/ecog",
+      "facebook": "https://facebook.com/ecog.emobility"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Donut Media",
+    "website": "https://donut.media/",
+    "description": "The media company for the next generation of automotive enthusiasts.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/donut_media",
+      "linkedin": "https://linkedin.com/company/6589845",
+      "facebook": "https://facebook.com/donutmedia"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Automotus",
+    "website": "https://automotus.co/",
+    "description": "Automotus video analytics automate curbside operations for all things mobility - from passenger vehicles and Ubers, to scooters and delivery trucks.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/automotus_inc",
+      "linkedin": "https://linkedin.com/company/18016856"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "REEV",
+    "website": "https://reev.care/",
+    "description": "Helping those affected by neurological gait disorders like stroke to overcome their daily disability by becoming more autonomous and independent in their movements",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lqz0gwn1qm5xlsatx7we",
+    "location": "Toulouse, France",
+    "social_media": {
+      "twitter": "https://twitter.com/wearereev",
+      "linkedin": "https://linkedin.com/company/reevcare",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "MITO Material Solutions",
+    "website": "https://mitomaterials.com/",
+    "description": "MITO Material Solutions manufactures hybrid nano-additives, enabling composite manufacturers to create tougher, lighter, and more durable products.",
+    "location": "Stillwater, Oklahoma, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MITO_Materials",
+      "linkedin": "https://linkedin.com/company/mitomaterials",
+      "facebook": "https://facebook.com/MITOMaterialSolutions/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "IONA",
+    "website": "https://ionadrones.com/",
+    "description": "IONA develops zero-emission autonomous drone solutions for sustainable and efficient logistics in low population density areas.",
+    "location": "Bedford, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ionalogistics"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Pelikan Mobility",
+    "website": "https://pelikan-mobility.com/",
+    "description": "Software platform to optimize the electrification and operation of commercial fleets.",
+    "location": "Paris, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pelikan-mobility"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Iomob",
+    "website": "https://iomob.net/",
+    "description": "Iomob empowers transport companies to launch their own Mobility as a Service solutions to users for seamless A to B mobility experiences.",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "twitter": "https://twitter.com/iomob_net",
+      "linkedin": "https://linkedin.com/company/iomob-tech",
+      "facebook": "https://facebook.com/iomob/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "CarServ",
+    "website": "https://carserv.com/",
+    "description": "The operating system for auto repair.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/carserv_io",
+      "linkedin": "https://linkedin.com/company/carserv",
+      "facebook": "https://facebook.com/carservio"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Taptrip",
+    "website": "https://taptrip.co/",
+    "description": "Taptrip is a self-serve business travel & expenses solution for small & medium sized businesses.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/taptrip",
+      "linkedin": "https://linkedin.com/company/taptrip",
+      "facebook": "https://facebook.com/taptrip/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Go To-U",
+    "website": "https://go-tou.com/",
+    "description": "GO TO-U is a SaaS operating system that helps manage and monetize EV charging infrastructure for electric vehicles. Using big data and machine learning to optimize demand, predict electricity consumption, and monitor charging sessions.",
+    "location": "Lviv, Ukraine",
+    "social_media": {
+      "twitter": "https://twitter.com/GoToUgreen",
+      "linkedin": "https://linkedin.com/company/to-u",
+      "facebook": "https://facebook.com/gotougreen"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Metrobi",
+    "website": "https://metrobi.com/",
+    "description": "The mind behind last-mile logistics. Metrobi provides a shared service for B2B local deliveries.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MetrobiOfficial",
+      "linkedin": "https://linkedin.com/company/metrobi",
+      "facebook": "https://facebook.com/MetrobiCom/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Cargofive",
+    "website": "https://cargofive.com/",
+    "description": "E-Pricing & Sales automation software for container shipping.",
+    "location": "Lisbon, Portugal",
+    "social_media": {
+      "twitter": "https://twitter.com/cargofive",
+      "linkedin": "https://linkedin.com/company/cargofive",
+      "facebook": "https://facebook.com/cargofive"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Carré Mobility",
+    "website": "https://carre-mobility.de/",
+    "description": "Carre Mobility offers shared mobility solutions for the housing industry, saving space and costs.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hmvtsb5nb1gkidbghmta",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/carr%C3%A9-mobility",
+      "facebook": "https://facebook.com/CarreMobility"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Sailo",
+    "website": "https://sailo.com/",
+    "description": "Sailo is an online marketplace that connects people who want to rent boats to boat owners, charter operators and licensed captains",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SailoBoats",
+      "linkedin": "https://linkedin.com/company/5241229",
+      "facebook": "https://facebook.com/Sailoboats"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Captain AI",
+    "website": "https://captain.ai/",
+    "description": "On demand delivery software enabling restaurants to automate their in house delivery",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/captain.ai",
+      "facebook": "https://facebook.com/people/Captainai/100057315284993"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Pitstop",
+    "website": "https://pitstopconnect.com/",
+    "description": "Pitstop predicts vehicle failures before they happen through machine learning and big data.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/Pitstopconnect",
+      "linkedin": "https://linkedin.com/company/pitstopconnect",
+      "facebook": "https://facebook.com/pitstopconnect/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Volteum",
+    "website": "https://volteum.io/",
+    "description": "Fleet optimization software for electric vehicles",
+    "location": "Budapest, Hungary",
+    "social_media": {
+      "twitter": "https://twitter.com/VolteumApp",
+      "linkedin": "https://linkedin.com/company/volteum",
+      "facebook": "https://facebook.com/VolteumApp"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Hop In Technologies",
+    "website": "https://hopintech.com/",
+    "description": "The all in one shuttling logistics platform made for employers who are looking to expand hiring pools while recruiting, improve retention and increase employee satisfaction",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/iaryy9qoocyjbartht7f",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/HopInTech",
+      "linkedin": "https://linkedin.com/company/hop-in-tech",
+      "facebook": "https://facebook.com/HopInTech/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "BiB Batteries",
+    "website": "https://bib-batteries.fr/",
+    "description": "BiB optimizes batteries' performances, expands their lifecycle and reduces their environmental footprint, based on data analysis.",
+    "location": "Paris, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bib-batteries"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Mondaycar",
+    "website": "https://mondaycar.com/",
+    "description": "A way for everyone to participate in the financing of shared cars in an easy and profitable way, without the need of ever seeing a car",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/gohiveway",
+      "linkedin": "https://linkedin.com/company/hiveway",
+      "facebook": "https://facebook.com/gohiveaway/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Haptic",
+    "website": "https://knocki.com/",
+    "description": "Haptic is a digital activation platform for structural materials.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/haptic",
+      "linkedin": "https://linkedin.com/company/knocki",
+      "facebook": "https://facebook.com/getknocki"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "OmniPreSense Corporation",
+    "website": "https://omnipresense.com/",
+    "description": "Supplier of short range radar sensors for drone, robots, and IoT systems allowing them to \"see\" the world around them.",
+    "location": "San Jose, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/OmniPSense",
+      "linkedin": "https://linkedin.com/company/17992858",
+      "facebook": "https://facebook.com/omnipsense/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Seer Aerospace",
+    "website": "https://seeraerospace.com/",
+    "description": "Make the aviation supply chain a driver of aircraft reliability by building modern digital infrastructure",
+    "logo_url": "https://pbs.twimg.com/profile_images/889616125440311296/buHN4Jfz_400x400.jpg",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SeerAerospace",
+      "linkedin": "https://linkedin.com/company/seer-aerospace"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Hyperspec AI",
+    "website": "https://hyperspec.ai/",
+    "description": "Effortless autonomy enabled by real-time scene construction and cross view localization for efficient HD mapping at the edge.",
+    "location": "Woodland, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hyperspec-ai"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "YEESMA SARL",
+    "website": "https://yeesma.com/",
+    "description": "YEESMA Provides EXCITING Solutions.",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {},
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Cuál",
+    "website": "https://cual.co/",
+    "description": "Cual is the Yelp for Hispanics and launched in Los Angeles with over 60,000 business listings.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ohmndra3ikbrvxq6uv7c",
+    "location": "Woodland Hills, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cu%C3%A1l-corp",
+      "facebook": "https://facebook.com/visitacualco"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Treepz",
+    "website": "https://ng.treepz.com/",
+    "description": "Nigeria's premier ride-hailing solution app that allows commuters to book and pay for fast and convenient trips in real-time.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/PlentywakaNG",
+      "linkedin": "https://linkedin.com/company/plentywaka",
+      "facebook": "https://facebook.com/plentywaka.ng.18"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "NayamWings",
+    "website": "https://nayamwings.com/",
+    "description": "NayamWings brings a new-breed of wind propulsion for ships, using airplane technology  airfoil designs as a hybrid system to cut fuel use and emissions",
+    "location": "Haifa, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nayamwings"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "CityCop",
+    "website": "https://citycop.org/",
+    "description": "Social platform for community watch to fight crime.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/citycop_en",
+      "linkedin": "https://linkedin.com/company/citycop",
+      "facebook": "https://facebook.com/CitycopApp"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Downtown AI",
+    "website": "https://downtown.ai/",
+    "description": "Analyze, Map and Predict Human Movements in Cities",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/DowntownAI",
+      "linkedin": "https://linkedin.com/company/downtown-ai",
+      "facebook": "https://facebook.com/downtownai"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Tether EV",
+    "website": "https://tetherev.io/",
+    "description": "Software that turns Electric Vehicles into giant virtual batteries.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xo3necd1ycsptdes6auz",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tetherev"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Sikili",
+    "website": "https://sikili.io/",
+    "description": "Twende is a platform that offers reliable shared transport",
+    "location": "Lyon, France",
+    "social_media": {
+      "twitter": "https://twitter.com/AppTwende",
+      "linkedin": "https://linkedin.com/company/twende-app",
+      "facebook": "https://facebook.com/people/Twende/100086060708765"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Liquidstar",
+    "website": "https://liquistar.io/",
+    "description": "Using solar energy to provide electricity, water and internet to the 1B+ without.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {},
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "LinkBycar",
+    "website": "https://linkbycar.com/",
+    "description": "LinkByCar uses AI to predict vehicle issues by analyzing connected vehicle data, enhancing driving safety and personalization.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/upiz5ogfndy8qjvevfeh",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/LBycar",
+      "linkedin": "https://linkedin.com/company/linkbycar"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Bidi Charge",
+    "website": "https://bidi-charge.com/",
+    "description": "Demand-driven investment platform for public & semi-public charging points.",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bidi-charge"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Ahoi",
+    "website": "https://ahoimate.com/",
+    "description": "We're making the world a more accessible place",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ahoimate"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Le Car",
+    "website": "https://lecar.co/",
+    "description": "Le Car matches people to vehicles aligned with their needs and wants.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/findlecar",
+      "linkedin": "https://linkedin.com/company/33236809",
+      "facebook": "https://facebook.com/findlecar"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Solideon",
+    "website": "https://solideon.com/",
+    "description": "The company facilitates use of additive manufacturing system, a machine-learning collaborative system.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rvyqaeriunuqfjqw8tch",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SolideonUSA",
+      "linkedin": "https://linkedin.com/company/solideonusa"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "In Orbit Aerospace",
+    "website": "https://inorbitaerospace.com/",
+    "description": "Enabling mass manufacturing and research in space.",
+    "location": "Torrance, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/in-orbit-aerospace"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Envoi Technologies",
+    "website": "https://envoinow.com/",
+    "description": "Envoi facilitates retailers looking to meet consumer demand for same-day delivery. They circumvent the traditional courier model so that you can service your customers faster, better, and with more visibility.",
+    "location": "Kitchener, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/envoinow",
+      "linkedin": "https://linkedin.com/company/envoinow",
+      "facebook": "https://facebook.com/envoinow"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Eat Sleep RIDE",
+    "website": "https://eatsleepride.com/",
+    "description": "EatSleepRIDE Motorcycle GPS is the best tracking, social + safety app for motorcycle riders.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/EatSleepRide",
+      "linkedin": "https://linkedin.com/company/eatsleepride",
+      "facebook": "https://facebook.com/ESR.cc"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Braze Mobility",
+    "website": "https://brazemobility.com/",
+    "description": "Braze Mobility has developed the world's first blind spot sensors for wheelchairs that offer multi-modal feedback.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/brazemobility",
+      "linkedin": "https://linkedin.com/company/braze-mobility-inc.",
+      "facebook": "https://facebook.com/brazemobility"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Wikimove",
+    "website": "https://wikimove.me/",
+    "description": "FLOW is a cross-regional, city-centric platform to manage the shift towards Mobility as a Service by leveraging data and orchestrating public and private mobility services in concert to the streets and infrastructure on which they rely.",
+    "location": "Mulfingen, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/wikimove"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Haylon Technologies",
+    "website": "https://haylontech.com/",
+    "description": "Making electrified products more sustainable by unleashing the full potential of existing batteries.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pkrnai4q4rldqqiyjr6p",
+    "location": "Champaign, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/haylon-technologies"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "RAEV",
+    "website": "https://raev.tech/",
+    "description": "RAEV is a fleet of shared, small, electric vehicles available for use on a pay-per-drive basis.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/u0xjiwmi1jyktezwyl2b",
+    "location": "Mullica Hill, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/raev-mobility"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Allosense",
+    "website": "https://allosense.com/",
+    "description": "Allosense makes advanced sensors and measurement systems. We specialize in logistics, test automation, and manufacturing.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nwrduigd8kcuxpane4h8",
+    "location": "San Antonio, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/allosense",
+      "linkedin": "https://linkedin.com/company/allosense",
+      "facebook": "https://facebook.com/allosense"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Lola Vision Systems",
+    "website": "https://lolavisionsystems.com/",
+    "description": "An AI and ML high performance computing systems and silicon provider. We specialize in creating custom solutions for Automotive, Aerospace and Defense OEMs.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lolavisionsystems"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "WiseDrive",
+    "website": "https://wisedrive.ee/",
+    "description": "Auto repair marketplace connecting car owners with trustworthy garages",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/aspknkotbhwagsqlzi0z",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/wisedrive",
+      "facebook": "https://facebook.com/WiseDriveEesti"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "GRIT",
+    "website": "https://gogrit.us/",
+    "description": "GRIT empowers people with disabilities to experience the outdoors and go on adventures with loved ones.",
+    "location": "Medford, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GRIT_Freedom",
+      "linkedin": "https://linkedin.com/company/gogrit",
+      "facebook": "https://facebook.com/gogrit.org"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Ultrium Technologies",
+    "website": "https://discoverultrium.com/",
+    "description": "Ultrium leverages AI and real-time vehicle data to predict breakdowns related to automobile maintenance, allowing owners to avoid costly repairs and downtime and adopt safer habits when operating a vehicle.",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/97416122"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "OptimizeEV",
+    "website": "https://optimizeev.com/",
+    "description": "OptimizeEV is a software as a service that uses predictive maintenance to prevent electric vehicle charging station downtimes and enhance network reliability and performance.",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/optimizeevdetroit"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Chargerzilla",
+    "website": "https://chargerzilla.com/",
+    "description": "Chargerzilla is a community-driven, AI-powered EV charging marketplace that connects property owners, EV charging networks, and businesses to EV drivers. Our platform increases utilization rates for charge point operators and unlocks new revenue streams for businesses such as hotels, commercial properties, and individual home owners.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/chargerzilla",
+      "linkedin": "https://linkedin.com/company/chargerzilla",
+      "facebook": "https://facebook.com/chargerzilla"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Split EV",
+    "website": "https://splitev.co/",
+    "description": "We're building the nation's largest electric vehicle charging network.",
+    "location": "Newark, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SplitEv",
+      "linkedin": "https://linkedin.com/company/81954408"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Meredot",
+    "website": "https://meredot.com/",
+    "description": "Universal solution for parking and wireless charging electric transport",
+    "location": "Lake Oswego, Oregon, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/@MeredotLLC",
+      "linkedin": "https://linkedin.com/company/meredot",
+      "facebook": "https://facebook.com/mere-dot-169206537146239/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "EV Safe Charge",
+    "website": "https://evsafecharge.com/",
+    "description": "EV Safe Charge rents, consults, and installs electric vehicle charging solutions.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EVSafeCharge",
+      "linkedin": "https://linkedin.com/company/ev-safe-charge",
+      "facebook": "https://facebook.com/EVSafeCharge/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "The Good Drone Company",
+    "website": "https://soargdc.com/",
+    "description": "The Good Drone Company uses advanced drone tech to solve just-in-time delivery issues, ensuring uptime in healthcare, energy, and logistics, boosting profitability.",
+    "location": "Paradise Valley, Arizona, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/thegooddronecompany"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Plug Zen",
+    "website": "https://plugzen.us/",
+    "description": "EV Charging Solutions, we develop & manufacture EV charging solutions",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/plug_zen",
+      "linkedin": "https://linkedin.com/company/plug-zen"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Nimbus Aerospace",
+    "website": "https://nimbusaerospace.com/",
+    "description": "Electrifying private air travel",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/95763755"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "NeuralTeks",
+    "website": "https://neuralteks.com/",
+    "description": "Revolutionizing lab diagnostics with AI-powered data analysis, delivering faster, precise results for microbiology labs",
+    "location": "Neuilly-sur-Seine, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/neuralteks"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Vamos",
+    "website": "https://vamospasajes.com/",
+    "description": "Vamos | the intercity bus marketplace in LATAM",
+    "location": "Potomac, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/vamospasajes",
+      "facebook": "https://facebook.com/Vamospasajes/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Smart Border Systems",
+    "website": "https://smartborder.systems/",
+    "description": "SBS | Intelligent Port Arrival systems",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/smart-border-systems",
+      "facebook": "https://facebook.com/smartbordersystems"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Pirl Technology",
+    "website": "https://thepirl.com/",
+    "description": "Pirl: Largest EV charging network",
+    "location": "Rockville, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pirl-technology"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "RideCommerce",
+    "website": "https://ridecommerce.co/",
+    "description": "ESG Supply Chain Platform for Scope 1,2,3 emissions",
+    "location": "Slough, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ridecommerce"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Varkn",
+    "website": "https://varkn.com/",
+    "description": "Valet Hailing Service App. We provide an on-demand airport parking service.",
+    "location": "Smyrna, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/varkn"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Payvmnt",
+    "website": "https://getpayvmnt.com/",
+    "description": "Payvmnt is last mile logistics technology company.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gyxbp1rl3oqmzu247phx",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/payvmnt",
+      "linkedin": "https://linkedin.com/company/payvmnt",
+      "facebook": "https://facebook.com/payvmnt"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Buyable",
+    "website": "https://itsbuyable.com/",
+    "description": "Buyable is an intelligent auto loan application process that captures a borrowers complete financial profile and matches them with smart loans and reliable vehicles; increasing revenue for banks and credit unions without compromising credit quality.",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/itsbuyable"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Tarot Analytics",
+    "website": "https://tarotanalytics.com/",
+    "description": "\"Waze for vehicle fleets\":  Simpler Multi-Stop Route Optimisation",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/TarotAnalytics",
+      "linkedin": "https://linkedin.com/company/tarot-analytics",
+      "facebook": "https://facebook.com/tarotanalytics"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "ReviMo",
+    "website": "https://revimo.org/",
+    "description": "Next-generation lift and transfer device",
+    "location": "Newton, Massachusetts, United States",
+    "social_media": {},
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "PlugOp Technologies",
+    "website": "https://plugop.com/",
+    "description": "PlugOp Technologies offers electric vehicle charging solutions for shared parking through dedicated port access to EV-owning residents.",
+    "location": "Columbus, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/plugop-technologies"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Socian Technologies",
+    "website": "https://socian.io/",
+    "description": "Autonomous drone systems that serve as the ultimate accountability tool for safer community policing.",
+    "location": "Glenwood, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/socian-technologies"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Pluck",
+    "website": "https://pluck.eco/",
+    "description": "Share delivery costs with other businesses in your community",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pluckeco"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Locus Mobility",
+    "website": "https://locusmobility.com/",
+    "description": "A white-label SaaS platform that simplifies the vehicle ownership experience through the automation of decisions, relationships, and services delivered to owners where they park.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/locus_mobility",
+      "linkedin": "https://linkedin.com/company/locus-mobility"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Windcredible",
+    "website": "https://windcredible.com/",
+    "description": "Urban Wind Turbines for Renewable Energy Generation",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cyxbtefnvz7dkix8cjt3",
+    "location": "Águas Livres, Portugal",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/windcredible"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "WheelPrice",
+    "website": "https://wheelprice.com/",
+    "description": "WheelPrice is a platform that allows users to search for wheels by maker and model number and filter results by price, location.",
+    "location": "Charlotte, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/WheelPrice",
+      "linkedin": "https://linkedin.com/company/wheelprice",
+      "facebook": "https://facebook.com/wheel.price/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Voltaage",
+    "website": "https://voltaage.io/",
+    "description": "Voltaage is an electric mobility marketplace for companies needing to electrify their vehicles fleet.",
+    "location": "Paris, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/voltaage"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Exovolar Industries",
+    "website": "https://exovolar.com/",
+    "description": "Empowering human aerial mobility. Making people FLY like superheroes.",
+    "location": "Union City, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/exovolar",
+      "linkedin": "https://linkedin.com/company/exovolar",
+      "facebook": "https://facebook.com/exovolar"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "ABBY by GOGOTECH",
+    "website": "https://gogotech.co/",
+    "description": "ABBY is a new smart wheelchair platform for adults with reduced mobility - Loaded with advanced features & easy to purchase online, with financing available.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ABBY_Gogotech",
+      "linkedin": "https://linkedin.com/company/abby-by-gogotech",
+      "facebook": "https://facebook.com/abby.gogotech"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Water Monster",
+    "website": "https://watermonster.io/",
+    "description": "IoT based services platform for water infrastructure",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/y8ygvwkqp9jp4g8basbu",
+    "location": "000, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/water-monster-io",
+      "facebook": "https://facebook.com/watermonster.io"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "MV Sales&Logistics",
+    "website": "https://mvsalesandlogistics.com/",
+    "description": "Live a unique experience automating and controlling through AI tools your field sales and logistics teams with MV sales & logistics platform.",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/movil-ventas"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "GridLink",
+    "website": "https://grid-link.co/",
+    "description": "For EV fleet managers looking to reduce costs of operation, Gridlink provides intelligent charging management software to streamline operations and save on charging.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/gridlinkco"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Enigma Aerospace",
+    "website": "https://enigma.aero/",
+    "description": "Heavy lift, long range autonomous cargo aircraft for defense and B2B logistics.",
+    "location": "Burlington, Massachusetts, United States",
+    "social_media": {},
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Aerofuse",
+    "website": "https://aero-fuse.com/",
+    "description": "Fusion Powered Aviation",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/96918498"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "MCLedger",
+    "website": "https://mcledger.fr/",
+    "description": "MCLedger makes innovative Cloud, AI, and Blockchain applications for Supply chain and Fintech.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ihubif9tkozxaee5t6a6",
+    "location": "Palaiseau, France",
+    "social_media": {
+      "twitter": "https://twitter.com/mc_ledger",
+      "linkedin": "https://linkedin.com/company/mcledger",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "LEMON",
+    "website": "https://eevy.fr/",
+    "description": "EEVY is on the way to democratize millions of private chargers to the public",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v9d5ay5swnvatt8yqxry",
+    "location": "Paris, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/eevy"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "FEZ Delivery Co",
+    "website": "https://fezdelivery.co/",
+    "description": "Perfecting the last mile, one delivery at a time.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/dhante3gnxlxbs6trcnh",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/fezdeliveryco",
+      "linkedin": "https://linkedin.com/company/fez-delivery-co"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Autoparti",
+    "website": "https://autoparti.com.co/",
+    "description": "Autoparti is a SalesTech SaaS, giving to SMBs in the automotive industry the tools to grow with technology by reducing marketing costs while boosting digital sales",
+    "location": "Aventura, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/autoparti",
+      "facebook": "https://facebook.com/autoparti/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Autority",
+    "website": "https://autority.io/",
+    "description": "Autority is a consolidated payment platform for car owners.",
+    "location": "Quito, Ecuador",
+    "social_media": {
+      "twitter": "https://twitter.com/autority_io",
+      "linkedin": "https://linkedin.com/company/76914575",
+      "facebook": "https://facebook.com/autority.io"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Earthics",
+    "website": "https://earthics.net/",
+    "description": "Carbon SeaQuest develops decarbonization solutions for hard-to-abate sectors, utilizing low-cost and high-performing advanced materials.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/carbon-seaquest"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "THYIM",
+    "website": "https://thyim.com/",
+    "description": "THYIM INC is a pioneering company transforming community support through its innovative aggregation platform, the PINS (Persons In Need of Services) & Helpers Mobile & Web Apps. These revolutionary apps facilitate indoor, outdoor, and roadside assistance (i.e. gas delivery, tire changes, trash removal, holiday services, spider removal and more) by connecting everyday people who need help with everyday people who can provide it, all within a 15-minute radius.",
+    "location": "Lansing, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/thyim_inc"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "STB Technologies",
+    "website": "https://securethebags.co/",
+    "description": "STB Technologies builds seamless, intelligent, and interconnected solutions. We empower industries and individuals by developing innovative technologies that enhance efficiency, safety, and sustainability, driving the world towards a smarter and more autonomous tomorrow.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/stbtechnologies"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Humans Deliver",
+    "website": "https://humansdeliver.com/",
+    "description": "Provides an AI-powered API that integrates real-time restroom and meal stop options into delivery routing tools, optimizing efficiency and lowering costs for carriers.",
+    "location": "New York City, New York, United States",
+    "social_media": {},
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "OXON Technologies",
+    "website": "https://oxon-tech.com/",
+    "description": "The Fuel Matrix helps ocean-going vessels reduce fuel consumption and emissions by improving conventional liquid fuels for more efficient, cleaner combustion.",
+    "location": "Henderson, Nevada, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oxon-tech-fuelmatrix",
+      "facebook": "https://facebook.com/Fuel-Matrix-842225212559146/"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Fortified Bicycle",
+    "website": "https://fortifiedbike.com/",
+    "description": "Bike gear that survives the city. Guaranteed against theft.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FORTIFIEDbike",
+      "linkedin": "https://linkedin.com/company/fortified-bicycle-alliance",
+      "facebook": "https://facebook.com/fortifiedbike"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Teporto",
+    "website": "https://linkedin.com/company/teporto",
+    "description": "Cloud-based commuting solution that manages shuttles with adaptive routes for employers and cities",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Teporto_Commute",
+      "linkedin": "https://linkedin.com/company/teporto"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "SkyHi",
+    "website": "https://linkedin.com/company/10526613",
+    "description": "SkyHi is the first on-demand service for commercial airline tickets",
+    "location": "Apple Valley, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/skyhi",
+      "linkedin": "https://linkedin.com/company/10526613",
+      "facebook": "https://facebook.com/travelskyhi"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Priva",
+    "website": "https://linkedin.com/company/priva-building-intelligence",
+    "description": "Priva is door-to-door regional mobility. We give travelers time for productivity while in transit by providing a streamlined alternative to commuter flights.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/privaint",
+      "linkedin": "https://linkedin.com/company/priva-building-intelligence",
+      "facebook": "https://facebook.com/Priva-Inc-1773340752941690"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Loadzpro",
+    "website": "https://linkedin.com/company/loadzpro",
+    "description": "Our Proprietary Technology Helps anyone with a Truck start making money in the $800 Billion Trucking Industry",
+    "location": "Covington, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/company/loadzpro",
+      "facebook": "https://facebook.com/Loadzpro"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "InstaCar",
+    "website": "https://linkedin.com/company/instacar-technologies",
+    "description": "Expanding India's mobility options for intercity travel.",
+    "location": "Indore, Madhya Pradesh, India",
+    "social_media": {
+      "twitter": "https://twitter.com/instacarin",
+      "linkedin": "https://linkedin.com/company/instacar-technologies",
+      "facebook": "https://facebook.com/instacar.in"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Dash Labs",
+    "website": "https://linkedin.com/company/dashmobile",
+    "description": "Developer of a connected car platform designed to make any car a smart car.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/dashmobile",
+      "linkedin": "https://linkedin.com/company/dashmobile",
+      "facebook": "https://facebook.com/dashlabs"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Chargd",
+    "website": "https://linkedin.com/company/chargd-app",
+    "description": "Connecting vehicles, chargers and people to integrate  EV experiences into individual lifestyles.",
+    "location": "Munich, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/chargd-app"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "Carma",
+    "website": "https://linkedin.com/company/carma-au",
+    "description": "Carma is a fully digital used car dealership, offering a large range of quality pre-owned vehicles at fixed prices, delivered to the home.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FreshCarHQ",
+      "linkedin": "https://linkedin.com/company/carma-au",
+      "facebook": "https://facebook.com/CARMA-107480824055160"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  },
+  {
+    "name": "LOCCO",
+    "website": "https://linkedin.com/company/loccoapp",
+    "description": "LOCCO is a platform that uses location-based technology to provide drivers with audio content access.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ksap24ouybmlam8i5g9j",
+    "location": "Munich, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/loccoapp",
+      "facebook": "https://facebook.com/yourlocalcompanion"
+    },
+    "industry": "Mobility tech",
+    "industry_slug": "mobility-tech"
+  }
+]

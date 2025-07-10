@@ -1,0 +1,24 @@
+{
+  "name": "portl media",
+  "slug": "portl-media",
+  "website": "https://portlmedia.com/",
+  "description": "We are Portl Media, the interactive entertainment platform for rideshare vehicles today and autonomous vehicles tomorrow.",
+  "one_liner": "We are Portl Media, the interactive entertainment platform for rideshare vehicles today and autonomous vehicles tomorrow.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/portlmedia",
+    "linkedin": "https://linkedin.com/company/portl-media",
+    "facebook": "https://facebook.com/pg/portlmedia/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/portl-media",
+  "api": "/api/companies/portl-media.json"
+}

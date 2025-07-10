@@ -1,0 +1,23 @@
+{
+  "name": "DocuMentor",
+  "slug": "documentor",
+  "website": "https://yourdocumentor.com/",
+  "description": "DocuMentor is an easy to use and affordable electronic visit verification (EVV) solution for in-home care providers that simplifies compliance",
+  "one_liner": "DocuMentor is an easy to use and affordable electronic visit verification (EVV) solution for in-home care providers that simplifies compliance",
+  "location": "Indianapolis, Indiana, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/yourdocumentor",
+    "linkedin": "https://linkedin.com/company/yourdocumentor"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/documentor",
+  "api": "/api/companies/documentor.json"
+}

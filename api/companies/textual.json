@@ -1,0 +1,23 @@
+{
+  "name": "Textual",
+  "slug": "textual",
+  "website": "https://textual.com/",
+  "description": "Textual builds Text-to-Buy programs that allow customers to buy their favorite products via text message without entering a credit card.",
+  "one_liner": "Textual builds Text-to-Buy programs that allow customers to buy their favorite products via text message without entering a credit card.",
+  "location": "Boise, Idaho, United States",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/YEStobuy",
+    "linkedin": "https://linkedin.com/company/textual-com"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/textual",
+  "api": "/api/companies/textual.json"
+}

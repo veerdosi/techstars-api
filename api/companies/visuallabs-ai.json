@@ -1,0 +1,22 @@
+{
+  "name": "VisualLabs AI",
+  "slug": "visuallabs-ai",
+  "website": "https://linkedin.com/company/visuallabs-ai",
+  "description": "For musicians, producers, and DJs looking to create high-quality music videos to increase engagement at low cost, VisualLabs AI enables effortless generation of audio-reactive visuals.",
+  "one_liner": "For musicians, producers, and DJs looking to create high-quality music videos to increase engagement at low cost, VisualLabs AI enables effortless generation of audio-reactive visuals.",
+  "location": "Princeton, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/visuallabs-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/visuallabs-ai",
+  "api": "/api/companies/visuallabs-ai.json"
+}

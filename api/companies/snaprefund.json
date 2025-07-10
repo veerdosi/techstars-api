@@ -1,0 +1,22 @@
+{
+  "name": "SnapRefund",
+  "slug": "snaprefund",
+  "website": "https://snaprefund.io/",
+  "description": "For insurance businesses that have inefficient claims payment operations, SnapRefund streamlines the claim payment process to the delight of claims teams and their policyholders.",
+  "one_liner": "For insurance businesses that have inefficient claims payment operations, SnapRefund streamlines the claim payment process to the delight of claims teams and their policyholders.",
+  "location": "Philadelphia, Pennsylvania, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/snaprefund"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/snaprefund",
+  "api": "/api/companies/snaprefund.json"
+}

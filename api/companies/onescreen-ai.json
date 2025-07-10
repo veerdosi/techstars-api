@@ -1,0 +1,24 @@
+{
+  "name": "OneScreen AI",
+  "slug": "onescreen-ai",
+  "website": "https://onescreen.ai/",
+  "description": "OneScreen.ai is a SaaS-enabled market network that is transforming offline advertising - from billboards & transit to bars & stadiums.",
+  "one_liner": "OneScreen.ai is a SaaS-enabled market network that is transforming offline advertising - from billboards & transit to bars & stadiums.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/onescreenai",
+    "linkedin": "https://linkedin.com/company/onescreen-ai",
+    "facebook": "https://facebook.com/OneScreenAI/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/onescreen-ai",
+  "api": "/api/companies/onescreen-ai.json"
+}

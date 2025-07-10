@@ -1,0 +1,22 @@
+{
+  "name": "Cassie",
+  "slug": "cassie",
+  "website": "https://aircassie.com/",
+  "description": "CASSIE creates green air filtration with a patented technology that is placed in ventilation systems. CASSIE disinfects mold, bacteria, and viruses within 8 seconds. Since CASSIE disinfects germs within 8 seconds it is controlled by our web portal.",
+  "one_liner": "CASSIE creates green air filtration with a patented technology that is placed in ventilation systems. CASSIE disinfects mold, bacteria, and viruses within 8 seconds. Since CASSIE disinfects germs within 8 seconds it is controlled by our web portal.",
+  "location": "Virginia Beach, Virginia, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/2e1blab"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cassie",
+  "api": "/api/companies/cassie.json"
+}

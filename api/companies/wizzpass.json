@@ -1,0 +1,24 @@
+{
+  "name": "WizzPass",
+  "slug": "wizzpass",
+  "website": "https://wizzpass.com/",
+  "description": "WizzPass is a revolutionary new parking access control system used at office parks, various types of paid-parking areas, and residential parking areas.",
+  "one_liner": "WizzPass is a revolutionary new parking access control system used at office parks, various types of paid-parking areas, and residential parking areas.",
+  "location": "Johannesburg, South Africa",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/wizzpass",
+    "linkedin": "https://linkedin.com/company/wizzpass",
+    "facebook": "https://facebook.com/pg/WizzPass/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/wizzpass",
+  "api": "/api/companies/wizzpass.json"
+}

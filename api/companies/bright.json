@@ -1,0 +1,24 @@
+{
+  "name": "BRIGHT",
+  "slug": "bright",
+  "website": "https://getmebright.com/",
+  "description": "BRIGHT is a health and technology company that designs products and develops habits for brain health.",
+  "one_liner": "BRIGHT is a health and technology company that designs products and develops habits for brain health.",
+  "location": "New York City, New York, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/",
+    "linkedin": "https://linkedin.com/company/getmebright",
+    "facebook": "https://facebook.com/getmebright"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bright",
+  "api": "/api/companies/bright.json"
+}

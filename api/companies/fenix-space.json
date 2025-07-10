@@ -1,0 +1,22 @@
+{
+  "name": "Fenix Space",
+  "slug": "fenix-space",
+  "website": "https://fenixspace.com/",
+  "description": "Fenix Space is a revolutionary platform that provides responsive and flexible launch-on-demand services at rideshare prices.",
+  "one_liner": "Fenix Space is a revolutionary platform that provides responsive and flexible launch-on-demand services at rideshare prices.",
+  "location": "San Bernardino, California, United States",
+  "industry": "Space tech",
+  "industry_slug": "space-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/eric02wlz1vw3qopc4t2",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/fenixspace"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fenix-space",
+  "api": "/api/companies/fenix-space.json"
+}

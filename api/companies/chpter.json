@@ -1,0 +1,23 @@
+{
+  "name": "Chpter",
+  "slug": "chpter",
+  "website": "https://chpter.co/",
+  "description": "Manage your online sales, message your customers and automate your marketing all in one place.",
+  "one_liner": "Manage your online sales, message your customers and automate your marketing all in one place.",
+  "location": "Nairobi, Kenya",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/join_chptr",
+    "linkedin": "https://linkedin.com/company/chpter-holdings"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/chpter",
+  "api": "/api/companies/chpter.json"
+}

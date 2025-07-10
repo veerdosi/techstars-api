@@ -1,0 +1,24 @@
+{
+  "name": "Maxwell",
+  "slug": "maxwell",
+  "website": "https://maxwell.app/",
+  "description": "Making it easy to offer life/work benefits and rewards for all",
+  "one_liner": "Making it easy to offer life/work benefits and rewards for all",
+  "location": "Omaha, Nebraska, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mxwdazgcmceolufwatea",
+  "social_media": {
+    "twitter": "https://twitter.com/maxwellapphq",
+    "linkedin": "https://linkedin.com/company/maxwell-app",
+    "facebook": "https://facebook.com/maxwell.app.hq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/maxwell",
+  "api": "/api/companies/maxwell.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Astron Systems",
+  "slug": "astron-systems",
+  "website": "https://astronsystems.com/",
+  "description": "Astron Systems are developing fully reusable rockets for affordable, responsive, and sustainable space access for small satellites.",
+  "one_liner": "Astron Systems are developing fully reusable rockets for affordable, responsive, and sustainable space access for small satellites.",
+  "location": "Didcot, United Kingdom",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/astron-systems?originalSubdomain=uk"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/astron-systems",
+  "api": "/api/companies/astron-systems.json"
+}

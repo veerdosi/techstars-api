@@ -1,0 +1,24 @@
+{
+  "name": "MealMe",
+  "slug": "mealme",
+  "website": "https://mealme.ai/",
+  "description": "MealMe brings all major food delivery apps into one.",
+  "one_liner": "MealMe brings all major food delivery apps into one.",
+  "location": "Scottdale, Georgia, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mealmeai",
+    "linkedin": "https://linkedin.com/company/mealme",
+    "facebook": "https://facebook.com/mealmeapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mealme",
+  "api": "/api/companies/mealme.json"
+}

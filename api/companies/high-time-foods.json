@@ -1,0 +1,22 @@
+{
+  "name": "High Time Foods",
+  "slug": "high-time-foods",
+  "website": "https://hightimefoods.com/",
+  "description": "High Time Foods empowers chefs with accessible, shelf-stable, and cuisine-agnostic plant-based meat alternatives that are better for people, the planet, and peeps.",
+  "one_liner": "High Time Foods empowers chefs with accessible, shelf-stable, and cuisine-agnostic plant-based meat alternatives that are better for people, the planet, and peeps.",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/high-time-foods"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/high-time-foods",
+  "api": "/api/companies/high-time-foods.json"
+}

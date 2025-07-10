@@ -1,0 +1,23 @@
+{
+  "name": "Boxologic",
+  "slug": "boxologic",
+  "website": "https://boxologic.com/",
+  "description": "Boxologic is an MA, Boston-based start-up focusing on e-commerce fulfillment robotics.",
+  "one_liner": "Boxologic is an MA, Boston-based start-up focusing on e-commerce fulfillment robotics.",
+  "location": "Watertown, Connecticut, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/boxologic",
+    "linkedin": "https://linkedin.com/in/yildiray-sager-4aaa763"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/boxologic",
+  "api": "/api/companies/boxologic.json"
+}

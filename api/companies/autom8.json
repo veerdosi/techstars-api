@@ -1,0 +1,22 @@
+{
+  "name": "Autom8",
+  "slug": "autom8",
+  "website": "https://linkedin.com/company/autom8-network",
+  "description": "The world's first open   serverless platform",
+  "one_liner": "The world's first open   serverless platform",
+  "location": "New York City, New York, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/autom8-network"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/autom8",
+  "api": "/api/companies/autom8.json"
+}

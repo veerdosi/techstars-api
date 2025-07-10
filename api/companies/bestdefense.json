@@ -1,0 +1,22 @@
+{
+  "name": "BestDefense",
+  "slug": "bestdefense",
+  "website": "https://bestdefense.io/",
+  "description": "We stress test your infrastructure abilities to scale, evaluate your security posture through automated vulnerability and pen tests, and track/alert network threats in real-time.",
+  "one_liner": "We stress test your infrastructure abilities to scale, evaluate your security posture through automated vulnerability and pen tests, and track/alert network threats in real-time.",
+  "location": "Clearwater, Florida, United States",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/bestdefense-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bestdefense",
+  "api": "/api/companies/bestdefense.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "CodeMentor",
+  "slug": "codementor",
+  "website": "https://codementor.io/",
+  "description": "Instant help marketplace for developers",
+  "one_liner": "Instant help marketplace for developers",
+  "location": "Sunnyvale, California, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/codementorIO",
+    "linkedin": "https://linkedin.com/company/10036603",
+    "facebook": "https://facebook.com/codementor"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/codementor",
+  "api": "/api/companies/codementor.json"
+}

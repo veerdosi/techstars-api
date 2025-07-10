@@ -1,0 +1,22 @@
+{
+  "name": "K'ept Health",
+  "slug": "k-ept-health",
+  "website": "https://kept.health/",
+  "description": "K'ept Health is a dermatology telemedicine company that specializes in personalized skincare and lifestyle-based medicine.",
+  "one_liner": "K'ept Health is a dermatology telemedicine company that specializes in personalized skincare and lifestyle-based medicine.",
+  "location": "Washington, District of Columbia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/kepthhealth"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/k-ept-health",
+  "api": "/api/companies/k-ept-health.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Geopipe",
+  "slug": "geopipe",
+  "website": "https://geopipe.ai/",
+  "description": "Immersive virtual copies of the world, built by algorithms, for games, SFX, simulation, architecture, real estate, VR/AR, and beyond.",
+  "one_liner": "Immersive virtual copies of the world, built by algorithms, for games, SFX, simulation, architecture, real estate, VR/AR, and beyond.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/geopipeinc",
+    "linkedin": "https://linkedin.com/company/10985571",
+    "facebook": "https://facebook.com/geopipeinc/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/geopipe",
+  "api": "/api/companies/geopipe.json"
+}

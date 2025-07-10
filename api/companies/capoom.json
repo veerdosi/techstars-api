@@ -1,0 +1,22 @@
+{
+  "name": "Capoom",
+  "slug": "capoom",
+  "website": "https://capoom.com/",
+  "description": "Capoom is a software company developing AI based automatic 3d modeling software.",
+  "one_liner": "Capoom is a software company developing AI based automatic 3d modeling software.",
+  "location": "Ann Arbor, Michigan, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/irk4bkrls8rlqrqwd7ci",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/capoom"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/capoom",
+  "api": "/api/companies/capoom.json"
+}

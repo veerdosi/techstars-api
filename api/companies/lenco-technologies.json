@@ -1,0 +1,24 @@
+{
+  "name": "Lenco Technologies",
+  "slug": "lenco-technologies",
+  "website": "https://lenco.co/",
+  "description": "A pan-African Neobank for Businesses.",
+  "one_liner": "A pan-African Neobank for Businesses.",
+  "location": "Lagos, Nigeria",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/LencoHQ",
+    "linkedin": "https://linkedin.com/company/LencoBank",
+    "facebook": "https://facebook.com/LencoBank"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lenco-technologies",
+  "api": "/api/companies/lenco-technologies.json"
+}

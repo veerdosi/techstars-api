@@ -1,0 +1,23 @@
+{
+  "name": "Medzoomer",
+  "slug": "medzoomer",
+  "website": "https://medzoomer.com/",
+  "description": "On-demand prescription delivery at the touch of a button.",
+  "one_liner": "On-demand prescription delivery at the touch of a button.",
+  "location": "Tampa, Florida, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/medzoomer",
+    "facebook": "https://facebook.com/medzoomer/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/medzoomer",
+  "api": "/api/companies/medzoomer.json"
+}

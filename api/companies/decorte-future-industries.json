@@ -1,0 +1,24 @@
+{
+  "name": "Decorte Future Industries",
+  "slug": "decorte-future-industries",
+  "website": "https://decortefutureindustries.com/",
+  "description": "DFI augments humanity through intelligent clothing; embedded real-time biometrics enable remote and predictive healthcare, AI controls yield digital superpowers",
+  "one_liner": "DFI augments humanity through intelligent clothing; embedded real-time biometrics enable remote and predictive healthcare, AI controls yield digital superpowers",
+  "location": "Cambridge, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/DecorteFuture",
+    "linkedin": "https://linkedin.com/company/decorte-future-industries",
+    "facebook": "https://facebook.com/DecorteFutureIndustries"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/decorte-future-industries",
+  "api": "/api/companies/decorte-future-industries.json"
+}

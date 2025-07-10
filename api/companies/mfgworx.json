@@ -1,0 +1,22 @@
+{
+  "name": "MFGWorx",
+  "slug": "mfgworx",
+  "website": "https://linkedin.com/company/mfgworx",
+  "description": "MFGWorx is a live chat job board that targets the manufacturing and industrial sectors connecting hiring managers to candidates instantly and offering various solutions to help close the talent gap.",
+  "one_liner": "MFGWorx is a live chat job board that targets the manufacturing and industrial sectors connecting hiring managers to candidates instantly and offering various solutions to help close the talent gap.",
+  "location": "Warrenville, Illinois, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xsz3ejpqjo0gladolu9y",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/mfgworx"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mfgworx",
+  "api": "/api/companies/mfgworx.json"
+}

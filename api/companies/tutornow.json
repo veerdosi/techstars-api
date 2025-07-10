@@ -1,0 +1,23 @@
+{
+  "name": "Tutornow",
+  "slug": "tutornow",
+  "website": "https://tutornow.it/",
+  "description": "End-to-end online tutoring platform with a focus on learning disorders.",
+  "one_liner": "End-to-end online tutoring platform with a focus on learning disorders.",
+  "location": "Appiano Gentile, Como, Italy",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/tutornowonline",
+    "facebook": "https://facebook.com/tutornow.it/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tutornow",
+  "api": "/api/companies/tutornow.json"
+}

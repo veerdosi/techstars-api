@@ -1,0 +1,24 @@
+{
+  "name": "Trellis Research",
+  "slug": "trellis-research",
+  "website": "https://trellis.law/",
+  "description": "Legal intelligence and judicial analytics for law firms.",
+  "one_liner": "Legal intelligence and judicial analytics for law firms.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Insurtech",
+  "industry_slug": "insurtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/trellis_law",
+    "linkedin": "https://linkedin.com/company/trellis-law",
+    "facebook": "https://facebook.com/trellis.rocks"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/trellis-research",
+  "api": "/api/companies/trellis-research.json"
+}

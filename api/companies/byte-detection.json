@@ -1,0 +1,20 @@
+{
+  "name": "Byte Detection",
+  "slug": "byte-detection",
+  "website": "https://bytedetection.com/",
+  "description": "For risk and compliance teams, Byte Detection is a no-code rules engine for detecting fraud for real-time payments.",
+  "one_liner": "For risk and compliance teams, Byte Detection is a no-code rules engine for detecting fraud for real-time payments.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/byte-detection",
+  "api": "/api/companies/byte-detection.json"
+}

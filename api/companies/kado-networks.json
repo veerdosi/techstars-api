@@ -1,0 +1,24 @@
+{
+  "name": "KADO Networks",
+  "slug": "kado-networks",
+  "website": "https://kadonetworks.com/",
+  "description": "A smart networking solution that helps professionals build meaningful relationships that turn into deals.",
+  "one_liner": "A smart networking solution that helps professionals build meaningful relationships that turn into deals.",
+  "location": "New York City, New York, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/KadoNetworks",
+    "linkedin": "https://linkedin.com/company/kado-networks",
+    "facebook": "https://facebook.com/kadonetworks"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kado-networks",
+  "api": "/api/companies/kado-networks.json"
+}

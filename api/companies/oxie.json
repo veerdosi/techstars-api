@@ -1,0 +1,24 @@
+{
+  "name": "Oxie",
+  "slug": "oxie",
+  "website": "https://linkedin.com/company/6426470",
+  "description": "Oxie is the first smart, wearable air purifier enabling users to breathe clean air and receive real-time air quality information.",
+  "one_liner": "Oxie is the first smart, wearable air purifier enabling users to breathe clean air and receive real-time air quality information.",
+  "location": "Tel Aviv, Israel",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/oxieco",
+    "linkedin": "https://linkedin.com/company/6426470",
+    "facebook": "https://facebook.com/oxieco"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/oxie",
+  "api": "/api/companies/oxie.json"
+}

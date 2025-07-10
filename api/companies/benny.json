@@ -1,0 +1,24 @@
+{
+  "name": "Benny",
+  "slug": "benny",
+  "website": "https://heybenny.com/",
+  "description": "Benny provides financing to employees of publicly traded companies so they can participate in their employee stock purchase plans (ESPPs).",
+  "one_liner": "Benny provides financing to employees of publicly traded companies so they can participate in their employee stock purchase plans (ESPPs).",
+  "location": "Madison, Wisconsin, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/rootedlending",
+    "linkedin": "https://linkedin.com/company/bennyfinancial",
+    "facebook": "https://facebook.com/heybennyapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/benny",
+  "api": "/api/companies/benny.json"
+}

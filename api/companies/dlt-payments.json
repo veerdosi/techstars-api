@@ -1,0 +1,24 @@
+{
+  "name": "DLT Payments",
+  "slug": "dlt-payments",
+  "website": "https://dltpay.com/",
+  "description": "Web3 business payments processing for digital assets, stablecoins and CBDCs.",
+  "one_liner": "Web3 business payments processing for digital assets, stablecoins and CBDCs.",
+  "location": "Tallinn, Estonia",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/n6j2grwotknibrltcrd1",
+  "social_media": {
+    "twitter": "https://twitter.com/dltpay",
+    "linkedin": "https://linkedin.com/company/dltpay",
+    "facebook": "https://facebook.com/dltpay"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dlt-payments",
+  "api": "/api/companies/dlt-payments.json"
+}

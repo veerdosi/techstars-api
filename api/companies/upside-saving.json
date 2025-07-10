@@ -1,0 +1,24 @@
+{
+  "name": "Upside Saving",
+  "slug": "upside-saving",
+  "website": "https://linkedin.com/company/upside-money",
+  "description": "Intelligent cashback as an API, fuelled by Open Banking, helping apps engage and delight their users.",
+  "one_liner": "Intelligent cashback as an API, fuelled by Open Banking, helping apps engage and delight their users.",
+  "location": "London, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/upsidesaving",
+    "linkedin": "https://linkedin.com/company/upside-money",
+    "facebook": "https://facebook.com/Upside-Saving-106533801028301"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/upside-saving",
+  "api": "/api/companies/upside-saving.json"
+}

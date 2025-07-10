@@ -1,0 +1,24 @@
+{
+  "name": "Emergency Response Africa",
+  "slug": "emergency-response-africa",
+  "website": "https://emergencyresponseafrica.com/",
+  "description": "Emergency Response Africa - Delivering emergency care in minutes by connecting anyone that needs help with the largest network of first responders, emergency vehicles, and hospitals",
+  "one_liner": "Emergency Response Africa - Delivering emergency care in minutes by connecting anyone that needs help with the largest network of first responders, emergency vehicles, and hospitals",
+  "location": "Waterloo, Ontario, Canada",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/efnnhl66vbb32i71iryq",
+  "social_media": {
+    "twitter": "https://twitter.com/EResponseAfrica",
+    "linkedin": "https://linkedin.com/company/13058330",
+    "facebook": "https://facebook.com/emergencyresponseafrica/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/emergency-response-africa",
+  "api": "/api/companies/emergency-response-africa.json"
+}

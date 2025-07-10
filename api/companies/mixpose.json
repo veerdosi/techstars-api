@@ -1,0 +1,24 @@
+{
+  "name": "MixPose",
+  "slug": "mixpose",
+  "website": "https://linkedin.com/company/mixpose",
+  "description": "MixPose's streaming platform leverages artificial intelligence to empower yoga instructors, personal trainers and dance teachers.",
+  "one_liner": "MixPose's streaming platform leverages artificial intelligence to empower yoga instructors, personal trainers and dance teachers.",
+  "location": "San Francisco, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mixpose",
+    "linkedin": "https://linkedin.com/company/mixpose",
+    "facebook": "https://facebook.com/MixPoseAI"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mixpose",
+  "api": "/api/companies/mixpose.json"
+}

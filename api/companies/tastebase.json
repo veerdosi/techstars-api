@@ -1,0 +1,24 @@
+{
+  "name": "Tastebase",
+  "slug": "tastebase",
+  "website": "https://tastebase.com/",
+  "description": "The home base for food lovers to discover new tastes from emerging brands helping consumers find the right products they'll love.",
+  "one_liner": "The home base for food lovers to discover new tastes from emerging brands helping consumers find the right products they'll love.",
+  "location": "Saratoga, California, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/tastebaseco",
+    "linkedin": "https://linkedin.com/company/tastebaseco",
+    "facebook": "https://facebook.com/tastebasefoods"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tastebase",
+  "api": "/api/companies/tastebase.json"
+}

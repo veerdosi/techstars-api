@@ -1,0 +1,24 @@
+{
+  "name": "Reflekt Me",
+  "slug": "reflekt-me",
+  "website": "https://reflektme.com/",
+  "description": "A B2B SaaS platform enabling beauty and fashion brands to monetize their user and employee generated content by curating and displaying images that reflect untapped online communities, resulting in a 1% top-line revenue increase for large brands.",
+  "one_liner": "A B2B SaaS platform enabling beauty and fashion brands to monetize their user and employee generated content by curating and displaying images that reflect untapped online communities, resulting in a 1% top-line revenue increase for large brands.",
+  "location": "Sandy Springs, Georgia, United States",
+  "industry": "Beauty",
+  "industry_slug": "beauty",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/reflektme",
+    "linkedin": "https://linkedin.com/company/reflekt-me",
+    "facebook": "https://facebook.com/reflektme/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/reflekt-me",
+  "api": "/api/companies/reflekt-me.json"
+}

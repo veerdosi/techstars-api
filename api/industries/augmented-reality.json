@@ -1,0 +1,465 @@
+[
+  {
+    "name": "Testlio",
+    "website": "https://testlio.com/",
+    "description": "Testlio is an expert community of verified mobile testers with a platform that seamlessly integrates into your team's development process.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/testlio",
+      "linkedin": "https://linkedin.com/company/testlio",
+      "facebook": "https://facebook.com/testlio"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Occipital",
+    "website": "https://canvas.io/",
+    "description": "Mobile computer vision",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/occipital",
+      "linkedin": "https://linkedin.com/company/occipital",
+      "facebook": "https://facebook.com/Occipital"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "echo3D",
+    "website": "https://echo3d.co/",
+    "description": "Cloud platform for augmented and virtual reality (AR/VR) apps that provides tools & server-side infrastructure to help companies build better 3D apps.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/_echoAR_",
+      "linkedin": "https://linkedin.com/company/echo3D",
+      "facebook": "https://facebook.com/echo3DInc/"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "tagSpace",
+    "website": "https://tagspace.com/",
+    "description": "Locational AR for Festivals, Tourism and Big Events. No code required!",
+    "location": "Byron Bay, New South Wales, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/tagSpaceCo",
+      "linkedin": "https://linkedin.com/in/paulsimonmartin",
+      "facebook": "https://facebook.com/tagSpaceCo"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Right  Hear",
+    "website": "https://right-hear.com/",
+    "description": "Provides talking signage, so everyone can interpret and understand their surroundings in real time.",
+    "location": "Ra'anana, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/righthearapp",
+      "linkedin": "https://linkedin.com/company/10690086",
+      "facebook": "https://facebook.com/RightHearApp/"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Kilsar",
+    "website": "https://kilsar.com/",
+    "description": "Kilsar provides a suite of software and hardware solutions that enable real-time intelligence, multi-channel communication, augmented reality (AR), and digital tooling capabilities for teams and workforces.",
+    "location": "Virginia Beach, Virginia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kilsar"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "STHRIVE",
+    "website": "https://sthrive.com/",
+    "description": "STHRIVE is a learning platform for salesforce education, offering content curation, AI-driven training, analytics, and gamified experiences.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/khszadyf1mfvp5esdpbk",
+    "location": "Dubai, United Arab Emirates",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sthrive"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Rana",
+    "website": "https://ranaenergy.co/",
+    "description": "RANA is building a brighter future for you, we provide an Energy-as-a-service ecosystem that is reliable, hassle-free and clean",
+    "location": "London, United Kingdom",
+    "social_media": {},
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Lucky Juicebox",
+    "website": "https://luckyjuicebox.com/",
+    "description": "Games and tools for XR Headsets. For Anyone, anywhere.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lucky_juicebox",
+      "linkedin": "https://linkedin.com/company/luckyjuicebox"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Skyglass",
+    "website": "https://skyglass.com/",
+    "description": "Hollywood effects for content creators",
+    "location": "Lyons, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/skyglassapp",
+      "linkedin": "https://linkedin.com/company/skyglass"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Fiskher AS",
+    "website": "https://fishbuddy.app/",
+    "description": "Fishbuddy revolutionizes recreational fishing with a knowledge-based approach, combining expert advice from top anglers in each country, AI/AR technology, and satellite data. Offering tailored fishing spots and real-time insights for key species, Fishbuddy also supports marine conservation by working with authorities like the Coast Guard, empowering users to fish smarter while protecting marine ecosystems.",
+    "location": "Lillesand, Agder, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/fishbuddy"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Spatial Guide",
+    "website": "https://spatial.guide/",
+    "description": "Mobile platform to create & distribute instruction manuals in augmented reality, to reduce usage friction for equipment users.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/g4en8ybvnrnma74poyrt",
+    "location": "Delaware, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/guideapp_",
+      "linkedin": "https://linkedin.com/company/spatial-guide",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "ReBokeh",
+    "website": "https://rebokeh.com/",
+    "description": "Application designed to enhance vision with moderate vision impairment in mind.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/otjpaiczn4ywhndeeo6n",
+    "location": "Towson, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rebokeh",
+      "facebook": "https://facebook.com/rebokehvision"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Malamute",
+    "website": "https://malamute.us/",
+    "description": "AI-layered industrial communication networks to empower workers with the right data at the right time",
+    "location": "Newport, Rhode Island, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MalamuteInc",
+      "linkedin": "https://linkedin.com/company/malamute"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Flustr",
+    "website": "https://flustr.com/",
+    "description": "A mobile platform for users to compete with friends in a live, short-form video game where spectators control the outcome.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vfrngpleg1xqw2ifbdj7",
+    "location": "Inglewood, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/uvsfriends",
+      "linkedin": "https://linkedin.com/company/flustr",
+      "facebook": "https://facebook.com/flvstr"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Brave",
+    "website": "https://bravevirtualworlds.com/",
+    "description": "Providing the most affordable and most portable motion capture technology for teams, academies, researchers, and individuals, Brave is charting a new world of motion capture and all its possibility.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Brave_Motion",
+      "linkedin": "https://linkedin.com/company/bravevirtualworlds",
+      "facebook": "https://facebook.com/bravevirtualworlds"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "HyperTunnel",
+    "website": "https://hypertunnel.com/",
+    "description": "Our mixed reality software platform enables real-time (synchronous) and time-delayed (asynchronous) collaboration between frontline workers and domain experts - from remote physical worksites to centralized immersive digital twins.",
+    "location": "Jersey City, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/factualvr",
+      "linkedin": "https://linkedin.com/company/hypertunnel",
+      "facebook": "https://facebook.com/HyperTunnel"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "AlterEcho",
+    "website": "https://alterecho.io/",
+    "description": "Remote Embodiment Robotics for Aseptic Manufacturing",
+    "location": "Copenhagen, Capital Region, Denmark",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/alterecho-io"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "ARGrid",
+    "website": "https://ar-grid.com/",
+    "description": "ARgrid is a marketplace for shopping using augmented reality. We partner with small businesses that don't have the resources to create 3D models of their products for online shopping and advertising. We build AR e-commerce stores for businesses and enable anyone to set up a top-notch AR e-commerce solution without needing to code.",
+    "location": "Lodi, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/argrid"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Redefine Surgery",
+    "website": "https://redefinesurgery.com/",
+    "description": "Artificial Intelligence for Surgery",
+    "location": "Edison, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/redefinesurgery"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Designhubz",
+    "website": "https://linkedin.com/company/designhubz",
+    "description": "Designhubz enables Brands & Retailers to sell their products in 3D & Augmented Reality on their websites and apps",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/designhubzhq",
+      "linkedin": "https://linkedin.com/company/designhubz",
+      "facebook": "https://facebook.com/designhubz/"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "OLTA",
+    "website": "https://olta.art/",
+    "description": "A platform and marketplace for interactive dynamic NFTs.",
+    "location": "Bristol, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/OltaArt",
+      "linkedin": "https://linkedin.com/company/olta-art"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "CloudNine Augmented Intelligence",
+    "website": "https://cloudnineai.com/",
+    "description": "Enterprise Knowledge Management System that secures sensitive data such as PII for data privacy, governance, risk, and compliance",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cloudnineaugmentedintelligence",
+      "facebook": "https://facebook.com/cloudnineai.com"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "8LAB",
+    "website": "https://8lab.ai/",
+    "description": "8LAB is the members-only hub where creatives and tech pros connect and innovate with guidance from industry leaders + AI, Agent 8.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/join8lab"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Third Design",
+    "website": "https://third.design/",
+    "description": "Third Design makes it easy for anyone to create professional 3D designs.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/thirddesign"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Streamfog",
+    "website": "https://streamfog.com/",
+    "description": "We're transforming the streaming landscape with AR advertising. From Twitch to YouTube to Netflix, we believe traditional commercial breaks are outdated. Our in-content solutions disrupt the industry, not your entertainment.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/streamfog"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Bebop - Audio Messaging",
+    "website": "https://joinbebop.com/",
+    "description": "A voice-only mobile app for creating, sharing and storing your most precious voice messages and to connect with your family and your closest friends.",
+    "location": "Helsinki, Finland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bebopaudiomessaging"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Oversight",
+    "website": "https://oversight-ar.com/",
+    "description": "3D, visual, and unified data management platform that connects any map-locatable device for enhancing operators' situational awareness and decision-making using XR tools",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/u3frh4yoguxwkepkaedl",
+    "location": "Poria Illit, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oversight-ar",
+      "facebook": "https://facebook.com/OversightAR"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Remembrance",
+    "website": "https://notliveyet.com/",
+    "description": "Remembrance allows people to add AR and VR memorials to their loved ones final resting place.",
+    "location": "Hillsboro, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/remembranceworld"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Reality Trail",
+    "website": "https://realityjourneys.com/",
+    "description": "Step into the future with Reality Trail! Our platform empowers businesses to create captivating augmented reality experiences that shape consumer behavior in alignment with their goals",
+    "location": "Tulsa, Oklahoma, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/reality-trail"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Parallux",
+    "website": "https://parallux.co/",
+    "description": "Parallux makes it easy for brands and creators to design, build, and host 3D virtual spaces in the metaverse.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/9c74999fc0acb0c49199",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/paralluxco",
+      "linkedin": "https://linkedin.com/company/parallux",
+      "facebook": "https://facebook.com/parallux/"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Movez",
+    "website": "https://movez.com/",
+    "description": "For event curators or experience seekers longing to have their cities' experiences mass-marketed, we provide intuitive software that enables immersive event experiences' discoverability, organization & network cultivation end-to-end.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/movezapp",
+      "linkedin": "https://linkedin.com/company/movezapp",
+      "facebook": "https://facebook.com/movezapp"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Cicada",
+    "website": "https://cicadamusic.net/",
+    "description": "Cicada helps musicians make more money from live gigs.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cicadamusic"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "StageKeep",
+    "website": "https://stagekeep.com/",
+    "description": "Collaborative tool for creators to easily manage, design and review the pre-production logistics, rehearsals and videos for performance productions saving stakeholders time and money.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/thfcs3xoffowg4lzbumt",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/stagekeep",
+      "linkedin": "https://linkedin.com/company/stagekeep",
+      "facebook": "https://facebook.com/stagekeep"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Capoom",
+    "website": "https://capoom.com/",
+    "description": "Capoom is a software company developing AI based automatic 3d modeling software.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/irk4bkrls8rlqrqwd7ci",
+    "location": "Ann Arbor, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/capoom"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "RealAR",
+    "website": "https://linkedin.com/company/realar",
+    "description": "RealAR is an Augmented Real Estate app that helps people spatially visualize new and inaccessible property as real size walkthroughs before it's built.",
+    "location": "Gold Coast, Queensland, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/realarspaces",
+      "linkedin": "https://linkedin.com/company/realar",
+      "facebook": "https://facebook.com/realarspaces"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Ikkos",
+    "website": "https://linkedin.com/company/ikkos-inc.",
+    "description": "IKKOS is a patent pending, proven brain-based movement learning system developed for athletes of all levels.",
+    "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/172274-1a06284ab12f3af9eb7c001e60027fab-medium_jpg.jpg?buster=1361480003",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/IKKOSHQ",
+      "linkedin": "https://linkedin.com/company/ikkos-inc.",
+      "facebook": "https://facebook.com/pages/IKKOS/511048188937371"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  },
+  {
+    "name": "Gymnasio",
+    "website": "https://gymnasio.it/",
+    "description": "Enhancing online yoga schools with real-time pose feedback.",
+    "location": "Torino, Turin, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/gymnasio",
+      "facebook": "https://facebook.com/gymnasio.official"
+    },
+    "industry": "Augmented reality",
+    "industry_slug": "augmented-reality"
+  }
+]

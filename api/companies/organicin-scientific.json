@@ -1,0 +1,22 @@
+{
+  "name": "Organicin Scientific",
+  "slug": "organicin-scientific",
+  "website": "https://organicinscientific.com/",
+  "description": "Biopesticide solutions designed to improve crop yield, profitability, and environmental stewardship through 'rational discovery' and microbiology",
+  "one_liner": "Biopesticide solutions designed to improve crop yield, profitability, and environmental stewardship through 'rational discovery' and microbiology",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/organicinscientific"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/organicin-scientific",
+  "api": "/api/companies/organicin-scientific.json"
+}

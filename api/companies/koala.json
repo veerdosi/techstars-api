@@ -1,0 +1,22 @@
+{
+  "name": "Koala",
+  "slug": "koala",
+  "website": "https://getkoala.ai/",
+  "description": "Started as Pet care made easy. Now has pivoted completely for a hotel to offer luxury services to budget hotels.",
+  "one_liner": "Started as Pet care made easy. Now has pivoted completely for a hotel to offer luxury services to budget hotels.",
+  "location": "Tel Aviv, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lwhyph67oineontktu8o",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/koala-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/koala",
+  "api": "/api/companies/koala.json"
+}

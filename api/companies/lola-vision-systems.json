@@ -1,0 +1,22 @@
+{
+  "name": "Lola Vision Systems",
+  "slug": "lola-vision-systems",
+  "website": "https://lolavisionsystems.com/",
+  "description": "An AI and ML high performance computing systems and silicon provider. We specialize in creating custom solutions for Automotive, Aerospace and Defense OEMs.",
+  "one_liner": "An AI and ML high performance computing systems and silicon provider. We specialize in creating custom solutions for Automotive, Aerospace and Defense OEMs.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/lolavisionsystems"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lola-vision-systems",
+  "api": "/api/companies/lola-vision-systems.json"
+}

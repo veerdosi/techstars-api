@@ -1,0 +1,22 @@
+{
+  "name": "Resourcly",
+  "slug": "resourcly",
+  "website": "https://resourcly.earth/",
+  "description": "Resourcly helps manufacturers improve working capital with their shared inventory OS by leveraging product data and AI.",
+  "one_liner": "Resourcly helps manufacturers improve working capital with their shared inventory OS by leveraging product data and AI.",
+  "location": "Mannheim, Germany",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nhwtwxgzlxizocndm7jl",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/resourcly"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/resourcly",
+  "api": "/api/companies/resourcly.json"
+}

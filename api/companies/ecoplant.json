@@ -1,0 +1,24 @@
+{
+  "name": "EcoPlant",
+  "slug": "ecoplant",
+  "website": "https://ecoplant.co/",
+  "description": "Ecoplant helps maintenance and productions managers, energy supervisors, and service providers save up to 50% on the electricity bill.",
+  "one_liner": "Ecoplant helps maintenance and productions managers, energy supervisors, and service providers save up to 50% on the electricity bill.",
+  "location": "Ashqelon, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Ecoplant2017",
+    "linkedin": "https://linkedin.com/company/ecoplant-technological-innovation-ltd",
+    "facebook": "https://facebook.com/ecoplant.co/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ecoplant",
+  "api": "/api/companies/ecoplant.json"
+}

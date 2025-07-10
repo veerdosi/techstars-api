@@ -1,0 +1,23 @@
+{
+  "name": "offe market",
+  "slug": "offe-market",
+  "website": "https://offe.market/",
+  "description": "Offe Market helps elevated brands sell surplus products without taking on inventory risk by integrating the brands' inventory management systems into its online and offline sales channels.",
+  "one_liner": "Offe Market helps elevated brands sell surplus products without taking on inventory risk by integrating the brands' inventory management systems into its online and offline sales channels.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/offemarket",
+    "linkedin": "https://linkedin.com/company/offemarket"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/offe-market",
+  "api": "/api/companies/offe-market.json"
+}

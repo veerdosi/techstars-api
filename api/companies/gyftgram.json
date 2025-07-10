@@ -1,0 +1,22 @@
+{
+  "name": "GyftGram",
+  "slug": "gyftgram",
+  "website": "https://gyftgram.io/",
+  "description": "For restaurants that want to increase their profit margins we provide unique digital assets that incentivize guest engagement.",
+  "one_liner": "For restaurants that want to increase their profit margins we provide unique digital assets that incentivize guest engagement.",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/gyftgram"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gyftgram",
+  "api": "/api/companies/gyftgram.json"
+}

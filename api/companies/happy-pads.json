@@ -1,0 +1,22 @@
+{
+  "name": "Happy Pads",
+  "slug": "happy-pads",
+  "website": "https://happyethiopads.com/",
+  "description": "Happy Sisters offers eco-friendly feminine hygiene products with patented leak-proof designs. Our 100% biodegradable pads and tampons have 10 advanced features, including antibacterial components and free BV self-test kits.",
+  "one_liner": "Happy Sisters offers eco-friendly feminine hygiene products with patented leak-proof designs. Our 100% biodegradable pads and tampons have 10 advanced features, including antibacterial components and free BV self-test kits.",
+  "location": "Houston, Texas, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/86756492"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/happy-pads",
+  "api": "/api/companies/happy-pads.json"
+}

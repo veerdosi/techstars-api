@@ -1,0 +1,23 @@
+{
+  "name": "SupplyNow",
+  "slug": "supplynow",
+  "website": "https://supplynow.org/",
+  "description": "Tech-enabled services that help solve supply-chain challenges for food-service distributors and their independent restaurant customers",
+  "one_liner": "Tech-enabled services that help solve supply-chain challenges for food-service distributors and their independent restaurant customers",
+  "location": "Cleveland, Ohio, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mdzk5rcv5b6bmpw5wnhi",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/supplynow",
+    "facebook": "https://facebook.com/supplynowllc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/supplynow",
+  "api": "/api/companies/supplynow.json"
+}

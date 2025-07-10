@@ -1,0 +1,22 @@
+{
+  "name": "Whatsub",
+  "slug": "whatsub",
+  "website": "https://whatsub.co/",
+  "description": "For entrepreneurs who struggle to secure grants, we provide an AI-powered platform that helps you find eligible opportunities, apply with confidence, and manage the entire process from start to finish.",
+  "one_liner": "For entrepreneurs who struggle to secure grants, we provide an AI-powered platform that helps you find eligible opportunities, apply with confidence, and manage the entire process from start to finish.",
+  "location": "Groningen, Groningen, Netherlands",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/whatsub"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/whatsub",
+  "api": "/api/companies/whatsub.json"
+}

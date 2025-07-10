@@ -1,0 +1,24 @@
+{
+  "name": "Richualist",
+  "slug": "richualist",
+  "website": "https://themostcurls.com/",
+  "description": "Changing the standards in natural hair solution by making hardware that major industry players lack the cultural insight to develop.",
+  "one_liner": "Changing the standards in natural hair solution by making hardware that major industry players lack the cultural insight to develop.",
+  "location": "Washington, District of Columbia, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ntepamstn51ksoqxhw74",
+  "social_media": {
+    "twitter": "https://twitter.com/TheMostCurls",
+    "linkedin": "https://linkedin.com/company/the-most-brands",
+    "facebook": "https://facebook.com/richualist"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/richualist",
+  "api": "/api/companies/richualist.json"
+}

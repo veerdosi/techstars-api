@@ -1,0 +1,23 @@
+{
+  "name": "Reeple",
+  "slug": "reeple",
+  "website": "https://reeple.ai/",
+  "description": "Reeple helps diasporan Africans and digital normads access seamless cross-border payments",
+  "one_liner": "Reeple helps diasporan Africans and digital normads access seamless cross-border payments",
+  "location": "Lagos, Nigeria",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/foxyvbvdek7aq0j2nib0",
+  "social_media": {
+    "twitter": "https://twitter.com/reepleAI/status/1691128897503481864",
+    "linkedin": "https://linkedin.com/company/reeple-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/reeple",
+  "api": "/api/companies/reeple.json"
+}

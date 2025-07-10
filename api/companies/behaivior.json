@@ -1,0 +1,24 @@
+{
+  "name": "Behaivior",
+  "slug": "behaivior",
+  "website": "https://behaivior.com/",
+  "description": "Behaivior's Recovery(tm) platform uses AI and wearables to predict high-risk events and enable proactive, personalized recovery interventions. \n Behaivior revolutionizes healthcare and well-being, making support accessible and reducing healthcare costs. Our award-winning platform, Recovery(tm), enhances patient engagement and outcomes, supports crisis intervention, and eases staff burden. We ensure our solutions reach everyone, seamlessly integrating into current care ecosystems.",
+  "one_liner": "Behaivior's Recovery(tm) platform uses AI and wearables to predict high-risk events and enable proactive, personalized recovery interventions. \n Behaivior revolutionizes healthcare and well-being, making support accessible and reducing healthcare costs. Our award-winning platform, Recovery(tm), enhances patient engagement and outcomes, supports crisis intervention, and eases staff burden. We ensure our solutions reach everyone, seamlessly integrating into current care ecosystems.",
+  "location": "Pittsburgh, Pennsylvania, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1507063853/hrido8vqcatvhaprnvfx.png",
+  "social_media": {
+    "twitter": "https://twitter.com/BehaiviorAI",
+    "linkedin": "https://linkedin.com/company/behaivior",
+    "facebook": "https://facebook.com/behaivior/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/behaivior",
+  "api": "/api/companies/behaivior.json"
+}

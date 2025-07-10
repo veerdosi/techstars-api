@@ -1,0 +1,24 @@
+{
+  "name": "EDUrain",
+  "slug": "edurain",
+  "website": "https://edurain.org/",
+  "description": "Grad students usually can't live on-campus, undergrads want to move off-campus, & Management groups struggle to target the college audience (fair housing law issues).  We white label off-campus sites for colleges to help vetted management groups target th",
+  "one_liner": "Grad students usually can't live on-campus, undergrads want to move off-campus, & Management groups struggle to target the college audience (fair housing law issues).  We white label off-campus sites for colleges to help vetted management groups target th",
+  "location": "St. Louis, Missouri, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/officialedurain",
+    "linkedin": "https://linkedin.com/company/edurain",
+    "facebook": "https://facebook.com/EDURAINforu/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/edurain",
+  "api": "/api/companies/edurain.json"
+}

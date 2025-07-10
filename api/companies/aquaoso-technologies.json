@@ -1,0 +1,24 @@
+{
+  "name": "AQUAOSO Technologies",
+  "slug": "aquaoso-technologies",
+  "website": "https://aquaoso.com/",
+  "description": "AQUAOSO provides research and risk analysis tools for lenders, appraisers, lawyers and researchers.",
+  "one_liner": "AQUAOSO provides research and risk analysis tools for lenders, appraisers, lawyers and researchers.",
+  "location": "Folsom, California, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/aquaosotech",
+    "linkedin": "https://linkedin.com/company/aquaoso",
+    "facebook": "https://facebook.com/AQUAOSO"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/aquaoso-technologies",
+  "api": "/api/companies/aquaoso-technologies.json"
+}

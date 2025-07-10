@@ -1,0 +1,23 @@
+{
+  "name": "Mogotest",
+  "slug": "mogotest",
+  "website": "https://linkedin.com/company/825100",
+  "description": "Web consistency testing service",
+  "one_liner": "Web consistency testing service",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mogotest",
+    "linkedin": "https://linkedin.com/company/825100"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mogotest",
+  "api": "/api/companies/mogotest.json"
+}

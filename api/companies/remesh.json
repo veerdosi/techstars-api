@@ -1,0 +1,24 @@
+{
+  "name": "Remesh",
+  "slug": "remesh",
+  "website": "https://remesh.ai/",
+  "description": "A next-gen platform for engaging and understanding a group of people",
+  "one_liner": "A next-gen platform for engaging and understanding a group of people",
+  "location": "New York City, New York, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/teamremesh",
+    "linkedin": "https://linkedin.com/company/5245293",
+    "facebook": "https://facebook.com/teamremesh"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/remesh",
+  "api": "/api/companies/remesh.json"
+}

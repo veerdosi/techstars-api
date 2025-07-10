@@ -1,0 +1,24 @@
+{
+  "name": "Left",
+  "slug": "left",
+  "website": "https://travel-left.com/",
+  "description": "For the $1T administrative industry, we've built a B2B workflow software for the modern administrative team.",
+  "one_liner": "For the $1T administrative industry, we've built a B2B workflow software for the modern administrative team.",
+  "location": "Costa Mesa, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vqswb0l5hvgyeimdwqwz",
+  "social_media": {
+    "twitter": "https://twitter.com/travel_left",
+    "linkedin": "https://linkedin.com/company/11218935",
+    "facebook": "https://facebook.com/travelLEFT/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/left",
+  "api": "/api/companies/left.json"
+}

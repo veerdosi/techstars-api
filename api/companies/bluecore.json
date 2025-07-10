@@ -1,0 +1,24 @@
+{
+  "name": "Bluecore",
+  "slug": "bluecore",
+  "website": "https://bluecore.com/",
+  "description": "Relevant trigger emails for Ecommerce",
+  "one_liner": "Relevant trigger emails for Ecommerce",
+  "location": "New York City, New York, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Bluecore",
+    "linkedin": "https://linkedin.com/company/bluecore",
+    "facebook": "https://facebook.com/getbluecore"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bluecore",
+  "api": "/api/companies/bluecore.json"
+}

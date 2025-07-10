@@ -1,0 +1,24 @@
+{
+  "name": "Superpowered",
+  "slug": "superpowered",
+  "website": "https://superpowered.com/",
+  "description": "Superpowered allows consumers to listen, watch and play longer by using software to reduce CPU load -- making mobile and embedded hardware more efficient.",
+  "one_liner": "Superpowered allows consumers to listen, watch and play longer by using software to reduce CPU load -- making mobile and embedded hardware more efficient.",
+  "location": "Austin, Texas, United States",
+  "industry": "Audiotech",
+  "industry_slug": "audiotech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SuperpoweredSDK",
+    "linkedin": "https://linkedin.com/company/superpowered",
+    "facebook": "https://facebook.com/SuperpoweredSDK/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/superpowered",
+  "api": "/api/companies/superpowered.json"
+}

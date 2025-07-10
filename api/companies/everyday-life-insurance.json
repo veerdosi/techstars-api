@@ -1,0 +1,24 @@
+{
+  "name": "Everyday Life Insurance",
+  "slug": "everyday-life-insurance",
+  "website": "https://everydaylifeinsurance.com/",
+  "description": "Using technology to make life insurance smarter and more accessible for everyday people",
+  "one_liner": "Using technology to make life insurance smarter and more accessible for everyday people",
+  "location": "Andover, Massachusetts, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/everydaylife_hi",
+    "linkedin": "https://linkedin.com/company/everyday-life-insurance",
+    "facebook": "https://facebook.com/everydaylifeinsurance/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/everyday-life-insurance",
+  "api": "/api/companies/everyday-life-insurance.json"
+}

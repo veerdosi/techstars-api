@@ -1,0 +1,24 @@
+{
+  "name": "Krowd",
+  "slug": "krowd",
+  "website": "https://krowdit.com/",
+  "description": "Krowd's offer bidding marketplace provides personalized card linked offers to retailers and credit card issuers, allowing retailers to increase customer acquisition and retention and card issuers to increase usage.",
+  "one_liner": "Krowd's offer bidding marketplace provides personalized card linked offers to retailers and credit card issuers, allowing retailers to increase customer acquisition and retention and card issuers to increase usage.",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/krowd2",
+    "linkedin": "https://linkedin.com/company/krowd",
+    "facebook": "https://facebook.com/krowd2"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/krowd",
+  "api": "/api/companies/krowd.json"
+}

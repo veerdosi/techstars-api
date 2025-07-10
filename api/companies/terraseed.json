@@ -1,0 +1,23 @@
+{
+  "name": "Terraseed",
+  "slug": "terraseed",
+  "website": "https://terraseed.com/",
+  "description": "Sustainable and ethical supplements for the vegan, vegetarian and plant-based lifestyles.  .",
+  "one_liner": "Sustainable and ethical supplements for the vegan, vegetarian and plant-based lifestyles.  .",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/terraseed",
+    "facebook": "https://facebook.com/earthseedmultivitamin"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/terraseed",
+  "api": "/api/companies/terraseed.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "SmartMind",
+  "slug": "smartmind",
+  "website": "https://smartmind.team/",
+  "description": "We provide AI-powered digital advertising management platform to maximize sales revenue by orchestrating multi channels with real time purchase pattern analysis",
+  "one_liner": "We provide AI-powered digital advertising management platform to maximize sales revenue by orchestrating multi channels with real time purchase pattern analysis",
+  "location": "Seoul, South Korea",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SmartMi71261326",
+    "linkedin": "https://linkedin.com/company/smartmind-inc",
+    "facebook": "https://facebook.com/smartmind.team/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/smartmind",
+  "api": "/api/companies/smartmind.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Caretaker",
+  "slug": "caretaker",
+  "website": "https://linkedin.com/company/caretaker-aps",
+  "description": "Flip simplifies the experience of renting housing by turning leases into liquid assets that people can buy and sell from one another.",
+  "one_liner": "Flip simplifies the experience of renting housing by turning leases into liquid assets that people can buy and sell from one another.",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/livewithflip",
+    "linkedin": "https://linkedin.com/company/caretaker-aps",
+    "facebook": "https://facebook.com/theflipapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/caretaker",
+  "api": "/api/companies/caretaker.json"
+}

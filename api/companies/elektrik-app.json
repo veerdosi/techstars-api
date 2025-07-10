@@ -1,0 +1,23 @@
+{
+  "name": "Elektrik App",
+  "slug": "elektrik-app",
+  "website": "https://elektrikapp.com/",
+  "description": "Building the first online marketplace for the $200B electrical equipment industry.",
+  "one_liner": "Building the first online marketplace for the $200B electrical equipment industry.",
+  "location": "Lindon, Utah, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/elektrik_app",
+    "linkedin": "https://linkedin.com/company/elektrik-app"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/elektrik-app",
+  "api": "/api/companies/elektrik-app.json"
+}

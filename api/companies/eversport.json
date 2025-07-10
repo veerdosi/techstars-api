@@ -1,0 +1,24 @@
+{
+  "name": "Eversport",
+  "slug": "eversport",
+  "website": "https://eversport.at/",
+  "description": "Marketplace for sport activities",
+  "one_liner": "Marketplace for sport activities",
+  "location": "Vienna, Austria",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/EversportAT",
+    "linkedin": "https://linkedin.com/company/eversport",
+    "facebook": "https://facebook.com/eversports"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/eversport",
+  "api": "/api/companies/eversport.json"
+}

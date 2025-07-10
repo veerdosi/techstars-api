@@ -1,0 +1,22 @@
+{
+  "name": "i-Brain Tech",
+  "slug": "i-brain-tech",
+  "website": "https://i-brain.tech/",
+  "description": "i-BrainTech is a novel AI-powered brain-training solution to enhance the KPIs of individual athletes and to empower coaches with unique neuro-sport insights.",
+  "one_liner": "i-BrainTech is a novel AI-powered brain-training solution to enhance the KPIs of individual athletes and to empower coaches with unique neuro-sport insights.",
+  "location": "Ramat Gan, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/i-braintech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/i-brain-tech",
+  "api": "/api/companies/i-brain-tech.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Segura",
+  "slug": "segura",
+  "website": "https://segura-water.com/",
+  "description": "Water quality testing without the need for a lab - heavy metals at ppb level in under 5 minutes through a digitally connected device",
+  "one_liner": "Water quality testing without the need for a lab - heavy metals at ppb level in under 5 minutes through a digitally connected device",
+  "location": "London, United Kingdom",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/segura-water"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/segura",
+  "api": "/api/companies/segura.json"
+}

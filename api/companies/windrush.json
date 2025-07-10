@@ -1,0 +1,24 @@
+{
+  "name": "Windrush",
+  "slug": "windrush",
+  "website": "https://linkedin.com/company/empire-windrush",
+  "description": "Data-driven story telling for digital reports",
+  "one_liner": "Data-driven story telling for digital reports",
+  "location": "Saratoga Springs, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getwindrush",
+    "linkedin": "https://linkedin.com/company/empire-windrush",
+    "facebook": "https://facebook.com/pages/Windrush/327875663984396"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/windrush",
+  "api": "/api/companies/windrush.json"
+}

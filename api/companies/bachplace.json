@@ -1,0 +1,22 @@
+{
+  "name": "BachPlace",
+  "slug": "bachplace",
+  "website": "https://bachplace.com/",
+  "description": "For bachelorette planners that need help planning and staying organized, we provide an online planning tool and marketplace.",
+  "one_liner": "For bachelorette planners that need help planning and staying organized, we provide an online planning tool and marketplace.",
+  "location": "Valley Stream, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/bachplace"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bachplace",
+  "api": "/api/companies/bachplace.json"
+}

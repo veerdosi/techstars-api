@@ -1,0 +1,24 @@
+{
+  "name": "Prism",
+  "slug": "prism",
+  "website": "https://prismmoney.com/",
+  "description": "Mobilligy centralizes all of your bills in one easy-to-use app",
+  "one_liner": "Mobilligy centralizes all of your bills in one easy-to-use app",
+  "location": "Fairmont, West Virginia, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mobilligy",
+    "linkedin": "https://linkedin.com/company/prismmoney",
+    "facebook": "https://facebook.com/mobilligy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/prism",
+  "api": "/api/companies/prism.json"
+}

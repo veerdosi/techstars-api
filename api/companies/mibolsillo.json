@@ -1,0 +1,24 @@
+{
+  "name": "MiBolsillo",
+  "slug": "mibolsillo",
+  "website": "https://mibolsillo.pe/",
+  "description": "We help MFIs drive customer loyalty, timely payments and uptake of financial services at one fraction of the cost.",
+  "one_liner": "We help MFIs drive customer loyalty, timely payments and uptake of financial services at one fraction of the cost.",
+  "location": "Comas, Peru",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mibolsilloapp",
+    "linkedin": "https://linkedin.com/company/mibolsillo",
+    "facebook": "https://facebook.com/mibolsillope/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mibolsillo",
+  "api": "/api/companies/mibolsillo.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ExactRx",
+  "slug": "exactrx",
+  "website": "https://exactrx.ai/",
+  "description": "ExactRx is a healthcare technology company that creates AI-native, intelligent care environments to increase care capacity and recapture revenue for surgical centers.",
+  "one_liner": "ExactRx is a healthcare technology company that creates AI-native, intelligent care environments to increase care capacity and recapture revenue for surgical centers.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/exactrx"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/exactrx",
+  "api": "/api/companies/exactrx.json"
+}

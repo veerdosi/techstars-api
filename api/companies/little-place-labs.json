@@ -1,0 +1,22 @@
+{
+  "name": "Little Place Labs",
+  "slug": "little-place-labs",
+  "website": "https://littleplace.com/",
+  "description": "Building machine learning solutions for space edge computing in a scalable way.",
+  "one_liner": "Building machine learning solutions for space edge computing in a scalable way.",
+  "location": "Houston, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hptajyrc5v4ag4xzmfxn",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/little-place-labs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/little-place-labs",
+  "api": "/api/companies/little-place-labs.json"
+}

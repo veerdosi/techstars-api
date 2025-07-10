@@ -1,0 +1,23 @@
+{
+  "name": "Modal Living",
+  "slug": "modal-living",
+  "website": "https://livemodal.com/",
+  "description": "Modal helps homeowners increase property value and generate income through ADUs.",
+  "one_liner": "Modal helps homeowners increase property value and generate income through ADUs.",
+  "location": "Salt Lake City, Utah, United States",
+  "industry": "Manufacturing",
+  "industry_slug": "manufacturing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ym1lze45rgujqmmbivjm",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/livemodal",
+    "facebook": "https://facebook.com/ModalLiving/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/modal-living",
+  "api": "/api/companies/modal-living.json"
+}

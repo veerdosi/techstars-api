@@ -1,0 +1,22 @@
+{
+  "name": "Canopy Platform Pty Ltd",
+  "slug": "canopy-platform-pty-ltd",
+  "website": "https://hellocanopy.ai/",
+  "description": "Canopy gives employees a safe way to report misconduct and businesses the tools to manage and prevent it from happening again.",
+  "one_liner": "Canopy gives employees a safe way to report misconduct and businesses the tools to manage and prevent it from happening again.",
+  "location": "Dee Why, New South Wales, Australia",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/canopyplatform"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/canopy-platform-pty-ltd",
+  "api": "/api/companies/canopy-platform-pty-ltd.json"
+}

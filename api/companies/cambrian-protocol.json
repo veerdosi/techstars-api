@@ -1,0 +1,23 @@
+{
+  "name": "Cambrian Protocol",
+  "slug": "cambrian-protocol",
+  "website": "https://cambrianprotocol.com/",
+  "description": "Web 3 community focused on decentralizing collaborative work using blockchain technology",
+  "one_liner": "Web 3 community focused on decentralizing collaborative work using blockchain technology",
+  "location": "Los Angeles, California, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/cambrian_eth",
+    "linkedin": "https://linkedin.com/company/cambrian-protocol"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cambrian-protocol",
+  "api": "/api/companies/cambrian-protocol.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "RefineAI",
+  "slug": "refineai",
+  "website": "https://linkedin.com/company/refineai",
+  "description": "Video market testing as a service.",
+  "one_liner": "Video market testing as a service.",
+  "location": "Miami, Florida, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/refineaiapp",
+    "linkedin": "https://linkedin.com/company/refineai",
+    "facebook": "https://facebook.com/refineai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/refineai",
+  "api": "/api/companies/refineai.json"
+}

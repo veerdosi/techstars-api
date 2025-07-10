@@ -1,0 +1,24 @@
+{
+  "name": "INURU",
+  "slug": "inuru",
+  "website": "https://inuru.de/",
+  "description": "INURU brings light & motion on paper with cutting edge printed light tech",
+  "one_liner": "INURU brings light & motion on paper with cutting edge printed light tech",
+  "location": "Berlin, Germany",
+  "industry": "Industrials",
+  "industry_slug": "industrials",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Inuru_",
+    "linkedin": "https://linkedin.com/company/siod",
+    "facebook": "https://facebook.com/inuru.live/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/inuru",
+  "api": "/api/companies/inuru.json"
+}

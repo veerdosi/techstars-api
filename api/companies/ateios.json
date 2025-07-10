@@ -1,0 +1,24 @@
+{
+  "name": "Ateios",
+  "slug": "ateios",
+  "website": "https://ateios.com/",
+  "description": "The first truly flexible and ultra-thin printed battery.",
+  "one_liner": "The first truly flexible and ultra-thin printed battery.",
+  "location": "La Jolla, California, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AteiosSystems",
+    "linkedin": "https://linkedin.com/company/ateios",
+    "facebook": "https://facebook.com/stretchytech/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ateios",
+  "api": "/api/companies/ateios.json"
+}

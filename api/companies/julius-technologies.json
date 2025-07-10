@@ -1,0 +1,22 @@
+{
+  "name": "Julius Technologies",
+  "slug": "julius-technologies",
+  "website": "https://juliustech.co/",
+  "description": "Julius helps enterprises build transparent, scalable, and adaptable Data & ML pipelines through the power of low code graph computing.",
+  "one_liner": "Julius helps enterprises build transparent, scalable, and adaptable Data & ML pipelines through the power of low code graph computing.",
+  "location": "Old Tappan, New Jersey, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/julius-technologies"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/julius-technologies",
+  "api": "/api/companies/julius-technologies.json"
+}

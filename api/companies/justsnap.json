@@ -1,0 +1,24 @@
+{
+  "name": "Justsnap",
+  "slug": "justsnap",
+  "website": "https://justsnap.co/",
+  "description": "cloud based promotion & campaign management platform",
+  "one_liner": "cloud based promotion & campaign management platform",
+  "location": "Berlin, Germany",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/justsnapapp",
+    "linkedin": "https://linkedin.com/company/justsnapapp",
+    "facebook": "https://facebook.com/JustSnapapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/justsnap",
+  "api": "/api/companies/justsnap.json"
+}

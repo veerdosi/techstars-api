@@ -1,0 +1,24 @@
+{
+  "name": "GRIND Interactive",
+  "slug": "grind-interactive",
+  "website": "https://grindbasketball.com/",
+  "description": "GRIND has developed the first portable rebounding machine enabling optimal daily repetition to reach peak performance.",
+  "one_liner": "GRIND has developed the first portable rebounding machine enabling optimal daily repetition to reach peak performance.",
+  "location": "Houston, Texas, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GrindBasketbal",
+    "linkedin": "https://linkedin.com/company/grind-inc.",
+    "facebook": "https://facebook.com/grindspaces"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/grind-interactive",
+  "api": "/api/companies/grind-interactive.json"
+}

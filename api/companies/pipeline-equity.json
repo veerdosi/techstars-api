@@ -1,0 +1,24 @@
+{
+  "name": "Pipeline Equity",
+  "slug": "pipeline-equity",
+  "website": "https://pipelineequity.com/",
+  "description": "Pipeline is a cloud platform that increases the financial performance of companies through closing the gender equity gap.",
+  "one_liner": "Pipeline is a cloud platform that increases the financial performance of companies through closing the gender equity gap.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/pipelineequity",
+    "linkedin": "https://linkedin.com/company/pipeline-equity",
+    "facebook": "https://facebook.com/PipelineEquity/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pipeline-equity",
+  "api": "/api/companies/pipeline-equity.json"
+}

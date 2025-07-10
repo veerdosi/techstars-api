@@ -1,0 +1,24 @@
+{
+  "name": "Hull",
+  "slug": "hull",
+  "website": "https://hull.io/",
+  "description": "One source of truth for all your customer data.",
+  "one_liner": "One source of truth for all your customer data.",
+  "location": "Paris, France",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hull",
+    "linkedin": "https://linkedin.com/company/hull-io",
+    "facebook": "https://facebook.com/hullapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hull",
+  "api": "/api/companies/hull.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Konnected",
+  "slug": "konnected",
+  "website": "https://konnectedwithcare.us/",
+  "description": "Konnected with Care is a comprehensive platform that helps organizations and government agencies serving youth and families stay connected, providing them with vital data and resources to save time, money, and lives.",
+  "one_liner": "Konnected with Care is a comprehensive platform that helps organizations and government agencies serving youth and families stay connected, providing them with vital data and resources to save time, money, and lives.",
+  "location": "Ann Arbor, Michigan, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/KonnectedXCare",
+    "linkedin": "https://linkedin.com/company/konnected-with-care"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/konnected",
+  "api": "/api/companies/konnected.json"
+}

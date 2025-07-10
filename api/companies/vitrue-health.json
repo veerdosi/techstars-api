@@ -1,0 +1,24 @@
+{
+  "name": "Vitrue Health",
+  "slug": "vitrue-health",
+  "website": "https://vitruehealth.com/",
+  "description": "Computer vision technology to empower physiotherapists to more accurately assess their patients",
+  "one_liner": "Computer vision technology to empower physiotherapists to more accurately assess their patients",
+  "location": "London, United Kingdom",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/VitrueHealth",
+    "linkedin": "https://linkedin.com/company/vitrue-health",
+    "facebook": "https://facebook.com/vitruehealth"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vitrue-health",
+  "api": "/api/companies/vitrue-health.json"
+}

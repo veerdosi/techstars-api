@@ -1,0 +1,22 @@
+{
+  "name": "SeaErra",
+  "slug": "seaerra",
+  "website": "https://linkedin.com/company/seaerra",
+  "description": "SeaErra Vision develops innovative AI based solutions, enabling underwater vision, significantly improving visibility, contrast and colors in real-time.",
+  "one_liner": "SeaErra Vision develops innovative AI based solutions, enabling underwater vision, significantly improving visibility, contrast and colors in real-time.",
+  "location": "Haifa, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/seaerra"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/seaerra",
+  "api": "/api/companies/seaerra.json"
+}

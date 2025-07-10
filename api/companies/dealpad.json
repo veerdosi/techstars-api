@@ -1,0 +1,22 @@
+{
+  "name": "dealpad",
+  "slug": "dealpad",
+  "website": "https://dealpad.io/",
+  "description": "Dealpad is a Virtual Sales Room Platform that transforms more leads into clients and closes transactions on time.",
+  "one_liner": "Dealpad is a Virtual Sales Room Platform that transforms more leads into clients and closes transactions on time.",
+  "location": "London, United Kingdom",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cahstqjns5yfrwtgoovu",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/dealpad-io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dealpad",
+  "api": "/api/companies/dealpad.json"
+}

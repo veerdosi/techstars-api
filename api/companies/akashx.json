@@ -1,0 +1,20 @@
+{
+  "name": "AkashX",
+  "slug": "akashx",
+  "website": "https://akashx.cloud/",
+  "description": "AkashX specilizes in building big data engine to converges the entire BI/Analytics/Data Engineering stack into a single platform.",
+  "one_liner": "AkashX specilizes in building big data engine to converges the entire BI/Analytics/Data Engineering stack into a single platform.",
+  "location": "Sheridan, Wyoming, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vgfkow6hvzd80fvdx8ve",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/akashx",
+  "api": "/api/companies/akashx.json"
+}

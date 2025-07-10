@@ -1,0 +1,24 @@
+{
+  "name": "HappsNow",
+  "slug": "happsnow",
+  "website": "https://linkedin.com/company/happsnow",
+  "description": "Built with efficiency & simplicity, HappsNow's fully integrated ticketing and marketing platform revolutionizes the way live event creators express their vision",
+  "one_liner": "Built with efficiency & simplicity, HappsNow's fully integrated ticketing and marketing platform revolutionizes the way live event creators express their vision",
+  "location": "Portsmouth, New Hampshire, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/happsnow",
+    "linkedin": "https://linkedin.com/company/happsnow",
+    "facebook": "https://facebook.com/happsnow"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/happsnow",
+  "api": "/api/companies/happsnow.json"
+}

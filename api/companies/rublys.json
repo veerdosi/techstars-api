@@ -1,0 +1,24 @@
+{
+  "name": "rublys",
+  "slug": "rublys",
+  "website": "https://linkedin.com/company/3053607",
+  "description": "Rublys is a gamified mobile marketing platform. The rublys app is an innovative and highly efficient marketing and sales tool, offering a powerful and affordable way to win new customers. Advertising on rublys is exciting, entertaining and rewarding.",
+  "one_liner": "Rublys is a gamified mobile marketing platform. The rublys app is an innovative and highly efficient marketing and sales tool, offering a powerful and affordable way to win new customers. Advertising on rublys is exciting, entertaining and rewarding.",
+  "location": "Vienna, Austria",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/rublys",
+    "linkedin": "https://linkedin.com/company/3053607",
+    "facebook": "https://facebook.com/rublys/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rublys",
+  "api": "/api/companies/rublys.json"
+}

@@ -1,0 +1,583 @@
+[
+  {
+    "name": "Trust & Will",
+    "website": "https://trustandwill.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/trustandwill",
+      "linkedin": "https://linkedin.com/company/trustandwill",
+      "facebook": "https://facebook.com/trustandwill"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Case Status",
+    "website": "https://casestatus.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/thecase_status",
+      "linkedin": "https://linkedin.com/company/case-status",
+      "facebook": "https://facebook.com/thecasestatus/"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Civic Eagle",
+    "website": "https://civiceagle.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/Civic_Eagle",
+      "linkedin": "https://linkedin.com/company/civic-eagle",
+      "facebook": "https://facebook.com/civiceagle/"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "NexLP",
+    "website": "https://nexlp.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/NexLP_Inc",
+      "linkedin": "https://linkedin.com/company/nexlp",
+      "facebook": "https://facebook.com/NexLPChicago/"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Aline",
+    "website": "https://aline.co/",
+    "social_media": {
+      "twitter": "https://twitter.com/meetaline",
+      "linkedin": "https://linkedin.com/company/alineco"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Transmute",
+    "website": "https://transmute.industries/",
+    "social_media": {
+      "twitter": "https://twitter.com/TransmuteNews",
+      "linkedin": "https://linkedin.com/company/11186222"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "InsureTax",
+    "website": "https://insure.tax/",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/insuretax"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Clara",
+    "website": "https://clara.co/",
+    "social_media": {
+      "twitter": "https://twitter.com/claradotco",
+      "linkedin": "https://linkedin.com/company/claradotco",
+      "facebook": "https://facebook.com/Fintechdb/"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Alethica",
+    "website": "https://alethica.com/",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/alethica"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Trustline",
+    "website": "https://trustline.id/",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/yn4nrx4vynaptjgrxpuv",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/securely-id"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Auditocity",
+    "website": "https://auditocity.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/auditocity",
+      "linkedin": "https://linkedin.com/in/giawiggins",
+      "facebook": "https://facebook.com/auditocity"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "R3 Score",
+    "website": "https://r3score.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/R3Score",
+      "linkedin": "https://linkedin.com/company/r3score",
+      "facebook": "https://facebook.com/R3Score/"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Tumo",
+    "website": "https://tumo.app/",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tumoapp"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "TimeSentry",
+    "website": "https://timesentry.ai/",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/timesentry"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Legaleaze Technologies",
+    "website": "https://legaleaze.co/",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/legaleaze-ai"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "CuratedAI",
+    "website": "https://curatedai.eu/",
+    "social_media": {},
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Ozeki Legal Technologies",
+    "website": "https://ozeki.ai/",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ozeki-technologies"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Elmetr",
+    "website": "https://elmetr.com/",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lcd16nhousdltwdyw8ng",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/14060114",
+      "facebook": "https://facebook.com/elmetrllc"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Metta Space",
+    "website": "https://metta-space.com/",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ibte6wxmzy9a7zkrv9fn",
+    "social_media": {
+      "twitter": "https://twitter.com/metta_space",
+      "linkedin": "https://linkedin.com/company/metta-space"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Warrant",
+    "website": "https://hellowarrant.com/",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/warrant"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "EasyLex",
+    "website": "https://easylex.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/easylex_",
+      "linkedin": "https://linkedin.com/company/easylex",
+      "facebook": "https://facebook.com/easylexmexico"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Emigreat",
+    "website": "https://emigreat.co/",
+    "social_media": {
+      "twitter": "https://twitter.com/emigreatco",
+      "linkedin": "https://linkedin.com/company/emigreat",
+      "facebook": "https://facebook.com/Emigreat.co"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Capyble",
+    "website": "https://capyble.com/",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/od-ai"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "LawLaw",
+    "website": "https://lawlaw.co/",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/uselawlaw"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Dispute Buddy",
+    "website": "https://disputebuddy.co/",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/disputebuddy"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Sonnet",
+    "website": "https://sonnetai.com/",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/n5o9xx6k238s6dyoef5k",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sonnetai"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Sidebrief",
+    "website": "https://sidebrief.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/mysidebrief",
+      "linkedin": "https://linkedin.com/company/sidebriefafrica",
+      "facebook": "https://facebook.com/mysidebrief/"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Reportwell",
+    "website": "https://reportwell.io/",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/reportwell?trk=ppro_cprof"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Konnected",
+    "website": "https://konnectedwithcare.us/",
+    "social_media": {
+      "twitter": "https://twitter.com/KonnectedXCare",
+      "linkedin": "https://linkedin.com/company/konnected-with-care"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Legal Nodes",
+    "website": "https://legalnodes.org/",
+    "social_media": {
+      "twitter": "https://twitter.com/LegalNodes",
+      "linkedin": "https://linkedin.com/company/legalnodes",
+      "facebook": "https://facebook.com/LegalNodes"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "OpenLaw",
+    "website": "https://getopenlaw.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/getopenlaw",
+      "linkedin": "https://linkedin.com/company/getopenlaw"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "ForceField IO",
+    "website": "https://meetforcefield.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/ForceField_io",
+      "linkedin": "https://linkedin.com/company/meetforcefield"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Chuqlab",
+    "website": "https://chuqlab.com/",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/chuqlab"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Mechadoc",
+    "website": "https://mechadoc.io/",
+    "social_media": {},
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Standd",
+    "website": "https://standd.io/",
+    "social_media": {
+      "twitter": "https://twitter.com/Standd_io",
+      "linkedin": "https://linkedin.com/company/standd"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "GenoBank",
+    "website": "https://genobank.io/",
+    "social_media": {
+      "twitter": "https://twitter.com/genobank_io",
+      "linkedin": "https://linkedin.com/company/genobank-io",
+      "facebook": "https://facebook.com/genobank/"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Allison",
+    "website": "https://tryallison.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/tryallison",
+      "linkedin": "https://linkedin.com/company/tryallison",
+      "facebook": "https://facebook.com/tryallison"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "SkinnyTax",
+    "website": "https://skinny.tax/",
+    "social_media": {
+      "twitter": "https://twitter.com/https",
+      "linkedin": "https://linkedin.com/company/skinnytax"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Driven",
+    "website": "https://paywithdriven.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/ticketavengers1",
+      "linkedin": "https://linkedin.com/company/ticket-avengers",
+      "facebook": "https://facebook.com/TicketAvengers/"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Complya",
+    "website": "https://complya.ai/",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/complya-inc",
+      "facebook": "https://facebook.com/complya/"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Brief",
+    "website": "https://briefme.io/",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/briefmeio"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Taxxwiz",
+    "website": "https://taxxwiz.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/taxxwiz",
+      "linkedin": "https://linkedin.com/company/taxx-revolution",
+      "facebook": "https://facebook.com/taxxwiz"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Immigify",
+    "website": "https://immigify.com/",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/immigify-inc"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Courtroom5",
+    "website": "https://courtroom5.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/courtroom5legal",
+      "linkedin": "https://linkedin.com/company/courtroom5",
+      "facebook": "https://facebook.com/Courtroom5Legal/"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "NGHBR",
+    "website": "https://nghbr.app/",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/twfozzqygrfiqrqkbf34",
+    "social_media": {
+      "twitter": "https://twitter.com/nghbr",
+      "linkedin": "https://linkedin.com/company/nghbr-inc"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "JusticeText",
+    "website": "https://justicetext.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/JusticeText",
+      "linkedin": "https://linkedin.com/company/justicetext",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Guideli",
+    "website": "https://guideli.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/myguideli",
+      "linkedin": "https://linkedin.com/company/guideli"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "LifeWeb 360",
+    "website": "https://lifeweb360.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/lifeweb360",
+      "linkedin": "https://linkedin.com/company/lifeweb360",
+      "facebook": "https://facebook.com/lifeweb360"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Pocmi",
+    "website": "https://pocmi.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/pocmi_inc",
+      "linkedin": "https://linkedin.com/company/pocmi"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Marble Legal Solutions",
+    "website": "https://marblels.com/",
+    "social_media": {},
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "DoDocs",
+    "website": "https://dodocs.ai/",
+    "social_media": {
+      "twitter": "https://twitter.com/AiDodocs11493",
+      "linkedin": "https://linkedin.com/company/dodocsai"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "FourthParty",
+    "website": "https://fourthparty.app/",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nacuou3cyu82gkx10a8w",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/fourthparty",
+      "facebook": "https://facebook.com/4thpartyapp"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "ContractPower",
+    "website": "https://contractpower.ai/",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/contractpower"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "People Clerk",
+    "website": "https://peopleclerk.com/",
+    "social_media": {
+      "twitter": "https://twitter.com/peopleclerk",
+      "linkedin": "https://linkedin.com/company/courtam-inc",
+      "facebook": "https://facebook.com/peopleclerk/"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Vector Legal Method",
+    "website": "https://linkedin.com/company/vectorlegalmethod",
+    "social_media": {
+      "twitter": "https://twitter.com/vector_legal",
+      "linkedin": "https://linkedin.com/company/vectorlegalmethod",
+      "facebook": "https://facebook.com/VectorLegalMethod/"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "DEAN Intelligence",
+    "website": "https://linkedin.com/company/dean-intelligence",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dean-intelligence"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Civin",
+    "website": "https://linkedin.com/company/civin",
+    "social_media": {
+      "twitter": "https://twitter.com/civin_co",
+      "linkedin": "https://linkedin.com/company/civin",
+      "facebook": "https://facebook.com/civindotco"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  },
+  {
+    "name": "Juntos2College",
+    "website": "https://juntoscommunity.org/",
+    "social_media": {
+      "twitter": "https://twitter.com/JuntosCommunity",
+      "linkedin": "https://linkedin.com/company/juntoscommunityco",
+      "facebook": "https://facebook.com/Juntos-2-College-103446375075437"
+    },
+    "industry": "Legal tech",
+    "industry_slug": "legal-tech"
+  }
+]

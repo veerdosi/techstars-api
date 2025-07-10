@@ -1,0 +1,24 @@
+{
+  "name": "Suggestic",
+  "slug": "suggestic",
+  "website": "https://suggestic.com/",
+  "description": "Outcome-driven personalized nutrition platform that uses AI to deliver precise food recommendations.",
+  "one_liner": "Outcome-driven personalized nutrition platform that uses AI to deliver precise food recommendations.",
+  "location": "Palo Alto, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/suggestic",
+    "linkedin": "https://linkedin.com/company/suggestic",
+    "facebook": "https://facebook.com/suggestic"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/suggestic",
+  "api": "/api/companies/suggestic.json"
+}

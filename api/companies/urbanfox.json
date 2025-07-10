@@ -1,0 +1,24 @@
+{
+  "name": "UrbanFox",
+  "slug": "urbanfox",
+  "website": "https://urbanfox.io/",
+  "description": "UrbanFox is a fraud detection and prevention technology for payment processors and online merchants. It analyses behavioral patterns to protect against fraud.",
+  "one_liner": "UrbanFox is a fraud detection and prevention technology for payment processors and online merchants. It analyses behavioral patterns to protect against fraud.",
+  "location": "Dublin, Dublin, Ireland",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/urbanfoxtweets",
+    "linkedin": "https://linkedin.com/company/urbanfox",
+    "facebook": "https://facebook.com/urbanfox-497515443595899"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/urbanfox",
+  "api": "/api/companies/urbanfox.json"
+}

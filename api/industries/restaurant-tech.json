@@ -1,0 +1,39 @@
+[
+  {
+    "name": "BentoBox",
+    "website": "https://getbento.com/",
+    "description": "Offering restaurants a platform to manage mobile-first websites, marketing and operations - BentoBox puts restaurants online.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/get_bento",
+      "linkedin": "https://linkedin.com/company/bentobox",
+      "facebook": "https://facebook.com/getbentobox/"
+    },
+    "industry": "Restaurant tech",
+    "industry_slug": "restaurant-tech"
+  },
+  {
+    "name": "Big Brain AI",
+    "website": "https://big-brain.ai/",
+    "description": "Empowering Frontline Workers for Peak Efficiency via AI",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ai-bigbrain"
+    },
+    "industry": "Restaurant tech",
+    "industry_slug": "restaurant-tech"
+  },
+  {
+    "name": "Hotelhero",
+    "website": "https://hotelhero.tech/",
+    "description": "Hotelhero is the hotel technology research platform specialized for independent hotels.",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/Hotelhero1",
+      "linkedin": "https://linkedin.com/company/hotelhero",
+      "facebook": "https://facebook.com/Hotelhero.tech"
+    },
+    "industry": "Restaurant tech",
+    "industry_slug": "restaurant-tech"
+  }
+]

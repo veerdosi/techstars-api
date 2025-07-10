@@ -1,0 +1,24 @@
+{
+  "name": "Slingshot Aerospace",
+  "slug": "slingshot-aerospace",
+  "website": "https://slingshotaerospace.com/",
+  "description": "Slingshot develops technology to process and mine the disparate, ever-increasing deluge of signal data at a scale optimized for earth observation.",
+  "one_liner": "Slingshot develops technology to process and mine the disparate, ever-increasing deluge of signal data at a scale optimized for earth observation.",
+  "location": "El Segundo, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sling_shot_aero",
+    "linkedin": "https://linkedin.com/company/slingshot-aerospace",
+    "facebook": "https://facebook.com/slingshotaero/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/slingshot-aerospace",
+  "api": "/api/companies/slingshot-aerospace.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "EVQLV",
+  "slug": "evqlv",
+  "website": "https://evqlv.com/",
+  "description": "We use AI to rapidly design biologic therapies that are less likely to fail, all at a considerably lower cost",
+  "one_liner": "We use AI to rapidly design biologic therapies that are less likely to fail, all at a considerably lower cost",
+  "location": "Woodside, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/EVQLV_AI",
+    "linkedin": "https://linkedin.com/company/64638612",
+    "facebook": "https://facebook.com/EVQLV/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/evqlv",
+  "api": "/api/companies/evqlv.json"
+}

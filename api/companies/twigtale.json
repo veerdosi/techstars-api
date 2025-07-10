@@ -1,0 +1,24 @@
+{
+  "name": "Twigtale",
+  "slug": "twigtale",
+  "website": "https://twigtale.com/",
+  "description": "Create personalized stories like never before.",
+  "one_liner": "Create personalized stories like never before.",
+  "location": "Marina del Rey, California, United States",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://pbs.twimg.com/profile_images/459839014036447232/M6_qh6hZ.jpeg",
+  "social_media": {
+    "twitter": "https://twitter.com/twigtale",
+    "linkedin": "https://linkedin.com/company/twigtale",
+    "facebook": "https://facebook.com/twigtale"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/twigtale",
+  "api": "/api/companies/twigtale.json"
+}

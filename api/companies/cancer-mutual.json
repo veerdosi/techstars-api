@@ -1,0 +1,20 @@
+{
+  "name": "Cancer Mutual",
+  "slug": "cancer-mutual",
+  "website": "https://cancerfoundation.org.za/",
+  "description": "Digital products - such as the risk assessment tool, the self-check reminders and walkthroughs - are built to raise awareness and help people reduce exposure to cancer risk factors, reaching over a million South Africans each month.",
+  "one_liner": "Digital products - such as the risk assessment tool, the self-check reminders and walkthroughs - are built to raise awareness and help people reduce exposure to cancer risk factors, reaching over a million South Africans each month.",
+  "location": "Cape Town, South Africa",
+  "industry": "Insurtech",
+  "industry_slug": "insurtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cancer-mutual",
+  "api": "/api/companies/cancer-mutual.json"
+}

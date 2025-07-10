@@ -1,0 +1,24 @@
+{
+  "name": "Partsimony",
+  "slug": "partsimony",
+  "website": "https://partsimony.com/",
+  "description": "Partsimony is your manufacturing supply chain superpower in a world of uncertainty.",
+  "one_liner": "Partsimony is your manufacturing supply chain superpower in a world of uncertainty.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/partsimony",
+    "linkedin": "https://linkedin.com/company/partsimony",
+    "facebook": "https://facebook.com/inventaprint/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/partsimony",
+  "api": "/api/companies/partsimony.json"
+}

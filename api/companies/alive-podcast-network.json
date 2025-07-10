@@ -1,0 +1,24 @@
+{
+  "name": "ALIVE Podcast Network",
+  "slug": "alive-podcast-network",
+  "website": "https://alivepodcastnetwork.com/",
+  "description": "The ALIVE Podcast Network is designed with the black creative and receiver at the heart of the platform.",
+  "one_liner": "The ALIVE Podcast Network is designed with the black creative and receiver at the heart of the platform.",
+  "location": "Washington, District of Columbia, United States",
+  "industry": "Audiotech",
+  "industry_slug": "audiotech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/alivepodcastapp",
+    "linkedin": "https://linkedin.com/company/alivepodcastapp",
+    "facebook": "https://facebook.com/alivepodcastapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/alive-podcast-network",
+  "api": "/api/companies/alive-podcast-network.json"
+}

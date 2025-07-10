@@ -1,0 +1,23 @@
+{
+  "name": "FileMarket",
+  "slug": "filemarket",
+  "website": "https://filemarket.xyz/",
+  "description": "Multichain data tokenization protocol for storage and P2P digital goods trading.",
+  "one_liner": "Multichain data tokenization protocol for storage and P2P digital goods trading.",
+  "location": "Dover, Delaware, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/FileMarket_xyz",
+    "linkedin": "https://linkedin.com/company/filemarketxyz"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/filemarket",
+  "api": "/api/companies/filemarket.json"
+}

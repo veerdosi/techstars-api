@@ -1,0 +1,24 @@
+{
+  "name": "TARA",
+  "slug": "tara",
+  "website": "https://tarateachers.com/",
+  "description": "The SaaS assistant for K-12 teachers - because when teachers come first, students win.",
+  "one_liner": "The SaaS assistant for K-12 teachers - because when teachers come first, students win.",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cevgt0esdofucyoqkoat",
+  "social_media": {
+    "twitter": "https://twitter.com/TaraEdTech1",
+    "linkedin": "https://linkedin.com/company/tara-education-technologies",
+    "facebook": "https://facebook.com/taraedtech1"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tara",
+  "api": "/api/companies/tara.json"
+}

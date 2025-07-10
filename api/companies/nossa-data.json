@@ -1,0 +1,23 @@
+{
+  "name": "Nossa Data",
+  "slug": "nossa-data",
+  "website": "https://nossadata.com/",
+  "description": "Empowering companies to manage and plan their Environmental, Social, and Governance (ESG) needs.",
+  "one_liner": "Empowering companies to manage and plan their Environmental, Social, and Governance (ESG) needs.",
+  "location": "London, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Nossa_Data",
+    "linkedin": "https://linkedin.com/company/nossadata"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nossa-data",
+  "api": "/api/companies/nossa-data.json"
+}

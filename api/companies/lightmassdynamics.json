@@ -1,0 +1,24 @@
+{
+  "name": "LightmassDynamics",
+  "slug": "lightmassdynamics",
+  "website": "https://linkedin.com/company/lightmass-dynamics",
+  "description": "Building a more efficient foundation for real-time simulation",
+  "one_liner": "Building a more efficient foundation for real-time simulation",
+  "location": "Lasko, Slovenia",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/LightmassD",
+    "linkedin": "https://linkedin.com/company/lightmass-dynamics",
+    "facebook": "https://facebook.com/LightmassDynamics/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lightmassdynamics",
+  "api": "/api/companies/lightmassdynamics.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tozuda",
+  "slug": "tozuda",
+  "website": "https://tozuda.com/",
+  "description": "Tozuda designs and manufactures impact indicators for concussion awareness.",
+  "one_liner": "Tozuda designs and manufactures impact indicators for concussion awareness.",
+  "location": "Philadelphia, Pennsylvania, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/tozudaLLC",
+    "linkedin": "https://linkedin.com/company/tozuda-llc",
+    "facebook": "https://facebook.com/TozudaSafety/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tozuda",
+  "api": "/api/companies/tozuda.json"
+}

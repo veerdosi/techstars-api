@@ -1,0 +1,23 @@
+{
+  "name": "DearFlow AI",
+  "slug": "dearflow-ai",
+  "website": "https://dearflow.ai/",
+  "description": "DearFlow is building Europe's #1 AI-powered knowledge worker task automation software.",
+  "one_liner": "DearFlow is building Europe's #1 AI-powered knowledge worker task automation software.",
+  "location": "Hohenstein, Hesse, Germany",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/dearflow_ai",
+    "linkedin": "https://linkedin.com/company/dearflow"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dearflow-ai",
+  "api": "/api/companies/dearflow-ai.json"
+}

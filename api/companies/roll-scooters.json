@@ -1,0 +1,24 @@
+{
+  "name": "Roll Scooters",
+  "slug": "roll-scooters",
+  "website": "https://rollscooters.com/",
+  "description": "Roll offers smart mobility solutions by providing dock-less electric scooter and bike-share services to cities and campuses.",
+  "one_liner": "Roll offers smart mobility solutions by providing dock-less electric scooter and bike-share services to cities and campuses.",
+  "location": "Scarborough, Ontario, Canada",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/roll_scooters",
+    "linkedin": "https://linkedin.com/company/roll-technologies",
+    "facebook": "https://facebook.com/rollscooters"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/roll-scooters",
+  "api": "/api/companies/roll-scooters.json"
+}

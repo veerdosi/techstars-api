@@ -1,0 +1,24 @@
+{
+  "name": "GroceryList",
+  "slug": "grocerylist",
+  "website": "https://grocerylistgroup.com/",
+  "description": "Grocery List is a comprehensive, Marketplace on-demand online grocery ordering platform that empowers buyers in Canada, the USA, and the UK to shop for a wide range of products for their loved ones in Latin America and the Caribbean from local merchants",
+  "one_liner": "Grocery List is a comprehensive, Marketplace on-demand online grocery ordering platform that empowers buyers in Canada, the USA, and the UK to shop for a wide range of products for their loved ones in Latin America and the Caribbean from local merchants",
+  "location": "Longwood, Florida, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/grocerylistja",
+    "linkedin": "https://linkedin.com/company/86444996",
+    "facebook": "https://facebook.com/GroceryListJa"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/grocerylist",
+  "api": "/api/companies/grocerylist.json"
+}

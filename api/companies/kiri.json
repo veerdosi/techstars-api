@@ -1,0 +1,23 @@
+{
+  "name": "Kiri",
+  "slug": "kiri",
+  "website": "https://kiritoys.com/",
+  "description": "For parents with young children whom they want to learn a second language, our smart toy provides a multisensory learning experience that teaches kids English, Mandarin and Spanish through play. We teach 46 subjects in all 3 languages.",
+  "one_liner": "For parents with young children whom they want to learn a second language, our smart toy provides a multisensory learning experience that teaches kids English, Mandarin and Spanish through play. We teach 46 subjects in all 3 languages.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/kiritoys",
+    "facebook": "https://facebook.com/kiritoys.co/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kiri",
+  "api": "/api/companies/kiri.json"
+}

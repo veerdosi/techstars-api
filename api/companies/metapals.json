@@ -1,0 +1,24 @@
+{
+  "name": "MetaPals",
+  "slug": "metapals",
+  "website": "https://metapals.pet/",
+  "description": "MetaPals is a browser extension that allows users to interact and grow NFT pets directly from their browser computer screen.",
+  "one_liner": "MetaPals is a browser extension that allows users to interact and grow NFT pets directly from their browser computer screen.",
+  "location": "Singapore, Singapore",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/MetaPals",
+    "linkedin": "https://linkedin.com/company/metapals",
+    "facebook": "https://facebook.com/metapals/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/metapals",
+  "api": "/api/companies/metapals.json"
+}

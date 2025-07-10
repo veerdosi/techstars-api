@@ -1,0 +1,22 @@
+{
+  "name": "Refr Sports",
+  "slug": "refr-sports",
+  "website": "https://refrsports.com/",
+  "description": "Refr Sports makes referee management simple. It provides a solution for sports organizations, referee assignors, and referees who face scheduling challenges and referee shortages. It is a streamlined platform that simplifies operations, enhances connectiv",
+  "one_liner": "Refr Sports makes referee management simple. It provides a solution for sports organizations, referee assignors, and referees who face scheduling challenges and referee shortages. It is a streamlined platform that simplifies operations, enhances connectiv",
+  "location": "Minneapolis, Minnesota, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/refr-sports-llc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/refr-sports",
+  "api": "/api/companies/refr-sports.json"
+}

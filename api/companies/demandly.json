@@ -1,0 +1,22 @@
+{
+  "name": "Demandly",
+  "slug": "demandly",
+  "website": "https://dobbie.io/",
+  "description": "Helps great brands grow faster by using AI to ensure they have the optimal inventory levels at all times.",
+  "one_liner": "Helps great brands grow faster by using AI to ensure they have the optimal inventory levels at all times.",
+  "location": "Miami, Florida, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/demandly-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/demandly",
+  "api": "/api/companies/demandly.json"
+}

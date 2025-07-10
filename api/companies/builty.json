@@ -1,0 +1,23 @@
+{
+  "name": "Builty",
+  "slug": "builty",
+  "website": "https://builty.app/",
+  "description": "For real estate risk managers who lack actionable insights, Builty provides unified intelligence of building permit data.",
+  "one_liner": "For real estate risk managers who lack actionable insights, Builty provides unified intelligence of building permit data.",
+  "location": "Walnut Creek, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/builtyapp",
+    "linkedin": "https://linkedin.com/company/builtyapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/builty",
+  "api": "/api/companies/builty.json"
+}

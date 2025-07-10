@@ -1,0 +1,24 @@
+{
+  "name": "AnsuR",
+  "slug": "ansur",
+  "website": "https://ansur.no/",
+  "description": "High Precision Mission critical visual communication",
+  "one_liner": "High Precision Mission critical visual communication",
+  "location": "Fornebu, Norway",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ansurtech",
+    "linkedin": "https://linkedin.com/company/ansur",
+    "facebook": "https://facebook.com/AnsuRTechnologies/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ansur",
+  "api": "/api/companies/ansur.json"
+}

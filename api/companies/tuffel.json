@@ -1,0 +1,22 @@
+{
+  "name": "Tuffel",
+  "slug": "tuffel",
+  "website": "https://linkedin.com/in/seanschoi",
+  "description": "We revolutionize how we build and use household power tools using the latest and greatest technologies in Machine Learning and IoT.",
+  "one_liner": "We revolutionize how we build and use household power tools using the latest and greatest technologies in Machine Learning and IoT.",
+  "location": "Palo Alto, California, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/seanschoi"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tuffel",
+  "api": "/api/companies/tuffel.json"
+}

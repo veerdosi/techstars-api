@@ -1,0 +1,24 @@
+{
+  "name": "Atlas5D",
+  "slug": "atlas5d",
+  "website": "https://atlas5d.com/",
+  "description": "The first non-worn sensor for mobility disorders.",
+  "one_liner": "The first non-worn sensor for mobility disorders.",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Atlas5D",
+    "linkedin": "https://linkedin.com/company/atlas5d",
+    "facebook": "https://facebook.com/Atlas5D/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/atlas5d",
+  "api": "/api/companies/atlas5d.json"
+}

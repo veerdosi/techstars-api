@@ -1,0 +1,24 @@
+{
+  "name": "SureConsent",
+  "slug": "sureconsent",
+  "website": "https://linkedin.com/company/sureconsent",
+  "description": "Painlessly empowering patients",
+  "one_liner": "Painlessly empowering patients",
+  "location": "Los Angeles, California, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sure_consent",
+    "linkedin": "https://linkedin.com/company/sureconsent",
+    "facebook": "https://facebook.com/SureConsent/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sureconsent",
+  "api": "/api/companies/sureconsent.json"
+}

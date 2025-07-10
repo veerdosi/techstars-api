@@ -1,0 +1,24 @@
+{
+  "name": "Otrafy",
+  "slug": "otrafy",
+  "website": "https://otrafy.com/",
+  "description": "Otrafy is a supply-chain management platform that runs on a track and trace model with a focus on data sharing and product history.",
+  "one_liner": "Otrafy is a supply-chain management platform that runs on a track and trace model with a focus on data sharing and product history.",
+  "location": "Saint Paul, Minnesota, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Otrafy",
+    "linkedin": "https://linkedin.com/company/otrafytech",
+    "facebook": "https://facebook.com/Otrafy-325290301636875/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/otrafy",
+  "api": "/api/companies/otrafy.json"
+}

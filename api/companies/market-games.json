@@ -1,0 +1,24 @@
+{
+  "name": "Market Games",
+  "slug": "market-games",
+  "website": "https://marketgames.io/",
+  "description": "MG | the new standard for business education",
+  "one_liner": "MG | the new standard for business education",
+  "location": "San Carlos, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/themarketgames",
+    "linkedin": "https://linkedin.com/company/themarketgames",
+    "facebook": "https://facebook.com/themarketgames"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/market-games",
+  "api": "/api/companies/market-games.json"
+}

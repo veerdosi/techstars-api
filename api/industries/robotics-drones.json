@@ -1,0 +1,2221 @@
+[
+  {
+    "name": "Zipline",
+    "website": "https://flyzipline.com/",
+    "description": "Zipline operates the world's largest autonomous on-demand delivery system with the industry's leading instant logistics technology stack.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/zipline",
+      "linkedin": "https://linkedin.com/company/flyzipline",
+      "facebook": "https://facebook.com/flyzipline/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Slingshot Aerospace",
+    "website": "https://slingshotaerospace.com/",
+    "description": "Slingshot develops technology to process and mine the disparate, ever-increasing deluge of signal data at a scale optimized for earth observation.",
+    "location": "El Segundo, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sling_shot_aero",
+      "linkedin": "https://linkedin.com/company/slingshot-aerospace",
+      "facebook": "https://facebook.com/slingshotaero/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "SkySpecs",
+    "website": "https://skyspecs.com/",
+    "description": "Simplify the Management of Renewable Energy Assets We offer purpose-built technologies and services so our customers can deliver the most efficient energy.",
+    "location": "Ann Arbor, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/skyspecs",
+      "linkedin": "https://linkedin.com/company/skyspecs",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Sphero",
+    "website": "https://sphero.com/",
+    "description": "We create amazing connected toys.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/littleBits",
+      "linkedin": "https://linkedin.com/company/1199924",
+      "facebook": "https://facebook.com/GoSphero"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Mast Reforestation",
+    "website": "https://mastreforest.com/",
+    "description": "Making reforestation scalable.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/giffett3baesbxlopusv",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mastreforest",
+      "linkedin": "https://linkedin.com/company/mast-reforest",
+      "facebook": "https://facebook.com/mast.reforest/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "HyBird",
+    "website": "https://hybirdtech.com/",
+    "description": "Making physical asset inspection easy, by improving data capture, and processing, analysing and visualising it in an easy-to-use digital 3D environment.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/hybirdtech",
+      "linkedin": "https://linkedin.com/company/hybird-ltd",
+      "facebook": "https://facebook.com/HyBirdTech"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "42Maru",
+    "website": "https://42maru.ai/",
+    "description": "Answering AI - 42Maru is AI deep tech startup that develops Deep Semantic QA (Question Answering) & TA (Text Analytics) Platform",
+    "location": "Seoul, South Korea",
+    "social_media": {
+      "twitter": "https://twitter.com/42MARU_ai",
+      "linkedin": "https://linkedin.com/company/14403023",
+      "facebook": "https://facebook.com/42Maru/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "SkyWatch",
+    "website": "https://skywatch.co/",
+    "description": "SkyWatch provides API access to the world's satellite data.",
+    "location": "Waterloo, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/SkyWatchApps",
+      "linkedin": "https://linkedin.com/company/skywatchai",
+      "facebook": "https://facebook.com/SkyWatchAI/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Seasats",
+    "website": "https://seasats.com/",
+    "description": "Long range, zero emissions, autonomous ocean vehicles for commercial surveys, climate science, and national security.",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/seasats",
+      "linkedin": "https://linkedin.com/company/seasats",
+      "facebook": "https://facebook.com/Seasatellites/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Daupler",
+    "website": "https://daupler.com/",
+    "description": "First Response Software for Water Utilities and Public Works.",
+    "location": "Kansas City, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/dauplerinc",
+      "linkedin": "https://linkedin.com/company/daupler",
+      "facebook": "https://facebook.com/dauplerinc/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Sea Machines Robotics",
+    "website": "https://sea-machines.com/",
+    "description": "Autonomous self-driving systems for boats.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SeaMachines",
+      "linkedin": "https://linkedin.com/company/sea-machines",
+      "facebook": "https://facebook.com/pg/seamachinesrobotics/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Target Arm",
+    "website": "https://targetarm.com/",
+    "description": "Target Arm's device, Tular, enables rotary and fixed wing drones to be launched and recovered from any moving vehicle, and even during high-wind conditions.",
+    "location": "Ridgefield, Connecticut, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/targetarm"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Vermeer",
+    "website": "https://getvermeer.com/",
+    "description": "AR-powered marketplace for frictionless aerial footage.",
+    "location": "Queens, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vermeerapp",
+      "linkedin": "https://linkedin.com/company/47843",
+      "facebook": "https://facebook.com/vermeerapp/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Neurala",
+    "website": "https://neurala.com/",
+    "description": "Builds brains for robots",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/neurala",
+      "linkedin": "https://linkedin.com/company/neurala",
+      "facebook": "https://facebook.com/Neurala"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Rise Robotics",
+    "website": "https://riserobotics.com/",
+    "description": "Creating the world's best mobile robotic components",
+    "logo_url": "https://launchrock-assets.s3.amazonaws.com/logo-files/WZQMTSW7_1382562200511.png?_=3",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RiseRobotics",
+      "linkedin": "https://linkedin.com/in/arronacosta",
+      "facebook": "https://facebook.com/riseroboticsinc/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Cobalt",
+    "website": "https://cobalt.pe/",
+    "description": "Cobalt offers an integrated solution for portfolio monitoring and reporting for private equity and venture capital firms.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Cobalt_Software",
+      "linkedin": "https://linkedin.com/company/cobaltrobotics",
+      "facebook": "https://facebook.com/CobaltSoftware"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Rezilient Health",
+    "website": "https://rezilienthealth.com/",
+    "description": "Rezilient Health bridges the convenience of telehealth with the broad scope of in-person care by offering neighborhood CloudClinics where families can get virtual access to their doctor as well as physical exams, labs, and imaging.",
+    "location": "St. Louis, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rezilienthealth",
+      "linkedin": "https://linkedin.com/company/rezilienthealth"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Bifrost",
+    "website": "https://bifrost.ai/",
+    "description": "A synthetic data API that allows AI teams to generate their own custom datasets in hours instead of months - no tedious collection, curation or labelling required.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "twitter": "https://twitter.com/bifrost_ai",
+      "linkedin": "https://linkedin.com/company/bifrost-network",
+      "facebook": "https://facebook.com/BifrostFinance"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "MOLG",
+    "website": "https://molg.ai/",
+    "description": "MOLG helps complex electronic products companies design/manufacture more sustainable products using proprietary design software, autonomous robotics, and an open source traceability system.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/molg"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Hammerhead",
+    "website": "https://hammerhead.io/",
+    "description": "Hammerhead helps bikers find their way and discover new ones.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hammerheadrides",
+      "linkedin": "https://linkedin.com/company/hammerhead-navigation",
+      "facebook": "https://facebook.com/HammerheadNavigation"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "UBIO Automation Cloud",
+    "website": "https://ub.io/",
+    "description": "Make the Web your API. The UBIO Automation Cloud rapidly automate, transact and connect anything on the web.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/ubio",
+      "linkedin": "https://linkedin.com/company/3498744",
+      "facebook": "https://facebook.com/Ubio-170230710232639/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "chowbotics",
+    "website": "https://chowbotics.com/",
+    "description": "A robot that makes food, meant for restaurants and other food businesses",
+    "location": "Redwood City, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/chowbotics",
+      "linkedin": "https://linkedin.com/company/chowbotics",
+      "facebook": "https://facebook.com/chowbotics/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Tennibot",
+    "website": "https://tennibot.com/",
+    "description": "Tennibot builds autonomous robots for sports",
+    "location": "Auburn, Alabama, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tennibot",
+      "linkedin": "https://linkedin.com/company/tennibot",
+      "facebook": "https://facebook.com/tennibot/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Niricson Software",
+    "website": "https://hrginfrastructure.com/",
+    "description": "Bringing Digital Revolution to Infrastructure Condition Assessment and Risk Management",
+    "location": "Victoria, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/niricson",
+      "linkedin": "https://linkedin.com/company/hrg-infrastructure",
+      "facebook": "https://facebook.com/HRGInfrastructure/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Aerialoop",
+    "website": "https://aerialoop.com/",
+    "description": "Helping customers in suburbs have immediate access to commerce only available in city centers through drone delivery",
+    "location": "Quito, Ecuador",
+    "social_media": {
+      "twitter": "https://twitter.com/Aerialoop_com",
+      "linkedin": "https://linkedin.com/company/aerialoop",
+      "facebook": "https://facebook.com/aerialoop"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "blueflite",
+    "website": "https://blueflite.com/",
+    "description": "Benefits of a helicopter, speed and access, but at the cost of operating a conventional van",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/blueflite",
+      "facebook": "https://facebook.com/blueflite"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "i-Brain Tech",
+    "website": "https://i-brain.tech/",
+    "description": "i-BrainTech is a novel AI-powered brain-training solution to enhance the KPIs of individual athletes and to empower coaches with unique neuro-sport insights.",
+    "location": "Ramat Gan, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/i-braintech"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "TRIDITIVE",
+    "website": "https://triditive.com/",
+    "description": "TRIDITIVE has developed AMCELL, an additive manufacturing cell automated and modular for the continuous production of final parts.",
+    "location": "Meres Siero, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/triditive",
+      "linkedin": "https://linkedin.com/company/triditive-aam",
+      "facebook": "https://facebook.com/triditive"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Scout",
+    "website": "https://scout.space/",
+    "description": "SCOUT is developing orbital products and services to enable a new era of space safety, transparency, and improved Space Domain Awareness.",
+    "location": "Alexandria, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SCOUTdotspace",
+      "linkedin": "https://linkedin.com/company/scoutdotspace",
+      "facebook": "https://facebook.com/SCOUTdotspace"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Open Bionics",
+    "website": "https://openbionics.com/",
+    "description": "Award winning robotics company producing low-cost bionic body parts for amputees.",
+    "location": "Bristol, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/openbionics",
+      "linkedin": "https://linkedin.com/company/openbionics",
+      "facebook": "https://facebook.com/openbionicsltd"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Cron Systems",
+    "website": "https://cronsystems.com/",
+    "description": "Laser wall perimeter intrusion detection platform",
+    "location": "New Delhi, India",
+    "social_media": {
+      "twitter": "https://twitter.com/cron_systems",
+      "linkedin": "https://linkedin.com/company/10466972",
+      "facebook": "https://facebook.com/cronsystems/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "REEV",
+    "website": "https://reev.care/",
+    "description": "Helping those affected by neurological gait disorders like stroke to overcome their daily disability by becoming more autonomous and independent in their movements",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lqz0gwn1qm5xlsatx7we",
+    "location": "Toulouse, France",
+    "social_media": {
+      "twitter": "https://twitter.com/wearereev",
+      "linkedin": "https://linkedin.com/company/reevcare",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Peer Robotics",
+    "website": "https://peerrobotics.ai/",
+    "description": "Peer Robotics is an industrial automation company that provides an easier and cost efficient way to integrate and deploy mobile robots.",
+    "location": "New Haven, Connecticut, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/roboticspeer",
+      "linkedin": "https://linkedin.com/company/peer-robotics"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "RedWing Aerospace Laboratories",
+    "website": "https://redwinglabs.in/",
+    "description": "Last mile logistics enabled by drones",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/redwinglabs"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Fantasmo",
+    "website": "https://fantasmo.io/",
+    "description": "Fantasmo builds a decentralized, open source stack for indoor and outdoor 3D maps and camera-based positioning.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fantasmoio",
+      "linkedin": "https://linkedin.com/company/9256243",
+      "facebook": "https://facebook.com/fantasmostudios"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Diagon Technologies",
+    "website": "https://diagon.ai/",
+    "description": "First-of-its-kind equipment sourcing platform bringing hardware, services, and financing into a consolidated user experience.",
+    "location": "Alameda, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/diagon-tech"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "IONA",
+    "website": "https://ionadrones.com/",
+    "description": "IONA develops zero-emission autonomous drone solutions for sustainable and efficient logistics in low population density areas.",
+    "location": "Bedford, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ionalogistics"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Dotterel",
+    "website": "https://dotterel.co.nz/",
+    "description": "Noise reduction and audio recording technology for drones.",
+    "location": "Auckland, New Zealand",
+    "social_media": {
+      "twitter": "https://twitter.com/dottereluav",
+      "linkedin": "https://linkedin.com/company/dotterel-technologies"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Anam",
+    "website": "https://anam.ai/",
+    "description": "Digital humans you can converse with in real time.",
+    "location": "London, United Kingdom",
+    "social_media": {},
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "aliciabots",
+    "website": "https://aliciabots.com/",
+    "description": "Robotics start-up building the cheapest and most effective autonomous, robotic hull cleaning solution for ocean-going vessels",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/aliciabots",
+      "facebook": "https://facebook.com/Aliciabots-622715641695559/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Pitch Aeronautics",
+    "website": "https://pitchaero.com/",
+    "description": "Pitch Aeronautics is an aviation and aerospace tech company that offers drone for installations, maintenance, and up-close inspections.",
+    "location": "Boise, Idaho, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pitchaero",
+      "linkedin": "https://linkedin.com/company/pitch-aeronautics",
+      "facebook": "https://facebook.com/pitchaero/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Partsimony",
+    "website": "https://partsimony.com/",
+    "description": "Partsimony is your manufacturing supply chain superpower in a world of uncertainty.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/partsimony",
+      "linkedin": "https://linkedin.com/company/partsimony",
+      "facebook": "https://facebook.com/inventaprint/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Toolsvilla",
+    "website": "https://toolsvilla.com/",
+    "description": "A Digital Marketplace for Machinery, Tools & Equipment that solve operational inefficiencies in the farm & food businesses of India.",
+    "location": "Durgapur, West Bengal, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/toolsvilla",
+      "facebook": "https://facebook.com/toolsvilla/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Mesodyne",
+    "website": "https://mesodyne.com/",
+    "description": "Silent, reliable, long-endurance power from any fuel.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mesodyne"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Telekinesis",
+    "website": "https://telekinesis.ai/",
+    "description": "Telekinesis is building the first AI-powered robotics cloud platform\nto automate manufacturing.",
+    "location": "Darmstadt, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/telekinesis_ai",
+      "linkedin": "https://linkedin.com/company/telekinesis-ai"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Brizi",
+    "website": "https://brizicam.com/",
+    "description": "Pioneers in crowd-controlled camera technology in sports, entertainment, and attractions.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/brizi",
+      "linkedin": "https://linkedin.com/company/brizi",
+      "facebook": "https://facebook.com/brizi/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Sees",
+    "website": "https://sees.ai/",
+    "description": "Unlocking aerial data capture at scale, by providing clients with a solution that enables the remote operation of drones from a central control room.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/sees_ai",
+      "linkedin": "https://linkedin.com/company/sees-ai"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Wind Fisher",
+    "website": "https://wind-fisher.com/",
+    "description": "There is on shore ; there is off shore ; and there is high altitude wind. We develop a revolutionary concept for high altitude wind energy: safer, lighter, quicker, and more cost-effective. We re-invent wind power",
+    "location": "Les Adrets, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/wind-fisher"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Jaipur Robotics",
+    "website": "https://jaipurrobotics.com/",
+    "description": "Jaipur Robotics is building Europe's #1 AI-powered waste recognition and sorting solution for recycling and energy recovery.",
+    "location": "Manno, Switzerland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/jaipurrobotics"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Sorair Technologies",
+    "website": "https://sorair.co.uk/",
+    "description": "Automating end-to-end supply chains using software management systems and robotics technology.",
+    "location": "Didcot, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sorair-technologies",
+      "facebook": "https://facebook.com/Sorairtech"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "F-Drones",
+    "website": "https://f-drones.com/",
+    "description": "F-drones is transforming marine and offshore logistics with proprietary aerial delivery drones.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "twitter": "https://twitter.com/f_drones",
+      "linkedin": "https://linkedin.com/company/f-drones"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Equipment Connect",
+    "website": "https://equipmentconnect.co.uk/",
+    "description": "equipal is the online platform for fast and affordable equipment finance.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Equip_Connect",
+      "linkedin": "https://linkedin.com/company/equipaluk",
+      "facebook": "https://facebook.com/equipaluk"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Vumo AI",
+    "website": "https://vumo.ai/",
+    "description": "Car Scanner introduces transparency and automatization into the car appraisal process with an autonomous robot performing car inspections.",
+    "location": "Krakow, Poland",
+    "social_media": {
+      "twitter": "https://twitter.com/CarScanner2",
+      "linkedin": "https://linkedin.com/company/car-scanner",
+      "facebook": "https://facebook.com/Car-Scanner-106069580898902/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "OmniPreSense Corporation",
+    "website": "https://omnipresense.com/",
+    "description": "Supplier of short range radar sensors for drone, robots, and IoT systems allowing them to \"see\" the world around them.",
+    "location": "San Jose, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/OmniPSense",
+      "linkedin": "https://linkedin.com/company/17992858",
+      "facebook": "https://facebook.com/omnipsense/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Van Robotics",
+    "website": "https://abiis-world.com/",
+    "description": "Van Robotics develops smart, robot tutors and a socially intelligent software platform to customize interactions with individual K-8 students.",
+    "location": "Columbia, South Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vanrobotics",
+      "linkedin": "https://linkedin.com/company/van-robotics",
+      "facebook": "https://facebook.com/vanrobotics/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Notch",
+    "website": "https://notchtechnologies.com/",
+    "description": "Changing the wireless world using a platform technology called RF metasurfaces",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/notchtechnology",
+      "linkedin": "https://linkedin.com/company/notch-technologies",
+      "facebook": "https://facebook.com/notchteam/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Atomos Space",
+    "website": "https://atomosspace.com/",
+    "description": "Builds and operates orbital transfer vehicles that help satellites get to orbit more cost-effectively",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AtomosSpace",
+      "linkedin": "https://linkedin.com/company/atomosspace",
+      "facebook": "https://facebook.com/AtomosSpace"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "RobotLAB",
+    "website": "https://robotlab.com/",
+    "description": "RobotsLAB is on a mission to change the way abstract math and science is being taught. We bring abstract math and science concepts to life, using robots, making teachers super-heros, engaging students and ensuring their career and college readiness.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RobotLABInc",
+      "linkedin": "https://linkedin.com/company/3195197",
+      "facebook": "https://facebook.com/RobotLABInc"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Albo",
+    "website": "https://albosys.com/",
+    "description": "Albo analyzes satellite imagery to survey soil deep beneath the surface, empowering farmers to grow more efficiently and more sustainably.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/AlboClimate",
+      "linkedin": "https://linkedin.com/company/albosys",
+      "facebook": "https://facebook.com/AlboSystems/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Pierce Aerospace",
+    "website": "https://pierceaerospace.net/",
+    "description": "Heterogeneous drone network identification and multi-domain IoT solutions at the edge.",
+    "location": "Fishers, Indiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gowento",
+      "linkedin": "https://linkedin.com/company/gowento"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Nicslab",
+    "website": "https://nicslab.com/",
+    "description": "Nicslab, a fabless chip company, developing electronic and photonic integrated circuits for future optical solutions in data centers, AI, and quantum computing.",
+    "location": "Sydney, New South Wales, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/NicslabOfficial",
+      "linkedin": "https://linkedin.com/company/nicslab",
+      "facebook": "https://facebook.com/Nicslab.Support/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Hyperspec AI",
+    "website": "https://hyperspec.ai/",
+    "description": "Effortless autonomy enabled by real-time scene construction and cross view localization for efficient HD mapping at the edge.",
+    "location": "Woodland, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hyperspec-ai"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Hyperkelp",
+    "website": "https://hyperkelp.com/",
+    "description": "Hosted payload solution for early hypersonic alerts and multi-domain awareness and mesh network analytics in the ocean.",
+    "location": "Encinitas, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HyperKelp",
+      "linkedin": "https://linkedin.com/company/hyperkelp",
+      "facebook": "https://facebook.com/hyperkelp"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Et Cetera Robotics",
+    "website": "https://etcrobotics.com/",
+    "description": "Etc. Robotics upgrades robots to see what others miss.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/et-cetera-robotics"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Autobon",
+    "website": "https://autobon.ai/",
+    "description": "Connected Sensing and Automation Platform For Existing Semi-Trucks",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/autobonai",
+      "linkedin": "https://linkedin.com/company/autobonai",
+      "facebook": "https://facebook.com/autobonai/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Xook",
+    "website": "https://xook.io/",
+    "description": "Xook makes robotic food kiosks for office canteens, college/university campuses and apartment complexes globally.",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "twitter": "https://twitter.com/xook_chef",
+      "linkedin": "https://linkedin.com/company/xook-io",
+      "facebook": "https://facebook.com/xookio"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "General Systems",
+    "website": "https://generalsystems.tech/",
+    "description": "A sustainability focused, robotics company dedicated to transforming the global construction sector.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/mukundnambirajan"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Trexo Robotics",
+    "website": "https://trexorobotics.com/",
+    "description": "Trexo Robotics is building exoskeleton devices for children with disabilities.",
+    "location": "Mississauga, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/trexorobotics",
+      "linkedin": "https://linkedin.com/company/22576006",
+      "facebook": "https://facebook.com/trexorobotics"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "URSA",
+    "website": "https://ursasecure.com/",
+    "description": "We are an autonomous systems intelligence platform. We will be the definitive source of autonomous systems data and insights in the world.",
+    "location": "Exeter, New Hampshire, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/URSAnalysis",
+      "linkedin": "https://linkedin.com/company/11108597",
+      "facebook": "https://facebook.com/URSA.Unmanned.Robotics.Systems.Analysis/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "SICDRONE",
+    "website": "https://sicdrone.com/",
+    "description": "Unmanned Aircraft Manufacturer for DoD/Commercial use",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sicdrone",
+      "linkedin": "https://linkedin.com/company/sicdrone",
+      "facebook": "https://facebook.com/SICdrone/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Robodub",
+    "website": "https://robodub.com/",
+    "description": "We are a drone company developing high performance drones that has better agility, maneuverability, safety, and load-balancing capacity.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/robodubinc",
+      "linkedin": "https://linkedin.com/company/robodub-inc-",
+      "facebook": "https://facebook.com/robodubinc"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "VecTech",
+    "website": "https://vectech.io/",
+    "description": "A public benefit corporation, MD building solutions that support pest control organizations",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gj4ivajobsbtdokfvnev",
+    "location": "Baltimore, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vectechai",
+      "linkedin": "https://linkedin.com/company/vectechai",
+      "facebook": "https://facebook.com/VectechAI"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Optivolt Labs",
+    "website": "https://optivoltlabs.com/",
+    "description": "Optivolt Labs develops high efficiency solar powered drones for commercial and military clients to extend flight time.",
+    "location": "Burlingame, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/OptivoltLabs",
+      "linkedin": "https://linkedin.com/company/optivolt",
+      "facebook": "https://facebook.com/optivoltlabs"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "MODICA",
+    "website": "https://madebymodica.com/",
+    "description": "Self-organizing, super-scalable Factory-as-a-Service modules, deployed anywhere.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/madebyMODICA",
+      "linkedin": "https://linkedin.com/company/modica",
+      "facebook": "https://facebook.com/modicamicroindustries/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Styku",
+    "website": "https://styku.com/",
+    "description": "Styku is a 3D body scanning platform for fitness, health, and wellness markets. We believe in the best way to demonstrate progress is to visualize results.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Styku3D",
+      "linkedin": "https://linkedin.com/company/2603837",
+      "facebook": "https://facebook.com/pages/Styku/189401271084369"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Norsjór AS",
+    "website": "https://norsjor.no/",
+    "description": "Norsjor has designed a technology to preserve marine life by using radiation.",
+    "location": "Kristiansand, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/norsjor-as"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "ARTIAL",
+    "website": "https://artial.co/",
+    "description": "ARTIAL is building AI software to help infrastructure construction development and management companies fully automate monitoring and digital inspections using self-flying drones.",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/artialai"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "SafeFlight",
+    "website": "https://safeflight.io/",
+    "description": "SafeFlight is a cloud-based SaaS software for America's 9-1-1 centers and field officers and incident commanders to address rogue drone calls.",
+    "location": "Incline Village, Nevada, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/safeflight"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Cleo Robotics",
+    "website": "https://cleorobotics.com/",
+    "description": "Building safe and compact indoor drones for military, commercial, and industrial applications.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cleorobotics",
+      "linkedin": "https://linkedin.com/company/cleo-robotics-inc.",
+      "facebook": "https://facebook.com/cleorobotics/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "BioGrip",
+    "website": "https://smart.biogrip.tech/",
+    "description": "Biogrip: Bionic-Ai powered artificial limbs",
+    "location": "Mexico City, Federal District, Mexico",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/biogrip-tech"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Hero",
+    "website": "https://hero-app.com/",
+    "description": "Platform that reduces insurers' liability from drunk driving by providing bars/restaurants with a mobile solution that incentivizes customers to get home safely",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HEROappit",
+      "linkedin": "https://linkedin.com/company/herospace-app",
+      "facebook": "https://facebook.com/hero-app-1533884693518832"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Revolute Robotics",
+    "website": "https://revoluterobotics.com/",
+    "description": "Autonomous, energy-efficient robot that's capable of both rolling and flying",
+    "location": "Scottsdale, Arizona, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/revoluterobotics",
+      "facebook": "https://facebook.com/revoluterobotics"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Helgen Technologies",
+    "website": "https://helgen.tech/",
+    "description": "YOUR AUTOMATED WORKFORCE",
+    "location": "Killorglin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/helgentech",
+      "linkedin": "https://linkedin.com/company/helgen",
+      "facebook": "https://facebook.com/ipt.trainers/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Autonopia",
+    "website": "https://autonopia.com/",
+    "description": "Autonomous robots designed for cleaning building windows.",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/autonopia",
+      "linkedin": "https://linkedin.com/company/autonopia"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Athen",
+    "website": "https://athenaineuro.com/",
+    "description": "Sensor fusion for low-power and low latency IoT networks",
+    "location": "Baltimore, Maryland, United States",
+    "social_media": {},
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Alpha Drive",
+    "website": "https://alphadrive.ai/",
+    "description": "Alpha Drive is a Platform-as-a-Service for testing and validating AI algorithms - starting with autonomous vehicles - through cloud based simulation.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/alphadriveai",
+      "linkedin": "https://linkedin.com/company/alphadriveai"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Skyfront",
+    "website": "https://skyfront.com/",
+    "description": "Skyfront builds hybrid-electric multirotor drones that fly for 4 hours, 10X longer than existing battery powered drones",
+    "location": "Hoboken, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/skyfrontcorp",
+      "linkedin": "https://linkedin.com/company/skyfront",
+      "facebook": "https://facebook.com/skyfrontcorp"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Inova Drone",
+    "website": "https://inovadrone.com/",
+    "description": "Developing tomorrows Life Saving Commercial Drone Technology.",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/INOVADRONE",
+      "linkedin": "https://linkedin.com/company/inova-drone-inc",
+      "facebook": "https://facebook.com/INOVADRONE"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "EVA",
+    "website": "https://eva.xyz/",
+    "description": "The world leader for compact electric vertical take-off and landing technology",
+    "location": "Mazamet, France",
+    "social_media": {
+      "twitter": "https://twitter.com/EVA_VTOL",
+      "linkedin": "https://linkedin.com/company/electric-visionary-aircrafts",
+      "facebook": "https://facebook.com/ElectricVisionaryAircrafts/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Witching Hour",
+    "website": "https://witchinghour.io/",
+    "description": "Eliminate forest fire risk for your electric utility",
+    "location": "St. Petersburg, Florida, United States",
+    "social_media": {},
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "WingXpand",
+    "website": "https://wingxpand.com/",
+    "description": "WingXpand is a US made and patented 7ft drone that expands from a backpack, offering flight services, training and analysis.",
+    "location": "St. Louis, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wingxpand",
+      "linkedin": "https://linkedin.com/company/wingxpand",
+      "facebook": "https://facebook.com/wingxpand"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Solideon",
+    "website": "https://solideon.com/",
+    "description": "The company facilitates use of additive manufacturing system, a machine-learning collaborative system.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rvyqaeriunuqfjqw8tch",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SolideonUSA",
+      "linkedin": "https://linkedin.com/company/solideonusa"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Rotender",
+    "website": "https://rotender.com/",
+    "description": "Rotender automates the service and sale of alcoholic beverages.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gpwmz4urvghqp64p3c6y",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rotenderba",
+      "linkedin": "https://linkedin.com/company/rotender"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "In Orbit Aerospace",
+    "website": "https://inorbitaerospace.com/",
+    "description": "Enabling mass manufacturing and research in space.",
+    "location": "Torrance, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/in-orbit-aerospace"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Maya Ai",
+    "website": "https://mayaknows.com/",
+    "description": "Deliver personalization to your customers, bring clarity to your teams, and enhance internal operations with our all-in-one AI solution.",
+    "location": "Tampa, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mayaaiknows"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Haylon Technologies",
+    "website": "https://haylontech.com/",
+    "description": "Making electrified products more sustainable by unleashing the full potential of existing batteries.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pkrnai4q4rldqqiyjr6p",
+    "location": "Champaign, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/haylon-technologies"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Birdstop",
+    "website": "https://birdstop.io/",
+    "description": "Birdstop, automated inspection and monitoring for physical assets from San Francisco",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/birdstop"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Automatika Robotics",
+    "website": "https://automatikarobotics.com/",
+    "description": "AI for Human-like Navigation in Unstructured Space",
+    "location": "Grenoble, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/automatika-robotics"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Waldek Technologies",
+    "website": "https://gauzilla.xyz/",
+    "description": "Waldek Technologies is developing Gauzilla Pro, the #1 AI-powered & no-code web editor for 3D/4D digital twins. Gauzilla utilizes the latest radiance field technology and serverless edge-AI that runs directly in a web browser.",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/waldek-technologies"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Crow Industries",
+    "website": "https://crowindustriesinc.com/",
+    "description": "Critical Minerals producers cannot keep pace with the current and future resources demands for the Renewable Energy Transition. We are building the fully autonomous robotic laborforce that will allow these producers to exceed production targets while keep",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xdwzfupg75r9clgq4l0x",
+    "location": "Phoenix, Arizona, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/crowindustriesinc"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Aradon",
+    "website": "https://aradon.bio/",
+    "description": "Aradon makes biotech robot labs easy to install and operate for scientists. Removing the manual work bottleneck from biotech will enable new medical solutions and enhance healthcare globally.",
+    "location": "Leiden, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/aradon-bio"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Ultraview AI",
+    "website": "https://ultraview.io/",
+    "description": "Automating the air and spacecraft visual inspection process",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ultraviewai"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Pantheon Design",
+    "website": "https://pantheondesign.com/",
+    "description": "Building reliable and maintainable 3D printers five times the speed of the competition.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/dgpsw1ogzl1j8bczgewq",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/PantheonDesign_",
+      "linkedin": "https://linkedin.com/company/pantheon-design-ltd"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "InspectoBot",
+    "website": "https://inspectobot.com/",
+    "description": "InspectoBot is the Roomba for structural inspection using Radar and Robots",
+    "location": "Miami Beach, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/inspectobot"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "DroneAdair",
+    "website": "https://droneadair.com/",
+    "description": "Taking Drone Mission Management to New Heights",
+    "location": "Sussex, Wisconsin, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/droneadair",
+      "linkedin": "https://linkedin.com/company/droneadair",
+      "facebook": "https://facebook.com/DroneAdair-104995411397560"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Nido Robotics",
+    "website": "https://nidorobotics.com/",
+    "description": "At Nido Robotics we help shipowners, fish farmers, and similar companies reduce their underwater inspection and maintenance costs through robotics.",
+    "location": "Murcia, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/nidorobotics",
+      "linkedin": "https://linkedin.com/company/nidorobotics",
+      "facebook": "https://facebook.com/nidorobotics.eu/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Strayos",
+    "website": "https://strayos.com/",
+    "description": "Strayos is a visual AI platform using computer vision, drones and sensor data to map subsurface for underground object detection",
+    "location": "Buffalo, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/StrayosAI",
+      "linkedin": "https://linkedin.com/company/strayos",
+      "facebook": "https://facebook.com/strayos/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Pull To Refresh",
+    "website": "https://pulltorefresh.earth/",
+    "description": "Pull To Refresh is an environmental conservation organization that develops carbon removal technologies.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kvidrotiaemzbfvwlhxs",
+    "location": "Sunnvale, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/refreshingearth/",
+      "linkedin": "https://linkedin.com/company/pulltorefresh",
+      "facebook": "https://facebook.com/refreshingearth/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "TAINR",
+    "website": "https://gotainr.com/",
+    "description": "TAINR manufactures modern dispensers to eliminate single-use plastic packaging from products.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wnjhkquefazx83fvhf4z",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/gotainr"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Kadeya",
+    "website": "https://kadeya.com/",
+    "description": "Kadeya is a closed-loop water vending business that utilizes digitally connected reusable water bottles and tiny bottling equipment. Kadeya was founded by Manuela Zoninsein.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hellokadeya",
+      "linkedin": "https://linkedin.com/company/kdy",
+      "facebook": "https://facebook.com/AWMLimited"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "AnsuR",
+    "website": "https://ansur.no/",
+    "description": "High Precision Mission critical visual communication",
+    "location": "Fornebu, Norway",
+    "social_media": {
+      "twitter": "https://twitter.com/ansurtech",
+      "linkedin": "https://linkedin.com/company/ansur",
+      "facebook": "https://facebook.com/AnsuRTechnologies/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Arbor Insight",
+    "website": "https://arbor-insight.com/",
+    "description": "End-to-end agriculture robotic technology",
+    "location": "Milwaukee, Wisconsin, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/arborinsight"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "axem",
+    "website": "https://axemsolutions.io/",
+    "description": "Speeding up embedded software development: open-source Development Environment Manager",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/axemsolutions"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "AlterEcho",
+    "website": "https://alterecho.io/",
+    "description": "Remote Embodiment Robotics for Aseptic Manufacturing",
+    "location": "Copenhagen, Capital Region, Denmark",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/alterecho-io"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "vRotors",
+    "website": "https://vrotors.com/",
+    "description": "vRotors unlocks live engagement with remote locations for distributed teams through revolutionary real-time control of robotics and drones.",
+    "location": "Hacienda Heights, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/VRotors",
+      "linkedin": "https://linkedin.com/company/vrotors-inc",
+      "facebook": "https://facebook.com/vrotors"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Roborus",
+    "website": "https://roborus.co.kr/",
+    "description": "The smartest, most customer-centric AI company on the planet",
+    "location": "Seoul, South Korea",
+    "social_media": {
+      "twitter": "https://twitter.com/RoborusUsa",
+      "linkedin": "https://linkedin.com/company/roborus",
+      "facebook": "https://facebook.com/roborus2016/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "EV Safe Charge",
+    "website": "https://evsafecharge.com/",
+    "description": "EV Safe Charge rents, consults, and installs electric vehicle charging solutions.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EVSafeCharge",
+      "linkedin": "https://linkedin.com/company/ev-safe-charge",
+      "facebook": "https://facebook.com/EVSafeCharge/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Carbon Origins",
+    "website": "https://carbonorigins.com/",
+    "description": "Carbon Origins provides free dine-in quality deliveries on robots trained and monitored by remote VR drivers",
+    "location": "Lancaster, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/carbonorigins",
+      "linkedin": "https://linkedin.com/company/carbon-origins",
+      "facebook": "https://facebook.com/carbonorigins"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "BOxES 4",
+    "website": "https://boxesdevices.com/",
+    "description": "We're powering the future of retail combining physical and digital technology to democratize convenient, space-efficient, affordable & sustainable retail!",
+    "location": "Minneapolis, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Boxesdevices",
+      "linkedin": "https://linkedin.com/company/boxes-dispositivos-dispensadores",
+      "facebook": "https://facebook.com/Boxes-dispositivos-dispensadores-103733117941696"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "The Good Drone Company",
+    "website": "https://soargdc.com/",
+    "description": "The Good Drone Company uses advanced drone tech to solve just-in-time delivery issues, ensuring uptime in healthcare, energy, and logistics, boosting profitability.",
+    "location": "Paradise Valley, Arizona, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/thegooddronecompany"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Spacebackend",
+    "website": "https://openmoon.space/",
+    "description": "Reducing Satellite integrations from years to days. SpaceBackend provides a cloud platform for spacecraft and payload companies, delivering end-to-end operational and automation solutions for the space industry.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/spacebackend"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Soltrex",
+    "website": "https://soltrex.io/",
+    "description": "Leading the solar energy automation revolution  with fully interoperable plant mgmt. and operation. Our RaaS platform, based on unmanned ground vehicles, tackles routine tasks from construction to maintenance, ensuring higher profits and cleaner power.",
+    "location": "Tel Aviv, Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/soltrex"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Redefine Surgery",
+    "website": "https://redefinesurgery.com/",
+    "description": "Artificial Intelligence for Surgery",
+    "location": "Edison, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/redefinesurgery"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Designhubz",
+    "website": "https://linkedin.com/company/designhubz",
+    "description": "Designhubz enables Brands & Retailers to sell their products in 3D & Augmented Reality on their websites and apps",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/designhubzhq",
+      "linkedin": "https://linkedin.com/company/designhubz",
+      "facebook": "https://facebook.com/designhubz/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Inverto Tech",
+    "website": "https://inverto.tech/",
+    "description": "Rewilding coastlines - beyond planting trees",
+    "location": "Hilterfingen, Switzerland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/inverto-earth",
+      "facebook": "https://facebook.com/invertoit"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Stackhouse",
+    "website": "https://stackhouse.life/",
+    "description": "Stackhouse builds urban vertical docking communities for movable container homes. First location will be Denver, CO in 2022.",
+    "location": "Tucson, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Stackhouse_life",
+      "linkedin": "https://linkedin.com/company/stackhouse-life",
+      "facebook": "https://facebook.com/pg/stackhouseliving/about/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Prinsta",
+    "website": "https://prinsta.io/",
+    "description": "Prinsta is developing the next generation of electronic manufacturing. Today we are launching our factory-in-a-box desktop circuit board printer.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/prinsta",
+      "facebook": "https://facebook.com/PrinstaOfficial/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Mechadoc",
+    "website": "https://mechadoc.io/",
+    "description": "Automated compliance for companies in medtech, healthtech, and hardware.",
+    "location": "New York City, New York, United States",
+    "social_media": {},
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Boxologic",
+    "website": "https://boxologic.com/",
+    "description": "Boxologic is an MA, Boston-based start-up focusing on e-commerce fulfillment robotics.",
+    "location": "Watertown, Connecticut, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/boxologic",
+      "linkedin": "https://linkedin.com/in/yildiray-sager-4aaa763"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Accelerate3D",
+    "website": "https://accelerate3d.com/",
+    "description": "Providing 3D printing services using a proprietary new machine design allowing parts to be printed in a fraction of the time of current competing FDM machines.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/accelerate3d",
+      "linkedin": "https://linkedin.com/company/accelerate3d",
+      "facebook": "https://facebook.com/accelerate3d"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Oversight",
+    "website": "https://oversight-ar.com/",
+    "description": "3D, visual, and unified data management platform that connects any map-locatable device for enhancing operators' situational awareness and decision-making using XR tools",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/u3frh4yoguxwkepkaedl",
+    "location": "Poria Illit, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oversight-ar",
+      "facebook": "https://facebook.com/OversightAR"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Amatama",
+    "website": "https://amatama.co/",
+    "description": "Amatama is a computing and manufacturing company that researches and develops hierarchical architectures and robot computers.",
+    "location": "Nagoya, Japan",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/yuichi-horiuchi"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "FlyThere",
+    "website": "https://flythere.com/",
+    "description": "FlyThere is an immersive way to experience the world through the eyes of a drone.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FlyThereNow",
+      "linkedin": "https://linkedin.com/company/flytherenow",
+      "facebook": "https://facebook.com/teledroning/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "ReviMo",
+    "website": "https://revimo.org/",
+    "description": "Next-generation lift and transfer device",
+    "location": "Newton, Massachusetts, United States",
+    "social_media": {},
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "GlüxKind",
+    "website": "https://gluxkind.com/",
+    "description": "AI Augmented Parenting",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/Glux_Kind",
+      "linkedin": "https://linkedin.com/company/65668460",
+      "facebook": "https://facebook.com/gluxkindTech/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Moya Aero",
+    "website": "https://moyaaero.com/",
+    "description": "Moya develops high-capacity, all-electric, autonomous unmanned aerial vehicles with vertical take-off capabilities (eVTOL) for cargo transport and crop dusting.",
+    "location": "São José dos Campos, São Paulo, Brazil",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/moya-aero"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Imetalx Group",
+    "website": "https://imetalx.com/",
+    "description": "Accelerating Space Sustainability and In-Space Servicing",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wovgbh0mpu1q6tnkzszq",
+    "location": "Sausalito, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/imetalx-group-llc"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Socian Technologies",
+    "website": "https://socian.io/",
+    "description": "Autonomous drone systems that serve as the ultimate accountability tool for safer community policing.",
+    "location": "Glenwood, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/socian-technologies"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Vulcan Augmetics",
+    "website": "https://wearevulcan.com/",
+    "description": "The gateway between technology and the human body.",
+    "location": "Ho Chi Minh City, Vietnam",
+    "social_media": {
+      "twitter": "https://twitter.com/VulcanAugmetics",
+      "linkedin": "https://linkedin.com/company/vulcan-augmetics",
+      "facebook": "https://facebook.com/vulcanaugmetics"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Indistinguishable From Magic",
+    "website": "https://ifmagic.io/",
+    "description": "The Zapier for hardware.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/runningonmagic",
+      "linkedin": "https://linkedin.com/company/indistinguishable-from-magic"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Grayscale AI",
+    "website": "https://grayscale.ai/",
+    "description": "Grayscale produces optimization-driven AI, meant to mimic a human's neural network.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/grayscaleAI",
+      "linkedin": "https://linkedin.com/company/grayscaleAI"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Exovolar Industries",
+    "website": "https://exovolar.com/",
+    "description": "Empowering human aerial mobility. Making people FLY like superheroes.",
+    "location": "Union City, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/exovolar",
+      "linkedin": "https://linkedin.com/company/exovolar",
+      "facebook": "https://facebook.com/exovolar"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "dolaGon",
+    "website": "https://dolagon.com/",
+    "description": "Autonomous off road vehicles.",
+    "location": "Rye, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dolagon-autonomous",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "ABBY by GOGOTECH",
+    "website": "https://gogotech.co/",
+    "description": "ABBY is a new smart wheelchair platform for adults with reduced mobility - Loaded with advanced features & easy to purchase online, with financing available.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ABBY_Gogotech",
+      "linkedin": "https://linkedin.com/company/abby-by-gogotech",
+      "facebook": "https://facebook.com/abby.gogotech"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Leka",
+    "website": "https://leka.io/",
+    "description": "Leka makes a multi-sensory robotic ball with lights, sounds, and vibrations to engage children with special needs while tracking their progress.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/weareleka",
+      "linkedin": "https://linkedin.com/company/weareleka",
+      "facebook": "https://facebook.com/WeAreLeka/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Enigma Aerospace",
+    "website": "https://enigma.aero/",
+    "description": "Heavy lift, long range autonomous cargo aircraft for defense and B2B logistics.",
+    "location": "Burlington, Massachusetts, United States",
+    "social_media": {},
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Conelabs",
+    "website": "https://conelabs.ai/",
+    "description": "3D models and defect detection of the built world",
+    "location": "Etobicoke, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cone-labs"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Fleetglue",
+    "website": "https://fleetglue.com/",
+    "description": "FleetGlue is building a vertical robotic suite designed to make deploying, operating, and scaling mobile robots seamless",
+    "location": "Las Vegas, Nevada, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/fleetglue"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Aerofuse",
+    "website": "https://aero-fuse.com/",
+    "description": "Fusion Powered Aviation",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/96918498"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Hover",
+    "website": "https://hover.direct/",
+    "description": "Autonomous Drone Delivery",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/x8d1hnt5acucpb7kycus",
+    "location": "Richmond Hill, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hoverdirect",
+      "facebook": "https://facebook.com/hover.direct/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "VICTUS Technologies",
+    "website": "https://techstarscompany.com/",
+    "description": "VICTUS Technologies pioneers advanced computer vision for drones and robotic systems, enabling real-time, AI-driven sensing and automatic target recognition. Our dual-use solutions empower both defense and commercial sectors with unmatched precision and",
+    "location": "Fort Walton Beach, Florida, United States",
+    "social_media": {},
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Capoom",
+    "website": "https://capoom.com/",
+    "description": "Capoom is a software company developing AI based automatic 3d modeling software.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/irk4bkrls8rlqrqwd7ci",
+    "location": "Ann Arbor, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/capoom"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "WatchTower Robotics",
+    "website": "https://linkedin.com/company/watchtower-robotics",
+    "description": "Affordable, reliable, accurate leak detection that allows utilities to stop reacting and prevent pipe bursts before they happen.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/watchtowerrobot",
+      "linkedin": "https://linkedin.com/company/watchtower-robotics",
+      "facebook": "https://facebook.com/watchtowerrobotics"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Touca",
+    "website": "https://linkedin.com/company/touca",
+    "description": "Continuous Regression Testing for Engineering Teams",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/trytouca",
+      "linkedin": "https://linkedin.com/company/touca"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Talented",
+    "website": "https://linkedin.com/company/51626202",
+    "description": "Identify and invest in employee potential with the Talented automated professional development & discovery system.",
+    "location": "Chapel Hill, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Talented_App",
+      "linkedin": "https://linkedin.com/company/51626202",
+      "facebook": "https://facebook.com/Talented-1783742028575047/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Staffless",
+    "website": "https://linkedin.com/company/staffless",
+    "location": "Miami Shores, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AiStaffless",
+      "linkedin": "https://linkedin.com/company/staffless"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Southie Autonomy",
+    "website": "https://linkedin.com/company/southie-ai",
+    "description": "On-the-fly robot re-tasking that's easy and affordable for everyone.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SouthieAutonomy",
+      "linkedin": "https://linkedin.com/company/southie-ai",
+      "facebook": "https://facebook.com/southieai/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Solenica",
+    "website": "https://linkedin.com/company/solenica",
+    "description": "Solenica completely reshapes your experience of the indoors through beautifully Italian designed robots that improve the spaces you work and live in.",
+    "location": "Rome, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/_Solenica_",
+      "linkedin": "https://linkedin.com/company/solenica",
+      "facebook": "https://facebook.com/caiabysolenica"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Solavio Labs",
+    "website": "https://linkedin.com/company/solavio-labs",
+    "description": "Solavio Labs provides AI-based solutions for autonomous solar panel cleaning with a lightweight, remote-controlled bot.",
+    "location": "India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/solavio-labs",
+      "facebook": "https://facebook.com/solavio/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "SocialSci",
+    "website": "https://linkedin.com/company/socialsci",
+    "description": "Further science",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/socialsci",
+      "linkedin": "https://linkedin.com/company/socialsci",
+      "facebook": "https://facebook.com/socialsci"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Skycharge",
+    "website": "https://linkedin.com/company/skycharge",
+    "description": "Drone Charging Infrastructure",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/skychargeDE",
+      "linkedin": "https://linkedin.com/company/skycharge",
+      "facebook": "https://facebook.com/skysense"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Sandglaz",
+    "website": "https://linkedin.com/company/2011302",
+    "description": "Lean project management software for agile teams",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/sandglaz",
+      "linkedin": "https://linkedin.com/company/2011302",
+      "facebook": "https://facebook.com/sandglaz"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Reach Robotics",
+    "website": "https://linkedin.com/company/reachrobotics",
+    "description": "Intelligent gaming robots at the intersection of consumer robotics, augmented reality and video gaming.",
+    "location": "Bristol, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Reachrobotics",
+      "linkedin": "https://linkedin.com/company/reachrobotics",
+      "facebook": "https://facebook.com/reachroboticsltd"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Rational Robotics",
+    "website": "https://linkedin.com/company/5854899",
+    "description": "Smart robots with vision systems that paint things automatically.",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/paintrobot",
+      "linkedin": "https://linkedin.com/company/5854899"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Nytilus",
+    "website": "https://linkedin.com/company/11301672",
+    "description": "AR+AI platform for industrial applications.",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/Nytilus_AR",
+      "linkedin": "https://linkedin.com/company/11301672",
+      "facebook": "https://facebook.com/Nytilus/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "NConnex",
+    "website": "https://linkedin.com/company/3146052",
+    "description": "Digitizing products and environments, merging them seamlessly to boost shopping experience",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nconnex",
+      "linkedin": "https://linkedin.com/company/3146052",
+      "facebook": "https://facebook.com/nconnex"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "MySky Technologies",
+    "website": "https://linkedin.com/company/my-sky-technologies-pty-ltd",
+    "description": "Next Gen Counter UAV Sensors. Man portable CUAV solution. Micro Sensor situational awareness.",
+    "location": "Adelaide, South Australia, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/MyskyAdelaide",
+      "linkedin": "https://linkedin.com/company/my-sky-technologies-pty-ltd"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "MUSE Robotics",
+    "website": "https://linkedin.com/company/9487003",
+    "description": "We are standardizing the core robot components, so that new robots are built in months, not years, and at a fraction of the cost.",
+    "location": "Athens, Greece",
+    "social_media": {
+      "twitter": "https://twitter.com/museRobotics",
+      "linkedin": "https://linkedin.com/company/9487003",
+      "facebook": "https://facebook.com/SkyRoboticsOPRA"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "MIO ROBOT KIOSKs",
+    "website": "https://linkedin.com/in/romandrokov",
+    "description": "Bringing your desires",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/MioRobots",
+      "linkedin": "https://linkedin.com/in/romandrokov",
+      "facebook": "https://facebook.com/miokiosk/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Iridium Dynamics",
+    "website": "https://linkedin.com/company/7588250",
+    "description": "High-performance, long-range automated aircraft suitable for surveying and mapping",
+    "location": "Brisbane, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/iridiumdynamics",
+      "linkedin": "https://linkedin.com/company/7588250",
+      "facebook": "https://facebook.com/iridiumdynamics"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Indybo",
+    "website": "https://crunchbase.com/organization/indybo",
+    "description": "Indybo is a modular robotic toy company that transforms the way kids learn about programming and electronics, in a fun and engaging way",
+    "location": "Cambridge, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/GoIndybo",
+      "facebook": "https://facebook.com/go.indybo"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Iamus",
+    "website": "https://linkedin.com/company/iamus-technologies",
+    "description": "Empowering poultry farmers to make better and safer production decisions through AI and robotics.",
+    "location": "Dublin, Ireland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/iamus-technologies"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Fathom Drone",
+    "website": "https://linkedin.com/company/fathom",
+    "description": "Fathom is modernizing and simplifying the recreational rental industry starting with the Fathom One, an underwater drone built for adventure.",
+    "location": "Grand Rapids, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FathomDrone",
+      "linkedin": "https://linkedin.com/company/fathom",
+      "facebook": "https://facebook.com/FathomDrone"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Farcast",
+    "website": "https://linkedin.com/company/farcastinc",
+    "description": "DASH Systems is an Aerial Logistics Company directly connecting cargo airplanes to customers by landing the package not the airplane.",
+    "location": "Chatsworth, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Go_Farcast",
+      "linkedin": "https://linkedin.com/company/farcastinc",
+      "facebook": "https://facebook.com/mitrabiotechnology"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Dronesmith Technologies",
+    "website": "https://linkedin.com/company/skyworks-aerial-systems",
+    "description": "Dronesmith is the fastest and easiest way for businesses to integrate drones into existing workflows.",
+    "location": "Henderson, Nevada, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/dronesmithtech",
+      "linkedin": "https://linkedin.com/company/skyworks-aerial-systems",
+      "facebook": "https://facebook.com/dronesmithtech"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Control Tower",
+    "website": "https://linkedin.com/company/converge-industries-co",
+    "description": "Making it easy for companies to inspect buildings by using a drone.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/converge_co",
+      "linkedin": "https://linkedin.com/company/converge-industries-co"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Carbon Robotics",
+    "website": "https://linkedin.com/company/carbon-robotics",
+    "description": "Building advanced robotics dramatically more accessible with low-cost robotic arms and highly intelligent control software.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/carbonrobotics",
+      "linkedin": "https://linkedin.com/company/carbon-robotics",
+      "facebook": "https://facebook.com/carbonrobotics/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "BlendBow",
+    "website": "https://linkedin.com/company/blendbow",
+    "description": "Perfect cocktails in few seconds",
+    "location": "Neuilly-sur-Seine, France",
+    "social_media": {
+      "twitter": "https://twitter.com/BlendBow",
+      "linkedin": "https://linkedin.com/company/blendbow",
+      "facebook": "https://facebook.com/BlendBow"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Aerotronic",
+    "website": "https://linkedin.com/company/aerotronicllc",
+    "description": "We provide information about the physical state of powerline assets to power utilities using manned helicopters + AI.",
+    "location": "Indianapolis, Indiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Aerotronic_co",
+      "linkedin": "https://linkedin.com/company/aerotronicllc"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "Merklebot",
+    "website": "https://linkedin.com/company/merklebot",
+    "description": "Connecting universe to metaverse",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MerkleB0t",
+      "linkedin": "https://linkedin.com/company/merklebot",
+      "facebook": "https://facebook.com/MerkleBot/"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  },
+  {
+    "name": "SpexAI",
+    "website": "https://linkedin.com/company/spexai",
+    "description": "Unlocking millions of revenue by simplifying plant production and delivering actionable insights in real-time.",
+    "location": "Dresden, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/SpexAI",
+      "linkedin": "https://linkedin.com/company/spexai"
+    },
+    "industry": "Robotics and Drones",
+    "industry_slug": "robotics-drones"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "Toneboard",
+  "slug": "toneboard",
+  "website": "https://linkedin.com/company/10442451",
+  "description": "Toneboard identifies health problems of the elderly at an early stage based on the way they talk.",
+  "one_liner": "Toneboard identifies health problems of the elderly at an early stage based on the way they talk.",
+  "location": "Riga, Latvia",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Toneboard_com",
+    "linkedin": "https://linkedin.com/company/10442451"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/toneboard",
+  "api": "/api/companies/toneboard.json"
+}

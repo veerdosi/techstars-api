@@ -1,0 +1,24 @@
+{
+  "name": "Graphicly",
+  "slug": "graphicly",
+  "website": "https://graphicly.com/",
+  "description": "Redefining automated ebook publishing",
+  "one_liner": "Redefining automated ebook publishing",
+  "location": "Palo Alto, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://pbs.twimg.com/profile_images/1747095616/image1326250208_bigger.png",
+  "social_media": {
+    "twitter": "https://twitter.com/graphicly",
+    "linkedin": "https://linkedin.com/company/graphicly",
+    "facebook": "https://facebook.com/Graphicly"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/graphicly",
+  "api": "/api/companies/graphicly.json"
+}

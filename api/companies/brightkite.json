@@ -1,0 +1,22 @@
+{
+  "name": "Brightkite",
+  "slug": "brightkite",
+  "website": "https://brightkite.com/",
+  "description": "Location based social network",
+  "one_liner": "Location based social network",
+  "location": "Burlingame, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/brightkite"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/brightkite",
+  "api": "/api/companies/brightkite.json"
+}

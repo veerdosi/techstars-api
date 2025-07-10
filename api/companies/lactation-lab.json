@@ -1,0 +1,24 @@
+{
+  "name": "Lactation Lab",
+  "slug": "lactation-lab",
+  "website": "https://lactationlab.com/",
+  "description": "Lactation Lab provides integrated diagnostic and therapeutic solutions to optimize infant nutrition during the critical First 1000 days of life.",
+  "one_liner": "Lactation Lab provides integrated diagnostic and therapeutic solutions to optimize infant nutrition during the critical First 1000 days of life.",
+  "location": "Santa Monica, California, United States",
+  "industry": "Femtech",
+  "industry_slug": "femtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/LactationLab",
+    "linkedin": "https://linkedin.com/company/lactationlab",
+    "facebook": "https://facebook.com/LactationLab/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lactation-lab",
+  "api": "/api/companies/lactation-lab.json"
+}

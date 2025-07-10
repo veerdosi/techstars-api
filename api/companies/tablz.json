@@ -1,0 +1,24 @@
+{
+  "name": "Tablz",
+  "slug": "tablz",
+  "website": "https://transparentkitchen.ca/",
+  "description": "Discover the Best Restaurants .Follow Elite Chefs.Enjoy the Finest Ingredients",
+  "one_liner": "Discover the Best Restaurants .Follow Elite Chefs.Enjoy the Finest Ingredients",
+  "location": "Ottawa, Ontario, Canada",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/TransparentKit",
+    "linkedin": "https://linkedin.com/company/tablz",
+    "facebook": "https://facebook.com/TABLZbyTK"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tablz",
+  "api": "/api/companies/tablz.json"
+}

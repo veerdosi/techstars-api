@@ -1,0 +1,22 @@
+{
+  "name": "Inkdrop",
+  "slug": "inkdrop",
+  "website": "https://inkdrop.ai/",
+  "description": "Helping product managers in B2B SaaS companies by automatically extracting actionable insights from customer success calls",
+  "one_liner": "Helping product managers in B2B SaaS companies by automatically extracting actionable insights from customer success calls",
+  "location": "Zürich, Switzerland",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jtme7zkchwecvjndz1qf",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/inkdrop-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/inkdrop",
+  "api": "/api/companies/inkdrop.json"
+}

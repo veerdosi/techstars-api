@@ -1,0 +1,24 @@
+{
+  "name": "Curu",
+  "slug": "curu",
+  "website": "https://linkedin.com/company/curu",
+  "description": "Curu enables lenders to fund more loans",
+  "one_liner": "Curu enables lenders to fund more loans",
+  "location": "Charlotte, North Carolina, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/CuruCredit",
+    "linkedin": "https://linkedin.com/company/curu",
+    "facebook": "https://facebook.com/CuruCredit/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/curu",
+  "api": "/api/companies/curu.json"
+}

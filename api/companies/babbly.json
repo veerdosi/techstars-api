@@ -1,0 +1,24 @@
+{
+  "name": "Babbly",
+  "slug": "babbly",
+  "website": "https://linkedin.com/company/villagetechnologies",
+  "description": "Babbly is an AI-powered mobile platform that helps parents track their child's development using a baby's voice.",
+  "one_liner": "Babbly is an AI-powered mobile platform that helps parents track their child's development using a baby's voice.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Get_Babbly",
+    "linkedin": "https://linkedin.com/company/villagetechnologies",
+    "facebook": "https://facebook.com/getbabbly"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/babbly",
+  "api": "/api/companies/babbly.json"
+}

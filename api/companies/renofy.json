@@ -1,0 +1,23 @@
+{
+  "name": "Renofy",
+  "slug": "renofy",
+  "website": "https://renofy.ai/",
+  "description": "Online showroom for kitchens",
+  "one_liner": "Online showroom for kitchens",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/",
+    "linkedin": "https://linkedin.com/company/kitchezz"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/renofy",
+  "api": "/api/companies/renofy.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Polycade",
+  "slug": "polycade",
+  "website": "https://polycade.com/",
+  "description": "Polycade is a modern arcade platform with access to 1000's of games. We highlight the best of both retro and modern games in a familiar interface and arcade con",
+  "one_liner": "Polycade is a modern arcade platform with access to 1000's of games. We highlight the best of both retro and modern games in a familiar interface and arcade con",
+  "location": "Los Angeles, California, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/thepolycade",
+    "linkedin": "https://linkedin.com/company/polycade",
+    "facebook": "https://facebook.com/Polycade/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/polycade",
+  "api": "/api/companies/polycade.json"
+}

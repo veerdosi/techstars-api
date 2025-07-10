@@ -1,0 +1,22 @@
+{
+  "name": "Imago AI",
+  "slug": "imago-ai",
+  "website": "https://imagoai.com/",
+  "description": "ImagoAI provides agri-food quality decision system using Artificial Intelligence.",
+  "one_liner": "ImagoAI provides agri-food quality decision system using Artificial Intelligence.",
+  "location": "Gurgaon, Haryana, India",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ttrktxcpkbz1son4uoeu",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/imagoai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/imago-ai",
+  "api": "/api/companies/imago-ai.json"
+}

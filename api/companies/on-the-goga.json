@@ -1,0 +1,24 @@
+{
+  "name": "On The Goga",
+  "slug": "on-the-goga",
+  "website": "https://onthegoga.com/",
+  "description": "On the Goga is a no code platform that allows HR, benefits, and wellness teams to build their own wellness and benefits portals.",
+  "one_liner": "On the Goga is a no code platform that allows HR, benefits, and wellness teams to build their own wellness and benefits portals.",
+  "location": "Philadelphia, Pennsylvania, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/onthegoga",
+    "linkedin": "https://linkedin.com/company/onthegoga",
+    "facebook": "https://facebook.com/onthegoga/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/on-the-goga",
+  "api": "/api/companies/on-the-goga.json"
+}

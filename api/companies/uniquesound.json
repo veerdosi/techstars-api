@@ -1,0 +1,24 @@
+{
+  "name": "UniqueSound",
+  "slug": "uniquesound",
+  "website": "https://linkedin.com/company/uniquesound",
+  "description": "First platform for composers and sound creatives to showcase their work and get hired",
+  "one_liner": "First platform for composers and sound creatives to showcase their work and get hired",
+  "location": "New York City, New York, United States",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/joinUniqueSound",
+    "linkedin": "https://linkedin.com/company/uniquesound",
+    "facebook": "https://facebook.com/uniquesoundoff"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/uniquesound",
+  "api": "/api/companies/uniquesound.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Fêtefully",
+  "slug": "f-tefully",
+  "website": "https://fetefully.com/",
+  "description": "Fetefully digitizes wedding planning experiences so planners can generate more revenue while providing elite services to their customers.",
+  "one_liner": "Fetefully digitizes wedding planning experiences so planners can generate more revenue while providing elite services to their customers.",
+  "location": "Dallas, Texas, United States",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Fetefully_",
+    "linkedin": "https://linkedin.com/company/f%C3%AAtefully",
+    "facebook": "https://facebook.com/fetefully/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/f-tefully",
+  "api": "/api/companies/f-tefully.json"
+}

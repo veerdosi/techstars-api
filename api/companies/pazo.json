@@ -1,0 +1,24 @@
+{
+  "name": "PAZO",
+  "slug": "pazo",
+  "website": "https://gopazo.com/",
+  "description": "Helping retailers offer a consistent customer experience",
+  "one_liner": "Helping retailers offer a consistent customer experience",
+  "location": "Delaware, Ohio, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Go_Pazo",
+    "linkedin": "https://linkedin.com/company/go-pazo",
+    "facebook": "https://facebook.com/peacefuloperations/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pazo",
+  "api": "/api/companies/pazo.json"
+}

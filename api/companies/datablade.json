@@ -1,0 +1,24 @@
+{
+  "name": "DataBlade",
+  "slug": "datablade",
+  "website": "https://datablade.io/",
+  "description": "Data insights without the overhead",
+  "one_liner": "Data insights without the overhead",
+  "location": "Seattle, Washington, United States",
+  "industry": "SaaS",
+  "industry_slug": "saas",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/databladeio",
+    "linkedin": "https://linkedin.com/company/datablade-inc-",
+    "facebook": "https://facebook.com/pg/datablade/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/datablade",
+  "api": "/api/companies/datablade.json"
+}

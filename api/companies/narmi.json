@@ -1,0 +1,24 @@
+{
+  "name": "Narmi",
+  "slug": "narmi",
+  "website": "https://narmi.com/",
+  "description": "Helps financial institutions attract, engage and retain customers through superior online and mobile banking",
+  "one_liner": "Helps financial institutions attract, engage and retain customers through superior online and mobile banking",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Narmi_Tech",
+    "linkedin": "https://linkedin.com/company/narmi",
+    "facebook": "https://facebook.com/narmitech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/narmi",
+  "api": "/api/companies/narmi.json"
+}

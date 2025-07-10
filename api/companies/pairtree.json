@@ -1,0 +1,24 @@
+{
+  "name": "PairTree",
+  "slug": "pairtree",
+  "website": "https://linkedin.com/company/pairtree",
+  "description": "Modernizing the antiquated adoption process in the US",
+  "one_liner": "Modernizing the antiquated adoption process in the US",
+  "location": "Bainbridge Island, Washington, United States",
+  "industry": "Femtech",
+  "industry_slug": "femtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/pairtreefamily",
+    "linkedin": "https://linkedin.com/company/pairtree",
+    "facebook": "https://facebook.com/PairTreeFamily"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pairtree",
+  "api": "/api/companies/pairtree.json"
+}

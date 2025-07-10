@@ -1,0 +1,22 @@
+{
+  "name": "ColliMate Space",
+  "slug": "collimate-space",
+  "website": "https://collimatespace.com/",
+  "description": "Building a next gen ground-space operations software, using multi-modal AI/ML based systems.",
+  "one_liner": "Building a next gen ground-space operations software, using multi-modal AI/ML based systems.",
+  "location": "Santa Clara, Delaware, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/collimate-space"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/collimate-space",
+  "api": "/api/companies/collimate-space.json"
+}

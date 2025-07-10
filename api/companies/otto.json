@@ -1,0 +1,24 @@
+{
+  "name": "OTTO",
+  "slug": "otto",
+  "website": "https://myotto.net/",
+  "description": "Next Generation Hands-free for Everything They Do Today on a Smartphone!",
+  "one_liner": "Next Generation Hands-free for Everything They Do Today on a Smartphone!",
+  "location": "Memphis, Tennessee, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1427872949/ndb0oo6akg3f3u2ghres.png",
+  "social_media": {
+    "twitter": "https://twitter.com/gizmosistech",
+    "linkedin": "https://linkedin.com/in/maggielouie",
+    "facebook": "https://facebook.com/gizmosistech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/otto",
+  "api": "/api/companies/otto.json"
+}

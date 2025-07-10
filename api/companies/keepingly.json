@@ -1,0 +1,22 @@
+{
+  "name": "Keepingly",
+  "slug": "keepingly",
+  "website": "https://keepingly.co/",
+  "description": "Help homeowners maintain, manage, and grow their largest asset: their home.",
+  "one_liner": "Help homeowners maintain, manage, and grow their largest asset: their home.",
+  "location": "Miami, Florida, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/keepingly"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/keepingly",
+  "api": "/api/companies/keepingly.json"
+}

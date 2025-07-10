@@ -1,0 +1,24 @@
+{
+  "name": "deetz",
+  "slug": "deetz",
+  "website": "https://linkedin.com/company/deetz",
+  "description": "deetz is a hyperlocal, anonymous app that helps you find what's happening around you in real-time.",
+  "one_liner": "deetz is a hyperlocal, anonymous app that helps you find what's happening around you in real-time.",
+  "location": "Cedar Rapids, Iowa, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/deetz_app",
+    "linkedin": "https://linkedin.com/company/deetz",
+    "facebook": "https://facebook.com/deetzapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/deetz",
+  "api": "/api/companies/deetz.json"
+}

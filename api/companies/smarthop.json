@@ -1,0 +1,24 @@
+{
+  "name": "SmartHop",
+  "slug": "smarthop",
+  "website": "https://smarthop.com/",
+  "description": "SmartHop is an autonomous dispatcher for truckers to plan, search and book loads!",
+  "one_liner": "SmartHop is an autonomous dispatcher for truckers to plan, search and book loads!",
+  "location": "Miami, Florida, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/smarthop",
+    "linkedin": "https://linkedin.com/company/smarthop",
+    "facebook": "https://facebook.com/smarthopapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/smarthop",
+  "api": "/api/companies/smarthop.json"
+}

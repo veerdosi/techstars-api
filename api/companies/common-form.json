@@ -1,0 +1,24 @@
+{
+  "name": "Common Form",
+  "slug": "common-form",
+  "website": "https://linkedin.com/company/common-form-inc-",
+  "description": "People with simple finances can do their taxes in 5 minutes from their phone or computer.",
+  "one_liner": "People with simple finances can do their taxes in 5 minutes from their phone or computer.",
+  "location": "San Diego, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/CommonForm",
+    "linkedin": "https://linkedin.com/company/common-form-inc-",
+    "facebook": "https://facebook.com/commonform"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/common-form",
+  "api": "/api/companies/common-form.json"
+}

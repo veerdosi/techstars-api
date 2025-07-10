@@ -1,0 +1,22 @@
+{
+  "name": "Pulse Space",
+  "slug": "pulse-space",
+  "website": "https://pulsespace.com/",
+  "description": "Pulse is developing scalable on-demand power and space situational awareness services (ssa) in orbit. This optimizes power systems and operator capabilities while addressing orbital debris to ensure a cleaner space environment.",
+  "one_liner": "Pulse is developing scalable on-demand power and space situational awareness services (ssa) in orbit. This optimizes power systems and operator capabilities while addressing orbital debris to ensure a cleaner space environment.",
+  "location": "Bellevue, Washington, United States",
+  "industry": "Space tech",
+  "industry_slug": "space-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/pulsespace"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pulse-space",
+  "api": "/api/companies/pulse-space.json"
+}

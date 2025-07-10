@@ -1,0 +1,24 @@
+{
+  "name": "Halion",
+  "slug": "halion",
+  "website": "https://halion.ca/",
+  "description": "Advanced colour changing nanomaterials for intelligent surfaces.",
+  "one_liner": "Advanced colour changing nanomaterials for intelligent surfaces.",
+  "location": "Kitchener, Ontario, Canada",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/haliondisplays",
+    "linkedin": "https://linkedin.com/company/halion-displays",
+    "facebook": "https://facebook.com/haliondisplays/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/halion",
+  "api": "/api/companies/halion.json"
+}

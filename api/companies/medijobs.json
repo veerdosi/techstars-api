@@ -1,0 +1,24 @@
+{
+  "name": "MEDIjobs",
+  "slug": "medijobs",
+  "website": "https://medijobs.ro/",
+  "description": "Career Marketplace for Healthcare Recruitment",
+  "one_liner": "Career Marketplace for Healthcare Recruitment",
+  "location": "Bucharest, Romania",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/MEDIjobsRO",
+    "linkedin": "https://linkedin.com/company/medijobs",
+    "facebook": "https://facebook.com/medijobs.ro"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/medijobs",
+  "api": "/api/companies/medijobs.json"
+}

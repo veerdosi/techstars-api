@@ -1,0 +1,22 @@
+{
+  "name": "HelloBlock",
+  "slug": "helloblock",
+  "website": "https://linkedin.com/company/helloblock",
+  "description": "Hello Block provides node hosting for mainnet and testnet.",
+  "one_liner": "Hello Block provides node hosting for mainnet and testnet.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/helloblock"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/helloblock",
+  "api": "/api/companies/helloblock.json"
+}

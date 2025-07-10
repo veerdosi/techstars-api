@@ -1,0 +1,24 @@
+{
+  "name": "Ovv",
+  "slug": "ovv",
+  "website": "https://ovvio.io/",
+  "description": "Productivity solution for professional services firms.",
+  "one_liner": "Productivity solution for professional services firms.",
+  "location": "Tel Aviv, Israel",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Ovvio_io",
+    "linkedin": "https://linkedin.com/company/ovvio-io",
+    "facebook": "https://facebook.com/ovvio.io/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ovv",
+  "api": "/api/companies/ovv.json"
+}

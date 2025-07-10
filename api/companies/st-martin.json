@@ -1,0 +1,24 @@
+{
+  "name": "St. Martin",
+  "slug": "st-martin",
+  "website": "https://atthesocialclub.com/",
+  "description": "A men's lifestyle brand intended to provide hair styling and grooming services",
+  "one_liner": "A men's lifestyle brand intended to provide hair styling and grooming services",
+  "location": "Detroit, Michigan, United States",
+  "industry": "Beauty",
+  "industry_slug": "beauty",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/A",
+    "linkedin": "https://linkedin.com/in/sebastianwho",
+    "facebook": "https://facebook.com/TheSocialClubDetroit/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/st-martin",
+  "api": "/api/companies/st-martin.json"
+}

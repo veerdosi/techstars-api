@@ -1,0 +1,24 @@
+{
+  "name": "Nautilus Labs",
+  "slug": "nautilus-labs",
+  "website": "https://linkedin.com/company/nautilus-labs-inc",
+  "description": "Nautilus Labs is advancing the efficiency of ocean commerce through artificial intelligence.",
+  "one_liner": "Nautilus Labs is advancing the efficiency of ocean commerce through artificial intelligence.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/NautilusLabs1",
+    "linkedin": "https://linkedin.com/company/nautilus-labs-inc",
+    "facebook": "https://facebook.com/nautiluslabsinc/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nautilus-labs",
+  "api": "/api/companies/nautilus-labs.json"
+}

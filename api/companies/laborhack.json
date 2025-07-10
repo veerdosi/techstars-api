@@ -1,0 +1,24 @@
+{
+  "name": "LaborHack",
+  "slug": "laborhack",
+  "website": "https://laborhack.com/",
+  "description": "LaborHack is a captive marketplace connecting artisans to certifications and jobs as well as laddered services including payments, savings, micro credit, and micro health insurance",
+  "one_liner": "LaborHack is a captive marketplace connecting artisans to certifications and jobs as well as laddered services including payments, savings, micro credit, and micro health insurance",
+  "location": "Lagos, Nigeria",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Laborhack_ng",
+    "linkedin": "https://linkedin.com/company/laborhack-limited",
+    "facebook": "https://facebook.com/laborhackng"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/laborhack",
+  "api": "/api/companies/laborhack.json"
+}

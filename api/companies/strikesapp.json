@@ -1,0 +1,24 @@
+{
+  "name": "StrikesApp",
+  "slug": "strikesapp",
+  "website": "https://trystrikes.com/",
+  "description": "Strikes helps retail options traders save time and money.",
+  "one_liner": "Strikes helps retail options traders save time and money.",
+  "location": "Glasgow, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/StrikesApp",
+    "linkedin": "https://linkedin.com/company/strikesapp",
+    "facebook": "https://facebook.com/StrikesApp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/strikesapp",
+  "api": "/api/companies/strikesapp.json"
+}

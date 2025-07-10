@@ -1,0 +1,24 @@
+{
+  "name": "Ubersense",
+  "slug": "ubersense",
+  "website": "https://ubersense.com/",
+  "description": "Sports video analysis",
+  "one_liner": "Sports video analysis",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ubersense",
+    "linkedin": "https://linkedin.com/company/1845317",
+    "facebook": "https://facebook.com/ubersense"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ubersense",
+  "api": "/api/companies/ubersense.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Transmute",
+  "slug": "transmute",
+  "website": "https://transmute.industries/",
+  "description": "The trusted data exchange platform for global trade",
+  "one_liner": "The trusted data exchange platform for global trade",
+  "location": "Austin, Texas, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/TransmuteNews",
+    "linkedin": "https://linkedin.com/company/11186222"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/transmute",
+  "api": "/api/companies/transmute.json"
+}

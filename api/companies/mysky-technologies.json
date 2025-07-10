@@ -1,0 +1,23 @@
+{
+  "name": "MySky Technologies",
+  "slug": "mysky-technologies",
+  "website": "https://linkedin.com/company/my-sky-technologies-pty-ltd",
+  "description": "Next Gen Counter UAV Sensors. Man portable CUAV solution. Micro Sensor situational awareness.",
+  "one_liner": "Next Gen Counter UAV Sensors. Man portable CUAV solution. Micro Sensor situational awareness.",
+  "location": "Adelaide, South Australia, Australia",
+  "industry": "Robotics and Drones",
+  "industry_slug": "robotics-drones",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/MyskyAdelaide",
+    "linkedin": "https://linkedin.com/company/my-sky-technologies-pty-ltd"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mysky-technologies",
+  "api": "/api/companies/mysky-technologies.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "STB Technologies",
+  "slug": "stb-technologies",
+  "website": "https://securethebags.co/",
+  "description": "STB Technologies builds seamless, intelligent, and interconnected solutions. We empower industries and individuals by developing innovative technologies that enhance efficiency, safety, and sustainability, driving the world towards a smarter and more autonomous tomorrow.",
+  "one_liner": "STB Technologies builds seamless, intelligent, and interconnected solutions. We empower industries and individuals by developing innovative technologies that enhance efficiency, safety, and sustainability, driving the world towards a smarter and more autonomous tomorrow.",
+  "location": "Houston, Texas, United States",
+  "industry": "Mobility tech",
+  "industry_slug": "mobility-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/stbtechnologies"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/stb-technologies",
+  "api": "/api/companies/stb-technologies.json"
+}

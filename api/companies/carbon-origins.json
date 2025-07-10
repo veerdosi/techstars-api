@@ -1,0 +1,24 @@
+{
+  "name": "Carbon Origins",
+  "slug": "carbon-origins",
+  "website": "https://carbonorigins.com/",
+  "description": "Carbon Origins provides free dine-in quality deliveries on robots trained and monitored by remote VR drivers",
+  "one_liner": "Carbon Origins provides free dine-in quality deliveries on robots trained and monitored by remote VR drivers",
+  "location": "Lancaster, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/carbonorigins",
+    "linkedin": "https://linkedin.com/company/carbon-origins",
+    "facebook": "https://facebook.com/carbonorigins"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/carbon-origins",
+  "api": "/api/companies/carbon-origins.json"
+}

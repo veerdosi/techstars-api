@@ -1,0 +1,24 @@
+{
+  "name": "ConvertFlow",
+  "slug": "convertflow",
+  "website": "https://convertflow.com/",
+  "description": "Build funnels like a pro for any site",
+  "one_liner": "Build funnels like a pro for any site",
+  "location": "Miami, Florida, United States",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/convertflow",
+    "linkedin": "https://linkedin.com/company/convertflow",
+    "facebook": "https://facebook.com/convertflow/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/convertflow",
+  "api": "/api/companies/convertflow.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "InterGen Data",
+  "slug": "intergen-data",
+  "website": "https://intergendata.com/",
+  "description": "AI platform that predicts Life Events and the economic impact that they may have on one's financial journey.",
+  "one_liner": "AI platform that predicts Life Events and the economic impact that they may have on one's financial journey.",
+  "location": "Plano, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/InterGenData",
+    "linkedin": "https://linkedin.com/company/intergen-data-inc",
+    "facebook": "https://facebook.com/profile.php"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/intergen-data",
+  "api": "/api/companies/intergen-data.json"
+}

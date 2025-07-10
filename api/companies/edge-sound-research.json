@@ -1,0 +1,24 @@
+{
+  "name": "EDGE Sound Research",
+  "slug": "edge-sound-research",
+  "website": "https://edgesoundresearch.com/",
+  "description": "Bringing realism to sound experiences through patent-pending audio format that allows users to both HEAR and FEEL sound in high fidelity.",
+  "one_liner": "Bringing realism to sound experiences through patent-pending audio format that allows users to both HEAR and FEEL sound in high fidelity.",
+  "location": "Riverside, California, United States",
+  "industry": "Audiotech",
+  "industry_slug": "audiotech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/official_esr_",
+    "linkedin": "https://linkedin.com/company/edge-sound-research",
+    "facebook": "https://facebook.com/edgesoundresearch/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/edge-sound-research",
+  "api": "/api/companies/edge-sound-research.json"
+}

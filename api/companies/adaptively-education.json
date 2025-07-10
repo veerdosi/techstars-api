@@ -1,0 +1,24 @@
+{
+  "name": "Adaptively Education",
+  "slug": "adaptively-education",
+  "website": "https://adaptivelyeducation.com/",
+  "description": "Adaptively Education seamlessly delivers live virtual teacher-led classroom experiences to help students reach their academic goals.",
+  "one_liner": "Adaptively Education seamlessly delivers live virtual teacher-led classroom experiences to help students reach their academic goals.",
+  "location": "Bellevue, Washington, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/adaptivelyeducation",
+    "linkedin": "https://linkedin.com/company/adaptively-education",
+    "facebook": "https://facebook.com/adaptivelyeducation"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/adaptively-education",
+  "api": "/api/companies/adaptively-education.json"
+}

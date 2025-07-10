@@ -1,0 +1,24 @@
+{
+  "name": "Hardbound",
+  "slug": "hardbound",
+  "website": "https://linkedin.com/company/hardbound",
+  "description": "Stories for curious minds",
+  "one_liner": "Stories for curious minds",
+  "location": "New York City, New York, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hardbound",
+    "linkedin": "https://linkedin.com/company/hardbound",
+    "facebook": "https://facebook.com/hardboundco"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hardbound",
+  "api": "/api/companies/hardbound.json"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Enigma Aerospace",
+  "slug": "enigma-aerospace",
+  "website": "https://enigma.aero/",
+  "description": "Heavy lift, long range autonomous cargo aircraft for defense and B2B logistics.",
+  "one_liner": "Heavy lift, long range autonomous cargo aircraft for defense and B2B logistics.",
+  "location": "Burlington, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/enigma-aerospace",
+  "api": "/api/companies/enigma-aerospace.json"
+}

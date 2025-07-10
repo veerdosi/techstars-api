@@ -1,0 +1,22 @@
+{
+  "name": "OrdrSmart",
+  "slug": "ordrsmart",
+  "website": "https://ordrsmart.com/",
+  "description": "Ordr Smart offers a sales management platform helping to process sample requests and measure all costs associated with it.",
+  "one_liner": "Ordr Smart offers a sales management platform helping to process sample requests and measure all costs associated with it.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Supply chain technology",
+  "industry_slug": "supply-chain-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/ordrsmart"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ordrsmart",
+  "api": "/api/companies/ordrsmart.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Destined AI",
+  "slug": "destined-ai",
+  "website": "https://destined.ai/",
+  "description": "Destined AI helps companies detect and mitigate unwanted bias in AI.",
+  "one_liner": "Destined AI helps companies detect and mitigate unwanted bias in AI.",
+  "location": "Lawrenceville, Georgia, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/destinedai",
+    "linkedin": "https://linkedin.com/company/destined-ai",
+    "facebook": "https://facebook.com/pg/DiversityStock/about/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/destined-ai",
+  "api": "/api/companies/destined-ai.json"
+}

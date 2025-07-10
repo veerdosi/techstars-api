@@ -1,0 +1,22 @@
+{
+  "name": "The Care Hack",
+  "slug": "the-care-hack",
+  "website": "https://thecarehack.com/",
+  "description": "Equips families battling mental illness or dementia with simple, expert tools so they can lead happier, healthier lives.",
+  "one_liner": "Equips families battling mental illness or dementia with simple, expert tools so they can lead happier, healthier lives.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/the-care-hack"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/the-care-hack",
+  "api": "/api/companies/the-care-hack.json"
+}

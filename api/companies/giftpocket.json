@@ -1,0 +1,24 @@
+{
+  "name": "GiftPocket",
+  "slug": "giftpocket",
+  "website": "https://giftpocket.com/",
+  "description": "For brands that are unable to bridge their gift card program with their loyalty program, GiftPocket provides engagement opportunities through a consumer facing digital wallet.",
+  "one_liner": "For brands that are unable to bridge their gift card program with their loyalty program, GiftPocket provides engagement opportunities through a consumer facing digital wallet.",
+  "location": "Upper Arlington, Ohio, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GiftPocket",
+    "linkedin": "https://linkedin.com/company/giftpocket",
+    "facebook": "https://facebook.com/giftpocketapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/giftpocket",
+  "api": "/api/companies/giftpocket.json"
+}

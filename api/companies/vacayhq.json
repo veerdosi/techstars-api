@@ -1,0 +1,23 @@
+{
+  "name": "VacayHQ",
+  "slug": "vacayhq",
+  "website": "https://vacayhq.com/",
+  "description": "VacayHQ helps you boost your credit so you can qualify for the best travel credit cards and earn free travel.",
+  "one_liner": "VacayHQ helps you boost your credit so you can qualify for the best travel credit cards and earn free travel.",
+  "location": "Las Vegas, Nevada, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/vacayhq",
+    "facebook": "https://facebook.com/VacayHeadquarters/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vacayhq",
+  "api": "/api/companies/vacayhq.json"
+}

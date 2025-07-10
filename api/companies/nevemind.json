@@ -1,0 +1,22 @@
+{
+  "name": "NeveMind",
+  "slug": "nevemind",
+  "website": "https://linkedin.com/company/86819039",
+  "description": "The answering machine of the 21st century, Nevemind is a desktop application that automatically replies to all your emails and messages.",
+  "one_liner": "The answering machine of the 21st century, Nevemind is a desktop application that automatically replies to all your emails and messages.",
+  "location": "Oslo, Norway",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/86819039"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nevemind",
+  "api": "/api/companies/nevemind.json"
+}

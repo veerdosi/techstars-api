@@ -1,0 +1,24 @@
+{
+  "name": "Remmie",
+  "slug": "remmie",
+  "website": "https://remmiehealth.com/",
+  "description": "A digital health solution for ear-nose-throat remote care.",
+  "one_liner": "A digital health solution for ear-nose-throat remote care.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/remmiehealth",
+    "linkedin": "https://linkedin.com/company/remmie-health",
+    "facebook": "https://facebook.com/remmiehealth"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/remmie",
+  "api": "/api/companies/remmie.json"
+}

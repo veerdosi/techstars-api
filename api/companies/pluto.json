@@ -1,0 +1,24 @@
+{
+  "name": "Pluto",
+  "slug": "pluto",
+  "website": "https://heypluto.com/",
+  "description": "A text-based social assistant to help you manage relationships you care about and be more intentional with the people in your life.",
+  "one_liner": "A text-based social assistant to help you manage relationships you care about and be more intentional with the people in your life.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/textheypluto",
+    "linkedin": "https://linkedin.com/company/hey-pluto",
+    "facebook": "https://facebook.com/textheypluto/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pluto",
+  "api": "/api/companies/pluto.json"
+}

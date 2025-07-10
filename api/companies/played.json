@@ -1,0 +1,24 @@
+{
+  "name": "Played",
+  "slug": "played",
+  "website": "https://played.co/",
+  "description": "Played is a book and pay solution for participation sports providers that can plug into any website.\n\nTo view the company one-page summary click here - https://app.buildmemo.com/s/icby~q",
+  "one_liner": "Played is a book and pay solution for participation sports providers that can plug into any website.\n\nTo view the company one-page summary click here - https://app.buildmemo.com/s/icby~q",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/played_sports",
+    "linkedin": "https://linkedin.com/company/played",
+    "facebook": "https://facebook.com/playedsports/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/played",
+  "api": "/api/companies/played.json"
+}

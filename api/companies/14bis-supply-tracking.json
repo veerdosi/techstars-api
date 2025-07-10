@@ -1,0 +1,24 @@
+{
+  "name": "14bis Supply Tracking",
+  "slug": "14bis-supply-tracking",
+  "website": "https://14bis.aero/",
+  "description": "We ensure interconnectivity of databases to track things.",
+  "one_liner": "We ensure interconnectivity of databases to track things.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/14bisAero",
+    "linkedin": "https://linkedin.com/company/27205144",
+    "facebook": "https://facebook.com/14bisaero/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/14bis-supply-tracking",
+  "api": "/api/companies/14bis-supply-tracking.json"
+}

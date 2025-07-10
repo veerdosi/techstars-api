@@ -1,0 +1,24 @@
+{
+  "name": "Voight AI",
+  "slug": "voight-ai",
+  "website": "https://voight.ai/",
+  "description": "genAI compliance software to help entertainment companies protect their IP",
+  "one_liner": "genAI compliance software to help entertainment companies protect their IP",
+  "location": "McLean, Virginia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/artistreeio",
+    "linkedin": "https://linkedin.com/company/artistreeio",
+    "facebook": "https://facebook.com/artistree/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/voight-ai",
+  "api": "/api/companies/voight-ai.json"
+}

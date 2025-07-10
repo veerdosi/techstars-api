@@ -1,0 +1,22 @@
+{
+  "name": "Bidi Charge",
+  "slug": "bidi-charge",
+  "website": "https://bidi-charge.com/",
+  "description": "Demand-driven investment platform for public & semi-public charging points.",
+  "one_liner": "Demand-driven investment platform for public & semi-public charging points.",
+  "location": "Berlin, Germany",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/bidi-charge"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bidi-charge",
+  "api": "/api/companies/bidi-charge.json"
+}

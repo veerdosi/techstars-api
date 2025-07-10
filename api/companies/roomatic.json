@@ -1,0 +1,24 @@
+{
+  "name": "ROOMATIC",
+  "slug": "roomatic",
+  "website": "https://linkedin.com/company/roomatic",
+  "description": "Roomatic helps hotels handle guest requests, maintain excellent service and tap into new sources of revenue.",
+  "one_liner": "Roomatic helps hotels handle guest requests, maintain excellent service and tap into new sources of revenue.",
+  "location": "Berlin, Germany",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/roomatic",
+    "linkedin": "https://linkedin.com/company/roomatic",
+    "facebook": "https://facebook.com/RoomaticApp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/roomatic",
+  "api": "/api/companies/roomatic.json"
+}

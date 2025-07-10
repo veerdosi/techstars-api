@@ -1,0 +1,23 @@
+{
+  "name": "Apricotton",
+  "slug": "apricotton",
+  "website": "https://apricotton.ca/",
+  "description": "Designing bras that grow as you grow, lasting multiple stages of puberty.",
+  "one_liner": "Designing bras that grow as you grow, lasting multiple stages of puberty.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Femtech",
+  "industry_slug": "femtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/apricotton",
+    "facebook": "https://facebook.com/apricottongirls"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/apricotton",
+  "api": "/api/companies/apricotton.json"
+}

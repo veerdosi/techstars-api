@@ -1,0 +1,22 @@
+{
+  "name": "SENSE",
+  "slug": "sense",
+  "website": "https://53n53.com/",
+  "description": "Making data-mining accessible to anyone.",
+  "one_liner": "Making data-mining accessible to anyone.",
+  "location": "Barcelona, Spain",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/53n53-ltd"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sense",
+  "api": "/api/companies/sense.json"
+}

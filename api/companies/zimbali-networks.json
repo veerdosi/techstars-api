@@ -1,0 +1,24 @@
+{
+  "name": "Zimbali Networks",
+  "slug": "zimbali-networks",
+  "website": "https://zimbalinetworks.com/",
+  "description": "A web3, digital currency-as-a-service platform.",
+  "one_liner": "A web3, digital currency-as-a-service platform.",
+  "location": "Dover, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/zimbalinetworks",
+    "linkedin": "https://linkedin.com/company/zimbalinetworks",
+    "facebook": "https://facebook.com/zimbalinetworks/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/zimbali-networks",
+  "api": "/api/companies/zimbali-networks.json"
+}

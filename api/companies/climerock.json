@@ -1,0 +1,22 @@
+{
+  "name": "ClimeRock",
+  "slug": "climerock",
+  "website": "https://climerock.com/",
+  "description": "Removing carbon while restoring soils with Enhanced Rock Weathering.",
+  "one_liner": "Removing carbon while restoring soils with Enhanced Rock Weathering.",
+  "location": "Colombes, France",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/climerock"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/climerock",
+  "api": "/api/companies/climerock.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "SkiiMoo Tech",
+  "slug": "skiimoo-tech",
+  "website": "https://skiimootech.com/",
+  "description": "For individuals who suffer from anatomical restrictions of the genitals, we have created the first prosthetic penis that imitates nature providing an ultra-humanistic erection at the push of a button",
+  "one_liner": "For individuals who suffer from anatomical restrictions of the genitals, we have created the first prosthetic penis that imitates nature providing an ultra-humanistic erection at the push of a button",
+  "location": "Mableton, Georgia, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/skiimootech",
+    "linkedin": "https://linkedin.com/company/skiimoo-tech-llc",
+    "facebook": "https://facebook.com/vdomatl"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/skiimoo-tech",
+  "api": "/api/companies/skiimoo-tech.json"
+}

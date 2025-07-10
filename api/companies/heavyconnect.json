@@ -1,0 +1,24 @@
+{
+  "name": "HeavyConnect",
+  "slug": "heavyconnect",
+  "website": "https://heavyconnect.com/",
+  "description": "Helping farmers comply with food safety practices with simple technology",
+  "one_liner": "Helping farmers comply with food safety practices with simple technology",
+  "location": "Salinas, California, United States",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/HeavyConnected",
+    "linkedin": "https://linkedin.com/company/heavyconnect",
+    "facebook": "https://facebook.com/757765870969227"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/heavyconnect",
+  "api": "/api/companies/heavyconnect.json"
+}

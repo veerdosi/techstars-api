@@ -1,0 +1,24 @@
+{
+  "name": "Pluto Money",
+  "slug": "pluto-money",
+  "website": "https://linkedin.com/company/pluto-money",
+  "description": "Mobile financial wellness platform for Gen Z college students",
+  "one_liner": "Mobile financial wellness platform for Gen Z college students",
+  "location": "Cupertino, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/gopluto_io",
+    "linkedin": "https://linkedin.com/company/pluto-money",
+    "facebook": "https://facebook.com/plutomoney"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pluto-money",
+  "api": "/api/companies/pluto-money.json"
+}

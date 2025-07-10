@@ -1,0 +1,23 @@
+{
+  "name": "Everprep",
+  "slug": "everprep",
+  "website": "https://everprep.com/",
+  "description": "Everprep empowers creators to author, design, and deliver exam prep to learners around the world.",
+  "one_liner": "Everprep empowers creators to author, design, and deliver exam prep to learners around the world.",
+  "location": "Auburn, Washington, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nr49dubij2qixf4ppjvc",
+  "social_media": {
+    "twitter": "https://twitter.com/ver_prep",
+    "linkedin": "https://linkedin.com/company/everprep"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/everprep",
+  "api": "/api/companies/everprep.json"
+}

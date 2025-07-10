@@ -1,0 +1,22 @@
+{
+  "name": "ADHERE GEAR Technology",
+  "slug": "adhere-gear-technology",
+  "website": "https://adheregearpodpaq.com/",
+  "description": "Sensor-based technology to monitor frozen and perishable food products",
+  "one_liner": "Sensor-based technology to monitor frozen and perishable food products",
+  "location": "Beaverton, Oregon, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/adhere-gear-technology-corporation"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/adhere-gear-technology",
+  "api": "/api/companies/adhere-gear-technology.json"
+}

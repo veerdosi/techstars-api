@@ -1,0 +1,24 @@
+{
+  "name": "Equo",
+  "slug": "equo",
+  "website": "https://equointl.com/",
+  "description": "EQUO delivers easy, sustainable solutions for everyday single-use plastic drinking straws made from 100% plastic-free, biodegradable, compostable and non-toxic materials.",
+  "one_liner": "EQUO delivers easy, sustainable solutions for everyday single-use plastic drinking straws made from 100% plastic-free, biodegradable, compostable and non-toxic materials.",
+  "location": "Ho Chi Minh City, Vietnam",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/equointl",
+    "linkedin": "https://linkedin.com/showcase/equo-international",
+    "facebook": "https://facebook.com/equointl/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/equo",
+  "api": "/api/companies/equo.json"
+}

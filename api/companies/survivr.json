@@ -1,0 +1,24 @@
+{
+  "name": "SURVIVR",
+  "slug": "survivr",
+  "website": "https://survivr.com/",
+  "description": "Using VR training to help first responders improve their decision-making and response times.",
+  "one_liner": "Using VR training to help first responders improve their decision-making and response times.",
+  "location": "Richardson, Texas, United States",
+  "industry": "Virtual reality",
+  "industry_slug": "virtual-reality",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SURVIVRLabs",
+    "linkedin": "https://linkedin.com/company/survivr",
+    "facebook": "https://facebook.com/SURVIVRLabs/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/survivr",
+  "api": "/api/companies/survivr.json"
+}

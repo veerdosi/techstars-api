@@ -1,0 +1,23 @@
+{
+  "name": "Ladder",
+  "slug": "ladder",
+  "website": "https://myladder.africa/",
+  "description": "Ladder offers an integrated personal finance experience to users to help them grow their wealth exponentially.",
+  "one_liner": "Ladder offers an integrated personal finance experience to users to help them grow their wealth exponentially.",
+  "location": "Accra, Ghana",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/p0efzfjeop0uw556etcc",
+  "social_media": {
+    "twitter": "https://twitter.com/ladder_hq",
+    "linkedin": "https://linkedin.com/company/ladder-africa"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ladder",
+  "api": "/api/companies/ladder.json"
+}

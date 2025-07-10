@@ -1,0 +1,22 @@
+{
+  "name": "Tablender",
+  "slug": "tablender",
+  "website": "https://tablender.com/",
+  "description": "Tablender simplifies database management for non-technical users with an AI-assisted, spreadsheet-like UI that merges multiple data sources into a unified system.",
+  "one_liner": "Tablender simplifies database management for non-technical users with an AI-assisted, spreadsheet-like UI that merges multiple data sources into a unified system.",
+  "location": "New York City, New York, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/tablender"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tablender",
+  "api": "/api/companies/tablender.json"
+}

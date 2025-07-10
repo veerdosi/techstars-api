@@ -1,0 +1,24 @@
+{
+  "name": "Lauretta",
+  "slug": "lauretta",
+  "website": "https://lauretta.io/",
+  "description": "For Facility Owners and Managers seeking to understand events within their buildings, Lauretta.io uses cameras to infer occupant activity, behavior, and intent.",
+  "one_liner": "For Facility Owners and Managers seeking to understand events within their buildings, Lauretta.io uses cameras to infer occupant activity, behavior, and intent.",
+  "location": "Singapore, Singapore",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/galvin_lauretta",
+    "linkedin": "https://linkedin.com/company/lauretta-io",
+    "facebook": "https://facebook.com/laurettaIOsea/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lauretta",
+  "api": "/api/companies/lauretta.json"
+}

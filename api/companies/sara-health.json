@@ -1,0 +1,24 @@
+{
+  "name": "SaRA Health",
+  "slug": "sara-health",
+  "website": "https://sarahealth.io/",
+  "description": "We prevent injury, at scale, through our web/mobile app",
+  "one_liner": "We prevent injury, at scale, through our web/mobile app",
+  "location": "Kansas City, Missouri, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/health_sara",
+    "linkedin": "https://linkedin.com/company/sarahealth",
+    "facebook": "https://facebook.com/sarahealthinc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sara-health",
+  "api": "/api/companies/sara-health.json"
+}

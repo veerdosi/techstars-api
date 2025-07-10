@@ -1,0 +1,20 @@
+{
+  "name": "Gale Payments",
+  "slug": "gale-payments",
+  "website": "https://withgale.com/",
+  "description": "Gale is the new hassle-free way to accept HSA & FSA payments.",
+  "one_liner": "Gale is the new hassle-free way to accept HSA & FSA payments.",
+  "location": "Lantana, Texas, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gale-payments",
+  "api": "/api/companies/gale-payments.json"
+}

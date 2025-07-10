@@ -1,0 +1,24 @@
+{
+  "name": "PillPack",
+  "slug": "pillpack",
+  "website": "https://pillpack.com/",
+  "description": "We're a full-service online pharmacy that packages your medication and delivers to your door every month.",
+  "one_liner": "We're a full-service online pharmacy that packages your medication and delivers to your door every month.",
+  "location": "Manchester, New Hampshire, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/pillpack",
+    "linkedin": "https://linkedin.com/company/pillpack",
+    "facebook": "https://facebook.com/pillpack"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pillpack",
+  "api": "/api/companies/pillpack.json"
+}

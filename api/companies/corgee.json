@@ -1,0 +1,24 @@
+{
+  "name": "Corgee",
+  "slug": "corgee",
+  "website": "https://linkedin.com/company/67886033",
+  "description": "Manage all your accounts, tax and finances in one place. Corgee is an app for freelancers and their accountants.",
+  "one_liner": "Manage all your accounts, tax and finances in one place. Corgee is an app for freelancers and their accountants.",
+  "location": "Barcelona, Spain",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/eumtjruyqr71dewnta7i",
+  "social_media": {
+    "twitter": "https://twitter.com/joincorgee",
+    "linkedin": "https://linkedin.com/company/67886033",
+    "facebook": "https://facebook.com/joincorgee/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/corgee",
+  "api": "/api/companies/corgee.json"
+}

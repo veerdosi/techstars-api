@@ -1,0 +1,22 @@
+{
+  "name": "SneakPeek",
+  "slug": "sneakpeek",
+  "website": "https://snkpeek.app/",
+  "description": "Simplified Sneaker Authentication. We've created intuitive models & scalable systems to protect you from counterfeits by ensuring legitimacy through tech.",
+  "one_liner": "Simplified Sneaker Authentication. We've created intuitive models & scalable systems to protect you from counterfeits by ensuring legitimacy through tech.",
+  "location": "Carrboro, North Carolina, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/sneakpeek-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sneakpeek",
+  "api": "/api/companies/sneakpeek.json"
+}

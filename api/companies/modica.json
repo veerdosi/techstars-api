@@ -1,0 +1,24 @@
+{
+  "name": "MODICA",
+  "slug": "modica",
+  "website": "https://madebymodica.com/",
+  "description": "Self-organizing, super-scalable Factory-as-a-Service modules, deployed anywhere.",
+  "one_liner": "Self-organizing, super-scalable Factory-as-a-Service modules, deployed anywhere.",
+  "location": "Seattle, Washington, United States",
+  "industry": "3D printing",
+  "industry_slug": "3d-printing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/madebyMODICA",
+    "linkedin": "https://linkedin.com/company/modica",
+    "facebook": "https://facebook.com/modicamicroindustries/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/modica",
+  "api": "/api/companies/modica.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "V2X Network",
+  "slug": "v2x-network",
+  "website": "https://v2x.network/",
+  "description": "V2X Network connects the vehicles with service providers like parking, charging, toll etc and allows them to securely exchange data and execute payments.",
+  "one_liner": "V2X Network connects the vehicles with service providers like parking, charging, toll etc and allows them to securely exchange data and execute payments.",
+  "location": "Munich, Germany",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/v2xnetwork",
+    "linkedin": "https://linkedin.com/company/v2xnetwork"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/v2x-network",
+  "api": "/api/companies/v2x-network.json"
+}

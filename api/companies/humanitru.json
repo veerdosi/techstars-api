@@ -1,0 +1,24 @@
+{
+  "name": "Humanitru",
+  "slug": "humanitru",
+  "website": "https://toteminsights.com/",
+  "description": "An integrated data and payments solution for nonprofits unifying all of their fundraising, marketing, and engagement funnels: the nonprofit operating system.",
+  "one_liner": "An integrated data and payments solution for nonprofits unifying all of their fundraising, marketing, and engagement funnels: the nonprofit operating system.",
+  "location": "Richmond, Virginia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/humanitru",
+    "linkedin": "https://linkedin.com/company/humanitru",
+    "facebook": "https://facebook.com/humanitru"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/humanitru",
+  "api": "/api/companies/humanitru.json"
+}

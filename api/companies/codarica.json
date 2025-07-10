@@ -1,0 +1,24 @@
+{
+  "name": "Codarica",
+  "slug": "codarica",
+  "website": "https://codarica.com/",
+  "description": "Inspiring kids to be the storytellers of the future by introducing them to the World of Code",
+  "one_liner": "Inspiring kids to be the storytellers of the future by introducing them to the World of Code",
+  "location": "Stockholm, Sweden",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/codaricaHQ",
+    "linkedin": "https://linkedin.com/company/codarica-ab",
+    "facebook": "https://facebook.com/pages/Codarica/1400668156861661"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/codarica",
+  "api": "/api/companies/codarica.json"
+}

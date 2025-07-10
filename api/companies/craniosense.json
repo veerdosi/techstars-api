@@ -1,0 +1,23 @@
+{
+  "name": "CranioSense",
+  "slug": "craniosense",
+  "website": "https://craniosense.com/",
+  "description": "CranioSense is developing an accurate, non-invasive sensing platform that enables rapid triage and diagnosis of elevated brain pressure to minimize time to treatment.",
+  "one_liner": "CranioSense is developing an accurate, non-invasive sensing platform that enables rapid triage and diagnosis of elevated brain pressure to minimize time to treatment.",
+  "location": "Bedford, Massachusetts, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/craniosense",
+    "facebook": "https://facebook.com/CranioSense"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/craniosense",
+  "api": "/api/companies/craniosense.json"
+}

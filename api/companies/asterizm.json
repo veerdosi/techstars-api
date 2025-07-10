@@ -1,0 +1,23 @@
+{
+  "name": "Asterizm",
+  "slug": "asterizm",
+  "website": "https://asterizm.io/",
+  "description": "Asterizm is an enterprise-oriented blockchain interoperability layer that provides confidential data transfer through an encrypted channel.",
+  "one_liner": "Asterizm is an enterprise-oriented blockchain interoperability layer that provides confidential data transfer through an encrypted channel.",
+  "location": "New York City, New York, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/b5ajt2iwuvzezvtuy1ys",
+  "social_media": {
+    "twitter": "https://twitter.com/Asterizm_layer",
+    "linkedin": "https://linkedin.com/company/asterizm"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/asterizm",
+  "api": "/api/companies/asterizm.json"
+}

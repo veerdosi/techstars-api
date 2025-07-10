@@ -1,0 +1,23 @@
+{
+  "name": "Pawpass",
+  "slug": "pawpass",
+  "website": "https://usepawpass.com/",
+  "description": "Digital identification for animals.",
+  "one_liner": "Digital identification for animals.",
+  "location": "Bath, United Kingdom",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/usepawpass",
+    "linkedin": "https://linkedin.com/company/usepawpass"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pawpass",
+  "api": "/api/companies/pawpass.json"
+}

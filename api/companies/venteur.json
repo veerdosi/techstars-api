@@ -1,0 +1,24 @@
+{
+  "name": "Venteur",
+  "slug": "venteur",
+  "website": "https://venteur.co/",
+  "description": "Venteur is a benefits marketplace for independent workers that streamlines access to health insurance.",
+  "one_liner": "Venteur is a benefits marketplace for independent workers that streamlines access to health insurance.",
+  "location": "Berkeley, California, United States",
+  "industry": "Insurtech",
+  "industry_slug": "insurtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/VenteurCo",
+    "linkedin": "https://linkedin.com/company/venteur-inc",
+    "facebook": "https://facebook.com/Venteur.co/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/venteur",
+  "api": "/api/companies/venteur.json"
+}

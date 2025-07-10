@@ -1,0 +1,22 @@
+{
+  "name": "coexist",
+  "slug": "coexist",
+  "website": "https://getcoexist.com/",
+  "description": "For busy families overwhelmed by managing life at home, Coexist is an all-in-one hub that makes home management fair and fun.",
+  "one_liner": "For busy families overwhelmed by managing life at home, Coexist is an all-in-one hub that makes home management fair and fun.",
+  "location": "San Francisco, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/getcoexist"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/coexist",
+  "api": "/api/companies/coexist.json"
+}

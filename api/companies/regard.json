@@ -1,0 +1,23 @@
+{
+  "name": "Regard",
+  "slug": "regard",
+  "website": "https://withregard.com/",
+  "description": "Automating documentation, so clinicians can get back to patients.",
+  "one_liner": "Automating documentation, so clinicians can get back to patients.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/RegardApp",
+    "linkedin": "https://linkedin.com/company/regard-technologies"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/regard",
+  "api": "/api/companies/regard.json"
+}

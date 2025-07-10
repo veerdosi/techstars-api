@@ -1,0 +1,24 @@
+{
+  "name": "STRUCTUR3D PRINTING",
+  "slug": "structur3d-printing",
+  "website": "https://linkedin.com/company/structur3d-printing",
+  "description": "Specialized hardware that interfaces with software for additive manufacturing using advanced liquid materials.",
+  "one_liner": "Specialized hardware that interfaces with software for additive manufacturing using advanced liquid materials.",
+  "location": "Kitchener, Ontario, Canada",
+  "industry": "Industrials",
+  "industry_slug": "industrials",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/structur3Dprint",
+    "linkedin": "https://linkedin.com/company/structur3d-printing",
+    "facebook": "https://facebook.com/Structur3DPrinting/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/structur3d-printing",
+  "api": "/api/companies/structur3d-printing.json"
+}

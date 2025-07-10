@@ -1,0 +1,23 @@
+{
+  "name": "Sotira",
+  "slug": "sotira",
+  "website": "https://sotira.co/",
+  "description": "For ecommerce businesses that struggle to price products and understand which products are the most profitable, Sotira analyzes and compares growth for online stores, tracks metrics, and helps businesses make informed choices about pricing and listing.",
+  "one_liner": "For ecommerce businesses that struggle to price products and understand which products are the most profitable, Sotira analyzes and compares growth for online stores, tracks metrics, and helps businesses make informed choices about pricing and listing.",
+  "location": "Menlo Park, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Sotira_app",
+    "linkedin": "https://linkedin.com/company/sotira-fintech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sotira",
+  "api": "/api/companies/sotira.json"
+}

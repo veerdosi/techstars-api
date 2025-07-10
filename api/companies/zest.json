@@ -1,0 +1,24 @@
+{
+  "name": "Zest",
+  "slug": "zest",
+  "website": "https://zestapp.co/",
+  "description": "An app that provides an intuitive way to improve at cooking.",
+  "one_liner": "An app that provides an intuitive way to improve at cooking.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/zestisapp",
+    "linkedin": "https://linkedin.com/company/zestapp",
+    "facebook": "https://facebook.com/getzest.is"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/zest",
+  "api": "/api/companies/zest.json"
+}

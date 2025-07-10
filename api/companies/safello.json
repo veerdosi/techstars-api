@@ -1,0 +1,24 @@
+{
+  "name": "Safello",
+  "slug": "safello",
+  "website": "https://safello.com/",
+  "description": "Bitcoin spending platform.",
+  "one_liner": "Bitcoin spending platform.",
+  "location": "Stockholm, Sweden",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/safelloab",
+    "linkedin": "https://linkedin.com/company/safello",
+    "facebook": "https://facebook.com/Safello"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/safello",
+  "api": "/api/companies/safello.json"
+}

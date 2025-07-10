@@ -1,0 +1,24 @@
+{
+  "name": "Pesky Fish",
+  "slug": "pesky-fish",
+  "website": "https://linkedin.com/company/pesky-fish-ltd",
+  "description": "Pesky fish enable fishermen across the country to sell their catch directly to consumers in the fastest, freshest and most traceable supply chain",
+  "one_liner": "Pesky fish enable fishermen across the country to sell their catch directly to consumers in the fastest, freshest and most traceable supply chain",
+  "location": "London, United Kingdom",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/pesky_fish",
+    "linkedin": "https://linkedin.com/company/pesky-fish-ltd",
+    "facebook": "https://facebook.com/Pesky-Fish-365849560604177/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pesky-fish",
+  "api": "/api/companies/pesky-fish.json"
+}

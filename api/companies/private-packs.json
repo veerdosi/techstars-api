@@ -1,0 +1,24 @@
+{
+  "name": "Private Packs",
+  "slug": "private-packs",
+  "website": "https://privatepacks.com/",
+  "description": "Discreet and sustainable modern solutions that address intimate body part pain",
+  "one_liner": "Discreet and sustainable modern solutions that address intimate body part pain",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Femtech",
+  "industry_slug": "femtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/privatepacks",
+    "linkedin": "https://linkedin.com/company/private-packs",
+    "facebook": "https://facebook.com/privatepacks/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/private-packs",
+  "api": "/api/companies/private-packs.json"
+}

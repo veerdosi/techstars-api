@@ -1,0 +1,24 @@
+{
+  "name": "Ultimate",
+  "slug": "ultimate",
+  "website": "https://ultimate.ai/",
+  "description": "ultimate.ai gives customer service agents the AI-tools they need to provide faster, smarter responses",
+  "one_liner": "ultimate.ai gives customer service agents the AI-tools they need to provide faster, smarter responses",
+  "location": "Helsinki, Finland",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ultiai",
+    "linkedin": "https://linkedin.com/company/ultimatemoney",
+    "facebook": "https://facebook.com/ultiai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ultimate",
+  "api": "/api/companies/ultimate.json"
+}

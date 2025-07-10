@@ -1,0 +1,23 @@
+{
+  "name": "unbuilt",
+  "slug": "unbuilt",
+  "website": "https://unbuilt.co/",
+  "description": "For construction industry professional burdened with excess materials, we provide a marketplace to resell them.",
+  "one_liner": "For construction industry professional burdened with excess materials, we provide a marketplace to resell them.",
+  "location": "Sherman Oaks, California, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/unbuilt-co",
+    "facebook": "https://facebook.com/buildelight/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/unbuilt",
+  "api": "/api/companies/unbuilt.json"
+}

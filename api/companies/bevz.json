@@ -1,0 +1,24 @@
+{
+  "name": "Bevz",
+  "slug": "bevz",
+  "website": "https://bevz.com/",
+  "description": "Convenience store technology and services platform",
+  "one_liner": "Convenience store technology and services platform",
+  "location": "Van Nuys, California, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/uqr1lzkjyprkl9qdhxib",
+  "social_media": {
+    "twitter": "https://twitter.com/bevzdelivery",
+    "linkedin": "https://linkedin.com/company/37514481",
+    "facebook": "https://facebook.com/BevzAlcoholDelivery/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bevz",
+  "api": "/api/companies/bevz.json"
+}

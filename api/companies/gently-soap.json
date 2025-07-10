@@ -1,0 +1,23 @@
+{
+  "name": "Gently Soap",
+  "slug": "gently-soap",
+  "website": "https://gentlysoap.com/",
+  "description": "By allowing the rapidly growing population of humans with highly sensitive skin and skin conditions to step out from behind the confines of boring, cold, and clinical products - Gently Soap is shattering expectations for gentle, effective body care.",
+  "one_liner": "By allowing the rapidly growing population of humans with highly sensitive skin and skin conditions to step out from behind the confines of boring, cold, and clinical products - Gently Soap is shattering expectations for gentle, effective body care.",
+  "location": "Dallas, Georgia, United States",
+  "industry": "Beauty",
+  "industry_slug": "beauty",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/gentlysoap",
+    "linkedin": "https://linkedin.com/company/gently-soap"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gently-soap",
+  "api": "/api/companies/gently-soap.json"
+}

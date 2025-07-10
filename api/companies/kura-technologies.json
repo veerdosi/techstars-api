@@ -1,0 +1,22 @@
+{
+  "name": "Kura Technologies",
+  "slug": "kura-technologies",
+  "website": "https://kuratek.com/",
+  "description": "A multi-sided platform providing instant spending for recipients which increases transparency on transactions.",
+  "one_liner": "A multi-sided platform providing instant spending for recipients which increases transparency on transactions.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/kura-fintech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kura-technologies",
+  "api": "/api/companies/kura-technologies.json"
+}

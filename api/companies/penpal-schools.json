@@ -1,0 +1,24 @@
+{
+  "name": "PenPal Schools",
+  "slug": "penpal-schools",
+  "website": "https://penpalschools.com/",
+  "description": "PenPal Schools connects students from around the world to learn together.",
+  "one_liner": "PenPal Schools connects students from around the world to learn together.",
+  "location": "Austin, Texas, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/penpalschools",
+    "linkedin": "https://linkedin.com/company/penpal-schools",
+    "facebook": "https://facebook.com/PenPalSchools"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/penpal-schools",
+  "api": "/api/companies/penpal-schools.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Cassiopeia",
+  "slug": "cassiopeia",
+  "website": "https://cassiopeia.tech/",
+  "description": "The solution that fosters a healthier workplace by measuring, predicting and preventing sexual harassment, bullying and discrimination.",
+  "one_liner": "The solution that fosters a healthier workplace by measuring, predicting and preventing sexual harassment, bullying and discrimination.",
+  "location": "Ramat Gan, Israel",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/cassiopeia-tech",
+    "facebook": "https://facebook.com/CassiopeiaTech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cassiopeia",
+  "api": "/api/companies/cassiopeia.json"
+}

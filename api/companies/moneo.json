@@ -1,0 +1,23 @@
+{
+  "name": "Moneo",
+  "slug": "moneo",
+  "website": "https://moneo.cash/",
+  "description": "We deliver digital promotions to in-store consumers and capture their data in a cost-effective & scalable way to help brands drive sales & optimize digital advertising ROI. \n\nWith our cashback rewards platform  millions of people can save money on their everyday spending.",
+  "one_liner": "We deliver digital promotions to in-store consumers and capture their data in a cost-effective & scalable way to help brands drive sales & optimize digital advertising ROI. \n\nWith our cashback rewards platform  millions of people can save money on their everyday spending.",
+  "location": "Mexico City, Federal District, Mexico",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jq9kchy0yoy1ymt2cpel",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/moneo-cash",
+    "facebook": "https://facebook.com/Moneo.cash"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/moneo",
+  "api": "/api/companies/moneo.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Pacemaker",
+  "slug": "pacemaker",
+  "website": "https://linkedin.com/company/pacemaker%C2%AE",
+  "description": "Pacemaker allows for the creation and monetization of DJ mixes using licensed streams from Spotify, not illegal files.",
+  "one_liner": "Pacemaker allows for the creation and monetization of DJ mixes using licensed streams from Spotify, not illegal files.",
+  "location": "Stockholm, Sweden",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/pacemaker",
+    "linkedin": "https://linkedin.com/company/pacemaker%C2%AE",
+    "facebook": "https://facebook.com/pacemakermusic"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pacemaker",
+  "api": "/api/companies/pacemaker.json"
+}

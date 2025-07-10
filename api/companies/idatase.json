@@ -1,0 +1,24 @@
+{
+  "name": "idatase",
+  "slug": "idatase",
+  "website": "https://netlume.net/",
+  "description": "The NetLume innovation platform solves the key problem of the \"human factor\" for successful IoT initiatives by integrating domain experts and business into the IoT domain",
+  "one_liner": "The NetLume innovation platform solves the key problem of the \"human factor\" for successful IoT initiatives by integrating domain experts and business into the IoT domain",
+  "location": "Frankfurt am Main, Germany",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/idatase",
+    "linkedin": "https://linkedin.com/company/3322709",
+    "facebook": "https://facebook.com/idataseofficialpage"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/idatase",
+  "api": "/api/companies/idatase.json"
+}

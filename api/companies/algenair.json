@@ -1,0 +1,24 @@
+{
+  "name": "AlgenAir",
+  "slug": "algenair",
+  "website": "https://algenair.com/",
+  "description": "The first natural air purifier that reduces CO2 using an algae subscription service.",
+  "one_liner": "The first natural air purifier that reduces CO2 using an algae subscription service.",
+  "location": "Columbia, Maryland, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AlgenAir",
+    "linkedin": "https://linkedin.com/company/algenair",
+    "facebook": "https://facebook.com/algenair"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/algenair",
+  "api": "/api/companies/algenair.json"
+}

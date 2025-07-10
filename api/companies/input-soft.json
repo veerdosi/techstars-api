@@ -1,0 +1,23 @@
+{
+  "name": "INPUT SOFT",
+  "slug": "input-soft",
+  "website": "https://inputsoft.net/",
+  "description": "INPUT SOFT is a web platform for companies in the aviation industry: helps optimize resources, reduce costs, collect and analyze data from all processes.",
+  "one_liner": "INPUT SOFT is a web platform for companies in the aviation industry: helps optimize resources, reduce costs, collect and analyze data from all processes.",
+  "location": "Kyiv, Ukraine",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/inputsoftware",
+    "linkedin": "https://linkedin.com/company/inputsoftware"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/input-soft",
+  "api": "/api/companies/input-soft.json"
+}

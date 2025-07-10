@@ -1,0 +1,24 @@
+{
+  "name": "Loom Network",
+  "slug": "loom-network",
+  "website": "https://linkedin.com/company/18292138",
+  "description": "Loom Network is a network of application-specific sidechains for Ethereum where developers can run their decentralized applications at scale.",
+  "one_liner": "Loom Network is a network of application-specific sidechains for Ethereum where developers can run their decentralized applications at scale.",
+  "location": "Bangkok, Thailand",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/loomnetwork",
+    "linkedin": "https://linkedin.com/company/18292138",
+    "facebook": "https://facebook.com/loomxnetwork/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/loom-network",
+  "api": "/api/companies/loom-network.json"
+}

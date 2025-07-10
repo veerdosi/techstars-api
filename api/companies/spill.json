@@ -1,0 +1,24 @@
+{
+  "name": "Spill",
+  "slug": "spill",
+  "website": "https://spillnow.com/",
+  "description": "Anonymous peer support",
+  "one_liner": "Anonymous peer support",
+  "location": "San Francisco, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/spill",
+    "linkedin": "https://linkedin.com/company/student-spill-llc",
+    "facebook": "https://facebook.com/studentspill"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/spill",
+  "api": "/api/companies/spill.json"
+}

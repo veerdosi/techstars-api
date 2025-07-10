@@ -1,0 +1,24 @@
+{
+  "name": "Magicflix",
+  "slug": "magicflix",
+  "website": "https://linkedin.com/company/3337462",
+  "description": "Safe, curated age-appropriate videos",
+  "one_liner": "Safe, curated age-appropriate videos",
+  "location": "Redmond, Washington, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/magicflix",
+    "linkedin": "https://linkedin.com/company/3337462",
+    "facebook": "https://facebook.com/MagikFlix"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/magicflix",
+  "api": "/api/companies/magicflix.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "CashDirector",
+  "slug": "cashdirector",
+  "website": "https://cashdirector.com/",
+  "description": "Digital CFO for SMBs based on the real-time accounting platform",
+  "one_liner": "Digital CFO for SMBs based on the real-time accounting platform",
+  "location": "Warsaw, Poland",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/CashDirectorSA",
+    "linkedin": "https://linkedin.com/company/cashdirector"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cashdirector",
+  "api": "/api/companies/cashdirector.json"
+}

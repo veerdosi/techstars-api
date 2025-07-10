@@ -1,0 +1,24 @@
+{
+  "name": "Quotiss",
+  "slug": "quotiss",
+  "website": "https://quotiss.com/",
+  "description": "We simplify freight and #make_shipping_great_again",
+  "one_liner": "We simplify freight and #make_shipping_great_again",
+  "location": "Warsaw, Poland",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/quotiss",
+    "linkedin": "https://linkedin.com/company/quotiss",
+    "facebook": "https://facebook.com/quotiss"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/quotiss",
+  "api": "/api/companies/quotiss.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "BallBox",
+  "slug": "ballbox",
+  "website": "https://playballbox.com/",
+  "description": "BallBox is a smart locker solution that turns residential parcel management into a revenue generating asset for property managers and a novel amenity for their residents.",
+  "one_liner": "BallBox is a smart locker solution that turns residential parcel management into a revenue generating asset for property managers and a novel amenity for their residents.",
+  "location": "Ann Arbor, Michigan, United States",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getballbox",
+    "linkedin": "https://linkedin.com/company/ballbox",
+    "facebook": "https://facebook.com/GetBallBox/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ballbox",
+  "api": "/api/companies/ballbox.json"
+}

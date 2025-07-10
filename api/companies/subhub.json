@@ -1,0 +1,22 @@
+{
+  "name": "SubHub",
+  "slug": "subhub",
+  "website": "https://joinsubhub.com/",
+  "description": "For school districts with a substitute teacher shortage and a difficult time retaining subs, SubHub provides mobile-friendly, short-form, training content for subs.",
+  "one_liner": "For school districts with a substitute teacher shortage and a difficult time retaining subs, SubHub provides mobile-friendly, short-form, training content for subs.",
+  "location": "New York City, New York, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/joinsubhub"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/subhub",
+  "api": "/api/companies/subhub.json"
+}

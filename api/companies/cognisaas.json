@@ -1,0 +1,24 @@
+{
+  "name": "CogniSaaS",
+  "slug": "cognisaas",
+  "website": "https://cognisaas.com/",
+  "description": "CogniSaaS empowers cross-functional teams in enterprise SaaS for customer-centric value delivery",
+  "one_liner": "CogniSaaS empowers cross-functional teams in enterprise SaaS for customer-centric value delivery",
+  "location": "Bengaluru, Karnataka, India",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/cognisaas",
+    "linkedin": "https://linkedin.com/company/cognisaas",
+    "facebook": "https://facebook.com/cognisaas"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cognisaas",
+  "api": "/api/companies/cognisaas.json"
+}

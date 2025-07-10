@@ -1,0 +1,24 @@
+{
+  "name": "unremot",
+  "slug": "unremot",
+  "website": "https://unremot.com/",
+  "description": "unremot is a personal office for independent professionals that allows one to discover, request, pay, schedule, and conduct meetings - all of it in one place!",
+  "one_liner": "unremot is a personal office for independent professionals that allows one to discover, request, pay, schedule, and conduct meetings - all of it in one place!",
+  "location": "Kochi, Kerala, India",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/unremot_hq",
+    "linkedin": "https://linkedin.com/company/unremot",
+    "facebook": "https://facebook.com/unremot"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/unremot",
+  "api": "/api/companies/unremot.json"
+}

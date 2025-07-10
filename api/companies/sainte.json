@@ -1,0 +1,22 @@
+{
+  "name": "Sainte",
+  "slug": "sainte",
+  "website": "https://withsainte.com/",
+  "description": "Sainte transforms trauma into resilience through AI-driven, trauma-informed support, helping individuals stabilize, thrive, and break cycles of recidivism and stigma. Our scalable solutions serve underserved communities, employers, and healthcare providers, combining lived experiences with cutting-edge technology to build a resilient, inclusive society. Join us in creating systems that heal and empower.",
+  "one_liner": "Sainte transforms trauma into resilience through AI-driven, trauma-informed support, helping individuals stabilize, thrive, and break cycles of recidivism and stigma. Our scalable solutions serve underserved communities, employers, and healthcare providers, combining lived experiences with cutting-edge technology to build a resilient, inclusive society. Join us in creating systems that heal and empower.",
+  "location": "Detroit, Michigan, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/totalreentrysolution"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sainte",
+  "api": "/api/companies/sainte.json"
+}

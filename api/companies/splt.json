@@ -1,0 +1,24 @@
+{
+  "name": "SPLT",
+  "slug": "splt",
+  "website": "https://splt.io/",
+  "description": "SPLT is an enterprise ridesharing platform changing the way people commute together.",
+  "one_liner": "SPLT is an enterprise ridesharing platform changing the way people commute together.",
+  "location": "Detroit, Michigan, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/splt",
+    "linkedin": "https://linkedin.com/company/9344679",
+    "facebook": "https://facebook.com/teamsplt"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/splt",
+  "api": "/api/companies/splt.json"
+}

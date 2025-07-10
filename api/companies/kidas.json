@@ -1,0 +1,24 @@
+{
+  "name": "Kidas",
+  "slug": "kidas",
+  "website": "https://getkidas.com/",
+  "description": "Kidas is an AI-based technology that connects to any game console and helps parents protect their children from cyberbullying and online predation by analyzing voice and text conversations in real-time.",
+  "one_liner": "Kidas is an AI-based technology that connects to any game console and helps parents protect their children from cyberbullying and online predation by analyzing voice and text conversations in real-time.",
+  "location": "Philadelphia, Pennsylvania, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/kidasnet",
+    "linkedin": "https://linkedin.com/company/kidas",
+    "facebook": "https://facebook.com/kidasnet"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kidas",
+  "api": "/api/companies/kidas.json"
+}

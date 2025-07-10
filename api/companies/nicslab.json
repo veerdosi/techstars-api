@@ -1,0 +1,24 @@
+{
+  "name": "Nicslab",
+  "slug": "nicslab",
+  "website": "https://nicslab.com/",
+  "description": "Nicslab, a fabless chip company, developing electronic and photonic integrated circuits for future optical solutions in data centers, AI, and quantum computing.",
+  "one_liner": "Nicslab, a fabless chip company, developing electronic and photonic integrated circuits for future optical solutions in data centers, AI, and quantum computing.",
+  "location": "Sydney, New South Wales, Australia",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/NicslabOfficial",
+    "linkedin": "https://linkedin.com/company/nicslab",
+    "facebook": "https://facebook.com/Nicslab.Support/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nicslab",
+  "api": "/api/companies/nicslab.json"
+}

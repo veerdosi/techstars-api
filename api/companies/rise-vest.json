@@ -1,0 +1,24 @@
+{
+  "name": "Rise Vest",
+  "slug": "rise-vest",
+  "website": "https://rise.capital/",
+  "description": "Digital wealth manager connecting Africans to global dollar investments.",
+  "one_liner": "Digital wealth manager connecting Africans to global dollar investments.",
+  "location": "Lagos, Nigeria",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Risevest",
+    "linkedin": "https://linkedin.com/company/rise-inc-",
+    "facebook": "https://facebook.com/RisevestGroup/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rise-vest",
+  "api": "/api/companies/rise-vest.json"
+}

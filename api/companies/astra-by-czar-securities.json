@@ -1,0 +1,24 @@
+{
+  "name": "ASTRA by Czar Securities",
+  "slug": "astra-by-czar-securities",
+  "website": "https://getastra.com/",
+  "description": "Making web & application security suite making security super simple for businesses, for real. Firewall | Malware Scanner | Security Audits for Websites & Apps.",
+  "one_liner": "Making web & application security suite making security super simple for businesses, for real. Firewall | Malware Scanner | Security Audits for Websites & Apps.",
+  "location": "Claymont, Delaware, United States",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getastra",
+    "linkedin": "https://linkedin.com/company/getastra",
+    "facebook": "https://facebook.com/pg/getAstra"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/astra-by-czar-securities",
+  "api": "/api/companies/astra-by-czar-securities.json"
+}

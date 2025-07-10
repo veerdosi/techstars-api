@@ -1,0 +1,24 @@
+{
+  "name": "Proxi",
+  "slug": "proxi",
+  "website": "https://proxi.co/",
+  "description": "Proxi powers the future of personalized navigation by making mapping for everyone.",
+  "one_liner": "Proxi powers the future of personalized navigation by making mapping for everyone.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Proxi_Co",
+    "linkedin": "https://linkedin.com/company/proxi-co",
+    "facebook": "https://facebook.com/ProxiMaps"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/proxi",
+  "api": "/api/companies/proxi.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Liv",
+  "slug": "liv",
+  "website": "https://liv.tv/",
+  "description": "Leading VR streaming and social platform for the next generation of players & creators in XR.",
+  "one_liner": "Leading VR streaming and social platform for the next generation of players & creators in XR.",
+  "location": "San Francisco, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/liv",
+    "linkedin": "https://linkedin.com/company/liv",
+    "facebook": "https://facebook.com/liv"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/liv",
+  "api": "/api/companies/liv.json"
+}

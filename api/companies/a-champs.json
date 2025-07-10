@@ -1,0 +1,24 @@
+{
+  "name": "A-Champs",
+  "slug": "a-champs",
+  "website": "https://a-champs.com/",
+  "description": "A-Champs develops interactive, gamified and sports-science based training solutions for people of all ages and fitness levels.",
+  "one_liner": "A-Champs develops interactive, gamified and sports-science based training solutions for people of all ages and fitness levels.",
+  "location": "Barcelona, Spain",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/achampsofficial",
+    "linkedin": "https://linkedin.com/company/a-champs",
+    "facebook": "https://facebook.com/AChampsOfficial/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/a-champs",
+  "api": "/api/companies/a-champs.json"
+}

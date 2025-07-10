@@ -1,0 +1,23 @@
+{
+  "name": "Meal Village",
+  "slug": "meal-village",
+  "website": "https://mealvillage.com/",
+  "description": "Freshly prepared meals made fresh daily, and delivered to the door",
+  "one_liner": "Freshly prepared meals made fresh daily, and delivered to the door",
+  "location": "Lisle, Illinois, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/meal-village",
+    "facebook": "https://facebook.com/mealvillage"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/meal-village",
+  "api": "/api/companies/meal-village.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ekos",
+  "slug": "ekos",
+  "website": "https://ekos.ai/",
+  "description": "EKOS.AI is an all-in-one engagement platform built for hybrid communities.",
+  "one_liner": "EKOS.AI is an all-in-one engagement platform built for hybrid communities.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ekos_ai",
+    "linkedin": "https://linkedin.com/company/ekosai",
+    "facebook": "https://facebook.com/ekosbrewmaster"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ekos",
+  "api": "/api/companies/ekos.json"
+}

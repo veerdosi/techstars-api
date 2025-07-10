@@ -1,0 +1,22 @@
+{
+  "name": "Illoominus",
+  "slug": "illoominus",
+  "website": "https://illoominus.com/",
+  "description": "Data analytics platform designed to activate DE+I strategies",
+  "one_liner": "Data analytics platform designed to activate DE+I strategies",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/illoominus"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/illoominus",
+  "api": "/api/companies/illoominus.json"
+}

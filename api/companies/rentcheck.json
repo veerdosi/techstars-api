@@ -1,0 +1,24 @@
+{
+  "name": "RentCheck",
+  "slug": "rentcheck",
+  "website": "https://getrentcheck.com/",
+  "description": "RentCheck is a mobile app that standardizes move-in and move-out inspections to bring transparency to the rental process.",
+  "one_liner": "RentCheck is a mobile app that standardizes move-in and move-out inspections to bring transparency to the rental process.",
+  "location": "New Orleans, Louisiana, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/rentcheckapp",
+    "linkedin": "https://linkedin.com/company/getrentcheck",
+    "facebook": "https://facebook.com/getrentcheck/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rentcheck",
+  "api": "/api/companies/rentcheck.json"
+}

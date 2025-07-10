@@ -1,0 +1,24 @@
+{
+  "name": "Quantac",
+  "slug": "quantac",
+  "website": "https://linkedin.com/company/quantac",
+  "description": "Quantac provides the first method of integrating sweat sensing technology with mass market wearables.",
+  "one_liner": "Quantac provides the first method of integrating sweat sensing technology with mass market wearables.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Quantac_Co",
+    "linkedin": "https://linkedin.com/company/quantac",
+    "facebook": "https://facebook.com/Quantac-Co-247523868972523/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/quantac",
+  "api": "/api/companies/quantac.json"
+}

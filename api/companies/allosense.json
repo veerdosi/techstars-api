@@ -1,0 +1,24 @@
+{
+  "name": "Allosense",
+  "slug": "allosense",
+  "website": "https://allosense.com/",
+  "description": "Allosense makes advanced sensors and measurement systems. We specialize in logistics, test automation, and manufacturing.",
+  "one_liner": "Allosense makes advanced sensors and measurement systems. We specialize in logistics, test automation, and manufacturing.",
+  "location": "San Antonio, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nwrduigd8kcuxpane4h8",
+  "social_media": {
+    "twitter": "https://twitter.com/allosense",
+    "linkedin": "https://linkedin.com/company/allosense",
+    "facebook": "https://facebook.com/allosense"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/allosense",
+  "api": "/api/companies/allosense.json"
+}

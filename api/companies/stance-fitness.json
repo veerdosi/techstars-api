@@ -1,0 +1,23 @@
+{
+  "name": "Stance Fitness",
+  "slug": "stance-fitness",
+  "website": "https://stancehome.com/",
+  "description": "Stance is a Fit Tech SaaS company, developing a smart tracking and monitoring system for gym users in the weight/strength and conditioning areas.",
+  "one_liner": "Stance is a Fit Tech SaaS company, developing a smart tracking and monitoring system for gym users in the weight/strength and conditioning areas.",
+  "location": "Harpenden, United Kingdom",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/stance-fitness",
+    "facebook": "https://facebook.com/profile.php"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/stance-fitness",
+  "api": "/api/companies/stance-fitness.json"
+}

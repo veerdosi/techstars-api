@@ -1,0 +1,23 @@
+{
+  "name": "Salient Energy",
+  "slug": "salient-energy",
+  "website": "https://salientenergy.ca/",
+  "description": "Cheap, safe, and long lasting zinc ion batteries for energy storage.",
+  "one_liner": "Cheap, safe, and long lasting zinc ion batteries for energy storage.",
+  "location": "Dartmouth, Nova Scotia, Canada",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SalientEnergy",
+    "linkedin": "https://linkedin.com/company/salient-energy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/salient-energy",
+  "api": "/api/companies/salient-energy.json"
+}

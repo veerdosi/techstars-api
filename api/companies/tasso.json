@@ -1,0 +1,24 @@
+{
+  "name": "Tasso",
+  "slug": "tasso",
+  "website": "https://tassoinc.com/",
+  "description": "Tasso has created HemoLink, a virtually painless device that allows patients to collect their own blood sample--enough blood to run standard lab tests",
+  "one_liner": "Tasso has created HemoLink, a virtually painless device that allows patients to collect their own blood sample--enough blood to run standard lab tests",
+  "location": "Seattle, Washington, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/tassoinc",
+    "linkedin": "https://linkedin.com/company/tasso-inc-",
+    "facebook": "https://facebook.com/teamtasso/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tasso",
+  "api": "/api/companies/tasso.json"
+}

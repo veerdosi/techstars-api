@@ -1,0 +1,23 @@
+{
+  "name": "LuDela",
+  "slug": "ludela",
+  "website": "https://ludela.com/",
+  "description": "LuDela creates the world's first smart candles delivering safer, more convenient, real-flame ambiance to residential and commercial settings",
+  "one_liner": "LuDela creates the world's first smart candles delivering safer, more convenient, real-flame ambiance to residential and commercial settings",
+  "location": "Bend, Oregon, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/joinludela",
+    "facebook": "https://facebook.com/joinludela/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ludela",
+  "api": "/api/companies/ludela.json"
+}

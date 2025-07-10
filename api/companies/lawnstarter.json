@@ -1,0 +1,24 @@
+{
+  "name": "LawnStarter",
+  "slug": "lawnstarter",
+  "website": "https://lawnstarter.com/",
+  "description": "The easiest way to order and manage lawn care service",
+  "one_liner": "The easiest way to order and manage lawn care service",
+  "location": "Austin, Texas, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/LawnStarter",
+    "linkedin": "https://linkedin.com/company/3280182",
+    "facebook": "https://facebook.com/lawnstarter"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lawnstarter",
+  "api": "/api/companies/lawnstarter.json"
+}

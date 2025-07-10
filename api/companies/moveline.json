@@ -1,0 +1,24 @@
+{
+  "name": "Moveline",
+  "slug": "moveline",
+  "website": "https://linkedin.com/company/moveline",
+  "description": "Web app to help people move long distances and save money",
+  "one_liner": "Web app to help people move long distances and save money",
+  "location": "New York City, New York, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/moveline",
+    "linkedin": "https://linkedin.com/company/moveline",
+    "facebook": "https://facebook.com/moveline"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/moveline",
+  "api": "/api/companies/moveline.json"
+}

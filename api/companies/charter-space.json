@@ -1,0 +1,23 @@
+{
+  "name": "Charter Space",
+  "slug": "charter-space",
+  "website": "https://charter.space/",
+  "description": "Charter is developing logistics software for satellite companies to streamline missions and reduce wasted engineering hours.",
+  "one_liner": "Charter is developing logistics software for satellite companies to streamline missions and reduce wasted engineering hours.",
+  "location": "London, United Kingdom",
+  "industry": "Space tech",
+  "industry_slug": "space-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/zzfasicadzv4iurxkj2e",
+  "social_media": {
+    "twitter": "https://twitter.com/charter_space_",
+    "linkedin": "https://linkedin.com/company/charter-space"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/charter-space",
+  "api": "/api/companies/charter-space.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Bidvine",
+  "slug": "bidvine",
+  "website": "https://linkedin.com/company/bark-com",
+  "description": "Need something done? Bidvine can help you find the right professional without all of the legwork.",
+  "one_liner": "Need something done? Bidvine can help you find the right professional without all of the legwork.",
+  "location": "London, United Kingdom",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/bidvine",
+    "linkedin": "https://linkedin.com/company/bark-com",
+    "facebook": "https://facebook.com/bidvine"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bidvine",
+  "api": "/api/companies/bidvine.json"
+}

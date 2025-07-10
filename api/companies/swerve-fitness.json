@@ -1,0 +1,24 @@
+{
+  "name": "SWERVE Fitness",
+  "slug": "swerve-fitness",
+  "website": "https://swervefitness.com/",
+  "description": "Swerve is the first boutique fitness studio to livestream its experience into gyms and studios around the world. Swerve is also the first concept to feature location vs. location competition.",
+  "one_liner": "Swerve is the first boutique fitness studio to livestream its experience into gyms and studios around the world. Swerve is also the first concept to feature location vs. location competition.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SWERVE_Fitness",
+    "linkedin": "https://linkedin.com/company/swerve-fitness",
+    "facebook": "https://facebook.com/swervefit"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/swerve-fitness",
+  "api": "/api/companies/swerve-fitness.json"
+}

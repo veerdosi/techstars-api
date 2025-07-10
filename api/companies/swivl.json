@@ -1,0 +1,24 @@
+{
+  "name": "swivl",
+  "slug": "swivl",
+  "website": "https://tryswivl.com/",
+  "description": "No code for machine learning - tools to manage the entire AI data pipeline",
+  "one_liner": "No code for machine learning - tools to manage the entire AI data pipeline",
+  "location": "Denver, Colorado, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/tryswivl",
+    "linkedin": "https://linkedin.com/company/try-swivl",
+    "facebook": "https://facebook.com/swivl/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/swivl",
+  "api": "/api/companies/swivl.json"
+}

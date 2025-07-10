@@ -1,0 +1,23 @@
+{
+  "name": "Whale Seeker",
+  "slug": "whale-seeker",
+  "website": "https://whaleseeker.com/",
+  "description": "We build fast, automated, accurate, and user-friendly whale detection tools that empower all decision-makers to develop more sustainable business practices.",
+  "one_liner": "We build fast, automated, accurate, and user-friendly whale detection tools that empower all decision-makers to develop more sustainable business practices.",
+  "location": "Montréal, Quebec, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Whale_Seeker",
+    "linkedin": "https://linkedin.com/company/whaleseeker"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/whale-seeker",
+  "api": "/api/companies/whale-seeker.json"
+}

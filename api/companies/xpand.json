@@ -1,0 +1,24 @@
+{
+  "name": "Xpand",
+  "slug": "xpand",
+  "website": "https://linkedin.com/company/xpandgaming",
+  "description": "Xpand is a community-engagement platform for the web3 world.",
+  "one_liner": "Xpand is a community-engagement platform for the web3 world.",
+  "location": "Winston-Salem, North Carolina, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/xpandgaming",
+    "linkedin": "https://linkedin.com/company/xpandgaming",
+    "facebook": "https://facebook.com/XPAND-Gaming-100179724707035/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/xpand",
+  "api": "/api/companies/xpand.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Etiq AI",
+  "slug": "etiq-ai",
+  "website": "https://etiq.ai/",
+  "description": "Our target market is fintech sector. We are building a team product, but our main users will be the data scientists.",
+  "one_liner": "Our target market is fintech sector. We are building a team product, but our main users will be the data scientists.",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/EtiqAI",
+    "linkedin": "https://linkedin.com/company/40745326"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/etiq-ai",
+  "api": "/api/companies/etiq-ai.json"
+}

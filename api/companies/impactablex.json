@@ -1,0 +1,24 @@
+{
+  "name": "ImpactableX",
+  "slug": "impactablex",
+  "website": "https://impactablex.com/",
+  "description": "The Impact & ESG analytics platform designed for comparability, benchmarking & intelligence across the impact economy and up the capital stack.",
+  "one_liner": "The Impact & ESG analytics platform designed for comparability, benchmarking & intelligence across the impact economy and up the capital stack.",
+  "location": "Philadelphia, Pennsylvania, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/p9pu4d4mlb2knbaqaeja",
+  "social_media": {
+    "twitter": "https://twitter.com/impactable_x",
+    "linkedin": "https://linkedin.com/company/impactablex",
+    "facebook": "https://facebook.com/ImpactableX/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/impactablex",
+  "api": "/api/companies/impactablex.json"
+}

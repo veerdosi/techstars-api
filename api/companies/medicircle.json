@@ -1,0 +1,22 @@
+{
+  "name": "MediCircle",
+  "slug": "medicircle",
+  "website": "https://medicirclerx.com/",
+  "description": "MediCircle saves patients and health insurance plans thousands on their most expensive prescription drugs by reclaiming, recertifying, and redispensing unused medications through our licensed pharmacy.",
+  "one_liner": "MediCircle saves patients and health insurance plans thousands on their most expensive prescription drugs by reclaiming, recertifying, and redispensing unused medications through our licensed pharmacy.",
+  "location": "Houston, Texas, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/medicircle-org"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/medicircle",
+  "api": "/api/companies/medicircle.json"
+}

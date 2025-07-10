@@ -1,0 +1,22 @@
+{
+  "name": "Nestar Energy",
+  "slug": "nestar-energy",
+  "website": "https://nestarenergy.com/",
+  "description": "Introducing Lunar Power! We generate renewable energy by re-timing the moon's gravitational pull on ocean tides. Cheaper and more reliable than wind & solar; massive enough to supply more than a THIRD of global electricity demand.",
+  "one_liner": "Introducing Lunar Power! We generate renewable energy by re-timing the moon's gravitational pull on ocean tides. Cheaper and more reliable than wind & solar; massive enough to supply more than a THIRD of global electricity demand.",
+  "location": "Eagan, Minnesota, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/nestar-energy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nestar-energy",
+  "api": "/api/companies/nestar-energy.json"
+}

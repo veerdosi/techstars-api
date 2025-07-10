@@ -1,0 +1,22 @@
+{
+  "name": "WingDriver",
+  "slug": "wingdriver",
+  "website": "https://wingdriver.com/",
+  "description": "WingDriver(tm) supports driver safety by avoiding accidents with next-level computer vision and AI designed for mobile-OS.",
+  "one_liner": "WingDriver(tm) supports driver safety by avoiding accidents with next-level computer vision and AI designed for mobile-OS.",
+  "location": "Porto, Portugal",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kouklhqqf0nn1cwtfb6c",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/wingdriver"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/wingdriver",
+  "api": "/api/companies/wingdriver.json"
+}

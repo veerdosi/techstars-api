@@ -1,0 +1,23 @@
+{
+  "name": "Carré Mobility",
+  "slug": "carr-mobility",
+  "website": "https://carre-mobility.de/",
+  "description": "Carre Mobility offers shared mobility solutions for the housing industry, saving space and costs.",
+  "one_liner": "Carre Mobility offers shared mobility solutions for the housing industry, saving space and costs.",
+  "location": "Berlin, Germany",
+  "industry": "Carsharing",
+  "industry_slug": "carsharing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hmvtsb5nb1gkidbghmta",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/carr%C3%A9-mobility",
+    "facebook": "https://facebook.com/CarreMobility"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/carr-mobility",
+  "api": "/api/companies/carr-mobility.json"
+}

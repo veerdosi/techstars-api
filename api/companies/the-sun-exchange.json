@@ -1,0 +1,24 @@
+{
+  "name": "The Sun Exchange",
+  "slug": "the-sun-exchange",
+  "website": "https://thesunexchange.com/",
+  "description": "Through the Sun Exchange anyone can earn income from the sun.",
+  "one_liner": "Through the Sun Exchange anyone can earn income from the sun.",
+  "location": "Cape Town, South Africa",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/thesunexchange",
+    "linkedin": "https://linkedin.com/company/the-sun-exchange",
+    "facebook": "https://facebook.com/thesunexchange"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/the-sun-exchange",
+  "api": "/api/companies/the-sun-exchange.json"
+}

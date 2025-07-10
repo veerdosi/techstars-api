@@ -1,0 +1,24 @@
+{
+  "name": "Van Robotics",
+  "slug": "van-robotics",
+  "website": "https://abiis-world.com/",
+  "description": "Van Robotics develops smart, robot tutors and a socially intelligent software platform to customize interactions with individual K-8 students.",
+  "one_liner": "Van Robotics develops smart, robot tutors and a socially intelligent software platform to customize interactions with individual K-8 students.",
+  "location": "Columbia, South Carolina, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/vanrobotics",
+    "linkedin": "https://linkedin.com/company/van-robotics",
+    "facebook": "https://facebook.com/vanrobotics/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/van-robotics",
+  "api": "/api/companies/van-robotics.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "GoMiles",
+  "slug": "gomiles",
+  "website": "https://gomiles.com/",
+  "description": "Rewards management",
+  "one_liner": "Rewards management",
+  "location": "Seattle, Washington, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GoMiles_Com",
+    "linkedin": "https://linkedin.com/company/gomiles.com",
+    "facebook": "https://facebook.com/GoMiles"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gomiles",
+  "api": "/api/companies/gomiles.json"
+}

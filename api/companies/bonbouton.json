@@ -1,0 +1,24 @@
+{
+  "name": "Bonbouton",
+  "slug": "bonbouton",
+  "website": "https://linkedin.com/company/flextrapower",
+  "description": "Bonbouton prevents diabetic foot amputations with a smart insole. We empower those with diabetes to take action faster and stay safe with a push of a button.",
+  "one_liner": "Bonbouton prevents diabetic foot amputations with a smart insole. We empower those with diabetes to take action faster and stay safe with a push of a button.",
+  "location": "Long Island City, New York, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Bonbouton",
+    "linkedin": "https://linkedin.com/company/flextrapower",
+    "facebook": "https://facebook.com/flextrapower"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bonbouton",
+  "api": "/api/companies/bonbouton.json"
+}

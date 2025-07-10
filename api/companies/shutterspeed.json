@@ -1,0 +1,23 @@
+{
+  "name": "Shutterspeed",
+  "slug": "shutterspeed",
+  "website": "https://shutterspeed.io/",
+  "description": "Creativity driven by data",
+  "one_liner": "Creativity driven by data",
+  "location": "Auckland, New Zealand",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/shutterspeed",
+    "linkedin": "https://linkedin.com/company/shutterspeedio"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/shutterspeed",
+  "api": "/api/companies/shutterspeed.json"
+}

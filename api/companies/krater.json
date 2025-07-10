@@ -1,0 +1,24 @@
+{
+  "name": "Krater",
+  "slug": "krater",
+  "website": "https://krater.io/",
+  "description": "A platform for crypto investors, hosting providers, and hardware merchants to connect.",
+  "one_liner": "A platform for crypto investors, hosting providers, and hardware merchants to connect.",
+  "location": "Berlin, Germany",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jzarbzendz2ygnrhqrgz",
+  "social_media": {
+    "twitter": "https://twitter.com/Krater_io",
+    "linkedin": "https://linkedin.com/company/krater-tech",
+    "facebook": "https://facebook.com/motiohead/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/krater",
+  "api": "/api/companies/krater.json"
+}

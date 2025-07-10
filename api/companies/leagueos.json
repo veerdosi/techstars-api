@@ -1,0 +1,22 @@
+{
+  "name": "LeagueOS",
+  "slug": "leagueos",
+  "website": "https://leagueos.gg/",
+  "description": "Organize and monetize esports for free, all in one system.",
+  "one_liner": "Organize and monetize esports for free, all in one system.",
+  "location": "Saint Louis Park, Minnesota, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/leagueos"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/leagueos",
+  "api": "/api/companies/leagueos.json"
+}

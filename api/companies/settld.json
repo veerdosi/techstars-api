@@ -1,0 +1,24 @@
+{
+  "name": "Settld",
+  "slug": "settld",
+  "website": "https://settld.care/",
+  "description": "A simple, secure solution to end-of-life admin.",
+  "one_liner": "A simple, secure solution to end-of-life admin.",
+  "location": "London, United Kingdom",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rpeoyjarzgslfghup5eq",
+  "social_media": {
+    "twitter": "https://twitter.com/Settldsupport",
+    "linkedin": "https://linkedin.com/company/settldsupport",
+    "facebook": "https://facebook.com/Settldsupport"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/settld",
+  "api": "/api/companies/settld.json"
+}

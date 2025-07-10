@@ -1,0 +1,24 @@
+{
+  "name": "GreatHorn",
+  "slug": "greathorn",
+  "website": "https://greathorn.com/",
+  "description": "GreatHorn is a cloud security platform that helps detect and prevent spear phishing and credential theft attacks in realtime",
+  "one_liner": "GreatHorn is a cloud security platform that helps detect and prevent spear phishing and credential theft attacks in realtime",
+  "location": "Belmont, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/greathorn",
+    "linkedin": "https://linkedin.com/company/9335863",
+    "facebook": "https://facebook.com/greathorninc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/greathorn",
+  "api": "/api/companies/greathorn.json"
+}

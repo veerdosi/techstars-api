@@ -1,0 +1,22 @@
+{
+  "name": "Auribus Music",
+  "slug": "auribus-music",
+  "website": "https://voice.auribus.io/",
+  "description": "Auribus allows music makers to swap their voices with ones from the Auribus library, copyright-free, instantly.",
+  "one_liner": "Auribus allows music makers to swap their voices with ones from the Auribus library, copyright-free, instantly.",
+  "location": "Oakland, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/auribus"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/auribus-music",
+  "api": "/api/companies/auribus-music.json"
+}

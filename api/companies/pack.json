@@ -1,0 +1,22 @@
+{
+  "name": "Pack",
+  "slug": "pack",
+  "website": "https://thepack.tech/",
+  "description": "HR-Tech platform to foster people's growth with data-driven mentoring and increase employees' retention.",
+  "one_liner": "HR-Tech platform to foster people's growth with data-driven mentoring and increase employees' retention.",
+  "location": "Firenze, Italy",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/startup-pack-mentoring"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pack",
+  "api": "/api/companies/pack.json"
+}

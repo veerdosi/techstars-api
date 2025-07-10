@@ -1,0 +1,23 @@
+{
+  "name": "Climatta",
+  "slug": "climatta",
+  "website": "https://climatta.com/",
+  "description": "Climatta helpsSustainability teams automate their carbon emissions  compliance and ESG reporting 10x faster.",
+  "one_liner": "Climatta helpsSustainability teams automate their carbon emissions  compliance and ESG reporting 10x faster.",
+  "location": "Dover, Delaware, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jegrx2ogv5oaq2mhnx43",
+  "social_media": {
+    "twitter": "https://twitter.com/globalcarbonesg",
+    "linkedin": "https://linkedin.com/company/climatta"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/climatta",
+  "api": "/api/companies/climatta.json"
+}

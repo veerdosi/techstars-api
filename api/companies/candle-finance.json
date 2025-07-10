@@ -1,0 +1,23 @@
+{
+  "name": "Candle Finance",
+  "slug": "candle-finance",
+  "website": "https://trycandle.com/",
+  "description": "Candle is the app that gives you financial analytics and savings strategies.",
+  "one_liner": "Candle is the app that gives you financial analytics and savings strategies.",
+  "location": "Wilmington, Delaware, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/dofhkh20iybmvmewoghi",
+  "social_media": {
+    "twitter": "https://twitter.com/candlefinance",
+    "linkedin": "https://linkedin.com/company/candlefinance"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/candle-finance",
+  "api": "/api/companies/candle-finance.json"
+}

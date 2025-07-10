@@ -1,0 +1,24 @@
+{
+  "name": "AdaptiLab",
+  "slug": "adaptilab",
+  "website": "https://linkedin.com/company/adaptilab",
+  "description": "Growing machine learning teams from hiring to productivity.",
+  "one_liner": "Growing machine learning teams from hiring to productivity.",
+  "location": "Bellevue, Washington, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AdaptiLab",
+    "linkedin": "https://linkedin.com/company/adaptilab",
+    "facebook": "https://facebook.com/adaptilab/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/adaptilab",
+  "api": "/api/companies/adaptilab.json"
+}

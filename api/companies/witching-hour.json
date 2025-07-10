@@ -1,0 +1,20 @@
+{
+  "name": "Witching Hour",
+  "slug": "witching-hour",
+  "website": "https://witchinghour.io/",
+  "description": "Eliminate forest fire risk for your electric utility",
+  "one_liner": "Eliminate forest fire risk for your electric utility",
+  "location": "St. Petersburg, Florida, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/witching-hour",
+  "api": "/api/companies/witching-hour.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "LaaSer Critical Communications",
+  "slug": "laaser-critical-communications",
+  "website": "https://laaser911.com/",
+  "description": "LaaSer solves the deadly problem that when you call 911 from a mobile device, they don't know where you are.",
+  "one_liner": "LaaSer solves the deadly problem that when you call 911 from a mobile device, they don't know where you are.",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/laaser911",
+    "linkedin": "https://linkedin.com/company/10508697",
+    "facebook": "https://facebook.com/laaser911/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/laaser-critical-communications",
+  "api": "/api/companies/laaser-critical-communications.json"
+}

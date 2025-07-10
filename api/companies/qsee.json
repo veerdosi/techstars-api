@@ -1,0 +1,23 @@
+{
+  "name": "Qsee",
+  "slug": "qsee",
+  "website": "https://qsee.io/",
+  "description": "Better productivity with Zero Defective Manufacturing.",
+  "one_liner": "Better productivity with Zero Defective Manufacturing.",
+  "location": "Tel Aviv, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hjdmqjsoj9cgntkbzcmx",
+  "social_media": {
+    "twitter": "https://twitter.com/QseeIO",
+    "linkedin": "https://linkedin.com/company/qsee"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/qsee",
+  "api": "/api/companies/qsee.json"
+}

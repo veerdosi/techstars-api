@@ -1,0 +1,24 @@
+{
+  "name": "Lerch",
+  "slug": "lerch",
+  "website": "https://asklerch.com/",
+  "description": "Lerch is a mobile event app that offers simple and modern assistance to virtually any event.",
+  "one_liner": "Lerch is a mobile event app that offers simple and modern assistance to virtually any event.",
+  "location": "Cincinnati, Ohio, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/f3worrrlqtgltwbaokne",
+  "social_media": {
+    "twitter": "https://twitter.com/asklerch",
+    "linkedin": "https://linkedin.com/company/asklerch",
+    "facebook": "https://facebook.com/asklerch"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lerch",
+  "api": "/api/companies/lerch.json"
+}

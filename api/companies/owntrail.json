@@ -1,0 +1,24 @@
+{
+  "name": "OwnTrail",
+  "slug": "owntrail",
+  "website": "https://linkedin.com/company/owntrail",
+  "description": "Tools & community for mid-career people to visualize their paths through life and then make their visions reality.",
+  "one_liner": "Tools & community for mid-career people to visualize their paths through life and then make their visions reality.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/owntrail",
+    "linkedin": "https://linkedin.com/company/owntrail",
+    "facebook": "https://facebook.com/BlazeYourOwnTrail"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/owntrail",
+  "api": "/api/companies/owntrail.json"
+}

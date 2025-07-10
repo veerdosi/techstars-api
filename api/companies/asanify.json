@@ -1,0 +1,24 @@
+{
+  "name": "Asanify",
+  "slug": "asanify",
+  "website": "https://asanify.com/",
+  "description": "Asanify simplifies HR and automates payroll compliances for small business owners in India and APAC with HR on chatbots such as Slack and Whatsapp.",
+  "one_liner": "Asanify simplifies HR and automates payroll compliances for small business owners in India and APAC with HR on chatbots such as Slack and Whatsapp.",
+  "location": "Kolkata, West Bengal, India",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/asanifyhq",
+    "linkedin": "https://linkedin.com/company/asanify",
+    "facebook": "https://facebook.com/asanify/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/asanify",
+  "api": "/api/companies/asanify.json"
+}

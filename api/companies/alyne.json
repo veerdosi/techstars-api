@@ -1,0 +1,24 @@
+{
+  "name": "Alyne",
+  "slug": "alyne",
+  "website": "https://alyne.com/",
+  "description": "Manage operational risk and technology compliance in one smart solution.",
+  "one_liner": "Manage operational risk and technology compliance in one smart solution.",
+  "location": "Munich, Germany",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/alyne",
+    "linkedin": "https://linkedin.com/company/alyne",
+    "facebook": "https://facebook.com/AlyneDotCom"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/alyne",
+  "api": "/api/companies/alyne.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ringblingz",
+  "slug": "ringblingz",
+  "website": "https://linkedin.com/company/ringblingz",
+  "description": "ringblingz has created a ring, that notifies you (with a light or vibration) when a friend gets in touch.",
+  "one_liner": "ringblingz has created a ring, that notifies you (with a light or vibration) when a friend gets in touch.",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ringblingz",
+    "linkedin": "https://linkedin.com/company/ringblingz",
+    "facebook": "https://facebook.com/ringblingz"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ringblingz",
+  "api": "/api/companies/ringblingz.json"
+}

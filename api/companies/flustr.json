@@ -1,0 +1,24 @@
+{
+  "name": "Flustr",
+  "slug": "flustr",
+  "website": "https://flustr.com/",
+  "description": "A mobile platform for users to compete with friends in a live, short-form video game where spectators control the outcome.",
+  "one_liner": "A mobile platform for users to compete with friends in a live, short-form video game where spectators control the outcome.",
+  "location": "Inglewood, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vfrngpleg1xqw2ifbdj7",
+  "social_media": {
+    "twitter": "https://twitter.com/uvsfriends",
+    "linkedin": "https://linkedin.com/company/flustr",
+    "facebook": "https://facebook.com/flvstr"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/flustr",
+  "api": "/api/companies/flustr.json"
+}

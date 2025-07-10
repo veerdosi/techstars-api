@@ -1,0 +1,22 @@
+{
+  "name": "Higheru",
+  "slug": "higheru",
+  "website": "https://higheru.ai/",
+  "description": "AI-Powered tech Interview Prep for Students",
+  "one_liner": "AI-Powered tech Interview Prep for Students",
+  "location": "Plano, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/higheruai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/higheru",
+  "api": "/api/companies/higheru.json"
+}

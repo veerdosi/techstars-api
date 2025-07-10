@@ -1,0 +1,23 @@
+{
+  "name": "Avemus",
+  "slug": "avemus",
+  "website": "https://linkedin.com/company/avemus",
+  "description": "Revolutionizing agricultural cooperatives",
+  "one_liner": "Revolutionizing agricultural cooperatives",
+  "location": "Tel Aviv, Israel",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/platfarm",
+    "linkedin": "https://linkedin.com/company/avemus"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/avemus",
+  "api": "/api/companies/avemus.json"
+}

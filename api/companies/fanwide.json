@@ -1,0 +1,24 @@
+{
+  "name": "FanWide",
+  "slug": "fanwide",
+  "website": "https://fanwide.com/",
+  "description": "FanWide is the world's largest sports fan club network which helps fans find a local fan club in any city. FanWide's marketplace pairs fan clubs to sports bars.",
+  "one_liner": "FanWide is the world's largest sports fan club network which helps fans find a local fan club in any city. FanWide's marketplace pairs fan clubs to sports bars.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/fanwide",
+    "linkedin": "https://linkedin.com/company/fanwide",
+    "facebook": "https://facebook.com/FanWide"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fanwide",
+  "api": "/api/companies/fanwide.json"
+}

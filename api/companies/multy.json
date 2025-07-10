@@ -1,0 +1,22 @@
+{
+  "name": "Multy",
+  "slug": "multy",
+  "website": "https://multy.dev/",
+  "description": "Multy is a tool that enables developers to deploy and switch to any cloud provider (e.g. AWS, Azure, GCP) with our universal API.",
+  "one_liner": "Multy is a tool that enables developers to deploy and switch to any cloud provider (e.g. AWS, Azure, GCP) with our universal API.",
+  "location": "London, United Kingdom",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/multy-cloud"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/multy",
+  "api": "/api/companies/multy.json"
+}

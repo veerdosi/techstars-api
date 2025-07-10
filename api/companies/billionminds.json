@@ -1,0 +1,24 @@
+{
+  "name": "BillionMinds",
+  "slug": "billionminds",
+  "website": "https://billionminds.com/",
+  "description": "BillionMinds offers a practical approach to building critical, future-proof soft soft skills through bite-sized learn/do experiences.",
+  "one_liner": "BillionMinds offers a practical approach to building critical, future-proof soft soft skills through bite-sized learn/do experiences.",
+  "location": "Tulsa, Oklahoma, United States",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/risingbillion",
+    "linkedin": "https://linkedin.com/company/billionminds",
+    "facebook": "https://facebook.com/risingbillion"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/billionminds",
+  "api": "/api/companies/billionminds.json"
+}

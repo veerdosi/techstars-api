@@ -1,0 +1,24 @@
+{
+  "name": "Serendipia Life",
+  "slug": "serendipia-life",
+  "website": "https://serendipia.life/",
+  "description": "Coliving-as-a-service platform to streamline operations, develop community, and track KPIs.",
+  "one_liner": "Coliving-as-a-service platform to streamline operations, develop community, and track KPIs.",
+  "location": "San Francisco, California, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SerendipiaLife",
+    "linkedin": "https://linkedin.com/company/serendipialife",
+    "facebook": "https://facebook.com/Serendipialife/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/serendipia-life",
+  "api": "/api/companies/serendipia-life.json"
+}

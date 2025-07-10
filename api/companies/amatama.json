@@ -1,0 +1,22 @@
+{
+  "name": "Amatama",
+  "slug": "amatama",
+  "website": "https://amatama.co/",
+  "description": "Amatama is a computing and manufacturing company that researches and develops hierarchical architectures and robot computers.",
+  "one_liner": "Amatama is a computing and manufacturing company that researches and develops hierarchical architectures and robot computers.",
+  "location": "Nagoya, Japan",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/yuichi-horiuchi"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/amatama",
+  "api": "/api/companies/amatama.json"
+}

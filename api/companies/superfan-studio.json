@@ -1,0 +1,24 @@
+{
+  "name": "Superfan Studio",
+  "slug": "superfan-studio",
+  "website": "https://superfan.studio/",
+  "description": "Cameraah is the fastest, user-friendly way to create Augmented Reality (AR) experiences.",
+  "one_liner": "Cameraah is the fastest, user-friendly way to create Augmented Reality (AR) experiences.",
+  "location": "Dallas, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ItsCameraAH",
+    "linkedin": "https://linkedin.com/company/cameraah",
+    "facebook": "https://facebook.com/cameraaah"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/superfan-studio",
+  "api": "/api/companies/superfan-studio.json"
+}

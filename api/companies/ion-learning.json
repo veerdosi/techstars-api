@@ -1,0 +1,24 @@
+{
+  "name": "ion Learning",
+  "slug": "ion-learning",
+  "website": "https://ionlearning.com/",
+  "description": "ion in an enterprise peer-learning platform that develops leaders people want to follow.",
+  "one_liner": "ion in an enterprise peer-learning platform that develops leaders people want to follow.",
+  "location": "Del Mar, California, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/IonLearning",
+    "linkedin": "https://linkedin.com/company/ionlearning",
+    "facebook": "https://facebook.com/ionlearning"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ion-learning",
+  "api": "/api/companies/ion-learning.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Meta Construction Technologies",
+  "slug": "meta-construction-technologies",
+  "website": "https://broadloop.com/",
+  "description": "Broadloop lets you see your virtual fleet on a single platform, regardless of who owns or operates the vehicles in the fleet.",
+  "one_liner": "Broadloop lets you see your virtual fleet on a single platform, regardless of who owns or operates the vehicles in the fleet.",
+  "location": "Sellersburg, Indiana, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/broadloopapp",
+    "linkedin": "https://linkedin.com/company/meta-construction-technologies-llc",
+    "facebook": "https://facebook.com/metactlou"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/meta-construction-technologies",
+  "api": "/api/companies/meta-construction-technologies.json"
+}

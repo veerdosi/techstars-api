@@ -1,0 +1,1406 @@
+[
+  {
+    "name": "DigitalOcean",
+    "website": "https://digitalocean.com/",
+    "description": "Simple, scalable cloud computing solutions built for startups and small-to-midsize businesses.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/digitalocean",
+      "linkedin": "https://linkedin.com/company/digitalocean",
+      "facebook": "https://facebook.com/DigitalOceanCloudHosting"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Cube",
+    "website": "https://cubesoftware.com/",
+    "description": "Cube is intuitive financial planning & analysis software that empowers finance teams & businesses to deliver smarter, faster insights.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CubeSoftwareHQ",
+      "linkedin": "https://linkedin.com/company/cube-software"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Stream",
+    "website": "https://getstream.io/",
+    "description": "API for building activity feeds and chat",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getstream_io",
+      "linkedin": "https://linkedin.com/company/getstream-io",
+      "facebook": "https://facebook.com/getstream.io"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Testlio",
+    "website": "https://testlio.com/",
+    "description": "Testlio is an expert community of verified mobile testers with a platform that seamlessly integrates into your team's development process.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/testlio",
+      "linkedin": "https://linkedin.com/company/testlio",
+      "facebook": "https://facebook.com/testlio"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "AppSheet",
+    "website": "https://appsheet.com/",
+    "description": "AppSheet lets you create mobile apps automatically and instantly",
+    "location": "Bellevue, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/appsheet",
+      "linkedin": "https://linkedin.com/company/4794728",
+      "facebook": "https://facebook.com/appsheet"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Cloudability",
+    "website": "https://cloudability.com/",
+    "description": "Apptio Cloudability is a cloud financial management platform that improves visibility, optimization, governance and more across cloud environments.",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/apptio",
+      "linkedin": "https://linkedin.com/company/cloudability",
+      "facebook": "https://facebook.com/Apptio"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "LISNR",
+    "website": "https://lisnr.com/",
+    "description": "The new communication standard between devices.",
+    "location": "Cincinnati, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lisnr",
+      "linkedin": "https://linkedin.com/company/2787363",
+      "facebook": "https://facebook.com/getlisnr"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Ionic",
+    "website": "https://ionic.io/",
+    "description": "The easiest way for web developers to build top apps for the app stores.",
+    "location": "Madison, Wisconsin, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Ionicframework",
+      "linkedin": "https://linkedin.com/company/drifty-co-",
+      "facebook": "https://facebook.com/ionicframework"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Lynq",
+    "website": "https://lynqme.com/",
+    "description": "Lynq is changing how low-bandwidth data is communicated, allowing devices to transmit data for miles without cellular networks or infrastructure.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lynq_me",
+      "linkedin": "https://linkedin.com/company/lynqme",
+      "facebook": "https://facebook.com/lynqme/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "8base",
+    "website": "https://8base.com/",
+    "description": "Generative AI software development platform and services company.",
+    "location": "Coral Gables, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/8base",
+      "linkedin": "https://linkedin.com/company/8base",
+      "facebook": "https://facebook.com/8baseApp/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Sequel",
+    "website": "https://introvoke.com/",
+    "description": "Introvoke provides white label technology that powers virtual connections, hybrid live events and elevated networking in a branded experience.",
+    "location": "San Jose, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/introvoke",
+      "linkedin": "https://linkedin.com/company/sequelio",
+      "facebook": "https://facebook.com/introvoke/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Ninox",
+    "website": "https://ninoxdb.de/",
+    "description": "We empower any User to create business Apps for teams",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/NinoxDB",
+      "linkedin": "https://linkedin.com/company/ninox-software-gmbh",
+      "facebook": "https://facebook.com/ninoxdb"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "StopLight",
+    "website": "https://stoplight.io/",
+    "description": "Helping developers build, test, and improve their web APIs.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/stoplightio",
+      "linkedin": "https://linkedin.com/company/stoplight",
+      "facebook": "https://facebook.com/stoplightio/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Tenzo",
+    "website": "https://gotenzo.com/",
+    "description": "Bringing actionable business insight to retailers",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/tenzoinc",
+      "linkedin": "https://linkedin.com/company/tenzo-inc.",
+      "facebook": "https://facebook.com/tenzoinc/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Shippable",
+    "website": "https://shippable.com/",
+    "description": "Ship code faster",
+    "location": "Bellevue, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/BeShippable",
+      "linkedin": "https://linkedin.com/company/shippable",
+      "facebook": "https://facebook.com/beShippable"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Unmade",
+    "website": "https://unmade.com/",
+    "description": "Knyttan is a vertically integrated fashion brand whose unique technology allows it to offer more designs and respond to trends faster than any existing retailer.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/unmadeworks",
+      "linkedin": "https://linkedin.com/company/unmade-ltd",
+      "facebook": "https://facebook.com/UMdStudioLondon/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "echo3D",
+    "website": "https://echo3d.co/",
+    "description": "Cloud platform for augmented and virtual reality (AR/VR) apps that provides tools & server-side infrastructure to help companies build better 3D apps.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/_echoAR_",
+      "linkedin": "https://linkedin.com/company/echo3D",
+      "facebook": "https://facebook.com/echo3DInc/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "AkashX",
+    "website": "https://akashx.cloud/",
+    "description": "AkashX specilizes in building big data engine to converges the entire BI/Analytics/Data Engineering stack into a single platform.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vgfkow6hvzd80fvdx8ve",
+    "location": "Sheridan, Wyoming, United States",
+    "social_media": {},
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Bloomfilter",
+    "website": "https://thebloomfilter.com/",
+    "description": "Helping software leaders leverage an organizations's existing data to build advanced analytics and AI to drive real-time activities and project success.",
+    "location": "Cleveland, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Bloomfilter1",
+      "linkedin": "https://linkedin.com/company/bloomfilter-inc"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Wolf",
+    "website": "https://fromwolf.com/",
+    "description": "Enables entrepreneurs and staffing companies to launch their own niche talent marketplace.",
+    "location": "Potomac, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/on-demand-staffing-software"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "qomodo",
+    "website": "https://qomodo.io/",
+    "description": "qomodo helps to prevent cyber attacks and focus on getting their products to market.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/qomodofintech"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Cast Corporation",
+    "website": "https://cast.app/",
+    "description": "Cast scales post-sales using avatar-based Virtual Customer Success Managers to drive customer health, adoption, & revenue expansion.",
+    "location": "San Carlos, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/1295476419212918784",
+      "linkedin": "https://linkedin.com/company/cast-dot-app",
+      "facebook": "https://facebook.com/joincast.co/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Rely",
+    "website": "https://rely.io/",
+    "description": "Rely.io is the most comprehensive Site Reliability Engineering (SRE) platform designed to help software teams monitor and optimize software reliability, without sacrificing innovation and new feature development.",
+    "location": "Lisbon, Portugal",
+    "social_media": {
+      "twitter": "https://twitter.com/detechAI",
+      "linkedin": "https://linkedin.com/company/detech-ai"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "TempoIQ",
+    "website": "https://tempoiq.com/",
+    "description": "The backend for sensor analytics",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tempo_IQ",
+      "linkedin": "https://linkedin.com/company/tempoiq",
+      "facebook": "https://facebook.com/TempoIQ-Inc-1592958947597543/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Codiga",
+    "website": "https://codiga.io/",
+    "description": "Grammarly for code, helping developers write better code faster.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/code_inspector",
+      "linkedin": "https://linkedin.com/company/code-inspector",
+      "facebook": "https://facebook.com/getcodiga"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "CodSpeed",
+    "website": "https://codspeed.io/",
+    "description": "CodSpeed is a software performance optimization tool that allows engineering teams to automatically measure and improve performance changes of code before it is deployed to production.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/codspeedhq",
+      "linkedin": "https://linkedin.com/company/codspeed"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Cemento",
+    "website": "https://cemento.ai/",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cemento-ai",
+      "facebook": "https://facebook.com/cementoai/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "TakeShape",
+    "website": "https://takeshape.io/",
+    "description": "A stress-free Headless CMS, GraphQL API, and Static Site Generator to help you get your projects done.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TakeShapeIO",
+      "linkedin": "https://linkedin.com/company/takeshape-inc.",
+      "facebook": "https://facebook.com/takeshapeio"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Mutable",
+    "website": "https://mutable.io/",
+    "description": "Microservices platform that streamlines the development process",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mutable",
+      "linkedin": "https://linkedin.com/in/mario-in%C3%A1cio-9b7a75254",
+      "facebook": "https://facebook.com/mutableio"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Ankra AB",
+    "website": "https://ankra.io/",
+    "description": "End-to-end developer platform",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ankra"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Lean Startup Machine",
+    "website": "https://javelin.com/",
+    "description": "Intensive lean startup workshop",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lean",
+      "linkedin": "https://linkedin.com/company/1103516",
+      "facebook": "https://facebook.com/leanstartupmachine"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "MetricsHub",
+    "website": "https://metricshub.com/",
+    "description": "Active Cloud Monitoring",
+    "location": "Bellevue, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/metricshub",
+      "linkedin": "https://linkedin.com/company/2746419",
+      "facebook": "https://facebook.com/metricshub"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Multy",
+    "website": "https://multy.dev/",
+    "description": "Multy is a tool that enables developers to deploy and switch to any cloud provider (e.g. AWS, Azure, GCP) with our universal API.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/multy-cloud"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "BestDefense",
+    "website": "https://bestdefense.io/",
+    "description": "We stress test your infrastructure abilities to scale, evaluate your security posture through automated vulnerability and pen tests, and track/alert network threats in real-time.",
+    "location": "Clearwater, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bestdefense-inc"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Julius Technologies",
+    "website": "https://juliustech.co/",
+    "description": "Julius helps enterprises build transparent, scalable, and adaptable Data & ML pipelines through the power of low code graph computing.",
+    "location": "Old Tappan, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/julius-technologies"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "TawkitAI",
+    "website": "https://tawkit.ai/",
+    "description": "CopilotKit: open-source copilot infrastructure for productivity applications",
+    "location": "Issaquah, Washington, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tawkit-ai"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Chi AI",
+    "website": "https://thechi.app/",
+    "description": "Actionable code risk intelligence for Microservices",
+    "location": "Alpharetta, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/chi-ai"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Chassy",
+    "website": "https://chassy.io/",
+    "description": "Chassi helps robotics and embedded companies ship software 10x faster and cheaper by automating their entire development workflow",
+    "location": "Renton, Washington, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/chassi-inc"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "OB2 AI",
+    "website": "https://ob2.ai/",
+    "description": "OB2.AI, founded by former Cisco FedRAMP security engineers, provides OpsBeacon XSIAM, an extended security intelligence and automation management platform that gives businesses clear visibility and control over their IT infrastructure. Using AI and automation, it quickly analyzes large amounts of data from servers, devices, and networks and responds to cyber threats in seconds.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/opsbeacon",
+      "linkedin": "https://linkedin.com/company/ob2ai"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Buildstash",
+    "website": "https://buildstash.com/",
+    "description": "The build-to-release manager app and game developers have been dreaming of. Automated build archival, simple sharing with your team, and seamless deployment.",
+    "location": "Glasgow, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/buildstash",
+      "linkedin": "https://linkedin.com/company/buildstash"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Torque",
+    "website": "https://torque.cloud/",
+    "description": "DevOps-as-a-Service at scale",
+    "location": "Falmouth, Maine, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/theturningforce",
+      "linkedin": "https://linkedin.com/company/torque-tech",
+      "facebook": "https://facebook.com/TorqueCorp/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Invomatic",
+    "website": "https://innapsis.com.co/",
+    "description": "Helping companies transition from paper to electronic invoicing in Latam, reducing costs and saving time while complying with local regulation",
+    "location": "Bogotá, Colombia",
+    "social_media": {
+      "twitter": "https://twitter.com/invomatic",
+      "linkedin": "https://linkedin.com/company/appflow",
+      "facebook": "https://facebook.com/appflow1"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "CyDeploy",
+    "website": "https://cydeploy.com/",
+    "description": "An intelligent, automated testing system that demonstrates how an update will affect your system, giving you the control to maintain cybersecurity and cybersecurity compliance while avoiding costly workforce delays.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ck8yf6zxewq13isndcrz",
+    "location": "Laurel, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cydeploy"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Tether EV",
+    "website": "https://tetherev.io/",
+    "description": "Software that turns Electric Vehicles into giant virtual batteries.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xo3necd1ycsptdes6auz",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tetherev"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "HeronAI",
+    "website": "https://heron-ai.com/",
+    "description": "Data analytics for all, unlocking data's potential",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/heronai"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Cloudoor",
+    "website": "https://cloudoor.com/",
+    "description": "For only $396/month, Cloudoor manages all your Cloud/DevOps needs, so you can concentrate on business growth and let developers code.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cloudoor"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "TestSprite",
+    "website": "https://testsprite.com/",
+    "description": "SaaS, AI, Automated Testing, Dev tools",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/testsprite"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "aXumption",
+    "website": "https://axumption.com/",
+    "description": "Uncover cloud inefficiencies and optimize costs using architecture insights",
+    "location": "Bogotá, Colombia",
+    "social_media": {
+      "twitter": "https://twitter.com/axumption_",
+      "linkedin": "https://linkedin.com/company/axumption"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "SanityDesk",
+    "website": "https://sanitydesk.com/",
+    "description": "SanityDesk is an all-in-one growth platform for the 100M+ small businesses that sell high-value services (e.g. coaches, consultants, advisors).",
+    "location": "Kyiv, Ukraine",
+    "social_media": {
+      "twitter": "https://twitter.com/sanitydesk",
+      "linkedin": "https://linkedin.com/company/sanitydesk",
+      "facebook": "https://facebook.com/sanitydesk.com"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Perleybrook",
+    "website": "https://perleybrook.com/",
+    "description": "Perleybrook makes Flagman and Industry 5.0 AI Powered Computer Vision based Industry Safety Solution Platform.",
+    "location": "Stratham, New Hampshire, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/perleybrook-labs-llc",
+      "facebook": "https://facebook.com/perleybrook"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Invendor",
+    "website": "https://invendor.com/",
+    "description": "Self-checkout sites for industrial distributors to sell spare parts and consumables at manufacturing locations",
+    "location": "Lehmja küla, Estonia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/invendor",
+      "facebook": "https://facebook.com/Scanbrobusiness"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Snapshot Reviews",
+    "website": "https://snapshot.reviews/",
+    "description": "Snapshot Reviews is an all-in-one platform that delivers unmatched visibility into engineering performance. By pulling data from tools like GitHub, Jira, and more, it helps leaders manage teams, identify risks early, and keep projects on track. With actionable insights and a focus on efficiency, Snapshot Reviews empowers teams to work smarter and hit every deadline.",
+    "location": "Newark, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/snapshot-reviews"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "HealthBlox",
+    "website": "https://healthblox.care/",
+    "description": "For healthcare companies seeking deeper integrations with their customers, we provide tools for building EHR-centric pathways for care orchestration, patient management and value delivery. By doing so, we are trying to build the largest, horizontally-scaled repository of structured Health Data.",
+    "location": "Beaverton, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/healthblox"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "ByteNite",
+    "website": "https://bytenite.com/",
+    "description": "ByteNite empowers busy developer teams with a fully-managed serverless container platform, streamlining cloud infrastructure to save 50% in time and cost. Our solution accelerates processes across AI inference, ETL, and more, enhancing performance and efficiency.",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bytenite2",
+      "linkedin": "https://linkedin.com/company/bytenite",
+      "facebook": "https://facebook.com/bytenite2"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "NanoAPI",
+    "website": "https://nanoapi.io/",
+    "description": "NanoAPI is building the #1 refactoring tool for large codebases through automatically splitting APIs apart into microservices.",
+    "location": "Amsterdam, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nano-api"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Incredible",
+    "website": "https://getincredible.com/",
+    "description": "Incredible is a credit repayments platform that leverages AI & open finance to track, pay and reduce the cost of borrowing.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/incredibletechnologies",
+      "facebook": "https://facebook.com/getincredibleApp"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "CREWASIS",
+    "website": "https://crewasis.ai/",
+    "description": "Crewasis is a marketing intelligence platform (MIP) that is on a mission to find data-driven insights that change the world.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/crewasis",
+      "linkedin": "https://linkedin.com/company/crewasis",
+      "facebook": "https://facebook.com/crewasis/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "ColliMate Space",
+    "website": "https://collimatespace.com/",
+    "description": "Building a next gen ground-space operations software, using multi-modal AI/ML based systems.",
+    "location": "Santa Clara, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/collimate-space"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Ekei",
+    "website": "https://ekei.net/",
+    "description": "Ekei is revolutionizing logistics with the Supply Cloud: a global, provider-agnostic platform unifying freight forwarding and fulfillment. By leveraging automation, AI-driven optimization, and decentralized data sharing, we slash costs, reduce emissions, and enable seamless collaboration across the entire supply chain.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ekeigroup"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "axem",
+    "website": "https://axemsolutions.io/",
+    "description": "Speeding up embedded software development: open-source Development Environment Manager",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/axemsolutions"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Litlyx",
+    "website": "https://litlyx.com/",
+    "description": "Cookie-less, AI-powered website analytics platform. Get started in 30 seconds from signup.",
+    "location": "Rome, Rome, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/litlyx"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Konnected",
+    "website": "https://konnectedwithcare.us/",
+    "description": "Konnected with Care is a comprehensive platform that helps organizations and government agencies serving youth and families stay connected, providing them with vital data and resources to save time, money, and lives.",
+    "location": "Ann Arbor, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/KonnectedXCare",
+      "linkedin": "https://linkedin.com/company/konnected-with-care"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "EarthABC",
+    "website": "https://earthabc.com/",
+    "description": "Go green in days, not years.",
+    "location": "Brunswick, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EARTHABCINC",
+      "linkedin": "https://linkedin.com/company/earthabc"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "clever Offsets",
+    "website": "https://cleveroffsets.com/",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Clever",
+      "linkedin": "https://linkedin.com/company/cleveroffsets",
+      "facebook": "https://facebook.com/clever"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Intuos",
+    "website": "https://intuos.it/",
+    "description": "We bring digitization and data driven decision to the General Aviation operators, to transform asset management and increase safety and cost efficiency.\r\nWe offer a Digital Service Platform based on software, IoT hardware and ML algorithm solutions to man",
+    "location": "L Aquila, L'Aquila, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/intuos-srl"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Impact AI",
+    "website": "https://impact.ai/",
+    "description": "Impact AI offers a modular AIProductOps platform that empowers teams to efficiently manage, govern, and align their AI products, ensuring they deliver maximum impact.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/impact-ai-ecosystem"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Buglance DMCC",
+    "website": "https://buglance.com/",
+    "description": "We are a crowd testing company, we connect software testers with software development companies all over the world. We test mobile apps, games, and websites.",
+    "location": "Dubai, United Arab Emirates",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/13307743",
+      "facebook": "https://facebook.com/buglance"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Scaffolded",
+    "website": "https://scaffolded.io/",
+    "description": "Scaffold Ed is building the last mile in K-12 data",
+    "location": "Newtown Square, Pennsylvania, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/scaffold-ed"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "CloudNine Augmented Intelligence",
+    "website": "https://cloudnineai.com/",
+    "description": "Enterprise Knowledge Management System that secures sensitive data such as PII for data privacy, governance, risk, and compliance",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cloudnineaugmentedintelligence",
+      "facebook": "https://facebook.com/cloudnineai.com"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Brightlines",
+    "website": "https://brightlin.es/",
+    "description": "Brightlines is a B2B SaaS platform that specializes in the removal of personal information from the internet to bolster the privacy defenses of individuals and organizations.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/brightlin_es",
+      "linkedin": "https://linkedin.com/company/brightlin-es"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Acrylic",
+    "website": "https://acrylic.la/",
+    "description": "Acrylic.LA is a digital music marketplace for SYNC where ad agencies, content creators, and fans, leverage indie ARTIST brands like never before.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/acrylic-inc"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Renderro",
+    "website": "https://renderro.com/",
+    "description": "A high-performance cloud desktop for everyday video editing, graphic design, and animation tasks.",
+    "location": "Warsaw, Poland",
+    "social_media": {
+      "twitter": "https://twitter.com/Renderro1",
+      "linkedin": "https://linkedin.com/company/renderro",
+      "facebook": "https://facebook.com/RenderroCloud/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Onboardbase",
+    "website": "https://onboardbase.com/",
+    "description": "For dev teams with secret chao anxiety, Onboardbase makes it easy to work with engineers and infrastructure without worrying about security risk.",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/onboardbase",
+      "linkedin": "https://linkedin.com/company/onboardbase"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "LZero Analytics",
+    "website": "https://lzeroanalytics.com/",
+    "description": "LZero is an enterprise-grade, testnet-as-a-service platform that revolutionizes the development and testing of on-chain applications",
+    "location": "Southampton, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/91644729"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Joggr",
+    "website": "https://joggr.io/",
+    "description": "Joggr makes engineering documentation effortless by updating your documentation every time your code changes.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/joggrdocs",
+      "linkedin": "https://linkedin.com/company/joggr"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Bytebase",
+    "website": "https://bytebase.io/",
+    "description": "Stashpad is the developer notepad. It's the fast and easy way to stay organized as you work without breaking flow.",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/stashpadapp",
+      "linkedin": "https://linkedin.com/company/stashpad"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Atom Universe",
+    "website": "https://atomstars.com/",
+    "description": "Metaverse-as-a-Service offering brands to launch their own metaverse platform to engage their user in breathtaking white label virtual worlds",
+    "location": "Woking, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/AtomRepublic",
+      "linkedin": "https://linkedin.com/company/atom-republic",
+      "facebook": "https://facebook.com/AtomRepublic"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Kwikkart",
+    "website": "https://kwikkart.co/",
+    "description": "kwikkart is an AI-powered solution that helps grocery delivery drivers (gig workers) and stores increase delivery efficiency and improve e-commerce margins 4-6% by automating the in-store checkout process with a computer-vision-powered shopping cart attac",
+    "location": "Berkeley, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kwikkart"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Steno",
+    "website": "https://steno.ai/",
+    "description": "We provide secure, private, custom conversational AI solutions that transform content into engaging, personalized user experiences. Our platform can be deployed within a company's infrastructure or as a fully managed SaaS solution, enabling businesses to scale efficiently and increase revenue while retaining full control over their data.",
+    "location": "Covina, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/steno_ai",
+      "linkedin": "https://linkedin.com/company/stenoai"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Site Bionics",
+    "website": "https://sitebionics.com/",
+    "description": "The Google Analytics for physical spaces - For retailers that feel pressure to optimize their stores' efficiency, we provide a platform to iteratively improve the use of their space and their operations.",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/site-bionics"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "General Folders",
+    "website": "https://twitter.com/generalfolders",
+    "description": "General Folders is a simple and secure way for business partners to exchange data and collaborate.",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/generalfolders",
+      "linkedin": "https://linkedin.com/company/generalfolders"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Tromml",
+    "website": "https://tromml.com/",
+    "description": "Tromml reduces friction in implementing data-driven insights for eCommerce sellers, starting with auto parts and accessories.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tromml"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "PipeOps",
+    "website": "https://pipeops.io/",
+    "description": "PipeOps is a no-code platform that makes it super easy for software engineers and startups without Cloud expertise to setup, manage and deploy their apps & services into their cloud infrastructure.",
+    "location": "Lekki, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/PipeOps",
+      "linkedin": "https://linkedin.com/company/pipeops"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Munivestor",
+    "website": "https://munivestor.io/",
+    "description": "Munivestor is a digital securities marketplace created for the purpose of helping cities cultivate and execute Municipal Non-Fungible Tokens (\"Muni NFTs\").",
+    "location": "New Orleans, Louisiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Munivestor_",
+      "linkedin": "https://linkedin.com/company/munivestor",
+      "facebook": "https://facebook.com/Munivestor"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "dev-docs",
+    "website": "https://dev-docs.dev/",
+    "description": "A developer-first approach to documentation",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/a",
+      "linkedin": "https://linkedin.com/company/devdocs",
+      "facebook": "https://facebook.com/na"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Parallux",
+    "website": "https://parallux.co/",
+    "description": "Parallux makes it easy for brands and creators to design, build, and host 3D virtual spaces in the metaverse.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/9c74999fc0acb0c49199",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/paralluxco",
+      "linkedin": "https://linkedin.com/company/parallux",
+      "facebook": "https://facebook.com/parallux/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "ROBOWEB Corp",
+    "website": "https://roboamp.com/",
+    "description": "We increase conversion rates and improve user experience by making any website load in one second or less on mobile devices.",
+    "location": "Rockwall, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/_ROBOAMP_",
+      "linkedin": "https://linkedin.com/company/roboamp",
+      "facebook": "https://facebook.com/roboAMP/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Cloud 66",
+    "website": "https://cloud66.com/",
+    "description": "DevOps as a Service on any cloud",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/cloud66",
+      "linkedin": "https://linkedin.com/company/cloud-66",
+      "facebook": "https://facebook.com/pages/Cloud-66/330826340329550"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "mokSa AI",
+    "website": "https://moksa.ai/",
+    "description": "mokSa.ai is an AI-powered video surveillance and audit platform that enhances small business security and efficiency.",
+    "location": "Sterling Heights, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MoksaAi",
+      "linkedin": "https://linkedin.com/company/moksa-ai",
+      "facebook": "https://facebook.com/mokSa2021"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Ceemo",
+    "website": "https://perfectlypitched.co/",
+    "description": "At Perfectly Pitched, we're automating our pitch methods that break past bias & get founders funded, raising $10m in the past year.",
+    "location": "Sterling, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PitchedDC",
+      "linkedin": "https://linkedin.com/company/perfectlypitched"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Runbear",
+    "website": "https://plugbear.io/",
+    "description": "For companies that have difficulties integrating their own LLM Apps into work processes, we provide no-/low-code software to integrate the LLM Apps into daily work tools, such as Slack or HubSpot.",
+    "location": "Seoul, South Korea",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/runbear"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "MV Sales&Logistics",
+    "website": "https://mvsalesandlogistics.com/",
+    "description": "Live a unique experience automating and controlling through AI tools your field sales and logistics teams with MV sales & logistics platform.",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/movil-ventas"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Jimo",
+    "website": "https://usejimo.com/",
+    "description": "Jimo enables product teams to connect and engage directly with end users during all aspects of the product life cycle including ideation and design via a powerful notification center and smart newsfeed.",
+    "location": "Cachan, France",
+    "social_media": {
+      "twitter": "https://twitter.com/usejimo",
+      "linkedin": "https://linkedin.com/company/71515486"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Blind Insight",
+    "website": "https://blindinsight.com/",
+    "description": "Blind Insight acts as a privacy layer between sensitive data and the applications that run on it. Through the power of searchable encryption and the Blind Proxy, data remains encrypted at all times, even during processing and analysis. So you can get the insights you need without worrying about data exposure or leakage.",
+    "location": "Venice, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/blind-insight"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "MinersAI",
+    "website": "https://minersai.com/",
+    "description": "Developer of AI based geologic datasets designed to help the minerals exploration industry cope with the energy transition.",
+    "location": "Lafayette, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/minersai"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "DoDocs",
+    "website": "https://dodocs.ai/",
+    "description": "APIs and AI agent for inventory and data base updates automation for restaurants, hotels, logistics, accounting and others",
+    "location": "Dubai, Dubai, United Arab Emirates",
+    "social_media": {
+      "twitter": "https://twitter.com/AiDodocs11493",
+      "linkedin": "https://linkedin.com/company/dodocsai"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "UXTesting",
+    "website": "https://uxtesting.io/",
+    "description": "UXTesting Inc. (UXTesting.io) is the leading remote user testing platform. We firmly believe that our Business Intelligence (BI) platform provides corporates with unfair market insights to achieve better UX and gain a competitive advantage. You can get us",
+    "location": "Menlo Park, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/UXTestingIO",
+      "linkedin": "https://linkedin.com/company/uxtesting-inc-",
+      "facebook": "https://facebook.com/UXTesting.io"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "CubeNexus",
+    "website": "https://cubenexus.xyz/",
+    "description": "CubeNexus is a software startup developing innovative solutions for data monetization and geolocation. Our flagship B2B SaaS product enables companies to monetize dead or unused data by geocoding it with unparalleled precision. The software organizes data into a time-based, volumetric location system, allowing businesses to extract actionable insights from previously underutilized datasets.",
+    "location": "Columbus, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cubenexus"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Switch",
+    "website": "https://myswitchapp.com/",
+    "description": "Switch encourages users to make impactful and intentional connections that transcend the swipe culture of modern love.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/switch_app_%20(same%20on%20Instagram)",
+      "linkedin": "https://linkedin.com/company/myswitchapp"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Playpower Labs",
+    "website": "https://playpowerlabs.com/",
+    "description": "Making math interactive and engaging",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/playpower",
+      "linkedin": "https://linkedin.com/company/playpower-labs",
+      "facebook": "https://facebook.com/Playpower"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Codeanywhere",
+    "website": "https://codeanywhere.com/",
+    "description": "A collaboration platform for developers",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/codeanywhere",
+      "linkedin": "https://linkedin.com/company/codeanywhere-inc-",
+      "facebook": "https://facebook.com/CodeAnywhere"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Datapath",
+    "website": "https://datapath.io/",
+    "description": "Simple control of network routing for DevOps",
+    "location": "Mainz, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/datapath_io",
+      "linkedin": "https://linkedin.com/company/datapath-io",
+      "facebook": "https://facebook.com/datapath.io"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Section",
+    "website": "https://section.io/",
+    "description": "section.io is a new class of content delivery network built for agile teams",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sectionio",
+      "linkedin": "https://linkedin.com/company/section_io",
+      "facebook": "https://facebook.com/wearesection"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Touca",
+    "website": "https://linkedin.com/company/touca",
+    "description": "Continuous Regression Testing for Engineering Teams",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/trytouca",
+      "linkedin": "https://linkedin.com/company/touca"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "SteadyBricks",
+    "website": "https://linkedin.com/company/steadybrickshq",
+    "description": "Steadybricks is a cloud cost, and cloud-carbon-footprint reduction tool for fintechs and financial services.",
+    "location": "Dublin, Ireland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/steadybrickshq"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Retentive",
+    "website": "https://linkedin.com/company/showcasejobs",
+    "description": "Showcase makes dense business videos skimmable with chapters, transcripts and shareable highlights. They enable enterprises to own their customer relationships by bringing a suite of video tools into their existing environments.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/showcase_jobs",
+      "linkedin": "https://linkedin.com/company/showcasejobs",
+      "facebook": "https://facebook.com/showcasejobsnyc/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "ReplySend",
+    "website": "https://linkedin.com/company/replysend",
+    "description": "ReplySend is a company developing software and tools for email.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/replysend",
+      "linkedin": "https://linkedin.com/company/replysend",
+      "facebook": "https://facebook.com/pages/Okdidit-Inc/255122547908963"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "NeveMind",
+    "website": "https://linkedin.com/company/86819039",
+    "description": "The answering machine of the 21st century, Nevemind is a desktop application that automatically replies to all your emails and messages.",
+    "location": "Oslo, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/86819039"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Mindfire Technology",
+    "website": "https://linkedin.com/company/mindfire-technology",
+    "description": "For companies that have huge software backlogs, we supply highly skilled engineering talent. We write custom web systems and mobile apps.",
+    "location": "Salt Lake City, Utah, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MindfireTech",
+      "linkedin": "https://linkedin.com/company/mindfire-technology",
+      "facebook": "https://facebook.com/MindfireTechnology/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Loom Network",
+    "website": "https://linkedin.com/company/18292138",
+    "description": "Loom Network is a network of application-specific sidechains for Ethereum where developers can run their decentralized applications at scale.",
+    "location": "Bangkok, Thailand",
+    "social_media": {
+      "twitter": "https://twitter.com/loomnetwork",
+      "linkedin": "https://linkedin.com/company/18292138",
+      "facebook": "https://facebook.com/loomxnetwork/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "InboxFever",
+    "website": "https://linkedin.com/company/veezyon-corporation",
+    "description": "Platform for email powered apps",
+    "location": "Santa Fe, New Mexico, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/veezyon",
+      "linkedin": "https://linkedin.com/company/veezyon-corporation",
+      "facebook": "https://facebook.com/InboxFever"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Factor",
+    "website": "https://linkedin.com/company/factortechnology",
+    "description": "Factor.io makes it easy for engineering",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/factor_io",
+      "linkedin": "https://linkedin.com/company/factortechnology"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Devver",
+    "website": "https://linkedin.com/company/devver-inc.",
+    "description": "Ruby testing tools",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/devver",
+      "linkedin": "https://linkedin.com/company/devver-inc."
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Data Everywhere",
+    "website": "https://linkedin.com/company/3530070",
+    "description": "Share data securely between spreadsheets",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/dataeverywhere",
+      "linkedin": "https://linkedin.com/company/3530070",
+      "facebook": "https://facebook.com/dataeverywhere"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "Cucumber Tony",
+    "website": "https://linkedin.com/company/cucumber-tony",
+    "description": "Using Machine Learning to Solve WiFi Problems",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/cucumbertony",
+      "linkedin": "https://linkedin.com/company/cucumber-tony",
+      "facebook": "https://facebook.com/cucumbertony/"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  },
+  {
+    "name": "nFlux",
+    "website": "https://linkedin.com/company/nflux",
+    "description": "The Ask Engine that can contextually understand the content of user's data enabling them to quickly make sense of this massive ocean of unstructured data.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nfluxAI",
+      "linkedin": "https://linkedin.com/company/nflux"
+    },
+    "industry": "Cloudtech and DevOps",
+    "industry_slug": "cloudtech-devops"
+  }
+]

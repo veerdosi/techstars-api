@@ -1,0 +1,23 @@
+{
+  "name": "Elegus Technologies",
+  "slug": "elegus-technologies",
+  "website": "https://elegustech.com/",
+  "description": "Elegus is commercializing Kevlar nanotechnology that can enable safer, longer lasting batteries.",
+  "one_liner": "Elegus is commercializing Kevlar nanotechnology that can enable safer, longer lasting batteries.",
+  "location": "Ann Arbor, Michigan, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/elegustech",
+    "linkedin": "https://linkedin.com/company/elegus-technologies"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/elegus-technologies",
+  "api": "/api/companies/elegus-technologies.json"
+}

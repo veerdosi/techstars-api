@@ -1,0 +1,24 @@
+{
+  "name": "Leaf Global Fintech",
+  "slug": "leaf-global-fintech",
+  "website": "https://leafglobalfintech.com/",
+  "description": "Leaf helps refugees safely store and transport assets across borders",
+  "one_liner": "Leaf helps refugees safely store and transport assets across borders",
+  "location": "Lewes, Delaware, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/LeafGlobalTech/",
+    "linkedin": "https://linkedin.com/company/leaf-global-fintech",
+    "facebook": "https://facebook.com/leafglobalfintech/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/leaf-global-fintech",
+  "api": "/api/companies/leaf-global-fintech.json"
+}

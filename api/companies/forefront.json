@@ -1,0 +1,24 @@
+{
+  "name": "Forefront",
+  "slug": "forefront",
+  "website": "https://linkedin.com/company/forefront-analytics",
+  "description": "Our human-like AI recruiting assistants like Toni and Lee help employers hire top Gen-Z talent.",
+  "one_liner": "Our human-like AI recruiting assistants like Toni and Lee help employers hire top Gen-Z talent.",
+  "location": "Lindenhurst, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/_Forefront",
+    "linkedin": "https://linkedin.com/company/forefront-analytics",
+    "facebook": "https://facebook.com/MyForefront/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/forefront",
+  "api": "/api/companies/forefront.json"
+}

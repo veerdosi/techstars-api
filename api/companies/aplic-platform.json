@@ -1,0 +1,24 @@
+{
+  "name": "Aplic Platform",
+  "slug": "aplic-platform",
+  "website": "https://aplic.io/",
+  "description": "Solving global higher education's financial crisis by matching universities and colleges with students seeking study abroad opportunities",
+  "one_liner": "Solving global higher education's financial crisis by matching universities and colleges with students seeking study abroad opportunities",
+  "location": "North Vancouver, British Columbia, Canada",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/aplicplatform",
+    "linkedin": "https://linkedin.com/company/aplicplatform",
+    "facebook": "https://facebook.com/aplic.io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/aplic-platform",
+  "api": "/api/companies/aplic-platform.json"
+}

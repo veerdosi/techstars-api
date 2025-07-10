@@ -1,0 +1,22 @@
+{
+  "name": "Crow Industries",
+  "slug": "crow-industries",
+  "website": "https://crowindustriesinc.com/",
+  "description": "Critical Minerals producers cannot keep pace with the current and future resources demands for the Renewable Energy Transition. We are building the fully autonomous robotic laborforce that will allow these producers to exceed production targets while keep",
+  "one_liner": "Critical Minerals producers cannot keep pace with the current and future resources demands for the Renewable Energy Transition. We are building the fully autonomous robotic laborforce that will allow these producers to exceed production targets while keep",
+  "location": "Phoenix, Arizona, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xdwzfupg75r9clgq4l0x",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/crowindustriesinc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/crow-industries",
+  "api": "/api/companies/crow-industries.json"
+}

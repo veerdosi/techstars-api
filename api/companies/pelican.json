@@ -1,0 +1,24 @@
+{
+  "name": "Pelican",
+  "slug": "pelican",
+  "website": "https://pelicaninvests.com/",
+  "description": "Pelican is a platform that helps families save for education. Our vision is to help families navigate everything when it comes to saving for your family's future.",
+  "one_liner": "Pelican is a platform that helps families save for education. Our vision is to help families navigate everything when it comes to saving for your family's future.",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/pelicaninvests",
+    "linkedin": "https://linkedin.com/company/pelicaninvests",
+    "facebook": "https://facebook.com/PelicanInvests/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pelican",
+  "api": "/api/companies/pelican.json"
+}

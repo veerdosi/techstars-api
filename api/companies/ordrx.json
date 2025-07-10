@@ -1,0 +1,24 @@
+{
+  "name": "Ordrx",
+  "slug": "ordrx",
+  "website": "https://linkedin.com/company/ordr.in-networks",
+  "description": "Universal restaurant ecommerce platform",
+  "one_liner": "Universal restaurant ecommerce platform",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ordrin",
+    "linkedin": "https://linkedin.com/company/ordr.in-networks",
+    "facebook": "https://facebook.com/Ordrin"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ordrx",
+  "api": "/api/companies/ordrx.json"
+}

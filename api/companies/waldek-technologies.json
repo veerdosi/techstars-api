@@ -1,0 +1,22 @@
+{
+  "name": "Waldek Technologies",
+  "slug": "waldek-technologies",
+  "website": "https://gauzilla.xyz/",
+  "description": "Waldek Technologies is developing Gauzilla Pro, the #1 AI-powered & no-code web editor for 3D/4D digital twins. Gauzilla utilizes the latest radiance field technology and serverless edge-AI that runs directly in a web browser.",
+  "one_liner": "Waldek Technologies is developing Gauzilla Pro, the #1 AI-powered & no-code web editor for 3D/4D digital twins. Gauzilla utilizes the latest radiance field technology and serverless edge-AI that runs directly in a web browser.",
+  "location": "Tallinn, Estonia",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/waldek-technologies"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/waldek-technologies",
+  "api": "/api/companies/waldek-technologies.json"
+}

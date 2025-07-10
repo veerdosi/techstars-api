@@ -1,0 +1,24 @@
+{
+  "name": "Kneevoice",
+  "slug": "kneevoice",
+  "website": "https://kneevoice.com/",
+  "description": "A digital patellofemoral audio-arthrography system to promptly and efficiently achieve diagnostic accuracy.",
+  "one_liner": "A digital patellofemoral audio-arthrography system to promptly and efficiently achieve diagnostic accuracy.",
+  "location": "Santa Monica, California, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wktafgpmxrqxxwxfvzqx",
+  "social_media": {
+    "twitter": "https://twitter.com/kneevoice",
+    "linkedin": "https://linkedin.com/company/kneevoice",
+    "facebook": "https://facebook.com/knee.voice"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kneevoice",
+  "api": "/api/companies/kneevoice.json"
+}

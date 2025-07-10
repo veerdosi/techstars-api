@@ -1,0 +1,24 @@
+{
+  "name": "GO See The City",
+  "slug": "go-see-the-city",
+  "website": "https://goseethecity.com/",
+  "description": "GO See The City is a food waste reduction platform that connects surplus food from restaurants to consumers & nonprofits. It aims to be used as a catalyst to assist the USDA & EPA in reducing food waste by 50% by 2030. The platform includes a mobile app,",
+  "one_liner": "GO See The City is a food waste reduction platform that connects surplus food from restaurants to consumers & nonprofits. It aims to be used as a catalyst to assist the USDA & EPA in reducing food waste by 50% by 2030. The platform includes a mobile app,",
+  "location": "Tampa, Florida, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/goseethecity/",
+    "linkedin": "https://linkedin.com/in/aneshai-smith-458973118",
+    "facebook": "https://facebook.com/GoSeeTheCity/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/go-see-the-city",
+  "api": "/api/companies/go-see-the-city.json"
+}

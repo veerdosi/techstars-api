@@ -1,0 +1,22 @@
+{
+  "name": "REN3for",
+  "slug": "ren3for",
+  "website": "https://ren3for.com/",
+  "description": "REN3for offers a Predictive Weather and Power Prediction model that can predict weather 96 hours out, updated in real-time, at an average of 99% accuracy.",
+  "one_liner": "REN3for offers a Predictive Weather and Power Prediction model that can predict weather 96 hours out, updated in real-time, at an average of 99% accuracy.",
+  "location": "Richmond, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/lisa-brunet"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ren3for",
+  "api": "/api/companies/ren3for.json"
+}

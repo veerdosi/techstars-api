@@ -1,0 +1,24 @@
+{
+  "name": "Crave Retail",
+  "slug": "crave-retail",
+  "website": "https://craveretail.com/",
+  "description": "Crave helps retailers make smarter decisions with every shopper in every fitting room.",
+  "one_liner": "Crave helps retailers make smarter decisions with every shopper in every fitting room.",
+  "location": "Austin, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/CraveRetail",
+    "linkedin": "https://linkedin.com/company/crave-retail",
+    "facebook": "https://facebook.com/craveretailtech/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/crave-retail",
+  "api": "/api/companies/crave-retail.json"
+}

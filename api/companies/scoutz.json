@@ -1,0 +1,24 @@
+{
+  "name": "Scoutz",
+  "slug": "scoutz",
+  "website": "https://scoutzapp.com/",
+  "description": "Scoutz is a pro basketball and college recruiting platform that connects aspiring athletes with opportunities to showcase their talent and helps teams and coaches efficiently discover top talent.",
+  "one_liner": "Scoutz is a pro basketball and college recruiting platform that connects aspiring athletes with opportunities to showcase their talent and helps teams and coaches efficiently discover top talent.",
+  "location": "Orlando, Florida, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/scoutzapp",
+    "linkedin": "https://linkedin.com/company/overseas-connection",
+    "facebook": "https://facebook.com/overseasbasketballapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/scoutz",
+  "api": "/api/companies/scoutz.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Drinkeasy",
+  "slug": "drinkeasy",
+  "website": "https://linkedin.com/company/drinkeasy",
+  "description": "A Conversational Commerce Platform for Retail",
+  "one_liner": "A Conversational Commerce Platform for Retail",
+  "location": "New York City, New York, United States",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/DrinkeasyHQ",
+    "linkedin": "https://linkedin.com/company/drinkeasy",
+    "facebook": "https://facebook.com/DrinkeasyHQ/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/drinkeasy",
+  "api": "/api/companies/drinkeasy.json"
+}

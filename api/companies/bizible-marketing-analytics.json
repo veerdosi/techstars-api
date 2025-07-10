@@ -1,0 +1,24 @@
+{
+  "name": "Bizible Marketing Analytics",
+  "slug": "bizible-marketing-analytics",
+  "website": "https://bizible.com/",
+  "description": "Optimization and effective inbound marketing of web presence for local businesses",
+  "one_liner": "Optimization and effective inbound marketing of web presence for local businesses",
+  "location": "Seattle, Washington, United States",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/bizible",
+    "linkedin": "https://linkedin.com/company/bizible",
+    "facebook": "https://facebook.com/bizible"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bizible-marketing-analytics",
+  "api": "/api/companies/bizible-marketing-analytics.json"
+}

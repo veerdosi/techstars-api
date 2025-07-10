@@ -1,0 +1,24 @@
+{
+  "name": "StrategyConnect",
+  "slug": "strategyconnect",
+  "website": "https://strategyconnect.co/",
+  "description": "Platform to operationalize agile teams by matching in-house  & external on-demand talents to deliverables to fulfill business's skillset gap cost-effectively.",
+  "one_liner": "Platform to operationalize agile teams by matching in-house  & external on-demand talents to deliverables to fulfill business's skillset gap cost-effectively.",
+  "location": "Dover, Delaware, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/StrategyConnec2",
+    "linkedin": "https://linkedin.com/company/strategyconnect",
+    "facebook": "https://facebook.com/strategyconnect01/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/strategyconnect",
+  "api": "/api/companies/strategyconnect.json"
+}

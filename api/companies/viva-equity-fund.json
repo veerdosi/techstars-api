@@ -1,0 +1,24 @@
+{
+  "name": "Viva Equity Fund",
+  "slug": "viva-equity-fund",
+  "website": "https://viva.fund/",
+  "description": "Helps landlords boost income (NOI) \\nwhile renters build wealth.",
+  "one_liner": "Helps landlords boost income (NOI) \\nwhile renters build wealth.",
+  "location": "Edinburg, Texas, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/VivaEquity",
+    "linkedin": "https://linkedin.com/company/vivaequity",
+    "facebook": "https://facebook.com/VivaEquity"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/viva-equity-fund",
+  "api": "/api/companies/viva-equity-fund.json"
+}

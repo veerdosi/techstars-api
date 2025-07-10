@@ -1,0 +1,24 @@
+{
+  "name": "BeeInstant",
+  "slug": "beeinstant",
+  "website": "https://beeinstant.com/",
+  "description": "AI-Powered Application Monitoring Platform for Large Enterprises",
+  "one_liner": "AI-Powered Application Monitoring Platform for Large Enterprises",
+  "location": "Dublin, Ireland",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1504020447/ua2paoepy2wfycxlqdax.jpg",
+  "social_media": {
+    "twitter": "https://twitter.com/BeeInstantMon",
+    "linkedin": "https://linkedin.com/company/11145201",
+    "facebook": "https://facebook.com/pg/BeeInstant"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/beeinstant",
+  "api": "/api/companies/beeinstant.json"
+}

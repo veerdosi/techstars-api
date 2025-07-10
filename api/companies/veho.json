@@ -1,0 +1,24 @@
+{
+  "name": "Veho",
+  "slug": "veho",
+  "website": "https://shipveho.com/",
+  "description": "Provider of end-to-end e-commerce delivery service intended to offer personalized next-day package delivery.",
+  "one_liner": "Provider of end-to-end e-commerce delivery service intended to offer personalized next-day package delivery.",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Industrials",
+  "industry_slug": "industrials",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/shipveho",
+    "linkedin": "https://linkedin.com/company/shipveho",
+    "facebook": "https://facebook.com/pg/VehoDrivers"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/veho",
+  "api": "/api/companies/veho.json"
+}

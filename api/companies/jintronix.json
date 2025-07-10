@@ -1,0 +1,24 @@
+{
+  "name": "Jintronix",
+  "slug": "jintronix",
+  "website": "https://jintronix.com/",
+  "description": "physical rehab",
+  "one_liner": "physical rehab",
+  "location": "Montréal, Quebec, Canada",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/jintronix",
+    "linkedin": "https://linkedin.com/company/jintronix",
+    "facebook": "https://facebook.com/Jintronix"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/jintronix",
+  "api": "/api/companies/jintronix.json"
+}

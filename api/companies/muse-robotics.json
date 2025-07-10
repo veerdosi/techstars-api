@@ -1,0 +1,24 @@
+{
+  "name": "MUSE Robotics",
+  "slug": "muse-robotics",
+  "website": "https://linkedin.com/company/9487003",
+  "description": "We are standardizing the core robot components, so that new robots are built in months, not years, and at a fraction of the cost.",
+  "one_liner": "We are standardizing the core robot components, so that new robots are built in months, not years, and at a fraction of the cost.",
+  "location": "Athens, Greece",
+  "industry": "Robotics and Drones",
+  "industry_slug": "robotics-drones",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/museRobotics",
+    "linkedin": "https://linkedin.com/company/9487003",
+    "facebook": "https://facebook.com/SkyRoboticsOPRA"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/muse-robotics",
+  "api": "/api/companies/muse-robotics.json"
+}

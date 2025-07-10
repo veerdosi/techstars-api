@@ -1,0 +1,24 @@
+{
+  "name": "Resonance",
+  "slug": "resonance",
+  "website": "https://linkedin.com/company/resonance-limited",
+  "description": "Resonance is a mobile platform for supply chains to work better together",
+  "one_liner": "Resonance is a mobile platform for supply chains to work better together",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ResoGlob",
+    "linkedin": "https://linkedin.com/company/resonance-limited",
+    "facebook": "https://facebook.com/ResoGlobo"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/resonance",
+  "api": "/api/companies/resonance.json"
+}

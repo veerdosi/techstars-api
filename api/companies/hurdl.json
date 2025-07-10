@@ -1,0 +1,24 @@
+{
+  "name": "Hurdl",
+  "slug": "hurdl",
+  "website": "https://linkedin.com/company/10823990",
+  "description": "Hurdl's technology merges the euphoric live experience of LED wearables with cloud-based SMS marketing tools to enable communication between artists and fans.",
+  "one_liner": "Hurdl's technology merges the euphoric live experience of LED wearables with cloud-based SMS marketing tools to enable communication between artists and fans.",
+  "location": "Nashville, Tennessee, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/WeAreHurdl",
+    "linkedin": "https://linkedin.com/company/10823990",
+    "facebook": "https://facebook.com/HurdlEnterprises"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hurdl",
+  "api": "/api/companies/hurdl.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "IamBot",
+  "slug": "iambot",
+  "website": "https://iambot.ai/",
+  "description": "Rediscover shopping experience with visual chatbot",
+  "one_liner": "Rediscover shopping experience with visual chatbot",
+  "location": "Burlingame, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/IamBot_ai",
+    "linkedin": "https://linkedin.com/company/iambot",
+    "facebook": "https://facebook.com/IamBot.chat/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/iambot",
+  "api": "/api/companies/iambot.json"
+}

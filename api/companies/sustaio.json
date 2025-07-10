@@ -1,0 +1,24 @@
+{
+  "name": "Sustaio",
+  "slug": "sustaio",
+  "website": "https://linkedin.com/company/sustaio",
+  "description": "Sustaio provides consumer climate impact intelligence & data. Think of us as the credit score for sustainability.",
+  "one_liner": "Sustaio provides consumer climate impact intelligence & data. Think of us as the credit score for sustainability.",
+  "location": "Telluride, Colorado, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sustaio",
+    "linkedin": "https://linkedin.com/company/sustaio",
+    "facebook": "https://facebook.com/sustaio/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sustaio",
+  "api": "/api/companies/sustaio.json"
+}

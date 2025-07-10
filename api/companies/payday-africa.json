@@ -1,0 +1,23 @@
+{
+  "name": "Payday Africa",
+  "slug": "payday-africa",
+  "website": "https://usepayday.com/",
+  "description": "Send and receive money globally in seconds!",
+  "one_liner": "Send and receive money globally in seconds!",
+  "location": "New Castle, Delaware, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ourpaydayHQ",
+    "linkedin": "https://linkedin.com/company/paydayafrica"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/payday-africa",
+  "api": "/api/companies/payday-africa.json"
+}

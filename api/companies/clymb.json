@@ -1,0 +1,24 @@
+{
+  "name": "Clymb",
+  "slug": "clymb",
+  "website": "https://clymbup.io/",
+  "description": "Infinite Focus Schools is a socio-emotional learning-focused app.",
+  "one_liner": "Infinite Focus Schools is a socio-emotional learning-focused app.",
+  "location": "Baltimore, Maryland, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vx4jqiry7pc4mh7s8us9",
+  "social_media": {
+    "twitter": "https://twitter.com/ClymbUp",
+    "linkedin": "https://linkedin.com/company/clymb",
+    "facebook": "https://facebook.com/infinitefocuschools/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/clymb",
+  "api": "/api/companies/clymb.json"
+}

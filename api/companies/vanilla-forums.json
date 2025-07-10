@@ -1,0 +1,24 @@
+{
+  "name": "Vanilla Forums",
+  "slug": "vanilla-forums",
+  "website": "https://vanillaforums.com/",
+  "description": "Community forums reinvented",
+  "one_liner": "Community forums reinvented",
+  "location": "Montréal, Quebec, Canada",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/vanilla",
+    "linkedin": "https://linkedin.com/company/vanilla-forums-inc",
+    "facebook": "https://facebook.com/vanillaforums"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vanilla-forums",
+  "api": "/api/companies/vanilla-forums.json"
+}

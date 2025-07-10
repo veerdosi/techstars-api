@@ -1,0 +1,23 @@
+{
+  "name": "Guama",
+  "slug": "guama",
+  "website": "https://guamacard.com/",
+  "description": "A credit card for LATAM's underbanked population.",
+  "one_liner": "A credit card for LATAM's underbanked population.",
+  "location": "Medellin, Colombia",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/guamacard",
+    "linkedin": "https://linkedin.com/company/guamacard"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/guama",
+  "api": "/api/companies/guama.json"
+}

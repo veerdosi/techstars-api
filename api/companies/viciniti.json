@@ -1,0 +1,24 @@
+{
+  "name": "Viciniti",
+  "slug": "viciniti",
+  "website": "https://linkedin.com/company/viciniti",
+  "description": "Engaging wireless experiences. Everywhere.",
+  "one_liner": "Engaging wireless experiences. Everywhere.",
+  "location": "London, United Kingdom",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/viciniti_co",
+    "linkedin": "https://linkedin.com/company/viciniti",
+    "facebook": "https://facebook.com/Wicastr-1471877259752460/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/viciniti",
+  "api": "/api/companies/viciniti.json"
+}

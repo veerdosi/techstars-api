@@ -1,0 +1,24 @@
+{
+  "name": "Abe AI",
+  "slug": "abe-ai",
+  "website": "https://abe.ai/",
+  "description": "Abe's conversational AI platform, Conversate, allows banks to communicate and engage customers through message and voice platforms.",
+  "one_liner": "Abe's conversational AI platform, Conversate, allows banks to communicate and engage customers through message and voice platforms.",
+  "location": "Orlando, Florida, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/abethebot",
+    "linkedin": "https://linkedin.com/company/abe.ai",
+    "facebook": "https://facebook.com/abethebot/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/abe-ai",
+  "api": "/api/companies/abe-ai.json"
+}

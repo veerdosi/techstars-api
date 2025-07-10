@@ -1,0 +1,24 @@
+{
+  "name": "Cappella",
+  "slug": "cappella",
+  "website": "https://cappella.io/",
+  "description": "For all the caregivers around a new baby who need to understand its needs better to provide more efficiently and accurately, Cappella builds a super accurate hands-off baby cry translator",
+  "one_liner": "For all the caregivers around a new baby who need to understand its needs better to provide more efficiently and accurately, Cappella builds a super accurate hands-off baby cry translator",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/cappella_io",
+    "linkedin": "https://linkedin.com/company/cappella-io",
+    "facebook": "https://facebook.com/profile.php"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cappella",
+  "api": "/api/companies/cappella.json"
+}

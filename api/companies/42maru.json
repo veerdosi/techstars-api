@@ -1,0 +1,24 @@
+{
+  "name": "42Maru",
+  "slug": "42maru",
+  "website": "https://42maru.ai/",
+  "description": "Answering AI - 42Maru is AI deep tech startup that develops Deep Semantic QA (Question Answering) & TA (Text Analytics) Platform",
+  "one_liner": "Answering AI - 42Maru is AI deep tech startup that develops Deep Semantic QA (Question Answering) & TA (Text Analytics) Platform",
+  "location": "Seoul, South Korea",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/42MARU_ai",
+    "linkedin": "https://linkedin.com/company/14403023",
+    "facebook": "https://facebook.com/42Maru/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/42maru",
+  "api": "/api/companies/42maru.json"
+}

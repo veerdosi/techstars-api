@@ -1,0 +1,22 @@
+{
+  "name": "Loopholes",
+  "slug": "loopholes",
+  "website": "https://loopholes.com/",
+  "description": "Introducing Loopholes AI--the first AI-powered solution for marketing compliance. Instantly analyze your text and images to detect potential policy violations before they become costly mistakes. With Loopholes AI, you can publish with confidence, knowing you're always staying on the right side of compliance.",
+  "one_liner": "Introducing Loopholes AI--the first AI-powered solution for marketing compliance. Instantly analyze your text and images to detect potential policy violations before they become costly mistakes. With Loopholes AI, you can publish with confidence, knowing you're always staying on the right side of compliance.",
+  "location": "San Diego, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/loopholes"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/loopholes",
+  "api": "/api/companies/loopholes.json"
+}

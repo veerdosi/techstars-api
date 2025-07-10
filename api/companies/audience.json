@@ -1,0 +1,24 @@
+{
+  "name": "Audience",
+  "slug": "audience",
+  "website": "https://linkedin.com/company/spark-dj-inc-",
+  "description": "Audience is an audio-visual music platform that allows curators to earn money building robot DJs that play new artists music.",
+  "one_liner": "Audience is an audio-visual music platform that allows curators to earn money building robot DJs that play new artists music.",
+  "location": "Newport Beach, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/joinaudience",
+    "linkedin": "https://linkedin.com/company/spark-dj-inc-",
+    "facebook": "https://facebook.com/SparkDJinc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/audience",
+  "api": "/api/companies/audience.json"
+}

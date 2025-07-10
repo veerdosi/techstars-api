@@ -1,0 +1,24 @@
+{
+  "name": "Qualifi",
+  "slug": "qualifi",
+  "website": "https://qualifi.hr/",
+  "description": "Qualifi empowers the fastest phone interviews in the world! We've helped small teams up to Fortune 500 companies complete 1000s of interviews with Qualifi.",
+  "one_liner": "Qualifi empowers the fastest phone interviews in the world! We've helped small teams up to Fortune 500 companies complete 1000s of interviews with Qualifi.",
+  "location": "Noblesville, Indiana, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/qualifi_hr",
+    "linkedin": "https://linkedin.com/company/qualifihr",
+    "facebook": "https://facebook.com/qualifihr"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/qualifi",
+  "api": "/api/companies/qualifi.json"
+}

@@ -1,0 +1,3448 @@
+[
+  {
+    "name": "Chainalysis",
+    "website": "https://chainalysis.com/",
+    "description": "Chainalysis helps government agencies, cryptocurrency businesses, and financial institutions engage confidently with cryptocurrency.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/chainalysis",
+      "linkedin": "https://linkedin.com/company/chainalysis",
+      "facebook": "https://facebook.com/Chainalysis"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "TomoCredit",
+    "website": "https://tomocredit.com/",
+    "description": "The next generation credit card designed for people with no credit history or credit score.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TomoCredit",
+      "linkedin": "https://linkedin.com/company/tomocredit",
+      "facebook": "https://facebook.com/TomoCredit-759847904399856/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "QuSecure",
+    "website": "https://qusecure.com/",
+    "description": "Post-Quantum security for critical infrastructure and systems.",
+    "location": "San Mateo, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/qusecure",
+      "linkedin": "https://linkedin.com/company/qusecure",
+      "facebook": "https://facebook.com/QuSecure-113667670042387/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Seel",
+    "website": "https://seel.com/",
+    "description": "Seel is building a new category of financial products to help merchants offer risk-free shopping experience.",
+    "location": "Sunnyvale, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/justaddseel",
+      "linkedin": "https://linkedin.com/company/addseel",
+      "facebook": "https://facebook.com/koverai/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Ultimate",
+    "website": "https://ultimate.ai/",
+    "description": "ultimate.ai gives customer service agents the AI-tools they need to provide faster, smarter responses",
+    "location": "Helsinki, Finland",
+    "social_media": {
+      "twitter": "https://twitter.com/ultiai",
+      "linkedin": "https://linkedin.com/company/ultimatemoney",
+      "facebook": "https://facebook.com/ultiai"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "NATIX",
+    "website": "https://natix.network/",
+    "description": "We make any camera smart and 100% privacy compliant! Utilising our patent-pending technology, we are creating the largest crowd-sourced camera network worldwide.",
+    "location": "Hamburg, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/natix_io",
+      "linkedin": "https://linkedin.com/company/natixio",
+      "facebook": "https://facebook.com/natixvision/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Everledger",
+    "website": "https://everledger.io/",
+    "description": "Everledger provides an immutable ledger for diamond identification and transaction verification for various stakeholders, from insurance companies to claimants and law enforcement agencies.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/everledgerio",
+      "linkedin": "https://linkedin.com/company/everledger",
+      "facebook": "https://facebook.com/everledger"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "WAVE",
+    "website": "https://wavebl.com/",
+    "description": "Safer, faster and more advanced electronic Bills of Lading, built on the Blockchain",
+    "location": "Kefar Sava, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/wavebl",
+      "linkedin": "https://linkedin.com/company/ogydocs",
+      "facebook": "https://facebook.com/waveebl/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Sprout",
+    "website": "https://sprout.ai/",
+    "description": "Sprout.ai empowers insurers to settle claims in as little as 24 hours by providing data driven insights.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Sprout_ai",
+      "linkedin": "https://linkedin.com/company/sproutai"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Post-Quantum",
+    "website": "https://post-quantum.com/",
+    "description": "Post-Quantum is a UK-based company specialising in secure communications, authentication, encryption and blockchain. The company offers a modular cyber security toolkit to the financial services, government, and other critical sectors.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/PQChatApp",
+      "linkedin": "https://linkedin.com/company/post-quantum"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Dfns",
+    "website": "https://dfns.co/",
+    "description": "Wallet-as-a-service platform to streamline digital asset operations and onboard users into crypto, safely.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/dfnshq",
+      "linkedin": "https://linkedin.com/company/dfnshq",
+      "facebook": "https://facebook.com/dfnscustody/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Roll",
+    "website": "https://tryroll.com/",
+    "description": "Earn and redeem social money with your favorite creators and brands",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tryrollhq",
+      "linkedin": "https://linkedin.com/company/rollinc",
+      "facebook": "https://facebook.com/tryrollhq/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Gatsby",
+    "website": "https://trygatsby.com/",
+    "description": "Options trading App.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/trygatsby",
+      "linkedin": "https://linkedin.com/company/gatsbylab",
+      "facebook": "https://facebook.com/trygatsby/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Asset Reality",
+    "website": "https://assetreality.com/",
+    "description": "The world's first end-to-end solution for investigating, recovering, managing & selling seized crypto assets.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/asset_reality",
+      "linkedin": "https://linkedin.com/company/asset-reality"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Voatz",
+    "website": "https://voatz.com/",
+    "description": "Voatz is a mobile election voting platform, secured via smart biometrics, real time ID verification and the blockchain for irrefutability.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Voatz",
+      "linkedin": "https://linkedin.com/company/voatz",
+      "facebook": "https://facebook.com/voatz/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Blockade Games",
+    "website": "https://blockade.games/",
+    "description": "Blockade Games has produced some of the longest-running experiences blending blockchain with interactive entertainment.",
+    "location": "Indianapolis, Indiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/neondistrictRPG",
+      "linkedin": "https://linkedin.com/company/blockade-games",
+      "facebook": "https://facebook.com/neondistrictRPG/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Gig Wage",
+    "website": "https://gigwage.com/",
+    "description": "Modern 1099 gig payments for the future of work.",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GigWage",
+      "linkedin": "https://linkedin.com/company/gigwage",
+      "facebook": "https://facebook.com/gigwage"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "RealBlocks",
+    "website": "https://realblocks.com/",
+    "description": "RealBlocks empowers anyone in the world to raise or invest capital in real estate using Blockchain Smart-Contracts.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/realblocks",
+      "linkedin": "https://linkedin.com/company/realblocks",
+      "facebook": "https://facebook.com/RealBlocks-164531427480664/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "UpsideHoM",
+    "website": "https://joinupside.com/",
+    "description": "UpsideHoM is the only fully managed, shared living option for independent older adults.",
+    "location": "Fort Lauderdale, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/UpsideTravel",
+      "linkedin": "https://linkedin.com/company/joinupside",
+      "facebook": "https://facebook.com/upsidehom/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "LunarCrush",
+    "website": "https://lunarcrush.com/",
+    "description": "Social Listening for Crypto. Discover how social media impacts cryptocurrency markets.",
+    "location": "Costa Mesa, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lunarcrush",
+      "linkedin": "https://linkedin.com/company/lunarcrush",
+      "facebook": "https://facebook.com/LunarCrush"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "VeriTX",
+    "website": "https://vertix.co/",
+    "description": "Trusted, Fast, Flexible Digital Supply Chains for regulated markets.",
+    "location": "Buffalo, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/veri_tx",
+      "linkedin": "https://linkedin.com/company/veritx"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Balance",
+    "website": "https://balance.ca/",
+    "description": "Balance is the safest way to custody, trade, and manage digital assets.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/balance_canada",
+      "linkedin": "https://linkedin.com/company/balancecanada",
+      "facebook": "https://facebook.com/balancenowca/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "VICI Sports",
+    "website": "https://playvici.com/",
+    "description": "For diehard fans who can't be at the game, VICI's TV network brings the stadium experience home through partnerships with the largest teams in the world.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/playvici",
+      "linkedin": "https://linkedin.com/company/fanfest",
+      "facebook": "https://facebook.com/playvici/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Pass It Down",
+    "website": "https://passitdown.com/",
+    "description": "The digital design platform powering the world's most engaging online & touchscreen exhibits.",
+    "location": "Chattanooga, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/passitdown",
+      "linkedin": "https://linkedin.com/company/pass-it-down",
+      "facebook": "https://facebook.com/passitdownapp"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Heex Technologies",
+    "website": "https://heex.io/",
+    "description": "A cloud-based collaboration software tool focusing on Smart Data management in autonomous driving.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/heex_io",
+      "linkedin": "https://linkedin.com/company/heex-technologies",
+      "facebook": "https://facebook.com/heex.io/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Liquid",
+    "website": "https://goliquid.io/",
+    "description": "On a mission to power1M agile SMBs with a global freelancer and vendor payments platform that automates and standardizes key tasks, enforces financial controls and ensures tax and legal compliance.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/teamgoliquid",
+      "linkedin": "https://linkedin.com/company/liquidglobal",
+      "facebook": "https://facebook.com/teamgoliquid"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Nixtla",
+    "website": "https://nixtla.io/",
+    "description": "State of the Art Forecasting Software.",
+    "location": "Mexico City, Mexico",
+    "social_media": {
+      "twitter": "https://twitter.com/nixtlainc",
+      "linkedin": "https://linkedin.com/company/nixtlainc"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "EDGE Sound Research",
+    "website": "https://edgesoundresearch.com/",
+    "description": "Bringing realism to sound experiences through patent-pending audio format that allows users to both HEAR and FEEL sound in high fidelity.",
+    "location": "Riverside, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/official_esr_",
+      "linkedin": "https://linkedin.com/company/edge-sound-research",
+      "facebook": "https://facebook.com/edgesoundresearch/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Diem",
+    "website": "https://askdiem.com/",
+    "description": "Diem is a new social platform for womxn-centric communities.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/askdiem",
+      "linkedin": "https://linkedin.com/company/libra-association",
+      "facebook": "https://facebook.com/LibraAssociation/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Mint State Labs",
+    "website": "https://mintstatelabs.com/",
+    "description": "Mint State Labs is looking to bring gaming enthusiast communities together with web3.0 technologies. MSL: Innovate, Create, Connect.",
+    "location": "Redmond, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MintStateLabs",
+      "linkedin": "https://linkedin.com/company/mintstatelabs",
+      "facebook": "https://facebook.com/Mint-State-Labs-108847508186922/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Popp",
+    "website": "https://joinpopp.com/",
+    "description": "Incentivise valuable behaviours with branded reward coins",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/join-popp"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Mainframe",
+    "website": "https://mainframe.co/",
+    "description": "Mainframe is a convenient platform for secure decentralized applications.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HifiFinance",
+      "linkedin": "https://linkedin.com/company/hififinance",
+      "facebook": "https://facebook.com/MainframeHQ"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Iomob",
+    "website": "https://iomob.net/",
+    "description": "Iomob empowers transport companies to launch their own Mobility as a Service solutions to users for seamless A to B mobility experiences.",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "twitter": "https://twitter.com/iomob_net",
+      "linkedin": "https://linkedin.com/company/iomob-tech",
+      "facebook": "https://facebook.com/iomob/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Sensefinity",
+    "website": "https://sensefinity.com/",
+    "description": "Everything Connects",
+    "location": "Lisbon, Portugal",
+    "social_media": {
+      "twitter": "https://twitter.com/sensefinity",
+      "linkedin": "https://linkedin.com/company/sensefinity",
+      "facebook": "https://facebook.com/Sensefinity/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "NICKL",
+    "website": "https://nicklpass.com/",
+    "description": "NICKL makes it easy for individuals and organizations to personalize and manage their digital content subscriptions in one place.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nicklco",
+      "linkedin": "https://linkedin.com/company/nicklco",
+      "facebook": "https://facebook.com/nicklpassphilly"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Eventnoire",
+    "website": "https://eventnoire.com/",
+    "description": "Eventnoire is the digital gateway to Black culture-centric events",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/eventnoire",
+      "linkedin": "https://linkedin.com/company/eventnoire",
+      "facebook": "https://facebook.com/eventnoire"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Hive Power",
+    "website": "https://hivepower.tech/",
+    "description": "Hive Power helps Energy Companies and Automakers to automate smart charging for electric vehicles.",
+    "location": "Manno, Switzerland",
+    "social_media": {
+      "twitter": "https://twitter.com/hive_power",
+      "linkedin": "https://linkedin.com/company/hive-power",
+      "facebook": "https://facebook.com/pg/HivePower"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "tagSpace",
+    "website": "https://tagspace.com/",
+    "description": "Locational AR for Festivals, Tourism and Big Events. No code required!",
+    "location": "Byron Bay, New South Wales, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/tagSpaceCo",
+      "linkedin": "https://linkedin.com/in/paulsimonmartin",
+      "facebook": "https://facebook.com/tagSpaceCo"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Blue Studios",
+    "website": "https://bluestudios.io/",
+    "description": "Blue Studios is a live and on-demand platform, like Peloton, broadcasting the best and most entertaining STEM classes for kids, taught by the best instructors.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bluestudiosusa",
+      "linkedin": "https://linkedin.com/company/blue-studios-io",
+      "facebook": "https://facebook.com/bluestudiosio/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Avenews",
+    "website": "https://avenews-gt.com/",
+    "description": "Avenews is a fintech company connecting two of the largest and most important industries in the world: the financial industry and the agricultural industry.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/Avenews_gt",
+      "linkedin": "https://linkedin.com/company/10961166",
+      "facebook": "https://facebook.com/AvenewsGT/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Ediphi",
+    "website": "https://goediphi.com/",
+    "description": "Training. Above and Beyond.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/worldwide-internships-philippines",
+      "facebook": "https://facebook.com/wwiphilippines"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Dobby",
+    "website": "https://halosinsurance.com/",
+    "description": "The highest rated home services app on the app store.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HalosInsurance",
+      "linkedin": "https://linkedin.com/company/hellodobby",
+      "facebook": "https://facebook.com/Hello-Dobby-1459700801000282"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Photocert",
+    "website": "https://photocert.co.uk/",
+    "description": "In an era where misinformation is rife, Photocert validates and certifies the authenticity of pictures and videos by generating a digital fingerprint.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/photocert",
+      "linkedin": "https://linkedin.com/company/photocert",
+      "facebook": "https://facebook.com/photocert"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Eversend",
+    "website": "https://eversend.co/",
+    "description": "A neobank for Africans, anywhere in the world.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/eversendapp",
+      "linkedin": "https://linkedin.com/company/eversend",
+      "facebook": "https://facebook.com/eversendapp/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Transmute",
+    "website": "https://transmute.industries/",
+    "description": "The trusted data exchange platform for global trade",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TransmuteNews",
+      "linkedin": "https://linkedin.com/company/11186222"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Fabrica",
+    "website": "https://fabrica.land/",
+    "description": "Fabrica is creating the next generation title company, providing a seamless title and escrow experience for real estate brokers, lenders and homebuyers.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fabricaland",
+      "linkedin": "https://linkedin.com/company/fabrica-fine-carpets-and-rugs",
+      "facebook": "https://facebook.com/fabricaland"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Assemblr",
+    "website": "https://assemblrworld.com/",
+    "description": "A Platform to simplify the process of accessing and creating Augmented Reality content, whilst running both on mobile and desktop applications.",
+    "location": "Bandung, Indonesia",
+    "social_media": {
+      "twitter": "https://twitter.com/assemblrworld",
+      "linkedin": "https://linkedin.com/company/assemblr-app",
+      "facebook": "https://facebook.com/assemblrworld"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Riverr",
+    "website": "https://riverr.ai/",
+    "description": "Riverr provides a new way to collect, organise and activate data for meaningful impact.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/riverr-ai"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "BlockAviation",
+    "website": "https://blockaviation.com/",
+    "description": "Blockaviation is creating the world first register for aircraft records.",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/Blockaviation",
+      "linkedin": "https://linkedin.com/company/blockaviation"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Queen of Raw",
+    "website": "https://queenofraw.com/",
+    "description": "Queen of Raw is a global marketplace w/AI-powered supply chain software to eliminate and monetize textile waste, turning deadstock into dollars.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/queenofraw",
+      "linkedin": "https://linkedin.com/company/queenofraw",
+      "facebook": "https://facebook.com/queenofraw"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Mondaycar",
+    "website": "https://mondaycar.com/",
+    "description": "A way for everyone to participate in the financing of shared cars in an easy and profitable way, without the need of ever seeing a car",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/gohiveway",
+      "linkedin": "https://linkedin.com/company/hiveway",
+      "facebook": "https://facebook.com/gohiveaway/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Anytype",
+    "website": "https://anytype.io/",
+    "description": "Unified User Interface for Web3.0",
+    "location": "Moscow, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/anytypeHQ",
+      "linkedin": "https://linkedin.com/company/anytype",
+      "facebook": "https://facebook.com/Anytypelabs"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Shelf",
+    "website": "https://shelf.network/",
+    "description": "Distributed network - allowing to run the same synchronized trade / auction at multiple interconnected marketplaces",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/shelf_network",
+      "linkedin": "https://linkedin.com/company/17969937",
+      "facebook": "https://facebook.com/Shelfnetwork/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Nodes",
+    "website": "https://nodes.garden/",
+    "description": "one click multichain node as a service platform",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nodes_garden",
+      "linkedin": "https://linkedin.com/company/nodes-garden"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "0xBridge",
+    "website": "https://0xbridge.xyz/",
+    "description": "The first truly non-custodial and highly decentralized Bitcoin bridge",
+    "location": "Greater Noida, Uttar Pradesh, India",
+    "social_media": {
+      "twitter": "https://twitter.com/0xbridgeHQ",
+      "linkedin": "https://linkedin.com/company/0xbridge"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Nera Systems",
+    "website": "https://nera.systems/",
+    "description": "Nera Systems specializes in privacy-preserving technologies for AI and Machine Learning. The company develops innovative tools using Privacy Enhancing Technologies (PETs) and SW/HW co-design to protect sensitive data throughout the AI/ML lifecycle. By offering scalable, privacy-first solutions, Nera Systems enables organizations to leverage the power of AI while ensuring the highest standards of data privacy and security, empowering safe and responsible innovation.",
+    "location": "Burlingame, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/NeraSystems",
+      "linkedin": "https://linkedin.com/company/nera-systems"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "TRUSTBYTES",
+    "website": "https://trustbytes.io/",
+    "description": "TRUSTBYTES creates the world's first security operations system allowing projects to see, understand and act on their risk posture with confidence.",
+    "location": "Warszawa, Mazovia, Poland",
+    "social_media": {
+      "twitter": "https://twitter.com/TRUSTBYTES_X",
+      "linkedin": "https://linkedin.com/company/trustbytes"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "DABL",
+    "website": "https://dabl.io/",
+    "description": "DABL is a real-time monitoring and automated hedging platform that uses institutional-grade models to enhance risk management for crypto lending platforms and traditional financial institutions in digital assets.",
+    "location": "Fairfield, Connecticut, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/its_DABL",
+      "linkedin": "https://linkedin.com/company/104740441"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Marble AR",
+    "website": "https://marblever.se/",
+    "description": "The first platform that brings the Metaverse and NFTs into the real world.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/marblearlive",
+      "linkedin": "https://linkedin.com/company/marblear",
+      "facebook": "https://facebook.com/marblearlive/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Trustline",
+    "website": "https://trustline.id/",
+    "description": "Universal compliance layer for decentralised applications. Install in 1 line of code.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/yn4nrx4vynaptjgrxpuv",
+    "location": "Tours, Pays de la Loire, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/securely-id"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Powertrust",
+    "website": "https://powertrust.com/",
+    "description": "Help global corporations maximize the impact of their renewable procurement.",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/positive-capital-partners"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Cash Abroad",
+    "website": "https://cashabroad.one/",
+    "description": "A payments platform for LATAM exporting and importing businesses.",
+    "location": "Mexico City, Mexico",
+    "social_media": {
+      "twitter": "https://twitter.com/CashAbroadApp",
+      "linkedin": "https://linkedin.com/company/cashabroad"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Katanso",
+    "website": "https://kumo.earth/",
+    "description": "KUMO enables borrowing the collateralized stablecoin KUSD against on-chain natural assets with no interest rate.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jdavypqibpcgjco0ysiu",
+    "location": "Mainz, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/kumo_earth",
+      "linkedin": "https://linkedin.com/company/kumo-earth"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "SimBull Sports Exchange",
+    "website": "https://simbull.com/",
+    "description": "SimBull - Where fortune favours the fan.\n\nTo view the company one-page summary click here - https://app.buildmemo.com/s/8tz67z",
+    "location": "Minneapolis, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SimBullExchange",
+      "linkedin": "https://linkedin.com/company/simbull-sports-exchange"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Arch Finance",
+    "website": "https://archfinance.com.au/",
+    "description": "Arch Finance is a financial company that offers real estate mortgage services.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/archdefi",
+      "linkedin": "https://linkedin.com/company/archfinance",
+      "facebook": "https://facebook.com/Archfinance"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Arweave",
+    "website": "https://arweave.org/",
+    "description": "On demand permanent data storage",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/arweaveteam",
+      "linkedin": "https://linkedin.com/company/arweave",
+      "facebook": "https://facebook.com/ArchainTeam/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "PLENO",
+    "website": "https://pleno.earth/",
+    "description": "SAAS for Carbon Project Developers",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/plenoearth"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Dara",
+    "website": "https://dara.network/",
+    "description": "Institution-first alternative to Slack, WhatsApp, and LinkedIn by creating a private, curated space for intimate chat and video conversations.",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "twitter": "https://twitter.com/daraconnects",
+      "linkedin": "https://linkedin.com/company/dara-network",
+      "facebook": "https://facebook.com/daraconnects"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "NoCode",
+    "website": "https://enzyme.so/",
+    "description": "From words to website. In seconds.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getenzyme",
+      "linkedin": "https://linkedin.com/company/enzymehq"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "hiveonline",
+    "website": "https://hivenetwork.online/",
+    "description": "hiveonline helps small businesses thrive by giving them access to credit and markets with a reputation based on facts about what they do.",
+    "location": "Copenhagen, Denmark",
+    "social_media": {
+      "twitter": "https://twitter.com/wearehiveonline",
+      "linkedin": "https://linkedin.com/company/15252007",
+      "facebook": "https://facebook.com/hivenetworkonline"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Liquidstar",
+    "website": "https://liquistar.io/",
+    "description": "Using solar energy to provide electricity, water and internet to the 1B+ without.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {},
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "RAZ",
+    "website": "https://razfinance.io/",
+    "description": "RAZ enables impact-financial data origin and authenticity verification across unalterable timelines",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/bkloe50jnrr6xh0ao7kl",
+    "location": "Bnei Brak, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/razfintech",
+      "linkedin": "https://linkedin.com/company/razfintech"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Energy Shift",
+    "website": "https://energyshift.eu/",
+    "description": "Energy Shift is a web based, blockchain powered platform that enables citizens to jointly invest in and co-own solar parks, thus democratising the energy sector and enabling citizens to actively participate in the energy transition to renewable energy.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/EnergyShift3",
+      "linkedin": "https://linkedin.com/company/energy-shift",
+      "facebook": "https://facebook.com/energyshifteu/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "egreen",
+    "website": "https://egreen.com/",
+    "description": "eGreen is a technology company that seeks to accelerate environmental and financial impact through green investments, creating a platform based on blockchain technology.",
+    "location": "Santiago, Chile",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/egreen-com",
+      "facebook": "https://facebook.com/eGreen-109302497666249"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Veracity Protocol",
+    "website": "https://veracityprotocol.org/",
+    "description": "Security standard of trust for physical objects. Bridging physical and digital worlds.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/VeracityProtocl",
+      "linkedin": "https://linkedin.com/company/veracityprotocol",
+      "facebook": "https://facebook.com/veracityprotocol/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Trixta",
+    "website": "https://trixta.com/",
+    "description": "A more efficient way to develop great software for decentralized organisations.",
+    "location": "Phoenix, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/trixtateam",
+      "linkedin": "https://linkedin.com/company/trixta",
+      "facebook": "https://facebook.com/getTrixta/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Paperstreet",
+    "website": "https://paperstreet.vc/",
+    "description": "Paperstreet leverages a global network of advisors, Angel Investors, and Venture Capitalists to get startups off the ground.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/paperstreetvc",
+      "linkedin": "https://linkedin.com/company/paperstreetvc",
+      "facebook": "https://facebook.com/paperstreetvc"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Paperchain",
+    "website": "https://paperchain.io/",
+    "description": "Introducing Paperchain Card. The only card that gives you instant access to your creative income.",
+    "location": "Staten Island, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/paperchainio",
+      "linkedin": "https://linkedin.com/company/10694012",
+      "facebook": "https://facebook.com/paperchainio/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Embleema",
+    "website": "https://embleema.com/",
+    "description": "We accelerate new drug releases to patients by providing faster, regulatory-grade real-world data to life sciences and regulators.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Embleema",
+      "linkedin": "https://linkedin.com/company/embleema",
+      "facebook": "https://facebook.com/embleema/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Alkemi AI",
+    "website": "https://alkemi.network/",
+    "description": "Decentralized Finance for Institutions",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/AlkemiNetwork",
+      "linkedin": "https://linkedin.com/company/alkeminetwork",
+      "facebook": "https://facebook.com/AlkemiOfficial/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "RoadEO",
+    "website": "https://roadeo.io/",
+    "description": "RoadEO offers Road Quality Monitoring and Predictive Road Maintenance 2.0.",
+    "location": "The Hague, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/RoadEO_io",
+      "linkedin": "https://linkedin.com/company/road-eo",
+      "facebook": "https://facebook.com/roadeo.io"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Yativo",
+    "website": "https://yativo.com/",
+    "description": "We provide banking infrastructure, wallet as a service and FBO as a service for FinTechs and Marketplaces",
+    "location": "Santiago, Chile",
+    "social_media": {
+      "twitter": "https://twitter.com/ZeenahApp",
+      "linkedin": "https://linkedin.com/company/yativo",
+      "facebook": "https://facebook.com/zeenahapp"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Storspay",
+    "website": "https://storspay.com/",
+    "description": "For small businesses with zero collateral that need access to low cost working capital, we enable individuals lend them US dollar stable coin at competitive interest rates using an automated lending pool protocol.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/StorsappI",
+      "linkedin": "https://linkedin.com/company/storsapp-inc",
+      "facebook": "https://facebook.com/StorsApp/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "SharpShark",
+    "website": "https://sharpshark.io/",
+    "description": "Blockchain legaltech for copyright protection",
+    "location": "Santiago, Chile",
+    "social_media": {
+      "twitter": "https://twitter.com/SharpShark256",
+      "linkedin": "https://linkedin.com/company/sharpshark",
+      "facebook": "https://facebook.com/SharpShark256"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Peeranha",
+    "website": "https://peeranha.io/",
+    "description": "Decentralized website with questions and answers that rewards users with crypto tokens for their contributions.",
+    "location": "Boca Raton, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/peeranhaio",
+      "linkedin": "https://linkedin.com/company/peeranha"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "MetaPals",
+    "website": "https://metapals.pet/",
+    "description": "MetaPals is a browser extension that allows users to interact and grow NFT pets directly from their browser computer screen.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "twitter": "https://twitter.com/MetaPals",
+      "linkedin": "https://linkedin.com/company/metapals",
+      "facebook": "https://facebook.com/metapals/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Loto Punto",
+    "website": "https://lotopunto.co/",
+    "description": "Kiosk system for micropayments in banking, retail and government, providing a fast, easy, and inexpensive way for unbanked users to send and receive money",
+    "location": "Bogota, Colombia",
+    "social_media": {
+      "twitter": "https://twitter.com/victuol",
+      "linkedin": "https://linkedin.com/in/victor-espinosa-2237311a"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Haiphen",
+    "website": "https://haiphenai.com/",
+    "description": "Blockchain-enabled cyber security threat detection for enterprises.",
+    "location": "The Bronx, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pi42449346",
+      "linkedin": "https://linkedin.com/in/judesafo",
+      "facebook": "https://facebook.com/haiphenai"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Functionland",
+    "website": "https://fx.land/",
+    "description": "Replacing cloud storage and service subscription economy by introducing a new category of products, called Blockchain-Attached Storage",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/functionland",
+      "linkedin": "https://linkedin.com/company/functionland",
+      "facebook": "https://facebook.com/functionland.official/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Ecko",
+    "website": "https://ecko.ac/",
+    "description": "Ecko allows artists to plan, create, and sell NFTs, starting with musical artists.",
+    "location": "Antrim, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/jpmccorley",
+      "linkedin": "https://linkedin.com/company/askecko"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Depay",
+    "website": "https://depayapp.com/",
+    "description": "Providing an easy-to-integrate and interoperable crypto payment infrastructure that allows payment processors and gateways to accept crypto as a new payment method.",
+    "location": "Buenos Aires, Argentina",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/depayapp"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "ValidProof",
+    "website": "https://validproof.com/",
+    "description": "We are solving the $200 billion epidemic of falsified medicine.",
+    "location": "Helsinki, Finland",
+    "social_media": {
+      "twitter": "https://twitter.com/@HRTNET1",
+      "linkedin": "https://linkedin.com/company/validproofhq",
+      "facebook": "https://facebook.com/ValidproofHQ"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Serendipia Life",
+    "website": "https://serendipia.life/",
+    "description": "Coliving-as-a-service platform to streamline operations, develop community, and track KPIs.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SerendipiaLife",
+      "linkedin": "https://linkedin.com/company/serendipialife",
+      "facebook": "https://facebook.com/Serendipialife/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Regen Network",
+    "website": "https://regen.network/",
+    "description": "A global marketplace & contracting platform for Earth's ecosystem assets, services, and data.",
+    "location": "GREAT BARRINGTON, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/regen_network",
+      "linkedin": "https://linkedin.com/company/regen-network",
+      "facebook": "https://facebook.com/weareregennetwork"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Quidax",
+    "website": "https://quidax.com/",
+    "description": "Quidax makes it easy for businesses and individuals in Africa to buy and sell cryptocurrency with their local currency while making it possible for Fintechs to offer cryptocurrency services to their customers.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/iamnktzmefnsf76hkhqk",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/QuidaxHQ",
+      "linkedin": "https://linkedin.com/company/korex",
+      "facebook": "https://facebook.com/quidaxhq"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Korapay Technologies",
+    "website": "https://korapay.com/",
+    "description": "Everything payments",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/Korapay",
+      "linkedin": "https://linkedin.com/company/kora-pay",
+      "facebook": "https://facebook.com/theKoraPay/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Infiltron Software Suite & Application",
+    "website": "https://infiltron.net/",
+    "description": "Infiltron is a proactive, real-time IoT cybersecurity solution.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ydc6wp4xjyjjb4wyj7je",
+    "location": "Warner Robins, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/InfiltronApp",
+      "linkedin": "https://linkedin.com/company/infiltron-software-suite",
+      "facebook": "https://facebook.com/pg/InfiltronApp"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Hanzo",
+    "website": "https://hanzo.ai/",
+    "description": "Hanzo is a cutting-edge platform that helps companies quickly scale and fund innovative products and businesses.",
+    "location": "Kansas City, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hanzoai",
+      "linkedin": "https://linkedin.com/company/hanzoai",
+      "facebook": "https://facebook.com/hanzo.io/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Fliqpay",
+    "website": "https://fliqpay.com/",
+    "description": "A cross-border payment system which makes it seamless and affordable for Africans to digitally transact with the rest of the world.",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/fliqpay",
+      "linkedin": "https://linkedin.com/company/fliqpay",
+      "facebook": "https://facebook.com/fliqpay/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Zest",
+    "website": "https://zestapp.co/",
+    "description": "An app that provides an intuitive way to improve at cooking.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/zestisapp",
+      "linkedin": "https://linkedin.com/company/zestapp",
+      "facebook": "https://facebook.com/getzest.is"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Evil Genius Games",
+    "website": "https://evilgeniusgames.com/",
+    "description": "Evil Genius Games is a publisher of tabletop roleplaying games based on movie franchises such as Rambo and Pacific Rim.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ws7ozddn58gtoehtgndh",
+    "location": "San Mateo, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EvilGeniusGames",
+      "linkedin": "https://linkedin.com/company/evil-genius-games",
+      "facebook": "https://facebook.com/EvilGeniusGames"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "V2X Network",
+    "website": "https://v2x.network/",
+    "description": "V2X Network connects the vehicles with service providers like parking, charging, toll etc and allows them to securely exchange data and execute payments.",
+    "location": "Munich, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/v2xnetwork",
+      "linkedin": "https://linkedin.com/company/v2xnetwork"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "List Funding",
+    "website": "https://listfunding.com/",
+    "description": "LiST - Life Settlements Trading - is a Fintech startup transforming the secondary market of life insurance into an efficient market.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/We%20don't%20have%20a%20website.%20The%20link%20above%20is%20to%20our%20presentation.%20We%20didn't%20want%20to%20miss%20the%20registration%20deadline%20today.",
+      "linkedin": "https://linkedin.com/company/list-settlements"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Bred Token",
+    "website": "https://bredtoken.com/",
+    "description": "BRED Token is a real estate fund operating on blockchain technology to enhance investment by utilizing a tokenized offering.",
+    "location": "Burlington, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/bredtoken",
+      "linkedin": "https://linkedin.com/company/bredtoken",
+      "facebook": "https://facebook.com/ThemeRexStudio/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Swarm",
+    "website": "https://swarm.fund/",
+    "description": "Swarm allows you to create and crowdfund a collaborative company.",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SWARM",
+      "linkedin": "https://linkedin.com/company/swarm-fund",
+      "facebook": "https://facebook.com/swarmalliance"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Cambrian Protocol",
+    "website": "https://cambrianprotocol.com/",
+    "description": "Web 3 community focused on decentralizing collaborative work using blockchain technology",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cambrian_eth",
+      "linkedin": "https://linkedin.com/company/cambrian-protocol"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "VO2",
+    "website": "https://vo2.fans/",
+    "description": "VO2 is a platform that uses athlete tokens to better engage fans by offering gated experiences, opportunities, and rewards for token holders.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vo2_fans",
+      "linkedin": "https://linkedin.com/company/vo-two",
+      "facebook": "https://facebook.com/vo2fans"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Scrimmage",
+    "website": "https://blog.scrimmage.co/",
+    "description": "Scrimmage is an app that helps sports bettors gain an edge by sourcing the best odds in the market, automatically syncing their real betting history, providing instant access to price changing news, and allowing for actionable notifications when prices sh",
+    "location": "Del Valle, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Scrimsports",
+      "linkedin": "https://linkedin.com/company/71709659"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Ekei",
+    "website": "https://ekei.net/",
+    "description": "Ekei is revolutionizing logistics with the Supply Cloud: a global, provider-agnostic platform unifying freight forwarding and fulfillment. By leveraging automation, AI-driven optimization, and decentralized data sharing, we slash costs, reduce emissions, and enable seamless collaboration across the entire supply chain.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ekeigroup"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Krak",
+    "website": "https://skatekrak.com/",
+    "description": "KRAK is a social and e-commerce platform for rebellious sports",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/skatekrak",
+      "linkedin": "https://linkedin.com/company/indy-trackers",
+      "facebook": "https://facebook.com/pg/Krakdk/about/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "YourDiamonds",
+    "website": "https://yourdiamonds.com/",
+    "description": "Enabling the diamond industry to solve old-world problems through digital technologies and web3.",
+    "location": "Sydney, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/YourDiamondsCom",
+      "linkedin": "https://linkedin.com/company/yourdiamonds",
+      "facebook": "https://facebook.com/yourdiamondscom/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Maiga",
+    "website": "https://maiga.ai/",
+    "description": "Decentralized AI, agentic and digital asset economy.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "twitter": "https://twitter.com/MAIGA_AI",
+      "linkedin": "https://linkedin.com/company/thirdfiorg"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Staxe",
+    "website": "https://staxe.io/",
+    "description": "Enabling music and creative production economies in web3.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vexhaxlismam29ts10zo",
+    "location": "Zug, Switzerland",
+    "social_media": {
+      "twitter": "https://twitter.com/staxeproject",
+      "linkedin": "https://linkedin.com/company/staxe-io",
+      "facebook": "https://facebook.com/staxeproject"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Recheck",
+    "website": "https://recheck.io/",
+    "description": "Objective and transparent monitoring and certification of energy, sustainability, and air quality performance of commercial real estate.",
+    "location": "Heerlen, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/recheck_io",
+      "linkedin": "https://linkedin.com/company/recheck-bv",
+      "facebook": "https://facebook.com/recheck.io/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "MegaFans",
+    "website": "https://megafans.com/",
+    "description": "Mobile esports platform bridging web2 to web3 for gamers and enabling game developers to increase their player lifetime value.",
+    "location": "Carlsbad, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MegafansEsports",
+      "linkedin": "https://linkedin.com/company/megafans-com",
+      "facebook": "https://facebook.com/MegafansEsports/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "LiveDuel",
+    "website": "https://liveduel.com/",
+    "description": "DeFi-powered digital sports markets and live fan engagement.",
+    "location": "Cork, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/LiveDuel",
+      "linkedin": "https://linkedin.com/company/liveduel",
+      "facebook": "https://facebook.com/liveduel"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Holos",
+    "website": "https://holos.io/",
+    "description": "A virtual reality content management system that makes it super easy for curriculum designers to create and deploy immersive learning experiences.",
+    "location": "Madison, Wisconsin, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/holosVR",
+      "linkedin": "https://linkedin.com/company/holos-global",
+      "facebook": "https://facebook.com/holosXR/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Evercity",
+    "website": "https://evercity.io/",
+    "description": "Blockchain platform to issue, manage and monitor green and sustainable finance instruments.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "twitter": "https://twitter.com/evercityeco",
+      "linkedin": "https://linkedin.com/company/evercity",
+      "facebook": "https://facebook.com/evercityeco"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Eczodex",
+    "website": "https://eczodex.com/",
+    "description": "Building the bridge between TradFi and DeFi.",
+    "location": "Cambridge, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/eczodex",
+      "linkedin": "https://linkedin.com/company/eczodex"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "DLT Payments",
+    "website": "https://dltpay.com/",
+    "description": "Web3 business payments processing for digital assets, stablecoins and CBDCs.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/n6j2grwotknibrltcrd1",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "twitter": "https://twitter.com/dltpay",
+      "linkedin": "https://linkedin.com/company/dltpay",
+      "facebook": "https://facebook.com/dltpay"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Crowdclass",
+    "website": "https://crowdclass.com/",
+    "description": "Grow community engagement & brand loyalty with digital experiences powered by Collectibles and NFTs",
+    "location": "Lisbon, Portugal",
+    "social_media": {
+      "twitter": "https://twitter.com/crowdclassNFTs",
+      "linkedin": "https://linkedin.com/company/crowdclass"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Big Fan",
+    "website": "https://bigfan.io/",
+    "description": "Reinventing sports collectibles with officially licensed NFTs that provide access to Metaverse-driven fan experiences.",
+    "location": "Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/BigFan_io",
+      "linkedin": "https://linkedin.com/company/big-fan-io",
+      "facebook": "https://facebook.com/BigFanCollectibles/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Barterchain",
+    "website": "https://barterchain.io/",
+    "description": "Trade your talents, swap your skills and earn rewards.",
+    "location": "Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/barterchainapp",
+      "linkedin": "https://linkedin.com/company/barterchain",
+      "facebook": "https://facebook.com/barterchainapp/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Aphid",
+    "website": "https://aphid.com/",
+    "description": "Aphid is an AI control system that allows individuals and businesses to power digital AI bots to work and earn on their behalf.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/aphidAI",
+      "linkedin": "https://linkedin.com/company/aphid",
+      "facebook": "https://facebook.com/AphidCorporation/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Alphabloq",
+    "website": "https://alphabloq.tech/",
+    "description": "A blockchain services firm tokenizing real estate enabling investors to purchase a fraction of the property.",
+    "location": "Nairobi, Kenya",
+    "social_media": {},
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Carbontribe Labs",
+    "website": "https://carbontribe.me/",
+    "description": "ReFi, Computer Vision MRV, Satellite x Machine Learning, Mangrove, Carbon Credit",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/awsoglgeqpldi0plhn23",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/Carbontribeme",
+      "linkedin": "https://linkedin.com/company/carbontribe"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Tellescope",
+    "website": "https://tellescope.com/",
+    "description": "More than just a \"Patient CRM\", Tellescope provides a single place for businesses to manage the entire digital patient experience.",
+    "location": "Marlton, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/JoinTellescope",
+      "linkedin": "https://linkedin.com/company/tellescope",
+      "facebook": "https://facebook.com/JoinTellescope"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Some",
+    "website": "https://some.place/",
+    "description": "some.place bridges the gap between online and in-store experiences, creating a new era of retail engagement via loyalty and personalization.",
+    "location": "North Bondi, New South Wales, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/some_place"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "RisksessAML",
+    "website": "https://getraml.com/",
+    "description": "RAML helps FinTechs accurately, efficiently and securely assess their money laundering risks, and create a risk based compliance ecosystem driving time and costs reduction ordinarily associated with AML compliance.",
+    "location": "Coventry, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/raml"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Liquify",
+    "website": "https://liquify.digital/",
+    "description": "Invoice financing marketplace connecting African SMEs with global capital markets.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/liquifyglobal",
+      "linkedin": "https://linkedin.com/company/liquifydigital"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Esoteric",
+    "website": "https://esoteric.style/",
+    "description": "Esoteric helps fashion obsessives create their most cutting edge outfits by providing a virtual wardrobe and personalised styling tool.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ghwutvaa29ugzix0dzvx",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/80020850",
+      "facebook": "https://facebook.com/esoteric2"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Esca",
+    "website": "https://escamenu.com/",
+    "description": "An automated stable digital currency savings solution for businesses in emerging markets",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/veltjcsf2gpcwh260t8x",
+    "location": "Killucan, Westmeath, Ireland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/esca-menu",
+      "facebook": "https://facebook.com/escacontactless"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Combat IQ",
+    "website": "https://combatiq.io/",
+    "description": "The world's first Computer Vision powered analytics company dedicated to Combat Sports",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hemk4o3cg9ex06nonylp",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/combat-iq",
+      "facebook": "https://facebook.com/combatiq"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Buildoor Labs",
+    "website": "https://buildoor.xyz/",
+    "description": "A Usability Infrastructure to simplify UX, retain, engage and track users in Web3",
+    "location": "Wardha, Maharashtra, India",
+    "social_media": {
+      "twitter": "https://twitter.com/%20buildoorxyz",
+      "linkedin": "https://linkedin.com/company/buildoorlabs"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Asterizm",
+    "website": "https://asterizm.io/",
+    "description": "Asterizm is an enterprise-oriented blockchain interoperability layer that provides confidential data transfer through an encrypted channel.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/b5ajt2iwuvzezvtuy1ys",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Asterizm_layer",
+      "linkedin": "https://linkedin.com/company/asterizm"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "DeFiner",
+    "website": "https://definer.org/",
+    "description": "DeFiner is a true peer-to-peer network for digital savings, loans, and payments.",
+    "location": "Minneapolis, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/definerorg",
+      "linkedin": "https://linkedin.com/company/definerorg",
+      "facebook": "https://facebook.com/DeFinerOrg"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "TrustWare",
+    "website": "https://trustware.io/",
+    "description": "TrustWare is the simplest way to store, protect and use digital assets.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Trustware_io",
+      "linkedin": "https://linkedin.com/company/trustwareio"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "THX Network",
+    "website": "https://thx.network/",
+    "description": "Low-code infrastructure and tooling, making web3 accessible for web2 communities and creators, increasing their engagement and revenue.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xj5xq5wrgrfghi4kqnhn",
+    "location": "Amsterdam, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/thxprotocol",
+      "linkedin": "https://linkedin.com/company/thxprotocol"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Savex",
+    "website": "https://getsavex.com/",
+    "description": "Permissionless infrastructure company for cross-border payments",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ls8xbd4o7dbhvv4nyi0l",
+    "location": "South Lake Tahoe, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getsavex",
+      "linkedin": "https://linkedin.com/company/getsavex"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Quest",
+    "website": "https://questlabs.ai/",
+    "description": "Leverage data across chains and platforms",
+    "location": "Livermore, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/quest__labs",
+      "linkedin": "https://linkedin.com/company/questai"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Protico",
+    "website": "https://protico.io/",
+    "description": "The future of a universal chatting interface across all websites and apps",
+    "location": "Taipei, Taiwan",
+    "social_media": {
+      "twitter": "https://twitter.com/protico_io",
+      "linkedin": "https://linkedin.com/company/protico",
+      "facebook": "https://facebook.com/web3.chat"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Porthos & Co",
+    "website": "https://porthos.co/",
+    "description": "Porthos & Co does bespoke finance for the entrepreneurial by digitally assembling a full range of data from open banking to property and private shares and so prove affordability and suitability at scale. We are the only UK business that can achieve this.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/porthos_co",
+      "linkedin": "https://linkedin.com/company/porthos-co",
+      "facebook": "https://facebook.com/porthosco"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Peerkat",
+    "website": "https://peerkat.com/",
+    "description": "Fungible token data for NFT related projects on the XRPL",
+    "location": "Stowmarket, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/PeerkatOfficial",
+      "linkedin": "https://linkedin.com/company/peerkatofficial",
+      "facebook": "https://facebook.com/itspeerkat/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Ospree",
+    "website": "https://ospree.io/",
+    "description": "One seamless AML solution that brings together travel rule, blockchain analytics, and customer onboarding.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "twitter": "https://twitter.com/Ospree_io",
+      "linkedin": "https://linkedin.com/company/ospree",
+      "facebook": "https://facebook.com/OspreeRegTech"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "OLTA",
+    "website": "https://olta.art/",
+    "description": "A platform and marketplace for interactive dynamic NFTs.",
+    "location": "Bristol, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/OltaArt",
+      "linkedin": "https://linkedin.com/company/olta-art"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "N3MUS",
+    "website": "https://n3mus.com/",
+    "description": "N3MUS serves as the essential bridge, connecting traditional gamers to blockchain technology while providing a cost-effective and user-friendly gaming experience.\n\nN3MUS approach involves standardising services and infrastructure for the gaming industry, thereby reducing development costs and time to market, ensuring technology stability, and avoiding long-term technical debt.",
+    "location": "Westervoort, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/N3musFdn",
+      "linkedin": "https://linkedin.com/company/n3mus"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Mintycode",
+    "website": "https://mintycode.io/",
+    "description": "Building value for software creators with Web3\r\nMintyCode is building the Web3 ecosystem to support software creators. including: Decentralised IP (DeIP), NFT software licenses and license marketplace.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/MintyCodeDao",
+      "linkedin": "https://linkedin.com/company/mintycode-dao"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Loki",
+    "website": "https://lokicode.io/",
+    "description": "Build better smart contracts together, faster.",
+    "location": "Concord, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getlokicode",
+      "linkedin": "https://linkedin.com/company/get-loki-code"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Fathom",
+    "website": "https://fathompbc.org/",
+    "description": "For workforce directors with applicant tracking and job placement challenges, we provide a career management platform that streamlines employment, training, and support services for workforce agencies and organizations.",
+    "location": "Antioch, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fathom_pbc",
+      "linkedin": "https://linkedin.com/company/fathompbc"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "31Third",
+    "website": "https://31third.com/",
+    "description": "Decentralized asset management infrastructure radically optimizing trade execution and portfolio management in DeFi.",
+    "location": "Vienna, Austria",
+    "social_media": {
+      "twitter": "https://twitter.com/31ThirdProtocol",
+      "linkedin": "https://linkedin.com/company/31third"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Savium",
+    "website": "https://savium.co.uk/",
+    "description": "PennyChain is a B2C application that allows users to automatically invest their spare change into crypto assets.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/savium"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "MyAniml",
+    "website": "https://myaniml.com/",
+    "description": "Using AI to predict and track diseases in cattle.",
+    "location": "Overland Park, Kansas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/myaniml",
+      "linkedin": "https://linkedin.com/company/myaniml"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "LZero Analytics",
+    "website": "https://lzeroanalytics.com/",
+    "description": "LZero is an enterprise-grade, testnet-as-a-service platform that revolutionizes the development and testing of on-chain applications",
+    "location": "Southampton, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/91644729"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Atom Universe",
+    "website": "https://atomstars.com/",
+    "description": "Metaverse-as-a-Service offering brands to launch their own metaverse platform to engage their user in breathtaking white label virtual worlds",
+    "location": "Woking, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/AtomRepublic",
+      "linkedin": "https://linkedin.com/company/atom-republic",
+      "facebook": "https://facebook.com/AtomRepublic"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "ProofSpace",
+    "website": "https://proofspace.id/",
+    "description": "No-code platform for reusable identity.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/proof_space",
+      "linkedin": "https://linkedin.com/company/joinproofspace"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Pawpass",
+    "website": "https://usepawpass.com/",
+    "description": "Digital identification for animals.",
+    "location": "Bath, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/usepawpass",
+      "linkedin": "https://linkedin.com/company/usepawpass"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Millicent",
+    "website": "https://millicent.io/",
+    "description": "The open smart contract platform for compliant real-world DeFi.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/MillicentLabs",
+      "linkedin": "https://linkedin.com/company/millicentlabs"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Lantern Finance",
+    "website": "https://lantern.finance/",
+    "description": "Custodial staking and lending services for the everyday investor.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LanternFi",
+      "linkedin": "https://linkedin.com/company/lantern-fi"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "GenoBank",
+    "website": "https://genobank.io/",
+    "description": "Ensuring the privacy and data ownership of your genetic information.",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/genobank_io",
+      "linkedin": "https://linkedin.com/company/genobank-io",
+      "facebook": "https://facebook.com/genobank/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "FileMarket",
+    "website": "https://filemarket.xyz/",
+    "description": "Multichain data tokenization protocol for storage and P2P digital goods trading.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FileMarket_xyz",
+      "linkedin": "https://linkedin.com/company/filemarketxyz"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Ember AI",
+    "website": "https://emberai.xyz/",
+    "description": "AI DeFi companion that understands what you want and helps you do it securely, without new apps or hardware.",
+    "location": "Broomfield, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EmberAGI",
+      "linkedin": "https://linkedin.com/company/emberagi"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Digital Will",
+    "website": "https://digitalwill.co.jp/",
+    "description": "Digital Will's WORTAL empowers game studios to swift distribution, enhanced monetization, and cost-effective efficiency",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/tgpfd36bgksi4tma1hfi",
+    "location": "Minato City, Japan",
+    "social_media": {
+      "twitter": "https://twitter.com/digitalwillinc",
+      "linkedin": "https://linkedin.com/company/digital-will",
+      "facebook": "https://facebook.com/digitalwillinc/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Beezie",
+    "website": "https://beezie.io/",
+    "description": "Transforming the world of collectibles",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/beezie_io",
+      "linkedin": "https://linkedin.com/company/beezie"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Artizen",
+    "website": "https://artizen.fund/",
+    "description": "Match-funding platform for breakthroughs in human creativity.",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ArtizenFund",
+      "linkedin": "https://linkedin.com/company/artizen-fund"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "bridge21",
+    "website": "https://bridge21inc.com/",
+    "description": "bridge21 is an lets individuals and businesses send money overseas at discount rates by capitalizing on international cryptocurrency price disparities.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bridge21inc",
+      "linkedin": "https://linkedin.com/company/bridge21official",
+      "facebook": "https://facebook.com/bridge21official/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Legends",
+    "website": "https://livemylegend.com/",
+    "description": "Legends transforms phone and photo data into actionable consumer insights to help brands personalize.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/livemylegends",
+      "linkedin": "https://linkedin.com/company/livemylegend",
+      "facebook": "https://facebook.com/livemylegend11/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Humine",
+    "website": "https://huminelabs.com/",
+    "description": "For clinical trials that experience non-adherence and poor enrollment, Humine provides a privacy and participant centric platform that leads with equitable collaboration through immediate crypto/cash incentives to participants allowing researchers to generate a remarkably high yield of reliable data in studies of any scale across several therapeutic areas.",
+    "location": "Mississauga, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/humine"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Homebase",
+    "website": "https://homebasedao.io/",
+    "description": "Homebase fractionalizes high quality, residential real estate via NFTs that allow you to receive income, capital growth, and eventually borrow from your assets.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rhhi2kxycr6bq36pyc1u",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/homebasedao"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Staax",
+    "website": "https://staaxapp.com/",
+    "description": "The profitable peer-to-peer payment, which makes building wealth through investing in stocks as easy as receiving payment from your friends.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/staax"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Fonbnk",
+    "website": "https://fonbnk.com/",
+    "description": "We turn your mobile SIM card into a bank.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fonbnk1",
+      "linkedin": "https://linkedin.com/company/fonbnk-inc",
+      "facebook": "https://facebook.com/TheFonbnkTeller/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "SendFriend",
+    "website": "https://sendfriend.io/",
+    "description": "SendFriend uses blockchain technology to dramatically reduce the cost of cross-border consumer payments.",
+    "location": "Jersey City, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sendfriendinc",
+      "linkedin": "https://linkedin.com/company/sendfriend",
+      "facebook": "https://facebook.com/sendfriendinc"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Fintros",
+    "website": "https://fintros.com/",
+    "description": "Fintros enables companies to hire people not applying to their jobs.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/fintroductions",
+      "linkedin": "https://linkedin.com/company/fintros",
+      "facebook": "https://facebook.com/fintros/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "KYD Labs",
+    "website": "https://kydlabs.com/",
+    "description": "KYD is a blockchain-enabled event ticketing platform that unlocks long term loyalty, resale revenue for live event hosts and ensures buyers get authentic resale tickets.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/kydlabs",
+      "linkedin": "https://linkedin.com/company/kydlabsco"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Healthy Hip Hop",
+    "website": "https://healthy.hiphop/",
+    "description": "Healthy Hip Hop is an online platform powered by the arts and social interaction. The \"Sesame Street of the 21st Century\".",
+    "location": "Kansas City, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/healthy_hip_hop",
+      "linkedin": "https://linkedin.com/company/healthy-hip-hop",
+      "facebook": "https://facebook.com/healthyhiphop"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Foto Visura",
+    "website": "https://visura.co/",
+    "description": "Visura is a marketplace for publishers to license visual content from freelancers.",
+    "location": "Stowe, Vermont, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/visuramedia",
+      "linkedin": "https://linkedin.com/company/visura-media",
+      "facebook": "https://facebook.com/visura.co/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Kedeon",
+    "website": "https://kedeonsolutions.com/",
+    "description": "Trustable real-time monitoring to ensure perfect quality of deliveries.",
+    "location": "Riga, Latvia",
+    "social_media": {
+      "twitter": "https://twitter.com/kedeonsolutions",
+      "linkedin": "https://linkedin.com/company/kedeon",
+      "facebook": "https://facebook.com/kedeon/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "eTEU",
+    "website": "https://eteu.co.uk/",
+    "description": "eTEU automates the process of document creation and digitises the transfer of cargo documents in the shipping industry with the help of blockchain technology.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/eteutech",
+      "linkedin": "https://linkedin.com/company/eteutech"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Zimbali Networks",
+    "website": "https://zimbalinetworks.com/",
+    "description": "A web3, digital currency-as-a-service platform.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/zimbalinetworks",
+      "linkedin": "https://linkedin.com/company/zimbalinetworks",
+      "facebook": "https://facebook.com/zimbalinetworks/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Xworks Tech",
+    "website": "https://xworkstech.com/",
+    "description": "Data-driven circular economy making smart connections for waste and recycling as a service",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/TechXworks",
+      "linkedin": "https://linkedin.com/company/xworks-tech"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Vertru Technologies",
+    "website": "https://vertru.co/",
+    "description": "Vertru: where Google meets Bloomberg for ESG data",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/jagkgill"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "unremot",
+    "website": "https://unremot.com/",
+    "description": "unremot is a personal office for independent professionals that allows one to discover, request, pay, schedule, and conduct meetings - all of it in one place!",
+    "location": "Kochi, Kerala, India",
+    "social_media": {
+      "twitter": "https://twitter.com/unremot_hq",
+      "linkedin": "https://linkedin.com/company/unremot",
+      "facebook": "https://facebook.com/unremot"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Sportsicon",
+    "website": "https://sportsicon.co/",
+    "description": "Connect with the greatest sportspeople of all time through NFTs.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/SportsIcon_",
+      "linkedin": "https://linkedin.com/company/sportsicon",
+      "facebook": "https://facebook.com/SportsIcon.co/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Sparen Homes",
+    "website": "https://sparenhomes.com/",
+    "description": "A real estate marketplace that uses predictive algorithms to discover and connect interested buyers to the right sellers, saving them both time and money.",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sparenhomes",
+      "linkedin": "https://linkedin.com/company/sparenhomes",
+      "facebook": "https://facebook.com/sparenhomes"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "SoleSafe",
+    "website": "https://solesafe.co/",
+    "description": "SoleSafe is an asset management platform for sneakers and other collectables.",
+    "location": "Saint Paul, Minnesota, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/solesafe",
+      "facebook": "https://facebook.com/solesafeco"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Smeisty",
+    "website": "https://smeisty.com/",
+    "description": "Smeisty is a single platform that supports companies at every stage of their NFT journey.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/daddioeth",
+      "linkedin": "https://linkedin.com/company/smeisty-co"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Radia",
+    "website": "https://radia.world/",
+    "description": "Radia is a web3 music company building the first multi-chain and multi-web wallet for media & entertainment",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/JessicaLawson92",
+      "linkedin": "https://linkedin.com/company/radia-world"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "PSI",
+    "website": "https://psi-mobile.com/",
+    "description": "SURU, a startup harnessing collective intelligence for better decision making.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/psimobilehq",
+      "linkedin": "https://linkedin.com/company/psi-mobile-ltd",
+      "facebook": "https://facebook.com/PSIMobile/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "PeepConnect",
+    "website": "https://peepwaitlist.com/",
+    "description": "We transform customers into brand ambassadors to help local businesses increase buying frequency and basket size.",
+    "location": "Kansas City, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ConnectPeep",
+      "linkedin": "https://linkedin.com/company/peep-connect",
+      "facebook": "https://facebook.com/peepconnect/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Own the Moment NFT",
+    "website": "https://otmnft.com/",
+    "description": "Own the Moment (OTM) is building the Bloomberg for NFTs. OTM is a content and analytics platform that helps collectors and investors along their NFT journey.",
+    "location": "St. Petersburg, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/OwnTheMomentNFT",
+      "linkedin": "https://linkedin.com/company/own-the-moment-nft"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Lawyerd!",
+    "website": "https://lawyerd.net/",
+    "description": "Eliminate the scammers making money with your IP",
+    "location": "Wrocław, Poland",
+    "social_media": {
+      "twitter": "https://twitter.com/Lawyerd_net",
+      "linkedin": "https://linkedin.com/company/lawyerd-llc",
+      "facebook": "https://facebook.com/Lawyerd"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "HiddenLogin",
+    "website": "https://hiddenlogin.com/",
+    "description": "An anonymous privacy layer for the web",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hiddenlogin"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "GRIND Interactive",
+    "website": "https://grindbasketball.com/",
+    "description": "GRIND has developed the first portable rebounding machine enabling optimal daily repetition to reach peak performance.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GrindBasketbal",
+      "linkedin": "https://linkedin.com/company/grind-inc.",
+      "facebook": "https://facebook.com/grindspaces"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "CINEVVA",
+    "website": "https://cinevva.com/",
+    "description": "Cinevva - Turning Creatives Without Tech Skills Into Game Makers",
+    "location": "The Woodlands, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cinevvagames",
+      "linkedin": "https://linkedin.com/company/cinevva",
+      "facebook": "https://facebook.com/cinevvagames/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Chroma Signet",
+    "website": "https://chromasignet.com/",
+    "description": "Chroma Signet is a new crypto-native barcode that connects to an open source supply chain provenance platform.",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/chromasignet",
+      "linkedin": "https://linkedin.com/company/chroma-games",
+      "facebook": "https://facebook.com/chromafund/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "REXIAL",
+    "website": "https://rexial.com/",
+    "description": "REXIAL automates recurring payments in Africa using direct debits for bills directly from customer's Bank or Mobile Money accounts.",
+    "location": "Port Jefferson, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rexial"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Movez",
+    "website": "https://movez.com/",
+    "description": "For event curators or experience seekers longing to have their cities' experiences mass-marketed, we provide intuitive software that enables immersive event experiences' discoverability, organization & network cultivation end-to-end.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/movezapp",
+      "linkedin": "https://linkedin.com/company/movezapp",
+      "facebook": "https://facebook.com/movezapp"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Hash App",
+    "website": "https://hashvest.com/",
+    "description": "An AI-powered global investing app that lets US retail investors easily invest globally, especially in emerging markets financial securities, smart portfolios, and digital assets.",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gethashapp",
+      "linkedin": "https://linkedin.com/company/hashvest",
+      "facebook": "https://facebook.com/gohashapp"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Wage",
+    "website": "https://playwage.io/",
+    "description": "Wage is a mobile app which allows players to create virtual portfolios and compete head-to-head for money. Wage combines elements of alternative assets, gaming, finance, and sports betting.",
+    "location": "Suwanee, Georgia, United States",
+    "social_media": {},
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Trinium Labs",
+    "website": "https://triniumlabs.com/",
+    "description": "AI-powered investment co-pilot + tools that simplify complex financial indicators, helping novice and professional investors make trading decisions more easily and uncovering opportunities that were previously obscured by complexity.",
+    "location": "San Jose, California, United States",
+    "social_media": {},
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Sparrow",
+    "website": "https://joinsparrow.co/",
+    "description": "The premiere destination for all things crypto for women, by women.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sparrow_invest",
+      "linkedin": "https://linkedin.com/company/sparrowfinance"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "DubPrime",
+    "website": "https://dubprime.com/",
+    "description": "For lenders that want to grow revenue and be more inclusive, we provide Explainable AI Underwriting.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dubprime-inc"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Blue Saturn",
+    "website": "https://bluesaturn.io/",
+    "description": "A 7-day hiring engine to simplify the complicated hiring process",
+    "location": "Davie, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/JoinBlueSaturn",
+      "linkedin": "https://linkedin.com/company/joinbluesaturn"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Nabu",
+    "website": "https://nabu.io/",
+    "description": "AI Agents for customs clearance",
+    "location": "Strasbourg, France",
+    "social_media": {
+      "twitter": "https://twitter.com/nabu_io",
+      "linkedin": "https://linkedin.com/company/nabu-io",
+      "facebook": "https://facebook.com/Nabu.Life2/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Vestinda",
+    "website": "https://vestinda.com/",
+    "description": "Platform empowering users and their investments in digital assets.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/onwpwlh6mj6sl1ruew13",
+    "location": "Voluntari, Romania",
+    "social_media": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/company/vestinda",
+      "facebook": "https://facebook.com/vestinda/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "TEST JAR LABS",
+    "website": "https://testjarlabs.com/",
+    "description": "A future focused experimentation brand with an emphasis on tech and entertainment.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ki5cd7v4ge3mkgug0e6t",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/testjarlabs",
+      "linkedin": "https://linkedin.com/company/testjarlabs"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Reibase",
+    "website": "https://reibase.rs/",
+    "description": "A protocol to incentivize open source",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/g1w23gfjk7dnqyz6iuol",
+    "location": "New York City, New York, United States",
+    "social_media": {},
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Pocmi",
+    "website": "https://pocmi.com/",
+    "description": "Global job marketplace and end-to-end services resource on a SaaS platform catering only to movement across borders.",
+    "location": "Kingston, Saint Andrew Parish, Jamaica",
+    "social_media": {
+      "twitter": "https://twitter.com/pocmi_inc",
+      "linkedin": "https://linkedin.com/company/pocmi"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Moss",
+    "website": "https://moss.social/",
+    "description": "One place for the news and events you care about from your web3 communities",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ei5rphmpc3iwlgabv2bp",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/moss_social",
+      "linkedin": "https://linkedin.com/company/moss-social-web3"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "MCLedger",
+    "website": "https://mcledger.fr/",
+    "description": "MCLedger makes innovative Cloud, AI, and Blockchain applications for Supply chain and Fintech.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ihubif9tkozxaee5t6a6",
+    "location": "Palaiseau, France",
+    "social_media": {
+      "twitter": "https://twitter.com/mc_ledger",
+      "linkedin": "https://linkedin.com/company/mcledger",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Made with Black Culture",
+    "website": "https://madewithblackculture.com/",
+    "description": "Establishes an ethical trade standard for commercializing culture.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/yobhlbjeh4v1x6zfl7ow",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/made-with-black-culture"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "ezWiFi",
+    "website": "https://ezwi.fi/",
+    "description": "WiFi platform providing an extra source of monetary income whenever customers connect to their network and view an advertisement.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/sxjk9ucrjmnyorokp6fv",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ezwifitech"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Ephere Football",
+    "website": "https://ephere.football/",
+    "description": "Empowering blockchain gaming experiences for football fans.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/yujabx5g1ywjpbmfpprh",
+    "location": "Montevideo, Uruguay",
+    "social_media": {
+      "twitter": "https://twitter.com/ephere_football",
+      "linkedin": "https://linkedin.com/company/epherefootball",
+      "facebook": "https://facebook.com/epherefootball"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Column",
+    "website": "https://joincolumn.com/",
+    "description": "A new social network that puts users in control of their content",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rxnrqjudvhrnnb8jboba",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/column-inc"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Aya Holding",
+    "website": "https://beta.ayagigs.com/",
+    "description": "Aya is a curated marketplace for start-ups and mid-level businesses to access vetted web3 digital skilled African talents.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/x9lbs8istzrmewn3o0ld",
+    "location": "Parkville, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ayagigs",
+      "linkedin": "https://linkedin.com/company/ayagigs",
+      "facebook": "https://facebook.com/myayagigs"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Armur Ai",
+    "website": "https://armur.ai/",
+    "description": "Decentralized autonomous cyber security",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/armurai"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Apxlending",
+    "website": "https://apxlending.com/",
+    "description": "APX Lending provides compliant, safe and secure lending solutions.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/urzaaivdecouqao6erjj",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/apxlending"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Taro Finance",
+    "website": "https://tarofi.io/",
+    "description": "Taro Finance provides the infrastructure necessary to compliantly securitize real world assets as tokens on a blockchain to drive access, liquidity, and transparency in global capital markets.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tarofinance"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "CubeNexus",
+    "website": "https://cubenexus.xyz/",
+    "description": "CubeNexus is a software startup developing innovative solutions for data monetization and geolocation. Our flagship B2B SaaS product enables companies to monetize dead or unused data by geocoding it with unparalleled precision. The software organizes data into a time-based, volumetric location system, allowing businesses to extract actionable insights from previously underutilized datasets.",
+    "location": "Columbus, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cubenexus"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Blawesome",
+    "website": "https://blawesome.life/",
+    "description": "Helping Wellness Creators grow, manage and monetize their communities using practice management system tools and social tokens",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/myztfbq4ffdxntruqucy",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/Blawesomelife",
+      "linkedin": "https://linkedin.com/company/blawesome-together"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Halotrade",
+    "website": "https://halotrade.io/",
+    "description": "HaloTrade is an application to drive sustainable and transparent global supply chains, combining blockchain technology, mobile apps and supplier financing.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/haloethical",
+      "linkedin": "https://linkedin.com/company/halotrade"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "StageKeep",
+    "website": "https://stagekeep.com/",
+    "description": "Collaborative tool for creators to easily manage, design and review the pre-production logistics, rehearsals and videos for performance productions saving stakeholders time and money.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/thfcs3xoffowg4lzbumt",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/stagekeep",
+      "linkedin": "https://linkedin.com/company/stagekeep",
+      "facebook": "https://facebook.com/stagekeep"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Zealous",
+    "website": "https://zealous.app/",
+    "description": "Zealous helps decentralized teams turn conversations into collaborative work.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/zealous_app",
+      "linkedin": "https://linkedin.com/company/zealousapp",
+      "facebook": "https://facebook.com/zealousapp/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Freeflow",
+    "website": "https://freeflow.dev/",
+    "description": "The blockchain developer marketplace for web3 projects.",
+    "location": "Claymont, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FreeflowDev",
+      "linkedin": "https://linkedin.com/company/freeflowdev"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Chainstarters",
+    "website": "https://chainstarters.com/",
+    "description": "Add Web3 to your business without hiring new developers.",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Chainstarters",
+      "linkedin": "https://linkedin.com/company/66729400"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Vaultoro",
+    "website": "https://vaultoro.com/",
+    "description": "Vaultoro is an internet platform where you can buy and sell physical gold. real-time, low fees, bank independent.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/vaultoro",
+      "linkedin": "https://linkedin.com/company/vaultoro",
+      "facebook": "https://facebook.com/vaultoro"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "UfarmX",
+    "website": "https://ufarmx.com/",
+    "description": "UfarmX is an AI-driven agri-fintech platform that provides farmers with collateral-free, input-based loans by analyzing geospatial and socioeconomic data. Our technology de-risks agricultural lending, enabling financial institutions to scale farmer financing while helping agribusinesses streamline procurement and market access.",
+    "location": "Elkridge, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ufarmx"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Krater",
+    "website": "https://krater.io/",
+    "description": "A platform for crypto investors, hosting providers, and hardware merchants to connect.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jzarbzendz2ygnrhqrgz",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/Krater_io",
+      "linkedin": "https://linkedin.com/company/krater-tech",
+      "facebook": "https://facebook.com/motiohead/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Glidera",
+    "website": "https://glidera.io/",
+    "description": "Glidera enables developers to add bitcoin buying and selling services into their applications.",
+    "location": "Elmhurst, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gliderainc",
+      "linkedin": "https://linkedin.com/company/glidera",
+      "facebook": "https://facebook.com/Glidera"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Lore",
+    "website": "https://lore.com/",
+    "description": "Social online course management",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Learn",
+      "linkedin": "https://linkedin.com/company/lore-online",
+      "facebook": "https://facebook.com/lorenetwork"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Educhain",
+    "website": "https://educhain.io/",
+    "description": "Educhain enables secure issuance, sharing, and verification of blockchain-enabled records.",
+    "location": "Port Moody, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/educhainio",
+      "linkedin": "https://linkedin.com/company/educhain",
+      "facebook": "https://facebook.com/wordpress"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Nodesmith",
+    "website": "https://nodesmith.io/",
+    "description": "Nodesmith is a platform that connects applications to decentralized blockchain networks.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nodesmith",
+      "linkedin": "https://linkedin.com/company/nodesmith"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "INVIOU",
+    "website": "https://inviou.com/",
+    "description": "INVIOU is a platform for registry networks, eliminating information asymmetry, boosting collaboration, preventing  fraud and reducing friction.",
+    "location": "Caesarea, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/INVioUplatform",
+      "linkedin": "https://linkedin.com/company/inviou"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Gilded",
+    "website": "https://gilded.finance/",
+    "description": "Crypto Payments and Accounting Automation",
+    "location": "New Orleans, Louisiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GildedFinance",
+      "linkedin": "https://linkedin.com/company/gilded",
+      "facebook": "https://facebook.com/GildedDSG/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Spark Change",
+    "website": "https://sparkchange.io/",
+    "description": "Spark is a financial instrument that makes investing in carbon as easy as investing in the stock market, allowing individuals to erase their carbon footprint.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sparkchangeuk",
+      "linkedin": "https://linkedin.com/company/sparkchange",
+      "facebook": "https://facebook.com/Spark-124957294064/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Karma",
+    "website": "https://yourkarma.com/",
+    "description": "Simple mobile provider",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/KarmaBlockchain",
+      "linkedin": "https://linkedin.com/company/karma-assistant",
+      "facebook": "https://facebook.com/karma.blockchain/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Xpand",
+    "website": "https://linkedin.com/company/xpandgaming",
+    "description": "Xpand is a community-engagement platform for the web3 world.",
+    "location": "Winston-Salem, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/xpandgaming",
+      "linkedin": "https://linkedin.com/company/xpandgaming",
+      "facebook": "https://facebook.com/XPAND-Gaming-100179724707035/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Tallysticks",
+    "website": "https://linkedin.com/company/tallysticks",
+    "description": "Tallysticks is a blockchain-based transactional network that automates invoicing and invoice financing processes.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/TallysticksIO",
+      "linkedin": "https://linkedin.com/company/tallysticks"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Synswap",
+    "website": "https://linkedin.com/company/synswap",
+    "description": "Synswap provides post-trade services for OTC derivatives using distributed ledger technology.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/synswap",
+      "linkedin": "https://linkedin.com/company/synswap"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Sundar",
+    "website": "https://linkedin.com/company/sundar-inc-",
+    "description": "Vertru: where Google meets Bloomberg for ESG data",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sundarinc",
+      "linkedin": "https://linkedin.com/company/sundar-inc-"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "SportSyncTech",
+    "website": "https://linkedin.com/company/sportsynctech",
+    "description": "SportSyncTech is empowering amateur & professional athletes with Big data, Artificial intelligence and Blockchain.",
+    "location": "Duppigheim, Grand Est, France",
+    "social_media": {
+      "twitter": "https://twitter.com/SportSyncTech",
+      "linkedin": "https://linkedin.com/company/sportsynctech"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "SonX",
+    "website": "https://linkedin.com/company/sonxapp",
+    "description": "We're empowering musicians and celebrating their fans. Changing the way they connect globally.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/sonx",
+      "linkedin": "https://linkedin.com/company/sonxapp"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "SokoDAO",
+    "website": "https://linkedin.com/company/soko-network",
+    "description": "Soko is a web3 recruiting community changing the way the world works",
+    "location": "Lehi, Utah, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/JoinSoko",
+      "linkedin": "https://linkedin.com/company/soko-network",
+      "facebook": "https://facebook.com/sokoincorporated"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "SecureMarking",
+    "website": "https://linkedin.com/company/secure-marking",
+    "description": "SecureMarking is a fully integrated, end-to-end supply chain security platform that incorporates nanotechnology, blockchain, and the Internet of Things.",
+    "location": "Rapid City, South Dakota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/securemarking",
+      "linkedin": "https://linkedin.com/company/secure-marking",
+      "facebook": "https://facebook.com/SecureMarking/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Safurai",
+    "website": "https://linkedin.com/company/safurai",
+    "description": "Safurai is the API for companies that can analyze code and prevent scams for users.",
+    "location": "Genova, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/safurai_",
+      "linkedin": "https://linkedin.com/company/safurai"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "ResonanceX",
+    "website": "https://linkedin.com/company/resonancex",
+    "description": "ResonanceX is a marketplace transforming and optimising the ways to create, distribute and invest in Structured Investments.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/resonancex_io",
+      "linkedin": "https://linkedin.com/company/resonancex",
+      "facebook": "https://facebook.com/resonancex.io/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "PWRFWD",
+    "website": "https://linkedin.com/company/pwrfwd",
+    "description": "PWRFWD is a marketplace that empowers athletes to own their influence.",
+    "location": "Concord, New Hampshire, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pwrfwdshop",
+      "linkedin": "https://linkedin.com/company/pwrfwd",
+      "facebook": "https://facebook.com/PWRFWD/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Nori",
+    "website": "https://linkedin.com/company/noridoteco",
+    "description": "A marketplace for removing CO2 from the atmosphere.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nori",
+      "linkedin": "https://linkedin.com/company/noridoteco",
+      "facebook": "https://facebook.com/noridoteco"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "JAAK",
+    "website": "https://linkedin.com/company/jaak",
+    "description": "JAAK is building a blockchain-based network to allow organisations across the music industry to exchange data in real-time.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/jaak_io",
+      "linkedin": "https://linkedin.com/company/jaak",
+      "facebook": "https://facebook.com/jaak.io"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "hyphen",
+    "website": "https://linkedin.com/company/join-hyphen",
+    "description": "Infrastructure for institutional DeFi, custody, trading, and compliance.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1445135382/w5wwsp2kbop9jnmh9ktq.png",
+    "location": "Berkeley, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HyphenApp",
+      "linkedin": "https://linkedin.com/company/join-hyphen",
+      "facebook": "https://facebook.com/pages/Hyphen/1635658756668081"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "HelloBlock",
+    "website": "https://linkedin.com/company/helloblock",
+    "description": "Hello Block provides node hosting for mainnet and testnet.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/helloblock"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Harvey",
+    "website": "https://linkedin.com/company/harveyimmobilier",
+    "description": "HomeHero powers family directed care.",
+    "location": "Louisville, Kentucky, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/homehero",
+      "linkedin": "https://linkedin.com/company/harveyimmobilier",
+      "facebook": "https://facebook.com/goharveyapp"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Groundhog",
+    "website": "https://linkedin.com/company/groundhog",
+    "description": "Groundhog is a crypto wallet and payment processing platform for merchants enabling recurring payments and other advanced features.",
+    "location": "Halifax, Nova Scotia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/GroundhogPay",
+      "linkedin": "https://linkedin.com/company/groundhog",
+      "facebook": "https://facebook.com/TokenClubHQ/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Greets",
+    "website": "https://linkedin.com/company/cardswap",
+    "description": "Personalized Greeting Cards and Invitations",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cardswap",
+      "linkedin": "https://linkedin.com/company/cardswap",
+      "facebook": "https://facebook.com/ClosetGroupie"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Flux",
+    "website": "https://linkedin.com/company/fluxfinance",
+    "description": "Receipts Reimagined.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/tryflux",
+      "linkedin": "https://linkedin.com/company/fluxfinance",
+      "facebook": "https://facebook.com/tryflux"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Filament",
+    "website": "https://linkedin.com/company/filamentlimited",
+    "description": "A complete hardware + software ecosystem for building the the machine economy.",
+    "location": "Reno, Nevada, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FilamentHQ",
+      "linkedin": "https://linkedin.com/company/filamentlimited",
+      "facebook": "https://facebook.com/filamentag/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Faster Than Light",
+    "website": "https://linkedin.com/company/faster-than-light",
+    "description": "Take away the complexity of building a quality software and let customer to focus on their customers, taking full responsibility of tech part.",
+    "location": "Flushing, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SoHoTokenLabs",
+      "linkedin": "https://linkedin.com/company/faster-than-light",
+      "facebook": "https://facebook.com/SoHoTokenLabs"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Elemetric",
+    "website": "https://linkedin.com/company/15227884",
+    "description": "Elemetric is an API service for the blockchain internet, creating a marketplace that bridges data on the internet today and data used in blockchain applications",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/elemetric_",
+      "linkedin": "https://linkedin.com/company/15227884",
+      "facebook": "https://facebook.com/getelemetric/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Daedalus Technologies",
+    "website": "https://linkedin.com/company/daedalustech",
+    "description": "Developer of a no-code platform intended for algorithmic trading",
+    "location": "Nashville, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/daedalushq",
+      "linkedin": "https://linkedin.com/company/daedalustech"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Crowdz",
+    "website": "https://linkedin.com/company/crowdz",
+    "description": "The Digital Silk Road for Global Commerce",
+    "location": "Campbell, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MyCrowdz",
+      "linkedin": "https://linkedin.com/company/crowdz",
+      "facebook": "https://facebook.com/MyCrowdz"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Capexmove",
+    "website": "https://linkedin.com/company/capexmove",
+    "description": "Capexmove enables investment banks to issue programmable debt securities to service them automatically during their life cycle.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Capexmove",
+      "linkedin": "https://linkedin.com/company/capexmove",
+      "facebook": "https://facebook.com/capexmove/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Bundil",
+    "website": "https://linkedin.com/company/bundil-app",
+    "description": "Easily Invest Your Spare Change Into Cryptocurrency",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/u7mb3ed0raez0qjk8wly",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bundilapp",
+      "linkedin": "https://linkedin.com/company/bundil-app",
+      "facebook": "https://facebook.com/bundilapp/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Bloop Browser",
+    "website": "https://linkedin.com/in/joyqzhang",
+    "description": "Web3 browser that uncovers and visually displays paths across the web for internet users to share with their community.",
+    "location": "Bellevue, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thequarkbrowser",
+      "linkedin": "https://linkedin.com/in/joyqzhang"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Bitback",
+    "website": "https://linkedin.com/company/bitback",
+    "description": "Cashback rewards platform connecting young people and retailers across Africa. 3500+ waitlist. Growing 20% weekly. Former IDEO CoLab residents #Africa #Consumer #Mobile #loyalty #cashback",
+    "location": "Ottawa, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/getbitback",
+      "linkedin": "https://linkedin.com/company/bitback",
+      "facebook": "https://facebook.com/getbitback/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Bailport",
+    "website": "https://linkedin.com/company/bailport",
+    "description": "A multi-currency e-wallet that helps users exchange, save and send money instantly at the best possible rates- within and beyond Africa.",
+    "location": "Auburn, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bail_port",
+      "linkedin": "https://linkedin.com/company/bailport",
+      "facebook": "https://facebook.com/BailPortLLC/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Autom8",
+    "website": "https://linkedin.com/company/autom8-network",
+    "description": "The world's first open   serverless platform",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/autom8-network"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Atlas",
+    "website": "https://linkedin.com/company/project-atlas-app",
+    "description": "Atlas is committed to building a fairer world for Authors, creating delightful and inspiring reading experiences for book lovers.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/atlastogether",
+      "linkedin": "https://linkedin.com/company/project-atlas-app",
+      "facebook": "https://facebook.com/heyyatlass"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "AnyLedger",
+    "website": "https://linkedin.com/company/anyledger",
+    "description": "We enable Industrial IoT devices to generate trusted data and securely transact between each other.",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/anyledgerio",
+      "linkedin": "https://linkedin.com/company/anyledger"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Andia",
+    "website": "https://linkedin.com/company/andiaco",
+    "description": "Prevent False Declines from taking away from your revenue",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Andia_io",
+      "linkedin": "https://linkedin.com/company/andiaco",
+      "facebook": "https://facebook.com/Andia2018/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Pactta",
+    "website": "https://linkedin.com/company/pactta",
+    "description": "Remittances and crossborder payments for Latam",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nszeyohvs8w2iewjbrqk",
+    "location": "Chacarita, Argentina",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pactta",
+      "facebook": "https://facebook.com/PacttaApp"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Savvy DeFi",
+    "website": "https://linkedin.com/company/savvydefi",
+    "description": "Interest-free lending protocol with overcollateralized deposits and self repaying loans.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SavvyDeFi",
+      "linkedin": "https://linkedin.com/company/savvydefi"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "EQLAB",
+    "website": "https://linkedin.com/company/eqlab-global",
+    "description": "Building a metaverse that will provide meaningful education, healthcare and mediation services to the populations that most need it",
+    "location": "St. Petersburg, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/eqlab-global"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Pax Credit",
+    "website": "https://linkedin.com/company/paxcredit",
+    "description": "Cross-border finance app for International Students",
+    "location": "Hyderabad, Andhra Pradesh, India",
+    "social_media": {
+      "twitter": "https://twitter.com/paxcredit",
+      "linkedin": "https://linkedin.com/company/paxcredit",
+      "facebook": "https://facebook.com/paxcredit"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Marli Technology Solutions",
+    "website": "https://linkedin.com/company/marli-tech",
+    "description": "Connects businesses and individuals directly with environmental projects that save or absorb CO2.",
+    "location": "Docklands, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/Marli_Tech",
+      "linkedin": "https://linkedin.com/company/marli-tech"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Merklebot",
+    "website": "https://linkedin.com/company/merklebot",
+    "description": "Connecting universe to metaverse",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MerkleB0t",
+      "linkedin": "https://linkedin.com/company/merklebot",
+      "facebook": "https://facebook.com/MerkleBot/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  },
+  {
+    "name": "Coherent API",
+    "website": "https://coherent.sh/",
+    "description": "For portfolio trackers, wallets, dapps and tax, coherent provides an intuitive developer toolkit for building web3 financial experiences.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/coherentapi",
+      "linkedin": "https://linkedin.com/company/coherent-api",
+      "facebook": "https://facebook.com/people/Coherent/100083468256212/"
+    },
+    "industry": "Cryptocurrency/Blockchain",
+    "industry_slug": "crypto-blockchain"
+  }
+]

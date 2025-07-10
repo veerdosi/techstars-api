@@ -1,0 +1,24 @@
+{
+  "name": "Fresco",
+  "slug": "fresco",
+  "website": "https://makeitfresco.com/",
+  "description": "Fresco, the \"Nespresso of Oil\" is the only system to consume fresh olive oil, in any season of the year, 100% natural and customized.",
+  "one_liner": "Fresco, the \"Nespresso of Oil\" is the only system to consume fresh olive oil, in any season of the year, 100% natural and customized.",
+  "location": "Lamezia Terme, Italy",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/revoilution_it",
+    "linkedin": "https://linkedin.com/company/revoilution",
+    "facebook": "https://facebook.com/Revoilution/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fresco",
+  "api": "/api/companies/fresco.json"
+}

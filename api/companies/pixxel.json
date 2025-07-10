@@ -1,0 +1,24 @@
+{
+  "name": "Pixxel",
+  "slug": "pixxel",
+  "website": "https://pixxel.space/",
+  "description": "We build and operate cutting-edge hyperspectral imaging satellites.",
+  "one_liner": "We build and operate cutting-edge hyperspectral imaging satellites.",
+  "location": "Palo Alto, California, United States",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/pixxelspace",
+    "linkedin": "https://linkedin.com/company/pixxelspace",
+    "facebook": "https://facebook.com/pixxelspace/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pixxel",
+  "api": "/api/companies/pixxel.json"
+}

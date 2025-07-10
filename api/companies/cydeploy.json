@@ -1,0 +1,22 @@
+{
+  "name": "CyDeploy",
+  "slug": "cydeploy",
+  "website": "https://cydeploy.com/",
+  "description": "An intelligent, automated testing system that demonstrates how an update will affect your system, giving you the control to maintain cybersecurity and cybersecurity compliance while avoiding costly workforce delays.",
+  "one_liner": "An intelligent, automated testing system that demonstrates how an update will affect your system, giving you the control to maintain cybersecurity and cybersecurity compliance while avoiding costly workforce delays.",
+  "location": "Laurel, Maryland, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ck8yf6zxewq13isndcrz",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/cydeploy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cydeploy",
+  "api": "/api/companies/cydeploy.json"
+}

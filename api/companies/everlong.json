@@ -1,0 +1,23 @@
+{
+  "name": "Everlong",
+  "slug": "everlong",
+  "website": "https://geteverlong.com/",
+  "description": "Everlong helps people regain control of their health and nutrition by automatically verifying their insurance benefits and providing them personalized care from top-vetted telehealth dietitians for $0 out-of-pocket.",
+  "one_liner": "Everlong helps people regain control of their health and nutrition by automatically verifying their insurance benefits and providing them personalized care from top-vetted telehealth dietitians for $0 out-of-pocket.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/geteverlong",
+    "linkedin": "https://linkedin.com/company/geteverlong"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/everlong",
+  "api": "/api/companies/everlong.json"
+}

@@ -1,0 +1,1384 @@
+[
+  {
+    "name": "Alloy",
+    "website": "https://alloy.co/",
+    "description": "Customer data and onboarding API to improve conversion and reduce losses for financial services companies",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/usealloy",
+      "linkedin": "https://linkedin.com/company/alloy-apis",
+      "facebook": "https://facebook.com/usealloy/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Synack",
+    "website": "https://synack.com/",
+    "description": "Crowdsourced vulnerability discovery",
+    "location": "Redwood City, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/synack",
+      "linkedin": "https://linkedin.com/company/synack-inc-",
+      "facebook": "https://facebook.com/synack"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "DNSFilter",
+    "website": "https://dnsfilter.com/",
+    "description": "DNSFilter provides industry-leading DNS threat protection and content filtering.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/dnsfilter",
+      "linkedin": "https://linkedin.com/company/dnsfilter",
+      "facebook": "https://facebook.com/dnsfilter"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "QuSecure",
+    "website": "https://qusecure.com/",
+    "description": "Post-Quantum security for critical infrastructure and systems.",
+    "location": "San Mateo, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/qusecure",
+      "linkedin": "https://linkedin.com/company/qusecure",
+      "facebook": "https://facebook.com/QuSecure-113667670042387/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Ravelin Technology",
+    "website": "https://ravelin.com/",
+    "description": "Ravelin provides fraud detection for the on-demand economy.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/ravelinhq",
+      "linkedin": "https://linkedin.com/company/ravelin-technology",
+      "facebook": "https://facebook.com/Ravelinhq/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Skopenow",
+    "website": "https://skopenow.com/",
+    "description": "Skopenow is a people search engine for discovering fraud and evaluating risk.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Skopenow",
+      "linkedin": "https://linkedin.com/company/skopenow",
+      "facebook": "https://facebook.com/skopenow"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Mentor Collective",
+    "website": "https://mentorcollective.org/",
+    "description": "Shearwater keeps students enrolled and engaged.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/shearwaterintl",
+      "linkedin": "https://linkedin.com/company/3353745",
+      "facebook": "https://facebook.com/mentorcollective/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "LearnPlatform",
+    "website": "https://learnplatform.com/",
+    "description": "The Complete EdTech Management Platform",
+    "location": "Raleigh, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LearnPlatformUS",
+      "linkedin": "https://linkedin.com/company/lea-r-n",
+      "facebook": "https://facebook.com/LearnTrials/timeline"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "RangeForce",
+    "website": "https://vequrity.com/",
+    "description": "Cloud-based platform for developing and executing live, hands-on, cybersecurity training on real networks",
+    "location": "White Plains, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RangeForce",
+      "linkedin": "https://linkedin.com/company/rangeforce",
+      "facebook": "https://facebook.com/rangeforceglobal/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Threat Stack",
+    "website": "https://threatstack.com/",
+    "description": "Incident response in the cloud",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/threatstack",
+      "linkedin": "https://linkedin.com/company/threat-stack-inc",
+      "facebook": "https://facebook.com/ThreatStack/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Simudyne",
+    "website": "https://simudyne.com/",
+    "description": "Artificially Intelligent Simulations for Financial Institutions.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Simudyne",
+      "linkedin": "https://linkedin.com/company/simudyne"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "TransCrypts",
+    "website": "https://transcrypts.com/",
+    "description": "TransCrypts is a tool for Human Resource Departments to automate the issuance of employment and income verification documents using the blockchain.",
+    "location": "Newark, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/transcrypts_",
+      "linkedin": "https://linkedin.com/company/transcrypts",
+      "facebook": "https://facebook.com/transcrypts/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Post-Quantum",
+    "website": "https://post-quantum.com/",
+    "description": "Post-Quantum is a UK-based company specialising in secure communications, authentication, encryption and blockchain. The company offers a modular cyber security toolkit to the financial services, government, and other critical sectors.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/PQChatApp",
+      "linkedin": "https://linkedin.com/company/post-quantum"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Dfns",
+    "website": "https://dfns.co/",
+    "description": "Wallet-as-a-service platform to streamline digital asset operations and onboard users into crypto, safely.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/dfnshq",
+      "linkedin": "https://linkedin.com/company/dfnshq",
+      "facebook": "https://facebook.com/dfnscustody/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Voatz",
+    "website": "https://voatz.com/",
+    "description": "Voatz is a mobile election voting platform, secured via smart biometrics, real time ID verification and the blockchain for irrefutability.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Voatz",
+      "linkedin": "https://linkedin.com/company/voatz",
+      "facebook": "https://facebook.com/voatz/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Cubbit",
+    "website": "https://cubbit.io/",
+    "description": "Cubbit is the first distributed data-center that recycles the unused Internet recourses of users and transforms them into web services",
+    "location": "Bologna, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/_cubbit",
+      "linkedin": "https://linkedin.com/company/cubbit",
+      "facebook": "https://facebook.com/cubbit.io"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "SafeHouse Technologies",
+    "website": "https://safehousetech.com/",
+    "description": "Digital safety for real people online",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/SafeHouseTech",
+      "linkedin": "https://linkedin.com/company/stored-by-sharehouse",
+      "facebook": "https://facebook.com/safehousetech/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "UrbanFox",
+    "website": "https://urbanfox.io/",
+    "description": "UrbanFox is a fraud detection and prevention technology for payment processors and online merchants. It analyses behavioral patterns to protect against fraud.",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/urbanfoxtweets",
+      "linkedin": "https://linkedin.com/company/urbanfox",
+      "facebook": "https://facebook.com/urbanfox-497515443595899"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "TrojAI",
+    "website": "https://troj.ai/",
+    "description": "Robustness and security for AI.",
+    "location": "Saint John, New Brunswick, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/TrojAISec",
+      "linkedin": "https://linkedin.com/company/trojai",
+      "facebook": "https://facebook.com/TrojAI/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "TypingDNA",
+    "website": "https://typingdna.com/",
+    "description": "TypingDNA provides typing biometrics authentication as a service, enabling companies recognize people by the way they type.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/typingdna",
+      "linkedin": "https://linkedin.com/company/typingdna",
+      "facebook": "https://facebook.com/typingdna"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Kriptos",
+    "website": "https://kriptos.io/",
+    "description": "Kriptos is a software that classifies & labels companies information using AI obtaining the probability of data loss, improving security policies and more!",
+    "location": "Tiburon, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/KriptosCorp",
+      "linkedin": "https://linkedin.com/company/kriptos",
+      "facebook": "https://facebook.com/pg/kriptos.io/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Vanilla Forums",
+    "website": "https://vanillaforums.com/",
+    "description": "Community forums reinvented",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/vanilla",
+      "linkedin": "https://linkedin.com/company/vanilla-forums-inc",
+      "facebook": "https://facebook.com/vanillaforums"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Alyne",
+    "website": "https://alyne.com/",
+    "description": "Manage operational risk and technology compliance in one smart solution.",
+    "location": "Munich, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/alyne",
+      "linkedin": "https://linkedin.com/company/alyne",
+      "facebook": "https://facebook.com/AlyneDotCom"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Heex Technologies",
+    "website": "https://heex.io/",
+    "description": "A cloud-based collaboration software tool focusing on Smart Data management in autonomous driving.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/heex_io",
+      "linkedin": "https://linkedin.com/company/heex-technologies",
+      "facebook": "https://facebook.com/heex.io/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "AssetVault",
+    "website": "https://asset-vault.com/",
+    "description": "Catalogue, protect and manage your physical and digital assets",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/assetvaultco",
+      "linkedin": "https://linkedin.com/company/assetvault",
+      "facebook": "https://facebook.com/AssetVault-161384937774396/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "ProcessBolt",
+    "website": "https://processbolt.com/",
+    "description": "ProcessBolt is a vendor risk management platform that helps enterprises and their vendors.",
+    "location": "Minneapolis, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ProcessBolt",
+      "linkedin": "https://linkedin.com/company/11273834",
+      "facebook": "https://facebook.com/ProcessBolt/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Wib",
+    "website": "https://wenspiredata.com/",
+    "description": "Based on a new scientific model, Wenspire is the first to introduce a disruptive secure-by-design solution to protect, insure and safely share data with 3rd parties.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/wibsecurity"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Carbide",
+    "website": "https://carbidesecure.com/",
+    "description": "Securicy is a SaaS that enables businesses to design, implement, manage and report on their Information Security and Privacy Compliance Strategy.",
+    "location": "Sydney, Nova Scotia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/securicyapp",
+      "linkedin": "https://linkedin.com/company/carbidesecure",
+      "facebook": "https://facebook.com/securicy"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Trudenty",
+    "website": "https://trudenty.com/",
+    "description": "Infrastructure for decentralized digital identity",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rxyral4cb9lfp6scw8bq",
+    "location": "Antwerpen, Belgium",
+    "social_media": {
+      "twitter": "https://twitter.com/trudenty",
+      "linkedin": "https://linkedin.com/company/trudenty"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "qomodo",
+    "website": "https://qomodo.io/",
+    "description": "qomodo helps to prevent cyber attacks and focus on getting their products to market.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/qomodofintech"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Hacware",
+    "website": "https://hacware.com/",
+    "description": "Hacware is an A.I. driven Email Security Awareness product that prevents your company email from getting hacked.",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Hacware1",
+      "linkedin": "https://linkedin.com/company/hacware",
+      "facebook": "https://facebook.com/hacware/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "PeakMetrics",
+    "website": "https://peakmetrics.com/",
+    "description": "By analyzing media across social, online news and broadcast, we spot trends to identify what people care about.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/peakmetricsapp",
+      "linkedin": "https://linkedin.com/company/peakmetricsapp",
+      "facebook": "https://facebook.com/peakmetricsapp/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "SIEMonster",
+    "website": "https://siemonster.com/",
+    "description": "SIEMonster provides cost effective Security Information and Event Management (SIEM) SaaS or onsite solutions for all sized companies to detect cyber threats.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/_SIEMonster",
+      "linkedin": "https://linkedin.com/company/siemonster",
+      "facebook": "https://facebook.com/SIEMonsterSOC/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "docTrackr",
+    "website": "https://doctrackr.com/",
+    "description": "Document management and security",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/1802229",
+      "facebook": "https://facebook.com/doctrackrapp"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Haekka",
+    "website": "https://haekka.com/",
+    "description": "After selling their last cybersecurity startup, Ryan and Travis are developing a headless security awareness platform, embedding content into Slack + other apps",
+    "location": "Oak Creek, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/haekkatraining",
+      "linkedin": "https://linkedin.com/company/dayzeroapp"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "IronCore Labs",
+    "website": "https://ironcorelabs.com/",
+    "description": "Turnkey Encryption for Customer Controlled Data",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ironcorelabs",
+      "linkedin": "https://linkedin.com/company/ironcore-labs",
+      "facebook": "https://facebook.com/ironcorelabs"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Kidas",
+    "website": "https://getkidas.com/",
+    "description": "Kidas is an AI-based technology that connects to any game console and helps parents protect their children from cyberbullying and online predation by analyzing voice and text conversations in real-time.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/kidasnet",
+      "linkedin": "https://linkedin.com/company/kidas",
+      "facebook": "https://facebook.com/kidasnet"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Transmute",
+    "website": "https://transmute.industries/",
+    "description": "The trusted data exchange platform for global trade",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TransmuteNews",
+      "linkedin": "https://linkedin.com/company/11186222"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Dapple Security",
+    "website": "https://dapplesecurity.com/",
+    "description": "For companies who are experiencing the pain and cost of passwords, Dapple Security provides the first passwordless login that is truly phishing-resistant and purpose-built for enterprises.",
+    "location": "Centennial, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dapple-security"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "EthicsGrade",
+    "website": "https://ethicsgrade.io/",
+    "description": "EthicsGrade is a SaaS platform for rating your supplier's ESG risks. We focus on ESG risks of digitalisation such as cybersecurity, data protection and AI ethics",
+    "location": "St Briavels, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/ethicsgrade",
+      "linkedin": "https://linkedin.com/company/ethicsgrade"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "CyberOwl",
+    "website": "https://cyberowl.io/",
+    "description": "CyberOwl provides visibility of cyber risk so maritime operators can manage them in a prioritised, cost-effective way.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/CyberOwl",
+      "linkedin": "https://linkedin.com/company/cyberowl",
+      "facebook": "https://facebook.com/Cyberowl-165051467503170/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "GreatHorn",
+    "website": "https://greathorn.com/",
+    "description": "GreatHorn is a cloud security platform that helps detect and prevent spear phishing and credential theft attacks in realtime",
+    "location": "Belmont, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/greathorn",
+      "linkedin": "https://linkedin.com/company/9335863",
+      "facebook": "https://facebook.com/greathorninc"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Ankra AB",
+    "website": "https://ankra.io/",
+    "description": "End-to-end developer platform",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ankra"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Trillbit",
+    "website": "https://trillbit.com/",
+    "description": "Proximity Intelligence by Sound",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Trill_bit",
+      "linkedin": "https://linkedin.com/company/13223043",
+      "facebook": "https://facebook.com/TrillAcoustic/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Alpin",
+    "website": "https://alpin.io/",
+    "description": "Alpin cuts subscription costs by up to 30% and saves time on SaaS monitoring and management.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Alpin__io",
+      "linkedin": "https://linkedin.com/company/alpin-limited-masdar-city",
+      "facebook": "https://facebook.com/alpinapp/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Threatcare",
+    "website": "https://threatcare.com/",
+    "description": "Threatcare is a 100% cloud-based network intrusion simulation platform.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/threatcare",
+      "linkedin": "https://linkedin.com/company/16260089",
+      "facebook": "https://facebook.com/pg/threatcare/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Notch",
+    "website": "https://notchtechnologies.com/",
+    "description": "Changing the wireless world using a platform technology called RF metasurfaces",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/notchtechnology",
+      "linkedin": "https://linkedin.com/company/notch-technologies",
+      "facebook": "https://facebook.com/notchteam/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Nera Systems",
+    "website": "https://nera.systems/",
+    "description": "Nera Systems specializes in privacy-preserving technologies for AI and Machine Learning. The company develops innovative tools using Privacy Enhancing Technologies (PETs) and SW/HW co-design to protect sensitive data throughout the AI/ML lifecycle. By offering scalable, privacy-first solutions, Nera Systems enables organizations to leverage the power of AI while ensuring the highest standards of data privacy and security, empowering safe and responsible innovation.",
+    "location": "Burlingame, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/NeraSystems",
+      "linkedin": "https://linkedin.com/company/nera-systems"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "TRUSTBYTES",
+    "website": "https://trustbytes.io/",
+    "description": "TRUSTBYTES creates the world's first security operations system allowing projects to see, understand and act on their risk posture with confidence.",
+    "location": "Warszawa, Mazovia, Poland",
+    "social_media": {
+      "twitter": "https://twitter.com/TRUSTBYTES_X",
+      "linkedin": "https://linkedin.com/company/trustbytes"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Cyber DriveWare",
+    "website": "https://cyberdriveware.com/",
+    "description": "Cyber DriveWare protects organizations against cyber attacks, which they are vulnerable to, and other solution can't detect.",
+    "location": "Herzliya, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/Cyber_DriveWare",
+      "linkedin": "https://linkedin.com/company/5283609",
+      "facebook": "https://facebook.com/DriveWare"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "BestDefense",
+    "website": "https://bestdefense.io/",
+    "description": "We stress test your infrastructure abilities to scale, evaluate your security posture through automated vulnerability and pen tests, and track/alert network threats in real-time.",
+    "location": "Clearwater, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bestdefense-inc"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Xairos",
+    "website": "https://xairos.com/",
+    "description": "Global timing service to replace timing from GPS",
+    "location": "Lone Tree, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/xairos2",
+      "linkedin": "https://linkedin.com/company/xairos",
+      "facebook": "https://facebook.com/xairosfacebook"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Cloud Fence",
+    "website": "https://cloud-fence.com/",
+    "description": "One-click deploy full stack network security and security insights to manage security across your cloud infrastructure.",
+    "location": "Roquebrune Sur Argens, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cloud-fence"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "ASTRA by Czar Securities",
+    "website": "https://getastra.com/",
+    "description": "Making web & application security suite making security super simple for businesses, for real. Firewall | Malware Scanner | Security Audits for Websites & Apps.",
+    "location": "Claymont, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getastra",
+      "linkedin": "https://linkedin.com/company/getastra",
+      "facebook": "https://facebook.com/pg/getAstra"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Neural Defend",
+    "website": "https://neuraldefend.com/",
+    "description": "Deepfake detection software that safeguards authenticity in digital content.",
+    "location": "New Delhi, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/neural-defend"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Phalanx",
+    "website": "https://phalanx.io/",
+    "description": "Phalanx changes how organizations approach data security by providing a simple, automatic file-encryption solution that's designed with users' behaviors in mind.",
+    "location": "Arlington, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Phalanx_HQ",
+      "linkedin": "https://linkedin.com/company/phalanx-hq"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "fraudmarc",
+    "website": "https://fraudmarc.com/",
+    "description": "We work with all major mailbox providers to identify your valid mail sources. Legitimate senders enjoy improved deliverability & phishing attempts are blocked.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fraudmarc",
+      "linkedin": "https://linkedin.com/company/10684936",
+      "facebook": "https://facebook.com/fraudmarc/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "OB2 AI",
+    "website": "https://ob2.ai/",
+    "description": "OB2.AI, founded by former Cisco FedRAMP security engineers, provides OpsBeacon XSIAM, an extended security intelligence and automation management platform that gives businesses clear visibility and control over their IT infrastructure. Using AI and automation, it quickly analyzes large amounts of data from servers, devices, and networks and responds to cyber threats in seconds.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/opsbeacon",
+      "linkedin": "https://linkedin.com/company/ob2ai"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "CyDeploy",
+    "website": "https://cydeploy.com/",
+    "description": "An intelligent, automated testing system that demonstrates how an update will affect your system, giving you the control to maintain cybersecurity and cybersecurity compliance while avoiding costly workforce delays.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ck8yf6zxewq13isndcrz",
+    "location": "Laurel, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cydeploy"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "FortifyEdge",
+    "website": "https://fortifyedge.com/",
+    "description": "Fortifyedge is on-device cybersecurity software that allows us to deploy machine learning ultra-efficiently on the smart device, so you can detect attacks in real-time.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fortifyedge",
+      "linkedin": "https://linkedin.com/company/fortifyedge"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Avocado Systems",
+    "website": "https://avocadosys.com/",
+    "description": "Avocado's patented deterministic threat detection technology makes applications both intelligent, and ultimately, self-protecting.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wzluylmhgedxagc5dbhw",
+    "location": "San Jose, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/avocadosystems",
+      "linkedin": "https://linkedin.com/company/avocado-systems",
+      "facebook": "https://facebook.com/avocadosys"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Noviqu",
+    "website": "https://noviqu.com/",
+    "description": "Noviqu closes the gap for manufacturers between what management expects and what workers actually do.",
+    "location": "Moberly, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/noviquapp",
+      "linkedin": "https://linkedin.com/company/noviqu",
+      "facebook": "https://facebook.com/NoviquApp/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "SharpShark",
+    "website": "https://sharpshark.io/",
+    "description": "Blockchain legaltech for copyright protection",
+    "location": "Santiago, Chile",
+    "social_media": {
+      "twitter": "https://twitter.com/SharpShark256",
+      "linkedin": "https://linkedin.com/company/sharpshark",
+      "facebook": "https://facebook.com/SharpShark256"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Rezliant",
+    "website": "https://platform.rezliant.com/",
+    "description": "Rezliant turns all software teams into instant cybersecurity geniuses, saving months per employee and millions in costs.",
+    "location": "Mesa, Arizona, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/resilient-software-security"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Haiphen",
+    "website": "https://haiphenai.com/",
+    "description": "Blockchain-enabled cyber security threat detection for enterprises.",
+    "location": "The Bronx, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pi42449346",
+      "linkedin": "https://linkedin.com/in/judesafo",
+      "facebook": "https://facebook.com/haiphenai"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Astronome AI",
+    "website": "https://astronome.ai/",
+    "description": "Astronome AI is a company that provides streamlined IT management for SMEs, powered by AI.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lr8j5rsmiftw7l9qxsiw",
+    "location": "London, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/astronome"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "SENSE",
+    "website": "https://53n53.com/",
+    "description": "Making data-mining accessible to anyone.",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/53n53-ltd"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Perleybrook",
+    "website": "https://perleybrook.com/",
+    "description": "Perleybrook makes Flagman and Industry 5.0 AI Powered Computer Vision based Industry Safety Solution Platform.",
+    "location": "Stratham, New Hampshire, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/perleybrook-labs-llc",
+      "facebook": "https://facebook.com/perleybrook"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Infiltron Software Suite & Application",
+    "website": "https://infiltron.net/",
+    "description": "Infiltron is a proactive, real-time IoT cybersecurity solution.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ydc6wp4xjyjjb4wyj7je",
+    "location": "Warner Robins, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/InfiltronApp",
+      "linkedin": "https://linkedin.com/company/infiltron-software-suite",
+      "facebook": "https://facebook.com/pg/InfiltronApp"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Guardara",
+    "website": "https://guardara.com/",
+    "description": "We help companies find critical security issues in complex environments.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/guardaraltd",
+      "linkedin": "https://linkedin.com/company/guardara"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Pramatra Space",
+    "website": "https://pramatra.space/",
+    "description": "Pramatra Space is a quantum technology venture on a mission to make enterprises quantum resilient. We are building satellites to distribute quantum keys to enterprises using quantum entanglement. Our hardware systems and software platforms will offer solutions to clients to help protect and shield their data and digital assets. \n\nPramatra Space is on the mission to prepare the world for Q-Day!",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pramatra-space"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "SaltyCloud",
+    "website": "https://saltycloud.com/",
+    "description": "Next-Gen Automation for Cybersecurity Operations",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/saltycloudhq",
+      "linkedin": "https://linkedin.com/company/saltycloudpbc"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Litlyx",
+    "website": "https://litlyx.com/",
+    "description": "Cookie-less, AI-powered website analytics platform. Get started in 30 seconds from signup.",
+    "location": "Rome, Rome, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/litlyx"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "RisksessAML",
+    "website": "https://getraml.com/",
+    "description": "RAML helps FinTechs accurately, efficiently and securely assess their money laundering risks, and create a risk based compliance ecosystem driving time and costs reduction ordinarily associated with AML compliance.",
+    "location": "Coventry, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/raml"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "ForceField IO",
+    "website": "https://meetforcefield.com/",
+    "description": "APIs for verification and of streaming data.",
+    "location": "Red Bank, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ForceField_io",
+      "linkedin": "https://linkedin.com/company/meetforcefield"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Brightlines",
+    "website": "https://brightlin.es/",
+    "description": "Brightlines is a B2B SaaS platform that specializes in the removal of personal information from the internet to bolster the privacy defenses of individuals and organizations.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/brightlin_es",
+      "linkedin": "https://linkedin.com/company/brightlin-es"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "RuleUp",
+    "website": "https://ruleup.ai/",
+    "description": "Effortlessly monitor any cybersecurity, privacy, or technology regulations, automate compliance, and ensure you're always up-to-date with real-time insights.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ruleup"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Heights Labs",
+    "website": "https://heightslabs.com/",
+    "description": "The only compliance and investigations platform for following the money at scale to eliminate global financial crime.",
+    "location": "Valley Stream, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HeightsLabs",
+      "linkedin": "https://linkedin.com/company/heightslabs"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "GenoBank",
+    "website": "https://genobank.io/",
+    "description": "Ensuring the privacy and data ownership of your genetic information.",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/genobank_io",
+      "linkedin": "https://linkedin.com/company/genobank-io",
+      "facebook": "https://facebook.com/genobank/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "General Folders",
+    "website": "https://twitter.com/generalfolders",
+    "description": "General Folders is a simple and secure way for business partners to exchange data and collaborate.",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/generalfolders",
+      "linkedin": "https://linkedin.com/company/generalfolders"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Byte Detection",
+    "website": "https://bytedetection.com/",
+    "description": "For risk and compliance teams, Byte Detection is a no-code rules engine for detecting fraud for real-time payments.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {},
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "NIMIS Cybersecurity",
+    "website": "https://nimis.ai/",
+    "description": "Real time penetration testing using artificial intelligence",
+    "location": "Melbourne, Victoria, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/NIMISCyber",
+      "linkedin": "https://linkedin.com/company/nimis-cybersecurity"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "HiddenLogin",
+    "website": "https://hiddenlogin.com/",
+    "description": "An anonymous privacy layer for the web",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hiddenlogin"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "EzSec",
+    "website": "https://ezsec.org/",
+    "description": "Previous Name: EzSec",
+    "location": "Kitchener, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/ezsecorg",
+      "linkedin": "https://linkedin.com/company/ezsec",
+      "facebook": "https://facebook.com/ezsecorg/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Tactic",
+    "website": "https://tactic.ly/",
+    "description": "Prevent ransomware attacks by actively hacking your cyber defenses and continuously validating your security tools.",
+    "location": "Fircrest, Washington, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tactic-ly"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Regfyl",
+    "website": "https://regfyl.com/",
+    "description": "For african fintechs that have AML and fraud issues, we provide a one stop compliance and regulatory platform.",
+    "location": "Claymont, Delaware, United States",
+    "social_media": {},
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Blind Insight",
+    "website": "https://blindinsight.com/",
+    "description": "Blind Insight acts as a privacy layer between sensitive data and the applications that run on it. Through the power of searchable encryption and the Blind Proxy, data remains encrypted at all times, even during processing and analysis. So you can get the insights you need without worrying about data exposure or leakage.",
+    "location": "Venice, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/blind-insight"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Reibase",
+    "website": "https://reibase.rs/",
+    "description": "A protocol to incentivize open source",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/g1w23gfjk7dnqyz6iuol",
+    "location": "New York City, New York, United States",
+    "social_media": {},
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "ENGAIZ",
+    "website": "https://engaiz.com/",
+    "description": "Mitigating Digital Risk to Build Digital Trust",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/engaizit",
+      "linkedin": "https://linkedin.com/company/engaiz"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Armur Ai",
+    "website": "https://armur.ai/",
+    "description": "Decentralized autonomous cyber security",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/armurai"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Magier AI",
+    "website": "https://magier.ai/",
+    "description": "Magier AI enhances data privacy for LLMs with a PII firewall, ensuring secure, real-time data protection and customizable redaction.",
+    "location": "Vista, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/magier"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Teskalabs",
+    "website": "https://teskalabs.com/",
+    "description": "We help enterprises build and operate their Mobile and IoT applications safely. We protect you.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/TeskaLabs",
+      "linkedin": "https://linkedin.com/company/teskalabs",
+      "facebook": "https://facebook.com/TeskaLabs/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "HACKERverse",
+    "website": "https://hackerverse.ai/",
+    "description": "The cutting-edge platform leverages AI and AWS automation to spin up virtual Proof of Concept (PoC) environments.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hackerverse"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Educhain",
+    "website": "https://educhain.io/",
+    "description": "Educhain enables secure issuance, sharing, and verification of blockchain-enabled records.",
+    "location": "Port Moody, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/educhainio",
+      "linkedin": "https://linkedin.com/company/educhain",
+      "facebook": "https://facebook.com/wordpress"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Sympatic",
+    "website": "https://linkedin.com/company/sympatic-inc",
+    "description": "Enables enterprise data owners to safely share valuable data, providing audit logs and preventing data leakage.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sympatic_data",
+      "linkedin": "https://linkedin.com/company/sympatic-inc"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "SpotCrowd",
+    "website": "https://linkedin.com/company/watch-&-catch-nv",
+    "description": "Developing technologies for tomorrow",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/stopshoplifting",
+      "linkedin": "https://linkedin.com/company/watch-&-catch-nv",
+      "facebook": "https://facebook.com/SpotCrowd/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "SliceUp",
+    "website": "https://linkedin.com/company/sliceup",
+    "description": "In-memory time-series database",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SliceUp_",
+      "linkedin": "https://linkedin.com/company/sliceup"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Sia Secure",
+    "website": "https://linkedin.com/company/sia-secure",
+    "description": "A platform that will provide Secure Communications as a Service to IoT, smart grid and critical infrastructure and private communication systems.",
+    "location": "Skopje, North Macedonia",
+    "social_media": {
+      "twitter": "https://twitter.com/SiaSecure",
+      "linkedin": "https://linkedin.com/company/sia-secure"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "SecureMarking",
+    "website": "https://linkedin.com/company/secure-marking",
+    "description": "SecureMarking is a fully integrated, end-to-end supply chain security platform that incorporates nanotechnology, blockchain, and the Internet of Things.",
+    "location": "Rapid City, South Dakota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/securemarking",
+      "linkedin": "https://linkedin.com/company/secure-marking",
+      "facebook": "https://facebook.com/SecureMarking/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "NetCloak",
+    "website": "https://linkedin.com/company/netcloak",
+    "description": "NetCloak is pioneering AI privacy technology by automatically detecting and securing high risk employee data.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/NetCloakInc",
+      "linkedin": "https://linkedin.com/company/netcloak",
+      "facebook": "https://facebook.com/hover"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Jumble",
+    "website": "https://linkedin.com/company/jumble-io",
+    "description": "Jumble secures your email by providing easy to use encryption that integrates directly into existing email clients.",
+    "location": "Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/jumblesecurity",
+      "linkedin": "https://linkedin.com/company/jumble-io",
+      "facebook": "https://facebook.com/jumbleio"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Helm Solutions",
+    "website": "https://linkedin.com/company/10128001",
+    "description": "Helm provides companies instant visibility into their cybersecurity and technology compliance gaps.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HelmGlobal",
+      "linkedin": "https://linkedin.com/company/10128001",
+      "facebook": "https://facebook.com/helmglobal/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Grove",
+    "website": "https://linkedin.com/company/grove-group",
+    "description": "Technology for local, healthy food. Products that help people grow their own food right where they live.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GroveLabs",
+      "linkedin": "https://linkedin.com/company/grove-group",
+      "facebook": "https://facebook.com/GroveLabs"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Cycuro",
+    "website": "https://linkedin.com/company/cycuro",
+    "description": "cycuro is a mobility data validation platform. We guarantee data quality and integrity for mobility services.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/cycuro",
+      "linkedin": "https://linkedin.com/company/cycuro",
+      "facebook": "https://facebook.com/cycuro"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Bleach Cyber",
+    "website": "https://crunchbase.com/organization/bleach-cyber",
+    "description": "Bleach is a cybersecurity platform helps small and medium businesses get secure by leveraging the security in their existing investments.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bleachcybersec",
+      "facebook": "https://facebook.com/bleachcyber"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "BeSafe",
+    "website": "https://linkedin.com/company/skycryptor",
+    "description": "Enabling businesses to protect, control and track their data everywhere.",
+    "location": "Yerevan, Armenia",
+    "social_media": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/company/skycryptor",
+      "facebook": "https://facebook.com/BeSafe-Cloud-Security-1450157768352047"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Barac",
+    "website": "https://linkedin.com/company/barac.io",
+    "description": "Instant threat detection on Encrypted Traffic without decryption using Metadata & Artificial Intelligence",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/barac_io",
+      "linkedin": "https://linkedin.com/company/barac.io",
+      "facebook": "https://facebook.com/barac.io/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "AtCipher",
+    "website": "https://linkedin.com/company/atcipher-inc",
+    "description": "AtCipher helps business to protect data in the cloud.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/atcipher",
+      "linkedin": "https://linkedin.com/company/atcipher-inc"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "AppInsight",
+    "website": "https://linkedin.com/company/appvocado",
+    "description": "Mobile application security",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/app_inside",
+      "linkedin": "https://linkedin.com/company/appvocado",
+      "facebook": "https://facebook.com/AppInsight-557149341109577"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "CrowdSense",
+    "website": "https://linkedin.com/company/crowdsenseai",
+    "description": "NLP-based Intelligence as a Service Platform, that detects  breaking events, risks, and trends in real-time for risk management and business intelligence",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/Crowdsenseai",
+      "linkedin": "https://linkedin.com/company/crowdsenseai",
+      "facebook": "https://facebook.com/Crowdsenseai-2070664129695666/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Merklebot",
+    "website": "https://linkedin.com/company/merklebot",
+    "description": "Connecting universe to metaverse",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MerkleB0t",
+      "linkedin": "https://linkedin.com/company/merklebot",
+      "facebook": "https://facebook.com/MerkleBot/"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  },
+  {
+    "name": "Havoc Shield",
+    "website": "https://linkedin.com/company/havoc-shield",
+    "description": "A self-serve cyber security program built for for startups, small businesses, and remote workers.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/havocshield",
+      "linkedin": "https://linkedin.com/company/havoc-shield",
+      "facebook": "https://facebook.com/havocshieldinc"
+    },
+    "industry": "Cybersecurity",
+    "industry_slug": "cybersecurity"
+  }
+]

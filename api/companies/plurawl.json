@@ -1,0 +1,22 @@
+{
+  "name": "Plurawl",
+  "slug": "plurawl",
+  "website": "https://plurawl.com/",
+  "description": "Plurawl helps people stop jumping to conclusions.",
+  "one_liner": "Plurawl helps people stop jumping to conclusions.",
+  "location": "The Bronx, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/plurawl"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/plurawl",
+  "api": "/api/companies/plurawl.json"
+}

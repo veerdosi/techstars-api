@@ -1,0 +1,24 @@
+{
+  "name": "Torque360",
+  "slug": "torque360",
+  "website": "https://torque360.co/",
+  "description": "Torque360 is most easy to use software with all desirable features and necessary integrations that helps in business growth and offers a complete 360deg degree shop management solution for autorepair and tire industry.",
+  "one_liner": "Torque360 is most easy to use software with all desirable features and necessary integrations that helps in business growth and offers a complete 360deg degree shop management solution for autorepair and tire industry.",
+  "location": "Wilmington, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/torque360co",
+    "linkedin": "https://linkedin.com/company/72167425",
+    "facebook": "https://facebook.com/Torque360.co"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/torque360",
+  "api": "/api/companies/torque360.json"
+}

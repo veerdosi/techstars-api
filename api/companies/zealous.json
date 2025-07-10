@@ -1,0 +1,24 @@
+{
+  "name": "Zealous",
+  "slug": "zealous",
+  "website": "https://zealous.app/",
+  "description": "Zealous helps decentralized teams turn conversations into collaborative work.",
+  "one_liner": "Zealous helps decentralized teams turn conversations into collaborative work.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/zealous_app",
+    "linkedin": "https://linkedin.com/company/zealousapp",
+    "facebook": "https://facebook.com/zealousapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/zealous",
+  "api": "/api/companies/zealous.json"
+}

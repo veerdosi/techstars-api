@@ -1,0 +1,24 @@
+{
+  "name": "Seated",
+  "slug": "seated",
+  "website": "https://seated.com/",
+  "description": "Seated is the city-wide Dining Club that rewards you for dining out",
+  "one_liner": "Seated is the city-wide Dining Club that rewards you for dining out",
+  "location": "New York City, New York, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Seated_App",
+    "linkedin": "https://linkedin.com/company/seatedofficial",
+    "facebook": "https://facebook.com/getseated/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/seated",
+  "api": "/api/companies/seated.json"
+}

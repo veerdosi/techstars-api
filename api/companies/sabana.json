@@ -1,0 +1,22 @@
+{
+  "name": "Sabana",
+  "slug": "sabana",
+  "website": "https://sabana.ai/",
+  "description": "Sabana is a B2B SaaS platform designed to streamline collaboration and communication for architects and design engineers. It focuses on simplifying product selection and construction specifications, addressing inefficiencies and communication gaps in their workflows. By leveraging LLMs, Sabana aims to reduce manual processes, prevent burnout, and facilitate seamless collaboration across project teams.",
+  "one_liner": "Sabana is a B2B SaaS platform designed to streamline collaboration and communication for architects and design engineers. It focuses on simplifying product selection and construction specifications, addressing inefficiencies and communication gaps in their workflows. By leveraging LLMs, Sabana aims to reduce manual processes, prevent burnout, and facilitate seamless collaboration across project teams.",
+  "location": "Pittsburgh, Pennsylvania, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/sabana-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sabana",
+  "api": "/api/companies/sabana.json"
+}

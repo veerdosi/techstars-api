@@ -1,0 +1,24 @@
+{
+  "name": "theCut",
+  "slug": "thecut",
+  "website": "https://thecut.co/",
+  "description": "A mobile platform connecting mens groomers and clients",
+  "one_liner": "A mobile platform connecting mens groomers and clients",
+  "location": "Fairfax, Virginia, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/thehaircutapp",
+    "linkedin": "https://linkedin.com/company/thecutapp",
+    "facebook": "https://facebook.com/thehaircutapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/thecut",
+  "api": "/api/companies/thecut.json"
+}

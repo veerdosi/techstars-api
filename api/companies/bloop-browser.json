@@ -1,0 +1,23 @@
+{
+  "name": "Bloop Browser",
+  "slug": "bloop-browser",
+  "website": "https://linkedin.com/in/joyqzhang",
+  "description": "Web3 browser that uncovers and visually displays paths across the web for internet users to share with their community.",
+  "one_liner": "Web3 browser that uncovers and visually displays paths across the web for internet users to share with their community.",
+  "location": "Bellevue, Washington, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/thequarkbrowser",
+    "linkedin": "https://linkedin.com/in/joyqzhang"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bloop-browser",
+  "api": "/api/companies/bloop-browser.json"
+}

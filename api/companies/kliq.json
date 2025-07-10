@@ -1,0 +1,24 @@
+{
+  "name": "Kliq",
+  "slug": "kliq",
+  "website": "https://joinkliq.io/",
+  "description": "A white-label peer-to-peer platform that enables creators to build, manage, and monetize their community",
+  "one_liner": "A white-label peer-to-peer platform that enables creators to build, manage, and monetize their community",
+  "location": "Dover, Delaware, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/remotecoach_fit",
+    "linkedin": "https://linkedin.com/in/ben-camara-410124a",
+    "facebook": "https://facebook.com/remotecoachfit/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kliq",
+  "api": "/api/companies/kliq.json"
+}

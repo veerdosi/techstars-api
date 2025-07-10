@@ -1,0 +1,24 @@
+{
+  "name": "Sponsokit",
+  "slug": "sponsokit",
+  "website": "https://linkedin.com/company/sponsokit",
+  "description": "Where companies build relationships with influential video creators.",
+  "one_liner": "Where companies build relationships with influential video creators.",
+  "location": "Berlin, Germany",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sponsokit",
+    "linkedin": "https://linkedin.com/company/sponsokit",
+    "facebook": "https://facebook.com/sponsokit/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sponsokit",
+  "api": "/api/companies/sponsokit.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Apptentive",
+  "slug": "apptentive",
+  "website": "https://apptentive.com/",
+  "description": "Mobile customer engagement software that helps companies listen, engage, and retain customers through intelligent in-app messages, surveys, and ratings prompts.",
+  "one_liner": "Mobile customer engagement software that helps companies listen, engage, and retain customers through intelligent in-app messages, surveys, and ratings prompts.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/apptentive",
+    "linkedin": "https://linkedin.com/company/apptentive",
+    "facebook": "https://facebook.com/apptentive"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/apptentive",
+  "api": "/api/companies/apptentive.json"
+}

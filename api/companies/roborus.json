@@ -1,0 +1,24 @@
+{
+  "name": "Roborus",
+  "slug": "roborus",
+  "website": "https://roborus.co.kr/",
+  "description": "The smartest, most customer-centric AI company on the planet",
+  "one_liner": "The smartest, most customer-centric AI company on the planet",
+  "location": "Seoul, South Korea",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/RoborusUsa",
+    "linkedin": "https://linkedin.com/company/roborus",
+    "facebook": "https://facebook.com/roborus2016/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/roborus",
+  "api": "/api/companies/roborus.json"
+}

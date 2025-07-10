@@ -1,0 +1,24 @@
+{
+  "name": "ClothesLyne",
+  "slug": "clotheslyne",
+  "website": "https://clotheslyne.com/",
+  "description": "Clotheslyne is a peer-to-peer marketplace that helps busy people and boutique hotel/STR operators get their laundry done, folded, and delivered. We bring the ease and convenience of Manhattan-level laundry outsourcing to the rest of the United States thro",
+  "one_liner": "Clotheslyne is a peer-to-peer marketplace that helps busy people and boutique hotel/STR operators get their laundry done, folded, and delivered. We bring the ease and convenience of Manhattan-level laundry outsourcing to the rest of the United States thro",
+  "location": "Goshen, New York, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/https",
+    "linkedin": "https://linkedin.com/company/clotheslyne",
+    "facebook": "https://facebook.com/ClothesLyne/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/clotheslyne",
+  "api": "/api/companies/clotheslyne.json"
+}

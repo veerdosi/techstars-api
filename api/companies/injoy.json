@@ -1,0 +1,23 @@
+{
+  "name": "Injoy",
+  "slug": "injoy",
+  "website": "https://injoy.bio/",
+  "description": "Health tracking and microbiome testing for people with gut health issues.",
+  "one_liner": "Health tracking and microbiome testing for people with gut health issues.",
+  "location": "Montréal, Quebec, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/phyla",
+    "facebook": "https://facebook.com/micropredictome/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/injoy",
+  "api": "/api/companies/injoy.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "LittleNewt",
+  "slug": "littlenewt",
+  "website": "https://linkedin.com/company/67483589",
+  "description": "LittleNewt is a tax preparation platform for CPA firms that is able to instantly prepare entire corporate and partnership tax returns",
+  "one_liner": "LittleNewt is a tax preparation platform for CPA firms that is able to instantly prepare entire corporate and partnership tax returns",
+  "location": "Rapid City, South Dakota, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Little_Newt_",
+    "linkedin": "https://linkedin.com/company/67483589",
+    "facebook": "https://facebook.com/LittleNewtOfficial"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/littlenewt",
+  "api": "/api/companies/littlenewt.json"
+}

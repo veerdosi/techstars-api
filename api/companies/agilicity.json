@@ -1,0 +1,24 @@
+{
+  "name": "AgiliCity",
+  "slug": "agilicity",
+  "website": "https://modelur.eu/",
+  "description": "Modelur is an easy-to-use, yet very powerful parametric urban design software tool.",
+  "one_liner": "Modelur is an easy-to-use, yet very powerful parametric urban design software tool.",
+  "location": "Ljubljana, Slovenia",
+  "industry": "Real estate tech",
+  "industry_slug": "real-estate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/modelur",
+    "linkedin": "https://linkedin.com/company/agilicity",
+    "facebook": "https://facebook.com/modelur/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/agilicity",
+  "api": "/api/companies/agilicity.json"
+}

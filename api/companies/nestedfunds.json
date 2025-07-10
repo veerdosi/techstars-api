@@ -1,0 +1,22 @@
+{
+  "name": "Nestedfunds",
+  "slug": "nestedfunds",
+  "website": "https://linkedin.com/company/nestedfunds",
+  "description": "Our mission is to nurture deeper family connections and provide peace of mind, ensuring a proactive approach to your parent's well-being and future.",
+  "one_liner": "Our mission is to nurture deeper family connections and provide peace of mind, ensuring a proactive approach to your parent's well-being and future.",
+  "location": "Austin, Texas, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/nestedfunds"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nestedfunds",
+  "api": "/api/companies/nestedfunds.json"
+}

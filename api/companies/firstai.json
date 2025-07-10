@@ -1,0 +1,24 @@
+{
+  "name": "firstAI",
+  "slug": "firstai",
+  "website": "https://linkedin.com/company/syndicated-loan-direct",
+  "description": "firstAI harnesses user intelligence to extract information from interpretation intensive documentation. Our product can be used across financial services.",
+  "one_liner": "firstAI harnesses user intelligence to extract information from interpretation intensive documentation. Our product can be used across financial services.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/",
+    "linkedin": "https://linkedin.com/company/syndicated-loan-direct",
+    "facebook": "https://facebook.com/syndicatedloandirect"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/firstai",
+  "api": "/api/companies/firstai.json"
+}

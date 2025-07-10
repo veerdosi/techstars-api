@@ -1,0 +1,24 @@
+{
+  "name": "PLANETARIANS",
+  "slug": "planetarians",
+  "website": "https://planetarians.com/",
+  "description": "Most sustainable and affordable protein",
+  "one_liner": "Most sustainable and affordable protein",
+  "location": "Palo Alto, California, United States",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PlanetariansNet",
+    "linkedin": "https://linkedin.com/company/planetarians",
+    "facebook": "https://facebook.com/planetariansnet/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/planetarians",
+  "api": "/api/companies/planetarians.json"
+}

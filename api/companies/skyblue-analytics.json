@@ -1,0 +1,23 @@
+{
+  "name": "Skyblue Analytics",
+  "slug": "skyblue-analytics",
+  "website": "https://skyblueanalytics.com/",
+  "description": "For financial companies without the investment infrastructure and data analytics, we offer a customized white label solution.",
+  "one_liner": "For financial companies without the investment infrastructure and data analytics, we offer a customized white label solution.",
+  "location": "Montevideo, Uruguay",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SkyBlueData",
+    "linkedin": "https://linkedin.com/company/skyblue-analytics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/skyblue-analytics",
+  "api": "/api/companies/skyblue-analytics.json"
+}

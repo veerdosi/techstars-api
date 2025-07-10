@@ -1,0 +1,22 @@
+{
+  "name": "Big Brain AI",
+  "slug": "big-brain-ai",
+  "website": "https://big-brain.ai/",
+  "description": "Empowering Frontline Workers for Peak Efficiency via AI",
+  "one_liner": "Empowering Frontline Workers for Peak Efficiency via AI",
+  "location": "New York City, New York, United States",
+  "industry": "Restaurant tech",
+  "industry_slug": "restaurant-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/ai-bigbrain"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/big-brain-ai",
+  "api": "/api/companies/big-brain-ai.json"
+}

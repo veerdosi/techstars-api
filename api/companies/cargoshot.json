@@ -1,0 +1,22 @@
+{
+  "name": "CargoShot",
+  "slug": "cargoshot",
+  "website": "https://cargoshot.com/",
+  "description": "CargoShot is the global supply chain leader of innovative SaaS-based \"proof of condition\" solutions driving supply chain accountability, operational efficiency, and improved financial performance.",
+  "one_liner": "CargoShot is the global supply chain leader of innovative SaaS-based \"proof of condition\" solutions driving supply chain accountability, operational efficiency, and improved financial performance.",
+  "location": "Carlsbad, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/cargoshot"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cargoshot",
+  "api": "/api/companies/cargoshot.json"
+}

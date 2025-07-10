@@ -1,0 +1,24 @@
+{
+  "name": "JusticeText",
+  "slug": "justicetext",
+  "website": "https://justicetext.com/",
+  "description": "JusticeText  is an audiovisual evidence management platform designed to produce fairer outcomes in the criminal justice system by expediting the review of body camera footage, interrogation videos, jail calls, and more.",
+  "one_liner": "JusticeText  is an audiovisual evidence management platform designed to produce fairer outcomes in the criminal justice system by expediting the review of body camera footage, interrogation videos, jail calls, and more.",
+  "location": "Irvine, California, United States",
+  "industry": "Audiotech",
+  "industry_slug": "audiotech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/JusticeText",
+    "linkedin": "https://linkedin.com/company/justicetext",
+    "facebook": "https://facebook.com/profile.php"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/justicetext",
+  "api": "/api/companies/justicetext.json"
+}

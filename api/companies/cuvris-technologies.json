@@ -1,0 +1,22 @@
+{
+  "name": "Cuvris Technologies",
+  "slug": "cuvris-technologies",
+  "website": "https://cuvris.com/",
+  "description": "Reducing claims denials, increasing  healthcare practice revenue and streamlining operations with AI Agents",
+  "one_liner": "Reducing claims denials, increasing  healthcare practice revenue and streamlining operations with AI Agents",
+  "location": "Kitchener, Ontario, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/cuvris"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cuvris-technologies",
+  "api": "/api/companies/cuvris-technologies.json"
+}

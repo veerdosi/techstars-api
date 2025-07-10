@@ -1,0 +1,24 @@
+{
+  "name": "Thinker-Tinker",
+  "slug": "thinker-tinker",
+  "website": "https://linkedin.com/company/thinker-tinker",
+  "description": "Thinker-Tinker delight in creating magical and surprising experiences for our little ones and their families.",
+  "one_liner": "Thinker-Tinker delight in creating magical and surprising experiences for our little ones and their families.",
+  "location": "Pasadena, California, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/playoctobo",
+    "linkedin": "https://linkedin.com/company/thinker-tinker",
+    "facebook": "https://facebook.com/playoctobo"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/thinker-tinker",
+  "api": "/api/companies/thinker-tinker.json"
+}

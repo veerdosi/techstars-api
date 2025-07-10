@@ -1,0 +1,24 @@
+{
+  "name": "CPRWrap",
+  "slug": "cprwrap",
+  "website": "https://cprwrap.com/",
+  "description": "CPRWrap produces a disposable CPR template that guides, protects and empowers the lay responder during a sudden cardiac arrest.",
+  "one_liner": "CPRWrap produces a disposable CPR template that guides, protects and empowers the lay responder during a sudden cardiac arrest.",
+  "location": "Chattanooga, Tennessee, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/cprwrap",
+    "linkedin": "https://linkedin.com/in/felicia-jackson-42b29a59",
+    "facebook": "https://facebook.com/CPRWrap/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cprwrap",
+  "api": "/api/companies/cprwrap.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Rewire Health",
+  "slug": "rewire-health",
+  "website": "https://rewire-health.com/",
+  "description": "Enabling culinary medicine with B2B software",
+  "one_liner": "Enabling culinary medicine with B2B software",
+  "location": "Boalsburg, Pennsylvania, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/rewire-health"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rewire-health",
+  "api": "/api/companies/rewire-health.json"
+}

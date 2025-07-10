@@ -1,0 +1,24 @@
+{
+  "name": "PharmaBusinessReview",
+  "slug": "pharmabusinessreview",
+  "website": "https://pbrinsight.com/",
+  "description": "PBR Life Sciences connects businesses with real-world opportunities in life sciences by combining data, technology, and people.",
+  "one_liner": "PBR Life Sciences connects businesses with real-world opportunities in life sciences by combining data, technology, and people.",
+  "location": "London, United Kingdom",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/yid5getb1wh0oj41ewdz",
+  "social_media": {
+    "twitter": "https://twitter.com/pbrlifesciences",
+    "linkedin": "https://linkedin.com/company/pbr-life-sciences",
+    "facebook": "https://facebook.com/people/PBR-Life-Sciences/61554007611436"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pharmabusinessreview",
+  "api": "/api/companies/pharmabusinessreview.json"
+}

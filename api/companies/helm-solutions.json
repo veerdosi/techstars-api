@@ -1,0 +1,24 @@
+{
+  "name": "Helm Solutions",
+  "slug": "helm-solutions",
+  "website": "https://linkedin.com/company/10128001",
+  "description": "Helm provides companies instant visibility into their cybersecurity and technology compliance gaps.",
+  "one_liner": "Helm provides companies instant visibility into their cybersecurity and technology compliance gaps.",
+  "location": "New York City, New York, United States",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/HelmGlobal",
+    "linkedin": "https://linkedin.com/company/10128001",
+    "facebook": "https://facebook.com/helmglobal/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/helm-solutions",
+  "api": "/api/companies/helm-solutions.json"
+}

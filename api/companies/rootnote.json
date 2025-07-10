@@ -1,0 +1,24 @@
+{
+  "name": "RootNote",
+  "slug": "rootnote",
+  "website": "https://rootnote.co/",
+  "description": "Developer of a business tracking platform designed to help creators to turn their passions into their livelihoods.",
+  "one_liner": "Developer of a business tracking platform designed to help creators to turn their passions into their livelihoods.",
+  "location": "Nashville, Tennessee, United States",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/rootnoteco",
+    "linkedin": "https://linkedin.com/company/rootnote",
+    "facebook": "https://facebook.com/rootnotecompany/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rootnote",
+  "api": "/api/companies/rootnote.json"
+}

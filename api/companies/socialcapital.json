@@ -1,0 +1,24 @@
+{
+  "name": "SocialCapital",
+  "slug": "socialcapital",
+  "website": "https://linkedin.com/company/socialcapital",
+  "description": "Using just an email address, SocialCapital instantly generates a deep psychological profile which helps you research and communicate with the people that are im",
+  "one_liner": "Using just an email address, SocialCapital instantly generates a deep psychological profile which helps you research and communicate with the people that are im",
+  "location": "San Francisco, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/socialcapitalio",
+    "linkedin": "https://linkedin.com/company/socialcapital",
+    "facebook": "https://facebook.com/socialcapitalio"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/socialcapital",
+  "api": "/api/companies/socialcapital.json"
+}

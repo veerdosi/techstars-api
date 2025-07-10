@@ -1,0 +1,24 @@
+{
+  "name": "Fitco",
+  "slug": "fitco",
+  "website": "https://fitcolatam.com/",
+  "description": "Powers the online presence for fitness studios in Latin America with a streaming and on-demand class platform that integrates to powerful management software.",
+  "one_liner": "Powers the online presence for fitness studios in Latin America with a streaming and on-demand class platform that integrates to powerful management software.",
+  "location": "Lima, Peru",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/fitco_latam",
+    "linkedin": "https://linkedin.com/company/fitco-inc.",
+    "facebook": "https://facebook.com/fitco.community"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fitco",
+  "api": "/api/companies/fitco.json"
+}

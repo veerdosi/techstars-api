@@ -1,0 +1,24 @@
+{
+  "name": "Bongalow",
+  "slug": "bongalow",
+  "website": "https://bongalow.com/",
+  "description": "Making mortgages more accessible for Africans by empowering banks and real estate agents with modern mortgage infrastructure.",
+  "one_liner": "Making mortgages more accessible for Africans by empowering banks and real estate agents with modern mortgage infrastructure.",
+  "location": "Lagos, Nigeria",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gt97r3yaj3dlslqtukrh",
+  "social_media": {
+    "twitter": "https://twitter.com/BongalowNigeria",
+    "linkedin": "https://linkedin.com/company/myawayhome",
+    "facebook": "https://facebook.com/BongalowNigeria"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bongalow",
+  "api": "/api/companies/bongalow.json"
+}

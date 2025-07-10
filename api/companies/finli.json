@@ -1,0 +1,24 @@
+{
+  "name": "Finli",
+  "slug": "finli",
+  "website": "https://finliapp.com/",
+  "description": "Comprehensive accounts receivable management system for education-based SMB's.",
+  "one_liner": "Comprehensive accounts receivable management system for education-based SMB's.",
+  "location": "San Marino, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/iamfinli",
+    "linkedin": "https://linkedin.com/company/iamfinli",
+    "facebook": "https://facebook.com/joinfinli"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/finli",
+  "api": "/api/companies/finli.json"
+}

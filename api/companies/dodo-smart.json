@@ -1,0 +1,24 @@
+{
+  "name": "Dodo Smart",
+  "slug": "dodo-smart",
+  "website": "https://linkedin.com/company/dodo-smart",
+  "description": "Dodo smart is creating a platform with playful learning experience for preschool children in Arabic.",
+  "one_liner": "Dodo smart is creating a platform with playful learning experience for preschool children in Arabic.",
+  "location": "Tel Aviv, Israel",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/DodoSmart_",
+    "linkedin": "https://linkedin.com/company/dodo-smart",
+    "facebook": "https://facebook.com/dodosmart1/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dodo-smart",
+  "api": "/api/companies/dodo-smart.json"
+}

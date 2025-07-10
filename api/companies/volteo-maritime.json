@@ -1,0 +1,24 @@
+{
+  "name": "Volteo Maritime",
+  "slug": "volteo-maritime",
+  "website": "https://volteo.com/",
+  "description": "Reimagining maritime by digitalizing vessel operations management and fostering collaboration between ship and shore.",
+  "one_liner": "Reimagining maritime by digitalizing vessel operations management and fostering collaboration between ship and shore.",
+  "location": "Singapore, Singapore",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/volteotech",
+    "linkedin": "https://linkedin.com/company/volteomaritime",
+    "facebook": "https://facebook.com/Volteo-Maritime-101416344909095"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/volteo-maritime",
+  "api": "/api/companies/volteo-maritime.json"
+}

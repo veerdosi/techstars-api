@@ -1,0 +1,24 @@
+{
+  "name": "SPCE",
+  "slug": "spce",
+  "website": "https://linkedin.com/company/10911979",
+  "description": "SPCE works with universities to enhance the student experience by being the 1st point of call for the provision of off-campus accommodation",
+  "one_liner": "SPCE works with universities to enhance the student experience by being the 1st point of call for the provision of off-campus accommodation",
+  "location": "London, United Kingdom",
+  "industry": "Real estate tech",
+  "industry_slug": "real-estate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/liveinspce",
+    "linkedin": "https://linkedin.com/company/10911979",
+    "facebook": "https://facebook.com/liveinspce/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/spce",
+  "api": "/api/companies/spce.json"
+}

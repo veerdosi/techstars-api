@@ -1,0 +1,22 @@
+{
+  "name": "The Playbook",
+  "slug": "the-playbook",
+  "website": "https://sportsmentalhealthplaybook.com/",
+  "description": "The Playbook helps athletes practice better. It is an award-winning, trademarked approach to track, treat, and improve overall well-being and performance for athletes and individuals who are operating at the highest level. The team has developed a system",
+  "one_liner": "The Playbook helps athletes practice better. It is an award-winning, trademarked approach to track, treat, and improve overall well-being and performance for athletes and individuals who are operating at the highest level. The team has developed a system",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/sportsmentalhealthplaybook"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/the-playbook",
+  "api": "/api/companies/the-playbook.json"
+}

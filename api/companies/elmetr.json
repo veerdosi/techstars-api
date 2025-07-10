@@ -1,0 +1,23 @@
+{
+  "name": "Elmetr",
+  "slug": "elmetr",
+  "website": "https://elmetr.com/",
+  "description": "",
+  "one_liner": "",
+  "location": "Unknown",
+  "industry": "Legal tech",
+  "industry_slug": "legal-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lcd16nhousdltwdyw8ng",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/14060114",
+    "facebook": "https://facebook.com/elmetrllc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/elmetr",
+  "api": "/api/companies/elmetr.json"
+}

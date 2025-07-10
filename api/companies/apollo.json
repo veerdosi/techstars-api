@@ -1,0 +1,24 @@
+{
+  "name": "Apollo",
+  "slug": "apollo",
+  "website": "https://getapollo.in/",
+  "description": "Apollo is an application.",
+  "one_liner": "Apollo is an application.",
+  "location": "Portland, Oregon, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fwt5vhvbrwjsyv8rvkxv",
+  "social_media": {
+    "twitter": "https://twitter.com/get_apollo",
+    "linkedin": "https://linkedin.com/company/theapollo-id",
+    "facebook": "https://facebook.com/getapollo.in"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/apollo",
+  "api": "/api/companies/apollo.json"
+}

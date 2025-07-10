@@ -1,0 +1,24 @@
+{
+  "name": "Pathful",
+  "slug": "pathful",
+  "website": "https://pathful.com/",
+  "description": "Automated conversion insights for customer acquisition",
+  "one_liner": "Automated conversion insights for customer acquisition",
+  "location": "Vancouver, British Columbia, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/106308-ff5226cecafc222c4533ca1b2d44b3ea-medium_jpg.jpg?buster=1363032390",
+  "social_media": {
+    "twitter": "https://twitter.com/pathful",
+    "linkedin": "https://linkedin.com/company/pathful",
+    "facebook": "https://facebook.com/Pathful"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pathful",
+  "api": "/api/companies/pathful.json"
+}

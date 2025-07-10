@@ -1,0 +1,23 @@
+{
+  "name": "Be Human(e)",
+  "slug": "be-human-e",
+  "website": "https://behumane.co/",
+  "description": "Be Human(e) helps in development and assessment of students' soft skills by developing a game-based learning platform.",
+  "one_liner": "Be Human(e) helps in development and assessment of students' soft skills by developing a game-based learning platform.",
+  "location": "Dover, Delaware, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/filipc_sara",
+    "linkedin": "https://linkedin.com/in/filipcicsara"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/be-human-e",
+  "api": "/api/companies/be-human-e.json"
+}

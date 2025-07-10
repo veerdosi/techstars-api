@@ -1,0 +1,24 @@
+{
+  "name": "Potion",
+  "slug": "potion",
+  "website": "https://communikind.com/",
+  "description": "Communikind is empowering potential in each child & everyone in their care community.",
+  "one_liner": "Communikind is empowering potential in each child & everyone in their care community.",
+  "location": "San Francisco, California, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/communikind",
+    "linkedin": "https://linkedin.com/company/communikind",
+    "facebook": "https://facebook.com/Communikind"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/potion",
+  "api": "/api/companies/potion.json"
+}

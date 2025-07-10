@@ -1,0 +1,22 @@
+{
+  "name": "Jupiter Card",
+  "slug": "jupiter-card",
+  "website": "https://linkedin.com/company/jupiter-card",
+  "description": "Jupiter Card is a \"self-directed\" credit account management solution that enables credit unions and community banks to drive both financial health and credit portfolio performance by giving their customers the ability to unlock better credit terms automat",
+  "one_liner": "Jupiter Card is a \"self-directed\" credit account management solution that enables credit unions and community banks to drive both financial health and credit portfolio performance by giving their customers the ability to unlock better credit terms automat",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/jupiter-card"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/jupiter-card",
+  "api": "/api/companies/jupiter-card.json"
+}

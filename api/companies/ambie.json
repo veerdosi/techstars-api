@@ -1,0 +1,24 @@
+{
+  "name": "Ambie",
+  "slug": "ambie",
+  "website": "https://linkedin.com/company/ambie",
+  "description": "Ambie is personalised, music streaming service for businesses.",
+  "one_liner": "Ambie is personalised, music streaming service for businesses.",
+  "location": "London, United Kingdom",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ambiefm",
+    "linkedin": "https://linkedin.com/company/ambie",
+    "facebook": "https://facebook.com/AmbieFM"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ambie",
+  "api": "/api/companies/ambie.json"
+}

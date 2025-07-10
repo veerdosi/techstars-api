@@ -1,0 +1,24 @@
+{
+  "name": "Edizeven",
+  "slug": "edizeven",
+  "website": "https://edizeven.com/",
+  "description": "We provide tech-powered, personalized hiring services for restaurants, helping them hire staff 3x faster and better.",
+  "one_liner": "We provide tech-powered, personalized hiring services for restaurants, helping them hire staff 3x faster and better.",
+  "location": "Seattle, Washington, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/edizeven87",
+    "linkedin": "https://linkedin.com/company/edizeven",
+    "facebook": "https://facebook.com/edizeven87/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/edizeven",
+  "api": "/api/companies/edizeven.json"
+}

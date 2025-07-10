@@ -1,0 +1,22 @@
+{
+  "name": "Olli Health",
+  "slug": "olli-health",
+  "website": "https://ollihomehealth.ai/",
+  "description": "Olli Health provides an AI-powered, home health OASIS review and coding service that's 10x faster, more accurate, and costs less than half of current manual human-based solutions.",
+  "one_liner": "Olli Health provides an AI-powered, home health OASIS review and coding service that's 10x faster, more accurate, and costs less than half of current manual human-based solutions.",
+  "location": "New York City, Wisconsin, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/olli-home-health"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/olli-health",
+  "api": "/api/companies/olli-health.json"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "TimeCredit",
+  "slug": "timecredit",
+  "website": "https://timecredit.ai/",
+  "description": "TimeCredit is an AI-powered research and memo-generation platform for accountants.",
+  "one_liner": "TimeCredit is an AI-powered research and memo-generation platform for accountants.",
+  "location": "Somerville, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/timecredit",
+  "api": "/api/companies/timecredit.json"
+}

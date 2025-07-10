@@ -1,0 +1,24 @@
+{
+  "name": "Lukango",
+  "slug": "lukango",
+  "website": "https://lukango.com/",
+  "description": "Lukango provides custom insurance for small businesses.",
+  "one_liner": "Lukango provides custom insurance for small businesses.",
+  "location": "London, England, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/HelloLukango",
+    "linkedin": "https://linkedin.com/company/lukango",
+    "facebook": "https://facebook.com/HelloLukango"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lukango",
+  "api": "/api/companies/lukango.json"
+}

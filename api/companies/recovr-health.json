@@ -1,0 +1,24 @@
+{
+  "name": "Recovr Health",
+  "slug": "recovr-health",
+  "website": "https://recovr.health/",
+  "description": "Verapy is a mobile rehabilitation platform that utilizes virtual reality (VR) to create immersive games for physical therapy, resulting in better patient experiences by making rehabilitation more productive, fun and engaging",
+  "one_liner": "Verapy is a mobile rehabilitation platform that utilizes virtual reality (VR) to create immersive games for physical therapy, resulting in better patient experiences by making rehabilitation more productive, fun and engaging",
+  "location": "Tampa, Florida, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/verapytherapy",
+    "linkedin": "https://linkedin.com/company/verapy",
+    "facebook": "https://facebook.com/verapytherapy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/recovr-health",
+  "api": "/api/companies/recovr-health.json"
+}

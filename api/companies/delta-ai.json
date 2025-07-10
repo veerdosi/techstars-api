@@ -1,0 +1,23 @@
+{
+  "name": "Delta AI",
+  "slug": "delta-ai",
+  "website": "https://linkedin.com/company/delta-labs-ai",
+  "description": "Social Media Product Intelligence - Delta AI uses computer vision to help brands discover how products are used in context, around the world.",
+  "one_liner": "Social Media Product Intelligence - Delta AI uses computer vision to help brands discover how products are used in context, around the world.",
+  "location": "Brisbane, Queensland, Australia",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/deltalabsai",
+    "linkedin": "https://linkedin.com/company/delta-labs-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/delta-ai",
+  "api": "/api/companies/delta-ai.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Grandpal",
+  "slug": "grandpal",
+  "website": "https://linkedin.com/company/grandpal",
+  "description": "Grandpal ensures a better quality of life for the older generations, combating increasing levels of old-age loneliness.",
+  "one_liner": "Grandpal ensures a better quality of life for the older generations, combating increasing levels of old-age loneliness.",
+  "location": "Naas, Kildare, Ireland",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/dalynewspaper",
+    "linkedin": "https://linkedin.com/company/grandpal",
+    "facebook": "https://facebook.com/dalynewspaper"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/grandpal",
+  "api": "/api/companies/grandpal.json"
+}

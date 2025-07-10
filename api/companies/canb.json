@@ -1,0 +1,24 @@
+{
+  "name": "canB",
+  "slug": "canb",
+  "website": "https://canb.eu/",
+  "description": "A new banking platform that offers accounts, cards, reports, and security services",
+  "one_liner": "A new banking platform that offers accounts, cards, reports, and security services",
+  "location": "Paris, France",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/j0hvyinhih0crkegrzbx",
+  "social_media": {
+    "twitter": "https://twitter.com/canBthechange",
+    "linkedin": "https://linkedin.com/company/canbthechange",
+    "facebook": "https://facebook.com/canbthechange/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/canb",
+  "api": "/api/companies/canb.json"
+}

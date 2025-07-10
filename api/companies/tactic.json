@@ -1,0 +1,22 @@
+{
+  "name": "Tactic",
+  "slug": "tactic",
+  "website": "https://tactic.ly/",
+  "description": "Prevent ransomware attacks by actively hacking your cyber defenses and continuously validating your security tools.",
+  "one_liner": "Prevent ransomware attacks by actively hacking your cyber defenses and continuously validating your security tools.",
+  "location": "Fircrest, Washington, United States",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/tactic-ly"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tactic",
+  "api": "/api/companies/tactic.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Lullaai",
+  "slug": "lullaai",
+  "website": "https://lullaai.com/",
+  "description": "The only Baby Sleep App with expertise and a holistic approach.",
+  "one_liner": "The only Baby Sleep App with expertise and a holistic approach.",
+  "location": "Madrid, Spain",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/lullaaiApp",
+    "linkedin": "https://linkedin.com/company/lullaai",
+    "facebook": "https://facebook.com/lullaai/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lullaai",
+  "api": "/api/companies/lullaai.json"
+}

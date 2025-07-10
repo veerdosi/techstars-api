@@ -1,0 +1,22 @@
+{
+  "name": "Pulse Charter Connect",
+  "slug": "pulse-charter-connect",
+  "website": "https://pulsecharterconnect.com/",
+  "description": "Pulse Charter Connect provides organ transportation logistics services.",
+  "one_liner": "Pulse Charter Connect provides organ transportation logistics services.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Supply chain technology",
+  "industry_slug": "supply-chain-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/pulse-charter-connect"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pulse-charter-connect",
+  "api": "/api/companies/pulse-charter-connect.json"
+}

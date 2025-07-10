@@ -1,0 +1,20 @@
+{
+  "name": "People's Software",
+  "slug": "people-s-software",
+  "website": "https://crunchbase.com/organization/peoples-software-company",
+  "description": "Scheduling on the go",
+  "one_liner": "Scheduling on the go",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/people-s-software",
+  "api": "/api/companies/people-s-software.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PairAnything",
+  "slug": "pairanything",
+  "website": "https://pairanything.com/",
+  "description": "For large retailers, like Target, that want to sell more to shoppers, especially who are underserved, PairAnything provides digital in-store food & wine pairings and actionable insights to increase cart size.",
+  "one_liner": "For large retailers, like Target, that want to sell more to shoppers, especially who are underserved, PairAnything provides digital in-store food & wine pairings and actionable insights to increase cart size.",
+  "location": "Davis, California, United States",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/pairanything",
+    "linkedin": "https://linkedin.com/company/locumdoc",
+    "facebook": "https://facebook.com/PairAnything/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pairanything",
+  "api": "/api/companies/pairanything.json"
+}

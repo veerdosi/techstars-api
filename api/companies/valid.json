@@ -1,0 +1,22 @@
+{
+  "name": "Valid",
+  "slug": "valid",
+  "website": "https://validit.ai/",
+  "description": "We are developing a technology that will allow you to perform a polygraph-like fraud detection test using only your smartphone.",
+  "one_liner": "We are developing a technology that will allow you to perform a polygraph-like fraud detection test using only your smartphone.",
+  "location": "Tel Aviv, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/yossi-p-50a5baab"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/valid",
+  "api": "/api/companies/valid.json"
+}

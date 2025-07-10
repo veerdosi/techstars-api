@@ -1,0 +1,24 @@
+{
+  "name": "Preesale",
+  "slug": "preesale",
+  "website": "https://linkedin.com/company/preesale",
+  "description": "Preesale provides event organizers with powerful analytics on sales, real-time communication with customers, and ticket proceeds from events as they are purchas",
+  "one_liner": "Preesale provides event organizers with powerful analytics on sales, real-time communication with customers, and ticket proceeds from events as they are purchas",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Preesale",
+    "linkedin": "https://linkedin.com/company/preesale",
+    "facebook": "https://facebook.com/preesale"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/preesale",
+  "api": "/api/companies/preesale.json"
+}

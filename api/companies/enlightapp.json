@@ -1,0 +1,24 @@
+{
+  "name": "Enlightapp",
+  "slug": "enlightapp",
+  "website": "https://enlightapp.co/",
+  "description": "Enlight amplifies student voices and showcases their uniqueness - enabling educators to understand, teach, and impact their students in new deep and quantifiable ways.",
+  "one_liner": "Enlight amplifies student voices and showcases their uniqueness - enabling educators to understand, teach, and impact their students in new deep and quantifiable ways.",
+  "location": "West Fargo, North Dakota, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/enlightapp_co",
+    "linkedin": "https://linkedin.com/company/enlightapps",
+    "facebook": "https://facebook.com/enlightapp.co/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/enlightapp",
+  "api": "/api/companies/enlightapp.json"
+}

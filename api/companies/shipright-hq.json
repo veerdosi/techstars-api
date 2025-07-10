@@ -1,0 +1,24 @@
+{
+  "name": "Shipright HQ",
+  "slug": "shipright-hq",
+  "website": "https://linkedin.com/company/shipright",
+  "description": "Track product feedback in one organized place",
+  "one_liner": "Track product feedback in one organized place",
+  "location": "Rotterdam, Netherlands",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/shiprighthq",
+    "linkedin": "https://linkedin.com/company/shipright",
+    "facebook": "https://facebook.com/shiprighthq/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/shipright-hq",
+  "api": "/api/companies/shipright-hq.json"
+}

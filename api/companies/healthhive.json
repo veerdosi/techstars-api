@@ -1,0 +1,24 @@
+{
+  "name": "HealthHive",
+  "slug": "healthhive",
+  "website": "https://healthhive.org/",
+  "description": "Driving value-based care by solving the care coordination needs of older adults and their caregivers as we integrate formal & informal care teams.",
+  "one_liner": "Driving value-based care by solving the care coordination needs of older adults and their caregivers as we integrate formal & informal care teams.",
+  "location": "Middletown, Delaware, United States",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/TheHealthHive",
+    "linkedin": "https://linkedin.com/company/18660488",
+    "facebook": "https://facebook.com/HealthHiveApp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/healthhive",
+  "api": "/api/companies/healthhive.json"
+}

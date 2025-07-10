@@ -1,0 +1,23 @@
+{
+  "name": "ProductionAR",
+  "slug": "productionar",
+  "website": "https://productionar.com/",
+  "description": "Computer vision enabled high performance augmented reality.  Digitizing the Supply Chain.",
+  "one_liner": "Computer vision enabled high performance augmented reality.  Digitizing the Supply Chain.",
+  "location": "Edmonton, Alberta, Canada",
+  "industry": "Oil and gas",
+  "industry_slug": "oil-gas",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/productionar",
+    "facebook": "https://facebook.com/Production-AR-100386914773033/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/productionar",
+  "api": "/api/companies/productionar.json"
+}

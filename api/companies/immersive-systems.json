@@ -1,0 +1,24 @@
+{
+  "name": "Immersive Systems",
+  "slug": "immersive-systems",
+  "website": "https://immersivesystems.io/",
+  "description": "Immersive Systems is delivering an esports media platform that powers the next generation of fan engagement and revenue growth.",
+  "one_liner": "Immersive Systems is delivering an esports media platform that powers the next generation of fan engagement and revenue growth.",
+  "location": "Pittsburgh, Pennsylvania, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ImmerseOS",
+    "linkedin": "https://linkedin.com/company/immersive-systems-inc",
+    "facebook": "https://facebook.com/ImmersiveSports/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/immersive-systems",
+  "api": "/api/companies/immersive-systems.json"
+}

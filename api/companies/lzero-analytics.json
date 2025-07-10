@@ -1,0 +1,22 @@
+{
+  "name": "LZero Analytics",
+  "slug": "lzero-analytics",
+  "website": "https://lzeroanalytics.com/",
+  "description": "LZero is an enterprise-grade, testnet-as-a-service platform that revolutionizes the development and testing of on-chain applications",
+  "one_liner": "LZero is an enterprise-grade, testnet-as-a-service platform that revolutionizes the development and testing of on-chain applications",
+  "location": "Southampton, England, United Kingdom",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/91644729"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lzero-analytics",
+  "api": "/api/companies/lzero-analytics.json"
+}

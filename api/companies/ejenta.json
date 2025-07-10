@@ -1,0 +1,24 @@
+{
+  "name": "Ejenta",
+  "slug": "ejenta",
+  "website": "https://ejenta.com/",
+  "description": "AI platform for remote health monitoring and connected care",
+  "one_liner": "AI platform for remote health monitoring and connected care",
+  "location": "San Francisco, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1397182489/b7d3d853b27f037c085ee91252f631cb.jpg",
+  "social_media": {
+    "twitter": "https://twitter.com/ejenta",
+    "linkedin": "https://linkedin.com/company/ejenta",
+    "facebook": "https://facebook.com/rajatdhameja"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ejenta",
+  "api": "/api/companies/ejenta.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "InStryde",
+  "slug": "instryde",
+  "website": "https://instryde.com/",
+  "description": "inStryde - Superpowering human movement.\n\nTo view the company one-page summary click here -  https://app.buildmemo.com/s/by2rv_",
+  "one_liner": "inStryde - Superpowering human movement.\n\nTo view the company one-page summary click here -  https://app.buildmemo.com/s/by2rv_",
+  "location": "Winston-Salem, North Carolina, United States",
+  "industry": "3D printing",
+  "industry_slug": "3d-printing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/instryde_",
+    "linkedin": "https://linkedin.com/company/68964026",
+    "facebook": "https://facebook.com/inStryde"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/instryde",
+  "api": "/api/companies/instryde.json"
+}

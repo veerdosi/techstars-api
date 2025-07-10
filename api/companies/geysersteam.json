@@ -1,0 +1,22 @@
+{
+  "name": "GeyserSteam",
+  "slug": "geysersteam",
+  "website": "https://geysersteamroom.com/",
+  "description": "GeyserSteam is the only premium plug-and-play steam room.  Installation requires no plumbing or permits, it can heat to 120 degrees with 100% humidity, and works both outdoors and indoors.",
+  "one_liner": "GeyserSteam is the only premium plug-and-play steam room.  Installation requires no plumbing or permits, it can heat to 120 degrees with 100% humidity, and works both outdoors and indoors.",
+  "location": "Miami, Florida, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/geysersteam"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/geysersteam",
+  "api": "/api/companies/geysersteam.json"
+}

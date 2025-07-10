@@ -1,0 +1,24 @@
+{
+  "name": "Zumma",
+  "slug": "zumma",
+  "website": "https://tuzumma.com/",
+  "description": "Zumma is a digital platform that connects, teaches, and enables to save and invest for the client's goals.Founded in 2021, the company is based in Mexico.",
+  "one_liner": "Zumma is a digital platform that connects, teaches, and enables to save and invest for the client's goals.Founded in 2021, the company is based in Mexico.",
+  "location": "Lake Mary, Florida, United States",
+  "industry": "Femtech",
+  "industry_slug": "femtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fzbtnvnijmzmfoxaq6mz",
+  "social_media": {
+    "twitter": "https://twitter.com/TuZumma",
+    "linkedin": "https://linkedin.com/company/tuzumma",
+    "facebook": "https://facebook.com/Zumma-106559464992605"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/zumma",
+  "api": "/api/companies/zumma.json"
+}

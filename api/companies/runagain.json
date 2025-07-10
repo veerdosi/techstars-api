@@ -1,0 +1,22 @@
+{
+  "name": "RunAgain",
+  "slug": "runagain",
+  "website": "https://runagain.com/",
+  "description": "RunAgain provides ONE integrated platform which serves the needs of both runners and organizers by enabling organizers to promote & sell bookings to their events, and runners to easily find & book quality events.  Join our community of 20k+ runners and 60",
+  "one_liner": "RunAgain provides ONE integrated platform which serves the needs of both runners and organizers by enabling organizers to promote & sell bookings to their events, and runners to easily find & book quality events.  Join our community of 20k+ runners and 60",
+  "location": "Lillestrøm, Akershus, Norway",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/runagain"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/runagain",
+  "api": "/api/companies/runagain.json"
+}

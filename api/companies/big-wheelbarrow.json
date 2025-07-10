@@ -1,0 +1,24 @@
+{
+  "name": "Big Wheelbarrow",
+  "slug": "big-wheelbarrow",
+  "website": "https://bigwheelbarrow.com/",
+  "description": "Big Wheelbarrow is a saas company that enables wholesale food buyers to find and work with small local producers.",
+  "one_liner": "Big Wheelbarrow is a saas company that enables wholesale food buyers to find and work with small local producers.",
+  "location": "Austin, Texas, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/big_wheelbarrow",
+    "linkedin": "https://linkedin.com/company/big-wheelbarrow",
+    "facebook": "https://facebook.com/bigwheelbarrow"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/big-wheelbarrow",
+  "api": "/api/companies/big-wheelbarrow.json"
+}

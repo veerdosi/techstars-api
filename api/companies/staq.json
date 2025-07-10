@@ -1,0 +1,24 @@
+{
+  "name": "Staq",
+  "slug": "staq",
+  "website": "https://staq.io/",
+  "description": "Staq is a backend-as-a-service for games. We make it simple to monetize and optimize free to play games on mobile, web and consoles.",
+  "one_liner": "Staq is a backend-as-a-service for games. We make it simple to monetize and optimize free to play games on mobile, web and consoles.",
+  "location": "San Francisco, California, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GetStaq",
+    "linkedin": "https://linkedin.com/company/staq-inc-",
+    "facebook": "https://facebook.com/GetStaq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/staq",
+  "api": "/api/companies/staq.json"
+}

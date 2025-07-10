@@ -1,0 +1,24 @@
+{
+  "name": "Queen of Raw",
+  "slug": "queen-of-raw",
+  "website": "https://queenofraw.com/",
+  "description": "Queen of Raw is a global marketplace w/AI-powered supply chain software to eliminate and monetize textile waste, turning deadstock into dollars.",
+  "one_liner": "Queen of Raw is a global marketplace w/AI-powered supply chain software to eliminate and monetize textile waste, turning deadstock into dollars.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/queenofraw",
+    "linkedin": "https://linkedin.com/company/queenofraw",
+    "facebook": "https://facebook.com/queenofraw"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/queen-of-raw",
+  "api": "/api/companies/queen-of-raw.json"
+}

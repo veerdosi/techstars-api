@@ -1,0 +1,24 @@
+{
+  "name": "Help Scout",
+  "slug": "help-scout",
+  "website": "https://helpscout.com/",
+  "description": "Help Scout makes customer support tools that keep customers happy as you grow.",
+  "one_liner": "Help Scout makes customer support tools that keep customers happy as you grow.",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "SaaS",
+  "industry_slug": "saas",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/helpscout",
+    "linkedin": "https://linkedin.com/company/1447019",
+    "facebook": "https://facebook.com/helpscout"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/help-scout",
+  "api": "/api/companies/help-scout.json"
+}

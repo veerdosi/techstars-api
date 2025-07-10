@@ -1,0 +1,23 @@
+{
+  "name": "Graphite Innovation and Technologies",
+  "slug": "graphite-innovation-and-technologies",
+  "website": "https://grapheneenterprise.ca/",
+  "description": "Canada's leading protective marine coatings company specialized in high-performance coatings for large vessels that reduce fuel consumption and GHG",
+  "one_liner": "Canada's leading protective marine coatings company specialized in high-performance coatings for large vessels that reduce fuel consumption and GHG",
+  "location": "Dartmouth, Nova Scotia, Canada",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GIT_Graphene",
+    "linkedin": "https://linkedin.com/company/grapheneenterprise"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/graphite-innovation-and-technologies",
+  "api": "/api/companies/graphite-innovation-and-technologies.json"
+}

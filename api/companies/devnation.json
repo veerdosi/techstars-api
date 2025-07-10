@@ -1,0 +1,23 @@
+{
+  "name": "DevNation",
+  "slug": "devnation",
+  "website": "https://thedevnation.com/",
+  "description": "DevNation trains Pakistanis with in-demand digital tech skills and connects them with employers for full-time opportunities.",
+  "one_liner": "DevNation trains Pakistanis with in-demand digital tech skills and connects them with employers for full-time opportunities.",
+  "location": "Lahore, Pakistan",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/thedevnation",
+    "facebook": "https://facebook.com/thedevnation"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/devnation",
+  "api": "/api/companies/devnation.json"
+}

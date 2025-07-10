@@ -1,0 +1,24 @@
+{
+  "name": "Machinery Partner",
+  "slug": "machinery-partner",
+  "website": "https://machinerypartner.com/",
+  "description": "Helping small businesses buy, finance and operate specialist equipment. One segment at a time.",
+  "one_liner": "Helping small businesses buy, finance and operate specialist equipment. One segment at a time.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Construction technology",
+  "industry_slug": "construction-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/MachineryMP",
+    "linkedin": "https://linkedin.com/company/machinerypartner",
+    "facebook": "https://facebook.com/pg/machinerypartner/about/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/machinery-partner",
+  "api": "/api/companies/machinery-partner.json"
+}

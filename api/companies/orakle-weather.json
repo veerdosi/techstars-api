@@ -1,0 +1,20 @@
+{
+  "name": "Orakle Weather",
+  "slug": "orakle-weather",
+  "website": "https://orakleweather.com/",
+  "description": "Rain insurance for outdoor experiences & holidays",
+  "one_liner": "Rain insurance for outdoor experiences & holidays",
+  "location": "Paris, France",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/orakle-weather",
+  "api": "/api/companies/orakle-weather.json"
+}

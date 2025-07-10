@@ -1,0 +1,24 @@
+{
+  "name": "Sunny Day Fund",
+  "slug": "sunny-day-fund",
+  "website": "https://sunnydayfund.com/",
+  "description": "We make saving for emergencies and other immediate financial goals easy, accessible, and rewarding on behalf of employers.",
+  "one_liner": "We make saving for emergencies and other immediate financial goals easy, accessible, and rewarding on behalf of employers.",
+  "location": "Falls Church, Virginia, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sunnydayfund",
+    "linkedin": "https://linkedin.com/company/sunny-day-fund",
+    "facebook": "https://facebook.com/mysunnydayfund/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sunny-day-fund",
+  "api": "/api/companies/sunny-day-fund.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Rezliant",
+  "slug": "rezliant",
+  "website": "https://platform.rezliant.com/",
+  "description": "Rezliant turns all software teams into instant cybersecurity geniuses, saving months per employee and millions in costs.",
+  "one_liner": "Rezliant turns all software teams into instant cybersecurity geniuses, saving months per employee and millions in costs.",
+  "location": "Mesa, Arizona, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/resilient-software-security"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rezliant",
+  "api": "/api/companies/rezliant.json"
+}

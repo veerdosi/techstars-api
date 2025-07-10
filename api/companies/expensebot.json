@@ -1,0 +1,24 @@
+{
+  "name": "ExpenseBot",
+  "slug": "expensebot",
+  "website": "https://linkedin.com/company/expensebot",
+  "description": "Expense reports done for you, not by you.",
+  "one_liner": "Expense reports done for you, not by you.",
+  "location": "Avon, Ohio, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/expensebot",
+    "linkedin": "https://linkedin.com/company/expensebot",
+    "facebook": "https://facebook.com/ExpenseBot"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/expensebot",
+  "api": "/api/companies/expensebot.json"
+}

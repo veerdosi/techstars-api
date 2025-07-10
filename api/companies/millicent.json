@@ -1,0 +1,23 @@
+{
+  "name": "Millicent",
+  "slug": "millicent",
+  "website": "https://millicent.io/",
+  "description": "The open smart contract platform for compliant real-world DeFi.",
+  "one_liner": "The open smart contract platform for compliant real-world DeFi.",
+  "location": "London, United Kingdom",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/MillicentLabs",
+    "linkedin": "https://linkedin.com/company/millicentlabs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/millicent",
+  "api": "/api/companies/millicent.json"
+}

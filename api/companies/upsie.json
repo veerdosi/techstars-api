@@ -1,0 +1,24 @@
+{
+  "name": "Upsie",
+  "slug": "upsie",
+  "website": "https://upsie.com/",
+  "description": "PROTECT THE DEVICES YOU LOVE AT AFFORDABLE PRICES",
+  "one_liner": "PROTECT THE DEVICES YOU LOVE AT AFFORDABLE PRICES",
+  "location": "Burnsville, Minnesota, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/UpsieHQ",
+    "linkedin": "https://linkedin.com/company/4816383",
+    "facebook": "https://facebook.com/upsieapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/upsie",
+  "api": "/api/companies/upsie.json"
+}

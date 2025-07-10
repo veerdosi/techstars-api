@@ -1,0 +1,24 @@
+{
+  "name": "Pepr",
+  "slug": "pepr",
+  "website": "https://linkedin.com/organization/10626537",
+  "description": "AI-powered software to help restaurants improve profits",
+  "one_liner": "AI-powered software to help restaurants improve profits",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Pepr_app",
+    "linkedin": "https://linkedin.com/organization/10626537",
+    "facebook": "https://facebook.com/peprapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pepr",
+  "api": "/api/companies/pepr.json"
+}

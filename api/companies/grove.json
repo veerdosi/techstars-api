@@ -1,0 +1,24 @@
+{
+  "name": "Grove",
+  "slug": "grove",
+  "website": "https://linkedin.com/company/grove-group",
+  "description": "Technology for local, healthy food. Products that help people grow their own food right where they live.",
+  "one_liner": "Technology for local, healthy food. Products that help people grow their own food right where they live.",
+  "location": "Somerville, Massachusetts, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GroveLabs",
+    "linkedin": "https://linkedin.com/company/grove-group",
+    "facebook": "https://facebook.com/GroveLabs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/grove",
+  "api": "/api/companies/grove.json"
+}

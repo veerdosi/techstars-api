@@ -1,0 +1,24 @@
+{
+  "name": "Esper Satellite Imagery",
+  "slug": "esper-satellite-imagery",
+  "website": "https://espersatellites.co/",
+  "description": "Builder and operator of remote sensing satellites capable of high-resolution hyperspectral imagery.",
+  "one_liner": "Builder and operator of remote sensing satellites capable of high-resolution hyperspectral imagery.",
+  "location": "Patterson Lakes, Victoria, Australia",
+  "industry": "Space tech",
+  "industry_slug": "space-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/f6qpnk59jkrdw5t4ql47",
+  "social_media": {
+    "twitter": "https://twitter.com/EsperSats",
+    "linkedin": "https://linkedin.com/company/esper-sats",
+    "facebook": "https://facebook.com/espersatellites"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/esper-satellite-imagery",
+  "api": "/api/companies/esper-satellite-imagery.json"
+}

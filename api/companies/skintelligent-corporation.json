@@ -1,0 +1,23 @@
+{
+  "name": "Skintelligent Corporation",
+  "slug": "skintelligent-corporation",
+  "website": "https://skintelligentlab.com/",
+  "description": "Developing AI skin analysis solutions to power the future of skin health.",
+  "one_liner": "Developing AI skin analysis solutions to power the future of skin health.",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SkintelligentAI",
+    "linkedin": "https://linkedin.com/company/skintelligent"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/skintelligent-corporation",
+  "api": "/api/companies/skintelligent-corporation.json"
+}

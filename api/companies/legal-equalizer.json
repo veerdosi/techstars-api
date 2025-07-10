@@ -1,0 +1,24 @@
+{
+  "name": "Legal Equalizer",
+  "slug": "legal-equalizer",
+  "website": "https://legalequalizer.com/",
+  "description": "Atlanta based company with an app that teaches people about their rights and allows them to have eyewitnesses during police encounters.",
+  "one_liner": "Atlanta based company with an app that teaches people about their rights and allows them to have eyewitnesses during police encounters.",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/legaleqapp",
+    "linkedin": "https://linkedin.com/company/legalequalizer%C2%AE",
+    "facebook": "https://facebook.com/LegalEqualizer/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/legal-equalizer",
+  "api": "/api/companies/legal-equalizer.json"
+}

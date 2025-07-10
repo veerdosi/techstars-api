@@ -1,0 +1,24 @@
+{
+  "name": "Verbz",
+  "slug": "verbz",
+  "website": "https://verbz.ai/",
+  "description": "Verbz.ai is a voice-first workflow solution for enterprise. It greatly enhances the mobile productivity of executives by enabling them verbally create meeting summaries, delegate tasks, dictate notes, and collaborate with team members while on the go.",
+  "one_liner": "Verbz.ai is a voice-first workflow solution for enterprise. It greatly enhances the mobile productivity of executives by enabling them verbally create meeting summaries, delegate tasks, dictate notes, and collaborate with team members while on the go.",
+  "location": "San Francisco, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/verbzapp",
+    "linkedin": "https://linkedin.com/company/verbzapp",
+    "facebook": "https://facebook.com/VerbzAi/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/verbz",
+  "api": "/api/companies/verbz.json"
+}

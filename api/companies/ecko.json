@@ -1,0 +1,23 @@
+{
+  "name": "Ecko",
+  "slug": "ecko",
+  "website": "https://ecko.ac/",
+  "description": "Ecko allows artists to plan, create, and sell NFTs, starting with musical artists.",
+  "one_liner": "Ecko allows artists to plan, create, and sell NFTs, starting with musical artists.",
+  "location": "Antrim, United Kingdom",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/jpmccorley",
+    "linkedin": "https://linkedin.com/company/askecko"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ecko",
+  "api": "/api/companies/ecko.json"
+}

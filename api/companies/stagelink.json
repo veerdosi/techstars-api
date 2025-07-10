@@ -1,0 +1,24 @@
+{
+  "name": "stagelink",
+  "slug": "stagelink",
+  "website": "https://stagelink.com/",
+  "description": "Marketing AI for sm/all businesses",
+  "one_liner": "Marketing AI for sm/all businesses",
+  "location": "Berlin, Germany",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/stagelinktweet",
+    "linkedin": "https://linkedin.com/company/stagelink",
+    "facebook": "https://facebook.com/Stagelink"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/stagelink",
+  "api": "/api/companies/stagelink.json"
+}

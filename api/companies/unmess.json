@@ -1,0 +1,22 @@
+{
+  "name": "unmess",
+  "slug": "unmess",
+  "website": "https://unmess.xyz/",
+  "description": "Plug-and-play financial data infrastructure and unit economics platform.",
+  "one_liner": "Plug-and-play financial data infrastructure and unit economics platform.",
+  "location": "Reading, England, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/unmessxyz"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/unmess",
+  "api": "/api/companies/unmess.json"
+}

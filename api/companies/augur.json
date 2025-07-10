@@ -1,0 +1,24 @@
+{
+  "name": "Augur",
+  "slug": "augur",
+  "website": "https://augur.io/",
+  "description": "Augur provides ad-tech agencies with cross-device and cross-channel attribution. We're building the largest 3rd Party Deterministic Device Graph in the world.",
+  "one_liner": "Augur provides ad-tech agencies with cross-device and cross-channel attribution. We're building the largest 3rd Party Deterministic Device Graph in the world.",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Augur",
+    "linkedin": "https://linkedin.com/company/augur-net",
+    "facebook": "https://facebook.com/augurproject/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/augur",
+  "api": "/api/companies/augur.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Noteworth",
+  "slug": "noteworth",
+  "website": "https://linkedin.com/company/noteworth",
+  "description": "Connecting healthcare organizations to unprecedented streams of on-demand patient-generated health data",
+  "one_liner": "Connecting healthcare organizations to unprecedented streams of on-demand patient-generated health data",
+  "location": "Hoboken, New Jersey, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/noteworth_",
+    "linkedin": "https://linkedin.com/company/noteworth",
+    "facebook": "https://facebook.com/pg/noteworthhealth"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/noteworth",
+  "api": "/api/companies/noteworth.json"
+}

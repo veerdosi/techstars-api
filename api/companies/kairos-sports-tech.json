@@ -1,0 +1,23 @@
+{
+  "name": "Kairos Sports Tech",
+  "slug": "kairos-sports-tech",
+  "website": "https://kairostech.io/",
+  "description": "A communication tool for professional sports teams, provides feedback to players and offers time savings and efficiencies to staff, admin and coaches",
+  "one_liner": "A communication tool for professional sports teams, provides feedback to players and offers time savings and efficiencies to staff, admin and coaches",
+  "location": "Belfast, United Kingdom",
+  "industry": "Manufacturing",
+  "industry_slug": "manufacturing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/KairosSportsHQ",
+    "linkedin": "https://linkedin.com/company/kairos-sports-tech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kairos-sports-tech",
+  "api": "/api/companies/kairos-sports-tech.json"
+}

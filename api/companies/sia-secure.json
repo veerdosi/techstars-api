@@ -1,0 +1,23 @@
+{
+  "name": "Sia Secure",
+  "slug": "sia-secure",
+  "website": "https://linkedin.com/company/sia-secure",
+  "description": "A platform that will provide Secure Communications as a Service to IoT, smart grid and critical infrastructure and private communication systems.",
+  "one_liner": "A platform that will provide Secure Communications as a Service to IoT, smart grid and critical infrastructure and private communication systems.",
+  "location": "Skopje, North Macedonia",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SiaSecure",
+    "linkedin": "https://linkedin.com/company/sia-secure"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sia-secure",
+  "api": "/api/companies/sia-secure.json"
+}

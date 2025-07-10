@@ -1,0 +1,22 @@
+{
+  "name": "mbue",
+  "slug": "mbue",
+  "website": "https://mbue.ai/",
+  "description": "AI automated quality control tools that save significant time and money, increase quality, and reduce risk.",
+  "one_liner": "AI automated quality control tools that save significant time and money, increase quality, and reduce risk.",
+  "location": "West Lake Hills, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/mbue"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mbue",
+  "api": "/api/companies/mbue.json"
+}

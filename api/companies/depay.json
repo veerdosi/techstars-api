@@ -1,0 +1,22 @@
+{
+  "name": "Depay",
+  "slug": "depay",
+  "website": "https://depayapp.com/",
+  "description": "Providing an easy-to-integrate and interoperable crypto payment infrastructure that allows payment processors and gateways to accept crypto as a new payment method.",
+  "one_liner": "Providing an easy-to-integrate and interoperable crypto payment infrastructure that allows payment processors and gateways to accept crypto as a new payment method.",
+  "location": "Buenos Aires, Argentina",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/depayapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/depay",
+  "api": "/api/companies/depay.json"
+}

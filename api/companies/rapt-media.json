@@ -1,0 +1,24 @@
+{
+  "name": "Rapt Media",
+  "slug": "rapt-media",
+  "website": "https://raptmedia.com/",
+  "description": "Platform for interactive video",
+  "one_liner": "Platform for interactive video",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/raptmedia",
+    "linkedin": "https://linkedin.com/company/raptmedia",
+    "facebook": "https://facebook.com/getflixmaster"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rapt-media",
+  "api": "/api/companies/rapt-media.json"
+}

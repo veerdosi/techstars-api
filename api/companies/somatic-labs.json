@@ -1,0 +1,24 @@
+{
+  "name": "Somatic Labs",
+  "slug": "somatic-labs",
+  "website": "https://linkedin.com/company/somatic-labs",
+  "description": "We're designing for a future without screens - starting with a platform for haptic communication.",
+  "one_liner": "We're designing for a future without screens - starting with a platform for haptic communication.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SomaticLabs",
+    "linkedin": "https://linkedin.com/company/somatic-labs",
+    "facebook": "https://facebook.com/SomaticLabs/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/somatic-labs",
+  "api": "/api/companies/somatic-labs.json"
+}

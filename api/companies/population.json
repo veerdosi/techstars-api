@@ -1,0 +1,23 @@
+{
+  "name": "Population",
+  "slug": "population",
+  "website": "https://populationtech.com/",
+  "description": "Population is a first-of-its-kind connected integrated AI and IoT solution to future-proof buildings against infectious disease and promote better health and better data for occupants.",
+  "one_liner": "Population is a first-of-its-kind connected integrated AI and IoT solution to future-proof buildings against infectious disease and promote better health and better data for occupants.",
+  "location": "San Francisco, California, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/populationtech",
+    "facebook": "https://facebook.com/populationapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/population",
+  "api": "/api/companies/population.json"
+}

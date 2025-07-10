@@ -1,0 +1,24 @@
+{
+  "name": "Bailport",
+  "slug": "bailport",
+  "website": "https://linkedin.com/company/bailport",
+  "description": "A multi-currency e-wallet that helps users exchange, save and send money instantly at the best possible rates- within and beyond Africa.",
+  "one_liner": "A multi-currency e-wallet that helps users exchange, save and send money instantly at the best possible rates- within and beyond Africa.",
+  "location": "Auburn, Washington, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/bail_port",
+    "linkedin": "https://linkedin.com/company/bailport",
+    "facebook": "https://facebook.com/BailPortLLC/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bailport",
+  "api": "/api/companies/bailport.json"
+}

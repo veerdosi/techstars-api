@@ -1,0 +1,24 @@
+{
+  "name": "Staxe",
+  "slug": "staxe",
+  "website": "https://staxe.io/",
+  "description": "Enabling music and creative production economies in web3.",
+  "one_liner": "Enabling music and creative production economies in web3.",
+  "location": "Zug, Switzerland",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vexhaxlismam29ts10zo",
+  "social_media": {
+    "twitter": "https://twitter.com/staxeproject",
+    "linkedin": "https://linkedin.com/company/staxe-io",
+    "facebook": "https://facebook.com/staxeproject"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/staxe",
+  "api": "/api/companies/staxe.json"
+}

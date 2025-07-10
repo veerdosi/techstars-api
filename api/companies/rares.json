@@ -1,0 +1,23 @@
+{
+  "name": "Rares",
+  "slug": "rares",
+  "website": "https://linkedin.com/company/rares-app",
+  "description": "Invest in the culture! We are a consumer-facing investing platform that allows users to invest and trade shares in ultra-collectible assets.",
+  "one_liner": "Invest in the culture! We are a consumer-facing investing platform that allows users to invest and trade shares in ultra-collectible assets.",
+  "location": "Las Vegas, Nevada, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/raresapp",
+    "linkedin": "https://linkedin.com/company/rares-app"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rares",
+  "api": "/api/companies/rares.json"
+}

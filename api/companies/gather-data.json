@@ -1,0 +1,24 @@
+{
+  "name": "Gather Data",
+  "slug": "gather-data",
+  "website": "https://linkedin.com/company/gather-app-ltd",
+  "description": "Gather is a personalised web meeting platform shaped around your specific business needs.",
+  "one_liner": "Gather is a personalised web meeting platform shaped around your specific business needs.",
+  "location": "San Francisco, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/gatherinsurance",
+    "linkedin": "https://linkedin.com/company/gather-app-ltd",
+    "facebook": "https://facebook.com/Gathercom/105367686164667"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gather-data",
+  "api": "/api/companies/gather-data.json"
+}

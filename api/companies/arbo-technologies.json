@@ -1,0 +1,24 @@
+{
+  "name": "Arbo Technologies",
+  "slug": "arbo-technologies",
+  "website": "https://arbohq.com/",
+  "description": "Arbo is an all-in-one accounting, tax, and FP&A SaaS platform for tech companies providing real-time access to financial insights such as cash flow, burn rate, profitability, yearly taxes, and financial projections.",
+  "one_liner": "Arbo is an all-in-one accounting, tax, and FP&A SaaS platform for tech companies providing real-time access to financial insights such as cash flow, burn rate, profitability, yearly taxes, and financial projections.",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/arbohq",
+    "linkedin": "https://linkedin.com/company/arbohq",
+    "facebook": "https://facebook.com/arbohq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/arbo-technologies",
+  "api": "/api/companies/arbo-technologies.json"
+}

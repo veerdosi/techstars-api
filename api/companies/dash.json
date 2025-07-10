@@ -1,0 +1,24 @@
+{
+  "name": "Dash",
+  "slug": "dash",
+  "website": "https://linkedin.com/company/paytouch",
+  "description": "Dash is an accessible digital wallet and payment network for African consumers regardless of currency.",
+  "one_liner": "Dash is an accessible digital wallet and payment network for African consumers regardless of currency.",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vep32shwqxlnon7zcdyk",
+  "social_media": {
+    "twitter": "https://twitter.com/dashmeapp",
+    "linkedin": "https://linkedin.com/company/paytouch",
+    "facebook": "https://facebook.com/dashlabs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dash",
+  "api": "/api/companies/dash.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Floodlight",
+  "slug": "floodlight",
+  "website": "https://floodlightinvest.com/",
+  "description": "Floodlight is a data platform for financial professionals to align money with values.",
+  "one_liner": "Floodlight is a data platform for financial professionals to align money with values.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Floodlight_US",
+    "linkedin": "https://linkedin.com/company/floodlight-invest",
+    "facebook": "https://facebook.com/floodlightapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/floodlight",
+  "api": "/api/companies/floodlight.json"
+}

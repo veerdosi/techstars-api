@@ -1,0 +1,24 @@
+{
+  "name": "Axiom AI",
+  "slug": "axiom-ai",
+  "website": "https://axiom.ai/",
+  "description": "Process Automation via AI assistant",
+  "one_liner": "Process Automation via AI assistant",
+  "location": "London, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/prr3zktrg0le1ojexoze",
+  "social_media": {
+    "twitter": "https://twitter.com/AxiomRPA",
+    "linkedin": "https://linkedin.com/company/axiom-ai",
+    "facebook": "https://facebook.com/Axiom-ai-177037959878163"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/axiom-ai",
+  "api": "/api/companies/axiom-ai.json"
+}

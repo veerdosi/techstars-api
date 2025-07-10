@@ -1,0 +1,24 @@
+{
+  "name": "BestFit",
+  "slug": "bestfit",
+  "website": "https://best-fit.app/",
+  "description": "BestFit is a web platform reimagining the social safety net for college students.",
+  "one_liner": "BestFit is a web platform reimagining the social safety net for college students.",
+  "location": "New York City, Georgia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/bestfit_app",
+    "linkedin": "https://linkedin.com/company/bestfit-app",
+    "facebook": "https://facebook.com/findyourbestfitcollege"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bestfit",
+  "api": "/api/companies/bestfit.json"
+}

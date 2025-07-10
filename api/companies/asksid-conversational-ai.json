@@ -1,0 +1,24 @@
+{
+  "name": "AskSid Conversational AI",
+  "slug": "asksid-conversational-ai",
+  "website": "https://asksid.ai/",
+  "description": "A digital shopping assistant that help retail brands sell more faster.",
+  "one_liner": "A digital shopping assistant that help retail brands sell more faster.",
+  "location": "Bengaluru, Karnataka, India",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/_AskSid",
+    "linkedin": "https://linkedin.com/company/asksid.ai",
+    "facebook": "https://facebook.com/AskSidAI/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/asksid-conversational-ai",
+  "api": "/api/companies/asksid-conversational-ai.json"
+}

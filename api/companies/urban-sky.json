@@ -1,0 +1,23 @@
+{
+  "name": "Urban Sky",
+  "slug": "urban-sky",
+  "website": "https://urbansky.space/",
+  "description": "Developing stratospheric Microballoons to capture the freshest, high-res earth observation data.",
+  "one_liner": "Developing stratospheric Microballoons to capture the freshest, high-res earth observation data.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/urban-sky-imaging",
+    "facebook": "https://facebook.com/theurbansky/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/urban-sky",
+  "api": "/api/companies/urban-sky.json"
+}

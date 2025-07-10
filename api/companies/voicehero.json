@@ -1,0 +1,23 @@
+{
+  "name": "VoiceHero",
+  "slug": "voicehero",
+  "website": "https://linkedin.com/company/voicehero",
+  "description": "Analytical Tools for Voice Apps",
+  "one_liner": "Analytical Tools for Voice Apps",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/VoiceHeroAI",
+    "linkedin": "https://linkedin.com/company/voicehero"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/voicehero",
+  "api": "/api/companies/voicehero.json"
+}

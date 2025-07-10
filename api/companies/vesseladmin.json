@@ -1,0 +1,22 @@
+{
+  "name": "Vesseladmin",
+  "slug": "vesseladmin",
+  "website": "https://vesseladmin.com/",
+  "description": "A fully integrated, digital chartering solution that enables instant, friction-free and automated connections between charterers and vessel owners.",
+  "one_liner": "A fully integrated, digital chartering solution that enables instant, friction-free and automated connections between charterers and vessel owners.",
+  "location": "Oslo, Norway",
+  "industry": "Supply chain technology",
+  "industry_slug": "supply-chain-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mujuvr1z1sdcl3aczcah",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/vesseladmin-as"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vesseladmin",
+  "api": "/api/companies/vesseladmin.json"
+}

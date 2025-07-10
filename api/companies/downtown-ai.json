@@ -1,0 +1,24 @@
+{
+  "name": "Downtown AI",
+  "slug": "downtown-ai",
+  "website": "https://downtown.ai/",
+  "description": "Analyze, Map and Predict Human Movements in Cities",
+  "one_liner": "Analyze, Map and Predict Human Movements in Cities",
+  "location": "Vancouver, British Columbia, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/DowntownAI",
+    "linkedin": "https://linkedin.com/company/downtown-ai",
+    "facebook": "https://facebook.com/downtownai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/downtown-ai",
+  "api": "/api/companies/downtown-ai.json"
+}

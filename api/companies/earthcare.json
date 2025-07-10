@@ -1,0 +1,24 @@
+{
+  "name": "EarthCare",
+  "slug": "earthcare",
+  "website": "https://earthcare.ai/",
+  "description": "EarthCare.ai helps (re)insurances, real-estate, retail, finance & agriculture sectors get access to the most accurate historical and real-time environmental & climate data to bolster resilience.",
+  "one_liner": "EarthCare.ai helps (re)insurances, real-estate, retail, finance & agriculture sectors get access to the most accurate historical and real-time environmental & climate data to bolster resilience.",
+  "location": "New York City, New York, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/earthcareai",
+    "linkedin": "https://linkedin.com/company/earthcareai",
+    "facebook": "https://facebook.com/earthcareai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/earthcare",
+  "api": "/api/companies/earthcare.json"
+}

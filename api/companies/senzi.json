@@ -1,0 +1,24 @@
+{
+  "name": "Senzi",
+  "slug": "senzi",
+  "website": "https://pathogenix.ai/",
+  "description": "The Senzi Monitor uses technology from 3D printer waste to check air quality, protecting spaces from harmful gases.",
+  "one_liner": "The Senzi Monitor uses technology from 3D printer waste to check air quality, protecting spaces from harmful gases.",
+  "location": "Grand Rapids, Michigan, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/@www.mesenzi.com",
+    "linkedin": "https://linkedin.com/company/senzimeinfo",
+    "facebook": "https://facebook.com/senzimeinfo/followers/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/senzi",
+  "api": "/api/companies/senzi.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Brainbot",
+  "slug": "brainbot",
+  "website": "https://brainbot.co/",
+  "description": "The world's first AI-powered concussion coach.",
+  "one_liner": "The world's first AI-powered concussion coach.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/brainbotapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/brainbot",
+  "api": "/api/companies/brainbot.json"
+}

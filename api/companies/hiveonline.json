@@ -1,0 +1,24 @@
+{
+  "name": "hiveonline",
+  "slug": "hiveonline",
+  "website": "https://hivenetwork.online/",
+  "description": "hiveonline helps small businesses thrive by giving them access to credit and markets with a reputation based on facts about what they do.",
+  "one_liner": "hiveonline helps small businesses thrive by giving them access to credit and markets with a reputation based on facts about what they do.",
+  "location": "Copenhagen, Denmark",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/wearehiveonline",
+    "linkedin": "https://linkedin.com/company/15252007",
+    "facebook": "https://facebook.com/hivenetworkonline"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hiveonline",
+  "api": "/api/companies/hiveonline.json"
+}

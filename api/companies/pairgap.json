@@ -1,0 +1,24 @@
+{
+  "name": "Pairgap",
+  "slug": "pairgap",
+  "website": "https://pairgap.com/",
+  "description": "Pairgap is a real estate platform that connects and helps property buyers with co-ownership of property buying.",
+  "one_liner": "Pairgap is a real estate platform that connects and helps property buyers with co-ownership of property buying.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/pairgap",
+    "linkedin": "https://linkedin.com/company/pairgap",
+    "facebook": "https://facebook.com/pairgap/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pairgap",
+  "api": "/api/companies/pairgap.json"
+}

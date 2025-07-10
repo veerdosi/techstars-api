@@ -1,0 +1,23 @@
+{
+  "name": "EasyWay Technologies",
+  "slug": "easyway-technologies",
+  "website": "https://easyway.ai/",
+  "description": "EasyWay is creating the ultimate virtual assistant for travellers.",
+  "one_liner": "EasyWay is creating the ultimate virtual assistant for travellers.",
+  "location": "Tel Aviv, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/easyway-ai",
+    "facebook": "https://facebook.com/evetlv/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/easyway-technologies",
+  "api": "/api/companies/easyway-technologies.json"
+}

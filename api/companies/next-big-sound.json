@@ -1,0 +1,24 @@
+{
+  "name": "Next Big Sound",
+  "slug": "next-big-sound",
+  "website": "https://nextbigsound.com/",
+  "description": "Knowledge to navigate the modern music industry",
+  "one_liner": "Knowledge to navigate the modern music industry",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/nextbigsound",
+    "linkedin": "https://linkedin.com/company/464245",
+    "facebook": "https://facebook.com/nextbigsound"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/next-big-sound",
+  "api": "/api/companies/next-big-sound.json"
+}

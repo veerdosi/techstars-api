@@ -1,0 +1,24 @@
+{
+  "name": "BoxxDocks",
+  "slug": "boxxdocks",
+  "website": "https://boxxdocks.com/",
+  "description": "BoxxDocks is developing the next generation of dynamic containerised shipping solutions, giving companies full control and flexibility over their logistics operations. A radical response to an ever-growing consumer base.",
+  "one_liner": "BoxxDocks is developing the next generation of dynamic containerised shipping solutions, giving companies full control and flexibility over their logistics operations. A radical response to an ever-growing consumer base.",
+  "location": "London, United Kingdom",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/smofomgtqtt5k8oobzxt",
+  "social_media": {
+    "twitter": "https://twitter.com/boxxdocks",
+    "linkedin": "https://linkedin.com/company/boxxdocks",
+    "facebook": "https://facebook.com/BoxxDocks/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/boxxdocks",
+  "api": "/api/companies/boxxdocks.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "In-Seam",
+  "slug": "in-seam",
+  "website": "https://theresetagency.net/",
+  "description": "A private luxury retail platform powered by personal relationships.",
+  "one_liner": "A private luxury retail platform powered by personal relationships.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Beauty",
+  "industry_slug": "beauty",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/in-seam"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/in-seam",
+  "api": "/api/companies/in-seam.json"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Gudea",
+  "slug": "gudea",
+  "website": "https://gudea.ai/",
+  "description": "GUDEA helps companies control the public narrative. Instead of tracking what is being said, GUDEA tracks how information flows into networks and social structures that exist online. By targeting the key nodes or junctures in the information, or amplifying",
+  "one_liner": "GUDEA helps companies control the public narrative. Instead of tracking what is being said, GUDEA tracks how information flows into networks and social structures that exist online. By targeting the key nodes or junctures in the information, or amplifying",
+  "location": "Baltimore, Maryland, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gudea",
+  "api": "/api/companies/gudea.json"
+}

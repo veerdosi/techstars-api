@@ -1,0 +1,24 @@
+{
+  "name": "Novo",
+  "slug": "novo",
+  "website": "https://novo.co/",
+  "description": "Novo is a fintech that offers a banking platform to meet the needs of small businesses for free business checking and faster money movement.",
+  "one_liner": "Novo is a fintech that offers a banking platform to meet the needs of small businesses for free business checking and faster money movement.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/novo_hq",
+    "linkedin": "https://linkedin.com/company/novo-hq",
+    "facebook": "https://facebook.com/Novo.coHQ/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/novo",
+  "api": "/api/companies/novo.json"
+}

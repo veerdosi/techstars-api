@@ -1,0 +1,23 @@
+{
+  "name": "Hover",
+  "slug": "hover",
+  "website": "https://hover.direct/",
+  "description": "Autonomous Drone Delivery",
+  "one_liner": "Autonomous Drone Delivery",
+  "location": "Richmond Hill, Ontario, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/x8d1hnt5acucpb7kycus",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/hoverdirect",
+    "facebook": "https://facebook.com/hover.direct/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hover",
+  "api": "/api/companies/hover.json"
+}

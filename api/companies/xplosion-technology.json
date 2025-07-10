@@ -1,0 +1,24 @@
+{
+  "name": "Xplosion Technology",
+  "slug": "xplosion-technology",
+  "website": "https://xplosionlive.com/",
+  "description": "A coaching platform that transforms motion sensor data into actionable insights for coaches and athletes.",
+  "one_liner": "A coaching platform that transforms motion sensor data into actionable insights for coaches and athletes.",
+  "location": "Missouri City, Texas, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/XplosionTech",
+    "linkedin": "https://linkedin.com/company/xplosion-technology",
+    "facebook": "https://facebook.com/xplosiontech/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/xplosion-technology",
+  "api": "/api/companies/xplosion-technology.json"
+}

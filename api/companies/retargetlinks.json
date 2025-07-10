@@ -1,0 +1,24 @@
+{
+  "name": "RetargetLinks",
+  "slug": "retargetlinks",
+  "website": "https://linkedin.com/company/6391164",
+  "description": "Democratizing digital advertising by making it ridiculously easy to advertise in premium online publishers.",
+  "one_liner": "Democratizing digital advertising by making it ridiculously easy to advertise in premium online publishers.",
+  "location": "Vancouver, British Columbia, Canada",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/retargetlinks",
+    "linkedin": "https://linkedin.com/company/6391164",
+    "facebook": "https://facebook.com/RetargetLinksVan/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/retargetlinks",
+  "api": "/api/companies/retargetlinks.json"
+}

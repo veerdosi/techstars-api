@@ -1,0 +1,23 @@
+{
+  "name": "BEAWaRe",
+  "slug": "beaware",
+  "website": "https://linkedin.com/company/beawarecircular",
+  "description": "Supporting the administrations, companies and waste companies in simplifying bureaucracy, automating waste tracking in a sustainable way.",
+  "one_liner": "Supporting the administrations, companies and waste companies in simplifying bureaucracy, automating waste tracking in a sustainable way.",
+  "location": "Rome, Rome, Italy",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/w68bltr7qzzqkswvg2nv",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/beawarecircular",
+    "facebook": "https://facebook.com/BEAWaReCircularOfficial"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/beaware",
+  "api": "/api/companies/beaware.json"
+}

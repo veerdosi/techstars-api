@@ -1,0 +1,23 @@
+{
+  "name": "IQLAND",
+  "slug": "iqland",
+  "website": "https://iqland.ai/",
+  "description": "IQLAND's AI copilot mitigates development bottlenecks for the private and public sectors with instant parcel data, cost estimates, and zoning compliance, streamlining project planning and permitting.",
+  "one_liner": "IQLAND's AI copilot mitigates development bottlenecks for the private and public sectors with instant parcel data, cost estimates, and zoning compliance, streamlining project planning and permitting.",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/iqland_ai",
+    "linkedin": "https://linkedin.com/company/iqland-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/iqland",
+  "api": "/api/companies/iqland.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Chuqlab",
+  "slug": "chuqlab",
+  "website": "https://chuqlab.com/",
+  "description": "AI powered crime fighting",
+  "one_liner": "AI powered crime fighting",
+  "location": "Indianapolis, Indiana, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/chuqlab"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/chuqlab",
+  "api": "/api/companies/chuqlab.json"
+}

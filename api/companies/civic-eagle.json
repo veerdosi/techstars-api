@@ -1,0 +1,24 @@
+{
+  "name": "Civic Eagle",
+  "slug": "civic-eagle",
+  "website": "https://civiceagle.com/",
+  "description": "",
+  "one_liner": "",
+  "location": "Unknown",
+  "industry": "Legal tech",
+  "industry_slug": "legal-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Civic_Eagle",
+    "linkedin": "https://linkedin.com/company/civic-eagle",
+    "facebook": "https://facebook.com/civiceagle/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/civic-eagle",
+  "api": "/api/companies/civic-eagle.json"
+}

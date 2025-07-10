@@ -1,0 +1,24 @@
+{
+  "name": "Scout",
+  "slug": "scout",
+  "website": "https://scout.space/",
+  "description": "SCOUT is developing orbital products and services to enable a new era of space safety, transparency, and improved Space Domain Awareness.",
+  "one_liner": "SCOUT is developing orbital products and services to enable a new era of space safety, transparency, and improved Space Domain Awareness.",
+  "location": "Alexandria, Virginia, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SCOUTdotspace",
+    "linkedin": "https://linkedin.com/company/scoutdotspace",
+    "facebook": "https://facebook.com/SCOUTdotspace"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/scout",
+  "api": "/api/companies/scout.json"
+}

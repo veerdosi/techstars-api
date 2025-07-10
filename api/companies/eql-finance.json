@@ -1,0 +1,24 @@
+{
+  "name": "EQL Finance",
+  "slug": "eql-finance",
+  "website": "https://eqlfinance.com/",
+  "description": "EQL Finance is a Fintech firm that provides training to help people improve their financial management abilities. Founded in 2021.",
+  "one_liner": "EQL Finance is a Fintech firm that provides training to help people improve their financial management abilities. Founded in 2021.",
+  "location": "Newark, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/EqlFinance",
+    "linkedin": "https://linkedin.com/company/eql-finance",
+    "facebook": "https://facebook.com/EQLfinance/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/eql-finance",
+  "api": "/api/companies/eql-finance.json"
+}

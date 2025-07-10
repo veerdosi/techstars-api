@@ -1,0 +1,22 @@
+{
+  "name": "Corventive Health",
+  "slug": "corventive-health",
+  "website": "https://corventivehealth.com/",
+  "description": "Corventive Health provides SaaS based technology giving better care coordination and treatment for cardiac patients.",
+  "one_liner": "Corventive Health provides SaaS based technology giving better care coordination and treatment for cardiac patients.",
+  "location": "Philadelphia, Pennsylvania, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kiasy41v6umq8lcmdnlc",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/med127-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/corventive-health",
+  "api": "/api/companies/corventive-health.json"
+}

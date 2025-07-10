@@ -1,0 +1,24 @@
+{
+  "name": "Aerialoop",
+  "slug": "aerialoop",
+  "website": "https://aerialoop.com/",
+  "description": "Helping customers in suburbs have immediate access to commerce only available in city centers through drone delivery",
+  "one_liner": "Helping customers in suburbs have immediate access to commerce only available in city centers through drone delivery",
+  "location": "Quito, Ecuador",
+  "industry": "Robotics and Drones",
+  "industry_slug": "robotics-drones",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Aerialoop_com",
+    "linkedin": "https://linkedin.com/company/aerialoop",
+    "facebook": "https://facebook.com/aerialoop"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/aerialoop",
+  "api": "/api/companies/aerialoop.json"
+}

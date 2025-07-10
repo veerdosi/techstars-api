@@ -1,0 +1,24 @@
+{
+  "name": "Maket Technologies",
+  "slug": "maket-technologies",
+  "website": "https://maket.ca/",
+  "description": "For architects who want to prototype floorplans faster, Maket provides a design platform that creates net-new floorplans using AI & enables collaboration",
+  "one_liner": "For architects who want to prototype floorplans faster, Maket provides a design platform that creates net-new floorplans using AI & enables collaboration",
+  "location": "Longueuil, Quebec, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/maketplans",
+    "linkedin": "https://linkedin.com/company/maket-technologies",
+    "facebook": "https://facebook.com/Maketplans"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/maket-technologies",
+  "api": "/api/companies/maket-technologies.json"
+}

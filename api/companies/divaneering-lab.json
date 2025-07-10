@@ -1,0 +1,22 @@
+{
+  "name": "Divaneering Lab",
+  "slug": "divaneering-lab",
+  "website": "https://meetspundle.com/",
+  "description": "Blow dryer providing a evolutionary solution that saves time and increases convenience with its  15-minute, no-heat drying technology.",
+  "one_liner": "Blow dryer providing a evolutionary solution that saves time and increases convenience with its  15-minute, no-heat drying technology.",
+  "location": "Towson, Maryland, United States",
+  "industry": "Beauty",
+  "industry_slug": "beauty",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/relh6re5gf9xwfpbkxcc",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/divaneering-lab"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/divaneering-lab",
+  "api": "/api/companies/divaneering-lab.json"
+}

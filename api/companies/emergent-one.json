@@ -1,0 +1,24 @@
+{
+  "name": "Emergent One",
+  "slug": "emergent-one",
+  "website": "https://linkedin.com/company/emergent-one",
+  "description": "API generation",
+  "one_liner": "API generation",
+  "location": "San Francisco, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/emergent_one",
+    "linkedin": "https://linkedin.com/company/emergent-one",
+    "facebook": "https://facebook.com/EmergentONE"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/emergent-one",
+  "api": "/api/companies/emergent-one.json"
+}

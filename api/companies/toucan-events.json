@@ -1,0 +1,24 @@
+{
+  "name": "Toucan Events",
+  "slug": "toucan-events",
+  "website": "https://toucan.events/",
+  "description": "Social-first video platform that aims to facilitate the most human, enjoyable, and productive virtual interaction.",
+  "one_liner": "Social-first video platform that aims to facilitate the most human, enjoyable, and productive virtual interaction.",
+  "location": "New York City, New York, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ToucanEvents",
+    "linkedin": "https://linkedin.com/company/53471077",
+    "facebook": "https://facebook.com/events.toucan"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/toucan-events",
+  "api": "/api/companies/toucan-events.json"
+}

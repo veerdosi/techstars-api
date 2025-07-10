@@ -1,0 +1,23 @@
+{
+  "name": "ERP365",
+  "slug": "erp365",
+  "website": "https://erp365.us/",
+  "description": "ERP365 offers businesses of all sizes a complete ERP Software solution that covers CRM, finance, supply chain, and human resources (HR).",
+  "one_liner": "ERP365 offers businesses of all sizes a complete ERP Software solution that covers CRM, finance, supply chain, and human resources (HR).",
+  "location": "Tulsa, Oklahoma, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ERP3651",
+    "linkedin": "https://linkedin.com/showcase/inventory365"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/erp365",
+  "api": "/api/companies/erp365.json"
+}

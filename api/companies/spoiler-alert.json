@@ -1,0 +1,24 @@
+{
+  "name": "Spoiler Alert",
+  "slug": "spoiler-alert",
+  "website": "https://spoileralert.com/",
+  "description": "Spoiler Alert offers helps operators of food distribution and fulfillment centers better manage unsold inventory.",
+  "one_liner": "Spoiler Alert offers helps operators of food distribution and fulfillment centers better manage unsold inventory.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SpoilerAlert",
+    "linkedin": "https://linkedin.com/company/spoiler-alert",
+    "facebook": "https://facebook.com/foodspoileralert"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/spoiler-alert",
+  "api": "/api/companies/spoiler-alert.json"
+}

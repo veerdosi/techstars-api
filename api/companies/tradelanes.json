@@ -1,0 +1,24 @@
+{
+  "name": "TradeLanes",
+  "slug": "tradelanes",
+  "website": "https://tradelanes.co/",
+  "description": "TradeLanes eliminates the manual paperwork needed to ship ocean containers.",
+  "one_liner": "TradeLanes eliminates the manual paperwork needed to ship ocean containers.",
+  "location": "San Francisco, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/tradelanesinc",
+    "linkedin": "https://linkedin.com/company/tradelanes",
+    "facebook": "https://facebook.com/tradelanes/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tradelanes",
+  "api": "/api/companies/tradelanes.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Candlelit Care",
+  "slug": "candlelit-care",
+  "website": "https://candlelitcare.com/",
+  "description": "Candlelit Care leverages patient data to address symptoms of maternal depression and anxiety among Black mothers.",
+  "one_liner": "Candlelit Care leverages patient data to address symptoms of maternal depression and anxiety among Black mothers.",
+  "location": "Monroe, North Carolina, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/candlelitcare",
+    "linkedin": "https://linkedin.com/company/candlelitcare",
+    "facebook": "https://facebook.com/candlelitcares"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/candlelit-care",
+  "api": "/api/companies/candlelit-care.json"
+}

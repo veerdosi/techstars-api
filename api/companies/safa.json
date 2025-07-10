@@ -1,0 +1,24 @@
+{
+  "name": "SAFA",
+  "slug": "safa",
+  "website": "https://safa.ai/",
+  "description": "SAFA's living traceability environment empowers organizations to efficiently develop increasingly complex software.",
+  "one_liner": "SAFA's living traceability environment empowers organizations to efficiently develop increasingly complex software.",
+  "location": "South Bend, Indiana, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/safa_soft",
+    "linkedin": "https://linkedin.com/company/safaai",
+    "facebook": "https://facebook.com/Safasoftofficial"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/safa",
+  "api": "/api/companies/safa.json"
+}

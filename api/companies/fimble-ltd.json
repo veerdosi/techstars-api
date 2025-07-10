@@ -1,0 +1,22 @@
+{
+  "name": "Fimble Ltd",
+  "slug": "fimble-ltd",
+  "website": "https://fimble.co.uk/",
+  "description": "We give clothes digital identity and create new types of data in fashion.",
+  "one_liner": "We give clothes digital identity and create new types of data in fashion.",
+  "location": "London, United Kingdom",
+  "industry": "B2B payments",
+  "industry_slug": "b2b-payments",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/fimbleuk"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fimble-ltd",
+  "api": "/api/companies/fimble-ltd.json"
+}

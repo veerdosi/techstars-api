@@ -1,0 +1,23 @@
+{
+  "name": "Newt",
+  "slug": "newt",
+  "website": "https://linkedin.com/company/newt-audio-visual",
+  "description": "Newt is a digital platform that promotes a healthier, fitter you by providing tailored daily support from certified nutritionists based on behavioral science.",
+  "one_liner": "Newt is a digital platform that promotes a healthier, fitter you by providing tailored daily support from certified nutritionists based on behavioral science.",
+  "location": "Haifa, Israel",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/newt-audio-visual",
+    "facebook": "https://facebook.com/Newtfit"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/newt",
+  "api": "/api/companies/newt.json"
+}

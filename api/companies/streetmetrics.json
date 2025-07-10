@@ -1,0 +1,24 @@
+{
+  "name": "StreetMetrics",
+  "slug": "streetmetrics",
+  "website": "https://streetmetrics.com/",
+  "description": "StreetMetrics uses location data to help brands tell better stories in the real world",
+  "one_liner": "StreetMetrics uses location data to help brands tell better stories in the real world",
+  "location": "Birmingham, Alabama, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/biccastyls1xubn3syyi",
+  "social_media": {
+    "twitter": "https://twitter.com/streetmetrics",
+    "linkedin": "https://linkedin.com/company/streetmetrics",
+    "facebook": "https://facebook.com/StreetMetrics/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/streetmetrics",
+  "api": "/api/companies/streetmetrics.json"
+}

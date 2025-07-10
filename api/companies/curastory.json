@@ -1,0 +1,24 @@
+{
+  "name": "Curastory",
+  "slug": "curastory",
+  "website": "https://curastory.co/",
+  "description": "Curastory allows creators to shoot and edit high-quality video, monetize shows, and distribute to all of their video channels, 100% free.",
+  "one_liner": "Curastory allows creators to shoot and edit high-quality video, monetize shows, and distribute to all of their video channels, 100% free.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/CurastoryUS",
+    "linkedin": "https://linkedin.com/company/curastory",
+    "facebook": "https://facebook.com/curastory"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/curastory",
+  "api": "/api/companies/curastory.json"
+}

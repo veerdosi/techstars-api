@@ -1,0 +1,24 @@
+{
+  "name": "The Highway Girl",
+  "slug": "the-highway-girl",
+  "website": "https://linkedin.com/company/the-highway-girl",
+  "description": "A traveling music show, website and tour",
+  "one_liner": "A traveling music show, website and tour",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/thehighwaygirl",
+    "linkedin": "https://linkedin.com/company/the-highway-girl",
+    "facebook": "https://facebook.com/TheHighwayGirl"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/the-highway-girl",
+  "api": "/api/companies/the-highway-girl.json"
+}

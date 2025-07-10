@@ -1,0 +1,24 @@
+{
+  "name": "Onward Delivery",
+  "slug": "onward-delivery",
+  "website": "https://onwarddelivery.com/",
+  "description": "A freight marketplace that connects heavy goods retailers with trucks based on the direction the load is going - Item Hitchhiking!",
+  "one_liner": "A freight marketplace that connects heavy goods retailers with trucks based on the direction the load is going - Item Hitchhiking!",
+  "location": "Denver, Colorado, United States",
+  "industry": "Supply chain technology",
+  "industry_slug": "supply-chain-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Onward_Delivery",
+    "linkedin": "https://linkedin.com/company/onward-delivery",
+    "facebook": "https://facebook.com/onwarddelivers"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/onward-delivery",
+  "api": "/api/companies/onward-delivery.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ByteNite",
+  "slug": "bytenite",
+  "website": "https://bytenite.com/",
+  "description": "ByteNite empowers busy developer teams with a fully-managed serverless container platform, streamlining cloud infrastructure to save 50% in time and cost. Our solution accelerates processes across AI inference, ETL, and more, enhancing performance and efficiency.",
+  "one_liner": "ByteNite empowers busy developer teams with a fully-managed serverless container platform, streamlining cloud infrastructure to save 50% in time and cost. Our solution accelerates processes across AI inference, ETL, and more, enhancing performance and efficiency.",
+  "location": "Oakland, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/bytenite2",
+    "linkedin": "https://linkedin.com/company/bytenite",
+    "facebook": "https://facebook.com/bytenite2"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bytenite",
+  "api": "/api/companies/bytenite.json"
+}

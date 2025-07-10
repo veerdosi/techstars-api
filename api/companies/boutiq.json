@@ -1,0 +1,24 @@
+{
+  "name": "Boutiq",
+  "slug": "boutiq",
+  "website": "https://stayboutiq.com/",
+  "description": "Boutiq buys and manages luxury vacation rental homes using smart data.",
+  "one_liner": "Boutiq buys and manages luxury vacation rental homes using smart data.",
+  "location": "Austin, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/stayboutiq",
+    "linkedin": "https://linkedin.com/company/getboutiq",
+    "facebook": "https://facebook.com/stayBoutiq/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/boutiq",
+  "api": "/api/companies/boutiq.json"
+}

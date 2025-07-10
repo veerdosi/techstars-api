@@ -1,0 +1,23 @@
+{
+  "name": "Cinta Color",
+  "slug": "cinta-color",
+  "website": "https://cintacolor.com/",
+  "description": "A platform that helps beauty salons to bring their businesses online.",
+  "one_liner": "A platform that helps beauty salons to bring their businesses online.",
+  "location": "San Francisco, California, United States",
+  "industry": "Beauty",
+  "industry_slug": "beauty",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/CintaColor",
+    "linkedin": "https://linkedin.com/company/cintacolor"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cinta-color",
+  "api": "/api/companies/cinta-color.json"
+}

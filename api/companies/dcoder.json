@@ -1,0 +1,24 @@
+{
+  "name": "Dcoder",
+  "slug": "dcoder",
+  "website": "https://dcoder.tech/",
+  "description": "Cross platform devtools (IDEs) for developers to code on mobile, tablet and desktops, supporting 35+ programming languages.",
+  "one_liner": "Cross platform devtools (IDEs) for developers to code on mobile, tablet and desktops, supporting 35+ programming languages.",
+  "location": "Jaipur, Rajasthan, India",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/dcodermobile",
+    "linkedin": "https://linkedin.com/company/dcodermobile",
+    "facebook": "https://facebook.com/dcodermobile"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dcoder",
+  "api": "/api/companies/dcoder.json"
+}

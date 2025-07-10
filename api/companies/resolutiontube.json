@@ -1,0 +1,24 @@
+{
+  "name": "ResolutionTube",
+  "slug": "resolutiontube",
+  "website": "https://linkedin.com/company/resolutiontube-",
+  "description": "Mobile customer service",
+  "one_liner": "Mobile customer service",
+  "location": "Seattle, Washington, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://pbs.twimg.com/profile_images/378800000145233471/d573be69d49c22656abfe3fce9d95c5c_bigger.png",
+  "social_media": {
+    "twitter": "https://twitter.com/Jova_io",
+    "linkedin": "https://linkedin.com/company/resolutiontube-",
+    "facebook": "https://facebook.com/resolutiontube/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/resolutiontube",
+  "api": "/api/companies/resolutiontube.json"
+}

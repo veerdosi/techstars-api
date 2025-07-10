@@ -1,0 +1,24 @@
+{
+  "name": "PartySlate",
+  "slug": "partyslate",
+  "website": "https://partyslate.com/",
+  "description": "PartySlate is the first digital platform designed specifically for event professionals for a better way to showcase their work.",
+  "one_liner": "PartySlate is the first digital platform designed specifically for event professionals for a better way to showcase their work.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PartySlate",
+    "linkedin": "https://linkedin.com/company/partyslate",
+    "facebook": "https://facebook.com/partyslate/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/partyslate",
+  "api": "/api/companies/partyslate.json"
+}

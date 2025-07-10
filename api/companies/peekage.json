@@ -1,0 +1,24 @@
+{
+  "name": "Peekage",
+  "slug": "peekage",
+  "website": "https://peekage.com/",
+  "description": "Peekage is a digital product sampling platform that helps the consumer packaged companies to give a taste of their products to targeted consumers at home",
+  "one_liner": "Peekage is a digital product sampling platform that helps the consumer packaged companies to give a taste of their products to targeted consumers at home",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/peekageapp",
+    "linkedin": "https://linkedin.com/company/peekage",
+    "facebook": "https://facebook.com/peekageApp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/peekage",
+  "api": "/api/companies/peekage.json"
+}

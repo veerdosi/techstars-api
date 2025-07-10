@@ -1,0 +1,24 @@
+{
+  "name": "Louis",
+  "slug": "louis",
+  "website": "https://louis.design/",
+  "description": "Thanks to his parametric designs technology Louis offers fully customizable and branded office furniture deliverable within only 2 weeks!",
+  "one_liner": "Thanks to his parametric designs technology Louis offers fully customizable and branded office furniture deliverable within only 2 weeks!",
+  "location": "Labège, France",
+  "industry": "Manufacturing",
+  "industry_slug": "manufacturing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/louisdesks",
+    "linkedin": "https://linkedin.com/company/louisdesks",
+    "facebook": "https://facebook.com/lcbindustries/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/louis",
+  "api": "/api/companies/louis.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ViralMoment",
+  "slug": "viralmoment",
+  "website": "https://viralmoment.com/",
+  "description": "Harness video conversation with social listening for short form video platforms like TikTok",
+  "one_liner": "Harness video conversation with social listening for short form video platforms like TikTok",
+  "location": "Menlo Park, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/viralmoment2",
+    "linkedin": "https://linkedin.com/company/viralmoment"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/viralmoment",
+  "api": "/api/companies/viralmoment.json"
+}

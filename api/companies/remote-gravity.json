@@ -1,0 +1,22 @@
+{
+  "name": "Remote Gravity",
+  "slug": "remote-gravity",
+  "website": "https://remotegravity.com/",
+  "description": "AI-powered underwriting platform for lenders in emerging markets.",
+  "one_liner": "AI-powered underwriting platform for lenders in emerging markets.",
+  "location": "Lekki, Nigeria",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/remote-gravity"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/remote-gravity",
+  "api": "/api/companies/remote-gravity.json"
+}

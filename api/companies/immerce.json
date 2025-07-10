@@ -1,0 +1,22 @@
+{
+  "name": "Immerce",
+  "slug": "immerce",
+  "website": "https://linkedin.com/company/immerce",
+  "description": "Immerce is an API for vehicle dealers and vendors that increases conversions by delivering interactive digital twins with component by component specificity.",
+  "one_liner": "Immerce is an API for vehicle dealers and vendors that increases conversions by delivering interactive digital twins with component by component specificity.",
+  "location": "Oceanside, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/immerce"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/immerce",
+  "api": "/api/companies/immerce.json"
+}

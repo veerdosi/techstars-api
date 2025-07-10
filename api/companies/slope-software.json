@@ -1,0 +1,24 @@
+{
+  "name": "Slope Software",
+  "slug": "slope-software",
+  "website": "https://slopesoftware.com/",
+  "description": "SLOPE helps insurance companies perform the difficult task of quantifying risk by enabling their actuaries to do better analysis in a fraction of the time.",
+  "one_liner": "SLOPE helps insurance companies perform the difficult task of quantifying risk by enabling their actuaries to do better analysis in a fraction of the time.",
+  "location": "Gastonia, North Carolina, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SlopeSoftware",
+    "linkedin": "https://linkedin.com/company/slopesoftware",
+    "facebook": "https://facebook.com/slopesoftware"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/slope-software",
+  "api": "/api/companies/slope-software.json"
+}

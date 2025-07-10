@@ -1,0 +1,24 @@
+{
+  "name": "Vision Anchor",
+  "slug": "vision-anchor",
+  "website": "https://visionanchor.net/",
+  "description": "VisionAnchor has developed the world's first smart anchoring system that actually tracks the anchor and sends a data feed to the boat. This makes anchoring faster and safer saving the owners hundreds of thousands of USD in damages or fines.",
+  "one_liner": "VisionAnchor has developed the world's first smart anchoring system that actually tracks the anchor and sends a data feed to the boat. This makes anchoring faster and safer saving the owners hundreds of thousands of USD in damages or fines.",
+  "location": "Ljubljana, Slovenia",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/anchor_vision",
+    "linkedin": "https://linkedin.com/company/visionanchor",
+    "facebook": "https://facebook.com/visionanchorcam"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vision-anchor",
+  "api": "/api/companies/vision-anchor.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "BIZZON",
+  "slug": "bizzon",
+  "website": "https://agentcash.com/",
+  "description": "AgentCASH is a platform for merchants to manage their retail business with seamless payments, inventory, and accounting.",
+  "one_liner": "AgentCASH is a platform for merchants to manage their retail business with seamless payments, inventory, and accounting.",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/_agentcash",
+    "linkedin": "https://linkedin.com/company/bizzon-ltd",
+    "facebook": "https://facebook.com/BizzonLtd"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bizzon",
+  "api": "/api/companies/bizzon.json"
+}

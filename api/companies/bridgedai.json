@@ -1,0 +1,24 @@
+{
+  "name": "BridgedAI",
+  "slug": "bridgedai",
+  "website": "https://linkedin.com/company/bridgedai-com",
+  "description": "AI Training Data Powered by Human Intelligence",
+  "one_liner": "AI Training Data Powered by Human Intelligence",
+  "location": "Bengaluru, Karnataka, India",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/BridgedCo",
+    "linkedin": "https://linkedin.com/company/bridgedai-com",
+    "facebook": "https://facebook.com/bridged.co"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bridgedai",
+  "api": "/api/companies/bridgedai.json"
+}

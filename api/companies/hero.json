@@ -1,0 +1,24 @@
+{
+  "name": "Hero",
+  "slug": "hero",
+  "website": "https://hero-app.com/",
+  "description": "Platform that reduces insurers' liability from drunk driving by providing bars/restaurants with a mobile solution that incentivizes customers to get home safely",
+  "one_liner": "Platform that reduces insurers' liability from drunk driving by providing bars/restaurants with a mobile solution that incentivizes customers to get home safely",
+  "location": "Austin, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/HEROappit",
+    "linkedin": "https://linkedin.com/company/herospace-app",
+    "facebook": "https://facebook.com/hero-app-1533884693518832"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hero",
+  "api": "/api/companies/hero.json"
+}

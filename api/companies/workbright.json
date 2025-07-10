@@ -1,0 +1,24 @@
+{
+  "name": "WorkBright",
+  "slug": "workbright",
+  "website": "https://workbright.com/",
+  "description": "HR for seasonal and part-time employees",
+  "one_liner": "HR for seasonal and part-time employees",
+  "location": "Boulder, Colorado, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/WorkBrightHR",
+    "linkedin": "https://linkedin.com/company/all4staff",
+    "facebook": "https://facebook.com/workbright"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/workbright",
+  "api": "/api/companies/workbright.json"
+}

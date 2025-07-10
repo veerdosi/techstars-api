@@ -1,0 +1,22 @@
+{
+  "name": "Remembrance",
+  "slug": "remembrance",
+  "website": "https://notliveyet.com/",
+  "description": "Remembrance allows people to add AR and VR memorials to their loved ones final resting place.",
+  "one_liner": "Remembrance allows people to add AR and VR memorials to their loved ones final resting place.",
+  "location": "Hillsboro, Oregon, United States",
+  "industry": "Augmented reality",
+  "industry_slug": "augmented-reality",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/remembranceworld"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/remembrance",
+  "api": "/api/companies/remembrance.json"
+}

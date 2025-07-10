@@ -1,0 +1,22 @@
+{
+  "name": "UpTrials",
+  "slug": "uptrials",
+  "website": "https://uptrials.com/",
+  "description": "UpTrials is an online marketplace connecting you to our database of prescreened clinical research professionals.",
+  "one_liner": "UpTrials is an online marketplace connecting you to our database of prescreened clinical research professionals.",
+  "location": "Aurora, Illinois, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/uptrials"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/uptrials",
+  "api": "/api/companies/uptrials.json"
+}

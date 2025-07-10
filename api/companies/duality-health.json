@@ -1,0 +1,22 @@
+{
+  "name": "Duality Health",
+  "slug": "duality-health",
+  "website": "https://linkedin.com/company/duality-health",
+  "description": "Accurately identify and link individual patients with their digitized health care information to enable an interoperable health data ecosystem.",
+  "one_liner": "Accurately identify and link individual patients with their digitized health care information to enable an interoperable health data ecosystem.",
+  "location": "San Antonio, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/g02otfcffmx3xpwstvbq",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/duality-health"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/duality-health",
+  "api": "/api/companies/duality-health.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Arena",
+  "slug": "arena",
+  "website": "https://arena.im/",
+  "description": "Arena is the go-to place for sports fans to chat and watch the best moments from live events.",
+  "one_liner": "Arena is the go-to place for sports fans to chat and watch the best moments from live events.",
+  "location": "San Francisco, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Stationfy",
+    "linkedin": "https://linkedin.com/company/arenaim",
+    "facebook": "https://facebook.com/goarena.co/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/arena",
+  "api": "/api/companies/arena.json"
+}

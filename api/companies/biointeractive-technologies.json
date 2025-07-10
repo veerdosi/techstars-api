@@ -1,0 +1,23 @@
+{
+  "name": "BioInteractive Technologies",
+  "slug": "biointeractive-technologies",
+  "website": "https://biointeractivetech.com/",
+  "description": "Tenzr Health combines intelligent wearable sensors, gamification, and healthcare expertise to provide clinicians and patients with motivation, guidance, and certainty for musculoskeletal care.",
+  "one_liner": "Tenzr Health combines intelligent wearable sensors, gamification, and healthcare expertise to provide clinicians and patients with motivation, guidance, and certainty for musculoskeletal care.",
+  "location": "Vancouver, British Columbia, Canada",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/BioIntTech",
+    "linkedin": "https://linkedin.com/company/17973286"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/biointeractive-technologies",
+  "api": "/api/companies/biointeractive-technologies.json"
+}

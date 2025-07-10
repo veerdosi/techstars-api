@@ -1,0 +1,24 @@
+{
+  "name": "Arch Pet Food",
+  "slug": "arch-pet-food",
+  "website": "https://archpetfood.com/",
+  "description": "We take the guesswork (food sensitivities, allergies, and environmental footprint) out of the equation for young pet owners.",
+  "one_liner": "We take the guesswork (food sensitivities, allergies, and environmental footprint) out of the equation for young pet owners.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ArchPetFood",
+    "linkedin": "https://linkedin.com/in/gabrielhuertasdelpino",
+    "facebook": "https://facebook.com/archpetfood"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/arch-pet-food",
+  "api": "/api/companies/arch-pet-food.json"
+}

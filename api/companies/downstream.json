@@ -1,0 +1,24 @@
+{
+  "name": "Downstream",
+  "slug": "downstream",
+  "website": "https://downstreamimpact.com/",
+  "description": "Downstream is an ecommerce technology company, empowering consumer brands to more profitably & efficiently manage their ecommerce search & display marketing.",
+  "one_liner": "Downstream is an ecommerce technology company, empowering consumer brands to more profitably & efficiently manage their ecommerce search & display marketing.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Downstream_Inc",
+    "linkedin": "https://linkedin.com/company/downstream",
+    "facebook": "https://facebook.com/downstreaminc/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/downstream",
+  "api": "/api/companies/downstream.json"
+}

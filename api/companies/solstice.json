@@ -1,0 +1,24 @@
+{
+  "name": "Solstice",
+  "slug": "solstice",
+  "website": "https://solstice.us/",
+  "description": "Solstice radically expands access to clean energy by providing community-shared solar power to the 80 percent of Americans that cannot install a system on their rooftop.",
+  "one_liner": "Solstice radically expands access to clean energy by providing community-shared solar power to the 80 percent of Americans that cannot install a system on their rooftop.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/solarforgood",
+    "linkedin": "https://linkedin.com/company/solarforgood",
+    "facebook": "https://facebook.com/solarforgood/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/solstice",
+  "api": "/api/companies/solstice.json"
+}

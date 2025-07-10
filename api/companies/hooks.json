@@ -1,0 +1,24 @@
+{
+  "name": "HOOKS",
+  "slug": "hooks",
+  "website": "https://linkedin.com/company/hooks-app",
+  "description": "Hooks is a mobile application that helps you discover and stay up to date on anything that matters to you, all through push notifications.",
+  "one_liner": "Hooks is a mobile application that helps you discover and stay up to date on anything that matters to you, all through push notifications.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hooksalerts",
+    "linkedin": "https://linkedin.com/company/hooks-app",
+    "facebook": "https://facebook.com/hooksapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hooks",
+  "api": "/api/companies/hooks.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Alleo",
+  "slug": "alleo",
+  "website": "https://alleo.ai/",
+  "description": "Alleo.ai seeks to make people happier by optimizing their life and work tasks, events and projects.",
+  "one_liner": "Alleo.ai seeks to make people happier by optimizing their life and work tasks, events and projects.",
+  "location": "Spring, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/alleo_ai",
+    "linkedin": "https://linkedin.com/company/alleo-ai",
+    "facebook": "https://facebook.com/alleoai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/alleo",
+  "api": "/api/companies/alleo.json"
+}

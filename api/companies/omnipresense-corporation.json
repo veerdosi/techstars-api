@@ -1,0 +1,24 @@
+{
+  "name": "OmniPreSense Corporation",
+  "slug": "omnipresense-corporation",
+  "website": "https://omnipresense.com/",
+  "description": "Supplier of short range radar sensors for drone, robots, and IoT systems allowing them to \"see\" the world around them.",
+  "one_liner": "Supplier of short range radar sensors for drone, robots, and IoT systems allowing them to \"see\" the world around them.",
+  "location": "San Jose, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/OmniPSense",
+    "linkedin": "https://linkedin.com/company/17992858",
+    "facebook": "https://facebook.com/omnipsense/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/omnipresense-corporation",
+  "api": "/api/companies/omnipresense-corporation.json"
+}

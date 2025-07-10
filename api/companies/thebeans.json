@@ -1,0 +1,24 @@
+{
+  "name": "thebeans",
+  "slug": "thebeans",
+  "website": "https://thebeans.io/",
+  "description": "Simplifying the path to financial success for America's Caring Class.",
+  "one_liner": "Simplifying the path to financial success for America's Caring Class.",
+  "location": "San Anselmo, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/thebeans_io",
+    "linkedin": "https://linkedin.com/company/the-beans",
+    "facebook": "https://facebook.com/thebeans.io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/thebeans",
+  "api": "/api/companies/thebeans.json"
+}

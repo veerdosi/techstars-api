@@ -1,0 +1,23 @@
+{
+  "name": "Marionette Aps",
+  "slug": "marionette-aps",
+  "website": "https://marionettexr.com/",
+  "description": "High-quality but cost efficient motion capture using AI",
+  "one_liner": "High-quality but cost efficient motion capture using AI",
+  "location": "København, Denmark",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/marionette-xr",
+    "facebook": "https://facebook.com/marionetteXR"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/marionette-aps",
+  "api": "/api/companies/marionette-aps.json"
+}

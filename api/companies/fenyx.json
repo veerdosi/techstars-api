@@ -1,0 +1,22 @@
+{
+  "name": "Fenyx",
+  "slug": "fenyx",
+  "website": "https://fenyxhome.com/",
+  "description": "Tech-enabled broker for secondhand products, unlocking a second life for products.",
+  "one_liner": "Tech-enabled broker for secondhand products, unlocking a second life for products.",
+  "location": "Berlin, Germany",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/w71jz8put9yhzjuow7gu",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/fenyxhome"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fenyx",
+  "api": "/api/companies/fenyx.json"
+}

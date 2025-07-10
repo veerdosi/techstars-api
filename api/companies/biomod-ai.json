@@ -1,0 +1,22 @@
+{
+  "name": "Biomod AI",
+  "slug": "biomod-ai",
+  "website": "https://biomodai.com/",
+  "description": "AI Assistant for Biotech R&D",
+  "one_liner": "AI Assistant for Biotech R&D",
+  "location": "Zuid-Scharwoude, Netherlands",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/biomodai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/biomod-ai",
+  "api": "/api/companies/biomod-ai.json"
+}

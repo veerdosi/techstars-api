@@ -1,0 +1,22 @@
+{
+  "name": "Mercadounico",
+  "slug": "mercadounico",
+  "website": "https://mercadounico.tech/",
+  "description": "Mercado Unico is a B2B platform for the distribution and management of opportunistic sales of Consumer Goods.",
+  "one_liner": "Mercado Unico is a B2B platform for the distribution and management of opportunistic sales of Consumer Goods.",
+  "location": "Brasília, Brazil",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/mercado-unico"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mercadounico",
+  "api": "/api/companies/mercadounico.json"
+}

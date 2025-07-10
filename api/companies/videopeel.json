@@ -1,0 +1,24 @@
+{
+  "name": "VideoPeel",
+  "slug": "videopeel",
+  "website": "https://videopeel.com/",
+  "description": "Makes it easy for businesses to remotely capture customer videos in seconds for video testimonials and voice of the customer.",
+  "one_liner": "Makes it easy for businesses to remotely capture customer videos in seconds for video testimonials and voice of the customer.",
+  "location": "Lehi, Utah, United States",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/vidpeel",
+    "linkedin": "https://linkedin.com/company/videopeel",
+    "facebook": "https://facebook.com/videopeel"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/videopeel",
+  "api": "/api/companies/videopeel.json"
+}

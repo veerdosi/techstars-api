@@ -1,0 +1,24 @@
+{
+  "name": "CowTribe",
+  "slug": "cowtribe",
+  "website": "https://cowtribe.com/",
+  "description": "Innovative solutions to help farmers fight diseases and promote optimal health in their animals.",
+  "one_liner": "Innovative solutions to help farmers fight diseases and promote optimal health in their animals.",
+  "location": "Tamale, Ghana",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/cowtribe",
+    "linkedin": "https://linkedin.com/company/cowtribe",
+    "facebook": "https://facebook.com/cowtribe/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cowtribe",
+  "api": "/api/companies/cowtribe.json"
+}

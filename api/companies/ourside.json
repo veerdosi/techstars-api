@@ -1,0 +1,24 @@
+{
+  "name": "Ourside",
+  "slug": "ourside",
+  "website": "https://ourside.nyc/",
+  "description": "Luxury natural fragrance brand",
+  "one_liner": "Luxury natural fragrance brand",
+  "location": "New York City, New York, United States",
+  "industry": "Beauty",
+  "industry_slug": "beauty",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/oursidenyc",
+    "linkedin": "https://linkedin.com/company/oursidenyc",
+    "facebook": "https://facebook.com/ourside.nyc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ourside",
+  "api": "/api/companies/ourside.json"
+}

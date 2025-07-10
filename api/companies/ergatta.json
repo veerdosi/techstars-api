@@ -1,0 +1,24 @@
+{
+  "name": "Ergatta",
+  "slug": "ergatta",
+  "website": "https://ergatta.com/",
+  "description": "At-home fitness made exciting through games",
+  "one_liner": "At-home fitness made exciting through games",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ergatta",
+    "linkedin": "https://linkedin.com/company/ergatta",
+    "facebook": "https://facebook.com/Ergatta/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ergatta",
+  "api": "/api/companies/ergatta.json"
+}

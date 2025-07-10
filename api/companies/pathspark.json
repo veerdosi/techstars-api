@@ -1,0 +1,23 @@
+{
+  "name": "Pathspark",
+  "slug": "pathspark",
+  "website": "https://linkedin.com/company/18272060",
+  "description": "Pathspark empowers companies to invest in human capital with performance analytics powered by coaching insights.",
+  "one_liner": "Pathspark empowers companies to invest in human capital with performance analytics powered by coaching insights.",
+  "location": "New York City, New York, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/pathsparkwork",
+    "linkedin": "https://linkedin.com/company/18272060"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pathspark",
+  "api": "/api/companies/pathspark.json"
+}

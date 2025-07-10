@@ -1,0 +1,22 @@
+{
+  "name": "Shur",
+  "slug": "shur",
+  "website": "https://getshur.com/",
+  "description": "Shur is a B2B2C connecting the financial services industry to millions of Professionals with Student Loans. Our company-based financial wellness programs integrate alternative credit scoring, advice, insurance, and banking. Borrowers move from debt to wealth creation, while we build new revenue for banks and other financial institutions.",
+  "one_liner": "Shur is a B2B2C connecting the financial services industry to millions of Professionals with Student Loans. Our company-based financial wellness programs integrate alternative credit scoring, advice, insurance, and banking. Borrowers move from debt to wealth creation, while we build new revenue for banks and other financial institutions.",
+  "location": "New York City, New York, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/shurco"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/shur",
+  "api": "/api/companies/shur.json"
+}

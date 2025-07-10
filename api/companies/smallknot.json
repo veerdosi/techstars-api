@@ -1,0 +1,24 @@
+{
+  "name": "SmallKnot",
+  "slug": "smallknot",
+  "website": "https://smallknot.com/",
+  "description": "Invest in your neighborhood",
+  "one_liner": "Invest in your neighborhood",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/smallknot",
+    "linkedin": "https://linkedin.com/company/smallknot",
+    "facebook": "https://facebook.com/Smallknot"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/smallknot",
+  "api": "/api/companies/smallknot.json"
+}

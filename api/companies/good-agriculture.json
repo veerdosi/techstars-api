@@ -1,0 +1,22 @@
+{
+  "name": "Good Agriculture",
+  "slug": "good-agriculture",
+  "website": "https://goodagriculture.com/",
+  "description": "Supports current and future regenerative farmers with business services such as finding funding, managing finances, and reaching new customers.",
+  "one_liner": "Supports current and future regenerative farmers with business services such as finding funding, managing finances, and reaching new customers.",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/good-agriculture"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/good-agriculture",
+  "api": "/api/companies/good-agriculture.json"
+}

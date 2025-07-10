@@ -1,0 +1,24 @@
+{
+  "name": "Bstow",
+  "slug": "bstow",
+  "website": "https://bstowapp.com/",
+  "description": "Round up your spare change on debit/credit card transactions to charity.",
+  "one_liner": "Round up your spare change on debit/credit card transactions to charity.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/bstowapp",
+    "linkedin": "https://linkedin.com/company/10499603",
+    "facebook": "https://facebook.com/bstowapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bstow",
+  "api": "/api/companies/bstow.json"
+}

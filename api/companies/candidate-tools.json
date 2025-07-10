@@ -1,0 +1,22 @@
+{
+  "name": "Candidate Tools",
+  "slug": "candidate-tools",
+  "website": "https://candidatetools.com/",
+  "description": "Candidate Tools automates prescreening job applicants who apply for jobs online without using resumes.",
+  "one_liner": "Candidate Tools automates prescreening job applicants who apply for jobs online without using resumes.",
+  "location": "Parker, Colorado, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/candidate-tools-llc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/candidate-tools",
+  "api": "/api/companies/candidate-tools.json"
+}

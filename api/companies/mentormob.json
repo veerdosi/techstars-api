@@ -1,0 +1,24 @@
+{
+  "name": "MentorMob",
+  "slug": "mentormob",
+  "website": "https://linkedin.com/company/mentormob",
+  "description": "Empowering the lifestyle of learning",
+  "one_liner": "Empowering the lifestyle of learning",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mentormob",
+    "linkedin": "https://linkedin.com/company/mentormob",
+    "facebook": "https://facebook.com/MentorMob"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mentormob",
+  "api": "/api/companies/mentormob.json"
+}

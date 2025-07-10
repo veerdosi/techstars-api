@@ -1,0 +1,23 @@
+{
+  "name": "Esoteric",
+  "slug": "esoteric",
+  "website": "https://esoteric.style/",
+  "description": "Esoteric helps fashion obsessives create their most cutting edge outfits by providing a virtual wardrobe and personalised styling tool.",
+  "one_liner": "Esoteric helps fashion obsessives create their most cutting edge outfits by providing a virtual wardrobe and personalised styling tool.",
+  "location": "London, United Kingdom",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ghwutvaa29ugzix0dzvx",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/80020850",
+    "facebook": "https://facebook.com/esoteric2"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/esoteric",
+  "api": "/api/companies/esoteric.json"
+}

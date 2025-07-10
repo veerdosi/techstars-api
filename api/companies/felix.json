@@ -1,0 +1,24 @@
+{
+  "name": "Felix",
+  "slug": "felix",
+  "website": "https://liberationcover.com/",
+  "description": "Felix is a B2B SaaS platform to seamlessly connect insurers, intermediaries and their consumers to the insurance ecosystem.",
+  "one_liner": "Felix is a B2B SaaS platform to seamlessly connect insurers, intermediaries and their consumers to the insurance ecosystem.",
+  "location": "Dubai, United Arab Emirates",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/felix_insure",
+    "linkedin": "https://linkedin.com/company/felix.insure",
+    "facebook": "https://facebook.com/felixenvios"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/felix",
+  "api": "/api/companies/felix.json"
+}

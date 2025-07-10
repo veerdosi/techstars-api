@@ -1,0 +1,20 @@
+{
+  "name": "Kyri",
+  "slug": "kyri",
+  "website": "https://kyricycles.co/",
+  "description": "The first menstrual health focused smart ring built to encompass the entire female life cycle.",
+  "one_liner": "The first menstrual health focused smart ring built to encompass the entire female life cycle.",
+  "location": "Tootgarook, Victoria, Australia",
+  "industry": "Femtech",
+  "industry_slug": "femtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kyri",
+  "api": "/api/companies/kyri.json"
+}

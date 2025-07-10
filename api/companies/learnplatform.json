@@ -1,0 +1,24 @@
+{
+  "name": "LearnPlatform",
+  "slug": "learnplatform",
+  "website": "https://learnplatform.com/",
+  "description": "The Complete EdTech Management Platform",
+  "one_liner": "The Complete EdTech Management Platform",
+  "location": "Raleigh, North Carolina, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/LearnPlatformUS",
+    "linkedin": "https://linkedin.com/company/lea-r-n",
+    "facebook": "https://facebook.com/LearnTrials/timeline"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/learnplatform",
+  "api": "/api/companies/learnplatform.json"
+}

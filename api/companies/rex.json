@@ -1,0 +1,22 @@
+{
+  "name": "REX",
+  "slug": "rex",
+  "website": "https://rexd.com/",
+  "description": "\"MarketBloc is the first multichannel AI ad platform with your own AI CMO, Rex, automating ads across social, Google, and display--without the $10k agency fee, and using ad fraud tech that boosts your spend by up to 9x. Welcome to the future of digital advertising!\"",
+  "one_liner": "\"MarketBloc is the first multichannel AI ad platform with your own AI CMO, Rex, automating ads across social, Google, and display--without the $10k agency fee, and using ad fraud tech that boosts your spend by up to 9x. Welcome to the future of digital advertising!\"",
+  "location": "Minneapolis, Minnesota, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/marketbloc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rex",
+  "api": "/api/companies/rex.json"
+}

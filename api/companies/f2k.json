@@ -1,0 +1,24 @@
+{
+  "name": "F2K",
+  "slug": "f2k",
+  "website": "https://linkedin.com/company/f2k-gaming",
+  "description": "F2K aggregates streamers into our network enabling their content to be monetized. We use their reach as an engine to drive our owned and operated products.",
+  "one_liner": "F2K aggregates streamers into our network enabling their content to be monetized. We use their reach as an engine to drive our owned and operated products.",
+  "location": "Saint Peters, Guernsey",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Fade2Karma",
+    "linkedin": "https://linkedin.com/company/f2k-gaming",
+    "facebook": "https://facebook.com/Fade2Karma/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/f2k",
+  "api": "/api/companies/f2k.json"
+}

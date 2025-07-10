@@ -1,0 +1,20 @@
+{
+  "name": "LARKI",
+  "slug": "larki",
+  "website": "https://larki.au/",
+  "description": "Your Go-to 3D Scanning Partner for Better Surveys",
+  "one_liner": "Your Go-to 3D Scanning Partner for Better Surveys",
+  "location": "Alexandria, New South Wales, Australia",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/larki",
+  "api": "/api/companies/larki.json"
+}

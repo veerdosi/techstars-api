@@ -1,0 +1,24 @@
+{
+  "name": "Voxon Photonics",
+  "slug": "voxon-photonics",
+  "website": "https://voxon.co/",
+  "description": "Voxon Photonics are creators of the Voxon VX1 - the world's most advanced three-dimensional (3D) volumetric display.",
+  "one_liner": "Voxon Photonics are creators of the Voxon VX1 - the world's most advanced three-dimensional (3D) volumetric display.",
+  "location": "Adelaide, South Australia, Australia",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/voxonphotonics",
+    "linkedin": "https://linkedin.com/company/18092360",
+    "facebook": "https://facebook.com/voxivision"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/voxon-photonics",
+  "api": "/api/companies/voxon-photonics.json"
+}

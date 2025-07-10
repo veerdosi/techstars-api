@@ -1,0 +1,24 @@
+{
+  "name": "Ampogee",
+  "slug": "ampogee",
+  "website": "https://linkedin.com/company/ampogee",
+  "description": "We Make Work Matter",
+  "one_liner": "We Make Work Matter",
+  "location": "Greensboro, North Carolina, United States",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getampogee",
+    "linkedin": "https://linkedin.com/company/ampogee",
+    "facebook": "https://facebook.com/makeworkmatter/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ampogee",
+  "api": "/api/companies/ampogee.json"
+}

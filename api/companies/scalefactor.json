@@ -1,0 +1,24 @@
+{
+  "name": "ScaleFactor",
+  "slug": "scalefactor",
+  "website": "https://linkedin.com/company/scalefactor-partners",
+  "description": "ScaleFactor is the smart finance and accounting platform that enables businesses to operate in real time.",
+  "one_liner": "ScaleFactor is the smart finance and accounting platform that enables businesses to operate in real time.",
+  "location": "Austin, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ScaleFactor",
+    "linkedin": "https://linkedin.com/company/scalefactor-partners",
+    "facebook": "https://facebook.com/scalefactor"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/scalefactor",
+  "api": "/api/companies/scalefactor.json"
+}

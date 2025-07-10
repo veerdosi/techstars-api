@@ -1,0 +1,22 @@
+{
+  "name": "Fiskher AS",
+  "slug": "fiskher-as",
+  "website": "https://fishbuddy.app/",
+  "description": "Fishbuddy revolutionizes recreational fishing with a knowledge-based approach, combining expert advice from top anglers in each country, AI/AR technology, and satellite data. Offering tailored fishing spots and real-time insights for key species, Fishbuddy also supports marine conservation by working with authorities like the Coast Guard, empowering users to fish smarter while protecting marine ecosystems.",
+  "one_liner": "Fishbuddy revolutionizes recreational fishing with a knowledge-based approach, combining expert advice from top anglers in each country, AI/AR technology, and satellite data. Offering tailored fishing spots and real-time insights for key species, Fishbuddy also supports marine conservation by working with authorities like the Coast Guard, empowering users to fish smarter while protecting marine ecosystems.",
+  "location": "Lillesand, Agder, Norway",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/fishbuddy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fiskher-as",
+  "api": "/api/companies/fiskher-as.json"
+}

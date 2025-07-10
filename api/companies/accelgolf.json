@@ -1,0 +1,24 @@
+{
+  "name": "AccelGolf",
+  "slug": "accelgolf",
+  "website": "https://accel-golf.com/",
+  "description": "Golf improvement analytics",
+  "one_liner": "Golf improvement analytics",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/accelgolf",
+    "linkedin": "https://linkedin.com/company/1749212",
+    "facebook": "https://facebook.com/pages/AccelGolf/91714147578"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/accelgolf",
+  "api": "/api/companies/accelgolf.json"
+}

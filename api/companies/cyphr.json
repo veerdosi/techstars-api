@@ -1,0 +1,22 @@
+{
+  "name": "Cyphr",
+  "slug": "cyphr",
+  "website": "https://cyphr.co/",
+  "description": "Cyphr is a groundbreaking music collaboration app that allows artist to create, collaborate and earn income directly on their mobile devices.",
+  "one_liner": "Cyphr is a groundbreaking music collaboration app that allows artist to create, collaborate and earn income directly on their mobile devices.",
+  "location": "Kingston, Jamaica",
+  "industry": "Audiotech",
+  "industry_slug": "audiotech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/dylan-brennan-68916324b"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cyphr",
+  "api": "/api/companies/cyphr.json"
+}

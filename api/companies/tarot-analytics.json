@@ -1,0 +1,24 @@
+{
+  "name": "Tarot Analytics",
+  "slug": "tarot-analytics",
+  "website": "https://tarotanalytics.com/",
+  "description": "\"Waze for vehicle fleets\":  Simpler Multi-Stop Route Optimisation",
+  "one_liner": "\"Waze for vehicle fleets\":  Simpler Multi-Stop Route Optimisation",
+  "location": "Paris, France",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/TarotAnalytics",
+    "linkedin": "https://linkedin.com/company/tarot-analytics",
+    "facebook": "https://facebook.com/tarotanalytics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tarot-analytics",
+  "api": "/api/companies/tarot-analytics.json"
+}

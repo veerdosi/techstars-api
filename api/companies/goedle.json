@@ -1,0 +1,24 @@
+{
+  "name": "Goedle",
+  "slug": "goedle",
+  "website": "https://linkedin.com/company/goedle-io",
+  "description": "Every user is different - AI driven marketing automation for increased engagement.",
+  "one_liner": "Every user is different - AI driven marketing automation for increased engagement.",
+  "location": "Cologne, Germany",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/goedle_io",
+    "linkedin": "https://linkedin.com/company/goedle-io",
+    "facebook": "https://facebook.com/goedleio-277920669274884"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/goedle",
+  "api": "/api/companies/goedle.json"
+}

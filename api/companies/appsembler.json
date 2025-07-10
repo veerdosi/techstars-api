@@ -1,0 +1,24 @@
+{
+  "name": "Appsembler",
+  "slug": "appsembler",
+  "website": "https://appsembler.com/",
+  "description": "Appsembler is the leading hosted platform for online corporate training and professional development",
+  "one_liner": "Appsembler is the leading hosted platform for online corporate training and professional development",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/appsembler",
+    "linkedin": "https://linkedin.com/company/appsembler",
+    "facebook": "https://facebook.com/appsembler"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/appsembler",
+  "api": "/api/companies/appsembler.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Blue Fever",
+  "slug": "blue-fever",
+  "website": "https://bluefever.com/",
+  "description": "Empathetic AI who messages with teens to curate the Internet, like a big sister.",
+  "one_liner": "Empathetic AI who messages with teens to curate the Internet, like a big sister.",
+  "location": "Marina del Rey, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/bluefevr",
+    "linkedin": "https://linkedin.com/company/blue-fever",
+    "facebook": "https://facebook.com/pg/bluefevr"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/blue-fever",
+  "api": "/api/companies/blue-fever.json"
+}

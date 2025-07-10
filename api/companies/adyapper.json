@@ -1,0 +1,24 @@
+{
+  "name": "AdYapper",
+  "slug": "adyapper",
+  "website": "https://linkedin.com/company/adyapper",
+  "description": "The industry leader in ad viewability & transparency",
+  "one_liner": "The industry leader in ad viewability & transparency",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AdYapper",
+    "linkedin": "https://linkedin.com/company/adyapper",
+    "facebook": "https://facebook.com/pages/AdYapper/220176881335324"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/adyapper",
+  "api": "/api/companies/adyapper.json"
+}

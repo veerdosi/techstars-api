@@ -1,0 +1,23 @@
+{
+  "name": "smileML",
+  "slug": "smileml",
+  "website": "https://linkedin.com/company/smileml",
+  "description": "Making emotion recognition an exact science.",
+  "one_liner": "Making emotion recognition an exact science.",
+  "location": "Indianapolis, Indiana, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/smileML",
+    "linkedin": "https://linkedin.com/company/smileml"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/smileml",
+  "api": "/api/companies/smileml.json"
+}

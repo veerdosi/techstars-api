@@ -1,0 +1,22 @@
+{
+  "name": "Alo Index",
+  "slug": "alo-index",
+  "website": "https://aloindex.com/",
+  "description": "Alo Index is an AI-powered B2B sustainable hotel marketplace that matches corporate travel buyers with ESG targets to the hotels that can fulfill them.",
+  "one_liner": "Alo Index is an AI-powered B2B sustainable hotel marketplace that matches corporate travel buyers with ESG targets to the hotels that can fulfill them.",
+  "location": "Guilford, Connecticut, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/al%C5%8D-index"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/alo-index",
+  "api": "/api/companies/alo-index.json"
+}

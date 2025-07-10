@@ -1,0 +1,24 @@
+{
+  "name": "Jome",
+  "slug": "jome",
+  "website": "https://jome.com/",
+  "description": "We help real estate agents to predict which property is most likely to be purchased by a client and help them to make more deals within our referral network.",
+  "one_liner": "We help real estate agents to predict which property is most likely to be purchased by a client and help them to make more deals within our referral network.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Propertymatehq",
+    "linkedin": "https://linkedin.com/company/propertymate-ai,%20https:",
+    "facebook": "https://facebook.com/meetpropertymate"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/jome",
+  "api": "/api/companies/jome.json"
+}

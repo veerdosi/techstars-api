@@ -1,0 +1,22 @@
+{
+  "name": "BITE Data",
+  "slug": "bite-data",
+  "website": "https://bitedata.io/",
+  "description": "BITE Data is a trade compliance screening platform that allows users to screen companies and products in their supply chain for risk in real time; classify commodities for accurate duty rates and tariffs; continuously monitor their supply chain and track their compliance audit tasks. We aim to disrupt the trade compliance screening market with self-service SaaS, and AI agents that provide alternative supply chain routes and product procurement.",
+  "one_liner": "BITE Data is a trade compliance screening platform that allows users to screen companies and products in their supply chain for risk in real time; classify commodities for accurate duty rates and tariffs; continuously monitor their supply chain and track their compliance audit tasks. We aim to disrupt the trade compliance screening market with self-service SaaS, and AI agents that provide alternative supply chain routes and product procurement.",
+  "location": "Leesburg, Virginia, United States",
+  "industry": "Supply chain technology",
+  "industry_slug": "supply-chain-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/bitedata"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bite-data",
+  "api": "/api/companies/bite-data.json"
+}

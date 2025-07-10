@@ -1,0 +1,20 @@
+{
+  "name": "Asclepius Health",
+  "slug": "asclepius-health",
+  "website": "https://tryasclepius.com/",
+  "description": "An AI medical assistant for outpatient clinics to fully automate clinic workflow",
+  "one_liner": "An AI medical assistant for outpatient clinics to fully automate clinic workflow",
+  "location": "Austin, Texas, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/asclepius-health",
+  "api": "/api/companies/asclepius-health.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "CutStruct",
+  "slug": "cutstruct",
+  "website": "https://livevend.com/",
+  "description": "At the heart of standardizing the construction industry in Africa. Use our building materials price index + construction management apps.",
+  "one_liner": "At the heart of standardizing the construction industry in Africa. Use our building materials price index + construction management apps.",
+  "location": "Sugarland, Texas, United States",
+  "industry": "Real estate tech",
+  "industry_slug": "real-estate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/smtykioscrqtykcgiwcr",
+  "social_media": {
+    "twitter": "https://twitter.com/LiveVend",
+    "linkedin": "https://linkedin.com/company/cutstruct-technology-limited",
+    "facebook": "https://facebook.com/livevendng/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cutstruct",
+  "api": "/api/companies/cutstruct.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Edisn",
+  "slug": "edisn",
+  "website": "https://edisn.ai/",
+  "description": "edisn.ai delivers interactive and personalized content to fans by applying its AI-powered player recognition engine to live video streams in real time.",
+  "one_liner": "edisn.ai delivers interactive and personalized content to fans by applying its AI-powered player recognition engine to live video streams in real time.",
+  "location": "Chandler, Arizona, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/edisn_ai",
+    "linkedin": "https://linkedin.com/company/edisn-ai",
+    "facebook": "https://facebook.com/edisninc/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/edisn",
+  "api": "/api/companies/edisn.json"
+}

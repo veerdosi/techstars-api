@@ -1,0 +1,24 @@
+{
+  "name": "Rheaply",
+  "slug": "rheaply",
+  "website": "https://rheaply.com/",
+  "description": "Rheaply platform allows organizations to save money, time, and the environment internally while also empowering STEM education in high schools and universities.",
+  "one_liner": "Rheaply platform allows organizations to save money, time, and the environment internally while also empowering STEM education in high schools and universities.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/rheaplyinc",
+    "linkedin": "https://linkedin.com/company/rheaply-inc.",
+    "facebook": "https://facebook.com/rheaply"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rheaply",
+  "api": "/api/companies/rheaply.json"
+}

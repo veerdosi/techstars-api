@@ -1,0 +1,24 @@
+{
+  "name": "Sequence Fintech",
+  "slug": "sequence-fintech",
+  "website": "https://getsequence.io/",
+  "description": "Lance is the first smart business banking account for the self-employed.",
+  "one_liner": "Lance is the first smart business banking account for the self-employed.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hq_lance",
+    "linkedin": "https://linkedin.com/company/lanceco",
+    "facebook": "https://facebook.com/LanceBank.co"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sequence-fintech",
+  "api": "/api/companies/sequence-fintech.json"
+}

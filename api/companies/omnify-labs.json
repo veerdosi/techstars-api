@@ -1,0 +1,20 @@
+{
+  "name": "Omnify Labs",
+  "slug": "omnify-labs",
+  "website": "https://omnifylabs.com/",
+  "description": "Omnify Lab is an artificial intelligence native product company. We are building a future that accelerates the adoption rate of AI agents and makes AI meet human needs.",
+  "one_liner": "Omnify Lab is an artificial intelligence native product company. We are building a future that accelerates the adoption rate of AI agents and makes AI meet human needs.",
+  "location": "San Francisco, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/omnify-labs",
+  "api": "/api/companies/omnify-labs.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Buglance DMCC",
+  "slug": "buglance-dmcc",
+  "website": "https://buglance.com/",
+  "description": "We are a crowd testing company, we connect software testers with software development companies all over the world. We test mobile apps, games, and websites.",
+  "one_liner": "We are a crowd testing company, we connect software testers with software development companies all over the world. We test mobile apps, games, and websites.",
+  "location": "Dubai, United Arab Emirates",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/13307743",
+    "facebook": "https://facebook.com/buglance"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/buglance-dmcc",
+  "api": "/api/companies/buglance-dmcc.json"
+}

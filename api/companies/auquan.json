@@ -1,0 +1,24 @@
+{
+  "name": "Auquan",
+  "slug": "auquan",
+  "website": "https://auquan.com/",
+  "description": "Auquan is a platform to crowd-source data-driven trading strategies from a community of data scientists",
+  "one_liner": "Auquan is a platform to crowd-source data-driven trading strategies from a community of data scientists",
+  "location": "London, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/tradewithauquan",
+    "linkedin": "https://linkedin.com/company/auquan",
+    "facebook": "https://facebook.com/tradewithauquan/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/auquan",
+  "api": "/api/companies/auquan.json"
+}

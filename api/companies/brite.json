@@ -1,0 +1,24 @@
+{
+  "name": "Brite",
+  "slug": "brite",
+  "website": "https://gobrite.io/",
+  "description": "Turn-Key SaaS platform that helps after-school educators to manage their businesses and find high-quality STEM curricula.",
+  "one_liner": "Turn-Key SaaS platform that helps after-school educators to manage their businesses and find high-quality STEM curricula.",
+  "location": "Bothell, Washington, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/gobrite_io",
+    "linkedin": "https://linkedin.com/company/brite-education",
+    "facebook": "https://facebook.com/BritePaymentGroup"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/brite",
+  "api": "/api/companies/brite.json"
+}

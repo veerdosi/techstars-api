@@ -1,0 +1,24 @@
+{
+  "name": "Grasshopper Kids",
+  "slug": "grasshopper-kids",
+  "website": "https://grasshopperkids.com/",
+  "description": "In-person learning experiences for kids",
+  "one_liner": "In-person learning experiences for kids",
+  "location": "Carefree, Arizona, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Grasshopper",
+    "linkedin": "https://linkedin.com/company/grasshopperkids",
+    "facebook": "https://facebook.com/grasshopper"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/grasshopper-kids",
+  "api": "/api/companies/grasshopper-kids.json"
+}

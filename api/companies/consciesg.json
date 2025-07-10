@@ -1,0 +1,22 @@
+{
+  "name": "ConsciESG",
+  "slug": "consciesg",
+  "website": "https://consciesg.com/",
+  "description": "The platform for active asset managers who invest in financially thriving sustainable companies",
+  "one_liner": "The platform for active asset managers who invest in financially thriving sustainable companies",
+  "location": "Paris, Centre, France",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/consciesg"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/consciesg",
+  "api": "/api/companies/consciesg.json"
+}

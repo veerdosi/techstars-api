@@ -1,0 +1,24 @@
+{
+  "name": "Oathello",
+  "slug": "oathello",
+  "website": "https://oathello.com/",
+  "description": "Where Paperwork for Payments and Finance Happens.",
+  "one_liner": "Where Paperwork for Payments and Finance Happens.",
+  "location": "Dublin, Ireland",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/oathello_law",
+    "linkedin": "https://linkedin.com/company/oathello",
+    "facebook": "https://facebook.com/oathellolaw/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/oathello",
+  "api": "/api/companies/oathello.json"
+}

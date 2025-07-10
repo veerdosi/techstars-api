@@ -1,0 +1,24 @@
+{
+  "name": "CheckIO",
+  "slug": "checkio",
+  "website": "https://checkio.org/",
+  "description": "The game for coders",
+  "one_liner": "The game for coders",
+  "location": "Las Vegas, Nevada, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PlayCheckiO",
+    "linkedin": "https://linkedin.com/company/checkio",
+    "facebook": "https://facebook.com/PlayCheckiO"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/checkio",
+  "api": "/api/companies/checkio.json"
+}

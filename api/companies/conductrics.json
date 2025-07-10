@@ -1,0 +1,24 @@
+{
+  "name": "Conductrics",
+  "slug": "conductrics",
+  "website": "https://conductrics.com/",
+  "description": "Intelligent decisions as a service",
+  "one_liner": "Intelligent decisions as a service",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://pbs.twimg.com/profile_images/3312020875/23529a9e741b12532dc021a28100b23e_bigger.png",
+  "social_media": {
+    "twitter": "https://twitter.com/conductrics",
+    "linkedin": "https://linkedin.com/company/conductrics",
+    "facebook": "https://facebook.com/pages/Conductrics/509816032375361"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/conductrics",
+  "api": "/api/companies/conductrics.json"
+}

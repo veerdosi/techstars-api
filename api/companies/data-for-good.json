@@ -1,0 +1,22 @@
+{
+  "name": "Data for Good",
+  "slug": "data-for-good",
+  "website": "https://data-for-good.com/",
+  "description": "Organizing the world's verified impact data and make it globally accessible and understandable for everyone to enable data-driven decision making",
+  "one_liner": "Organizing the world's verified impact data and make it globally accessible and understandable for everyone to enable data-driven decision making",
+  "location": "Rotterdam, Netherlands",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/data-for-good-com"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/data-for-good",
+  "api": "/api/companies/data-for-good.json"
+}

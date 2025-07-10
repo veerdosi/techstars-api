@@ -1,0 +1,24 @@
+{
+  "name": "Trova",
+  "slug": "trova",
+  "website": "https://trova.io/",
+  "description": "An enterprise social network fostering community and connection.",
+  "one_liner": "An enterprise social network fostering community and connection.",
+  "location": "Hanson, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/trovaus",
+    "linkedin": "https://linkedin.com/company/trovaus",
+    "facebook": "https://facebook.com/TrovaUs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/trova",
+  "api": "/api/companies/trova.json"
+}

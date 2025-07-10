@@ -1,0 +1,24 @@
+{
+  "name": "Dara",
+  "slug": "dara",
+  "website": "https://dara.network/",
+  "description": "Institution-first alternative to Slack, WhatsApp, and LinkedIn by creating a private, curated space for intimate chat and video conversations.",
+  "one_liner": "Institution-first alternative to Slack, WhatsApp, and LinkedIn by creating a private, curated space for intimate chat and video conversations.",
+  "location": "Bengaluru, Karnataka, India",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/daraconnects",
+    "linkedin": "https://linkedin.com/company/dara-network",
+    "facebook": "https://facebook.com/daraconnects"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dara",
+  "api": "/api/companies/dara.json"
+}

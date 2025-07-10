@@ -1,0 +1,22 @@
+{
+  "name": "Imetalx Group",
+  "slug": "imetalx-group",
+  "website": "https://imetalx.com/",
+  "description": "Accelerating Space Sustainability and In-Space Servicing",
+  "one_liner": "Accelerating Space Sustainability and In-Space Servicing",
+  "location": "Sausalito, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wovgbh0mpu1q6tnkzszq",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/imetalx-group-llc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/imetalx-group",
+  "api": "/api/companies/imetalx-group.json"
+}

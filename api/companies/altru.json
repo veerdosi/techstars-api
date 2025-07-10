@@ -1,0 +1,24 @@
+{
+  "name": "Altru",
+  "slug": "altru",
+  "website": "https://altrulabs.com/",
+  "description": "Altru's video Q&A platform allows companies to share their story through their employees.",
+  "one_liner": "Altru's video Q&A platform allows companies to share their story through their employees.",
+  "location": "New York City, New York, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/altrulabs",
+    "linkedin": "https://linkedin.com/company/altrucrew",
+    "facebook": "https://facebook.com/altrulabs/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/altru",
+  "api": "/api/companies/altru.json"
+}

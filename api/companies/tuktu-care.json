@@ -1,0 +1,24 @@
+{
+  "name": "Tuktu Care",
+  "slug": "tuktu-care",
+  "website": "https://tuktu.ca/",
+  "description": "Provides seniors with a support platform, so they can get the help they need to age in their own homes and lead a fulfilling life for as long as possible.",
+  "one_liner": "Provides seniors with a support platform, so they can get the help they need to age in their own homes and lead a fulfilling life for as long as possible.",
+  "location": "Vancouver, British Columbia, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/chafrw2cagqp2h8b67vi",
+  "social_media": {
+    "twitter": "https://twitter.com/tuktucare",
+    "linkedin": "https://linkedin.com/company/tuktu-care-inc",
+    "facebook": "https://facebook.com/tuktucare"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tuktu-care",
+  "api": "/api/companies/tuktu-care.json"
+}

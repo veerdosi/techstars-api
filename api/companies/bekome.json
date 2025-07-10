@@ -1,0 +1,24 @@
+{
+  "name": "bekome",
+  "slug": "bekome",
+  "website": "https://linkedin.com/company/joinbekome",
+  "description": "Vitamins containing ingredients clinically proven to reduce anxiety made all naturally",
+  "one_liner": "Vitamins containing ingredients clinically proven to reduce anxiety made all naturally",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ra1pi42eyeorc1mzecb4",
+  "social_media": {
+    "twitter": "https://twitter.com/joinbekome",
+    "linkedin": "https://linkedin.com/company/joinbekome",
+    "facebook": "https://facebook.com/joinbekome/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bekome",
+  "api": "/api/companies/bekome.json"
+}

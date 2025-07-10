@@ -1,0 +1,24 @@
+{
+  "name": "Torque",
+  "slug": "torque",
+  "website": "https://torque.cloud/",
+  "description": "DevOps-as-a-Service at scale",
+  "one_liner": "DevOps-as-a-Service at scale",
+  "location": "Falmouth, Maine, United States",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/theturningforce",
+    "linkedin": "https://linkedin.com/company/torque-tech",
+    "facebook": "https://facebook.com/TorqueCorp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/torque",
+  "api": "/api/companies/torque.json"
+}

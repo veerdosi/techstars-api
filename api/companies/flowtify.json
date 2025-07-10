@@ -1,0 +1,24 @@
+{
+  "name": "Flowtify",
+  "slug": "flowtify",
+  "website": "https://flowtify.de/",
+  "description": "iOS workflow management system with a focus on HACCP reporting for HoReCa and franchising businesses.",
+  "one_liner": "iOS workflow management system with a focus on HACCP reporting for HoReCa and franchising businesses.",
+  "location": "Köln, Germany",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/flowtify",
+    "linkedin": "https://linkedin.com/company/flowtify",
+    "facebook": "https://facebook.com/flowtify/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/flowtify",
+  "api": "/api/companies/flowtify.json"
+}

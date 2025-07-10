@@ -1,0 +1,23 @@
+{
+  "name": "Cuál",
+  "slug": "cu-l",
+  "website": "https://cual.co/",
+  "description": "Cual is the Yelp for Hispanics and launched in Los Angeles with over 60,000 business listings.",
+  "one_liner": "Cual is the Yelp for Hispanics and launched in Los Angeles with over 60,000 business listings.",
+  "location": "Woodland Hills, California, United States",
+  "industry": "Marketing tech",
+  "industry_slug": "marketing-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ohmndra3ikbrvxq6uv7c",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/cu%C3%A1l-corp",
+    "facebook": "https://facebook.com/visitacualco"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cu-l",
+  "api": "/api/companies/cu-l.json"
+}

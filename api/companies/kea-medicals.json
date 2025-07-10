@@ -1,0 +1,24 @@
+{
+  "name": "Kea Medicals",
+  "slug": "kea-medicals",
+  "website": "https://keamedicals.com/",
+  "description": "Kea interconnects hospitals and different health stakeholders on a single platform through the patient's universal medical ID.",
+  "one_liner": "Kea interconnects hospitals and different health stakeholders on a single platform through the patient's universal medical ID.",
+  "location": "Cotonou, Benin",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/keamedicals",
+    "linkedin": "https://linkedin.com/company/kea-medicals",
+    "facebook": "https://facebook.com/WixFrancais"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kea-medicals",
+  "api": "/api/companies/kea-medicals.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Jelt",
+  "slug": "jelt",
+  "website": "https://jelt.com.co/",
+  "description": "For businesses of the health sector that experience friction, inefficiencies and cost overruns when getting their medical inventory, Jelt is a B2B platform for easy acquisition and management of medical supplies.",
+  "one_liner": "For businesses of the health sector that experience friction, inefficiencies and cost overruns when getting their medical inventory, Jelt is a B2B platform for easy acquisition and management of medical supplies.",
+  "location": "Doral, Florida, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/jeltco",
+    "facebook": "https://facebook.com/profile.php"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/jelt",
+  "api": "/api/companies/jelt.json"
+}

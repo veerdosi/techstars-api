@@ -1,0 +1,24 @@
+{
+  "name": "Xairos",
+  "slug": "xairos",
+  "website": "https://xairos.com/",
+  "description": "Global timing service to replace timing from GPS",
+  "one_liner": "Global timing service to replace timing from GPS",
+  "location": "Lone Tree, Colorado, United States",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/xairos2",
+    "linkedin": "https://linkedin.com/company/xairos",
+    "facebook": "https://facebook.com/xairosfacebook"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/xairos",
+  "api": "/api/companies/xairos.json"
+}

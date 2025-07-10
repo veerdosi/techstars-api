@@ -1,0 +1,24 @@
+{
+  "name": "AquaRealTime",
+  "slug": "aquarealtime",
+  "website": "https://algaetracker.com/",
+  "description": "AlgaeTracker is a revolutionary Early Warning System for Harmful Algae Blooms (HABs) and other water pollutants",
+  "one_liner": "AlgaeTracker is a revolutionary Early Warning System for Harmful Algae Blooms (HABs) and other water pollutants",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Chrisaquarealt1",
+    "linkedin": "https://linkedin.com/company/aquarealtime",
+    "facebook": "https://facebook.com/wix"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/aquarealtime",
+  "api": "/api/companies/aquarealtime.json"
+}

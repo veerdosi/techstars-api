@@ -1,0 +1,22 @@
+{
+  "name": "Scaffolded",
+  "slug": "scaffolded",
+  "website": "https://scaffolded.io/",
+  "description": "Scaffold Ed is building the last mile in K-12 data",
+  "one_liner": "Scaffold Ed is building the last mile in K-12 data",
+  "location": "Newtown Square, Pennsylvania, United States",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/scaffold-ed"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/scaffolded",
+  "api": "/api/companies/scaffolded.json"
+}

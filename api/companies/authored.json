@@ -1,0 +1,24 @@
+{
+  "name": "Authored",
+  "slug": "authored",
+  "website": "https://authoredapparel.com/",
+  "description": "Dignified dressing options regardless of age, physical limitations, or care needs because every day we wake up a day older having to dress or be dressed.",
+  "one_liner": "Dignified dressing options regardless of age, physical limitations, or care needs because every day we wake up a day older having to dress or be dressed.",
+  "location": "Greer, South Carolina, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AuthoredApparel",
+    "linkedin": "https://linkedin.com/company/authoredapparel",
+    "facebook": "https://facebook.com/authoredbrand/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/authored",
+  "api": "/api/companies/authored.json"
+}

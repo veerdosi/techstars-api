@@ -1,0 +1,24 @@
+{
+  "name": "Mello",
+  "slug": "mello",
+  "website": "https://mello-app.com/",
+  "description": "The first sharing economy app for childcare in Europe, where parents can meet other families nearby, plan playdates & organize spontaneous babysitting swaps. #parenttech #familytech #app #childcare",
+  "one_liner": "The first sharing economy app for childcare in Europe, where parents can meet other families nearby, plan playdates & organize spontaneous babysitting swaps. #parenttech #familytech #app #childcare",
+  "location": "Berlin, Germany",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mello_SF",
+    "linkedin": "https://linkedin.com/company/getmello",
+    "facebook": "https://facebook.com/Mello.community"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mello",
+  "api": "/api/companies/mello.json"
+}

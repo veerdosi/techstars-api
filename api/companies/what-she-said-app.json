@@ -1,0 +1,23 @@
+{
+  "name": "What She Said App",
+  "slug": "what-she-said-app",
+  "website": "https://whatshesaidapp.com/",
+  "description": "A trusted referral app for all women and non-binary out there and the businesses they run, they use and they love.",
+  "one_liner": "A trusted referral app for all women and non-binary out there and the businesses they run, they use and they love.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Femtech",
+  "industry_slug": "femtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/what-she-said-inc",
+    "facebook": "https://facebook.com/WhatSheSaidInc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/what-she-said-app",
+  "api": "/api/companies/what-she-said-app.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Fincura",
+  "slug": "fincura",
+  "website": "https://fincura.com/",
+  "description": "Fincura connects the world's financial data.",
+  "one_liner": "Fincura connects the world's financial data.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/FincuraTech",
+    "linkedin": "https://linkedin.com/company/fincura",
+    "facebook": "https://facebook.com/FINCURA"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fincura",
+  "api": "/api/companies/fincura.json"
+}

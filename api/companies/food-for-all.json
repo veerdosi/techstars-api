@@ -1,0 +1,24 @@
+{
+  "name": "Food for All",
+  "slug": "food-for-all",
+  "website": "https://linkedin.com/company/foodforall",
+  "description": "Food for All is a Marketplace for Surplus Food. Allowing restaurants to sell their extra meals to our users for at least 50% off.",
+  "one_liner": "Food for All is a Marketplace for Surplus Food. Allowing restaurants to sell their extra meals to our users for at least 50% off.",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/FoodForAllapp",
+    "linkedin": "https://linkedin.com/company/foodforall",
+    "facebook": "https://facebook.com/FoodforAllapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/food-for-all",
+  "api": "/api/companies/food-for-all.json"
+}

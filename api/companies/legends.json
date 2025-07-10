@@ -1,0 +1,24 @@
+{
+  "name": "Legends",
+  "slug": "legends",
+  "website": "https://livemylegend.com/",
+  "description": "Legends transforms phone and photo data into actionable consumer insights to help brands personalize.",
+  "one_liner": "Legends transforms phone and photo data into actionable consumer insights to help brands personalize.",
+  "location": "New York City, New York, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/livemylegends",
+    "linkedin": "https://linkedin.com/company/livemylegend",
+    "facebook": "https://facebook.com/livemylegend11/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/legends",
+  "api": "/api/companies/legends.json"
+}

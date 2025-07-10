@@ -1,0 +1,24 @@
+{
+  "name": "Soluki",
+  "slug": "soluki",
+  "website": "https://linkedin.com/company/soluki",
+  "description": "Mobile website building platform for the new, mobile-first internet.",
+  "one_liner": "Mobile website building platform for the new, mobile-first internet.",
+  "location": "Dubai, United Arab Emirates",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/solukicom",
+    "linkedin": "https://linkedin.com/company/soluki",
+    "facebook": "https://facebook.com/solukicom/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/soluki",
+  "api": "/api/companies/soluki.json"
+}

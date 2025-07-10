@@ -1,0 +1,24 @@
+{
+  "name": "SparkCharge",
+  "slug": "sparkcharge",
+  "website": "https://sparkcharge.io/",
+  "description": "World's First Mobile Electric Vehicle Charging Network",
+  "one_liner": "World's First Mobile Electric Vehicle Charging Network",
+  "location": "Buffalo, New York, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sparkcharge",
+    "linkedin": "https://linkedin.com/company/sparkcharge",
+    "facebook": "https://facebook.com/SparkChargeCorp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sparkcharge",
+  "api": "/api/companies/sparkcharge.json"
+}

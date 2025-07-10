@@ -1,0 +1,23 @@
+{
+  "name": "Renbizz",
+  "slug": "renbizz",
+  "website": "https://renbizz.com/",
+  "description": "Renbizz enable retailers to transform into the rental model by providing a holistic turnkey rental platform",
+  "one_liner": "Renbizz enable retailers to transform into the rental model by providing a holistic turnkey rental platform",
+  "location": "Tel Aviv, Israel",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/renbizz",
+    "facebook": "https://facebook.com/Renbizz-103248412099580"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/renbizz",
+  "api": "/api/companies/renbizz.json"
+}

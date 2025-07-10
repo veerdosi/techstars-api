@@ -1,0 +1,24 @@
+{
+  "name": "Cycle",
+  "slug": "cycle",
+  "website": "https://cycle.eco/",
+  "description": "All-in-one bike subscription package: pay a monthly fee to access everything you need to get going: E-Bikes, Service, Insurance and Software.",
+  "one_liner": "All-in-one bike subscription package: pay a monthly fee to access everything you need to get going: E-Bikes, Service, Insurance and Software.",
+  "location": "Berlin, Germany",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/CYCLE_mobility",
+    "linkedin": "https://linkedin.com/company/cycle-eco",
+    "facebook": "https://facebook.com/CYCLE.eco"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cycle",
+  "api": "/api/companies/cycle.json"
+}

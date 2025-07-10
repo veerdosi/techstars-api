@@ -1,0 +1,24 @@
+{
+  "name": "Bondsy",
+  "slug": "bondsy",
+  "website": "https://linkedin.com/company/bondsy",
+  "description": "The easiest way to put things back into the world",
+  "one_liner": "The easiest way to put things back into the world",
+  "location": "Brooklyn, New York, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://pbs.twimg.com/profile_images/378800000052001713/cf6fbd92aa6c131d585319ed823589d8_bigger.jpeg",
+  "social_media": {
+    "twitter": "https://twitter.com/bondsy",
+    "linkedin": "https://linkedin.com/company/bondsy",
+    "facebook": "https://facebook.com/pages/Bondsy/102522099835042"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bondsy",
+  "api": "/api/companies/bondsy.json"
+}

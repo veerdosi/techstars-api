@@ -1,0 +1,24 @@
+{
+  "name": "Parakeet",
+  "slug": "parakeet",
+  "website": "https://linkedin.com/company/parakeet",
+  "description": "Parakeet is a connected phone system that integrates with customer service and sales tools to make teams more effective.",
+  "one_liner": "Parakeet is a connected phone system that integrates with customer service and sales tools to make teams more effective.",
+  "location": "New York City, New York, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ParakeetHQ",
+    "linkedin": "https://linkedin.com/company/parakeet",
+    "facebook": "https://facebook.com/goparakeet"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/parakeet",
+  "api": "/api/companies/parakeet.json"
+}

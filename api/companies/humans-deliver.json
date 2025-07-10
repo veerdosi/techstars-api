@@ -1,0 +1,20 @@
+{
+  "name": "Humans Deliver",
+  "slug": "humans-deliver",
+  "website": "https://humansdeliver.com/",
+  "description": "Provides an AI-powered API that integrates real-time restroom and meal stop options into delivery routing tools, optimizing efficiency and lowering costs for carriers.",
+  "one_liner": "Provides an AI-powered API that integrates real-time restroom and meal stop options into delivery routing tools, optimizing efficiency and lowering costs for carriers.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/humans-deliver",
+  "api": "/api/companies/humans-deliver.json"
+}

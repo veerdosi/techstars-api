@@ -1,0 +1,24 @@
+{
+  "name": "TomoCredit",
+  "slug": "tomocredit",
+  "website": "https://tomocredit.com/",
+  "description": "The next generation credit card designed for people with no credit history or credit score.",
+  "one_liner": "The next generation credit card designed for people with no credit history or credit score.",
+  "location": "San Francisco, California, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/TomoCredit",
+    "linkedin": "https://linkedin.com/company/tomocredit",
+    "facebook": "https://facebook.com/TomoCredit-759847904399856/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tomocredit",
+  "api": "/api/companies/tomocredit.json"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Vendeee",
+  "slug": "vendeee",
+  "website": "https://vendeee.com/",
+  "description": "Vendeee is an enterprise solutions company for the vending machine industry connecting Vending operators to bonded vending route drivers.",
+  "one_liner": "Vendeee is an enterprise solutions company for the vending machine industry connecting Vending operators to bonded vending route drivers.",
+  "location": "West Orange, New Jersey, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vendeee",
+  "api": "/api/companies/vendeee.json"
+}

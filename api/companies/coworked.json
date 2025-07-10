@@ -1,0 +1,22 @@
+{
+  "name": "COWORKED",
+  "slug": "coworked",
+  "website": "https://coworked.ai/",
+  "description": "Coworked is the makers of Harmony, AI Project Manager that not only plans, executes, and communicates with unparalleled precision but also learns and adapts to your organization's environment and needs, augmenting your existing project professionals freeing them to be the leaders they are.",
+  "one_liner": "Coworked is the makers of Harmony, AI Project Manager that not only plans, executes, and communicates with unparalleled precision but also learns and adapts to your organization's environment and needs, augmenting your existing project professionals freeing them to be the leaders they are.",
+  "location": "Bellingham, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/coworkedai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/coworked",
+  "api": "/api/companies/coworked.json"
+}

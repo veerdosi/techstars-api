@@ -1,0 +1,24 @@
+{
+  "name": "ResponsiveAds",
+  "slug": "responsiveads",
+  "website": "https://responsiveads.com/",
+  "description": "ResponsiveAds enables designers to create the most engaging, immersive ads users love, and simply work everywhere",
+  "one_liner": "ResponsiveAds enables designers to create the most engaging, immersive ads users love, and simply work everywhere",
+  "location": "New York City, New York, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/responsiveads",
+    "linkedin": "https://linkedin.com/company/responsiveads",
+    "facebook": "https://facebook.com/ResponsiveAds/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/responsiveads",
+  "api": "/api/companies/responsiveads.json"
+}

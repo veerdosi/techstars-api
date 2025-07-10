@@ -1,0 +1,24 @@
+{
+  "name": "WorkOnward",
+  "slug": "workonward",
+  "website": "https://workonward.com/",
+  "description": "A local workforce platform for hourly workers.",
+  "one_liner": "A local workforce platform for hourly workers.",
+  "location": "Ridgewood, New Jersey, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/workonward",
+    "linkedin": "https://linkedin.com/company/workonward",
+    "facebook": "https://facebook.com/workonward"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/workonward",
+  "api": "/api/companies/workonward.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Memrise",
+  "slug": "memrise",
+  "website": "https://memrise.com/",
+  "description": "Turns learning into a compulsive sport",
+  "one_liner": "Turns learning into a compulsive sport",
+  "location": "London, United Kingdom",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/memrise",
+    "linkedin": "https://linkedin.com/company/memrise",
+    "facebook": "https://facebook.com/memrise"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/memrise",
+  "api": "/api/companies/memrise.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Robbie AI",
+  "slug": "robbie-ai",
+  "website": "https://robbie.ai/",
+  "description": "AI-cloud monitoring platform to prevent inpatient falls before they happen and to predict delirium in the ICU",
+  "one_liner": "AI-cloud monitoring platform to prevent inpatient falls before they happen and to predict delirium in the ICU",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/robbie_ai",
+    "linkedin": "https://linkedin.com/company/11076214"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/robbie-ai",
+  "api": "/api/companies/robbie-ai.json"
+}

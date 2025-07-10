@@ -1,0 +1,24 @@
+{
+  "name": "AAZZUR",
+  "slug": "aazzur",
+  "website": "https://aazzur.com/",
+  "description": "banking | borderless by motivation",
+  "one_liner": "banking | borderless by motivation",
+  "location": "Berlin, Germany",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Aazzur_",
+    "linkedin": "https://linkedin.com/company/aazzur",
+    "facebook": "https://facebook.com/aazzur/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/aazzur",
+  "api": "/api/companies/aazzur.json"
+}

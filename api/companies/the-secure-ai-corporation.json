@@ -1,0 +1,22 @@
+{
+  "name": "The Secure AI Corporation",
+  "slug": "the-secure-ai-corporation",
+  "website": "https://secureai.us/",
+  "description": "Secure AI delivers mission-critical generative AI solutions for the $900B defense sector that operate completely offline and on edge devices. Our technology enables advanced AI capabilities for classified environments, maritime vessels, unmanned systems, and orbital platforms--bringing intelligence exactly where it's needed most.",
+  "one_liner": "Secure AI delivers mission-critical generative AI solutions for the $900B defense sector that operate completely offline and on edge devices. Our technology enables advanced AI capabilities for classified environments, maritime vessels, unmanned systems, and orbital platforms--bringing intelligence exactly where it's needed most.",
+  "location": "Goleta, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/secure-ai-corp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/the-secure-ai-corporation",
+  "api": "/api/companies/the-secure-ai-corporation.json"
+}

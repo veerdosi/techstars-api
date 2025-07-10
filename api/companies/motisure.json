@@ -1,0 +1,24 @@
+{
+  "name": "MotiSure",
+  "slug": "motisure",
+  "website": "https://motisure.com/",
+  "description": "MotiSure provides personal accident micro-insurance coverage services.",
+  "one_liner": "MotiSure provides personal accident micro-insurance coverage services.",
+  "location": "Capitol Heights MD, Delaware, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jfcsjt6xeuwxbkpbahjc",
+  "social_media": {
+    "twitter": "https://twitter.com/MotiSure",
+    "linkedin": "https://linkedin.com/company/motisure",
+    "facebook": "https://facebook.com/motisure/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/motisure",
+  "api": "/api/companies/motisure.json"
+}

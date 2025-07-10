@@ -1,0 +1,24 @@
+{
+  "name": "Script Health",
+  "slug": "script-health",
+  "website": "https://scripthealth.co/",
+  "description": "Innovating digital technology healthcare delivery. Script Health provides easy access to essential and life-saving medications to improve health.",
+  "one_liner": "Innovating digital technology healthcare delivery. Script Health provides easy access to essential and life-saving medications to improve health.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ScriptHealth",
+    "linkedin": "https://linkedin.com/company/fiduscript",
+    "facebook": "https://facebook.com/pages/category/Pharmaceuticals/Script-Health-478975709170957/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/script-health",
+  "api": "/api/companies/script-health.json"
+}

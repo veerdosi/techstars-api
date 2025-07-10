@@ -1,0 +1,24 @@
+{
+  "name": "Brilliantly",
+  "slug": "brilliantly",
+  "website": "https://brilliantly.co/",
+  "description": "Brilliantly Warm is an app controlled, rechargeable wearable that delivers full-body, natural-feeling warmth at the press of a button.",
+  "one_liner": "Brilliantly Warm is an app controlled, rechargeable wearable that delivers full-body, natural-feeling warmth at the press of a button.",
+  "location": "Providence, Rhode Island, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hbrilliantly",
+    "linkedin": "https://linkedin.com/company/35704615",
+    "facebook": "https://facebook.com/brilliantly.co"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/brilliantly",
+  "api": "/api/companies/brilliantly.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Reppls",
+  "slug": "reppls",
+  "website": "https://reppls.com/",
+  "description": "We are going to change existing HR practice of choosing candidates by CV - introducing AI Interview Agents who conduct real-time video interviews with all candidates, assessing their full background and providing instant feedback.",
+  "one_liner": "We are going to change existing HR practice of choosing candidates by CV - introducing AI Interview Agents who conduct real-time video interviews with all candidates, assessing their full background and providing instant feedback.",
+  "location": "Amsterdam, North Holland, Netherlands",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/reppls"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/reppls",
+  "api": "/api/companies/reppls.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Kindora",
+  "slug": "kindora",
+  "website": "https://linkedin.com/company/kindorashop",
+  "description": "Europe's family fintech platform. We're changing the way a generation spends to get the best for their family.",
+  "one_liner": "Europe's family fintech platform. We're changing the way a generation spends to get the best for their family.",
+  "location": "Killiney, Dublin, Ireland",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/kindorashop",
+    "facebook": "https://facebook.com/kindora.shop"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kindora",
+  "api": "/api/companies/kindora.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Derq",
+  "slug": "derq",
+  "website": "https://derq.com/",
+  "description": "MIT spin-off w/ a mission to eliminate road accidents and save lives by using machine learning and V2X technology for both conventional and autonomous vehicles",
+  "one_liner": "MIT spin-off w/ a mission to eliminate road accidents and save lives by using machine learning and V2X technology for both conventional and autonomous vehicles",
+  "location": "Dubai, United Arab Emirates",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/DerqAI",
+    "linkedin": "https://linkedin.com/company/derq",
+    "facebook": "https://facebook.com/DerqAI"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/derq",
+  "api": "/api/companies/derq.json"
+}

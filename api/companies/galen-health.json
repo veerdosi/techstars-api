@@ -1,0 +1,22 @@
+{
+  "name": "Galen Health",
+  "slug": "galen-health",
+  "website": "https://galenhealth.org/",
+  "description": "Vertical AI Agents for Cancer Care",
+  "one_liner": "Vertical AI Agents for Cancer Care",
+  "location": "Pittsburgh, Pennsylvania, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/galen-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/galen-health",
+  "api": "/api/companies/galen-health.json"
+}

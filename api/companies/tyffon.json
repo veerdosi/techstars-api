@@ -1,0 +1,24 @@
+{
+  "name": "Tyffon",
+  "slug": "tyffon",
+  "website": "https://tyffon.com/",
+  "description": "Creating the next level VR/AR/MR entertainment experience",
+  "one_liner": "Creating the next level VR/AR/MR entertainment experience",
+  "location": "West Hollywood, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://pbs.twimg.com/profile_images/481181261164077056/CivCcpgg.jpeg",
+  "social_media": {
+    "twitter": "https://twitter.com/tyffon",
+    "linkedin": "https://linkedin.com/company/tyffon",
+    "facebook": "https://facebook.com/tyffoninc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tyffon",
+  "api": "/api/companies/tyffon.json"
+}

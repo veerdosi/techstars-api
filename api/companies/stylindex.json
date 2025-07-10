@@ -1,0 +1,24 @@
+{
+  "name": "Stylindex",
+  "slug": "stylindex",
+  "website": "https://linkedin.com/company/stylindex",
+  "description": "Stylindex is a market network of high value creative talent used to produce branded content, with a SaaS tool for brands to manage their content teams & assets.",
+  "one_liner": "Stylindex is a market network of high value creative talent used to produce branded content, with a SaaS tool for brands to manage their content teams & assets.",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/stylindex",
+    "linkedin": "https://linkedin.com/company/stylindex",
+    "facebook": "https://facebook.com/smartforschools"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/stylindex",
+  "api": "/api/companies/stylindex.json"
+}

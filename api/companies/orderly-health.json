@@ -1,0 +1,24 @@
+{
+  "name": "Orderly Health",
+  "slug": "orderly-health",
+  "website": "https://orderlyhealth.com/",
+  "description": "Orderly provides a free software to help consumers understand their healthcare costs and save money.",
+  "one_liner": "Orderly provides a free software to help consumers understand their healthcare costs and save money.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/orderlyhealth",
+    "linkedin": "https://linkedin.com/company/orderlyhealth",
+    "facebook": "https://facebook.com/OrderlyHealth/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/orderly-health",
+  "api": "/api/companies/orderly-health.json"
+}

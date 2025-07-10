@@ -1,0 +1,24 @@
+{
+  "name": "Vestive",
+  "slug": "vestive",
+  "website": "https://getvestive.com/",
+  "description": "A digital investment advisor creating solutions that are better for the environment, our society, and our user's financial futures.",
+  "one_liner": "A digital investment advisor creating solutions that are better for the environment, our society, and our user's financial futures.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getvestive",
+    "linkedin": "https://linkedin.com/company/vestive",
+    "facebook": "https://facebook.com/getvestive"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vestive",
+  "api": "/api/companies/vestive.json"
+}

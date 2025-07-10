@@ -1,0 +1,24 @@
+{
+  "name": "Bellwethr",
+  "slug": "bellwethr",
+  "website": "https://bellwethr.com/",
+  "description": "Automated Artificial Intelligence Platform for Business.",
+  "one_liner": "Automated Artificial Intelligence Platform for Business.",
+  "location": "Wamego, Kansas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getbellwethr",
+    "linkedin": "https://linkedin.com/company/18280358",
+    "facebook": "https://facebook.com/bellwethr/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bellwethr",
+  "api": "/api/companies/bellwethr.json"
+}

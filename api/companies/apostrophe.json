@@ -1,0 +1,24 @@
+{
+  "name": "Apostrophe",
+  "slug": "apostrophe",
+  "website": "https://apostrophehealth.com/",
+  "description": "An innovative health plan that saves self-insured employers up to 40% on their healthcare costs, while making their employees happier and healthier.",
+  "one_liner": "An innovative health plan that saves self-insured employers up to 40% on their healthcare costs, while making their employees happier and healthier.",
+  "location": "Denver, Colorado, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/apostrophehc",
+    "linkedin": "https://linkedin.com/company/apostrophe-inc.",
+    "facebook": "https://facebook.com/airstreamhealth/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/apostrophe",
+  "api": "/api/companies/apostrophe.json"
+}

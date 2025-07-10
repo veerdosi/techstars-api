@@ -1,0 +1,20 @@
+{
+  "name": "Discrepancy AI",
+  "slug": "discrepancy-ai",
+  "website": "https://discrepancyai.com/",
+  "description": "Discrepancy AI is a document review platform powered by our Optic AI system, which converts any document into structured data, replacing traditional OCR.",
+  "one_liner": "Discrepancy AI is a document review platform powered by our Optic AI system, which converts any document into structured data, replacing traditional OCR.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/discrepancy-ai",
+  "api": "/api/companies/discrepancy-ai.json"
+}

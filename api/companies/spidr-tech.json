@@ -1,0 +1,23 @@
+{
+  "name": "SPIDR Tech",
+  "slug": "spidr-tech",
+  "website": "https://spidrtech.com/",
+  "description": "SPIDR is a platform that transforms law enforcement agencies into data-driven police organizations",
+  "one_liner": "SPIDR is a platform that transforms law enforcement agencies into data-driven police organizations",
+  "location": "Torrance, California, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/spidrtech",
+    "linkedin": "https://linkedin.com/company/spidr-tech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/spidr-tech",
+  "api": "/api/companies/spidr-tech.json"
+}

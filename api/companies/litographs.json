@@ -1,0 +1,24 @@
+{
+  "name": "Litographs",
+  "slug": "litographs",
+  "website": "https://litographs.com/",
+  "description": "Books on posters, t-shirts and tote bags",
+  "one_liner": "Books on posters, t-shirts and tote bags",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/litographs",
+    "linkedin": "https://linkedin.com/company/litographs",
+    "facebook": "https://facebook.com/litographs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/litographs",
+  "api": "/api/companies/litographs.json"
+}

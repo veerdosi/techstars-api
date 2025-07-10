@@ -1,0 +1,22 @@
+{
+  "name": "Gether",
+  "slug": "gether",
+  "website": "https://gether.life/",
+  "description": "Helping working parents reduce their mental load",
+  "one_liner": "Helping working parents reduce their mental load",
+  "location": "Manly Vale, New South Wales, Australia",
+  "industry": "Femtech",
+  "industry_slug": "femtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/getherlife"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gether",
+  "api": "/api/companies/gether.json"
+}

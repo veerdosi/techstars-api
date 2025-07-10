@@ -1,0 +1,23 @@
+{
+  "name": "Cybrik",
+  "slug": "cybrik",
+  "website": "https://cybrik.ai/",
+  "description": "Cybrik's cloud based engineering management and automation platform helps engineering and construction teams  save time, avoid rework, and manage change",
+  "one_liner": "Cybrik's cloud based engineering management and automation platform helps engineering and construction teams  save time, avoid rework, and manage change",
+  "location": "Houston, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/cybrik",
+    "linkedin": "https://linkedin.com/company/cybrikai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cybrik",
+  "api": "/api/companies/cybrik.json"
+}

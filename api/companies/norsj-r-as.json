@@ -1,0 +1,22 @@
+{
+  "name": "Norsjór AS",
+  "slug": "norsj-r-as",
+  "website": "https://norsjor.no/",
+  "description": "Norsjor has designed a technology to preserve marine life by using radiation.",
+  "one_liner": "Norsjor has designed a technology to preserve marine life by using radiation.",
+  "location": "Kristiansand, Norway",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/norsjor-as"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/norsj-r-as",
+  "api": "/api/companies/norsj-r-as.json"
+}

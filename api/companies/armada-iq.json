@@ -1,0 +1,22 @@
+{
+  "name": "Armada IQ",
+  "slug": "armada-iq",
+  "website": "https://armadaiq.com/",
+  "description": "Shaping a hybrid autonomous future, where autonomy integrates with humanity through trust.",
+  "one_liner": "Shaping a hybrid autonomous future, where autonomy integrates with humanity through trust.",
+  "location": "Charlotte, North Carolina, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/armadaiq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/armada-iq",
+  "api": "/api/companies/armada-iq.json"
+}

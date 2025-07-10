@@ -1,0 +1,22 @@
+{
+  "name": "Target Arm",
+  "slug": "target-arm",
+  "website": "https://targetarm.com/",
+  "description": "Target Arm's device, Tular, enables rotary and fixed wing drones to be launched and recovered from any moving vehicle, and even during high-wind conditions.",
+  "one_liner": "Target Arm's device, Tular, enables rotary and fixed wing drones to be launched and recovered from any moving vehicle, and even during high-wind conditions.",
+  "location": "Ridgefield, Connecticut, United States",
+  "industry": "Robotics and Drones",
+  "industry_slug": "robotics-drones",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/targetarm"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/target-arm",
+  "api": "/api/companies/target-arm.json"
+}

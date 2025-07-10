@@ -1,0 +1,24 @@
+{
+  "name": "Jiobit",
+  "slug": "jiobit",
+  "website": "https://jiobit.com/",
+  "description": "A wearable that gives peace of mind when it comes to your kid's location",
+  "one_liner": "A wearable that gives peace of mind when it comes to your kid's location",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/jiobit",
+    "linkedin": "https://linkedin.com/company/jiobit",
+    "facebook": "https://facebook.com/Jiobit/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/jiobit",
+  "api": "/api/companies/jiobit.json"
+}

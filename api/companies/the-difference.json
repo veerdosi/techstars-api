@@ -1,0 +1,24 @@
+{
+  "name": "The Difference",
+  "slug": "the-difference",
+  "website": "https://thedifference.co/",
+  "description": "The Difference is a mass market mental health care service available via phone, app, or smart speaker.",
+  "one_liner": "The Difference is a mass market mental health care service available via phone, app, or smart speaker.",
+  "location": "New York City, New York, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/thedifferenceAI",
+    "linkedin": "https://linkedin.com/company/the-difference-experience",
+    "facebook": "https://facebook.com/TheDifferenceAI/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/the-difference",
+  "api": "/api/companies/the-difference.json"
+}

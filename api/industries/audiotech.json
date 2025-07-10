@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Echo Labs",
+    "website": "https://echolens.xyz/",
+    "description": "For organizations subject to the ADA, Echo Labs is making accessibility affordable and effortless with low-cost, high-accuracy transcription.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/_spryhealth",
+      "linkedin": "https://linkedin.com/company/echolabsai"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "IndieFlow",
+    "website": "https://indieflow.me/",
+    "description": "A business management platform and professional marketplace for the music industry.",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/indieflow",
+      "facebook": "https://facebook.com/weareindieflow/"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Audigo Labs",
+    "website": "https://audigolabs.com/",
+    "description": "Audigo Labs puts a professional quality recording studio into your pocket, allowing musicians, podcasters, and content creators to effortlessly capture, edit, and share professional-quality audio.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AudigoLabs",
+      "linkedin": "https://linkedin.com/company/audigo-labs",
+      "facebook": "https://facebook.com/audigolabs/"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "EDGE Sound Research",
+    "website": "https://edgesoundresearch.com/",
+    "description": "Bringing realism to sound experiences through patent-pending audio format that allows users to both HEAR and FEEL sound in high fidelity.",
+    "location": "Riverside, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/official_esr_",
+      "linkedin": "https://linkedin.com/company/edge-sound-research",
+      "facebook": "https://facebook.com/edgesoundresearch/"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Right  Hear",
+    "website": "https://right-hear.com/",
+    "description": "Provides talking signage, so everyone can interpret and understand their surroundings in real time.",
+    "location": "Ra'anana, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/righthearapp",
+      "linkedin": "https://linkedin.com/company/10690086",
+      "facebook": "https://facebook.com/RightHearApp/"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Respeecher",
+    "website": "https://respeecher.com/",
+    "description": "Respeecher uses AI technology to transform voices, allowing one person to speak in the voice of another.",
+    "location": "Kyiv, Ukraine",
+    "social_media": {
+      "twitter": "https://twitter.com/respeecher",
+      "linkedin": "https://linkedin.com/company/respeecher",
+      "facebook": "https://facebook.com/respeecher/"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "TuneHatch",
+    "website": "https://tunehatch.com/",
+    "description": "For music venue managers and showrunners who feel overwhelmed, TuneHatch offers a turnkey platform that allows them to book, promote, and ticket their shows, and manage payouts, all in one streamlined interface.",
+    "location": "Nashville, Tennessee, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tunehatch",
+      "facebook": "https://facebook.com/tunehatch/"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Pippa",
+    "website": "https://pippa.io/",
+    "description": "Pippa is the simplest, smartest way to share your podcast.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/choosepippa",
+      "linkedin": "https://linkedin.com/company/pippa.io",
+      "facebook": "https://facebook.com/pippapodcasts"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Superpowered",
+    "website": "https://superpowered.com/",
+    "description": "Superpowered allows consumers to listen, watch and play longer by using software to reduce CPU load -- making mobile and embedded hardware more efficient.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SuperpoweredSDK",
+      "linkedin": "https://linkedin.com/company/superpowered",
+      "facebook": "https://facebook.com/SuperpoweredSDK/"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "BEEPR",
+    "website": "https://beeprmusic.com/",
+    "description": "Notification system for new releases and exclusive information personally collected and curated by a group of music industry insiders.",
+    "location": "Raleigh, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/beepr_app",
+      "linkedin": "https://linkedin.com/company/beepr-app"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Tzuka Limited",
+    "website": "https://tzukabuild.webflow.io/",
+    "description": "Tzuka is building the world's most ultimate and durable earbuds.  Our earbuds are 4x tougher than other sports earbuds, totally waterproof up to 2m depth, shock & dustproof and bluetooth compatible.  However the coolest feature is our FreedomMode which en",
+    "location": "Loughborough, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tzuka"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Malamute",
+    "website": "https://malamute.us/",
+    "description": "AI-layered industrial communication networks to empower workers with the right data at the right time",
+    "location": "Newport, Rhode Island, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MalamuteInc",
+      "linkedin": "https://linkedin.com/company/malamute"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Moonai",
+    "website": "https://moonai.app/",
+    "description": "Neuroscience science-based & personalised sounds app to alleviate period pain & enhance cognitive functions",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/moonaiapp",
+      "linkedin": "https://linkedin.com/company/moonaiapp",
+      "facebook": "https://facebook.com/moonaiapp/"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "United Market",
+    "website": "https://unitedmarket.com/",
+    "description": "United Market is a tool for music creators and executives to collaborate, get discovered, and increase their number of placements.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/followtheum",
+      "linkedin": "https://linkedin.com/company/unitedmarket"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "OfSpectrum",
+    "website": "https://ofspectrum.com/",
+    "description": "We provide comprehensive voice security and ethical AI solutions in four aspects",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ofspectrum"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Between",
+    "website": "https://between.co/",
+    "description": "Call from Anywhere, Sound like You're in the Room",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/betweenco"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "SHION",
+    "website": "https://shion.at/",
+    "description": "We are Europe's leading manufacturer of the most technologically advanced Active Acoustic Interior Treatment Systems.",
+    "location": "Vienna, Austria",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/shion",
+      "facebook": "https://facebook.com/shion.audio"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Anywyse",
+    "website": "https://anywyse.audio/",
+    "description": "Anywyse is the first audio learning platform allowing you to easily transform any written text into 15 minutes didactic audio learning modules.",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/anywyse"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "ALIVE Podcast Network",
+    "website": "https://alivepodcastnetwork.com/",
+    "description": "The ALIVE Podcast Network is designed with the black creative and receiver at the heart of the platform.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/alivepodcastapp",
+      "linkedin": "https://linkedin.com/company/alivepodcastapp",
+      "facebook": "https://facebook.com/alivepodcastapp"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Acrylic",
+    "website": "https://acrylic.la/",
+    "description": "Acrylic.LA is a digital music marketplace for SYNC where ad agencies, content creators, and fans, leverage indie ARTIST brands like never before.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/acrylic-inc"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Tonic Audio",
+    "website": "https://tonicaudio.com/",
+    "description": "Tonic Audio is a collaboration platform for audio creators, taking the music creation process from a solo to a multi-player experience, and makes it as straight-forward and intuitive as jamming in a room with your band mates.",
+    "location": "Reno, Nevada, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tonicaudiolabs",
+      "linkedin": "https://linkedin.com/company/tonic-audio",
+      "facebook": "https://facebook.com/tonicaudiolabs"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Cyphr",
+    "website": "https://cyphr.co/",
+    "description": "Cyphr is a groundbreaking music collaboration app that allows artist to create, collaborate and earn income directly on their mobile devices.",
+    "location": "Kingston, Jamaica",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/dylan-brennan-68916324b"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Vital Audio",
+    "website": "https://vitalaudio.io/",
+    "description": "A subscription-based and device-agnostic voice AI software for patient monitoring and patient screening to help telehealth Primary Care Physicians to assess severity of atrial fibrillation and heart failure remotely to reduce 10% readmissions rates.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vitalaudioinc",
+      "linkedin": "https://linkedin.com/company/vital-audio-inc"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Parallux",
+    "website": "https://parallux.co/",
+    "description": "Parallux makes it easy for brands and creators to design, build, and host 3D virtual spaces in the metaverse.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/9c74999fc0acb0c49199",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/paralluxco",
+      "linkedin": "https://linkedin.com/company/parallux",
+      "facebook": "https://facebook.com/parallux/"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Hello Audio",
+    "website": "https://helloaudio.fm/",
+    "description": "We get your content into their ears.",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/helloaudiofm",
+      "linkedin": "https://linkedin.com/company/helloaudiofm",
+      "facebook": "https://facebook.com/helloaudiofm"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Messy",
+    "website": "https://messy.fm/",
+    "description": "Internal Podcasting for Organizations",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/messyfm",
+      "linkedin": "https://linkedin.com/company/messyfm",
+      "facebook": "https://facebook.com/getmessynow"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "JusticeText",
+    "website": "https://justicetext.com/",
+    "description": "JusticeText  is an audiovisual evidence management platform designed to produce fairer outcomes in the criminal justice system by expediting the review of body camera footage, interrogation videos, jail calls, and more.",
+    "location": "Irvine, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/JusticeText",
+      "linkedin": "https://linkedin.com/company/justicetext",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Hipclip",
+    "website": "https://hipclip.ai/",
+    "description": "Create amazing content with ease using Hipclip, the ultimate editing platform for creators, startups, and agencies. Our text-based editing feature allows you to easily manipulate your media files",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/usehipclip",
+      "linkedin": "https://linkedin.com/company/77760449"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "VisualLabs AI",
+    "website": "https://linkedin.com/company/visuallabs-ai",
+    "description": "For musicians, producers, and DJs looking to create high-quality music videos to increase engagement at low cost, VisualLabs AI enables effortless generation of audio-reactive visuals.",
+    "location": "Princeton, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/visuallabs-ai"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Overture Games",
+    "website": "https://overture.games/",
+    "description": "For beginner music students, Overture makes audio-responsive video gaming with real-time feedback to make music practicing fun",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/overture-games"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Cicada",
+    "website": "https://cicadamusic.net/",
+    "description": "Cicada helps musicians make more money from live gigs.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cicadamusic"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Aayats",
+    "website": "https://aayats.com/",
+    "description": "Aayats is a ai-powered marketplace that connects recording-artists with music industry professionals streamlining the music production process. We do this with a proprietary ai-model that personalizes and speeds-up the shopping experience 10x.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/sbq9vm7gwkfhblnjkycv",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/aayats"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Clyp",
+    "website": "https://clyp.it/",
+    "description": "Clyp is a community for musicians to upload, share and collaborate on the music they are creating.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Clyp_It",
+      "linkedin": "https://linkedin.com/company/clyp-eu",
+      "facebook": "https://facebook.com/ClypIt"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Clever People",
+    "website": "https://linkedin.com/company/clever-fm",
+    "description": "Clever.fm is building a podcast app that organizes the fan community and content from within your favorite podcast episodes in one central place.",
+    "location": "Irvine, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getcleverfm",
+      "linkedin": "https://linkedin.com/company/clever-fm",
+      "facebook": "https://facebook.com/getcleverfm"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "Audioland",
+    "website": "https://linkedin.com/company/theaudioland",
+    "description": "Audioland is the Substack for audio that helps creators turn their texts or AI-generated texts into monetizable audio content.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/theaudioland",
+      "linkedin": "https://linkedin.com/company/theaudioland"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  },
+  {
+    "name": "LOCCO",
+    "website": "https://linkedin.com/company/loccoapp",
+    "description": "LOCCO is a platform that uses location-based technology to provide drivers with audio content access.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ksap24ouybmlam8i5g9j",
+    "location": "Munich, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/loccoapp",
+      "facebook": "https://facebook.com/yourlocalcompanion"
+    },
+    "industry": "Audiotech",
+    "industry_slug": "audiotech"
+  }
+]

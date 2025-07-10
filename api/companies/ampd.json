@@ -1,0 +1,24 @@
+{
+  "name": "Ampd",
+  "slug": "ampd",
+  "website": "https://ampd.io/",
+  "description": "Ampd is the ad automation toolkit that puts Google Ads to work for you. We offer the fastest, simplest, most effective way to amplify your efforts and ad dollars to Amazon and beyond. Supercharge Your Amazon sales, rank and more.",
+  "one_liner": "Ampd is the ad automation toolkit that puts Google Ads to work for you. We offer the fastest, simplest, most effective way to amplify your efforts and ad dollars to Amazon and beyond. Supercharge Your Amazon sales, rank and more.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ampd_ads",
+    "linkedin": "https://linkedin.com/company/ampd-ads",
+    "facebook": "https://facebook.com/AmpdAds/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ampd",
+  "api": "/api/companies/ampd.json"
+}

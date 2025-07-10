@@ -1,0 +1,24 @@
+{
+  "name": "Latitudo40",
+  "slug": "latitudo40",
+  "website": "https://latitudo40.com/",
+  "description": "Latitudo 40 transforms images into useful information with actionable insights on our planet.",
+  "one_liner": "Latitudo 40 transforms images into useful information with actionable insights on our planet.",
+  "location": "Naples, Naples, Italy",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/latitudo40",
+    "linkedin": "https://linkedin.com/company/latitudo-40",
+    "facebook": "https://facebook.com/latitudo40/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/latitudo40",
+  "api": "/api/companies/latitudo40.json"
+}

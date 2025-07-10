@@ -1,0 +1,24 @@
+{
+  "name": "MIO ROBOT KIOSKs",
+  "slug": "mio-robot-kiosks",
+  "website": "https://linkedin.com/in/romandrokov",
+  "description": "Bringing your desires",
+  "one_liner": "Bringing your desires",
+  "location": "London, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/MioRobots",
+    "linkedin": "https://linkedin.com/in/romandrokov",
+    "facebook": "https://facebook.com/miokiosk/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mio-robot-kiosks",
+  "api": "/api/companies/mio-robot-kiosks.json"
+}

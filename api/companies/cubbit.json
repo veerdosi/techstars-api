@@ -1,0 +1,24 @@
+{
+  "name": "Cubbit",
+  "slug": "cubbit",
+  "website": "https://cubbit.io/",
+  "description": "Cubbit is the first distributed data-center that recycles the unused Internet recourses of users and transforms them into web services",
+  "one_liner": "Cubbit is the first distributed data-center that recycles the unused Internet recourses of users and transforms them into web services",
+  "location": "Bologna, Italy",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/_cubbit",
+    "linkedin": "https://linkedin.com/company/cubbit",
+    "facebook": "https://facebook.com/cubbit.io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cubbit",
+  "api": "/api/companies/cubbit.json"
+}

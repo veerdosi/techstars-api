@@ -1,0 +1,24 @@
+{
+  "name": "WalkWise",
+  "slug": "walkwise",
+  "website": "https://walkwise.com/",
+  "description": "Our smart walker attachment helps seniors maintain their independence by monitoring wellness, health, and safety.",
+  "one_liner": "Our smart walker attachment helps seniors maintain their independence by monitoring wellness, health, and safety.",
+  "location": "Fargo, North Dakota, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/walkwisefamily",
+    "linkedin": "https://linkedin.com/company/walkwise",
+    "facebook": "https://facebook.com/WalkWiseTech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/walkwise",
+  "api": "/api/companies/walkwise.json"
+}

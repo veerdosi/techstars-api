@@ -1,0 +1,22 @@
+{
+  "name": "Streamfog",
+  "slug": "streamfog",
+  "website": "https://streamfog.com/",
+  "description": "We're transforming the streaming landscape with AR advertising. From Twitch to YouTube to Netflix, we believe traditional commercial breaks are outdated. Our in-content solutions disrupt the industry, not your entertainment.",
+  "one_liner": "We're transforming the streaming landscape with AR advertising. From Twitch to YouTube to Netflix, we believe traditional commercial breaks are outdated. Our in-content solutions disrupt the industry, not your entertainment.",
+  "location": "Austin, Texas, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/streamfog"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/streamfog",
+  "api": "/api/companies/streamfog.json"
+}

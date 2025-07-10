@@ -1,0 +1,22 @@
+{
+  "name": "Shiperise",
+  "slug": "shiperise",
+  "website": "https://shiperise.com/",
+  "description": "Product inventory investment platform (impact investment)",
+  "one_liner": "Product inventory investment platform (impact investment)",
+  "location": "Brussels, Brussels Capital, Belgium",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/m6c29hxyg5ee8kpczwfp",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/shiperise"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/shiperise",
+  "api": "/api/companies/shiperise.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "CINEVVA",
+  "slug": "cinevva",
+  "website": "https://cinevva.com/",
+  "description": "Cinevva - Turning Creatives Without Tech Skills Into Game Makers",
+  "one_liner": "Cinevva - Turning Creatives Without Tech Skills Into Game Makers",
+  "location": "The Woodlands, Texas, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/cinevvagames",
+    "linkedin": "https://linkedin.com/company/cinevva",
+    "facebook": "https://facebook.com/cinevvagames/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cinevva",
+  "api": "/api/companies/cinevva.json"
+}

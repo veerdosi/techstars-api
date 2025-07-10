@@ -1,0 +1,22 @@
+{
+  "name": "Runbear",
+  "slug": "runbear",
+  "website": "https://plugbear.io/",
+  "description": "For companies that have difficulties integrating their own LLM Apps into work processes, we provide no-/low-code software to integrate the LLM Apps into daily work tools, such as Slack or HubSpot.",
+  "one_liner": "For companies that have difficulties integrating their own LLM Apps into work processes, we provide no-/low-code software to integrate the LLM Apps into daily work tools, such as Slack or HubSpot.",
+  "location": "Seoul, South Korea",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/runbear"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/runbear",
+  "api": "/api/companies/runbear.json"
+}

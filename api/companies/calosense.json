@@ -1,0 +1,23 @@
+{
+  "name": "CaloSense",
+  "slug": "calosense",
+  "website": "https://calosense.com/",
+  "description": "CaloSense is a comprehensive pre- and post-bariatric surgery program with two major value propositions:\nDramatically increase the conversion rate of potential patients to actual surgeries, resulting in more surgeries for clinics.\nImprove long-term patient outcomes, addressing the 35% of patients who regain weight, and reducing costs for health insurance.",
+  "one_liner": "CaloSense is a comprehensive pre- and post-bariatric surgery program with two major value propositions:\nDramatically increase the conversion rate of potential patients to actual surgeries, resulting in more surgeries for clinics.\nImprove long-term patient outcomes, addressing the 35% of patients who regain weight, and reducing costs for health insurance.",
+  "location": "Lewes, Delaware, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/CaloSense",
+    "linkedin": "https://linkedin.com/company/calosense"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/calosense",
+  "api": "/api/companies/calosense.json"
+}

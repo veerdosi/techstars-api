@@ -1,0 +1,24 @@
+{
+  "name": "OnSwipe",
+  "slug": "onswipe",
+  "website": "https://onswipe.com/",
+  "description": "Touch-enabled publishing platform",
+  "one_liner": "Touch-enabled publishing platform",
+  "location": "New York City, New York, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/OnSwipe",
+    "linkedin": "https://linkedin.com/company/onswipe",
+    "facebook": "https://facebook.com/onswipe"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/onswipe",
+  "api": "/api/companies/onswipe.json"
+}

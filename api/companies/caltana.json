@@ -1,0 +1,22 @@
+{
+  "name": "Caltana",
+  "slug": "caltana",
+  "website": "https://caltana.com/",
+  "description": "Caltana is an AI pricing automation and analytics platform for commercial real estate services, providing 10x  faster and more accurate pricing for property owners and service suppliers.",
+  "one_liner": "Caltana is an AI pricing automation and analytics platform for commercial real estate services, providing 10x  faster and more accurate pricing for property owners and service suppliers.",
+  "location": "Los Altos, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/caltana"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/caltana",
+  "api": "/api/companies/caltana.json"
+}

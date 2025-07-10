@@ -1,0 +1,23 @@
+{
+  "name": "korzo",
+  "slug": "korzo",
+  "website": "https://korzo.com/",
+  "description": "For modern generations that want to build and grow their wealth like the 1%, we offer a 24/7 personalized AI Wealth Advisor",
+  "one_liner": "For modern generations that want to build and grow their wealth like the 1%, we offer a 24/7 personalized AI Wealth Advisor",
+  "location": "Palo Alto, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/korzowealth",
+    "linkedin": "https://linkedin.com/company/korzoai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/korzo",
+  "api": "/api/companies/korzo.json"
+}

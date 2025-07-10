@@ -1,0 +1,24 @@
+{
+  "name": "Rooit - Play & Chat!",
+  "slug": "rooit-play-chat",
+  "website": "https://rooit.me/",
+  "description": "Gamified chat app, on a mission to empower everyone to find a confidant",
+  "one_liner": "Gamified chat app, on a mission to empower everyone to find a confidant",
+  "location": "Taipei, Taiwan",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Rooit_app",
+    "linkedin": "https://linkedin.com/company/rooit-inc",
+    "facebook": "https://facebook.com/rooitapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rooit-play-chat",
+  "api": "/api/companies/rooit-play-chat.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tinitell",
+  "slug": "tinitell",
+  "website": "https://linkedin.com/company/tinitell",
+  "description": "Your kids first mobile phone.",
+  "one_liner": "Your kids first mobile phone.",
+  "location": "Stockholm, Sweden",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/tinitellmobile",
+    "linkedin": "https://linkedin.com/company/tinitell",
+    "facebook": "https://facebook.com/Tinitell"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tinitell",
+  "api": "/api/companies/tinitell.json"
+}

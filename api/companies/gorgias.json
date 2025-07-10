@@ -1,0 +1,24 @@
+{
+  "name": "Gorgias",
+  "slug": "gorgias",
+  "website": "https://gorgias.com/",
+  "description": "Manage all your customer support in one place with Gorgias.",
+  "one_liner": "Manage all your customer support in one place with Gorgias.",
+  "location": "San Francisco, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/gorgiasio",
+    "linkedin": "https://linkedin.com/company/gorgias",
+    "facebook": "https://facebook.com/gorgiasio"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gorgias",
+  "api": "/api/companies/gorgias.json"
+}

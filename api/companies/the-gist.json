@@ -1,0 +1,24 @@
+{
+  "name": "The GIST",
+  "slug": "the-gist",
+  "website": "https://thegistnews.ca/",
+  "description": "The GIST provides sports content, experiences, and community for women.",
+  "one_liner": "The GIST provides sports content, experiences, and community for women.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/thegistca",
+    "linkedin": "https://linkedin.com/company/thegistnews-ca",
+    "facebook": "https://facebook.com/thegistnewsca/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/the-gist",
+  "api": "/api/companies/the-gist.json"
+}

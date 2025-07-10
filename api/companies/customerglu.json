@@ -1,0 +1,24 @@
+{
+  "name": "CustomerGlu",
+  "slug": "customerglu",
+  "website": "https://customerglu.com/",
+  "description": "Glu empowers marketers at digital businesses to drive \"interactive workflows\" for their users with just a few clicks - and choose from a library of pre-built interactions library.",
+  "one_liner": "Glu empowers marketers at digital businesses to drive \"interactive workflows\" for their users with just a few clicks - and choose from a library of pre-built interactions library.",
+  "location": "Bengaluru, Karnataka, India",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/CustomerGlu",
+    "linkedin": "https://linkedin.com/company/customerglu",
+    "facebook": "https://facebook.com/customerglu"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/customerglu",
+  "api": "/api/companies/customerglu.json"
+}

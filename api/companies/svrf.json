@@ -1,0 +1,24 @@
+{
+  "name": "SVRF",
+  "slug": "svrf",
+  "website": "https://svrf.com/",
+  "description": "Search and discover the the most stunning augmented reality and virtual reality content.",
+  "one_liner": "Search and discover the the most stunning augmented reality and virtual reality content.",
+  "location": "New York City, New York, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/svrf",
+    "linkedin": "https://linkedin.com/company/svrf-inc",
+    "facebook": "https://facebook.com/PoplarStudioAR/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/svrf",
+  "api": "/api/companies/svrf.json"
+}

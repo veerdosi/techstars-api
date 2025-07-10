@@ -1,0 +1,24 @@
+{
+  "name": "Speakbox",
+  "slug": "speakbox",
+  "website": "https://speakbox.ca/",
+  "description": "Speakbox enables mental health practitioners and their clients to have the right information at the right time through a collaborative care platform.",
+  "one_liner": "Speakbox enables mental health practitioners and their clients to have the right information at the right time through a collaborative care platform.",
+  "location": "Vancouver, British Columbia, Canada",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hi_speakbox",
+    "linkedin": "https://linkedin.com/company/speakbox",
+    "facebook": "https://facebook.com/hispeakbox"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/speakbox",
+  "api": "/api/companies/speakbox.json"
+}

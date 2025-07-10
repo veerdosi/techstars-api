@@ -1,0 +1,22 @@
+{
+  "name": "Goby Homes",
+  "slug": "goby-homes",
+  "website": "https://gobyhomes.com/",
+  "description": "Goby Homes is an all-in-one real estate collaboration platform that streamlines and secures transactions from search to close. Our platform serves as a centralized hub for agents, clients, and all stakeholders to efficiently communicate, sign, and share documentation, analyze property listings, and stay on top of important events and tasks, ultimately boosting efficiency, security, and transparency in every interaction.",
+  "one_liner": "Goby Homes is an all-in-one real estate collaboration platform that streamlines and secures transactions from search to close. Our platform serves as a centralized hub for agents, clients, and all stakeholders to efficiently communicate, sign, and share documentation, analyze property listings, and stay on top of important events and tasks, ultimately boosting efficiency, security, and transparency in every interaction.",
+  "location": "Waldorf, Maryland, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/goby-homes-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/goby-homes",
+  "api": "/api/companies/goby-homes.json"
+}

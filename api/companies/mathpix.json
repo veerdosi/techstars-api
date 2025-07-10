@@ -1,0 +1,24 @@
+{
+  "name": "Mathpix",
+  "slug": "mathpix",
+  "website": "https://mathpix.com/",
+  "description": "Mathpix is increasing the pace of technological innovation by improving the user experience of creating and sharing research.",
+  "one_liner": "Mathpix is increasing the pace of technological innovation by improving the user experience of creating and sharing research.",
+  "location": "Santa Monica, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mathpixapp",
+    "linkedin": "https://linkedin.com/company/mathpix",
+    "facebook": "https://facebook.com/mathpix"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mathpix",
+  "api": "/api/companies/mathpix.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Nicolette",
+  "slug": "nicolette",
+  "website": "https://nicolette.com/",
+  "description": "Patient empowerment. Provider partnership.",
+  "one_liner": "Patient empowerment. Provider partnership.",
+  "location": "Long Beach, California, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/nicoboard",
+    "linkedin": "https://linkedin.com/company/nicolette",
+    "facebook": "https://facebook.com/nicolettecompany"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nicolette",
+  "api": "/api/companies/nicolette.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Sparen Homes",
+  "slug": "sparen-homes",
+  "website": "https://sparenhomes.com/",
+  "description": "A real estate marketplace that uses predictive algorithms to discover and connect interested buyers to the right sellers, saving them both time and money.",
+  "one_liner": "A real estate marketplace that uses predictive algorithms to discover and connect interested buyers to the right sellers, saving them both time and money.",
+  "location": "Detroit, Michigan, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sparenhomes",
+    "linkedin": "https://linkedin.com/company/sparenhomes",
+    "facebook": "https://facebook.com/sparenhomes"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sparen-homes",
+  "api": "/api/companies/sparen-homes.json"
+}

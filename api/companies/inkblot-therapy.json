@@ -1,0 +1,24 @@
+{
+  "name": "Inkblot Therapy",
+  "slug": "inkblot-therapy",
+  "website": "https://ink.inkblottherapy.com/",
+  "description": "Inkblot is fixing the way mental health services are provided.",
+  "one_liner": "Inkblot is fixing the way mental health services are provided.",
+  "location": "Burlington, Ontario, Canada",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/inkblottherapy",
+    "linkedin": "https://linkedin.com/company/inkblottherapy",
+    "facebook": "https://facebook.com/inkblotpsychotherapy/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/inkblot-therapy",
+  "api": "/api/companies/inkblot-therapy.json"
+}

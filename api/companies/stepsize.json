@@ -1,0 +1,24 @@
+{
+  "name": "Stepsize",
+  "slug": "stepsize",
+  "website": "https://stepsize.com/",
+  "description": "Stepsize builds tools for teams to develop better software faster",
+  "one_liner": "Stepsize builds tools for teams to develop better software faster",
+  "location": "London, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/StepsizeHQ",
+    "linkedin": "https://linkedin.com/company/stepsize",
+    "facebook": "https://facebook.com/stepsizeHQ/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/stepsize",
+  "api": "/api/companies/stepsize.json"
+}

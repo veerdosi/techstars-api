@@ -1,0 +1,24 @@
+{
+  "name": "Didimo",
+  "slug": "didimo",
+  "website": "https://mydidimo.com/",
+  "description": "Didimo creates Virtual Avatars ready to be animated with one photo.",
+  "one_liner": "Didimo creates Virtual Avatars ready to be animated with one photo.",
+  "location": "Leca Da Palmeira, Portugal",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/my_didimo",
+    "linkedin": "https://linkedin.com/company/didimo",
+    "facebook": "https://facebook.com/DidimoInc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/didimo",
+  "api": "/api/companies/didimo.json"
+}

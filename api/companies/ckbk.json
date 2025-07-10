@@ -1,0 +1,24 @@
+{
+  "name": "ckbk",
+  "slug": "ckbk",
+  "website": "https://ckbk.com/",
+  "description": "ckbk is the ultimate digital subscription service for anyone who loves to cook. The world's finest cookbooks at your fingertips with more than 100,000 recipes!",
+  "one_liner": "ckbk is the ultimate digital subscription service for anyone who loves to cook. The world's finest cookbooks at your fingertips with more than 100,000 recipes!",
+  "location": "London, United Kingdom",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ckbk",
+    "linkedin": "https://linkedin.com/company/ckbk",
+    "facebook": "https://facebook.com/ckbkapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ckbk",
+  "api": "/api/companies/ckbk.json"
+}

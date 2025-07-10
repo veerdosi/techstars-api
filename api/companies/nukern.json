@@ -1,0 +1,24 @@
+{
+  "name": "NUKERN",
+  "slug": "nukern",
+  "website": "https://linkedin.com/company/nukern",
+  "description": "Automated billing and cloud provisioning platform for web hosts and digital agencies",
+  "one_liner": "Automated billing and cloud provisioning platform for web hosts and digital agencies",
+  "location": "Montréal, Quebec, Canada",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/NukernInc",
+    "linkedin": "https://linkedin.com/company/nukern",
+    "facebook": "https://facebook.com/Nukern"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nukern",
+  "api": "/api/companies/nukern.json"
+}

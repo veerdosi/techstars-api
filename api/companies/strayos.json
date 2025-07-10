@@ -1,0 +1,24 @@
+{
+  "name": "Strayos",
+  "slug": "strayos",
+  "website": "https://strayos.com/",
+  "description": "Strayos is a visual AI platform using computer vision, drones and sensor data to map subsurface for underground object detection",
+  "one_liner": "Strayos is a visual AI platform using computer vision, drones and sensor data to map subsurface for underground object detection",
+  "location": "Buffalo, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/StrayosAI",
+    "linkedin": "https://linkedin.com/company/strayos",
+    "facebook": "https://facebook.com/strayos/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/strayos",
+  "api": "/api/companies/strayos.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Prep Intel",
+  "slug": "prep-intel",
+  "website": "https://prepintel.io/",
+  "description": "AI-driven enrollment platform revolutionizing college admissions, aiding institutions, recruiters & students in data-driven decision-making.",
+  "one_liner": "AI-driven enrollment platform revolutionizing college admissions, aiding institutions, recruiters & students in data-driven decision-making.",
+  "location": "Trussville, Alabama, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PrepIntel1",
+    "linkedin": "https://linkedin.com/company/prepintel"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/prep-intel",
+  "api": "/api/companies/prep-intel.json"
+}

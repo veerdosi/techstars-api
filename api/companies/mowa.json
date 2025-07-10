@@ -1,0 +1,22 @@
+{
+  "name": "Mowa",
+  "slug": "mowa",
+  "website": "https://mowa.ai/",
+  "description": "Next-gen audio AI, bridging the gap between text and audio formats",
+  "one_liner": "Next-gen audio AI, bridging the gap between text and audio formats",
+  "location": "Tallinn, Estonia",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ahznelhffqlut4aslzaq",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/mowa-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mowa",
+  "api": "/api/companies/mowa.json"
+}

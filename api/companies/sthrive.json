@@ -1,0 +1,22 @@
+{
+  "name": "STHRIVE",
+  "slug": "sthrive",
+  "website": "https://sthrive.com/",
+  "description": "STHRIVE is a learning platform for salesforce education, offering content curation, AI-driven training, analytics, and gamified experiences.",
+  "one_liner": "STHRIVE is a learning platform for salesforce education, offering content curation, AI-driven training, analytics, and gamified experiences.",
+  "location": "Dubai, United Arab Emirates",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/khszadyf1mfvp5esdpbk",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/sthrive"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sthrive",
+  "api": "/api/companies/sthrive.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Auralyze",
+  "slug": "auralyze",
+  "website": "https://auralyze.ai/",
+  "description": "We simplify the university application journey with AI-powered advice, making elite admissions support accessible to all.",
+  "one_liner": "We simplify the university application journey with AI-powered advice, making elite admissions support accessible to all.",
+  "location": "Romford, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/auralyze-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/auralyze",
+  "api": "/api/companies/auralyze.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Sketchfab",
+  "slug": "sketchfab",
+  "website": "https://sketchfab.com/",
+  "description": "Publish, share and discover 3D content online and in VR.",
+  "one_liner": "Publish, share and discover 3D content online and in VR.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Sketchfab",
+    "linkedin": "https://linkedin.com/company/sketchfab",
+    "facebook": "https://facebook.com/SketchFab"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sketchfab",
+  "api": "/api/companies/sketchfab.json"
+}

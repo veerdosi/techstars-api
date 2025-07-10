@@ -1,0 +1,24 @@
+{
+  "name": "Sensegrass",
+  "slug": "sensegrass",
+  "website": "https://sensegrass.com/",
+  "description": "Soil intelligence platform",
+  "one_liner": "Soil intelligence platform",
+  "location": "San Mateo, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Sensegrass1",
+    "linkedin": "https://linkedin.com/company/13419436",
+    "facebook": "https://facebook.com/sensegrass"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sensegrass",
+  "api": "/api/companies/sensegrass.json"
+}

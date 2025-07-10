@@ -1,0 +1,385 @@
+[
+  {
+    "name": "GlossGenius",
+    "website": "https://glossgenius.com/",
+    "description": "GlossGenius is a smart, automated personal assistant that helps beauty professionals manage and grow their businesses",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/glossgenius",
+      "linkedin": "https://linkedin.com/company/glossgenius",
+      "facebook": "https://facebook.com/glossgenius"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Hawthorne",
+    "website": "https://hawthorne.co/",
+    "description": "Hawthorne is the first personalized brand for all men's bathroom needs.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hawthorne",
+      "linkedin": "https://linkedin.com/company/hawthorne",
+      "facebook": "https://facebook.com/hawthornelab"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Mani",
+    "website": "https://manime.co/",
+    "description": "Designer nails made for you, delivered to your door.",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ManiMe_Co",
+      "linkedin": "https://linkedin.com/company/mani-me",
+      "facebook": "https://facebook.com/manime.co"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Peeq Industries",
+    "website": "https://peeqpro.com/",
+    "description": "Eyelids are gross. Peeq Pro helps ensure everyone cleans them every day.",
+    "location": "Omaha, Nebraska, United States",
+    "social_media": {},
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Skintelligent Corporation",
+    "website": "https://skintelligentlab.com/",
+    "description": "Developing AI skin analysis solutions to power the future of skin health.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SkintelligentAI",
+      "linkedin": "https://linkedin.com/company/skintelligent"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "PrettyData",
+    "website": "https://prettydata.co/",
+    "description": "PrettyData is an AI-powered smart pricing platform helping beauty and wellness businesses maximize revenue through data-driven price optimization and market intelligence so beauty professionals can focus on their craft, not math.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/prettydata-co"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Blackstock & Weber",
+    "website": "https://blackstockandweber.com/",
+    "description": "Blackstock & Weber designs handcrafted, everyday footwear for the modern man.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/blackstockweber",
+      "linkedin": "https://linkedin.com/company/blackstockandweber",
+      "facebook": "https://facebook.com/blackstockandweber"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Cinta Color",
+    "website": "https://cintacolor.com/",
+    "description": "A platform that helps beauty salons to bring their businesses online.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CintaColor",
+      "linkedin": "https://linkedin.com/company/cintacolor"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Beauty Hut Africa",
+    "website": "https://beautyhutafrica.com/",
+    "description": "Beauty Hut is a forward-thinking beauty distribution company that uses technology to make high-demand beauty items .",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pwcf8kcvlkqqzfmsyxwv",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/beauty-hut-africa"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "The PS Collective",
+    "website": "https://pscollective.co/",
+    "description": "The PS Collective is an online marketplace where women are connected to independent designers who make clothes to fit their shape and style.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/btuzjqfwm5iwnaon9kuw",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/71491086",
+      "facebook": "https://facebook.com/PSCollectiveNYC"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Divaneering Lab",
+    "website": "https://meetspundle.com/",
+    "description": "Blow dryer providing a evolutionary solution that saves time and increases convenience with its  15-minute, no-heat drying technology.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/relh6re5gf9xwfpbkxcc",
+    "location": "Towson, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/divaneering-lab"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Nyungu Afrika",
+    "website": "https://nyungu.care/",
+    "description": "Makes pads safe, accessible, and affordable to majority of women and girls.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xikshv01uqbh6wjcdree",
+    "location": "Nairobi, Kenya",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/mary-nyaruai"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "In-Seam",
+    "website": "https://theresetagency.net/",
+    "description": "A private luxury retail platform powered by personal relationships.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/in-seam"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Madbarz",
+    "website": "https://madbarz.com/",
+    "description": "Next gen fitness app right in the middle of the modern fitness revolution",
+    "location": "Zagreb, Croatia",
+    "social_media": {
+      "twitter": "https://twitter.com/madbarz1",
+      "linkedin": "https://linkedin.com/company/madbarz",
+      "facebook": "https://facebook.com/Madbarz.1/"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "BeautyGoGO",
+    "website": "https://beautygo-go.com/",
+    "description": "The BeautyGoGo app helps Black women by offering immediate delivery or pick up of niche products from a variety of local retailers called beauty supply stores",
+    "location": "Redford, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/beautygogo-inc"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "AMP Beauty",
+    "website": "https://ampbeautyla.com/",
+    "description": "AMP Beauty is a platform for sustainable beauty brands that cater to conscious consumers.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ampbeautyla",
+      "linkedin": "https://linkedin.com/company/ampbeautyla",
+      "facebook": "https://facebook.com/ampbeautyla/"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Ourside",
+    "website": "https://ourside.nyc/",
+    "description": "Luxury natural fragrance brand",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/oursidenyc",
+      "linkedin": "https://linkedin.com/company/oursidenyc",
+      "facebook": "https://facebook.com/ourside.nyc"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "ListedB",
+    "website": "https://listedb.com/",
+    "description": "ListedB is a social booking app for beauty & wellness services within the Black community.",
+    "location": "Kings Park, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/listedbapp",
+      "linkedin": "https://linkedin.com/company/listedb",
+      "facebook": "https://facebook.com/listedBApp"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Crosscourt",
+    "website": "https://cross-court.com/",
+    "description": "Crosscourt is a state-of-the-art performance club designed to help ballers build connections, spark competition and inspire creativity through curated basketball inspired experiences",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CrosscourtLA",
+      "linkedin": "https://linkedin.com/company/crosscourt",
+      "facebook": "https://facebook.com/crosscourtball/"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Upgrade Boutique",
+    "website": "https://upgradeboutique.com/",
+    "description": "Upgrade Boutique is a managed marketplace that provides beauty products and services.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/upgrade-boutique",
+      "facebook": "https://facebook.com/upgradeboutique"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "SOTRO",
+    "website": "https://getsotro.com/",
+    "description": "SOTRO is a hair care technology startup building a proprietary line of connected hair tools offering a groundbreaking approach to treating, styling and caring for the widest range of hair types and textures.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getsotro",
+      "linkedin": "https://linkedin.com/company/sotroinnovations",
+      "facebook": "https://facebook.com/sotroinc"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Gently Soap",
+    "website": "https://gentlysoap.com/",
+    "description": "By allowing the rapidly growing population of humans with highly sensitive skin and skin conditions to step out from behind the confines of boring, cold, and clinical products - Gently Soap is shattering expectations for gentle, effective body care.",
+    "location": "Dallas, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gentlysoap",
+      "linkedin": "https://linkedin.com/company/gently-soap"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "St. Martin",
+    "website": "https://atthesocialclub.com/",
+    "description": "A men's lifestyle brand intended to provide hair styling and grooming services",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/A",
+      "linkedin": "https://linkedin.com/in/sebastianwho",
+      "facebook": "https://facebook.com/TheSocialClubDetroit/"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Reflekt Me",
+    "website": "https://reflektme.com/",
+    "description": "A B2B SaaS platform enabling beauty and fashion brands to monetize their user and employee generated content by curating and displaying images that reflect untapped online communities, resulting in a 1% top-line revenue increase for large brands.",
+    "location": "Sandy Springs, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/reflektme",
+      "linkedin": "https://linkedin.com/company/reflekt-me",
+      "facebook": "https://facebook.com/reflektme/"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Painless Picasso",
+    "website": "https://painlesspicasso.com/",
+    "description": "Perfecting the Art of Numbing Solutions(tm)",
+    "location": "Jersey City, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/jaimesalcedoceo"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Glou",
+    "website": "https://glou.co/",
+    "description": "Glou is an AI-powered marketplace that makes the resale of beauty products faster, cheaper, and safer for consumers.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gloubeauty",
+      "linkedin": "https://linkedin.com/company/gloubeauty",
+      "facebook": "https://facebook.com/GLOUBEAUTY"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Tressed DBA The Weave Outlet",
+    "website": "https://tressed.com/",
+    "description": "The Weave Outlet specialize in providing the best virgin premium hair for the best wholesale prices on the market",
+    "location": "Midland, Georgia, United States",
+    "social_media": {},
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "BeautyVoyage",
+    "website": "https://beautyvoyage.co/",
+    "description": "BeautyVoyage is the first marketplace for Beauty Professional peer mentorship.",
+    "location": "Anchorage, Alaska, United States",
+    "social_media": {},
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Osazomon",
+    "website": "https://osazomon.com/",
+    "description": "OSAZ is a pioneering AI startup transforming skincare for melanin-rich skin. OSAZ uses cutting-edge generative AI to develop personalized sunscreen and hyperpigmentation treatments.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Byosaz",
+      "linkedin": "https://linkedin.com/company/osazomon"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Liquid",
+    "website": "https://getliquid.ai/",
+    "description": "Liquid is the decision engine helping you grow your salon business",
+    "location": "Columbia, Missouri, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/liquidhairinstitute"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Honey to Cocoa",
+    "website": "https://honeytococoa.com/",
+    "description": "Leveraging AI to help people of color match makeup to their unique skin tones",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/honeytococoa"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  },
+  {
+    "name": "Scent Lab",
+    "website": "https://linkedin.com/company/scent-lab",
+    "description": "Scent Lab is a next-gen fragrance brand that's democratizing personalized fragrance and helping Gen Z & Gen Alpha consumers find scents that embody who they are and how they feel by enabling them to personalize their own scented products",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/scent-lab",
+      "facebook": "https://facebook.com/shopscentlab"
+    },
+    "industry": "Beauty",
+    "industry_slug": "beauty"
+  }
+]

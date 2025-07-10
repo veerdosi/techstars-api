@@ -1,0 +1,22 @@
+{
+  "name": "Kilsar",
+  "slug": "kilsar",
+  "website": "https://kilsar.com/",
+  "description": "Kilsar provides a suite of software and hardware solutions that enable real-time intelligence, multi-channel communication, augmented reality (AR), and digital tooling capabilities for teams and workforces.",
+  "one_liner": "Kilsar provides a suite of software and hardware solutions that enable real-time intelligence, multi-channel communication, augmented reality (AR), and digital tooling capabilities for teams and workforces.",
+  "location": "Virginia Beach, Virginia, United States",
+  "industry": "Augmented reality",
+  "industry_slug": "augmented-reality",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/kilsar"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kilsar",
+  "api": "/api/companies/kilsar.json"
+}

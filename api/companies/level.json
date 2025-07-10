@@ -1,0 +1,24 @@
+{
+  "name": "Level",
+  "slug": "level",
+  "website": "https://linkedin.com/company/leveltechnology",
+  "description": "Level empowers freelancers, gig-workers and independent contractors to save towards goals and access a personal line of credit.",
+  "one_liner": "Level empowers freelancers, gig-workers and independent contractors to save towards goals and access a personal line of credit.",
+  "location": "Bellevue, Washington, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Level_Finance",
+    "linkedin": "https://linkedin.com/company/leveltechnology",
+    "facebook": "https://facebook.com/LevelGoals/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/level",
+  "api": "/api/companies/level.json"
+}

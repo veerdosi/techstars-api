@@ -1,0 +1,24 @@
+{
+  "name": "BeehiveID",
+  "slug": "beehiveid",
+  "website": "https://linkedin.com/company/beehive-biometrics",
+  "description": "Frictionless fraud prevention",
+  "one_liner": "Frictionless fraud prevention",
+  "location": "Austin, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/BeehiveID",
+    "linkedin": "https://linkedin.com/company/beehive-biometrics",
+    "facebook": "https://facebook.com/beehiveid"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/beehiveid",
+  "api": "/api/companies/beehiveid.json"
+}

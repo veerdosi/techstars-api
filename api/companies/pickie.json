@@ -1,0 +1,24 @@
+{
+  "name": "Pickie",
+  "slug": "pickie",
+  "website": "https://pickie.com/",
+  "description": "Social commerce",
+  "one_liner": "Social commerce",
+  "location": "New York City, New York, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://pbs.twimg.com/profile_images/378800000265140889/849b7a00e36ab1a3c4f73f3c3f7d4c44_bigger.png",
+  "social_media": {
+    "twitter": "https://twitter.com/pickie",
+    "linkedin": "https://linkedin.com/company/pickie",
+    "facebook": "https://facebook.com/pickieco"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pickie",
+  "api": "/api/companies/pickie.json"
+}

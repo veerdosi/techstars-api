@@ -1,0 +1,24 @@
+{
+  "name": "Yellowbox",
+  "slug": "yellowbox",
+  "website": "https://yellowbox.app/",
+  "description": "A network of on demand smart-lockers accessed via mobile.",
+  "one_liner": "A network of on demand smart-lockers accessed via mobile.",
+  "location": "Sydney, New South Wales, Australia",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/yellowbox_au",
+    "linkedin": "https://linkedin.com/company/yellow-b",
+    "facebook": "https://facebook.com/yellowbox.au/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/yellowbox",
+  "api": "/api/companies/yellowbox.json"
+}

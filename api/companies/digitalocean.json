@@ -1,0 +1,24 @@
+{
+  "name": "DigitalOcean",
+  "slug": "digitalocean",
+  "website": "https://digitalocean.com/",
+  "description": "Simple, scalable cloud computing solutions built for startups and small-to-midsize businesses.",
+  "one_liner": "Simple, scalable cloud computing solutions built for startups and small-to-midsize businesses.",
+  "location": "New York City, New York, United States",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/digitalocean",
+    "linkedin": "https://linkedin.com/company/digitalocean",
+    "facebook": "https://facebook.com/DigitalOceanCloudHosting"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/digitalocean",
+  "api": "/api/companies/digitalocean.json"
+}

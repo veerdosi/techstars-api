@@ -1,0 +1,24 @@
+{
+  "name": "Vaale",
+  "slug": "vaale",
+  "website": "https://linkedin.com/company/vaale",
+  "description": "Banking individuals & SMBs in LATAM starting with our Buy-Often, Pay-Later for Groceries and Essentials.",
+  "one_liner": "Banking individuals & SMBs in LATAM starting with our Buy-Often, Pay-Later for Groceries and Essentials.",
+  "location": "Medellín, Colombia",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pusftzrx3pyeakeb3sgn",
+  "social_media": {
+    "twitter": "https://twitter.com/PagoConVaale",
+    "linkedin": "https://linkedin.com/company/vaale",
+    "facebook": "https://facebook.com/search/top"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vaale",
+  "api": "/api/companies/vaale.json"
+}

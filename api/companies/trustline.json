@@ -1,0 +1,22 @@
+{
+  "name": "Trustline",
+  "slug": "trustline",
+  "website": "https://trustline.id/",
+  "description": "Universal compliance layer for decentralised applications. Install in 1 line of code.",
+  "one_liner": "Universal compliance layer for decentralised applications. Install in 1 line of code.",
+  "location": "Tours, Pays de la Loire, France",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/yn4nrx4vynaptjgrxpuv",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/securely-id"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/trustline",
+  "api": "/api/companies/trustline.json"
+}

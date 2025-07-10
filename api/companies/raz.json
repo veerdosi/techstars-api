@@ -1,0 +1,23 @@
+{
+  "name": "RAZ",
+  "slug": "raz",
+  "website": "https://razfinance.io/",
+  "description": "RAZ enables impact-financial data origin and authenticity verification across unalterable timelines",
+  "one_liner": "RAZ enables impact-financial data origin and authenticity verification across unalterable timelines",
+  "location": "Bnei Brak, Israel",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/bkloe50jnrr6xh0ao7kl",
+  "social_media": {
+    "twitter": "https://twitter.com/razfintech",
+    "linkedin": "https://linkedin.com/company/razfintech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/raz",
+  "api": "/api/companies/raz.json"
+}

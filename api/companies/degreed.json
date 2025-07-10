@@ -1,0 +1,24 @@
+{
+  "name": "Degreed",
+  "slug": "degreed",
+  "website": "https://degreed.com/",
+  "description": "Degreed is the upskilling platform that connects learning, talent development and internal mobility opportunities in one place.",
+  "one_liner": "Degreed is the upskilling platform that connects learning, talent development and internal mobility opportunities in one place.",
+  "location": "San Francisco, California, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/degreed",
+    "linkedin": "https://linkedin.com/company/degreed",
+    "facebook": "https://facebook.com/degreedofficial"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/degreed",
+  "api": "/api/companies/degreed.json"
+}

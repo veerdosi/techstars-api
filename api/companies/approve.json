@@ -1,0 +1,24 @@
+{
+  "name": "Approve",
+  "slug": "approve",
+  "website": "https://approve.com/",
+  "description": "Approve is a modern enterprise procurement SaaS.",
+  "one_liner": "Approve is a modern enterprise procurement SaaS.",
+  "location": "Dover, Delaware, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/approvedotcom",
+    "linkedin": "https://linkedin.com/company/brandable-io",
+    "facebook": "https://facebook.com/Swiftt-103191081395170"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/approve",
+  "api": "/api/companies/approve.json"
+}

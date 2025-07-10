@@ -1,0 +1,24 @@
+{
+  "name": "Asvin Tech",
+  "slug": "asvin-tech",
+  "website": "https://dentratech.com/",
+  "description": "Asvin Tech develops AI-powered, low-cost, and high-precision 3D solutions for dentists in low-to-middle-income countries",
+  "one_liner": "Asvin Tech develops AI-powered, low-cost, and high-precision 3D solutions for dentists in low-to-middle-income countries",
+  "location": "Patna, Bihar, India",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AsvinTech",
+    "linkedin": "https://linkedin.com/company/asvin-tech",
+    "facebook": "https://facebook.com/AsvinTech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/asvin-tech",
+  "api": "/api/companies/asvin-tech.json"
+}

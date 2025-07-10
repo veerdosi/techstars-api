@@ -1,0 +1,24 @@
+{
+  "name": "Rise Robotics",
+  "slug": "rise-robotics",
+  "website": "https://riserobotics.com/",
+  "description": "Creating the world's best mobile robotic components",
+  "one_liner": "Creating the world's best mobile robotic components",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://launchrock-assets.s3.amazonaws.com/logo-files/WZQMTSW7_1382562200511.png?_=3",
+  "social_media": {
+    "twitter": "https://twitter.com/RiseRobotics",
+    "linkedin": "https://linkedin.com/in/arronacosta",
+    "facebook": "https://facebook.com/riseroboticsinc/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rise-robotics",
+  "api": "/api/companies/rise-robotics.json"
+}

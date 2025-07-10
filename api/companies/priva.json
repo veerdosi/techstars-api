@@ -1,0 +1,24 @@
+{
+  "name": "Priva",
+  "slug": "priva",
+  "website": "https://linkedin.com/company/priva-building-intelligence",
+  "description": "Priva is door-to-door regional mobility. We give travelers time for productivity while in transit by providing a streamlined alternative to commuter flights.",
+  "one_liner": "Priva is door-to-door regional mobility. We give travelers time for productivity while in transit by providing a streamlined alternative to commuter flights.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Industrials",
+  "industry_slug": "industrials",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/privaint",
+    "linkedin": "https://linkedin.com/company/priva-building-intelligence",
+    "facebook": "https://facebook.com/Priva-Inc-1773340752941690"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/priva",
+  "api": "/api/companies/priva.json"
+}

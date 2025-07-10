@@ -1,0 +1,24 @@
+{
+  "name": "FitBliss",
+  "slug": "fitbliss",
+  "website": "https://linkedin.com/company/fitbliss",
+  "description": "FitBliss is a B2B software platform that connects wearable health data with work performance to optimize productivity in the workplace!",
+  "one_liner": "FitBliss is a B2B software platform that connects wearable health data with work performance to optimize productivity in the workplace!",
+  "location": "San Jose, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/fitblisscom",
+    "linkedin": "https://linkedin.com/company/fitbliss",
+    "facebook": "https://facebook.com/fitblisscom"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fitbliss",
+  "api": "/api/companies/fitbliss.json"
+}

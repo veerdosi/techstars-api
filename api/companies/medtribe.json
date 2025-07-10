@@ -1,0 +1,24 @@
+{
+  "name": "Medtribe",
+  "slug": "medtribe",
+  "website": "https://medtribe.com/",
+  "description": "Medtribe forges a network for healthcare professionals, fostering collaboration, knowledge sharing, and career growth opportunities.",
+  "one_liner": "Medtribe forges a network for healthcare professionals, fostering collaboration, knowledge sharing, and career growth opportunities.",
+  "location": "London, United Kingdom",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Medtribe_",
+    "linkedin": "https://linkedin.com/company/medtribe",
+    "facebook": "https://facebook.com/MedTribeOfficial"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/medtribe",
+  "api": "/api/companies/medtribe.json"
+}

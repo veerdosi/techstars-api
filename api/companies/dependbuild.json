@@ -1,0 +1,22 @@
+{
+  "name": "Dependbuild",
+  "slug": "dependbuild",
+  "website": "https://dependbuild.com/",
+  "description": "Dependbuild is a SaaS platform revolutionizing risk management for infrastructure projects. Our solution empowers municipalities to efficiently identify, assess, and mitigate risks by leveraging advanced analytics and project-specific data. By automating the risk assessment process, dependbuild enhances decision-making, reduces project delays and costs, and ensures better outcomes for public infrastructure.",
+  "one_liner": "Dependbuild is a SaaS platform revolutionizing risk management for infrastructure projects. Our solution empowers municipalities to efficiently identify, assess, and mitigate risks by leveraging advanced analytics and project-specific data. By automating the risk assessment process, dependbuild enhances decision-making, reduces project delays and costs, and ensures better outcomes for public infrastructure.",
+  "location": "Halifax, Nova Scotia, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/dependbuild"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dependbuild",
+  "api": "/api/companies/dependbuild.json"
+}

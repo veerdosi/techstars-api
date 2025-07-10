@@ -1,0 +1,24 @@
+{
+  "name": "AfriBlocks",
+  "slug": "afriblocks",
+  "website": "https://afriblocks.com/",
+  "description": "The Pan-African Freelance Talen Network",
+  "one_liner": "The Pan-African Freelance Talen Network",
+  "location": "Los Angeles, California, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/afriblocks",
+    "linkedin": "https://linkedin.com/company/afriblocks",
+    "facebook": "https://facebook.com/afriblocks/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/afriblocks",
+  "api": "/api/companies/afriblocks.json"
+}

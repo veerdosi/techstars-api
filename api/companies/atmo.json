@@ -1,0 +1,22 @@
+{
+  "name": "ATMO",
+  "slug": "atmo",
+  "website": "https://atmo.earth/",
+  "description": "atmo helps banks to reduce their financed emissions - starting with food.",
+  "one_liner": "atmo helps banks to reduce their financed emissions - starting with food.",
+  "location": "Berlin, Berlin, Germany",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/atmoearth"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/atmo",
+  "api": "/api/companies/atmo.json"
+}

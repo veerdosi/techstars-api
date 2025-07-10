@@ -1,0 +1,22 @@
+{
+  "name": "KindredPM",
+  "slug": "kindredpm",
+  "website": "https://kindredpm.ai/",
+  "description": "For residential property management companies who are stuck with bloated labor costs or unscalable operations, we're building an AI property manager that handles all leasing and maintenance operations without any human intervention.",
+  "one_liner": "For residential property management companies who are stuck with bloated labor costs or unscalable operations, we're building an AI property manager that handles all leasing and maintenance operations without any human intervention.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/102597889"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kindredpm",
+  "api": "/api/companies/kindredpm.json"
+}

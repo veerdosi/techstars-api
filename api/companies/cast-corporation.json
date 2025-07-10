@@ -1,0 +1,24 @@
+{
+  "name": "Cast Corporation",
+  "slug": "cast-corporation",
+  "website": "https://cast.app/",
+  "description": "Cast scales post-sales using avatar-based Virtual Customer Success Managers to drive customer health, adoption, & revenue expansion.",
+  "one_liner": "Cast scales post-sales using avatar-based Virtual Customer Success Managers to drive customer health, adoption, & revenue expansion.",
+  "location": "San Carlos, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/1295476419212918784",
+    "linkedin": "https://linkedin.com/company/cast-dot-app",
+    "facebook": "https://facebook.com/joincast.co/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cast-corporation",
+  "api": "/api/companies/cast-corporation.json"
+}

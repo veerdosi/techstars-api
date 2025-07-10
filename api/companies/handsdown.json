@@ -1,0 +1,23 @@
+{
+  "name": "HandsDown",
+  "slug": "handsdown",
+  "website": "https://linkedin.com/company/itshandsdown",
+  "description": "HandsDown lets you explore the 'Top 10 Best Of' from your inner circle.",
+  "one_liner": "HandsDown lets you explore the 'Top 10 Best Of' from your inner circle.",
+  "location": "Burlington, Vermont, United States",
+  "industry": "Femtech",
+  "industry_slug": "femtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ey6f1neqnp4un5bzzr6o",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/itshandsdown",
+    "facebook": "https://facebook.com/ItsHandsDown"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/handsdown",
+  "api": "/api/companies/handsdown.json"
+}

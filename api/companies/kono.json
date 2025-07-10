@@ -1,0 +1,24 @@
+{
+  "name": "Kono",
+  "slug": "kono",
+  "website": "https://linkedin.com/company/konolabs-inc-",
+  "description": "AI for Team & Company Scheduling",
+  "one_liner": "AI for Team & Company Scheduling",
+  "location": "San Francisco, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/officialkono",
+    "linkedin": "https://linkedin.com/company/konolabs-inc-",
+    "facebook": "https://facebook.com/officialkono"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kono",
+  "api": "/api/companies/kono.json"
+}

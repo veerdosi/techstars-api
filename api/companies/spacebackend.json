@@ -1,0 +1,22 @@
+{
+  "name": "Spacebackend",
+  "slug": "spacebackend",
+  "website": "https://openmoon.space/",
+  "description": "Reducing Satellite integrations from years to days. SpaceBackend provides a cloud platform for spacecraft and payload companies, delivering end-to-end operational and automation solutions for the space industry.",
+  "one_liner": "Reducing Satellite integrations from years to days. SpaceBackend provides a cloud platform for spacecraft and payload companies, delivering end-to-end operational and automation solutions for the space industry.",
+  "location": "Wilmington, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/spacebackend"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/spacebackend",
+  "api": "/api/companies/spacebackend.json"
+}

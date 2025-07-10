@@ -1,0 +1,23 @@
+{
+  "name": "Senscity",
+  "slug": "senscity",
+  "website": "https://linkedin.com/company/18592146",
+  "description": "Software as a Service that provides monitoring and evaluation of climate change's risks, impacts, and solutions across our cities",
+  "one_liner": "Software as a Service that provides monitoring and evaluation of climate change's risks, impacts, and solutions across our cities",
+  "location": "Sydney, New South Wales, Australia",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/senscity_",
+    "linkedin": "https://linkedin.com/company/18592146"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/senscity",
+  "api": "/api/companies/senscity.json"
+}

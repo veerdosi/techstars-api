@@ -1,0 +1,24 @@
+{
+  "name": "Present",
+  "slug": "present",
+  "website": "https://smallpackages.co/",
+  "description": "Productivity app that streamlines relationship management and gifting solutions.",
+  "one_liner": "Productivity app that streamlines relationship management and gifting solutions.",
+  "location": "Philadelphia, Pennsylvania, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/smallpackagesco",
+    "linkedin": "https://linkedin.com/company/small-packages-co",
+    "facebook": "https://facebook.com/presenttv"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/present",
+  "api": "/api/companies/present.json"
+}

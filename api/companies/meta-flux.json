@@ -1,0 +1,23 @@
+{
+  "name": "Meta-Flux",
+  "slug": "meta-flux",
+  "website": "https://meta-flux.com/",
+  "description": "Meta-Flux is an AI-assisted detection diagnostics platform for disease prevention. Its Patterns and fluctuations seen in personalized medicine can identify diseases. Using Artificial Intelligence and designing computer software offers a service that ca...",
+  "one_liner": "Meta-Flux is an AI-assisted detection diagnostics platform for disease prevention. Its Patterns and fluctuations seen in personalized medicine can identify diseases. Using Artificial Intelligence and designing computer software offers a service that ca...",
+  "location": "Dublin, Dublin, Ireland",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jhp5oykq0xe5pnljhvun",
+  "social_media": {
+    "twitter": "https://twitter.com/fluxmeta",
+    "linkedin": "https://linkedin.com/company/meta-flux"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/meta-flux",
+  "api": "/api/companies/meta-flux.json"
+}

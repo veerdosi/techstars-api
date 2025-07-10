@@ -1,0 +1,22 @@
+{
+  "name": "f3nice",
+  "slug": "f3nice",
+  "website": "https://f3nice.com/",
+  "description": "Circular economy for additive manufacturing",
+  "one_liner": "Circular economy for additive manufacturing",
+  "location": "Milan, Milan, Italy",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/f3nice"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/f3nice",
+  "api": "/api/companies/f3nice.json"
+}

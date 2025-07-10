@@ -1,0 +1,22 @@
+{
+  "name": "Synergym",
+  "slug": "synergym",
+  "website": "https://synergym.ai/",
+  "description": "Synergym.Ai enhances motivation to exercise by making proven psychological methods available through AI.",
+  "one_liner": "Synergym.Ai enhances motivation to exercise by making proven psychological methods available through AI.",
+  "location": "Tel Aviv, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/avshalom-galili-9a918a2a"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/synergym",
+  "api": "/api/companies/synergym.json"
+}

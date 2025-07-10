@@ -1,0 +1,24 @@
+{
+  "name": "Init",
+  "slug": "init",
+  "website": "https://init.ai/",
+  "description": "Developer platform to build, train, and deploy intelligent conversational apps",
+  "one_liner": "Developer platform to build, train, and deploy intelligent conversational apps",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/initdotai",
+    "linkedin": "https://linkedin.com/company/10536356",
+    "facebook": "https://facebook.com/initdotai/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/init",
+  "api": "/api/companies/init.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Glimr",
+  "slug": "glimr",
+  "website": "https://glimr.io/",
+  "description": "Glimr provides world-class geolocation tools for media publishers",
+  "one_liner": "Glimr provides world-class geolocation tools for media publishers",
+  "location": "London, United Kingdom",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getglimr",
+    "linkedin": "https://linkedin.com/company/glimr",
+    "facebook": "https://facebook.com/getglimr"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/glimr",
+  "api": "/api/companies/glimr.json"
+}

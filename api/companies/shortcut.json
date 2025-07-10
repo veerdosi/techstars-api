@@ -1,0 +1,23 @@
+{
+  "name": "ShortCut",
+  "slug": "shortcut",
+  "website": "https://crunchbase.com/organization/eat-in-my-seat",
+  "description": "Improving live events by allowing in-seat ordering at a venue",
+  "one_liner": "Improving live events by allowing in-seat ordering at a venue",
+  "location": "London, United Kingdom",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/shortcutapp",
+    "facebook": "https://facebook.com/ShortcutApp1"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/shortcut",
+  "api": "/api/companies/shortcut.json"
+}

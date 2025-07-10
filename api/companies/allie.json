@@ -1,0 +1,23 @@
+{
+  "name": "Allie",
+  "slug": "allie",
+  "website": "https://linkedin.com/company/allie",
+  "description": "We help companies build inclusive culture.",
+  "one_liner": "We help companies build inclusive culture.",
+  "location": "New York City, New York, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/alliebotHQ",
+    "linkedin": "https://linkedin.com/company/allie"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/allie",
+  "api": "/api/companies/allie.json"
+}

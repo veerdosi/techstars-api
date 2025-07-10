@@ -1,0 +1,22 @@
+{
+  "name": "Compose Health",
+  "slug": "compose-health",
+  "website": "https://composehealth.ai/",
+  "description": "Compose Health creates compliant, compelling content in moments to accelerate customer engagement, medical education, and scientific progress.",
+  "one_liner": "Compose Health creates compliant, compelling content in moments to accelerate customer engagement, medical education, and scientific progress.",
+  "location": "Ottawa, Ontario, Canada",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/composehealth"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/compose-health",
+  "api": "/api/companies/compose-health.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Collectiv",
+  "slug": "collectiv",
+  "website": "https://collectiv.tv/",
+  "description": "Collectiv.TV's platform helps creators and content owners to distribute and monetize their content on free ad-supported streaming TV (FAST).",
+  "one_liner": "Collectiv.TV's platform helps creators and content owners to distribute and monetize their content on free ad-supported streaming TV (FAST).",
+  "location": "Montréal, Quebec, Canada",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lfel1ju8lxkqvhi8zytl",
+  "social_media": {
+    "twitter": "https://twitter.com/collectivtv",
+    "linkedin": "https://linkedin.com/company/collectivtv",
+    "facebook": "https://facebook.com/people/CollectivTV/100083325939719/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/collectiv",
+  "api": "/api/companies/collectiv.json"
+}

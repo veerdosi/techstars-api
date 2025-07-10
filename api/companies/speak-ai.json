@@ -1,0 +1,24 @@
+{
+  "name": "Speak Ai",
+  "slug": "speak-ai",
+  "website": "https://speakai.co/",
+  "description": "Turn your language data into insights, fast.",
+  "one_liner": "Turn your language data into insights, fast.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/oqdr6c8orkmsig0xg2nt",
+  "social_media": {
+    "twitter": "https://twitter.com/speakai_co",
+    "linkedin": "https://linkedin.com/company/speakai-co",
+    "facebook": "https://facebook.com/speakai.co"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/speak-ai",
+  "api": "/api/companies/speak-ai.json"
+}

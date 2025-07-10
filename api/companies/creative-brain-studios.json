@@ -1,0 +1,23 @@
+{
+  "name": "Creative Brain Studios",
+  "slug": "creative-brain-studios",
+  "website": "https://linkedin.com/in/bookergames",
+  "description": "Social game engine developer",
+  "one_liner": "Social game engine developer",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/bookergames",
+    "linkedin": "https://linkedin.com/in/bookergames"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/creative-brain-studios",
+  "api": "/api/companies/creative-brain-studios.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Infinit",
+  "slug": "infinit",
+  "website": "https://infinit.sh/",
+  "description": "Modern software-defined storage plaftorm for container environments.",
+  "one_liner": "Modern software-defined storage plaftorm for container environments.",
+  "location": "Paris, France",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/infinit",
+    "linkedin": "https://linkedin.com/company/%E5%9B%A0%E4%B8%BA%E7%A7%91%E6%8A%80%E6%97%A0%E9%94%A1%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+    "facebook": "https://facebook.com/infinit.career"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/infinit",
+  "api": "/api/companies/infinit.json"
+}

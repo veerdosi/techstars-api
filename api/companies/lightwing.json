@@ -1,0 +1,24 @@
+{
+  "name": "Lightwing",
+  "slug": "lightwing",
+  "website": "https://lightwing.io/",
+  "description": "A intelligent control system that dynamically optimizes cloud resources to reduce cloud costs by up to 90%.",
+  "one_liner": "A intelligent control system that dynamically optimizes cloud resources to reduce cloud costs by up to 90%.",
+  "location": "Bengaluru, Karnataka, India",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/lightwing_cloud",
+    "linkedin": "https://linkedin.com/company/lightwing",
+    "facebook": "https://facebook.com/Lightwing-1667503093393156/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lightwing",
+  "api": "/api/companies/lightwing.json"
+}

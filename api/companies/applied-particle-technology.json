@@ -1,0 +1,23 @@
+{
+  "name": "Applied Particle Technology",
+  "slug": "applied-particle-technology",
+  "website": "https://appliedparticletechnology.com/",
+  "description": "Automated environmental health & safety for mining and metals manufacturing using real-time data.",
+  "one_liner": "Automated environmental health & safety for mining and metals manufacturing using real-time data.",
+  "location": "St. Louis, Missouri, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/x9eaf81cufqwpdnrmnjb",
+  "social_media": {
+    "twitter": "https://twitter.com/appliedparticle",
+    "linkedin": "https://linkedin.com/company/applied-particle-technology"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/applied-particle-technology",
+  "api": "/api/companies/applied-particle-technology.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Realworld",
+  "slug": "realworld",
+  "website": "https://realworldplaybook.com/",
+  "description": "One-stop-shop for navigating the real world",
+  "one_liner": "One-stop-shop for navigating the real world",
+  "location": "New York City, New York, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/realworldplaybk",
+    "linkedin": "https://linkedin.com/company/realworldco",
+    "facebook": "https://facebook.com/realworldcompany/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/realworld",
+  "api": "/api/companies/realworld.json"
+}

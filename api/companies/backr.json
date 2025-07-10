@@ -1,0 +1,23 @@
+{
+  "name": "Backr",
+  "slug": "backr",
+  "website": "https://backrsports.com/",
+  "description": "Backr is the Player-First Sports Media Platform.",
+  "one_liner": "Backr is the Player-First Sports Media Platform.",
+  "location": "Kingston, Ontario, Canada",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/BackrSports",
+    "linkedin": "https://linkedin.com/company/backrsports"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/backr",
+  "api": "/api/companies/backr.json"
+}

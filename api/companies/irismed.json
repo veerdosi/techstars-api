@@ -1,0 +1,22 @@
+{
+  "name": "IrisMed",
+  "slug": "irismed",
+  "website": "https://irismed.co/",
+  "description": "IrisMed minimizes revenue leakage and compliance risks for medical facilities and revenue cycle consultancies by creating a domain-specific AI to reduce coding errors, and manage claim denials at scale.",
+  "one_liner": "IrisMed minimizes revenue leakage and compliance risks for medical facilities and revenue cycle consultancies by creating a domain-specific AI to reduce coding errors, and manage claim denials at scale.",
+  "location": "Aurora, Colorado, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/irismed-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/irismed",
+  "api": "/api/companies/irismed.json"
+}

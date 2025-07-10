@@ -1,0 +1,22 @@
+{
+  "name": "OfSpectrum",
+  "slug": "ofspectrum",
+  "website": "https://ofspectrum.com/",
+  "description": "We provide comprehensive voice security and ethical AI solutions in four aspects",
+  "one_liner": "We provide comprehensive voice security and ethical AI solutions in four aspects",
+  "location": "Los Angeles, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/ofspectrum"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ofspectrum",
+  "api": "/api/companies/ofspectrum.json"
+}

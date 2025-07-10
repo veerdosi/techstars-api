@@ -1,0 +1,23 @@
+{
+  "name": "srve",
+  "slug": "srve",
+  "website": "https://srve.co/",
+  "description": "SRVE is a personal chef booking app connecting the social gathering planner to chefs they can hire.",
+  "one_liner": "SRVE is a personal chef booking app connecting the social gathering planner to chefs they can hire.",
+  "location": "Santa Monica, California, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/srve",
+    "facebook": "https://facebook.com/SRVEchefs/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/srve",
+  "api": "/api/companies/srve.json"
+}

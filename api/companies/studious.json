@@ -1,0 +1,24 @@
+{
+  "name": "StudioUS",
+  "slug": "studious",
+  "website": "https://studious.net/",
+  "description": "Studious is creating an AI-powered learning platform that delivers personalized, bite-sized modules tailored to credentialing exams.",
+  "one_liner": "Studious is creating an AI-powered learning platform that delivers personalized, bite-sized modules tailored to credentialing exams.",
+  "location": "New York City, New York, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/studiousnet",
+    "linkedin": "https://linkedin.com/company/studious-technologies",
+    "facebook": "https://facebook.com/StudiousSocial"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/studious",
+  "api": "/api/companies/studious.json"
+}

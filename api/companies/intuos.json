@@ -1,0 +1,22 @@
+{
+  "name": "Intuos",
+  "slug": "intuos",
+  "website": "https://intuos.it/",
+  "description": "We bring digitization and data driven decision to the General Aviation operators, to transform asset management and increase safety and cost efficiency.\r\nWe offer a Digital Service Platform based on software, IoT hardware and ML algorithm solutions to man",
+  "one_liner": "We bring digitization and data driven decision to the General Aviation operators, to transform asset management and increase safety and cost efficiency.\r\nWe offer a Digital Service Platform based on software, IoT hardware and ML algorithm solutions to man",
+  "location": "L Aquila, L'Aquila, Italy",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/intuos-srl"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/intuos",
+  "api": "/api/companies/intuos.json"
+}

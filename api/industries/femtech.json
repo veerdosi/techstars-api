@@ -1,0 +1,810 @@
+[
+  {
+    "name": "Ovia Health",
+    "website": "https://oviahealth.com/",
+    "description": "Accurate fertility monitoring",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/OviaHealth",
+      "linkedin": "https://linkedin.com/company/ovia-health",
+      "facebook": "https://facebook.com/ovuline"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Eli",
+    "website": "https://eli.health/",
+    "description": "Eli enables women to take control of their health across their lives, by providing them with their daily hormone profile.",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/elidothealth",
+      "linkedin": "https://linkedin.com/company/elihealth",
+      "facebook": "https://facebook.com/elidothealth/"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Hormona",
+    "website": "https://hormona.io/",
+    "description": "Digitalized hormonal health powered by AI & at home testing",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/qly2dqitldilpfnhehmk",
+    "location": "Weybridge, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Hormona7",
+      "linkedin": "https://linkedin.com/company/hormona",
+      "facebook": "https://facebook.com/hormona.io"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Lightstream",
+    "website": "https://golightstream.com/",
+    "description": "Formerly Infiniscene. A powerful & intuitive live streaming studio in your browser.  No downloads. No technical wizardry. Absolutely free.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lightstream",
+      "linkedin": "https://linkedin.com/company/golightstream",
+      "facebook": "https://facebook.com/GoLightstream/"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Aunt Flow",
+    "website": "https://goauntflow.com/",
+    "description": "Aunt Flow stocks 100+ organizations with our 100% organic cotton tampons and pads, so companies and schools can offer them for free to employees.",
+    "location": "Columbus, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/goauntflow",
+      "linkedin": "https://linkedin.com/company/10819691",
+      "facebook": "https://facebook.com/pg/goauntflow"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Diem",
+    "website": "https://askdiem.com/",
+    "description": "Diem is a new social platform for womxn-centric communities.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/askdiem",
+      "linkedin": "https://linkedin.com/company/libra-association",
+      "facebook": "https://facebook.com/LibraAssociation/"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Canopie",
+    "website": "https://canopie.app/",
+    "description": "Canopie is a digital platform that provides new moms with personalized, evidence-based therapeutic techniques to prevent and address symptoms of maternal depression and anxiety.",
+    "location": "Falls Church, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Canopiehealth",
+      "linkedin": "https://linkedin.com/company/canopie"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Ground AI",
+    "website": "https://joinground.com/",
+    "description": "Ground is an AI-powered engine for go-to-market teams, unlocking hidden revenue and driving effortless incremental sales.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mycheres",
+      "linkedin": "https://linkedin.com/company/join-ground"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Peeq Industries",
+    "website": "https://peeqpro.com/",
+    "description": "Eyelids are gross. Peeq Pro helps ensure everyone cleans them every day.",
+    "location": "Omaha, Nebraska, United States",
+    "social_media": {},
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "TruSpin Nanomaterial Innovation",
+    "website": "https://tru-spin.com/",
+    "description": "TruSpin is an advanced materials company using a proprietary technique to mass-produce new types of nanofibers.",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/truspin-nanomaterial-innovation"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Lactation Lab",
+    "website": "https://lactationlab.com/",
+    "description": "Lactation Lab provides integrated diagnostic and therapeutic solutions to optimize infant nutrition during the critical First 1000 days of life.",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LactationLab",
+      "linkedin": "https://linkedin.com/company/lactationlab",
+      "facebook": "https://facebook.com/LactationLab/"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Highly Liquid",
+    "website": "https://highlyliquid.xyz/",
+    "description": "A next-generation apparel and product brand backed by emerging technologies.",
+    "location": "Salt Lake City, Utah, United States",
+    "social_media": {},
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "S/O/S",
+    "website": "https://worldofsos.com/",
+    "description": "A retail platform for women that is transforming access to health and wellness products on-the-go #Consumer #Retail #FemTech",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/world_of_sos",
+      "linkedin": "https://linkedin.com/company/world-of-sos",
+      "facebook": "https://facebook.com/worldofsos/"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "ELANZA Wellness",
+    "website": "https://elanzawellness.com/",
+    "description": "ELANZA Wellness is a digital health platform that partners with fertility clinics to provide behavioral coaching and personalized support at scale",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/elanzawellness",
+      "linkedin": "https://linkedin.com/company/elanzawellness",
+      "facebook": "https://facebook.com/ElanzaWellness/"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "The PS Collective",
+    "website": "https://pscollective.co/",
+    "description": "The PS Collective is an online marketplace where women are connected to independent designers who make clothes to fit their shape and style.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/btuzjqfwm5iwnaon9kuw",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/71491086",
+      "facebook": "https://facebook.com/PSCollectiveNYC"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "hey freya",
+    "website": "https://heyfreya.co/",
+    "description": "The first complete health solution just for women",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/t1wiidwbii8ls58azq9d",
+    "location": "Middletown, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/heyfreyaco",
+      "linkedin": "https://linkedin.com/company/heyfreya",
+      "facebook": "https://facebook.com/heyfreya.co"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Dear Doc Singapore",
+    "website": "https://dear-doc.com/",
+    "description": "Dear Doc is simplifying & personalizing healthcare for women in Asia",
+    "location": "Gurgaon, Haryana, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dear-doc",
+      "facebook": "https://facebook.com/DearDoc.SG/"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Nyungu Afrika",
+    "website": "https://nyungu.care/",
+    "description": "Makes pads safe, accessible, and affordable to majority of women and girls.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xikshv01uqbh6wjcdree",
+    "location": "Nairobi, Kenya",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/mary-nyaruai"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Mission-Driven Tech",
+    "website": "https://missiondriventech.com/",
+    "description": "For women that have to receive brachytherapy (internal radiation therapy), we have designed a patient-centered device that minimizes discomfort, improves procedure safety, patient outcomes and access to care.",
+    "location": "Flanders, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mission-driven-tech"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Moonai",
+    "website": "https://moonai.app/",
+    "description": "Neuroscience science-based & personalised sounds app to alleviate period pain & enhance cognitive functions",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/moonaiapp",
+      "linkedin": "https://linkedin.com/company/moonaiapp",
+      "facebook": "https://facebook.com/moonaiapp/"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Flutter Care",
+    "website": "https://fluttercare.com/",
+    "description": "Predict and prevent pregnancy complications.",
+    "location": "Burnaby, British Columbia, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/fluttercareinc",
+      "facebook": "https://facebook.com/fluttercareinc"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Opal Therapeutics",
+    "website": "https://opaltherapeutics.com/",
+    "description": "We provide a \"Uterus in a Dish\" platform, integrating uterine organoid models and AI analysis to accelerate the discovery and development of efficacious therapeutics and products to improve women's health.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/opal-therapeutics"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Ema",
+    "website": "https://emaapp.co/",
+    "description": "SocialMama supports women throughout their motherhood journey - providing access to community, mental and health solutions.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/socialmamaapp",
+      "linkedin": "https://linkedin.com/company/social-mama-app",
+      "facebook": "https://facebook.com/SocialMamaApp"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Comma",
+    "website": "https://yourcomma.com/",
+    "description": "Manufacturer of biodegradable menstrual products intended to help women take care of their health.",
+    "location": "Nashville, Tennessee, United States",
+    "social_media": {},
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Agent Lunar",
+    "website": "https://luniate.ai/",
+    "description": "For SMBs struggling with customer acquisition, our mobile-first SaaS platform equips them with three AI agents who automate the sales, marketing, and CX funnel to supercharge their growth.",
+    "location": "Grand Cayman, George Town, Cayman Islands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/agentlunar"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Jaimee",
+    "website": "https://jaimee.ai/",
+    "description": "The AI companion for women",
+    "location": "East Melbourne, Victoria, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/jaimee"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Gether",
+    "website": "https://gether.life/",
+    "description": "Helping working parents reduce their mental load",
+    "location": "Manly Vale, New South Wales, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/getherlife"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Antares Health",
+    "website": "https://antares.health/",
+    "description": "Antares Health is a medical care company that provides fertility treatments.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/antares-health"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "OYA Femtech Apparel",
+    "website": "https://wearoya.com/",
+    "description": "OYA Femtech Apparel fights feminine health issues for athletes. Our apparel absorbs moisture, reduces bacteria, and increases natural ventilation. Our patent-pending leggings are the first to be designed with doctors to combat the $18B that US women spent last year dealing with feminine health issues (e.g., yeast infections, bacterial vaginosis, and urinary tract infections) because of athleisure, lack of knowledge, poor diet, etc.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wearoya",
+      "linkedin": "https://linkedin.com/company/wearoya",
+      "facebook": "https://facebook.com/WearOYA/"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Vitelle",
+    "website": "https://vitelle.co/",
+    "description": "Vitelle is a data-driven female longevity platform that creates and adapts longevity protocols specifically for the female body. We give women more healthy years in the future by bridging the gap between their health at home and their clinical care.",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/vitelle"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Robyn",
+    "website": "https://wearerobyn.co/",
+    "description": "Robyn connects aspiring, expecting and new parents to providers, resources and community.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/we_are_robyn",
+      "linkedin": "https://linkedin.com/company/wearerobyn",
+      "facebook": "https://facebook.com/Wearerobyn"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Kyri",
+    "website": "https://kyricycles.co/",
+    "description": "The first menstrual health focused smart ring built to encompass the entire female life cycle.",
+    "location": "Tootgarook, Victoria, Australia",
+    "social_media": {},
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "BLOOM",
+    "website": "https://bloomforall.com/",
+    "description": "BLOOM is a digital health platform offering employers comprehensive support in family care, counseling and mental health interventions, and personal well-being programs.",
+    "location": "Gloucester, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bloomforall",
+      "facebook": "https://facebook.com/bloomforallhub/"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Chorus Health",
+    "website": "https://chorushealth.io/",
+    "description": "Digital therapeutic for women's health",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/virtue-io"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Wolomi",
+    "website": "https://wolomi.com/",
+    "description": "BIPOC maternal health e-learning & community",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/_wolomi",
+      "linkedin": "https://linkedin.com/company/wolomi",
+      "facebook": "https://facebook.com/wolomimoms"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Private Packs",
+    "website": "https://privatepacks.com/",
+    "description": "Discreet and sustainable modern solutions that address intimate body part pain",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/privatepacks",
+      "linkedin": "https://linkedin.com/company/private-packs",
+      "facebook": "https://facebook.com/privatepacks/"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Grain Fertility",
+    "website": "https://grainfertility.com/",
+    "description": "Empowering fertility patients through their data",
+    "location": "Silver Spring, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/grain-fertility"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Tot Squad",
+    "website": "https://totsquad.com/",
+    "description": "Telehealth marketplace for new & expecting parents to book health, wellness & safety services (sleep & lactation consulting, car seat installs, babyproofing)",
+    "location": "Sherman Oaks, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TheTotSquad",
+      "linkedin": "https://linkedin.com/company/1945202",
+      "facebook": "https://facebook.com/TheTotSquad"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Embryoxite",
+    "website": "https://embryoxite.life/",
+    "description": "Embryoxite creates non-invasive diagnostic services for pre-implantation embryos used in human-assisted reproduction procedures.",
+    "location": "Florida, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/embryoxite"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Perry",
+    "website": "https://heyperry.com/",
+    "description": "A global community and vetted marketplace for menopause.",
+    "location": "Geneva, Switzerland",
+    "social_media": {
+      "twitter": "https://twitter.com/ohhelloperry",
+      "linkedin": "https://linkedin.com/company/perryapp",
+      "facebook": "https://facebook.com/groups/heyperry"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Group B Labs",
+    "website": "https://linkedin.com/company/groupblabs",
+    "description": "Helping the 92% of new mothers who struggle with feeding by finally revolutionizing bottle prep, feeding data collection, and access to nutritional support.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GroupBLabs",
+      "linkedin": "https://linkedin.com/company/groupblabs",
+      "facebook": "https://facebook.com/groupblabs/"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "DaVinci Wearables",
+    "website": "https://davinciwearables.com/",
+    "description": "Davinci Wearables develops smart undergarments that capture data to inform lifestyle awareness.",
+    "location": "Sunnyvale, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/daVincilace",
+      "linkedin": "https://linkedin.com/company/davinci-wearables",
+      "facebook": "https://facebook.com/DaVinci-Wearables-102093532278394"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Clever Girl Finance",
+    "website": "https://clevergirlfinance.com/",
+    "description": "Online financial education platform for women providing education through bite-size easy to digest online courses and access to an incredible community.",
+    "location": "Annandale, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/clevergirlcgf",
+      "linkedin": "https://linkedin.com/company/clever-girl-finance",
+      "facebook": "https://facebook.com/clevergirlfinance/"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "What She Said App",
+    "website": "https://whatshesaidapp.com/",
+    "description": "A trusted referral app for all women and non-binary out there and the businesses they run, they use and they love.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/what-she-said-inc",
+      "facebook": "https://facebook.com/WhatSheSaidInc"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Seek",
+    "website": "https://seekhealthtest.com/",
+    "description": "Seek is the first at-home lab test that measures how alcohol impacts women's health.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {},
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Gisens Biotech",
+    "website": "https://gisensbiotech.com/",
+    "description": "Revolutionizing diagnostics through nanotechnology",
+    "location": "Berkeley, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GisensB",
+      "linkedin": "https://linkedin.com/company/gisens-biotech-sa"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Gale Payments",
+    "website": "https://withgale.com/",
+    "description": "Gale is the new hassle-free way to accept HSA & FSA payments.",
+    "location": "Lantana, Texas, United States",
+    "social_media": {},
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Besample",
+    "website": "https://besample.app/",
+    "description": "Besample is a data marketplace that empowers research beyond the West. \n\nWith a focus on the growing Global South, Besample provides human-focused researchers across healthcare, industry, and academia with access to primary data from a diverse and representative pool of people in 42 countries of Africa, Asia, Latin America, and CIS.",
+    "location": "Tallahassee, Florida, United States",
+    "social_media": {},
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Expect Fitness",
+    "website": "https://expect.fit/",
+    "description": "Application providing unlimited OBGYN-approved workouts curated for safety during each trimester.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ebbngsoxus4vyobgnuyr",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/expect-fitness"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Cubtale",
+    "website": "https://cubtale.com/",
+    "description": "Solving the problem of sleep deprivation and the lack of easy to use care tracking solutions by simplifying the process to log data.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cubtale",
+      "facebook": "https://facebook.com/cubtale"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Cherry Blossom Intimates",
+    "website": "https://cherryblossomintimates.com/",
+    "description": "Offering breast cancer survivors completely customizable, fully insurance billable post-mastectomy prosthetics with a state-of-the-art fit experience.",
+    "location": "Glenarden, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CBIntimates",
+      "linkedin": "https://linkedin.com/company/cherryblossomintimates",
+      "facebook": "https://facebook.com/CherryBlossomIntimatesUSA/"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Cappella",
+    "website": "https://cappella.io/",
+    "description": "For all the caregivers around a new baby who need to understand its needs better to provide more efficiently and accurately, Cappella builds a super accurate hands-off baby cry translator",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cappella_io",
+      "linkedin": "https://linkedin.com/company/cappella-io",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "xHood",
+    "website": "https://parentxhood.com/",
+    "description": "A community for Black Queer people to build and nurture healthy families and parent happy children.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/moodic7lutvop6lwr6mo",
+    "location": "Woodbridge, Virginia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/xhood",
+      "facebook": "https://facebook.com/community/whats-new/mia-black-lgbtq-moms-why-i-create/"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Rif Care",
+    "website": "https://rifcare.com/",
+    "description": "Rif Care is a first of its kind period care brand making better for you period products with hemp fiber.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/buw8r2dwkrdvwlsmfgeo",
+    "location": "Playa del Rey, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rifcares"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "KEIPhone",
+    "website": "https://keiphoneglobal.com/",
+    "description": "KEIPhone provides free smartphones and solar chargers to unconnected women via an innovative advertising-based revenue model.",
+    "location": "Silver Spring, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/KEIPhoneGlobal",
+      "linkedin": "https://linkedin.com/company/keiphone-global",
+      "facebook": "https://facebook.com/KEIPhoneGlobal"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Apricotton",
+    "website": "https://apricotton.ca/",
+    "description": "Designing bras that grow as you grow, lasting multiple stages of puberty.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/apricotton",
+      "facebook": "https://facebook.com/apricottongirls"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Zumma",
+    "website": "https://tuzumma.com/",
+    "description": "Zumma is a digital platform that connects, teaches, and enables to save and invest for the client's goals.Founded in 2021, the company is based in Mexico.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fzbtnvnijmzmfoxaq6mz",
+    "location": "Lake Mary, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TuZumma",
+      "linkedin": "https://linkedin.com/company/tuzumma",
+      "facebook": "https://facebook.com/Zumma-106559464992605"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "She Matters",
+    "website": "https://shematters.health/",
+    "description": "She Matters is a digital health platform that provides comprehensive maternal care to Black women and cultural competence training to healthcare professionals.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/shematters",
+      "linkedin": "https://linkedin.com/company/she-matters-inc",
+      "facebook": "https://facebook.com/shematters2.us"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Ruth Health",
+    "website": "https://linkedin.com/company/ruthhealth",
+    "description": "Ruth Health is the digital + at-home clinic for pregnant people, collecting the world's largest, most equitable database on maternal health.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RuthWomxn",
+      "linkedin": "https://linkedin.com/company/ruthhealth",
+      "facebook": "https://facebook.com/ruthwomxn"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Poplin",
+    "website": "https://linkedin.com/company/getpoplin",
+    "description": "Poplin is the first pre-pregnancy company, helping couples prepare to get pregnant starting with the most comprehensive reproductive wellness testing on the market.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/poplinapp",
+      "linkedin": "https://linkedin.com/company/getpoplin"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "OVATEMP",
+    "website": "https://linkedin.com/company/ovatemp",
+    "description": "Ovatemp is the only personalized fertility and health management platform for women of all ages.",
+    "location": "Newtonville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ovatemp",
+      "linkedin": "https://linkedin.com/company/ovatemp",
+      "facebook": "https://facebook.com/Ovatemp"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "HandsDown",
+    "website": "https://linkedin.com/company/itshandsdown",
+    "description": "HandsDown lets you explore the 'Top 10 Best Of' from your inner circle.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ey6f1neqnp4un5bzzr6o",
+    "location": "Burlington, Vermont, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/itshandsdown",
+      "facebook": "https://facebook.com/ItsHandsDown"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Circletime Interactive",
+    "website": "https://linkedin.com/company/circletimefun",
+    "description": "Circletime makes online learning for kids socially interactive. Parents see their kids develop artistically, build literacy skills, and so much more.",
+    "location": "Rio de Janeiro, Rio de Janeiro, Brazil",
+    "social_media": {
+      "twitter": "https://twitter.com/Circleti_me",
+      "linkedin": "https://linkedin.com/company/circletimefun",
+      "facebook": "https://facebook.com/CircletimeFun/"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Trousso",
+    "website": "https://linkedin.com/company/trousso",
+    "description": "Trousso is the resale platform making it easier for women to buy and sell outfits for life's biggest moments",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/trousso"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "MamaMend",
+    "website": "https://linkedin.com/company/mamamend",
+    "description": "MamaMend is the personalized companion for new parents that provides fast, relevant answers and curated connections to expert practitioners.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getMamaMend",
+      "linkedin": "https://linkedin.com/company/mamamend",
+      "facebook": "https://facebook.com/getMamaMend/"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "PairTree",
+    "website": "https://linkedin.com/company/pairtree",
+    "description": "Modernizing the antiquated adoption process in the US",
+    "location": "Bainbridge Island, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pairtreefamily",
+      "linkedin": "https://linkedin.com/company/pairtree",
+      "facebook": "https://facebook.com/PairTreeFamily"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  },
+  {
+    "name": "Family+Happy",
+    "website": "https://babysitter.familyhappy.it/",
+    "description": "We revolutionize parents' quality of life by solving their top problems from one platform. We built a unique certification protocol to maximize service trust, quality and velocity.",
+    "location": "Turin, Turin, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/family-happy-babysitter",
+      "facebook": "https://facebook.com/FamilyHappySocial"
+    },
+    "industry": "Femtech",
+    "industry_slug": "femtech"
+  }
+]

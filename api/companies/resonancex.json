@@ -1,0 +1,24 @@
+{
+  "name": "ResonanceX",
+  "slug": "resonancex",
+  "website": "https://linkedin.com/company/resonancex",
+  "description": "ResonanceX is a marketplace transforming and optimising the ways to create, distribute and invest in Structured Investments.",
+  "one_liner": "ResonanceX is a marketplace transforming and optimising the ways to create, distribute and invest in Structured Investments.",
+  "location": "London, United Kingdom",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/resonancex_io",
+    "linkedin": "https://linkedin.com/company/resonancex",
+    "facebook": "https://facebook.com/resonancex.io/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/resonancex",
+  "api": "/api/companies/resonancex.json"
+}

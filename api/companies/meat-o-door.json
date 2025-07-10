@@ -1,0 +1,23 @@
+{
+  "name": "Meat-O-Door",
+  "slug": "meat-o-door",
+  "website": "https://meattodoor.ae/",
+  "description": "Digitizing the Meat Supply Chain for Industry Growth and consumer benefit.",
+  "one_liner": "Digitizing the Meat Supply Chain for Industry Growth and consumer benefit.",
+  "location": "Dubai, United Arab Emirates",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/meatodoor",
+    "facebook": "https://facebook.com/meattodoor.ae"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/meat-o-door",
+  "api": "/api/companies/meat-o-door.json"
+}

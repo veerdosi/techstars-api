@@ -1,0 +1,22 @@
+{
+  "name": "Varkn",
+  "slug": "varkn",
+  "website": "https://varkn.com/",
+  "description": "Valet Hailing Service App. We provide an on-demand airport parking service.",
+  "one_liner": "Valet Hailing Service App. We provide an on-demand airport parking service.",
+  "location": "Smyrna, Delaware, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/varkn"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/varkn",
+  "api": "/api/companies/varkn.json"
+}

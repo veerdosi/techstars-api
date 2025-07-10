@@ -1,0 +1,24 @@
+{
+  "name": "SokoDAO",
+  "slug": "sokodao",
+  "website": "https://linkedin.com/company/soko-network",
+  "description": "Soko is a web3 recruiting community changing the way the world works",
+  "one_liner": "Soko is a web3 recruiting community changing the way the world works",
+  "location": "Lehi, Utah, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/JoinSoko",
+    "linkedin": "https://linkedin.com/company/soko-network",
+    "facebook": "https://facebook.com/sokoincorporated"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sokodao",
+  "api": "/api/companies/sokodao.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Spruce Labs",
+  "slug": "spruce-labs",
+  "website": "https://sprucelabs.ai/",
+  "description": "The creators of Sprucebot, the first ever Guest Experience Bot.",
+  "one_liner": "The creators of Sprucebot, the first ever Guest Experience Bot.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sprucebot",
+    "linkedin": "https://linkedin.com/company/17874277",
+    "facebook": "https://facebook.com/sprucelabsai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/spruce-labs",
+  "api": "/api/companies/spruce-labs.json"
+}

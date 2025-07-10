@@ -1,0 +1,24 @@
+{
+  "name": "Revvo",
+  "slug": "revvo",
+  "website": "https://linkedin.com/company/revvotechnologies",
+  "description": "Revvo provides actionable insights on vehicle tire health through an integrated in-tire sensor + machine learning cloud solution.",
+  "one_liner": "Revvo provides actionable insights on vehicle tire health through an integrated in-tire sensor + machine learning cloud solution.",
+  "location": "San Francisco, California, United States",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/RevvoTech",
+    "linkedin": "https://linkedin.com/company/revvotechnologies",
+    "facebook": "https://facebook.com/RevvoTechnologies"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/revvo",
+  "api": "/api/companies/revvo.json"
+}

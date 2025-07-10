@@ -1,0 +1,22 @@
+{
+  "name": "Foresight Reporting",
+  "slug": "foresight-reporting",
+  "website": "https://tryforesight.io/",
+  "description": "AI-driven platform powered by alternative scoring data and behavior science to help lenders efficiently deploy capital, with less risk.",
+  "one_liner": "AI-driven platform powered by alternative scoring data and behavior science to help lenders efficiently deploy capital, with less risk.",
+  "location": "Kansas City, Missouri, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/tryforesight"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/foresight-reporting",
+  "api": "/api/companies/foresight-reporting.json"
+}

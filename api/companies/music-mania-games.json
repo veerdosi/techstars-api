@@ -1,0 +1,24 @@
+{
+  "name": "Music Mania Games",
+  "slug": "music-mania-games",
+  "website": "https://linkedin.com/company/music-games-company",
+  "description": "We make products at the intersection of music and gaming. Fun, enjoyable experiences that leave a great taste in your mind, and keep you coming back for more.",
+  "one_liner": "We make products at the intersection of music and gaming. Fun, enjoyable experiences that leave a great taste in your mind, and keep you coming back for more.",
+  "location": "Wilmington, Delaware, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/musicgamesco",
+    "linkedin": "https://linkedin.com/company/music-games-company",
+    "facebook": "https://facebook.com/MusicGamesCo"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/music-mania-games",
+  "api": "/api/companies/music-mania-games.json"
+}

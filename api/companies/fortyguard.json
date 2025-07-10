@@ -1,0 +1,23 @@
+{
+  "name": "FortyGuard",
+  "slug": "fortyguard",
+  "website": "https://fortyguard.com/",
+  "description": "Climate technology leader revolutionizing AI-driven temperature intelligence targeting urban heat. We offer tailored, fast, and affordable  solutions, delivering precise, hyper-local maps and smart analytics.",
+  "one_liner": "Climate technology leader revolutionizing AI-driven temperature intelligence targeting urban heat. We offer tailored, fast, and affordable  solutions, delivering precise, hyper-local maps and smart analytics.",
+  "location": "Abu Dhabi, United Arab Emirates",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/fortyguard",
+    "linkedin": "https://linkedin.com/company/fortyguard"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fortyguard",
+  "api": "/api/companies/fortyguard.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "VendorConnect",
+  "slug": "vendorconnect",
+  "website": "https://vendorconnect.ai/",
+  "description": "AI-powered platform that automates operations for freight forwarding, a critical part of the global supply chain.",
+  "one_liner": "AI-powered platform that automates operations for freight forwarding, a critical part of the global supply chain.",
+  "location": "Miami Beach, Florida, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/soojjelm9nww19qo8wyz",
+  "social_media": {
+    "twitter": "https://twitter.com/vendorconnectai",
+    "linkedin": "https://linkedin.com/company/vendorconnect-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vendorconnect",
+  "api": "/api/companies/vendorconnect.json"
+}

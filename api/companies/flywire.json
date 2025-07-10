@@ -1,0 +1,24 @@
+{
+  "name": "FlyWire",
+  "slug": "flywire",
+  "website": "https://flywirecameras.com/",
+  "description": "We work with fishers & seafood suppliers to provide at-sea verification of sustainable fishing, translating video-enabled fisher data into actionable insights",
+  "one_liner": "We work with fishers & seafood suppliers to provide at-sea verification of sustainable fishing, translating video-enabled fisher data into actionable insights",
+  "location": "Lexington, Kentucky, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/flywirecameras",
+    "linkedin": "https://linkedin.com/company/flywire-line-of-sight-cameras",
+    "facebook": "https://facebook.com/flywirecameras/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/flywire",
+  "api": "/api/companies/flywire.json"
+}

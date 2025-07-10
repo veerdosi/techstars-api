@@ -1,0 +1,23 @@
+{
+  "name": "Five Letter Foods",
+  "slug": "five-letter-foods",
+  "website": "https://linkedin.com/company/five-letter-foods",
+  "description": "Not dog food, but real food for dogs without factory farming",
+  "one_liner": "Not dog food, but real food for dogs without factory farming",
+  "location": "Helsinki, Finland",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/fiveletterfoods",
+    "linkedin": "https://linkedin.com/company/five-letter-foods"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/five-letter-foods",
+  "api": "/api/companies/five-letter-foods.json"
+}

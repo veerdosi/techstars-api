@@ -1,0 +1,24 @@
+{
+  "name": "SyncOnSet Technologies",
+  "slug": "synconset-technologies",
+  "website": "https://synconset.com/",
+  "description": "Modern software for TV & Film production management",
+  "one_liner": "Modern software for TV & Film production management",
+  "location": "Los Angeles, California, United States",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SyncOnSet",
+    "linkedin": "https://linkedin.com/company/synconset-technologies",
+    "facebook": "https://facebook.com/synconset/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/synconset-technologies",
+  "api": "/api/companies/synconset-technologies.json"
+}

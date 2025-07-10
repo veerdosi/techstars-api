@@ -1,0 +1,24 @@
+{
+  "name": "Condition One",
+  "slug": "condition-one",
+  "website": "https://linkedin.com/company/condition-one",
+  "description": "Immersive video technology",
+  "one_liner": "Immersive video technology",
+  "location": "Palo Alto, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ConditionOne",
+    "linkedin": "https://linkedin.com/company/condition-one",
+    "facebook": "https://facebook.com/ConditionOne1"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/condition-one",
+  "api": "/api/companies/condition-one.json"
+}

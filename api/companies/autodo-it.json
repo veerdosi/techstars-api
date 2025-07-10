@@ -1,0 +1,24 @@
+{
+  "name": "AutoDo-IT",
+  "slug": "autodo-it",
+  "website": "https://linkedin.com/company/autodo-it",
+  "description": "AutoDo-It is a one-stop-shop community and e-commerce (market-network) platform built to empower the DIY Automotive Markets.",
+  "one_liner": "AutoDo-It is a one-stop-shop community and e-commerce (market-network) platform built to empower the DIY Automotive Markets.",
+  "location": "Alpharetta, Georgia, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/AutodoI",
+    "linkedin": "https://linkedin.com/company/autodo-it",
+    "facebook": "https://facebook.com/AutoDo-It-112359886814540/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/autodo-it",
+  "api": "/api/companies/autodo-it.json"
+}

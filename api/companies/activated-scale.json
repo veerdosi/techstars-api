@@ -1,0 +1,22 @@
+{
+  "name": "Activated Scale",
+  "slug": "activated-scale",
+  "website": "https://activatedscale.com/",
+  "description": "Marketplace connecting startups and small businesses with vetted and experienced freelance sales talent",
+  "one_liner": "Marketplace connecting startups and small businesses with vetted and experienced freelance sales talent",
+  "location": "Evanston, Illinois, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/aac64rj3gn4s5ugnx8hr",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/activatedscale"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/activated-scale",
+  "api": "/api/companies/activated-scale.json"
+}

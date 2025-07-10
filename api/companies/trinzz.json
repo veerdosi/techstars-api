@@ -1,0 +1,22 @@
+{
+  "name": "Trinzz",
+  "slug": "trinzz",
+  "website": "https://trinzz.com/",
+  "description": "For biomedical and life science companies, Trinzz is building the ultimate data stack, leveraging 3D-stacked biomedical AI to accelerate research and discovery.",
+  "one_liner": "For biomedical and life science companies, Trinzz is building the ultimate data stack, leveraging 3D-stacked biomedical AI to accelerate research and discovery.",
+  "location": "Kolkata, West Bengal, India",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/trinzz"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/trinzz",
+  "api": "/api/companies/trinzz.json"
+}

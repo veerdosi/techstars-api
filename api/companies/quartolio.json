@@ -1,0 +1,24 @@
+{
+  "name": "Quartolio",
+  "slug": "quartolio",
+  "website": "https://quartolio.com/",
+  "description": "Quartolio is the Insight Cloud for R&D, synthesizing research leads from the work R&D teams have done and the work that they're doing in real-time.",
+  "one_liner": "Quartolio is the Insight Cloud for R&D, synthesizing research leads from the work R&D teams have done and the work that they're doing in real-time.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/quartolio",
+    "linkedin": "https://linkedin.com/company/quartolio",
+    "facebook": "https://facebook.com/quartolio"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/quartolio",
+  "api": "/api/companies/quartolio.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "SPEEQO",
+  "slug": "speeqo",
+  "website": "https://speeqo.com/",
+  "description": "SPEEQO is speech analysis software for customer contact channels to optimise communication costs and tailor responses using emotion recognition technology.",
+  "one_liner": "SPEEQO is speech analysis software for customer contact channels to optimise communication costs and tailor responses using emotion recognition technology.",
+  "location": "Hong Kong, Hong Kong",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/zalolotb4xn780x3auuo",
+  "social_media": {
+    "twitter": "https://twitter.com/speeqocom",
+    "linkedin": "https://linkedin.com/company/speeqo",
+    "facebook": "https://facebook.com/speeqo"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/speeqo",
+  "api": "/api/companies/speeqo.json"
+}

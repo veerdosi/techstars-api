@@ -1,0 +1,23 @@
+{
+  "name": "Buy Play Win",
+  "slug": "buy-play-win",
+  "website": "https://linkedin.com/company/buyplaywin-inc.",
+  "description": "Combines online shopping with tournament games",
+  "one_liner": "Combines online shopping with tournament games",
+  "location": "Boulder, Colorado, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/BuyPlayWin",
+    "linkedin": "https://linkedin.com/company/buyplaywin-inc."
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/buy-play-win",
+  "api": "/api/companies/buy-play-win.json"
+}

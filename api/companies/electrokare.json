@@ -1,0 +1,22 @@
+{
+  "name": "ElectroKare",
+  "slug": "electrokare",
+  "website": "https://electrokare.com/",
+  "description": "Fitness Software, Biotechnology Research,",
+  "one_liner": "Fitness Software, Biotechnology Research,",
+  "location": "Vernon Hills, Illinois, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/electrocare1"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/electrokare",
+  "api": "/api/companies/electrokare.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Superinsight",
+  "slug": "superinsight",
+  "website": "https://superinsight.ai/",
+  "description": "Empowering Advocates With Trustworthy AI Solutions",
+  "one_liner": "Empowering Advocates With Trustworthy AI Solutions",
+  "location": "West Covina, California, United States",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/superinsightai",
+    "linkedin": "https://linkedin.com/company/superinsight"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/superinsight",
+  "api": "/api/companies/superinsight.json"
+}

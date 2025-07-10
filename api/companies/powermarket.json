@@ -1,0 +1,24 @@
+{
+  "name": "PowerMarket",
+  "slug": "powermarket",
+  "website": "https://powermarket.ai/",
+  "description": "B2B SaaS platform for end-to-end solar management.",
+  "one_liner": "B2B SaaS platform for end-to-end solar management.",
+  "location": "Oxford, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PowerMarketAI",
+    "linkedin": "https://linkedin.com/company/powermarketai",
+    "facebook": "https://facebook.com/PowerMarketAI/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/powermarket",
+  "api": "/api/companies/powermarket.json"
+}

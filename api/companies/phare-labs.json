@@ -1,0 +1,22 @@
+{
+  "name": "Phare Labs",
+  "slug": "phare-labs",
+  "website": "https://pharelabs.com/",
+  "description": "",
+  "one_liner": "",
+  "location": "London, United Kingdom",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/pharelabs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/phare-labs",
+  "api": "/api/companies/phare-labs.json"
+}

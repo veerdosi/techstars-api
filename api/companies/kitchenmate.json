@@ -1,0 +1,24 @@
+{
+  "name": "KitchenMate",
+  "slug": "kitchenmate",
+  "website": "https://kitchenmate.com/",
+  "description": "KitchenMate brings the takeout experience into your office kitchen, like a Keurig for freshly cooked restaurant quality meals.",
+  "one_liner": "KitchenMate brings the takeout experience into your office kitchen, like a Keurig for freshly cooked restaurant quality meals.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/kitchen_mate",
+    "linkedin": "https://linkedin.com/company/kitchenmate",
+    "facebook": "https://facebook.com/mykitchenmate"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kitchenmate",
+  "api": "/api/companies/kitchenmate.json"
+}

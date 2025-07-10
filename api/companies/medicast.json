@@ -1,0 +1,24 @@
+{
+  "name": "Medicast",
+  "slug": "medicast",
+  "website": "https://medicast.com/",
+  "description": "House call doctors on demand.  Acquired in 2016 by Providence St. Joseph Health.",
+  "one_liner": "House call doctors on demand.  Acquired in 2016 by Providence St. Joseph Health.",
+  "location": "Mountain View, California, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/medicast",
+    "linkedin": "https://linkedin.com/company/3068875",
+    "facebook": "https://facebook.com/medicastco"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/medicast",
+  "api": "/api/companies/medicast.json"
+}

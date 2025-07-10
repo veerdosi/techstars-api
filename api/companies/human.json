@@ -1,0 +1,24 @@
+{
+  "name": "human",
+  "slug": "human",
+  "website": "https://myhumanapp.com/",
+  "description": "HUMAN is a storytelling and strategy agency that creates media for social impact.",
+  "one_liner": "HUMAN is a storytelling and strategy agency that creates media for social impact.",
+  "location": "Nashville, Tennessee, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/myhumanapp",
+    "linkedin": "https://linkedin.com/company/myhumanapp",
+    "facebook": "https://facebook.com/MyHumanApp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/human",
+  "api": "/api/companies/human.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Think  Confluent",
+  "slug": "think-confluent",
+  "website": "https://thinkconfluent.com/",
+  "description": "Moone is a safe-space that helps team leaders understand their employees' needs in 5 minutes/week, no matter where they work.",
+  "one_liner": "Moone is a safe-space that helps team leaders understand their employees' needs in 5 minutes/week, no matter where they work.",
+  "location": "Paris, France",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/moone_hq",
+    "linkedin": "https://linkedin.com/company/thinkconfluent"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/think-confluent",
+  "api": "/api/companies/think-confluent.json"
+}

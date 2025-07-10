@@ -1,0 +1,24 @@
+{
+  "name": "GET DUCK",
+  "slug": "get-duck",
+  "website": "https://getduck.io/",
+  "description": "Get DUCK is a mobile ordering solution for sporting venues.\n\nTo view the company one-page summary click here - https://app.buildmemo.com/s/fnbb5g",
+  "one_liner": "Get DUCK is a mobile ordering solution for sporting venues.\n\nTo view the company one-page summary click here - https://app.buildmemo.com/s/fnbb5g",
+  "location": "Melbourne, Victoria, Australia",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getduck_io",
+    "linkedin": "https://linkedin.com/company/get-duck",
+    "facebook": "https://facebook.com/getduck.io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/get-duck",
+  "api": "/api/companies/get-duck.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Helgen Technologies",
+  "slug": "helgen-technologies",
+  "website": "https://helgen.tech/",
+  "description": "YOUR AUTOMATED WORKFORCE",
+  "one_liner": "YOUR AUTOMATED WORKFORCE",
+  "location": "Killorglin, Ireland",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/helgentech",
+    "linkedin": "https://linkedin.com/company/helgen",
+    "facebook": "https://facebook.com/ipt.trainers/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/helgen-technologies",
+  "api": "/api/companies/helgen-technologies.json"
+}

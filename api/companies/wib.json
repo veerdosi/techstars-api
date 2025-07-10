@@ -1,0 +1,22 @@
+{
+  "name": "Wib",
+  "slug": "wib",
+  "website": "https://wenspiredata.com/",
+  "description": "Based on a new scientific model, Wenspire is the first to introduce a disruptive secure-by-design solution to protect, insure and safely share data with 3rd parties.",
+  "one_liner": "Based on a new scientific model, Wenspire is the first to introduce a disruptive secure-by-design solution to protect, insure and safely share data with 3rd parties.",
+  "location": "Tel Aviv, Israel",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/wibsecurity"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/wib",
+  "api": "/api/companies/wib.json"
+}

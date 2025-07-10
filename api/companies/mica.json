@@ -1,0 +1,24 @@
+{
+  "name": "Mica",
+  "slug": "mica",
+  "website": "https://mica.rent/",
+  "description": "Mica solves the biggest pain points for tenants. It allows them to: - Rent the apartment they desire - Have their bill payments automated - Have financial flexibility, reduced move-in costs, and access to an emergency credit (BNPL) - Improve their credit",
+  "one_liner": "Mica solves the biggest pain points for tenants. It allows them to: - Rent the apartment they desire - Have their bill payments automated - Have financial flexibility, reduced move-in costs, and access to an emergency credit (BNPL) - Improve their credit",
+  "location": "Mexico City, Federal District, Mexico",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/funaien9dubvu7vwabu7",
+  "social_media": {
+    "twitter": "https://twitter.com/MICA_Insurance",
+    "linkedin": "https://linkedin.com/company/mica.insurance",
+    "facebook": "https://facebook.com/MICA.Insurance/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mica",
+  "api": "/api/companies/mica.json"
+}

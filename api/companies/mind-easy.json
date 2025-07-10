@@ -1,0 +1,23 @@
+{
+  "name": "Mind-Easy",
+  "slug": "mind-easy",
+  "website": "https://mind-easy.com/",
+  "description": "Redefining global mental healthcare.",
+  "one_liner": "Redefining global mental healthcare.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lxm9eq61zef5vxksghpf",
+  "social_media": {
+    "twitter": "https://twitter.com/mind__easy",
+    "linkedin": "https://linkedin.com/company/mindeasy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mind-easy",
+  "api": "/api/companies/mind-easy.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Sourcery",
+  "slug": "sourcery",
+  "website": "https://sourcery.ai/",
+  "description": "Powering developers to write beautiful, clear code all the time through real time refactoring. Improving code for 1k+ developers/week & teams at top companies.",
+  "one_liner": "Powering developers to write beautiful, clear code all the time through real time refactoring. Improving code for 1k+ developers/week & teams at top companies.",
+  "location": "London, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SourceryAI",
+    "linkedin": "https://linkedin.com/company/sourcery-ai",
+    "facebook": "https://facebook.com/sourceryai/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sourcery",
+  "api": "/api/companies/sourcery.json"
+}

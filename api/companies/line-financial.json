@@ -1,0 +1,24 @@
+{
+  "name": "Line Financial",
+  "slug": "line-financial",
+  "website": "https://useline.com/",
+  "description": "Reimagining money as a consumer product : https://soapbox.wistia.com/videos/zMoFIJABtu",
+  "one_liner": "Reimagining money as a consumer product : https://soapbox.wistia.com/videos/zMoFIJABtu",
+  "location": "San Francisco, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/linefinancial",
+    "linkedin": "https://linkedin.com/company/lineappofficial",
+    "facebook": "https://facebook.com/lineappofficial"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/line-financial",
+  "api": "/api/companies/line-financial.json"
+}

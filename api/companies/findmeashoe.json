@@ -1,0 +1,24 @@
+{
+  "name": "Findmeashoe",
+  "slug": "findmeashoe",
+  "website": "https://linkedin.com/company/findmeashoe.com",
+  "description": "A footwear recommendation app",
+  "one_liner": "A footwear recommendation app",
+  "location": "Bengaluru, Karnataka, India",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1463463559/gz3i5alhly99cgightnu.png",
+  "social_media": {
+    "twitter": "https://twitter.com/genie_shoe",
+    "linkedin": "https://linkedin.com/company/findmeashoe.com",
+    "facebook": "https://facebook.com/findmeashoe/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/findmeashoe",
+  "api": "/api/companies/findmeashoe.json"
+}

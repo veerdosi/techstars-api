@@ -1,0 +1,22 @@
+{
+  "name": "snapland",
+  "slug": "snapland",
+  "website": "https://snapland.ai/",
+  "description": "snapland helps real estate companies find hidden market opportunities.",
+  "one_liner": "snapland helps real estate companies find hidden market opportunities.",
+  "location": "Tel Aviv, Israel",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/snapland"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/snapland",
+  "api": "/api/companies/snapland.json"
+}

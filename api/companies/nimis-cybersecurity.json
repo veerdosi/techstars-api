@@ -1,0 +1,23 @@
+{
+  "name": "NIMIS Cybersecurity",
+  "slug": "nimis-cybersecurity",
+  "website": "https://nimis.ai/",
+  "description": "Real time penetration testing using artificial intelligence",
+  "one_liner": "Real time penetration testing using artificial intelligence",
+  "location": "Melbourne, Victoria, Australia",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/NIMISCyber",
+    "linkedin": "https://linkedin.com/company/nimis-cybersecurity"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nimis-cybersecurity",
+  "api": "/api/companies/nimis-cybersecurity.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Treepz",
+  "slug": "treepz",
+  "website": "https://ng.treepz.com/",
+  "description": "Nigeria's premier ride-hailing solution app that allows commuters to book and pay for fast and convenient trips in real-time.",
+  "one_liner": "Nigeria's premier ride-hailing solution app that allows commuters to book and pay for fast and convenient trips in real-time.",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PlentywakaNG",
+    "linkedin": "https://linkedin.com/company/plentywaka",
+    "facebook": "https://facebook.com/plentywaka.ng.18"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/treepz",
+  "api": "/api/companies/treepz.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Flaist",
+  "slug": "flaist",
+  "website": "https://flaist.com/",
+  "description": "Solving the last mile challenge of customer experience for Banks and Financial Institutions through an AI-powered framework.",
+  "one_liner": "Solving the last mile challenge of customer experience for Banks and Financial Institutions through an AI-powered framework.",
+  "location": "Dublin, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/%20flaist_hq",
+    "linkedin": "https://linkedin.com/company/flaist"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/flaist",
+  "api": "/api/companies/flaist.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "GETELEVENAPP",
+  "slug": "getelevenapp",
+  "website": "https://getelevenapp.com/",
+  "description": "Let's crank 1:1s to eleven!",
+  "one_liner": "Let's crank 1:1s to eleven!",
+  "location": "White Bear Lake, Minnesota, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/yoursecondcall",
+    "linkedin": "https://linkedin.com/company/getelevenapp",
+    "facebook": "https://facebook.com/yoursecondcall/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/getelevenapp",
+  "api": "/api/companies/getelevenapp.json"
+}

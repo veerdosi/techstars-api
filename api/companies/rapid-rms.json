@@ -1,0 +1,24 @@
+{
+  "name": "Rapid RMS",
+  "slug": "rapid-rms",
+  "website": "https://rapidrms.com/",
+  "description": "Rapid RMS provides iPad and cloud-based retail technology for convenience stores, liquor stores and gas stations.",
+  "one_liner": "Rapid RMS provides iPad and cloud-based retail technology for convenience stores, liquor stores and gas stations.",
+  "location": "Chattanooga, Tennessee, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/rapidrms",
+    "linkedin": "https://linkedin.com/company/rapid-rms",
+    "facebook": "https://facebook.com/Rapidrms"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rapid-rms",
+  "api": "/api/companies/rapid-rms.json"
+}

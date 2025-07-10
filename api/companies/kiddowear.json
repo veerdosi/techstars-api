@@ -1,0 +1,24 @@
+{
+  "name": "KiddoWear",
+  "slug": "kiddowear",
+  "website": "https://kiddowear.com/",
+  "description": "Pediatric remote monitoring platform for virtual care",
+  "one_liner": "Pediatric remote monitoring platform for virtual care",
+  "location": "San Francisco, California, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/m9kuyrtd3hbghketz3io",
+  "social_media": {
+    "twitter": "https://twitter.com/kiddoimpact",
+    "linkedin": "https://linkedin.com/company/leo-technologies-ltd",
+    "facebook": "https://facebook.com/@kiddoimpact"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kiddowear",
+  "api": "/api/companies/kiddowear.json"
+}

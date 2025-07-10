@@ -1,0 +1,23 @@
+{
+  "name": "Rook",
+  "slug": "rook",
+  "website": "https://tryrook.io/",
+  "description": "A wearable API that transforms health data and empowers apps and software with actionable insights. Our API empowers companies with more meaningful health data.",
+  "one_liner": "A wearable API that transforms health data and empowers apps and software with actionable insights. Our API empowers companies with more meaningful health data.",
+  "location": "Miami, Florida, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/tryrookio",
+    "facebook": "https://facebook.com/RookMotion/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rook",
+  "api": "/api/companies/rook.json"
+}

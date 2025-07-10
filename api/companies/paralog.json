@@ -1,0 +1,22 @@
+{
+  "name": "Paralog",
+  "slug": "paralog",
+  "website": "https://paralog.ai/",
+  "description": "Paralog is an AI platform to democratize and accelerate production of NPC behaviors in video games.",
+  "one_liner": "Paralog is an AI platform to democratize and accelerate production of NPC behaviors in video games.",
+  "location": "Montréal, Quebec, Canada",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/paralog-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/paralog",
+  "api": "/api/companies/paralog.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Sprout Wellness Solutions",
+  "slug": "sprout-wellness-solutions",
+  "website": "https://sproutatwork.com/",
+  "description": "Take Corporate Wellness to the next level",
+  "one_liner": "Take Corporate Wellness to the next level",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SproutAtWork",
+    "linkedin": "https://linkedin.com/company/sprout-wellness-solutions-inc",
+    "facebook": "https://facebook.com/Sproutatwork"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sprout-wellness-solutions",
+  "api": "/api/companies/sprout-wellness-solutions.json"
+}

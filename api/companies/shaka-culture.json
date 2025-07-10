@@ -1,0 +1,24 @@
+{
+  "name": "Shaka Culture",
+  "slug": "shaka-culture",
+  "website": "https://joinshaka.com/",
+  "description": "Shaka is a virtual employee experience platform helping companies boost employee engagement and build culture via virtual team-bonding tools.",
+  "one_liner": "Shaka is a virtual employee experience platform helping companies boost employee engagement and build culture via virtual team-bonding tools.",
+  "location": "Irvine, California, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/JoinShaka",
+    "linkedin": "https://linkedin.com/company/shakacultureapp",
+    "facebook": "https://facebook.com/ShakaCultureApp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/shaka-culture",
+  "api": "/api/companies/shaka-culture.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Prosporus",
+  "slug": "prosporus",
+  "website": "https://prosporus.com/",
+  "description": "We simplify personal finances for the 78% of Americans living paycheck to paycheck. Traditional finance apps fail because they focus on past spending. Prosporus is different. We give users a forward-looking forecast of their finances, based on real choices--not wishful thinking. We offer actionable steps to improve their financial situation throughout the month. Our Finance App builds trust and sets the stage for future money movement and embedded finance--all in one easy-to-use app.",
+  "one_liner": "We simplify personal finances for the 78% of Americans living paycheck to paycheck. Traditional finance apps fail because they focus on past spending. Prosporus is different. We give users a forward-looking forecast of their finances, based on real choices--not wishful thinking. We offer actionable steps to improve their financial situation throughout the month. Our Finance App builds trust and sets the stage for future money movement and embedded finance--all in one easy-to-use app.",
+  "location": "Santa Monica, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/prosporus"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/prosporus",
+  "api": "/api/companies/prosporus.json"
+}

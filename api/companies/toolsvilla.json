@@ -1,0 +1,23 @@
+{
+  "name": "Toolsvilla",
+  "slug": "toolsvilla",
+  "website": "https://toolsvilla.com/",
+  "description": "A Digital Marketplace for Machinery, Tools & Equipment that solve operational inefficiencies in the farm & food businesses of India.",
+  "one_liner": "A Digital Marketplace for Machinery, Tools & Equipment that solve operational inefficiencies in the farm & food businesses of India.",
+  "location": "Durgapur, West Bengal, India",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/toolsvilla",
+    "facebook": "https://facebook.com/toolsvilla/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/toolsvilla",
+  "api": "/api/companies/toolsvilla.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SökerData",
+  "slug": "s-kerdata",
+  "website": "https://soker-data.com/",
+  "description": "SokerData is a biotechnology company that provides research, and data analysis solutions for disease-related datasets.",
+  "one_liner": "SokerData is a biotechnology company that provides research, and data analysis solutions for disease-related datasets.",
+  "location": "London, England, United Kingdom",
+  "industry": "Big Data",
+  "industry_slug": "big-data",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/soker-data"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/s-kerdata",
+  "api": "/api/companies/s-kerdata.json"
+}

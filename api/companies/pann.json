@@ -1,0 +1,22 @@
+{
+  "name": "Pann",
+  "slug": "pann",
+  "website": "https://pann.app/",
+  "description": "Quick and easy working capital for SMBs through AI-assisted guidance",
+  "one_liner": "Quick and easy working capital for SMBs through AI-assisted guidance",
+  "location": "Porter Ranch, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/panncapital"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pann",
+  "api": "/api/companies/pann.json"
+}

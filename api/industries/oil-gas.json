@@ -1,0 +1,730 @@
+[
+  {
+    "name": "Urban Sky",
+    "website": "https://urbansky.space/",
+    "description": "Developing stratospheric Microballoons to capture the freshest, high-res earth observation data.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/urban-sky-imaging",
+      "facebook": "https://facebook.com/theurbansky/"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Pretred",
+    "website": "https://pretred.com/",
+    "description": "Pretred recycles waste tires and repurposes them into barriers/blocks that are green, competitively priced, and offer greater benefits vs. concrete.",
+    "location": "Aurora, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pretred"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "HData",
+    "website": "https://hdata.us/",
+    "description": "Delivering Smarter Compliance for the Energy Sector and Beyond",
+    "location": "Joliet, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HDataUS",
+      "linkedin": "https://linkedin.com/company/hdata"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Graphite Innovation and Technologies",
+    "website": "https://grapheneenterprise.ca/",
+    "description": "Canada's leading protective marine coatings company specialized in high-performance coatings for large vessels that reduce fuel consumption and GHG",
+    "location": "Dartmouth, Nova Scotia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/GIT_Graphene",
+      "linkedin": "https://linkedin.com/company/grapheneenterprise"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Ecolectro",
+    "website": "https://ecolectro.com/",
+    "description": "Reducing the cost of green hydrogen by 33%.",
+    "location": "Ithaca, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ecolectroinc",
+      "linkedin": "https://linkedin.com/company/ecolectro-inc-",
+      "facebook": "https://facebook.com/ecolectroinc"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Interface Fluidics",
+    "website": "https://interfacefluidics.com/",
+    "description": "Increase oil recovery through rapid fluid analysis under reservoir conditions",
+    "location": "Calgary, Alberta, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/interfacefluids",
+      "linkedin": "https://linkedin.com/company/interface-fluidics"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Noteworthy AI",
+    "website": "https://noteworthy.ai/",
+    "description": "Noteworthy provides vehicle mounted cameras and AI to help electric utilities collect and analyze imagery on distribution assets at scale",
+    "location": "Stamford, Connecticut, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/noteworthyai",
+      "linkedin": "https://linkedin.com/company/noteworthy-ai",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "SATIM",
+    "website": "https://satim.pl/",
+    "description": "Providing satellite radar-based intelligence for decision makers.",
+    "location": "Kraków, Poland",
+    "social_media": {
+      "twitter": "https://twitter.com/SatimMonitoring",
+      "linkedin": "https://linkedin.com/company/satimco",
+      "facebook": "https://facebook.com/satimmonitoring/"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "aliciabots",
+    "website": "https://aliciabots.com/",
+    "description": "Robotics start-up building the cheapest and most effective autonomous, robotic hull cleaning solution for ocean-going vessels",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/aliciabots",
+      "facebook": "https://facebook.com/Aliciabots-622715641695559/"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Partsimony",
+    "website": "https://partsimony.com/",
+    "description": "Partsimony is your manufacturing supply chain superpower in a world of uncertainty.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/partsimony",
+      "linkedin": "https://linkedin.com/company/partsimony",
+      "facebook": "https://facebook.com/inventaprint/"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Dimeq",
+    "website": "https://dimeq.no/",
+    "description": "No more lives lost at sea with nextgen IoT",
+    "location": "Kalvåg, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dimeq",
+      "facebook": "https://facebook.com/Dimeq.norway/"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Loris",
+    "website": "https://getloris.com/",
+    "description": "MFlux provides a connected network for industrial job site intelligence using our proprietary battery-powered, IoT light-towers.",
+    "location": "Columbus, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MFluxLighting",
+      "linkedin": "https://linkedin.com/company/loris-ai",
+      "facebook": "https://facebook.com/lorisaitech"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Kanda",
+    "website": "https://kanda.dk/",
+    "description": "Using Virtual Reality to make training in heavy industries (maritime, energy, airline, manufacturing) more effective, and cost efficient.",
+    "location": "Aarhus, Denmark",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kanda",
+      "facebook": "https://facebook.com/kanda3d"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Cnergreen",
+    "website": "https://cnergreen.ca/",
+    "description": "Enhanced oil recovery and CO2 storage efficiency via resilient nanoparticle-based foam technology",
+    "location": "Calgary, Alberta, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cnergreen"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Ellipsis Drive",
+    "website": "https://ellipsis-drive.com/",
+    "description": "Ellipsis Drive is a cloud native plug and play solution for collaborating, sharing, and selling spatial data the easy way.",
+    "location": "Ede, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/EllipsisDrive",
+      "linkedin": "https://linkedin.com/company/ellipsis-drive",
+      "facebook": "https://facebook.com/ellipsisdrive"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Sees",
+    "website": "https://sees.ai/",
+    "description": "Unlocking aerial data capture at scale, by providing clients with a solution that enables the remote operation of drones from a central control room.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/sees_ai",
+      "linkedin": "https://linkedin.com/company/sees-ai"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "TruSpin Nanomaterial Innovation",
+    "website": "https://tru-spin.com/",
+    "description": "TruSpin is an advanced materials company using a proprietary technique to mass-produce new types of nanofibers.",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/truspin-nanomaterial-innovation"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "OE Systems AB",
+    "website": "https://oe-systems.com/",
+    "description": "A product and service company that delivers our own commercial wave energy solution that focuses on being installed in parallel with offshore wind turbines to enable increased production.",
+    "location": "Göteborg, Sweden",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oe-systems-ab"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Deepflow AI",
+    "website": "https://deepflow.ai/",
+    "description": "Deepflow is a visual inspection platform that empowers industrial manufacturers to automate quality control processes with machine vision.",
+    "location": "Bordeaux, France",
+    "social_media": {
+      "twitter": "https://twitter.com/deepflowai",
+      "linkedin": "https://linkedin.com/company/thinkdeep-ai"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Infinite Composites Technologies",
+    "website": "https://infinitecomposites.com/",
+    "description": "The most efficient gas storage systems in the universe.",
+    "location": "Tulsa, Oklahoma, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Infinite_C_T",
+      "linkedin": "https://linkedin.com/company/infinite-composites",
+      "facebook": "https://facebook.com/InfiniteComposites"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Nditive",
+    "website": "https://nditive.com/",
+    "description": "AI-powered digital twin-driven gas monitoring system",
+    "location": "St. John's, Newfoundland and Labrador, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nditive"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "f3nice",
+    "website": "https://f3nice.com/",
+    "description": "Circular economy for additive manufacturing",
+    "location": "Milan, Milan, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/f3nice"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "TerraManta",
+    "website": "https://terramanta.com/",
+    "description": "Financial markets intelligence",
+    "location": "Irvine, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TerraManta",
+      "linkedin": "https://linkedin.com/in/leonkotovich"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Athion",
+    "website": "https://athion.io/",
+    "description": "Athion revolutionizes industrial automation collaboration with our patent-pending software platform that streamlines engineering design evaluation, minimizes costly late changes, and enhances communication across liquid manufacturing projects and the lifecycle of the facility.",
+    "location": "Chesterfield, Missouri, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/athion-io"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "ComputerWell",
+    "website": "https://computerwell.com/",
+    "description": "Delivers a digital twin of the drillstring for operational surveillance.",
+    "location": "Jakobsli, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/computerwell"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Volteo Maritime",
+    "website": "https://volteo.com/",
+    "description": "Reimagining maritime by digitalizing vessel operations management and fostering collaboration between ship and shore.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "twitter": "https://twitter.com/volteotech",
+      "linkedin": "https://linkedin.com/company/volteomaritime",
+      "facebook": "https://facebook.com/Volteo-Maritime-101416344909095"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "SanChip",
+    "website": "https://sanchip.net/",
+    "description": "SanChip gives machine owners peace of mind by enabling the move to Predictive Maintenance strategies, thanks to real-time, remote monitoring of machines",
+    "location": "Capannori, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sanchip"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "qualiTEAS",
+    "website": "https://qualiteas.ca/",
+    "description": "qualiTEAS is a corrosion inspection and management company, aiming to transform asset integrity inspection practices with its AI solution.",
+    "location": "St. John's, Newfoundland and Labrador, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/qualiteas-inc"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Marine Edge",
+    "website": "https://marine-edge.com/",
+    "description": "Regenerative power management for marine transportation, optimizing propulsion efficiency to reduce fuel consumption for commercial vessels.",
+    "location": "Haifa, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/marine-edge",
+      "facebook": "https://facebook.com/MARINE-EDGE-103036722047767"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "SICDRONE",
+    "website": "https://sicdrone.com/",
+    "description": "Unmanned Aircraft Manufacturer for DoD/Commercial use",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sicdrone",
+      "linkedin": "https://linkedin.com/company/sicdrone",
+      "facebook": "https://facebook.com/SICdrone/"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "ProductionAR",
+    "website": "https://productionar.com/",
+    "description": "Computer vision enabled high performance augmented reality.  Digitizing the Supply Chain.",
+    "location": "Edmonton, Alberta, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/productionar",
+      "facebook": "https://facebook.com/Production-AR-100386914773033/"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Norsjór AS",
+    "website": "https://norsjor.no/",
+    "description": "Norsjor has designed a technology to preserve marine life by using radiation.",
+    "location": "Kristiansand, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/norsjor-as"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Neomare",
+    "website": "https://neomare.no/",
+    "description": "Neomare is a developer of environmental technology platform providing seismic imaging using a containerized modular survey platform.",
+    "location": "Lillestrøm, Norway",
+    "social_media": {
+      "twitter": "https://twitter.com/NGeoservices",
+      "linkedin": "https://linkedin.com/company/neomare-as"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "WalletCard",
+    "website": "https://mywalletcard.com/",
+    "description": "WalletCard is a collaborative compliance platform for issuing, tracking and managing verified occupational health & safety requirements.",
+    "location": "Delta, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/mywalletcard",
+      "linkedin": "https://linkedin.com/company/walletcard-inc",
+      "facebook": "https://facebook.com/mywalletcard"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Revolute Robotics",
+    "website": "https://revoluterobotics.com/",
+    "description": "Autonomous, energy-efficient robot that's capable of both rolling and flying",
+    "location": "Scottsdale, Arizona, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/revoluterobotics",
+      "facebook": "https://facebook.com/revoluterobotics"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Hyperion Global Energy",
+    "website": "https://hyperionenergy.ca/",
+    "description": "Developing modular carbon capture & recycling technology at a breakthrough industrial scale.",
+    "location": "Ottawa, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hyperion-global-energy"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Geolumina",
+    "website": "https://geolumina.ai/",
+    "description": "Intuitive AI with geologic insight",
+    "location": "Lakeway, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/geolumina"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "EnergyHawk",
+    "website": "https://energyhawk.co/",
+    "description": "Satellite Powered Energy Assessments, designed to accelerate the growth of distributed energy solutions.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EnergyHawk",
+      "linkedin": "https://linkedin.com/company/energyhawkinc",
+      "facebook": "https://facebook.com/EnergyHawkInc/"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Cognittiv",
+    "website": "https://rzxtecnologia.com.br/",
+    "description": "Minimizing human error in industry",
+    "location": "Grand Cayman, Cayman Islands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rzx-tecnologia",
+      "facebook": "https://facebook.com/rzxtecnologia/"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Autonopia",
+    "website": "https://autonopia.com/",
+    "description": "Autonomous robots designed for cleaning building windows.",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/autonopia",
+      "linkedin": "https://linkedin.com/company/autonopia"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Whale Seeker",
+    "website": "https://whaleseeker.com/",
+    "description": "We build fast, automated, accurate, and user-friendly whale detection tools that empower all decision-makers to develop more sustainable business practices.",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/Whale_Seeker",
+      "linkedin": "https://linkedin.com/company/whaleseeker"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Carbonext",
+    "website": "https://carbonextinc.com/",
+    "description": "At Carbonext Inc., we are developing a circularity strategy that retrofits existing architectures to produce industrial grade graphene in a cost-effective, scalable and environmentally friendly manner. Our technology addresses the pains of graphite users",
+    "location": "Houston, Texas, United States",
+    "social_media": {},
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Khepra",
+    "website": "https://khepra.io/",
+    "description": "We make reactors that are fully electrified and make chemicals 80% faster. Our chemical products are made from wastes from farms, forestry and plastics.",
+    "location": "Reno, Nevada, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/khepra"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "SAILWINT",
+    "website": "https://sailwint.com/",
+    "description": "SAILWINT produces and delivers cheap, clean and resilient hydrogen at scale with autonomous wind turbine ships sailing offshore seas",
+    "location": "Berlin, Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sailwint"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Nido Robotics",
+    "website": "https://nidorobotics.com/",
+    "description": "At Nido Robotics we help shipowners, fish farmers, and similar companies reduce their underwater inspection and maintenance costs through robotics.",
+    "location": "Murcia, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/nidorobotics",
+      "linkedin": "https://linkedin.com/company/nidorobotics",
+      "facebook": "https://facebook.com/nidorobotics.eu/"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Strayos",
+    "website": "https://strayos.com/",
+    "description": "Strayos is a visual AI platform using computer vision, drones and sensor data to map subsurface for underground object detection",
+    "location": "Buffalo, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/StrayosAI",
+      "linkedin": "https://linkedin.com/company/strayos",
+      "facebook": "https://facebook.com/strayos/"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "TerraWaste",
+    "website": "https://terrawaste.tech/",
+    "description": "Waste-to-material (WTM) process converting plastic into feedstock",
+    "location": "Riga, Latvia",
+    "social_media": {
+      "twitter": "https://twitter.com/WasteTerra",
+      "linkedin": "https://linkedin.com/company/terrawaste"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Maygia",
+    "website": "https://maygia.com/",
+    "description": "Device using hydrogen to clean water while producing electricity",
+    "location": "Haifa, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/maygia"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "AlphaBBL",
+    "website": "https://alphabbl.com/",
+    "description": "An energy analytics company that uses aerial imagery to monitor oil storage facilities to provide tradable insights and analysis.",
+    "location": "Union City, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/alphabbl",
+      "linkedin": "https://linkedin.com/company/alpha-barrel"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "BOxES 4",
+    "website": "https://boxesdevices.com/",
+    "description": "We're powering the future of retail combining physical and digital technology to democratize convenient, space-efficient, affordable & sustainable retail!",
+    "location": "Minneapolis, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Boxesdevices",
+      "linkedin": "https://linkedin.com/company/boxes-dispositivos-dispensadores",
+      "facebook": "https://facebook.com/Boxes-dispositivos-dispensadores-103733117941696"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "TMA",
+    "website": "https://tmaiot.com/",
+    "description": "TMA, The Hazardous Goods Companion",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/margaux-pages"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Bob's Containers",
+    "website": "https://bobscontainers.com/",
+    "description": "We build fast, affordable, and profitable housing solutions from shipping containers.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fxhqmvnq8ome60kuqzxz",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bobscontainers",
+      "linkedin": "https://linkedin.com/company/bobs-containers",
+      "facebook": "https://facebook.com/bobscontainers"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "OffGridBox",
+    "website": "https://offgridbox.com/",
+    "description": "The world's most powerful modular and compact unit that provides renewable energy and clean water in remote areas and developing countries.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/OffGridBox",
+      "linkedin": "https://linkedin.com/company/offgridbox",
+      "facebook": "https://facebook.com/offgridbox/"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Eskuad",
+    "website": "https://eskuad.com/",
+    "description": "A mobile-first data platform that empowers field workers, by providing a user-friendly interface and seamless offline operability.",
+    "location": "Portland, Maine, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Eskuadcom",
+      "linkedin": "https://linkedin.com/company/eskuad",
+      "facebook": "https://facebook.com/eskuadcom"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "InFLOWS",
+    "website": "https://designflow.inflows-ai.com/",
+    "description": "InFLOWS AI provides toolboxes that augment R&D chemists to design products 10X faster & cleaner.",
+    "location": "Paris, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/inflowsai"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "EnviCore",
+    "website": "https://envicoreinc.com/",
+    "description": "EnviCore aspires to revolutionize current tailings mitigation practices and promote a circular economy in the mining sector.",
+    "location": "Calgary, Alberta, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/EnvicoreI",
+      "linkedin": "https://linkedin.com/company/envicore-inc"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Cybrik",
+    "website": "https://cybrik.ai/",
+    "description": "Cybrik's cloud based engineering management and automation platform helps engineering and construction teams  save time, avoid rework, and manage change",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cybrik",
+      "linkedin": "https://linkedin.com/company/cybrikai"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Meknology",
+    "website": "https://meknology.com/",
+    "description": "Sustainable wastewater up-cycling and drinking water distillation.",
+    "location": "Southfield, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/meknology"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "4Point AI",
+    "website": "https://4point.ai/",
+    "description": "AI/ML for predictive ore mapping, helping junior mines accurately drill future cores.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/4point-ai"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "OXON Technologies",
+    "website": "https://oxon-tech.com/",
+    "description": "The Fuel Matrix helps ocean-going vessels reduce fuel consumption and emissions by improving conventional liquid fuels for more efficient, cleaner combustion.",
+    "location": "Henderson, Nevada, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oxon-tech-fuelmatrix",
+      "facebook": "https://facebook.com/Fuel-Matrix-842225212559146/"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  },
+  {
+    "name": "Merklebot",
+    "website": "https://linkedin.com/company/merklebot",
+    "description": "Connecting universe to metaverse",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MerkleB0t",
+      "linkedin": "https://linkedin.com/company/merklebot",
+      "facebook": "https://facebook.com/MerkleBot/"
+    },
+    "industry": "Oil and gas",
+    "industry_slug": "oil-gas"
+  }
+]

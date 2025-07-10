@@ -1,0 +1,24 @@
+{
+  "name": "trace",
+  "slug": "trace",
+  "website": "https://trace.tech/",
+  "description": "trace is a hardware-enabled software platform for household food waste management",
+  "one_liner": "trace is a hardware-enabled software platform for household food waste management",
+  "location": "Provo, Utah, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/traceyourself",
+    "linkedin": "https://linkedin.com/company/tracetechnology",
+    "facebook": "https://facebook.com/trace.sustainable.tech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/trace",
+  "api": "/api/companies/trace.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Pax Credit",
+  "slug": "pax-credit",
+  "website": "https://linkedin.com/company/paxcredit",
+  "description": "Cross-border finance app for International Students",
+  "one_liner": "Cross-border finance app for International Students",
+  "location": "Hyderabad, Andhra Pradesh, India",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/paxcredit",
+    "linkedin": "https://linkedin.com/company/paxcredit",
+    "facebook": "https://facebook.com/paxcredit"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pax-credit",
+  "api": "/api/companies/pax-credit.json"
+}

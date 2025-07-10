@@ -1,0 +1,24 @@
+{
+  "name": "Regen Network",
+  "slug": "regen-network",
+  "website": "https://regen.network/",
+  "description": "A global marketplace & contracting platform for Earth's ecosystem assets, services, and data.",
+  "one_liner": "A global marketplace & contracting platform for Earth's ecosystem assets, services, and data.",
+  "location": "GREAT BARRINGTON, Massachusetts, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/regen_network",
+    "linkedin": "https://linkedin.com/company/regen-network",
+    "facebook": "https://facebook.com/weareregennetwork"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/regen-network",
+  "api": "/api/companies/regen-network.json"
+}

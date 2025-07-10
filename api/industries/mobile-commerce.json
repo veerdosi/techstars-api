@@ -1,0 +1,1041 @@
+[
+  {
+    "name": "Splitty",
+    "website": "https://splittytravel.com/",
+    "description": "Splitting your hotel stay into multiple reservations to get you the lowest rates on your room",
+    "location": "Rishon LeZion, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/splittytravel",
+      "linkedin": "https://linkedin.com/company/10340686",
+      "facebook": "https://facebook.com/splittytravel"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Taylor & Hart",
+    "website": "https://taylorandhart.com/",
+    "description": "Award-winning online retailer of custom designed engagement rings",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/taylorandhart",
+      "linkedin": "https://linkedin.com/company/rare-pink",
+      "facebook": "https://facebook.com/RarePinkJewellery"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Cheerfy",
+    "website": "https://cheerfy.com/",
+    "description": "Cheerfy enables personalised contextual customer experiences in the physical world.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/cheerfy",
+      "linkedin": "https://linkedin.com/company/cheerfy",
+      "facebook": "https://facebook.com/cheerfy/"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "TicTacTrip",
+    "website": "https://tictactrip.eu/",
+    "description": "The first booking platform for all direct and intermodal routes in Europe.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jrk8kxk6bsnkkkmvxlo1",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/TicTacTrip",
+      "linkedin": "https://linkedin.com/company/10541704",
+      "facebook": "https://facebook.com/tictactrip"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Transmute",
+    "website": "https://transmute.industries/",
+    "description": "The trusted data exchange platform for global trade",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TransmuteNews",
+      "linkedin": "https://linkedin.com/company/11186222"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "CaribShopper",
+    "website": "https://app.caribshopper.com/",
+    "description": "CaribShopper is a curated eCommerce marketplace connecting $71B annual international demand with Caribbean-based merchants and manufacturers.",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/caribshopper",
+      "linkedin": "https://linkedin.com/company/caribshopper",
+      "facebook": "https://facebook.com/caribshopper/"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Mercately",
+    "website": "https://mercately.com/",
+    "description": "Mercately is an ecommerce platform for messaging apps. We offer a CRM with omnichannel communications that helps SMEs to increase their sales",
+    "location": "Sheridan, Wyoming, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mercately",
+      "linkedin": "https://linkedin.com/company/mercately",
+      "facebook": "https://facebook.com/mercately/"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Odaptos",
+    "website": "https://odaptos.com/",
+    "description": "Odaptos is an artificial intelligence platform that allows users to perform usability testing.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ephhcsbgvin7qfhw4xma",
+    "location": "Perols, Occitanie, France",
+    "social_media": {
+      "twitter": "https://twitter.com/odaptos",
+      "linkedin": "https://linkedin.com/company/odaptos",
+      "facebook": "https://facebook.com/people/Odaptos/100070848931160"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "MyFavorito",
+    "website": "https://myfavorito.com/",
+    "description": "MyFavorito helps the \"Fortune 5 million\" sports clubs around the world to make more money and attract more sponsors.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/myfavoritoapp",
+      "linkedin": "https://linkedin.com/company/5226239",
+      "facebook": "https://facebook.com/myfavoritoapp"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Stready",
+    "website": "https://stready.com/",
+    "description": "Stready is supercharging loyalty by enabling retailers and brands to encourage physical activity.\n\nTo view the company one-page summary click here - https://app.buildmemo.com/s/yxr~~w",
+    "location": "Trondheim, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/stready",
+      "facebook": "https://facebook.com/stready/"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Catlog",
+    "website": "https://catlog.shop/",
+    "description": "Catlog gives SMBs selling on social media the tools they need to automate all operations including sales, order fulfillment, and customer support.",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/myshopcatlog",
+      "linkedin": "https://linkedin.com/company/myshopcatlog",
+      "facebook": "https://facebook.com/myshopcatlog"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Ephemeris",
+    "website": "https://ephemeris.co/",
+    "description": "Ephemeris is bridging technology and astrology to create the first fully interactive, AI-powered astrology app.",
+    "location": "Chapel Hill, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ephemeris_co",
+      "linkedin": "https://linkedin.com/company/ephemeris-inc",
+      "facebook": "https://facebook.com/Ephemeris.co/"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Cut and Clarity",
+    "website": "https://cutandclarity.co/",
+    "description": "Cut + Clarity offers personalized jewelry; made for you, by you. Real Women. Real Stories. Real Jewelry. Shop our custom jewelry today.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/a",
+      "linkedin": "https://linkedin.com/in/mariana-russo-chambers-174b72a",
+      "facebook": "https://facebook.com/cutandclaritynyc/"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Cuál",
+    "website": "https://cual.co/",
+    "description": "Cual is the Yelp for Hispanics and launched in Los Angeles with over 60,000 business listings.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ohmndra3ikbrvxq6uv7c",
+    "location": "Woodland Hills, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cu%C3%A1l-corp",
+      "facebook": "https://facebook.com/visitacualco"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Rapid RMS",
+    "website": "https://rapidrms.com/",
+    "description": "Rapid RMS provides iPad and cloud-based retail technology for convenience stores, liquor stores and gas stations.",
+    "location": "Chattanooga, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rapidrms",
+      "linkedin": "https://linkedin.com/company/rapid-rms",
+      "facebook": "https://facebook.com/Rapidrms"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "The Daily Sale Shop",
+    "website": "https://thedailysale.shop/",
+    "description": "Empowering African e-commerce, The Daily Sale Shop connects customers to affordable products with a seamless online shopping experience.",
+    "location": "New York City, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thedailysalezw",
+      "linkedin": "https://linkedin.com/in/kuda-manzanga-",
+      "facebook": "https://facebook.com/dailysaleshopzw/"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Pickups Technologies",
+    "website": "https://usepickups.com/",
+    "description": "Pickups leverages a community of urban residents with space and time at home to help brands and carriers to sustainably optimize their fulfilment, storage, and delivery capabilities.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jwpbgdph3nclcxbdenf0",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/usepickups",
+      "linkedin": "https://linkedin.com/company/usepickups",
+      "facebook": "https://facebook.com/usepickups/"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "The Host Co",
+    "website": "https://thehost.co/",
+    "description": "The Host Co. is a retail solution designed to help Hosts sell products in their short term rental spaces. Simply create a store, personalize it, and begin selling instantly",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/host_company",
+      "linkedin": "https://linkedin.com/company/thehostco",
+      "facebook": "https://facebook.com/TheHostCompany/"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Tattd",
+    "website": "https://tattd.co/",
+    "description": "The Tattd app connects people to local tattoo artists perfectly tailored to their needs, while providing a platform for artists to market themselves to their ideal client.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tattd",
+      "facebook": "https://facebook.com/tattdapp/"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "RevMatch Technologies",
+    "website": "https://revmatch.io/",
+    "description": "Streamlining the auto enthusiasts' journey through our community and partner-driven AI engine.",
+    "location": "Peachtree Corners, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/revmatchapp"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Another-Lane",
+    "website": "https://another-lane.com/",
+    "description": "A membership based digital marketplace catering to sneaker resellers wanting to grow their business and bring authenticity back to the sneaker community.",
+    "location": "Fort Lee, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AnotherLane_",
+      "linkedin": "https://linkedin.com/company/another-lane",
+      "facebook": "https://facebook.com/anotherlaneshop/"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "TicketRev",
+    "website": "https://ticketrev.com/",
+    "description": "Reverse marketplace for event tickets, buyers create bids on events, enabling sellers to accept a bid and sell their tickets instantly.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pe0tucmvljrtkttf49tl",
+    "location": "Boca Raton, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ticketrev",
+      "linkedin": "https://linkedin.com/company/ticketrev",
+      "facebook": "https://facebook.com/ticketrev"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "zoolife",
+    "website": "https://zoolife.tv/",
+    "description": "The world's first interactive virtual zoo.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/zoolife",
+      "facebook": "https://facebook.com/zoolife.tv"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Twini",
+    "website": "https://twini.ai/",
+    "description": "Twini empowers brands and content creators to engage and monetize their communities on autopilot. We provide AI twins, custom-trained on your content, that think and talk like you--allowing for personalized, one-on-one interactions at scale.",
+    "location": "Milan, Milan, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/twini-ai"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "In-Seam",
+    "website": "https://theresetagency.net/",
+    "description": "A private luxury retail platform powered by personal relationships.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/in-seam"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Craftmerce",
+    "website": "https://craftmerce.com/",
+    "description": "Craftmerce is a B2B wholesale marketplace platform that leverages AI to connect mainstream global retailers to African handcrafted brands.",
+    "location": "Middletown, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/craftmerce",
+      "linkedin": "https://linkedin.com/company/craftmerce",
+      "facebook": "https://facebook.com/craftmerce"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "RYN",
+    "website": "https://therynapp.com/",
+    "description": "RYN is an AI fashion engine designed to reduce the stress of getting dressed by providing outfit recommendations using users' own clothes.",
+    "location": "Marysville, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/therynapp"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Plate",
+    "website": "https://plate.social/",
+    "description": "Social marketplace for influencer recipes.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/plate-social"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "CropConex",
+    "website": "https://cropconex.com/",
+    "description": "CropConex is a marketplace and supply chain management platform streamlining the sales and exports of specialty crops worldwide.",
+    "location": "Highland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CropConex",
+      "linkedin": "https://linkedin.com/company/cropconex",
+      "facebook": "https://facebook.com/cropconex"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Beatpulse",
+    "website": "https://beatpulselabs.com/",
+    "description": "Ethical Data Provision for Generative Music and Audio Models",
+    "location": "Hamburg, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/68149994"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Champhunt",
+    "website": "https://champhunt.com/",
+    "description": "We are creating a reward-based community centered around cricket, where all stakeholders can connect, share their experiences, and enjoy themselves.",
+    "location": "Fremont, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/champhunt"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "BeautyGoGO",
+    "website": "https://beautygo-go.com/",
+    "description": "The BeautyGoGo app helps Black women by offering immediate delivery or pick up of niche products from a variety of local retailers called beauty supply stores",
+    "location": "Redford, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/beautygogo-inc"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "ARGrid",
+    "website": "https://ar-grid.com/",
+    "description": "ARgrid is a marketplace for shopping using augmented reality. We partner with small businesses that don't have the resources to create 3D models of their products for online shopping and advertising. We build AR e-commerce stores for businesses and enable anyone to set up a top-notch AR e-commerce solution without needing to code.",
+    "location": "Lodi, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/argrid"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Thola",
+    "website": "https://3d-imo.com/",
+    "description": "Thola is providing reliability of old industrial buildings and their systems infrastructure through an automated energy consumption monitoring and facilities monitoring software paired with smart thermal imaging sensors to provide real-time monitoring of building performance and detect early equipment fault risks and generate actionable real-time warnings in our software.",
+    "location": "Mountain View, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/3d_imo",
+      "linkedin": "https://linkedin.com/company/thola-inc",
+      "facebook": "https://facebook.com/3_dimo-118635522875710"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Bob's Containers",
+    "website": "https://bobscontainers.com/",
+    "description": "We build fast, affordable, and profitable housing solutions from shipping containers.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fxhqmvnq8ome60kuqzxz",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bobscontainers",
+      "linkedin": "https://linkedin.com/company/bobs-containers",
+      "facebook": "https://facebook.com/bobscontainers"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "BONFLITE",
+    "website": "https://bonflite.com/",
+    "description": "BONFLITE is on a mission to address the outdated model of duty free shopping, and transform the boring catalogue into memorable experience for air travellers.",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/bonflite",
+      "linkedin": "https://linkedin.com/company/bonflite",
+      "facebook": "https://facebook.com/Bonflite"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Vamos",
+    "website": "https://vamospasajes.com/",
+    "description": "Vamos | the intercity bus marketplace in LATAM",
+    "location": "Potomac, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/vamospasajes",
+      "facebook": "https://facebook.com/Vamospasajes/"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Retavo",
+    "website": "https://assistt.com/",
+    "description": "SaaS-based white-label peer-to-eer multi-vendor marketplace platform",
+    "location": "Winter Park, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AssisttApp",
+      "linkedin": "https://linkedin.com/company/retavo",
+      "facebook": "https://facebook.com/AssisttApp"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Recepta",
+    "website": "https://receptapp.com/",
+    "description": "Recepta offers a simple and scalable solution that automates the creation and collection of digital receipts for all card transactions on each purchase, eliminating the need for paper receipts. It refers to everyone who make purchases on credit or debit",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gdvwqyuwj7gvninmcdxt",
+    "location": "Fairfax, Virginia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/recepta"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Bhala AI",
+    "website": "https://bhala.ai/",
+    "description": "B2B NLP technology that enables business localization in over 50 African languages",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bhala",
+      "linkedin": "https://linkedin.com/company/bhala-ai"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "alive5",
+    "website": "https://alive5.com/",
+    "description": "Messaging meets payments",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wearealive5",
+      "linkedin": "https://linkedin.com/company/21589623",
+      "facebook": "https://facebook.com/wearealive5"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Mainstack",
+    "website": "https://mainstack.co/",
+    "description": "Mainstack's no-code tools enable non-technical entrepreneurs & creators to present and sell their work effortlessly with global payment options.",
+    "location": "Mansfield, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MainStack",
+      "linkedin": "https://linkedin.com/company/themainstack",
+      "facebook": "https://facebook.com/pages/MainStack-Inc/1414403362174166"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Jelt",
+    "website": "https://jelt.com.co/",
+    "description": "For businesses of the health sector that experience friction, inefficiencies and cost overruns when getting their medical inventory, Jelt is a B2B platform for easy acquisition and management of medical supplies.",
+    "location": "Doral, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/jeltco",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "GolferX",
+    "website": "https://golferx.io/",
+    "description": "GolferX provides personalized recommendations using AI to take the guesswork out of buying sports equipment online.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/andrew-ajax-87560912"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Ragana",
+    "website": "https://1to1.tech/",
+    "description": "1to1 is a B2B personalization solution that allows eCommerce vendors to provide their customers with a unique digital experience tailored to them (with improved conversion rates) through our composable single end-point engine that integrates cutting-edge",
+    "location": "Roselle Park, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/1to1consulting"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Upgrade Boutique",
+    "website": "https://upgradeboutique.com/",
+    "description": "Upgrade Boutique is a managed marketplace that provides beauty products and services.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/upgrade-boutique",
+      "facebook": "https://facebook.com/upgradeboutique"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Sotira",
+    "website": "https://sotira.co/",
+    "description": "For ecommerce businesses that struggle to price products and understand which products are the most profitable, Sotira analyzes and compares growth for online stores, tracks metrics, and helps businesses make informed choices about pricing and listing.",
+    "location": "Menlo Park, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Sotira_app",
+      "linkedin": "https://linkedin.com/company/sotira-fintech"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Reality Trail",
+    "website": "https://realityjourneys.com/",
+    "description": "Step into the future with Reality Trail! Our platform empowers businesses to create captivating augmented reality experiences that shape consumer behavior in alignment with their goals",
+    "location": "Tulsa, Oklahoma, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/reality-trail"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Legends",
+    "website": "https://livemylegend.com/",
+    "description": "Legends transforms phone and photo data into actionable consumer insights to help brands personalize.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/livemylegends",
+      "linkedin": "https://linkedin.com/company/livemylegend",
+      "facebook": "https://facebook.com/livemylegend11/"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Clyn",
+    "website": "https://clynapp.com/",
+    "description": "Clyn connects you to housekeepers and cleaners you can trust, while providing them with tools to scale their businesses.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/b8juayyqcpchk3wddgoy",
+    "location": "Phoenix, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/clynapp",
+      "linkedin": "https://linkedin.com/company/clynapp",
+      "facebook": "https://facebook.com/clynapp"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "CentralTexas",
+    "website": "https://squaredeal.app/",
+    "description": "An app for every need and more to help the modern business grow",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lriqk9plvtw52csvhnbc",
+    "location": "San Marcos, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/squaredeal"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Reflekt Me",
+    "website": "https://reflektme.com/",
+    "description": "A B2B SaaS platform enabling beauty and fashion brands to monetize their user and employee generated content by curating and displaying images that reflect untapped online communities, resulting in a 1% top-line revenue increase for large brands.",
+    "location": "Sandy Springs, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/reflektme",
+      "linkedin": "https://linkedin.com/company/reflekt-me",
+      "facebook": "https://facebook.com/reflektme/"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Duhqa",
+    "website": "https://duhqa.com/",
+    "description": "Duhqa is an end to end supply chain & distribution technology platform connecting manufacturers, retailers and individuals.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/DuhqaL",
+      "linkedin": "https://linkedin.com/company/duhqa",
+      "facebook": "https://facebook.com/duhqa"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "FreeTextbooks",
+    "website": "https://freetextbooks.com/",
+    "description": "Crowdsourced campus bookstores.",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/freetextbooks",
+      "linkedin": "https://linkedin.com/company/3636312",
+      "facebook": "https://facebook.com/freetextbooks"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "SportsMarkit",
+    "website": "https://sportsmarkit.com/",
+    "description": "SportsMarkit Streamlines NIL business dealflow and payments management with one integrated platform.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sportsmarkit",
+      "linkedin": "https://linkedin.com/company/sportsmarkit-llc",
+      "facebook": "https://facebook.com/SportsMarkit/"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Luca",
+    "website": "https://luca.africa/",
+    "description": "A bookkeeping and finance tool for all aspects of your business.",
+    "location": "Chatsworth, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LucaAfrica",
+      "linkedin": "https://linkedin.com/company/lucaafrica",
+      "facebook": "https://facebook.com/Luca-106449338582738"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Le Ora",
+    "website": "https://joinleora.com/",
+    "description": "For trend-setting womxn, who want a more budget friendly and sustainable way of dressing up, we provide them with the option to renting instead of buying their wardrobe.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/le-ora"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Laundr",
+    "website": "https://laundr.io/",
+    "description": "Laundr is an on-demand laundry app that will pick up, wash, fold, and deliver your clothing within 24 hours.",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LaundrioApp",
+      "linkedin": "https://linkedin.com/company/laundrllc",
+      "facebook": "https://facebook.com/pages/Laundrio/377232182428401"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Bling",
+    "website": "https://bling.cloud/",
+    "description": "We are building the future of communications - a central communications platform that allows business owners of all sizes  to have a single place for an omnichannel communication with their clients and customers.",
+    "location": "San Jose, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/blingcloud",
+      "facebook": "https://facebook.com/bling.cloud"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Thryft Ship",
+    "website": "https://thryftship.com/",
+    "description": "We built Thryft Ship to simplify selling, order management, and fulfillment for small businesses in the $90B social media commerce space--where sellers rely on DMs, spreadsheets, and manual workflows to run their operations. Thryft automates order capture, eliminates the need to copy/paste addresses, and streamlines shipping--all in one platform.",
+    "location": "Johns Creek, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/thryftship"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Gohaus",
+    "website": "https://gohaus.ai/",
+    "description": "For retailers facing low conversion rates, and customers facing a highly fragmented market, with low personalization tools overwhelmed by the complexity and uncertainty of home renovation, Goohaus offers an AI-powered platform that integrates with retail",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/goohaus"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Autoket",
+    "website": "https://autoket.com/",
+    "description": "AI-Powered B2B Marketplace for Auto Parts",
+    "location": "Fort Lauderdale, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/autoketofficial",
+      "linkedin": "https://linkedin.com/company/autoketofficial"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Apricotton",
+    "website": "https://apricotton.ca/",
+    "description": "Designing bras that grow as you grow, lasting multiple stages of puberty.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/apricotton",
+      "facebook": "https://facebook.com/apricottongirls"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Alleo",
+    "website": "https://alleo.ai/",
+    "description": "Alleo.ai seeks to make people happier by optimizing their life and work tasks, events and projects.",
+    "location": "Spring, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/alleo_ai",
+      "linkedin": "https://linkedin.com/company/alleo-ai",
+      "facebook": "https://facebook.com/alleoai"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Smply",
+    "website": "https://getsmply.com/",
+    "description": "AI powered interior design planning app",
+    "location": "Johns Creek, Georgia, United States",
+    "social_media": {},
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Payfi",
+    "website": "https://payfi.ng/",
+    "description": "Payfi is a Canadian fintech company providing rent guarantee on behalf of newcomers into Canada.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/m8pdfmxtv7zoordjohar",
+    "location": "IKATE LEKKI, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/payfihq",
+      "linkedin": "https://linkedin.com/company/payfihq",
+      "facebook": "https://facebook.com/mypayfi"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "BeautyVoyage",
+    "website": "https://beautyvoyage.co/",
+    "description": "BeautyVoyage is the first marketplace for Beauty Professional peer mentorship.",
+    "location": "Anchorage, Alaska, United States",
+    "social_media": {},
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Vendeee",
+    "website": "https://vendeee.com/",
+    "description": "Vendeee is an enterprise solutions company for the vending machine industry connecting Vending operators to bonded vending route drivers.",
+    "location": "West Orange, New Jersey, United States",
+    "social_media": {},
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Instant Car Fix",
+    "website": "https://instantcarfix.com/",
+    "description": "Instant Car Fix is an online platform for car & fleet owners providing mobile auto repair services at their home or office.",
+    "location": "Ashburn, Virginia, United States",
+    "social_media": {
+      "facebook": "https://facebook.com/InstantCarFix"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "StageWing",
+    "website": "https://stagewing.com/",
+    "description": "An event production equipment sharing community where members can rent the best pro gear.",
+    "location": "Decatur, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/stagewingapp",
+      "linkedin": "https://linkedin.com/company/stagewing"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Konvas AI",
+    "website": "https://konvas.ai/",
+    "description": "We are building global AI agents for e-commerce brands to help automate marketing, improve decision-making, and grow sales.",
+    "location": "Hutto, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/konvas-ai"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "DressyClub",
+    "website": "https://dressyclub.com/",
+    "description": "Connecting college students through shared closets",
+    "location": "Carbondale, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dressyclub"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "QuickCart",
+    "website": "https://quickcartonline.com/",
+    "description": "QuickCart is a platform powering e-commerce and on-demand delivery for restaurants and stores.\n\nWe're currently one of the leading on-demand delivery platforms in Jamaica, with near-term plans to expand across the rest of the Caribbean and into Latin America.",
+    "location": "UWI, Saint Andrew Parish, Jamaica",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/quickcart"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "ChipedIn",
+    "website": "https://chipedin.com/",
+    "description": "Our platform provides an innovative solution by combining crowdfunding and personal shopper services. We enable communities to pool their contributions towards desired, high-value gifts, effectively minimizing returns and elevating the gifting experience.",
+    "location": "New York City, New York, United States",
+    "social_media": {},
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Autoparti",
+    "website": "https://autoparti.com.co/",
+    "description": "Autoparti is a SalesTech SaaS, giving to SMBs in the automotive industry the tools to grow with technology by reducing marketing costs while boosting digital sales",
+    "location": "Aventura, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/autoparti",
+      "facebook": "https://facebook.com/autoparti/"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Autority",
+    "website": "https://autority.io/",
+    "description": "Autority is a consolidated payment platform for car owners.",
+    "location": "Quito, Ecuador",
+    "social_media": {
+      "twitter": "https://twitter.com/autority_io",
+      "linkedin": "https://linkedin.com/company/76914575",
+      "facebook": "https://facebook.com/autority.io"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "SilverBack",
+    "website": "https://linkedin.com/company/silverback.ai",
+    "description": "The Ultimate Business Intelligence Solution For E-Commerce Marketplaces",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/company/silverback.ai",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Pongo",
+    "website": "https://linkedin.com/company/pongo",
+    "description": "Pongo empowers content creators to engage their audience with SMS.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/dguildrltykt3t6zien6",
+    "location": "Sammamish, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/joinpongo",
+      "linkedin": "https://linkedin.com/company/pongo"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "LuggAgent",
+    "website": "https://linkedin.com/company/luggagent",
+    "description": "LuggAgent is about helping travellers achieve their goals, and we do it by creating a technological platform to connect all the stakeholders in the ecosystem.",
+    "location": "Hong Kong, Hong Kong",
+    "social_media": {
+      "twitter": "https://twitter.com/luggagent",
+      "linkedin": "https://linkedin.com/company/luggagent",
+      "facebook": "https://facebook.com/LuggAgent/"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Loadzpro",
+    "website": "https://linkedin.com/company/loadzpro",
+    "description": "Our Proprietary Technology Helps anyone with a Truck start making money in the $800 Billion Trucking Industry",
+    "location": "Covington, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/company/loadzpro",
+      "facebook": "https://facebook.com/Loadzpro"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Joylet",
+    "website": "https://linkedin.com/company/joylet",
+    "description": "JoyLet is a monthly rental marketplace for baby/toddler gear that helps urban parents meet their child's constantly-changing developmental needs while saving time and money through our convenient web-based platform that offers a curated selection of top-r",
+    "location": "Milltown, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/joylet",
+      "facebook": "https://facebook.com/RentJoylet/"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "JibJib",
+    "website": "https://linkedin.com/company/contactable.io",
+    "description": "Contactable is a database that enables its users to find journalists by their topics of interests. It also enables them to review previously written content of the listed journalists.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/ContactableIO",
+      "linkedin": "https://linkedin.com/company/contactable.io"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Greets",
+    "website": "https://linkedin.com/company/cardswap",
+    "description": "Personalized Greeting Cards and Invitations",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cardswap",
+      "linkedin": "https://linkedin.com/company/cardswap",
+      "facebook": "https://facebook.com/ClosetGroupie"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Dash",
+    "website": "https://linkedin.com/company/paytouch",
+    "description": "Dash is an accessible digital wallet and payment network for African consumers regardless of currency.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vep32shwqxlnon7zcdyk",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/dashmeapp",
+      "linkedin": "https://linkedin.com/company/paytouch",
+      "facebook": "https://facebook.com/dashlabs"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  },
+  {
+    "name": "Trousso",
+    "website": "https://linkedin.com/company/trousso",
+    "description": "Trousso is the resale platform making it easier for women to buy and sell outfits for life's biggest moments",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/trousso"
+    },
+    "industry": "Mobile commerce",
+    "industry_slug": "mobile-commerce"
+  }
+]

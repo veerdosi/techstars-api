@@ -1,0 +1,22 @@
+{
+  "name": "SteadyBricks",
+  "slug": "steadybricks",
+  "website": "https://linkedin.com/company/steadybrickshq",
+  "description": "Steadybricks is a cloud cost, and cloud-carbon-footprint reduction tool for fintechs and financial services.",
+  "one_liner": "Steadybricks is a cloud cost, and cloud-carbon-footprint reduction tool for fintechs and financial services.",
+  "location": "Dublin, Ireland",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/steadybrickshq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/steadybricks",
+  "api": "/api/companies/steadybricks.json"
+}

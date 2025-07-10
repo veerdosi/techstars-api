@@ -1,0 +1,23 @@
+{
+  "name": "Stork Exchange",
+  "slug": "stork-exchange",
+  "website": "https://storkexchange.co/",
+  "description": "Stork Exchange is an online marketplace where parents can simply buy and sell secondhand baby products.",
+  "one_liner": "Stork Exchange is an online marketplace where parents can simply buy and sell secondhand baby products.",
+  "location": "Charlotte, North Carolina, United States",
+  "industry": "Impact investing",
+  "industry_slug": "impact-investing",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/stork-exchange-inc",
+    "facebook": "https://facebook.com/storkexchange"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/stork-exchange",
+  "api": "/api/companies/stork-exchange.json"
+}

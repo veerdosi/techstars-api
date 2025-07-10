@@ -1,0 +1,24 @@
+{
+  "name": "CountertopSmart",
+  "slug": "countertopsmart",
+  "website": "https://countertopsmart.com/",
+  "description": "CountertopSmart is an online marketplace for purchasing ''partial slabs'', or ''countertop remnants''.",
+  "one_liner": "CountertopSmart is an online marketplace for purchasing ''partial slabs'', or ''countertop remnants''.",
+  "location": "Austin, Texas, United States",
+  "industry": "E-commerce",
+  "industry_slug": "ecommerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/countertopsmart",
+    "linkedin": "https://linkedin.com/company/countertopsmart",
+    "facebook": "https://facebook.com/countertopsmart/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/countertopsmart",
+  "api": "/api/companies/countertopsmart.json"
+}

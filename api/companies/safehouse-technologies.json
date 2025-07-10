@@ -1,0 +1,24 @@
+{
+  "name": "SafeHouse Technologies",
+  "slug": "safehouse-technologies",
+  "website": "https://safehousetech.com/",
+  "description": "Digital safety for real people online",
+  "one_liner": "Digital safety for real people online",
+  "location": "Tel Aviv, Israel",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SafeHouseTech",
+    "linkedin": "https://linkedin.com/company/stored-by-sharehouse",
+    "facebook": "https://facebook.com/safehousetech/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/safehouse-technologies",
+  "api": "/api/companies/safehouse-technologies.json"
+}

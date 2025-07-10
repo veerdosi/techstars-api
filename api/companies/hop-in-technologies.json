@@ -1,0 +1,24 @@
+{
+  "name": "Hop In Technologies",
+  "slug": "hop-in-technologies",
+  "website": "https://hopintech.com/",
+  "description": "The all in one shuttling logistics platform made for employers who are looking to expand hiring pools while recruiting, improve retention and increase employee satisfaction",
+  "one_liner": "The all in one shuttling logistics platform made for employers who are looking to expand hiring pools while recruiting, improve retention and increase employee satisfaction",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/iaryy9qoocyjbartht7f",
+  "social_media": {
+    "twitter": "https://twitter.com/HopInTech",
+    "linkedin": "https://linkedin.com/company/hop-in-tech",
+    "facebook": "https://facebook.com/HopInTech/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hop-in-technologies",
+  "api": "/api/companies/hop-in-technologies.json"
+}

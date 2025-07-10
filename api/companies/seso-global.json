@@ -1,0 +1,24 @@
+{
+  "name": "Seso Global",
+  "slug": "seso-global",
+  "website": "https://seso.global/",
+  "description": "Seso Global is a platform for secure real estate management and transactions in Africa.",
+  "one_liner": "Seso Global is a platform for secure real estate management and transactions in Africa.",
+  "location": "Cambridge, United Kingdom",
+  "industry": "Real estate tech",
+  "industry_slug": "real-estate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/taoeyxxa7vux0xw2wc8z",
+  "social_media": {
+    "twitter": "https://twitter.com/sesoglobal",
+    "linkedin": "https://linkedin.com/company/seso-global-limited",
+    "facebook": "https://facebook.com/SESO-Global-2025318274151656/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/seso-global",
+  "api": "/api/companies/seso-global.json"
+}

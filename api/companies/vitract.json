@@ -1,0 +1,24 @@
+{
+  "name": "Vitract",
+  "slug": "vitract",
+  "website": "https://vitract.com/",
+  "description": "Vitract offers highly-personalized holistic treatment plans for mental illness which focus on the treatment of the illness' underlying causes rather than its symptoms, using in-depth lab testing, and personalized dietary and lifestyle recommendations.",
+  "one_liner": "Vitract offers highly-personalized holistic treatment plans for mental illness which focus on the treatment of the illness' underlying causes rather than its symptoms, using in-depth lab testing, and personalized dietary and lifestyle recommendations.",
+  "location": "Mississauga, Ontario, Canada",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/VitractOfficial",
+    "linkedin": "https://linkedin.com/company/vitract",
+    "facebook": "https://facebook.com/Vitract-111349774876378"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vitract",
+  "api": "/api/companies/vitract.json"
+}

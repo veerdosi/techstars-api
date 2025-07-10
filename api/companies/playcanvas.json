@@ -1,0 +1,24 @@
+{
+  "name": "PlayCanvas",
+  "slug": "playcanvas",
+  "website": "https://playcanvas.com/",
+  "description": "The world's first cloud-hosted, collaborative platform for building video games",
+  "one_liner": "The world's first cloud-hosted, collaborative platform for building video games",
+  "location": "London, United Kingdom",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/playcanvas",
+    "linkedin": "https://linkedin.com/company/playcanvas",
+    "facebook": "https://facebook.com/playcanvas"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/playcanvas",
+  "api": "/api/companies/playcanvas.json"
+}

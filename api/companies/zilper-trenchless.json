@@ -1,0 +1,23 @@
+{
+  "name": "Zilper Trenchless",
+  "slug": "zilper-trenchless",
+  "website": "https://zilpertrenchless.com/",
+  "description": "A proprietary trenchless technology that significantly reduces the cost and disruption of underground piping projects.",
+  "one_liner": "A proprietary trenchless technology that significantly reduces the cost and disruption of underground piping projects.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Infrastructure",
+  "industry_slug": "infrastructure",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ZilperTL",
+    "linkedin": "https://linkedin.com/company/zilper-trenchless-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/zilper-trenchless",
+  "api": "/api/companies/zilper-trenchless.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Capexmove",
+  "slug": "capexmove",
+  "website": "https://linkedin.com/company/capexmove",
+  "description": "Capexmove enables investment banks to issue programmable debt securities to service them automatically during their life cycle.",
+  "one_liner": "Capexmove enables investment banks to issue programmable debt securities to service them automatically during their life cycle.",
+  "location": "London, United Kingdom",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Capexmove",
+    "linkedin": "https://linkedin.com/company/capexmove",
+    "facebook": "https://facebook.com/capexmove/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/capexmove",
+  "api": "/api/companies/capexmove.json"
+}

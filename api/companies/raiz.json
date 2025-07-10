@@ -1,0 +1,22 @@
+{
+  "name": "Raiz",
+  "slug": "raiz",
+  "website": "https://raiz.farm/",
+  "description": "Urban Farming Evolution. Building distributed farms catering to urban consumers in an energy efficient manner.",
+  "one_liner": "Urban Farming Evolution. Building distributed farms catering to urban consumers in an energy efficient manner.",
+  "location": "Lisbon, Portugal",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/raiz-vertical-farms"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/raiz",
+  "api": "/api/companies/raiz.json"
+}

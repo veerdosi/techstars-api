@@ -1,0 +1,24 @@
+{
+  "name": "MoneyVerbs",
+  "slug": "moneyverbs",
+  "website": "https://linkedin.com/company/moneyverbs",
+  "description": "Experience Money Differently",
+  "one_liner": "Experience Money Differently",
+  "location": "Minneapolis, Minnesota, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/moneyverbs",
+    "linkedin": "https://linkedin.com/company/moneyverbs",
+    "facebook": "https://facebook.com/MoneyVerbs/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/moneyverbs",
+  "api": "/api/companies/moneyverbs.json"
+}

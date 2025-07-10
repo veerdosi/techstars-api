@@ -1,0 +1,24 @@
+{
+  "name": "Inphlu",
+  "slug": "inphlu",
+  "website": "https://inphlu.com/",
+  "description": "Empower Your Employees. Amplify Your Reach.",
+  "one_liner": "Empower Your Employees. Amplify Your Reach.",
+  "location": "Cincinnati, Ohio, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/inphlusocial/",
+    "linkedin": "https://linkedin.com/company/inphluinc",
+    "facebook": "https://facebook.com/Inphlu/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/inphlu",
+  "api": "/api/companies/inphlu.json"
+}

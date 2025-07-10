@@ -1,0 +1,24 @@
+{
+  "name": "Fernish",
+  "slug": "fernish",
+  "website": "https://linkedin.com/company/fernish",
+  "description": "Fernish lets you subscribe to the furniture you love, then decide to swap it, buy it, or walk away.",
+  "one_liner": "Fernish lets you subscribe to the furniture you love, then decide to swap it, buy it, or walk away.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/FernishLiving",
+    "linkedin": "https://linkedin.com/company/fernish",
+    "facebook": "https://facebook.com/fernishliving/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fernish",
+  "api": "/api/companies/fernish.json"
+}

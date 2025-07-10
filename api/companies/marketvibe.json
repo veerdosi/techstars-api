@@ -1,0 +1,24 @@
+{
+  "name": "MarketVibe",
+  "slug": "marketvibe",
+  "website": "https://marketvibe.com/",
+  "description": "Turn your website traffic into sales",
+  "one_liner": "Turn your website traffic into sales",
+  "location": "Austin, Texas, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/81853-d7c09608203ba25420130f9c2b95ba4b-medium_jpg.jpg?buster=1376414724",
+  "social_media": {
+    "twitter": "https://twitter.com/WhooshTraffic",
+    "linkedin": "https://linkedin.com/company/marketvibe",
+    "facebook": "https://facebook.com/whooshtraffic"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/marketvibe",
+  "api": "/api/companies/marketvibe.json"
+}

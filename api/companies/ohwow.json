@@ -1,0 +1,24 @@
+{
+  "name": "Ohwow!",
+  "slug": "ohwow",
+  "website": "https://linkedin.com/company/ohwowapps",
+  "description": "Ohwow! is the world's first file sharing & remote collaboration app which is mobile-first, easy-to-use and designed ground-up for media sharing.",
+  "one_liner": "Ohwow! is the world's first file sharing & remote collaboration app which is mobile-first, easy-to-use and designed ground-up for media sharing.",
+  "location": "Stanford, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ohwow_app",
+    "linkedin": "https://linkedin.com/company/ohwowapps",
+    "facebook": "https://facebook.com/ohwowapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ohwow",
+  "api": "/api/companies/ohwow.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Reason",
+  "slug": "reason",
+  "website": "https://linkedin.com/company/reasonfinland",
+  "description": "A goals-first investing assistant.",
+  "one_liner": "A goals-first investing assistant.",
+  "location": "Del Mar, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ReasonInvest",
+    "linkedin": "https://linkedin.com/company/reasonfinland",
+    "facebook": "https://facebook.com/madewithreason/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/reason",
+  "api": "/api/companies/reason.json"
+}

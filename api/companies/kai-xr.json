@@ -1,0 +1,23 @@
+{
+  "name": "Kai XR",
+  "slug": "kai-xr",
+  "website": "https://kaixr.com/",
+  "description": "Kai XR is the most inclusive & accessible kid-friendly VR platform where kids can explore VR field trips + create their very own VR adventures.",
+  "one_liner": "Kai XR is the most inclusive & accessible kid-friendly VR platform where kids can explore VR field trips + create their very own VR adventures.",
+  "location": "Oakland, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Kai_XR",
+    "linkedin": "https://linkedin.com/company/curated-x-kai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kai-xr",
+  "api": "/api/companies/kai-xr.json"
+}

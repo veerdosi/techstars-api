@@ -1,0 +1,23 @@
+{
+  "name": "Crispify",
+  "slug": "crispify",
+  "website": "https://crispify.io/",
+  "description": "Crispify system is a cutting edge in-cabin air quality management solution",
+  "one_liner": "Crispify system is a cutting edge in-cabin air quality management solution",
+  "location": "Tel Aviv, Israel",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/CrispifyIo",
+    "linkedin": "https://linkedin.com/company/18933950"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/crispify",
+  "api": "/api/companies/crispify.json"
+}

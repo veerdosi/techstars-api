@@ -1,0 +1,24 @@
+{
+  "name": "Nix",
+  "slug": "nix",
+  "website": "https://nixbiosensors.com/",
+  "description": "Nix is developing a single use hydration sensor that informs athletes' hydration strategy: when to drink, what to drink, and how much to drink.",
+  "one_liner": "Nix is developing a single use hydration sensor that informs athletes' hydration strategy: when to drink, what to drink, and how much to drink.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/NixBiosensors",
+    "linkedin": "https://linkedin.com/company/nix",
+    "facebook": "https://facebook.com/nixbiosensors/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nix",
+  "api": "/api/companies/nix.json"
+}

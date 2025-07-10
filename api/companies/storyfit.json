@@ -1,0 +1,24 @@
+{
+  "name": "StoryFit",
+  "slug": "storyfit",
+  "website": "https://linkedin.com/company/storyfit",
+  "description": "StoryFit uses machine learning and data analysis to predict content marketability, improve discovery, and drive sales for books, tv, and movies.",
+  "one_liner": "StoryFit uses machine learning and data analysis to predict content marketability, improve discovery, and drive sales for books, tv, and movies.",
+  "location": "Austin, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/storyfit",
+    "linkedin": "https://linkedin.com/company/storyfit",
+    "facebook": "https://facebook.com/storyfit/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/storyfit",
+  "api": "/api/companies/storyfit.json"
+}

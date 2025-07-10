@@ -1,0 +1,24 @@
+{
+  "name": "Plum",
+  "slug": "plum",
+  "website": "https://linkedin.com/company/3614314?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId%3A2592863651486775395841%2CVSRPtargetId%3A3614314%2CVSRPcmpt%3Aprimary",
+  "description": "The Plum Lightpad(tm) replaces your existing light switch and connects to your home's WiFi allowing you to control your lights directly from your smart phone while at home or away.",
+  "one_liner": "The Plum Lightpad(tm) replaces your existing light switch and connects to your home's WiFi allowing you to control your lights directly from your smart phone while at home or away.",
+  "location": "Austin, Texas, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GetPlum",
+    "linkedin": "https://linkedin.com/company/3614314?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId%3A2592863651486775395841%2CVSRPtargetId%3A3614314%2CVSRPcmpt%3Aprimary",
+    "facebook": "https://facebook.com/ube.is.home"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/plum",
+  "api": "/api/companies/plum.json"
+}

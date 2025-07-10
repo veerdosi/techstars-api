@@ -1,0 +1,23 @@
+{
+  "name": "Apparier",
+  "slug": "apparier",
+  "website": "https://apparier.com/",
+  "description": "Our software solution allows the restaurant team to sell their best products, when they want, through our product management system.",
+  "one_liner": "Our software solution allows the restaurant team to sell their best products, when they want, through our product management system.",
+  "location": "London, United Kingdom",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/myapparier",
+    "linkedin": "https://linkedin.com/company/apparier"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/apparier",
+  "api": "/api/companies/apparier.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Better Living Technologies",
+  "slug": "better-living-technologies",
+  "website": "https://betterlivingtech.net/",
+  "description": "Better Living Tech. brings peace of mind to caregivers of chronic disease by providing remote monitoring solutions giving insights into health and data trends.",
+  "one_liner": "Better Living Tech. brings peace of mind to caregivers of chronic disease by providing remote monitoring solutions giving insights into health and data trends.",
+  "location": "Austin, Texas, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/betterlivingtechnologies",
+    "facebook": "https://facebook.com/Better-Living-Technologies-279582402591224"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/better-living-technologies",
+  "api": "/api/companies/better-living-technologies.json"
+}

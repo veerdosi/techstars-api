@@ -1,0 +1,24 @@
+{
+  "name": "Shipshape Urban Farms",
+  "slug": "shipshape-urban-farms",
+  "website": "https://shipshapeurbanfarms.com/",
+  "description": "Shipshape designs and manufactures modular, hydroponic farms that make fresh vegetables accessible in urban markets year-round.",
+  "one_liner": "Shipshape designs and manufactures modular, hydroponic farms that make fresh vegetables accessible in urban markets year-round.",
+  "location": "Mobile, Alabama, United States",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vr7rehktg4jg6idhktkb",
+  "social_media": {
+    "twitter": "https://twitter.com/Shipshapefarms",
+    "linkedin": "https://linkedin.com/company/shipshapeurbanfarms",
+    "facebook": "https://facebook.com/ShipshapeUrbanFarms/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/shipshape-urban-farms",
+  "api": "/api/companies/shipshape-urban-farms.json"
+}

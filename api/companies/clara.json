@@ -1,0 +1,24 @@
+{
+  "name": "Clara",
+  "slug": "clara",
+  "website": "https://clara.co/",
+  "description": "Clara is a legal operating system that digitizes and automates startup legal expertise.",
+  "one_liner": "Clara is a legal operating system that digitizes and automates startup legal expertise.",
+  "location": "Abu Dhabi, United Arab Emirates",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/claradotco",
+    "linkedin": "https://linkedin.com/company/claradotco",
+    "facebook": "https://facebook.com/Fintechdb/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/clara",
+  "api": "/api/companies/clara.json"
+}

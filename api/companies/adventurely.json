@@ -1,0 +1,24 @@
+{
+  "name": "Adventurely",
+  "slug": "adventurely",
+  "website": "https://adventurely.app/",
+  "description": "Book coworking day passes to hotels, cafes, cowork studios & 3rd spaces",
+  "one_liner": "Book coworking day passes to hotels, cafes, cowork studios & 3rd spaces",
+  "location": "New York City, New York, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/qrgdoijoxh3hehjp5hw6",
+  "social_media": {
+    "twitter": "https://twitter.com/adventurely",
+    "linkedin": "https://linkedin.com/company/adventurely",
+    "facebook": "https://facebook.com/adventurely"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/adventurely",
+  "api": "/api/companies/adventurely.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Skycharge",
+  "slug": "skycharge",
+  "website": "https://linkedin.com/company/skycharge",
+  "description": "Drone Charging Infrastructure",
+  "one_liner": "Drone Charging Infrastructure",
+  "location": "Berlin, Germany",
+  "industry": "Robotics and Drones",
+  "industry_slug": "robotics-drones",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/skychargeDE",
+    "linkedin": "https://linkedin.com/company/skycharge",
+    "facebook": "https://facebook.com/skysense"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/skycharge",
+  "api": "/api/companies/skycharge.json"
+}

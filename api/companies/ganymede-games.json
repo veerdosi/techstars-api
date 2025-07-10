@@ -1,0 +1,24 @@
+{
+  "name": "Ganymede Games",
+  "slug": "ganymede-games",
+  "website": "https://ganymede.games/",
+  "description": "For adult gamers with busy lives, Ganymede builds bite-sized episodic games.",
+  "one_liner": "For adult gamers with busy lives, Ganymede builds bite-sized episodic games.",
+  "location": "Las Cruces, New Mexico, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ganymede_games",
+    "linkedin": "https://linkedin.com/company/ganymede-games",
+    "facebook": "https://facebook.com/ganymedegames/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ganymede-games",
+  "api": "/api/companies/ganymede-games.json"
+}

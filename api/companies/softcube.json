@@ -1,0 +1,24 @@
+{
+  "name": "Softcube",
+  "slug": "softcube",
+  "website": "https://linkedin.com/company/softcube-inc",
+  "description": "Automatic video ad creation and optimisation for all products in a store's catalog",
+  "one_liner": "Automatic video ad creation and optimisation for all products in a store's catalog",
+  "location": "New York City, New York, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cv4sinplxv1nhqwv5led",
+  "social_media": {
+    "twitter": "https://twitter.com/Softcube_video",
+    "linkedin": "https://linkedin.com/company/softcube-inc",
+    "facebook": "https://facebook.com/softcube.video/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/softcube",
+  "api": "/api/companies/softcube.json"
+}

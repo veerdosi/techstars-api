@@ -1,0 +1,23 @@
+{
+  "name": "Material Evolution",
+  "slug": "material-evolution",
+  "website": "https://materialevolution.co.uk/",
+  "description": "Material Evolution makes smart and sustainable concrete using data insights.",
+  "one_liner": "Material Evolution makes smart and sustainable concrete using data insights.",
+  "location": "Belfast, United Kingdom",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/materialevo",
+    "linkedin": "https://linkedin.com/company/materialevolution"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/material-evolution",
+  "api": "/api/companies/material-evolution.json"
+}

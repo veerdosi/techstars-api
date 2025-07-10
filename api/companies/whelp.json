@@ -1,0 +1,24 @@
+{
+  "name": "Whelp",
+  "slug": "whelp",
+  "website": "https://whelp.co/",
+  "description": "Whelp utilizes an AI-based chatbot to automate online customer support, and unifies customer communication across multiple platforms into one user-friendly intuitive interface.",
+  "one_liner": "Whelp utilizes an AI-based chatbot to automate online customer support, and unifies customer communication across multiple platforms into one user-friendly intuitive interface.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/getwhelp",
+    "linkedin": "https://linkedin.com/company/whelp",
+    "facebook": "https://facebook.com/getwhelp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/whelp",
+  "api": "/api/companies/whelp.json"
+}

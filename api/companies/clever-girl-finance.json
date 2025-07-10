@@ -1,0 +1,24 @@
+{
+  "name": "Clever Girl Finance",
+  "slug": "clever-girl-finance",
+  "website": "https://clevergirlfinance.com/",
+  "description": "Online financial education platform for women providing education through bite-size easy to digest online courses and access to an incredible community.",
+  "one_liner": "Online financial education platform for women providing education through bite-size easy to digest online courses and access to an incredible community.",
+  "location": "Annandale, New Jersey, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/clevergirlcgf",
+    "linkedin": "https://linkedin.com/company/clever-girl-finance",
+    "facebook": "https://facebook.com/clevergirlfinance/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/clever-girl-finance",
+  "api": "/api/companies/clever-girl-finance.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Caddy Systems",
+  "slug": "caddy-systems",
+  "website": "https://joincaddy.com/",
+  "description": "Unlocking smarter food safety and traceability by automating food processors' everyday workflows.",
+  "one_liner": "Unlocking smarter food safety and traceability by automating food processors' everyday workflows.",
+  "location": "Markham, Ontario, Canada",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/joincaddy",
+    "linkedin": "https://linkedin.com/company/joincaddy",
+    "facebook": "https://facebook.com/joincaddy/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/caddy-systems",
+  "api": "/api/companies/caddy-systems.json"
+}

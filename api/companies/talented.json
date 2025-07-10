@@ -1,0 +1,24 @@
+{
+  "name": "Talented",
+  "slug": "talented",
+  "website": "https://linkedin.com/company/51626202",
+  "description": "Identify and invest in employee potential with the Talented automated professional development & discovery system.",
+  "one_liner": "Identify and invest in employee potential with the Talented automated professional development & discovery system.",
+  "location": "Chapel Hill, North Carolina, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Talented_App",
+    "linkedin": "https://linkedin.com/company/51626202",
+    "facebook": "https://facebook.com/Talented-1783742028575047/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/talented",
+  "api": "/api/companies/talented.json"
+}

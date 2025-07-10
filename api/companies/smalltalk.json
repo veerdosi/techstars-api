@@ -1,0 +1,24 @@
+{
+  "name": "smallTalk",
+  "slug": "smalltalk",
+  "website": "https://smalltalk.tech/",
+  "description": "smallTalk has created an innovative speaker system to bring recorded caregiver voices to NICU babies. The NICU Egg enhances parent-baby bonding, while the ACTIVE Egg, paired with a sensor-equipped pacifier, aims to support brain development in preterm infants upon FDA clearance. Blending neurodevelopmental science with the power of voice, we empower NICU families--and soon, we'll expand into homes with products for language and early childhood development.",
+  "one_liner": "smallTalk has created an innovative speaker system to bring recorded caregiver voices to NICU babies. The NICU Egg enhances parent-baby bonding, while the ACTIVE Egg, paired with a sensor-equipped pacifier, aims to support brain development in preterm infants upon FDA clearance. Blending neurodevelopmental science with the power of voice, we empower NICU families--and soon, we'll expand into homes with products for language and early childhood development.",
+  "location": "Columbus, Ohio, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/h9725vkhxeg5enr9ooz5",
+  "social_media": {
+    "twitter": "https://twitter.com/smalltalk_tech",
+    "linkedin": "https://linkedin.com/company/smalltalk-tech",
+    "facebook": "https://facebook.com/smalltalk.babytech/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/smalltalk",
+  "api": "/api/companies/smalltalk.json"
+}

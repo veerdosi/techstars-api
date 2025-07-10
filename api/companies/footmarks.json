@@ -1,0 +1,24 @@
+{
+  "name": "Footmarks",
+  "slug": "footmarks",
+  "website": "https://footmarks.com/",
+  "description": "Footmarks is a beacon technology platform brands use to create location-aware and personalized experiences for consumers.",
+  "one_liner": "Footmarks is a beacon technology platform brands use to create location-aware and personalized experiences for consumers.",
+  "location": "Redmond, Washington, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/footmarks_com",
+    "linkedin": "https://linkedin.com/company/2840130",
+    "facebook": "https://facebook.com/footmarks"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/footmarks",
+  "api": "/api/companies/footmarks.json"
+}

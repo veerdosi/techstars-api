@@ -1,0 +1,22 @@
+{
+  "name": "DiDi",
+  "slug": "didi",
+  "website": "https://dididata.io/",
+  "description": "For investment banks, private equity firms, and consulting firms that spend extensive time and resources on financial analysis and due diligence, DiDi offers an AI-powered software that automates processes and material creation. Delivering accurate and comprehensive research, memos, financial models, presentations, and reports in a fraction of the time.",
+  "one_liner": "For investment banks, private equity firms, and consulting firms that spend extensive time and resources on financial analysis and due diligence, DiDi offers an AI-powered software that automates processes and material creation. Delivering accurate and comprehensive research, memos, financial models, presentations, and reports in a fraction of the time.",
+  "location": "Revere, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/dididata"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/didi",
+  "api": "/api/companies/didi.json"
+}

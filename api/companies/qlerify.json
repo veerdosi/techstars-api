@@ -1,0 +1,22 @@
+{
+  "name": "Qlerify",
+  "slug": "qlerify",
+  "website": "https://qlerify.com/",
+  "description": "Qlerify helps non-techies to easily turn their domain knowledge into visual specifications in a format that software developers love",
+  "one_liner": "Qlerify helps non-techies to easily turn their domain knowledge into visual specifications in a format that software developers love",
+  "location": "Stockholm, Sweden",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/qlerify"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/qlerify",
+  "api": "/api/companies/qlerify.json"
+}

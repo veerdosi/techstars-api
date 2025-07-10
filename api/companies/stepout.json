@@ -1,0 +1,24 @@
+{
+  "name": "StepOut",
+  "slug": "stepout",
+  "website": "https://stepout.com/",
+  "description": "Group dating",
+  "one_liner": "Group dating",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/stepoutnow",
+    "linkedin": "https://linkedin.com/company/593177",
+    "facebook": "https://facebook.com/stepout"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/stepout",
+  "api": "/api/companies/stepout.json"
+}

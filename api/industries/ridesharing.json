@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Metro Africa Xpress",
+    "website": "https://max.ng/",
+    "description": "Providing infrastructure and services to taxi drivers across Africa.",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/maxdotng",
+      "linkedin": "https://linkedin.com/company/maxdriveai",
+      "facebook": "https://facebook.com/pages/Metro-Africa-Xpress-MAX/837791536289252"
+    },
+    "industry": "Ridesharing",
+    "industry_slug": "ridesharing"
+  },
+  {
+    "name": "Gridwise",
+    "website": "https://gridwise.io/",
+    "description": "Gridwise uses data analytics to empower on-demand drivers, cities, and other mobility stakeholders.",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gridwise_io",
+      "linkedin": "https://linkedin.com/company/gridwise",
+      "facebook": "https://facebook.com/Gridwise.io"
+    },
+    "industry": "Ridesharing",
+    "industry_slug": "ridesharing"
+  },
+  {
+    "name": "Peerby",
+    "website": "https://peerby.com/",
+    "description": "Borrow the things you need from others in their neighborhood.",
+    "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/112248-6ba181c8aec16fea2624569252be169d-medium_jpg.jpg?buster=1344532685",
+    "location": "Amsterdam, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/peerby",
+      "linkedin": "https://linkedin.com/company/2459488",
+      "facebook": "https://facebook.com/peerby"
+    },
+    "industry": "Ridesharing",
+    "industry_slug": "ridesharing"
+  },
+  {
+    "name": "Fllite",
+    "website": "https://fllite.com/",
+    "description": "AI Integrated Marketplace for On-Demand Air Service.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {},
+    "industry": "Ridesharing",
+    "industry_slug": "ridesharing"
+  },
+  {
+    "name": "Zown",
+    "website": "https://jrop.co/",
+    "description": "Location pin API to streamline ridehailing pick-ups",
+    "location": "Waterloo, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/zownit",
+      "linkedin": "https://linkedin.com/company/zown-it"
+    },
+    "industry": "Ridesharing",
+    "industry_slug": "ridesharing"
+  },
+  {
+    "name": "VueBox",
+    "website": "https://vuebox.co/",
+    "description": "Enabling the future of commuting experiences.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/u95jdervdo80yrjw408z",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ridevuebox",
+      "linkedin": "https://linkedin.com/company/vuebox",
+      "facebook": "https://facebook.com/ridevuebox/"
+    },
+    "industry": "Ridesharing",
+    "industry_slug": "ridesharing"
+  },
+  {
+    "name": "Movez",
+    "website": "https://movez.com/",
+    "description": "For event curators or experience seekers longing to have their cities' experiences mass-marketed, we provide intuitive software that enables immersive event experiences' discoverability, organization & network cultivation end-to-end.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/movezapp",
+      "linkedin": "https://linkedin.com/company/movezapp",
+      "facebook": "https://facebook.com/movezapp"
+    },
+    "industry": "Ridesharing",
+    "industry_slug": "ridesharing"
+  }
+]

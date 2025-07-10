@@ -1,0 +1,24 @@
+{
+  "name": "Player's Health",
+  "slug": "player-s-health",
+  "website": "https://playershealth.com/",
+  "description": "Player's Health is an insurance agency that protects athletes and sports organizations with a unique risk management platform.",
+  "one_liner": "Player's Health is an insurance agency that protects athletes and sports organizations with a unique risk management platform.",
+  "location": "Minneapolis, Minnesota, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/PlayersHealth",
+    "linkedin": "https://linkedin.com/company/team-interval-powered-by-ao1-solutions-inc-",
+    "facebook": "https://facebook.com/playershealth"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/player-s-health",
+  "api": "/api/companies/player-s-health.json"
+}

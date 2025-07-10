@@ -1,0 +1,24 @@
+{
+  "name": "Elemetric",
+  "slug": "elemetric",
+  "website": "https://linkedin.com/company/15227884",
+  "description": "Elemetric is an API service for the blockchain internet, creating a marketplace that bridges data on the internet today and data used in blockchain applications",
+  "one_liner": "Elemetric is an API service for the blockchain internet, creating a marketplace that bridges data on the internet today and data used in blockchain applications",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/elemetric_",
+    "linkedin": "https://linkedin.com/company/15227884",
+    "facebook": "https://facebook.com/getelemetric/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/elemetric",
+  "api": "/api/companies/elemetric.json"
+}

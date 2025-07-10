@@ -1,0 +1,23 @@
+{
+  "name": "Level2",
+  "slug": "level2",
+  "website": "https://trylevel2.com/",
+  "description": "The first fully visual no-code automated strategy creation tool built for retail traders",
+  "one_liner": "The first fully visual no-code automated strategy creation tool built for retail traders",
+  "location": "Cardiff, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mktdynamics.com",
+    "linkedin": "https://linkedin.com/company/market-dynamics-no-code-tool"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/level2",
+  "api": "/api/companies/level2.json"
+}

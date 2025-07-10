@@ -1,0 +1,24 @@
+{
+  "name": "keen home",
+  "slug": "keen-home",
+  "website": "https://keenhome.io/",
+  "description": "Building proactive hardware and software that enhance the core functions of a home.",
+  "one_liner": "Building proactive hardware and software that enhance the core functions of a home.",
+  "location": "New York City, New York, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/keenhome",
+    "linkedin": "https://linkedin.com/company/keen-home-inc-",
+    "facebook": "https://facebook.com/KeenHome"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/keen-home",
+  "api": "/api/companies/keen-home.json"
+}

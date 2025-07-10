@@ -1,0 +1,23 @@
+{
+  "name": "Mimrr",
+  "slug": "mimrr",
+  "website": "https://mimrr.com/",
+  "description": "Mimrr is an AI Agent for product development teams that ensures they never miss deadlines by  automating low-level tasks like codebase documentation, writing tickets, unit tests, PR reviews, and ticket backlog resolution.",
+  "one_liner": "Mimrr is an AI Agent for product development teams that ensures they never miss deadlines by  automating low-level tasks like codebase documentation, writing tickets, unit tests, PR reviews, and ticket backlog resolution.",
+  "location": "Dover, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mimrrhq",
+    "linkedin": "https://linkedin.com/company/mimrrhq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mimrr",
+  "api": "/api/companies/mimrr.json"
+}

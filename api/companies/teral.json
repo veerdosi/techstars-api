@@ -1,0 +1,23 @@
+{
+  "name": "TERAL",
+  "slug": "teral",
+  "website": "https://teralmed.com/",
+  "description": "TERAL will be the largest repository of clinical cases in the world to solve challenging cases between health professionals at real time",
+  "one_liner": "TERAL will be the largest repository of clinical cases in the world to solve challenging cases between health professionals at real time",
+  "location": "Medellín, Colombia",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/teralmed",
+    "facebook": "https://facebook.com/profile.php"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/teral",
+  "api": "/api/companies/teral.json"
+}

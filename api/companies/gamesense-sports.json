@@ -1,0 +1,24 @@
+{
+  "name": "gameSense Sports",
+  "slug": "gamesense-sports",
+  "website": "https://gamesensesports.com/",
+  "description": "Our mission is to make cognitive training as universal, accessible & affordable as physical training for all sports participants - amateur thru pro.",
+  "one_liner": "Our mission is to make cognitive training as universal, accessible & affordable as physical training for all sports participants - amateur thru pro.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GameSenseSports",
+    "linkedin": "https://linkedin.com/company/gamesense-sports",
+    "facebook": "https://facebook.com/pg/gamesensesports"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gamesense-sports",
+  "api": "/api/companies/gamesense-sports.json"
+}

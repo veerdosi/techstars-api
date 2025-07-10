@@ -1,0 +1,24 @@
+{
+  "name": "Dreami",
+  "slug": "dreami",
+  "website": "https://dreami.io/",
+  "description": "Dreami powers equitable and scalable mentorship for all.",
+  "one_liner": "Dreami powers equitable and scalable mentorship for all.",
+  "location": "Redwood City, California, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/joindreami",
+    "linkedin": "https://linkedin.com/company/dreami-io",
+    "facebook": "https://facebook.com/dreami.io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dreami",
+  "api": "/api/companies/dreami.json"
+}

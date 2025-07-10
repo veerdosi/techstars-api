@@ -1,0 +1,22 @@
+{
+  "name": "EmbodyMe",
+  "slug": "embodyme",
+  "website": "https://company.embodyme.com/",
+  "description": "EmbodyMe is developing patented AI technology that will revolutionize the way you video chat, live stream, and create videos.",
+  "one_liner": "EmbodyMe is developing patented AI technology that will revolutionize the way you video chat, live stream, and create videos.",
+  "location": "Tokyo, Japan",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/embodyme-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/embodyme",
+  "api": "/api/companies/embodyme.json"
+}

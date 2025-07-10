@@ -1,0 +1,24 @@
+{
+  "name": "Rex Animal Health",
+  "slug": "rex-animal-health",
+  "website": "https://rexanimalhealth.com/",
+  "description": "We're on a mission to help farmers feed the world",
+  "one_liner": "We're on a mission to help farmers feed the world",
+  "location": "San Francisco, California, United States",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1472689880/zjvdcvcneuibqfn2m105.png",
+  "social_media": {
+    "twitter": "https://twitter.com/rexanimalhealth",
+    "linkedin": "https://linkedin.com/company/3807980",
+    "facebook": "https://facebook.com/rexanimalhealth"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rex-animal-health",
+  "api": "/api/companies/rex-animal-health.json"
+}

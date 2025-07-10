@@ -1,0 +1,24 @@
+{
+  "name": "HaveMyShift",
+  "slug": "havemyshift",
+  "website": "https://linkedin.com/company/havemyshift",
+  "description": "Shift worker trading",
+  "one_liner": "Shift worker trading",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/havemyshift",
+    "linkedin": "https://linkedin.com/company/havemyshift",
+    "facebook": "https://facebook.com/pages/HaveMyShift/128372230546627"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/havemyshift",
+  "api": "/api/companies/havemyshift.json"
+}

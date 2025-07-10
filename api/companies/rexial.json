@@ -1,0 +1,22 @@
+{
+  "name": "REXIAL",
+  "slug": "rexial",
+  "website": "https://rexial.com/",
+  "description": "REXIAL automates recurring payments in Africa using direct debits for bills directly from customer's Bank or Mobile Money accounts.",
+  "one_liner": "REXIAL automates recurring payments in Africa using direct debits for bills directly from customer's Bank or Mobile Money accounts.",
+  "location": "Port Jefferson, New York, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/rexial"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rexial",
+  "api": "/api/companies/rexial.json"
+}

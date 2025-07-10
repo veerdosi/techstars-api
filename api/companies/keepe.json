@@ -1,0 +1,24 @@
+{
+  "name": "Keepe",
+  "slug": "keepe",
+  "website": "https://keepe.com/",
+  "description": "B2B Marketplace connecting Property Managers to Contractors",
+  "one_liner": "B2B Marketplace connecting Property Managers to Contractors",
+  "location": "Seattle, Washington, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/KeepeApp",
+    "linkedin": "https://linkedin.com/company/keepe",
+    "facebook": "https://facebook.com/keepeapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/keepe",
+  "api": "/api/companies/keepe.json"
+}

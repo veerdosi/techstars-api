@@ -1,0 +1,23 @@
+{
+  "name": "RefineRE",
+  "slug": "refinere",
+  "website": "https://refinere.com/",
+  "description": "RefineRE leverages real-time market data to provide portfolio intelligence for organizations looking to make smarter decisions about their CRE footprint",
+  "one_liner": "RefineRE leverages real-time market data to provide portfolio intelligence for organizations looking to make smarter decisions about their CRE footprint",
+  "location": "Dallas, Texas, United States",
+  "industry": "Real estate tech",
+  "industry_slug": "real-estate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/refinere",
+    "linkedin": "https://linkedin.com/company/refinere"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/refinere",
+  "api": "/api/companies/refinere.json"
+}

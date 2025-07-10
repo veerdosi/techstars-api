@@ -1,0 +1,24 @@
+{
+  "name": "Kapta",
+  "slug": "kapta",
+  "website": "https://kapta.com/",
+  "description": "Key Account Management software",
+  "one_liner": "Key Account Management software",
+  "location": "Boulder, Colorado, United States",
+  "industry": "SaaS",
+  "industry_slug": "saas",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/kapta",
+    "linkedin": "https://linkedin.com/company/kapta",
+    "facebook": "https://facebook.com/Kapta-322296979184751/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kapta",
+  "api": "/api/companies/kapta.json"
+}

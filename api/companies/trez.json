@@ -1,0 +1,24 @@
+{
+  "name": "Trez",
+  "slug": "trez",
+  "website": "https://trez.co/",
+  "description": "We help set your business up for success with payroll, benefits, and more.",
+  "one_liner": "We help set your business up for success with payroll, benefits, and more.",
+  "location": "Houston, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/TrezFin",
+    "linkedin": "https://linkedin.com/company/trez-inc",
+    "facebook": "https://facebook.com/profile.php"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/trez",
+  "api": "/api/companies/trez.json"
+}

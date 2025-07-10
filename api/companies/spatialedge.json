@@ -1,0 +1,23 @@
+{
+  "name": "Spatialedge",
+  "slug": "spatialedge",
+  "website": "https://spatialedge.co.za/",
+  "description": "Spatialedge helps you build profitable customer relationships at scale using geospatial data and AI",
+  "one_liner": "Spatialedge helps you build profitable customer relationships at scale using geospatial data and AI",
+  "location": "Stellenbosch, South Africa",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Spatialedge_",
+    "linkedin": "https://linkedin.com/company/18022097"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/spatialedge",
+  "api": "/api/companies/spatialedge.json"
+}

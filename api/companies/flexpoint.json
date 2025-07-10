@@ -1,0 +1,22 @@
+{
+  "name": "FlexPoint",
+  "slug": "flexpoint",
+  "website": "https://getflexpoint.com/",
+  "description": "For the technology procurement market struggling with offline payments and complex billings, FlexPoint provides a digital payments platform that modernizes the way businesses buy and sell technology.",
+  "one_liner": "For the technology procurement market struggling with offline payments and complex billings, FlexPoint provides a digital payments platform that modernizes the way businesses buy and sell technology.",
+  "location": "Minnetonka, Minnesota, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/getflexpoint"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/flexpoint",
+  "api": "/api/companies/flexpoint.json"
+}

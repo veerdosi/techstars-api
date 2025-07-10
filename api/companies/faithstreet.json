@@ -1,0 +1,24 @@
+{
+  "name": "FaithStreet",
+  "slug": "faithstreet",
+  "website": "https://faithstreet.com/",
+  "description": "We help faithful people become faithful givers.",
+  "one_liner": "We help faithful people become faithful givers.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/25024-b56eca391dfb3aa19e4e327f8303f649-thumb_jpg.jpg?buster=1353527770",
+  "social_media": {
+    "twitter": "https://twitter.com/FaithStreet",
+    "linkedin": "https://linkedin.com/company/faithstreet",
+    "facebook": "https://facebook.com/faithstreet"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/faithstreet",
+  "api": "/api/companies/faithstreet.json"
+}

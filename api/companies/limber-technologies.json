@@ -1,0 +1,22 @@
+{
+  "name": "Limber Technologies",
+  "slug": "limber-technologies",
+  "website": "https://limber.life/",
+  "description": "Limber is the first tech-enabled fall prevention service for older adults with impaired mobility, addressing a $30B annual cost to Medicare.",
+  "one_liner": "Limber is the first tech-enabled fall prevention service for older adults with impaired mobility, addressing a $30B annual cost to Medicare.",
+  "location": "Brooklyn, New York, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/limbermobility"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/limber-technologies",
+  "api": "/api/companies/limber-technologies.json"
+}

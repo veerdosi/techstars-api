@@ -1,0 +1,24 @@
+{
+  "name": "Qunb",
+  "slug": "qunb",
+  "website": "https://qunb.com/",
+  "description": "One-stop-shop for figures",
+  "one_liner": "One-stop-shop for figures",
+  "location": "Paris, France",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/11393-6c14d76c96d0ce36ddd67e4ddebc512d-medium_jpg.jpg?buster=1369254128",
+  "social_media": {
+    "twitter": "https://twitter.com/qunb",
+    "linkedin": "https://linkedin.com/company/qunb",
+    "facebook": "https://facebook.com/myqunb"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/qunb",
+  "api": "/api/companies/qunb.json"
+}

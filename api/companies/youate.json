@@ -1,0 +1,24 @@
+{
+  "name": "YouAte",
+  "slug": "youate",
+  "website": "https://youate.com/",
+  "description": "A mindful food journaling app and coaching dashboard focusing on the whole person. Helping people transform their relationship with life, starting with food.",
+  "one_liner": "A mindful food journaling app and coaching dashboard focusing on the whole person. Helping people transform their relationship with life, starting with food.",
+  "location": "Redwood City, California, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/youateapp",
+    "linkedin": "https://linkedin.com/company/youateapp",
+    "facebook": "https://facebook.com/youateapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/youate",
+  "api": "/api/companies/youate.json"
+}

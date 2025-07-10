@@ -1,0 +1,23 @@
+{
+  "name": "JibJib",
+  "slug": "jibjib",
+  "website": "https://linkedin.com/company/contactable.io",
+  "description": "Contactable is a database that enables its users to find journalists by their topics of interests. It also enables them to review previously written content of the listed journalists.",
+  "one_liner": "Contactable is a database that enables its users to find journalists by their topics of interests. It also enables them to review previously written content of the listed journalists.",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ContactableIO",
+    "linkedin": "https://linkedin.com/company/contactable.io"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/jibjib",
+  "api": "/api/companies/jibjib.json"
+}

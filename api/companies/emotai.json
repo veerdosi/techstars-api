@@ -1,0 +1,24 @@
+{
+  "name": "EMOTAI",
+  "slug": "emotai",
+  "website": "https://emotai.tech/",
+  "description": "Boosting gamers' performance using neurotechnology.",
+  "one_liner": "Boosting gamers' performance using neurotechnology.",
+  "location": "Lisbon, Portugal",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cn17u6ub4fn3ppbuunbn",
+  "social_media": {
+    "twitter": "https://twitter.com/emotai_tech",
+    "linkedin": "https://linkedin.com/company/emotai",
+    "facebook": "https://facebook.com/EmotAI.tech/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/emotai",
+  "api": "/api/companies/emotai.json"
+}

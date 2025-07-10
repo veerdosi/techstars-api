@@ -1,0 +1,24 @@
+{
+  "name": "Gather Flora",
+  "slug": "gather-flora",
+  "website": "https://gatherflora.com/",
+  "description": "Global Flower Marketplace",
+  "one_liner": "Global Flower Marketplace",
+  "location": "Vallejo, California, United States",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GatherFloraHelp",
+    "linkedin": "https://linkedin.com/company/gather-flora",
+    "facebook": "https://facebook.com/gatherflora/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gather-flora",
+  "api": "/api/companies/gather-flora.json"
+}

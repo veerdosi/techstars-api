@@ -1,0 +1,24 @@
+{
+  "name": "Fathom Drone",
+  "slug": "fathom-drone",
+  "website": "https://linkedin.com/company/fathom",
+  "description": "Fathom is modernizing and simplifying the recreational rental industry starting with the Fathom One, an underwater drone built for adventure.",
+  "one_liner": "Fathom is modernizing and simplifying the recreational rental industry starting with the Fathom One, an underwater drone built for adventure.",
+  "location": "Grand Rapids, Michigan, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/FathomDrone",
+    "linkedin": "https://linkedin.com/company/fathom",
+    "facebook": "https://facebook.com/FathomDrone"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fathom-drone",
+  "api": "/api/companies/fathom-drone.json"
+}

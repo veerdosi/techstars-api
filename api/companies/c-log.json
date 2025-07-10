@@ -1,0 +1,22 @@
+{
+  "name": "C-Log",
+  "slug": "c-log",
+  "website": "https://linkedin.com/company/c-log-compliance-identity-management",
+  "description": "C-LOG is a secure and digital platform pioneering data collaboration across the maritime industry. The platform focusing on enabling dynamic, transparent and secure data collaboration among stakeholders in the maritime industry. It reduces costs and in...",
+  "one_liner": "C-LOG is a secure and digital platform pioneering data collaboration across the maritime industry. The platform focusing on enabling dynamic, transparent and secure data collaboration among stakeholders in the maritime industry. It reduces costs and in...",
+  "location": "Singapore, Singapore",
+  "industry": "Future of work",
+  "industry_slug": "future-of-work",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/c-log-compliance-identity-management"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/c-log",
+  "api": "/api/companies/c-log.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Growth Geeks",
+  "slug": "growth-geeks",
+  "website": "https://growthgeeks.com/",
+  "description": "An exclusive network of digital marketing experts.",
+  "one_liner": "An exclusive network of digital marketing experts.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/growth_geeks",
+    "linkedin": "https://linkedin.com/company/growth-geeks",
+    "facebook": "https://facebook.com/growthgeeks"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/growth-geeks",
+  "api": "/api/companies/growth-geeks.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "NUBO",
+  "slug": "nubo",
+  "website": "https://newurbanoffice.com/",
+  "description": "NUBO is the platform shaping the future of work. It's a widespread workspace network leveraging underused urban spaces accessible through a single and flexible membership and allowing you to access a community of professionals to connect with.",
+  "one_liner": "NUBO is the platform shaping the future of work. It's a widespread workspace network leveraging underused urban spaces accessible through a single and flexible membership and allowing you to access a community of professionals to connect with.",
+  "location": "Milano, Milan, Italy",
+  "industry": "Real estate tech",
+  "industry_slug": "real-estate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/nubo-new-urban-office",
+    "facebook": "https://facebook.com/NUBOnewurbanoffice/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nubo",
+  "api": "/api/companies/nubo.json"
+}

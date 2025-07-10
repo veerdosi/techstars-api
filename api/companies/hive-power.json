@@ -1,0 +1,24 @@
+{
+  "name": "Hive Power",
+  "slug": "hive-power",
+  "website": "https://hivepower.tech/",
+  "description": "Hive Power helps Energy Companies and Automakers to automate smart charging for electric vehicles.",
+  "one_liner": "Hive Power helps Energy Companies and Automakers to automate smart charging for electric vehicles.",
+  "location": "Manno, Switzerland",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hive_power",
+    "linkedin": "https://linkedin.com/company/hive-power",
+    "facebook": "https://facebook.com/pg/HivePower"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hive-power",
+  "api": "/api/companies/hive-power.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Pico",
+  "slug": "pico",
+  "website": "https://getpico.co/",
+  "description": "Learn coding the fun way by building your favorite games",
+  "one_liner": "Learn coding the fun way by building your favorite games",
+  "location": "Lewisham, New South Wales, Australia",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/pico-coding",
+    "facebook": "https://facebook.com/picocoding"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pico",
+  "api": "/api/companies/pico.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Cleo Robotics",
+  "slug": "cleo-robotics",
+  "website": "https://cleorobotics.com/",
+  "description": "Building safe and compact indoor drones for military, commercial, and industrial applications.",
+  "one_liner": "Building safe and compact indoor drones for military, commercial, and industrial applications.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Robotics and Drones",
+  "industry_slug": "robotics-drones",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/cleorobotics",
+    "linkedin": "https://linkedin.com/company/cleo-robotics-inc.",
+    "facebook": "https://facebook.com/cleorobotics/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cleo-robotics",
+  "api": "/api/companies/cleo-robotics.json"
+}

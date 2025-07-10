@@ -1,0 +1,24 @@
+{
+  "name": "Atlas",
+  "slug": "atlas",
+  "website": "https://linkedin.com/company/project-atlas-app",
+  "description": "Atlas is committed to building a fairer world for Authors, creating delightful and inspiring reading experiences for book lovers.",
+  "one_liner": "Atlas is committed to building a fairer world for Authors, creating delightful and inspiring reading experiences for book lovers.",
+  "location": "New York City, New York, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/atlastogether",
+    "linkedin": "https://linkedin.com/company/project-atlas-app",
+    "facebook": "https://facebook.com/heyyatlass"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/atlas",
+  "api": "/api/companies/atlas.json"
+}

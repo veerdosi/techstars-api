@@ -1,0 +1,24 @@
+{
+  "name": "Groover",
+  "slug": "groover",
+  "website": "https://groover.co/",
+  "description": "Reinventing music promotion",
+  "one_liner": "Reinventing music promotion",
+  "location": "Vauville, France",
+  "industry": "Technology, media and telecommunications",
+  "industry_slug": "tmt",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/HeyGroover",
+    "linkedin": "https://linkedin.com/company/heygroover",
+    "facebook": "https://facebook.com/HeyGroover/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/groover",
+  "api": "/api/companies/groover.json"
+}

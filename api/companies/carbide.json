@@ -1,0 +1,24 @@
+{
+  "name": "Carbide",
+  "slug": "carbide",
+  "website": "https://carbidesecure.com/",
+  "description": "Securicy is a SaaS that enables businesses to design, implement, manage and report on their Information Security and Privacy Compliance Strategy.",
+  "one_liner": "Securicy is a SaaS that enables businesses to design, implement, manage and report on their Information Security and Privacy Compliance Strategy.",
+  "location": "Sydney, Nova Scotia, Canada",
+  "industry": "Cybersecurity",
+  "industry_slug": "cybersecurity",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/securicyapp",
+    "linkedin": "https://linkedin.com/company/carbidesecure",
+    "facebook": "https://facebook.com/securicy"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/carbide",
+  "api": "/api/companies/carbide.json"
+}

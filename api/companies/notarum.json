@@ -1,0 +1,23 @@
+{
+  "name": "NOTARUM",
+  "slug": "notarum",
+  "website": "https://notarum.com/",
+  "description": "Enterprise SaaS workflow solution automating the due diligence process.",
+  "one_liner": "Enterprise SaaS workflow solution automating the due diligence process.",
+  "location": "Singapore, Singapore",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/notarum",
+    "linkedin": "https://linkedin.com/company/notarum"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/notarum",
+  "api": "/api/companies/notarum.json"
+}

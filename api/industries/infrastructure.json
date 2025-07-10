@@ -1,0 +1,3335 @@
+[
+  {
+    "name": "Kepler Communications",
+    "website": "https://kepler.space/",
+    "description": "Enabling real-time communications access to other spacecraft by developing a constellation of data relaying satellites that will effectively act as on-orbit cell phone towers.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/KeplerComms",
+      "linkedin": "https://linkedin.com/company/kepler-communications-inc-",
+      "facebook": "https://facebook.com/KeplerCommunications"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Twelve Labs",
+    "website": "https://twelvelabs.io/",
+    "description": "CTRL + F for contexts within videos.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/twelve_labs",
+      "linkedin": "https://linkedin.com/company/twelvelabs",
+      "facebook": "https://facebook.com/twelvelabs"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Phoenix Tailings",
+    "website": "https://phoenixtailings.com/",
+    "description": "A mining company powered by technology, eliminating waste and creating sustainably produced metals #MaterialScience #Mining #B2B #Sustainability",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/phoenixtailings",
+      "linkedin": "https://linkedin.com/company/mvmindustrial"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Sheeva",
+    "website": "https://sheeva.ai/",
+    "description": "An all-in-one mobility platform that revolutionizes urban driving through automation",
+    "location": "Alexandria, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/parkofon",
+      "linkedin": "https://linkedin.com/company/sheevaai",
+      "facebook": "https://facebook.com/sheevaAI"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Orbit Fab",
+    "website": "https://orbitfab.com/",
+    "description": "Gas Stations in Space(tm) - A multi-orbit refueling service provider, enabling novel mission flexibility for a bustling in-space economy.",
+    "location": "Santa Clara, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/orbitfab",
+      "linkedin": "https://linkedin.com/company/orbitfab",
+      "facebook": "https://facebook.com/OrbitFab/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "NATIX",
+    "website": "https://natix.network/",
+    "description": "We make any camera smart and 100% privacy compliant! Utilising our patent-pending technology, we are creating the largest crowd-sourced camera network worldwide.",
+    "location": "Hamburg, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/natix_io",
+      "linkedin": "https://linkedin.com/company/natixio",
+      "facebook": "https://facebook.com/natixvision/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Mentor Collective",
+    "website": "https://mentorcollective.org/",
+    "description": "Shearwater keeps students enrolled and engaged.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/shearwaterintl",
+      "linkedin": "https://linkedin.com/company/3353745",
+      "facebook": "https://facebook.com/mentorcollective/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Kintsugi",
+    "website": "https://kintsugihealth.com/",
+    "description": "Kintsugi detects signs of clinical depression and anxiety using machine learning and voice biomarkers.",
+    "location": "Berkeley, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Kintsugihealth",
+      "linkedin": "https://linkedin.com/company/kintsugihealth",
+      "facebook": "https://facebook.com/KintsugiHello"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Pretred",
+    "website": "https://pretred.com/",
+    "description": "Pretred recycles waste tires and repurposes them into barriers/blocks that are green, competitively priced, and offer greater benefits vs. concrete.",
+    "location": "Aurora, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pretred"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Distil Networks",
+    "website": "https://distilnetworks.com/",
+    "description": "The global leader in Bot detection and mitigation",
+    "location": "Arlington, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Imperva",
+      "linkedin": "https://linkedin.com/company/distil",
+      "facebook": "https://facebook.com/imperva"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Daupler",
+    "website": "https://daupler.com/",
+    "description": "First Response Software for Water Utilities and Public Works.",
+    "location": "Kansas City, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/dauplerinc",
+      "linkedin": "https://linkedin.com/company/daupler",
+      "facebook": "https://facebook.com/dauplerinc/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Threat Stack",
+    "website": "https://threatstack.com/",
+    "description": "Incident response in the cloud",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/threatstack",
+      "linkedin": "https://linkedin.com/company/threat-stack-inc",
+      "facebook": "https://facebook.com/ThreatStack/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Seldon",
+    "website": "https://seldon.io/",
+    "description": "Machine Learning Deployment Platform",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/seldon_io",
+      "linkedin": "https://linkedin.com/company/seldon",
+      "facebook": "https://facebook.com/seldonhq"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "HAAS Alert",
+    "website": "https://haasalert.com/",
+    "description": "HAAS Alert is the mobile vehicle-to-vehicle (V2V) platform that delivers preemptive notifications to motorists, informing them of the road ahead.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/haasalert",
+      "linkedin": "https://linkedin.com/company/haasalert",
+      "facebook": "https://facebook.com/haasalert/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Sprout",
+    "website": "https://sprout.ai/",
+    "description": "Sprout.ai empowers insurers to settle claims in as little as 24 hours by providing data driven insights.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Sprout_ai",
+      "linkedin": "https://linkedin.com/company/sproutai"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Post-Quantum",
+    "website": "https://post-quantum.com/",
+    "description": "Post-Quantum is a UK-based company specialising in secure communications, authentication, encryption and blockchain. The company offers a modular cyber security toolkit to the financial services, government, and other critical sectors.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/PQChatApp",
+      "linkedin": "https://linkedin.com/company/post-quantum"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Tenfold",
+    "website": "https://tenfold.com/",
+    "description": "Tenfold is the #1 Sales Call Workflow.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/growtenfold",
+      "linkedin": "https://linkedin.com/company/tenfold-brand",
+      "facebook": "https://facebook.com/growtenfold"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Cinchy",
+    "website": "https://cinchy.co/",
+    "description": "The first Data Collaboration platform built for the enterprise.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/itscinchy",
+      "linkedin": "https://linkedin.com/company/cinchy",
+      "facebook": "https://facebook.com/itscinchy"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Azuqua",
+    "website": "https://azuqua.com/",
+    "description": "Transformative web automation platform",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/azuqua",
+      "linkedin": "https://linkedin.com/company/azuqua",
+      "facebook": "https://facebook.com/azuqua"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "SocialSign",
+    "website": "https://socialsign.in/",
+    "description": "Use WiFi to build relationships with customers",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SocialSignIn",
+      "linkedin": "https://linkedin.com/company/socialsign-in",
+      "facebook": "https://facebook.com/SocialSignInCommunity"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Rezilient Health",
+    "website": "https://rezilienthealth.com/",
+    "description": "Rezilient Health bridges the convenience of telehealth with the broad scope of in-person care by offering neighborhood CloudClinics where families can get virtual access to their doctor as well as physical exams, labs, and imaging.",
+    "location": "St. Louis, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rezilienthealth",
+      "linkedin": "https://linkedin.com/company/rezilienthealth"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "EcoG",
+    "website": "https://ecog.io/",
+    "description": "B2B IoT platform enabling shared revenue streams and value added services in fast charging.",
+    "location": "Munich, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/ecog_io",
+      "linkedin": "https://linkedin.com/company/ecog",
+      "facebook": "https://facebook.com/ecog.emobility"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Cubbit",
+    "website": "https://cubbit.io/",
+    "description": "Cubbit is the first distributed data-center that recycles the unused Internet recourses of users and transforms them into web services",
+    "location": "Bologna, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/_cubbit",
+      "linkedin": "https://linkedin.com/company/cubbit",
+      "facebook": "https://facebook.com/cubbit.io"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Oriient",
+    "website": "https://oriient.me/",
+    "description": "The Indoor GPS Company.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/oriient_me",
+      "linkedin": "https://linkedin.com/company/10693382",
+      "facebook": "https://facebook.com/oriient.me"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "SegmentStream",
+    "website": "https://segmentstream.com/",
+    "description": "Data intelligence platform for digital marketing teams",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/segmentstream",
+      "linkedin": "https://linkedin.com/company/segmentstream",
+      "facebook": "https://facebook.com/segmentstream"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Rad",
+    "website": "https://rad.live/",
+    "description": "Premium VR Cinema Network",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/_WatchRad_",
+      "linkedin": "https://linkedin.com/company/watchrad",
+      "facebook": "https://facebook.com/WatchRad/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Stateless",
+    "website": "https://bestateless.com/",
+    "description": "Stateless provides high performance scalable network functions for private and public clouds.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bestateless",
+      "linkedin": "https://linkedin.com/company/stateless-inc.",
+      "facebook": "https://facebook.com/BeStateless/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "QuanTemplate",
+    "website": "https://quantemplate.com/",
+    "description": "Taking the insurance industry online",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/QuanTemplate",
+      "linkedin": "https://linkedin.com/company/3169357",
+      "facebook": "https://facebook.com/QuanTemplate-521123151303676/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "SmartMind",
+    "website": "https://smartmind.team/",
+    "description": "We provide AI-powered digital advertising management platform to maximize sales revenue by orchestrating multi channels with real time purchase pattern analysis",
+    "location": "Seoul, South Korea",
+    "social_media": {
+      "twitter": "https://twitter.com/SmartMi71261326",
+      "linkedin": "https://linkedin.com/company/smartmind-inc",
+      "facebook": "https://facebook.com/smartmind.team/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "TrojAI",
+    "website": "https://troj.ai/",
+    "description": "Robustness and security for AI.",
+    "location": "Saint John, New Brunswick, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/TrojAISec",
+      "linkedin": "https://linkedin.com/company/trojai",
+      "facebook": "https://facebook.com/TrojAI/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Niricson Software",
+    "website": "https://hrginfrastructure.com/",
+    "description": "Bringing Digital Revolution to Infrastructure Condition Assessment and Risk Management",
+    "location": "Victoria, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/niricson",
+      "linkedin": "https://linkedin.com/company/hrg-infrastructure",
+      "facebook": "https://facebook.com/HRGInfrastructure/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Streamroot",
+    "website": "https://streamroot.io/",
+    "description": "Peer-to-peer video delivery solution",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/StreamRoot",
+      "linkedin": "https://linkedin.com/company/streamroot",
+      "facebook": "https://facebook.com/StreamRoot"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "TypingDNA",
+    "website": "https://typingdna.com/",
+    "description": "TypingDNA provides typing biometrics authentication as a service, enabling companies recognize people by the way they type.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/typingdna",
+      "linkedin": "https://linkedin.com/company/typingdna",
+      "facebook": "https://facebook.com/typingdna"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Kriptos",
+    "website": "https://kriptos.io/",
+    "description": "Kriptos is a software that classifies & labels companies information using AI obtaining the probability of data loss, improving security policies and more!",
+    "location": "Tiburon, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/KriptosCorp",
+      "linkedin": "https://linkedin.com/company/kriptos",
+      "facebook": "https://facebook.com/pg/kriptos.io/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "echo3D",
+    "website": "https://echo3d.co/",
+    "description": "Cloud platform for augmented and virtual reality (AR/VR) apps that provides tools & server-side infrastructure to help companies build better 3D apps.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/_echoAR_",
+      "linkedin": "https://linkedin.com/company/echo3D",
+      "facebook": "https://facebook.com/echo3DInc/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Alyne",
+    "website": "https://alyne.com/",
+    "description": "Manage operational risk and technology compliance in one smart solution.",
+    "location": "Munich, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/alyne",
+      "linkedin": "https://linkedin.com/company/alyne",
+      "facebook": "https://facebook.com/AlyneDotCom"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "OnStation",
+    "website": "https://onstationapp.com/",
+    "description": "OnStation provides location-based information to workers on the road, helping them locate, visualize and communicate effectively.",
+    "location": "Cleveland, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/onstationapp",
+      "linkedin": "https://linkedin.com/company/projitech-llc",
+      "facebook": "https://facebook.com/onstationapp/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Noteworthy AI",
+    "website": "https://noteworthy.ai/",
+    "description": "Noteworthy provides vehicle mounted cameras and AI to help electric utilities collect and analyze imagery on distribution assets at scale",
+    "location": "Stamford, Connecticut, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/noteworthyai",
+      "linkedin": "https://linkedin.com/company/noteworthy-ai",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "MITO Material Solutions",
+    "website": "https://mitomaterials.com/",
+    "description": "MITO Material Solutions manufactures hybrid nano-additives, enabling composite manufacturers to create tougher, lighter, and more durable products.",
+    "location": "Stillwater, Oklahoma, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MITO_Materials",
+      "linkedin": "https://linkedin.com/company/mitomaterials",
+      "facebook": "https://facebook.com/MITOMaterialSolutions/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Sunairio",
+    "website": "https://sunairio.com/",
+    "description": "Climate simulation for renewable energy prediction",
+    "location": "Baltimore, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sunairio",
+      "linkedin": "https://linkedin.com/company/sunairio"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Kazadi Enterprises",
+    "website": "https://kazadienterprises.com/",
+    "description": "Kazadi Enterprises is reducing the energy requirements of AC and brine reduction for mineral recovery by using environmental heat as a primary energy source.",
+    "location": "Batavia, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/kazadienterpri1",
+      "linkedin": "https://linkedin.com/company/kazadi-enterprises",
+      "facebook": "https://facebook.com/kazadienterprises"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Urban SDK",
+    "website": "https://urbansdk.com/",
+    "description": "Urban SDK is a connected mobility, transportation and safety analytics platform for smart cities.",
+    "location": "Atlantic Beach, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/urbansdk",
+      "linkedin": "https://linkedin.com/company/urbansdk"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "HackMD",
+    "website": "https://hackmd.io/",
+    "description": "HackMD helps developers write better documents and build active communities with open collaboration.",
+    "location": "Taipei, Taiwan",
+    "social_media": {
+      "twitter": "https://twitter.com/hackmdio",
+      "linkedin": "https://linkedin.com/company/hackmd",
+      "facebook": "https://facebook.com/hackmdio"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Baton Media",
+    "website": "https://baton.media/",
+    "description": "The collaboration protocol designed by artists, for artists.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/baton_media",
+      "linkedin": "https://linkedin.com/company/baton-media-inc"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "The Sun Exchange",
+    "website": "https://thesunexchange.com/",
+    "description": "Through the Sun Exchange anyone can earn income from the sun.",
+    "location": "Cape Town, South Africa",
+    "social_media": {
+      "twitter": "https://twitter.com/thesunexchange",
+      "linkedin": "https://linkedin.com/company/the-sun-exchange",
+      "facebook": "https://facebook.com/thesunexchange"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Gradient Health",
+    "website": "https://gradienthealth.ai/",
+    "description": "Gradient Health aims to label the world's medical imagery, one pathology at a time. Founded in 2018, Gradient Health operates in Durham, North Carolina, United States.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gradienthealth",
+      "linkedin": "https://linkedin.com/company/gradient-health-inc"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Carbide",
+    "website": "https://carbidesecure.com/",
+    "description": "Securicy is a SaaS that enables businesses to design, implement, manage and report on their Information Security and Privacy Compliance Strategy.",
+    "location": "Sydney, Nova Scotia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/securicyapp",
+      "linkedin": "https://linkedin.com/company/carbidesecure",
+      "facebook": "https://facebook.com/securicy"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Mint State Labs",
+    "website": "https://mintstatelabs.com/",
+    "description": "Mint State Labs is looking to bring gaming enthusiast communities together with web3.0 technologies. MSL: Innovate, Create, Connect.",
+    "location": "Redmond, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MintStateLabs",
+      "linkedin": "https://linkedin.com/company/mintstatelabs",
+      "facebook": "https://facebook.com/Mint-State-Labs-108847508186922/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Estated",
+    "website": "https://estated.com/",
+    "description": "Data Nerds provides an elegant solution in the vast market of real estate & property data.",
+    "location": "Kelowna, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/_datanerds",
+      "linkedin": "https://linkedin.com/company/data-nerds",
+      "facebook": "https://facebook.com/datanerdskelowna"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Pelikan Mobility",
+    "website": "https://pelikan-mobility.com/",
+    "description": "Software platform to optimize the electrification and operation of commercial fleets.",
+    "location": "Paris, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pelikan-mobility"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "SATIM",
+    "website": "https://satim.pl/",
+    "description": "Providing satellite radar-based intelligence for decision makers.",
+    "location": "Kraków, Poland",
+    "social_media": {
+      "twitter": "https://twitter.com/SatimMonitoring",
+      "linkedin": "https://linkedin.com/company/satimco",
+      "facebook": "https://facebook.com/satimmonitoring/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "qomodo",
+    "website": "https://qomodo.io/",
+    "description": "qomodo helps to prevent cyber attacks and focus on getting their products to market.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/qomodofintech"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Hacware",
+    "website": "https://hacware.com/",
+    "description": "Hacware is an A.I. driven Email Security Awareness product that prevents your company email from getting hacked.",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Hacware1",
+      "linkedin": "https://linkedin.com/company/hacware",
+      "facebook": "https://facebook.com/hacware/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Partsimony",
+    "website": "https://partsimony.com/",
+    "description": "Partsimony is your manufacturing supply chain superpower in a world of uncertainty.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/partsimony",
+      "linkedin": "https://linkedin.com/company/partsimony",
+      "facebook": "https://facebook.com/inventaprint/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Toolsvilla",
+    "website": "https://toolsvilla.com/",
+    "description": "A Digital Marketplace for Machinery, Tools & Equipment that solve operational inefficiencies in the farm & food businesses of India.",
+    "location": "Durgapur, West Bengal, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/toolsvilla",
+      "facebook": "https://facebook.com/toolsvilla/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Dimeq",
+    "website": "https://dimeq.no/",
+    "description": "No more lives lost at sea with nextgen IoT",
+    "location": "Kalvåg, Norway",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dimeq",
+      "facebook": "https://facebook.com/Dimeq.norway/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "SIEMonster",
+    "website": "https://siemonster.com/",
+    "description": "SIEMonster provides cost effective Security Information and Event Management (SIEM) SaaS or onsite solutions for all sized companies to detect cyber threats.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/_SIEMonster",
+      "linkedin": "https://linkedin.com/company/siemonster",
+      "facebook": "https://facebook.com/SIEMonsterSOC/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Shipshape Urban Farms",
+    "website": "https://shipshapeurbanfarms.com/",
+    "description": "Shipshape designs and manufactures modular, hydroponic farms that make fresh vegetables accessible in urban markets year-round.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vr7rehktg4jg6idhktkb",
+    "location": "Mobile, Alabama, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Shipshapefarms",
+      "linkedin": "https://linkedin.com/company/shipshapeurbanfarms",
+      "facebook": "https://facebook.com/ShipshapeUrbanFarms/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Blutag",
+    "website": "https://blu.ai/",
+    "description": "Blutag is a SaaS platform for retailers to publish voice applications on Amazon Alexa and Google Assistant without coding",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/blutag"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Go To-U",
+    "website": "https://go-tou.com/",
+    "description": "GO TO-U is a SaaS operating system that helps manage and monetize EV charging infrastructure for electric vehicles. Using big data and machine learning to optimize demand, predict electricity consumption, and monitor charging sessions.",
+    "location": "Lviv, Ukraine",
+    "social_media": {
+      "twitter": "https://twitter.com/GoToUgreen",
+      "linkedin": "https://linkedin.com/company/to-u",
+      "facebook": "https://facebook.com/gotougreen"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Zelta",
+    "website": "https://zelta.ai/",
+    "description": "Annotate, comment and collaborate with teammates directly within the web application users build",
+    "location": "Jersey City, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/zeltaai"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "YData",
+    "website": "https://ydata.ai/",
+    "description": "Improved and synthetic data for AI",
+    "location": "Lisbon, Portugal",
+    "social_media": {
+      "twitter": "https://twitter.com/YData_ai",
+      "linkedin": "https://linkedin.com/company/ydataai",
+      "facebook": "https://facebook.com/ydataai"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Pandium",
+    "website": "https://pandium.com/",
+    "description": "#integrateallthethings",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pandiuminc",
+      "linkedin": "https://linkedin.com/company/27232417",
+      "facebook": "https://facebook.com/pandiuminc/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Rely",
+    "website": "https://rely.io/",
+    "description": "Rely.io is the most comprehensive Site Reliability Engineering (SRE) platform designed to help software teams monitor and optimize software reliability, without sacrificing innovation and new feature development.",
+    "location": "Lisbon, Portugal",
+    "social_media": {
+      "twitter": "https://twitter.com/detechAI",
+      "linkedin": "https://linkedin.com/company/detech-ai"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Transmute",
+    "website": "https://transmute.industries/",
+    "description": "The trusted data exchange platform for global trade",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TransmuteNews",
+      "linkedin": "https://linkedin.com/company/11186222"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Ellipsis Drive",
+    "website": "https://ellipsis-drive.com/",
+    "description": "Ellipsis Drive is a cloud native plug and play solution for collaborating, sharing, and selling spatial data the easy way.",
+    "location": "Ede, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/EllipsisDrive",
+      "linkedin": "https://linkedin.com/company/ellipsis-drive",
+      "facebook": "https://facebook.com/ellipsisdrive"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Dynepic",
+    "website": "https://dynepic.com/",
+    "description": "Platform of Platforms Powering the Future of Knowledge",
+    "location": "Folly Beach, South Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/dynepic",
+      "linkedin": "https://linkedin.com/company/dynepic-inc-",
+      "facebook": "https://facebook.com/dynepicllc"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Sees",
+    "website": "https://sees.ai/",
+    "description": "Unlocking aerial data capture at scale, by providing clients with a solution that enables the remote operation of drones from a central control room.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/sees_ai",
+      "linkedin": "https://linkedin.com/company/sees-ai"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "CodSpeed",
+    "website": "https://codspeed.io/",
+    "description": "CodSpeed is a software performance optimization tool that allows engineering teams to automatically measure and improve performance changes of code before it is deployed to production.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/codspeedhq",
+      "linkedin": "https://linkedin.com/company/codspeed"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "CyberOwl",
+    "website": "https://cyberowl.io/",
+    "description": "CyberOwl provides visibility of cyber risk so maritime operators can manage them in a prioritised, cost-effective way.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/CyberOwl",
+      "linkedin": "https://linkedin.com/company/cyberowl",
+      "facebook": "https://facebook.com/Cyberowl-165051467503170/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Hull",
+    "website": "https://hull.io/",
+    "description": "One source of truth for all your customer data.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/hull",
+      "linkedin": "https://linkedin.com/company/hull-io",
+      "facebook": "https://facebook.com/hullapp/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Wind Fisher",
+    "website": "https://wind-fisher.com/",
+    "description": "There is on shore ; there is off shore ; and there is high altitude wind. We develop a revolutionary concept for high altitude wind energy: safer, lighter, quicker, and more cost-effective. We re-invent wind power",
+    "location": "Les Adrets, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/wind-fisher"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "GreatHorn",
+    "website": "https://greathorn.com/",
+    "description": "GreatHorn is a cloud security platform that helps detect and prevent spear phishing and credential theft attacks in realtime",
+    "location": "Belmont, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/greathorn",
+      "linkedin": "https://linkedin.com/company/9335863",
+      "facebook": "https://facebook.com/greathorninc"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Hop In Technologies",
+    "website": "https://hopintech.com/",
+    "description": "The all in one shuttling logistics platform made for employers who are looking to expand hiring pools while recruiting, improve retention and increase employee satisfaction",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/iaryy9qoocyjbartht7f",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/HopInTech",
+      "linkedin": "https://linkedin.com/company/hop-in-tech",
+      "facebook": "https://facebook.com/HopInTech/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Infinit",
+    "website": "https://infinit.sh/",
+    "description": "Modern software-defined storage plaftorm for container environments.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/infinit",
+      "linkedin": "https://linkedin.com/company/%E5%9B%A0%E4%B8%BA%E7%A7%91%E6%8A%80%E6%97%A0%E9%94%A1%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+      "facebook": "https://facebook.com/infinit.career"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Deepflow AI",
+    "website": "https://deepflow.ai/",
+    "description": "Deepflow is a visual inspection platform that empowers industrial manufacturers to automate quality control processes with machine vision.",
+    "location": "Bordeaux, France",
+    "social_media": {
+      "twitter": "https://twitter.com/deepflowai",
+      "linkedin": "https://linkedin.com/company/thinkdeep-ai"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Courtsdesk",
+    "website": "https://courtsdesk.com/",
+    "description": "The ultimate business litigation research platform.",
+    "location": "Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/courtsdesk",
+      "linkedin": "https://linkedin.com/company/courtsdesk",
+      "facebook": "https://facebook.com/courtsdesk/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Stackery",
+    "website": "https://stackery.io/",
+    "description": "Serverless Development for Teams",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/stackeryio",
+      "linkedin": "https://linkedin.com/company/stackery",
+      "facebook": "https://facebook.com/stackeryio/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "BallBox",
+    "website": "https://playballbox.com/",
+    "description": "BallBox is a smart locker solution that turns residential parcel management into a revenue generating asset for property managers and a novel amenity for their residents.",
+    "location": "Ann Arbor, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getballbox",
+      "linkedin": "https://linkedin.com/company/ballbox",
+      "facebook": "https://facebook.com/GetBallBox/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Infinite Composites Technologies",
+    "website": "https://infinitecomposites.com/",
+    "description": "The most efficient gas storage systems in the universe.",
+    "location": "Tulsa, Oklahoma, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Infinite_C_T",
+      "linkedin": "https://linkedin.com/company/infinite-composites",
+      "facebook": "https://facebook.com/InfiniteComposites"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Multy",
+    "website": "https://multy.dev/",
+    "description": "Multy is a tool that enables developers to deploy and switch to any cloud provider (e.g. AWS, Azure, GCP) with our universal API.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/multy-cloud"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Captain's Eye",
+    "website": "https://captain-eye.com/",
+    "description": "Uses machine vision analytics to improve crew and vessel safety on board ocean-going vessels, as well as reduce risk of maritime accidents and ocean pollution",
+    "location": "Haifa, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/captain-eye"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Haptic",
+    "website": "https://knocki.com/",
+    "description": "Haptic is a digital activation platform for structural materials.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/haptic",
+      "linkedin": "https://linkedin.com/company/knocki",
+      "facebook": "https://facebook.com/getknocki"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Parsempo",
+    "website": "https://parsempo.com/",
+    "description": "Parsempo makes it easy for Digital Signage and DOOH display owners to manage their screens, create engaging experiences, measure performance and generate passive revenue anywhere in the world.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/parsempo",
+      "linkedin": "https://linkedin.com/company/parsempo",
+      "facebook": "https://facebook.com/GoParsempo"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Threatcare",
+    "website": "https://threatcare.com/",
+    "description": "Threatcare is a 100% cloud-based network intrusion simulation platform.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/threatcare",
+      "linkedin": "https://linkedin.com/company/16260089",
+      "facebook": "https://facebook.com/pg/threatcare/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "14bis Supply Tracking",
+    "website": "https://14bis.aero/",
+    "description": "We ensure interconnectivity of databases to track things.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/14bisAero",
+      "linkedin": "https://linkedin.com/company/27205144",
+      "facebook": "https://facebook.com/14bisaero/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Zilper Trenchless",
+    "website": "https://zilpertrenchless.com/",
+    "description": "A proprietary trenchless technology that significantly reduces the cost and disruption of underground piping projects.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ZilperTL",
+      "linkedin": "https://linkedin.com/company/zilper-trenchless-inc"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Shelf",
+    "website": "https://shelf.network/",
+    "description": "Distributed network - allowing to run the same synchronized trade / auction at multiple interconnected marketplaces",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/shelf_network",
+      "linkedin": "https://linkedin.com/company/17969937",
+      "facebook": "https://facebook.com/Shelfnetwork/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Appetas",
+    "website": "https://appetas.com/",
+    "description": "Make restaurant websites beautiful",
+    "location": "Redmond, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Appetas",
+      "linkedin": "https://linkedin.com/company/appetas",
+      "facebook": "https://facebook.com/Appetas"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Lagoon",
+    "website": "https://data-lagoon.com/",
+    "description": "Lagoon empowers professional investors with no-code data science tools. Our technology combines the knowledge and experience of the investor with the power of the machine, generating data-driven actionable insights.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/datalagoon"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "BestDefense",
+    "website": "https://bestdefense.io/",
+    "description": "We stress test your infrastructure abilities to scale, evaluate your security posture through automated vulnerability and pen tests, and track/alert network threats in real-time.",
+    "location": "Clearwater, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bestdefense-inc"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Julius Technologies",
+    "website": "https://juliustech.co/",
+    "description": "Julius helps enterprises build transparent, scalable, and adaptable Data & ML pipelines through the power of low code graph computing.",
+    "location": "Old Tappan, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/julius-technologies"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Pierce Aerospace",
+    "website": "https://pierceaerospace.net/",
+    "description": "Heterogeneous drone network identification and multi-domain IoT solutions at the edge.",
+    "location": "Fishers, Indiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gowento",
+      "linkedin": "https://linkedin.com/company/gowento"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Nicslab",
+    "website": "https://nicslab.com/",
+    "description": "Nicslab, a fabless chip company, developing electronic and photonic integrated circuits for future optical solutions in data centers, AI, and quantum computing.",
+    "location": "Sydney, New South Wales, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/NicslabOfficial",
+      "linkedin": "https://linkedin.com/company/nicslab",
+      "facebook": "https://facebook.com/Nicslab.Support/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Hyperkelp",
+    "website": "https://hyperkelp.com/",
+    "description": "Hosted payload solution for early hypersonic alerts and multi-domain awareness and mesh network analytics in the ocean.",
+    "location": "Encinitas, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HyperKelp",
+      "linkedin": "https://linkedin.com/company/hyperkelp",
+      "facebook": "https://facebook.com/hyperkelp"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "General Systems",
+    "website": "https://generalsystems.tech/",
+    "description": "A sustainability focused, robotics company dedicated to transforming the global construction sector.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/mukundnambirajan"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Igugu Global",
+    "website": "https://igugu.global/",
+    "description": "Africa's green deal room",
+    "location": "Johannesburg, South Africa",
+    "social_media": {
+      "twitter": "https://twitter.com/GlobalIgugu",
+      "linkedin": "https://linkedin.com/company/igugu-global"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Phalanx",
+    "website": "https://phalanx.io/",
+    "description": "Phalanx changes how organizations approach data security by providing a simple, automatic file-encryption solution that's designed with users' behaviors in mind.",
+    "location": "Arlington, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Phalanx_HQ",
+      "linkedin": "https://linkedin.com/company/phalanx-hq"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "OnePipe",
+    "website": "https://onepipe.io/",
+    "description": "OnePipe builds and maintains APIs that enable banks to partner with modern digital services and fintechs.",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/onepipeio",
+      "linkedin": "https://linkedin.com/company/onepipe-io-services-limited"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "fraudmarc",
+    "website": "https://fraudmarc.com/",
+    "description": "We work with all major mailbox providers to identify your valid mail sources. Legitimate senders enjoy improved deliverability & phishing attempts are blocked.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fraudmarc",
+      "linkedin": "https://linkedin.com/company/10684936",
+      "facebook": "https://facebook.com/fraudmarc/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Treepz",
+    "website": "https://ng.treepz.com/",
+    "description": "Nigeria's premier ride-hailing solution app that allows commuters to book and pay for fast and convenient trips in real-time.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/PlentywakaNG",
+      "linkedin": "https://linkedin.com/company/plentywaka",
+      "facebook": "https://facebook.com/plentywaka.ng.18"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Bild",
+    "website": "https://getbild.com/",
+    "description": "Collaborate with your manufacturers in real-time.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lets_bild",
+      "linkedin": "https://linkedin.com/company/getbild",
+      "facebook": "https://facebook.com/bild"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "NayamWings",
+    "website": "https://nayamwings.com/",
+    "description": "NayamWings brings a new-breed of wind propulsion for ships, using airplane technology  airfoil designs as a hybrid system to cut fuel use and emissions",
+    "location": "Haifa, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nayamwings"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Blind Tiger Communications",
+    "website": "https://blindtigercom.com/",
+    "description": "BTC provides a wireless security umbrella protecting facilities against unknown phones, drones, WiFi and Bluetooth devices allowing known devices to operate",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/blind-tiger-communications"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "ISeeChange",
+    "website": "https://iseechange.org/",
+    "description": "Mobilizing communities to provide valuable insight and micro-data about climate impacts",
+    "location": "New Orleans, Louisiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/iseechange",
+      "linkedin": "https://linkedin.com/company/iseechange",
+      "facebook": "https://facebook.com/iSeeChange"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Frontline Gig",
+    "website": "https://frontlinegig.com/",
+    "description": "Making it easy to source vetted, entry level and semi-skilled hourly workers for cleanups, inspections and managing green assets.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gnm2roiv8ebolzmjghqc",
+    "location": "Norfolk, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FrontlineGig",
+      "linkedin": "https://linkedin.com/company/frontline-gig",
+      "facebook": "https://facebook.com/frontlinegig"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Data for Good",
+    "website": "https://data-for-good.com/",
+    "description": "Organizing the world's verified impact data and make it globally accessible and understandable for everyone to enable data-driven decision making",
+    "location": "Rotterdam, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/data-for-good-com"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "CyDeploy",
+    "website": "https://cydeploy.com/",
+    "description": "An intelligent, automated testing system that demonstrates how an update will affect your system, giving you the control to maintain cybersecurity and cybersecurity compliance while avoiding costly workforce delays.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ck8yf6zxewq13isndcrz",
+    "location": "Laurel, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cydeploy"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Cobalt Water Global",
+    "website": "https://cobaltwater-global.com/",
+    "description": "AI & machine learning for sustainable urban water management.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cobaltwater_gbl",
+      "linkedin": "https://linkedin.com/company/cobalt-water-global",
+      "facebook": "https://facebook.com/totalwater/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Eduro",
+    "website": "https://eduro.ai/",
+    "description": "Jump start your manufacturing modernization",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/trackitt"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "ARTIAL",
+    "website": "https://artial.co/",
+    "description": "ARTIAL is building AI software to help infrastructure construction development and management companies fully automate monitoring and digital inspections using self-flying drones.",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/artialai"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "FortifyEdge",
+    "website": "https://fortifyedge.com/",
+    "description": "Fortifyedge is on-device cybersecurity software that allows us to deploy machine learning ultra-efficiently on the smart device, so you can detect attacks in real-time.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fortifyedge",
+      "linkedin": "https://linkedin.com/company/fortifyedge"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Avocado Systems",
+    "website": "https://avocadosys.com/",
+    "description": "Avocado's patented deterministic threat detection technology makes applications both intelligent, and ultimately, self-protecting.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wzluylmhgedxagc5dbhw",
+    "location": "San Jose, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/avocadosystems",
+      "linkedin": "https://linkedin.com/company/avocado-systems",
+      "facebook": "https://facebook.com/avocadosys"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Trilleco",
+    "website": "https://trilleco.com/",
+    "description": "Trilleco is a 3D IoT sustainability platform that provides data transparency and transforms footprint.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/khyczbm32nrtavkmsenj",
+    "location": "Oulu, Finland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/trilleco",
+      "facebook": "https://facebook.com/Trilleco/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Chpter",
+    "website": "https://chpter.co/",
+    "description": "Manage your online sales, message your customers and automate your marketing all in one place.",
+    "location": "Nairobi, Kenya",
+    "social_media": {
+      "twitter": "https://twitter.com/join_chptr",
+      "linkedin": "https://linkedin.com/company/chpter-holdings"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Ahoi",
+    "website": "https://ahoimate.com/",
+    "description": "We're making the world a more accessible place",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ahoimate"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Veracity Protocol",
+    "website": "https://veracityprotocol.org/",
+    "description": "Security standard of trust for physical objects. Bridging physical and digital worlds.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/VeracityProtocl",
+      "linkedin": "https://linkedin.com/company/veracityprotocol",
+      "facebook": "https://facebook.com/veracityprotocol/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Trixta",
+    "website": "https://trixta.com/",
+    "description": "A more efficient way to develop great software for decentralized organisations.",
+    "location": "Phoenix, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/trixtateam",
+      "linkedin": "https://linkedin.com/company/trixta",
+      "facebook": "https://facebook.com/getTrixta/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Cloudoor",
+    "website": "https://cloudoor.com/",
+    "description": "For only $396/month, Cloudoor manages all your Cloud/DevOps needs, so you can concentrate on business growth and let developers code.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cloudoor"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "RoadEO",
+    "website": "https://roadeo.io/",
+    "description": "RoadEO offers Road Quality Monitoring and Predictive Road Maintenance 2.0.",
+    "location": "The Hague, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/RoadEO_io",
+      "linkedin": "https://linkedin.com/company/road-eo",
+      "facebook": "https://facebook.com/roadeo.io"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Yativo",
+    "website": "https://yativo.com/",
+    "description": "We provide banking infrastructure, wallet as a service and FBO as a service for FinTechs and Marketplaces",
+    "location": "Santiago, Chile",
+    "social_media": {
+      "twitter": "https://twitter.com/ZeenahApp",
+      "linkedin": "https://linkedin.com/company/yativo",
+      "facebook": "https://facebook.com/zeenahapp"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Rezliant",
+    "website": "https://platform.rezliant.com/",
+    "description": "Rezliant turns all software teams into instant cybersecurity geniuses, saving months per employee and millions in costs.",
+    "location": "Mesa, Arizona, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/resilient-software-security"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Revolute Robotics",
+    "website": "https://revoluterobotics.com/",
+    "description": "Autonomous, energy-efficient robot that's capable of both rolling and flying",
+    "location": "Scottsdale, Arizona, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/revoluterobotics",
+      "facebook": "https://facebook.com/revoluterobotics"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Lotus Labs",
+    "website": "https://lotuslabs.org/",
+    "description": "A wearable ring that controls objects at home by pointing, including blinds and curtains, lights and fans, and televisions.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jpaoktu10i2yi9qybfr7",
+    "location": "San Jose, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/inclotuslabs",
+      "linkedin": "https://linkedin.com/company/labslotus",
+      "facebook": "https://facebook.com/labslotus"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Kitchenery",
+    "website": "https://kitchenery.net/",
+    "description": "Kitchenery integrates cordless power solutions (transmitter/ receiver) + IoT capabilities into kitchen appliances. Co works with a leading induction cooktop company, has strong interest from RV OEM/Distributors and ha high volume Asian mfg for appliances.",
+    "location": "Lutz, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Kitchenery1",
+      "linkedin": "https://linkedin.com/company/kitchenery",
+      "facebook": "https://facebook.com/CordlessAppliances"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Helgen Technologies",
+    "website": "https://helgen.tech/",
+    "description": "YOUR AUTOMATED WORKFORCE",
+    "location": "Killorglin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/helgentech",
+      "linkedin": "https://linkedin.com/company/helgen",
+      "facebook": "https://facebook.com/ipt.trainers/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Haiphen",
+    "website": "https://haiphenai.com/",
+    "description": "Blockchain-enabled cyber security threat detection for enterprises.",
+    "location": "The Bronx, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pi42449346",
+      "linkedin": "https://linkedin.com/in/judesafo",
+      "facebook": "https://facebook.com/haiphenai"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Functionland",
+    "website": "https://fx.land/",
+    "description": "Replacing cloud storage and service subscription economy by introducing a new category of products, called Blockchain-Attached Storage",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/functionland",
+      "linkedin": "https://linkedin.com/company/functionland",
+      "facebook": "https://facebook.com/functionland.official/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Flora Coating",
+    "website": "https://floracoating.com/",
+    "description": "Develops and manufactures high performance, smart, and sustainable coatings",
+    "location": "Phoenix, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/floracoatings",
+      "linkedin": "https://linkedin.com/company/flora-coating",
+      "facebook": "https://facebook.com/floracoating"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Autonopia",
+    "website": "https://autonopia.com/",
+    "description": "Autonomous robots designed for cleaning building windows.",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/autonopia",
+      "linkedin": "https://linkedin.com/company/autonopia"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Alpha Drive",
+    "website": "https://alphadrive.ai/",
+    "description": "Alpha Drive is a Platform-as-a-Service for testing and validating AI algorithms - starting with autonomous vehicles - through cloud based simulation.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/alphadriveai",
+      "linkedin": "https://linkedin.com/company/alphadriveai"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "EVA",
+    "website": "https://eva.xyz/",
+    "description": "The world leader for compact electric vertical take-off and landing technology",
+    "location": "Mazamet, France",
+    "social_media": {
+      "twitter": "https://twitter.com/EVA_VTOL",
+      "linkedin": "https://linkedin.com/company/electric-visionary-aircrafts",
+      "facebook": "https://facebook.com/ElectricVisionaryAircrafts/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Witching Hour",
+    "website": "https://witchinghour.io/",
+    "description": "Eliminate forest fire risk for your electric utility",
+    "location": "St. Petersburg, Florida, United States",
+    "social_media": {},
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Solideon",
+    "website": "https://solideon.com/",
+    "description": "The company facilitates use of additive manufacturing system, a machine-learning collaborative system.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rvyqaeriunuqfjqw8tch",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SolideonUSA",
+      "linkedin": "https://linkedin.com/company/solideonusa"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Seek Health AI",
+    "website": "https://seekhealth.ai/",
+    "description": "Seek Health helps emergency departments increase patient throughput efficiency by streamlining nurses' workflow using AI.",
+    "location": "New York City, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/seekhealth"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Qsee",
+    "website": "https://qsee.io/",
+    "description": "Better productivity with Zero Defective Manufacturing.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hjdmqjsoj9cgntkbzcmx",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/QseeIO",
+      "linkedin": "https://linkedin.com/company/qsee"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Perleybrook",
+    "website": "https://perleybrook.com/",
+    "description": "Perleybrook makes Flagman and Industry 5.0 AI Powered Computer Vision based Industry Safety Solution Platform.",
+    "location": "Stratham, New Hampshire, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/perleybrook-labs-llc",
+      "facebook": "https://facebook.com/perleybrook"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Guardara",
+    "website": "https://guardara.com/",
+    "description": "We help companies find critical security issues in complex environments.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/guardaraltd",
+      "linkedin": "https://linkedin.com/company/guardara"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Granular",
+    "website": "https://granular.ai/",
+    "description": "Granular enables businesses to solve global-scale problems through AI powered geo-intelligence",
+    "location": "Belmont, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/granular-ai"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Engagespot",
+    "website": "https://engagespot.co/",
+    "description": "Engagespot's infrastructure as a service helps developers quickly build highly scalable and customizable multi-channel notification experiences.",
+    "location": "New York City, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/engagespot",
+      "linkedin": "https://linkedin.com/company/engagespot-co",
+      "facebook": "https://facebook.com/engagespot/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "ETALYC",
+    "website": "https://etalyc.com/",
+    "description": "Transforming traffic operations using Internet of Things (IoT), machine learning, and big data analytics.",
+    "location": "Ames, Iowa, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/etalyc"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Valid",
+    "website": "https://validit.ai/",
+    "description": "We are developing a technology that will allow you to perform a polygraph-like fraud detection test using only your smartphone.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/yossi-p-50a5baab"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Khepra",
+    "website": "https://khepra.io/",
+    "description": "We make reactors that are fully electrified and make chemicals 80% faster. Our chemical products are made from wastes from farms, forestry and plastics.",
+    "location": "Reno, Nevada, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/khepra"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Evil Genius Games",
+    "website": "https://evilgeniusgames.com/",
+    "description": "Evil Genius Games is a publisher of tabletop roleplaying games based on movie franchises such as Rambo and Pacific Rim.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ws7ozddn58gtoehtgndh",
+    "location": "San Mateo, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EvilGeniusGames",
+      "linkedin": "https://linkedin.com/company/evil-genius-games",
+      "facebook": "https://facebook.com/EvilGeniusGames"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Incredible",
+    "website": "https://getincredible.com/",
+    "description": "Incredible is a credit repayments platform that leverages AI & open finance to track, pay and reduce the cost of borrowing.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/incredibletechnologies",
+      "facebook": "https://facebook.com/getincredibleApp"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "idatase",
+    "website": "https://netlume.net/",
+    "description": "The NetLume innovation platform solves the key problem of the \"human factor\" for successful IoT initiatives by integrating domain experts and business into the IoT domain",
+    "location": "Frankfurt am Main, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/idatase",
+      "linkedin": "https://linkedin.com/company/3322709",
+      "facebook": "https://facebook.com/idataseofficialpage"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Sketchdeck",
+    "website": "https://sketchdeck.ai/",
+    "description": "Accelerating software automation in Construction",
+    "location": "Edmonton, Alberta, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sketchdeckai"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "CREWASIS",
+    "website": "https://crewasis.ai/",
+    "description": "Crewasis is a marketing intelligence platform (MIP) that is on a mission to find data-driven insights that change the world.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/crewasis",
+      "linkedin": "https://linkedin.com/company/crewasis",
+      "facebook": "https://facebook.com/crewasis/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "CAHill TECH",
+    "website": "https://cahilltech.com/",
+    "description": "Tackling the construction labor gap through an e-learning platform to train and onboard construction workers.",
+    "location": "Akron, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cahillresources",
+      "linkedin": "https://linkedin.com/company/cahilltech",
+      "facebook": "https://facebook.com/CaHill.resources/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Astron Systems",
+    "website": "https://astronsystems.com/",
+    "description": "Astron Systems are developing fully reusable rockets for affordable, responsive, and sustainable space access for small satellites.",
+    "location": "Didcot, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/astron-systems?originalSubdomain=uk"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Nido Robotics",
+    "website": "https://nidorobotics.com/",
+    "description": "At Nido Robotics we help shipowners, fish farmers, and similar companies reduce their underwater inspection and maintenance costs through robotics.",
+    "location": "Murcia, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/nidorobotics",
+      "linkedin": "https://linkedin.com/company/nidorobotics",
+      "facebook": "https://facebook.com/nidorobotics.eu/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "SaltyCloud",
+    "website": "https://saltycloud.com/",
+    "description": "Next-Gen Automation for Cybersecurity Operations",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/saltycloudhq",
+      "linkedin": "https://linkedin.com/company/saltycloudpbc"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Maygia",
+    "website": "https://maygia.com/",
+    "description": "Device using hydrogen to clean water while producing electricity",
+    "location": "Haifa, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/maygia"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Towntalk Solutions",
+    "website": "https://towntalk-solutions.com/",
+    "description": "Towntalk is a data intelligence company that has built Africa's most robust Security Intelligence and Emergency Response Infrastructure.",
+    "location": "Claymont, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/towntalk-solutions"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Context Data",
+    "website": "https://contextdata.ai/",
+    "description": "Enterprise Data Platform for Generative AI",
+    "location": "Houston, Texas, United States",
+    "social_media": {},
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Chargerzilla",
+    "website": "https://chargerzilla.com/",
+    "description": "Chargerzilla is a community-driven, AI-powered EV charging marketplace that connects property owners, EV charging networks, and businesses to EV drivers. Our platform increases utilization rates for charge point operators and unlocks new revenue streams for businesses such as hotels, commercial properties, and individual home owners.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/chargerzilla",
+      "linkedin": "https://linkedin.com/company/chargerzilla",
+      "facebook": "https://facebook.com/chargerzilla"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Between",
+    "website": "https://between.co/",
+    "description": "Call from Anywhere, Sound like You're in the Room",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/betweenco"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Amherst Intelligent Security",
+    "website": "https://amherstintelligentsecurity.com/",
+    "description": "Security with a Single Sign On.",
+    "location": "Belchertown, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/amherstintelligentsecurity",
+      "facebook": "https://facebook.com/AmherstIntellScc"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "PAZO",
+    "website": "https://gopazo.com/",
+    "description": "Helping retailers offer a consistent customer experience",
+    "location": "Delaware, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Go_Pazo",
+      "linkedin": "https://linkedin.com/company/go-pazo",
+      "facebook": "https://facebook.com/peacefuloperations/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Split EV",
+    "website": "https://splitev.co/",
+    "description": "We're building the nation's largest electric vehicle charging network.",
+    "location": "Newark, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SplitEv",
+      "linkedin": "https://linkedin.com/company/81954408"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Netra",
+    "website": "https://netra.io/",
+    "description": "Netra delivers smarter video analytics for retail intelligence... that just works.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/netrainc",
+      "linkedin": "https://linkedin.com/company/netra-systems-inc",
+      "facebook": "https://facebook.com/netrainc"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Vocalytics",
+    "website": "https://vocalytics.ai/",
+    "description": "Voice & Sound Intelligence for the Physical World.",
+    "location": "Costa Mesa, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vocalyticsai",
+      "linkedin": "https://linkedin.com/company/vocalytics",
+      "facebook": "https://facebook.com/vocalytics"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Soraytec",
+    "website": "https://soraytec.com/",
+    "description": "Direct Primary Side Monitoring and Metering of Electricity Networks",
+    "location": "Sankt Augustin, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/soraytec"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Reviway",
+    "website": "https://reviway.com/",
+    "description": "Reviway has the main aim of solving definitively the road surfaces deterioration problem, reducing roads maintenance costs by +30% and the related environmental impact by +50%.",
+    "location": "Reggio Emilia, Reggio Emilia, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/reviway"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Intuos",
+    "website": "https://intuos.it/",
+    "description": "We bring digitization and data driven decision to the General Aviation operators, to transform asset management and increase safety and cost efficiency.\r\nWe offer a Digital Service Platform based on software, IoT hardware and ML algorithm solutions to man",
+    "location": "L Aquila, L'Aquila, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/intuos-srl"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Firewave",
+    "website": "https://firewave.earth/",
+    "description": "Firewave uses AI-powered IoT sensors for early wildfire detection, preventing small fires from escalating. We're dedicated to protecting communities and ecosystems.",
+    "location": "PARDES HANA KARKUR, Northern District, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/firewave-earth"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Bob's Containers",
+    "website": "https://bobscontainers.com/",
+    "description": "We build fast, affordable, and profitable housing solutions from shipping containers.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fxhqmvnq8ome60kuqzxz",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bobscontainers",
+      "linkedin": "https://linkedin.com/company/bobs-containers",
+      "facebook": "https://facebook.com/bobscontainers"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Aware",
+    "website": "https://awarelabs.xyz/",
+    "description": "Aware is an intelligent business semantic layer that makes it possible for humans and AI to unlock the business potential in blockchain data by transforming it into a unified, trustable and understandable business language.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/aware_labs",
+      "linkedin": "https://linkedin.com/company/aware-labs-xyz",
+      "facebook": "https://facebook.com/AwareHQ"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Smart Border Systems",
+    "website": "https://smartborder.systems/",
+    "description": "SBS | Intelligent Port Arrival systems",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/smart-border-systems",
+      "facebook": "https://facebook.com/smartbordersystems"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Quest",
+    "website": "https://questlabs.ai/",
+    "description": "Leverage data across chains and platforms",
+    "location": "Livermore, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/quest__labs",
+      "linkedin": "https://linkedin.com/company/questai"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Protico",
+    "website": "https://protico.io/",
+    "description": "The future of a universal chatting interface across all websites and apps",
+    "location": "Taipei, Taiwan",
+    "social_media": {
+      "twitter": "https://twitter.com/protico_io",
+      "linkedin": "https://linkedin.com/company/protico",
+      "facebook": "https://facebook.com/web3.chat"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Mintycode",
+    "website": "https://mintycode.io/",
+    "description": "Building value for software creators with Web3\r\nMintyCode is building the Web3 ecosystem to support software creators. including: Decentralised IP (DeIP), NFT software licenses and license marketplace.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/MintyCodeDao",
+      "linkedin": "https://linkedin.com/company/mintycode-dao"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Loki",
+    "website": "https://lokicode.io/",
+    "description": "Build better smart contracts together, faster.",
+    "location": "Concord, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getlokicode",
+      "linkedin": "https://linkedin.com/company/get-loki-code"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Kliq",
+    "website": "https://joinkliq.io/",
+    "description": "A white-label peer-to-peer platform that enables creators to build, manage, and monetize their community",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/remotecoach_fit",
+      "linkedin": "https://linkedin.com/in/ben-camara-410124a",
+      "facebook": "https://facebook.com/remotecoachfit/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Fathom",
+    "website": "https://fathompbc.org/",
+    "description": "For workforce directors with applicant tracking and job placement challenges, we provide a career management platform that streamlines employment, training, and support services for workforce agencies and organizations.",
+    "location": "Antioch, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fathom_pbc",
+      "linkedin": "https://linkedin.com/company/fathompbc"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Dependbuild",
+    "website": "https://dependbuild.com/",
+    "description": "Dependbuild is a SaaS platform revolutionizing risk management for infrastructure projects. Our solution empowers municipalities to efficiently identify, assess, and mitigate risks by leveraging advanced analytics and project-specific data. By automating the risk assessment process, dependbuild enhances decision-making, reduces project delays and costs, and ensures better outcomes for public infrastructure.",
+    "location": "Halifax, Nova Scotia, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dependbuild"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "RideCommerce",
+    "website": "https://ridecommerce.co/",
+    "description": "ESG Supply Chain Platform for Scope 1,2,3 emissions",
+    "location": "Slough, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ridecommerce"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Carbo Energy",
+    "website": "https://carbo.energy/",
+    "description": "Scaling energy storage for a greener future",
+    "location": "Ciudad de Buenos Aires, Argentina",
+    "social_media": {},
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Brightlines",
+    "website": "https://brightlin.es/",
+    "description": "Brightlines is a B2B SaaS platform that specializes in the removal of personal information from the internet to bolster the privacy defenses of individuals and organizations.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/brightlin_es",
+      "linkedin": "https://linkedin.com/company/brightlin-es"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Stackhouse",
+    "website": "https://stackhouse.life/",
+    "description": "Stackhouse builds urban vertical docking communities for movable container homes. First location will be Denver, CO in 2022.",
+    "location": "Tucson, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Stackhouse_life",
+      "linkedin": "https://linkedin.com/company/stackhouse-life",
+      "facebook": "https://facebook.com/pg/stackhouseliving/about/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "LZero Analytics",
+    "website": "https://lzeroanalytics.com/",
+    "description": "LZero is an enterprise-grade, testnet-as-a-service platform that revolutionizes the development and testing of on-chain applications",
+    "location": "Southampton, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/91644729"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "GoodRoads",
+    "website": "https://goodroads.io/",
+    "description": "Solving the aging roads crisis by providing data-driven solutions to communities.",
+    "location": "Charlotte, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/goodroadsapp",
+      "linkedin": "https://linkedin.com/company/goodroads-io"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Flow Circuits",
+    "website": "https://flowcircuits.com/",
+    "description": "Engineering Design Software for HVAC",
+    "location": "Vista, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hvakr"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "BuckUp",
+    "website": "https://gobuckup.com/",
+    "description": "BuckUp helps your wallet & the planet - we give your old tech a second life and get cash in your wallet, in minutes.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gobuckup",
+      "linkedin": "https://linkedin.com/company/buckup-inc",
+      "facebook": "https://facebook.com/GoBuckUp"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "OffGridBox",
+    "website": "https://offgridbox.com/",
+    "description": "The world's most powerful modular and compact unit that provides renewable energy and clean water in remote areas and developing countries.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/OffGridBox",
+      "linkedin": "https://linkedin.com/company/offgridbox",
+      "facebook": "https://facebook.com/offgridbox/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Towgrace",
+    "website": "https://towgrace.com/",
+    "description": "Localized service marketplace starting with towing and automotive repair services.",
+    "location": "Schaumburg, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dealgrace"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Heights Labs",
+    "website": "https://heightslabs.com/",
+    "description": "The only compliance and investigations platform for following the money at scale to eliminate global financial crime.",
+    "location": "Valley Stream, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HeightsLabs",
+      "linkedin": "https://linkedin.com/company/heightslabs"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Prismia",
+    "website": "https://prismia.so/",
+    "description": "Prismia is a data and process unification interface that enables non-technical users to weave agentic capabilities into their own workflow.",
+    "location": "Pasadena, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/prismia-aui"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Share Farm",
+    "website": "https://sharefarm.com/",
+    "description": "A digital farm economy, leveraging technology to simplify the distribution chain from Farm to Institution, hospitality and food service, providing members with unprecedented supply and demand insights.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vcikmftcmzchc8cd2xuw",
+    "location": "Colbert, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ShareFarmApp",
+      "linkedin": "https://linkedin.com/company/share-farm",
+      "facebook": "https://facebook.com/sharefarmapp/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Avenir Labs",
+    "website": "https://avenirapp.co/",
+    "description": "Removes the barriers to wide-scale digital asset adoption by providing technology infrastructure to banks and credit unions",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/avenir-app",
+      "facebook": "https://facebook.com/avenir.executive"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "NIMIS Cybersecurity",
+    "website": "https://nimis.ai/",
+    "description": "Real time penetration testing using artificial intelligence",
+    "location": "Melbourne, Victoria, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/NIMISCyber",
+      "linkedin": "https://linkedin.com/company/nimis-cybersecurity"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Nufi",
+    "website": "https://nufi.mx/",
+    "description": "Nufi empowers everyone to build financial products quickly and with regulatory compliance. We are the legos of Fintech.",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "social_media": {
+      "twitter": "https://twitter.com/nufi_mx",
+      "linkedin": "https://linkedin.com/company/nufilatam",
+      "facebook": "https://facebook.com/NUFI-109065984727702"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Meta Construction Technologies",
+    "website": "https://broadloop.com/",
+    "description": "Broadloop lets you see your virtual fleet on a single platform, regardless of who owns or operates the vehicles in the fleet.",
+    "location": "Sellersburg, Indiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/broadloopapp",
+      "linkedin": "https://linkedin.com/company/meta-construction-technologies-llc",
+      "facebook": "https://facebook.com/metactlou"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Cybrik",
+    "website": "https://cybrik.ai/",
+    "description": "Cybrik's cloud based engineering management and automation platform helps engineering and construction teams  save time, avoid rework, and manage change",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cybrik",
+      "linkedin": "https://linkedin.com/company/cybrikai"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Fairwaves",
+    "website": "https://fairwaves.co/",
+    "description": "We're reinventing mobile networks for those who need them the most",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fairwaves",
+      "linkedin": "https://linkedin.com/company/998442",
+      "facebook": "https://facebook.com/fairwavesco/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "MAGMENT",
+    "website": "https://magment.de/",
+    "description": "Concrete wireless power",
+    "location": "Unterhaching, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/magnetic_cement",
+      "linkedin": "https://linkedin.com/company/10304282",
+      "facebook": "https://facebook.com/magment.de"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Alkemy Environmental",
+    "website": "https://alkemyenvironmental.com/",
+    "description": "Alkemy holds patented technology that recycles waste into concrete aggregate.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/alkemyenviron",
+      "linkedin": "https://linkedin.com/company/alkemy-environmental",
+      "facebook": "https://facebook.com/alkemyenvironmental/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Pluck",
+    "website": "https://pluck.eco/",
+    "description": "Share delivery costs with other businesses in your community",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pluckeco"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Petabolix",
+    "website": "https://petabolix.com/",
+    "description": "Petabolix is a personalized pet nutrition platform that guides vets and pet parents through a lifetime journey of optimal health.",
+    "location": "O'Fallon, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/petabolix",
+      "linkedin": "https://linkedin.com/company/petabolix",
+      "facebook": "https://facebook.com/petabolix"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Imaginario",
+    "website": "https://imaginario.ai/",
+    "description": "Imaginario is an AI-powered platform and API that identifies specific moments in video and audio in seconds, allowing content marketers and creators to discover, find, and clip content faster.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kr3yfby5i9nseeliudjz",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/imaginario2030",
+      "linkedin": "https://linkedin.com/company/imaginario-ai"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Foto Visura",
+    "website": "https://visura.co/",
+    "description": "Visura is a marketplace for publishers to license visual content from freelancers.",
+    "location": "Stowe, Vermont, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/visuramedia",
+      "linkedin": "https://linkedin.com/company/visura-media",
+      "facebook": "https://facebook.com/visura.co/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Carbon Analytics",
+    "website": "https://carbonanalytics.com/",
+    "description": "Carbon Analytics is a granular carbon tracking, intelligence and offsetting platform for industrial decarbonisation.",
+    "location": "Ely, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/prognosticio",
+      "linkedin": "https://linkedin.com/company/carbonanalytics",
+      "facebook": "https://facebook.com/co2analytics/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Appbase",
+    "website": "https://appbase.io/",
+    "description": "A database service for streaming search and analytics queries",
+    "location": "San Antonio, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/appbaseio",
+      "linkedin": "https://linkedin.com/in/siddharthlatest",
+      "facebook": "https://facebook.com/appbaseinc"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Rego",
+    "website": "https://liverego.com/",
+    "description": "Rego powers the circular economy for multifamily communities, starting with bulky, hard to recycle items like furniture.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rego-app",
+      "facebook": "https://facebook.com/regoapp.io"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Instinct",
+    "website": "https://instinctenvironmental.com/",
+    "description": "Bringing real-time data to forest management, wildfire detection and environmental monitoring through ground-based wireless sensor networks.",
+    "location": "Hillsboro, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/instinct-rapid-wildfire-detection"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "INPUT SOFT",
+    "website": "https://inputsoft.net/",
+    "description": "INPUT SOFT is a web platform for companies in the aviation industry: helps optimize resources, reduce costs, collect and analyze data from all processes.",
+    "location": "Kyiv, Ukraine",
+    "social_media": {
+      "twitter": "https://twitter.com/inputsoftware",
+      "linkedin": "https://linkedin.com/company/inputsoftware"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "HiddenLogin",
+    "website": "https://hiddenlogin.com/",
+    "description": "An anonymous privacy layer for the web",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hiddenlogin"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Healthtracka",
+    "website": "https://healthtracka.com/",
+    "description": "Healthtracka is a health tech startup decentralizing lab testing in Africa with at-home testing and digital results.",
+    "location": "Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/healthtracka",
+      "linkedin": "https://linkedin.com/company/healthtracka",
+      "facebook": "https://facebook.com/healthtracka"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "HealthHive",
+    "website": "https://healthhive.org/",
+    "description": "Driving value-based care by solving the care coordination needs of older adults and their caregivers as we integrate formal & informal care teams.",
+    "location": "Middletown, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TheHealthHive",
+      "linkedin": "https://linkedin.com/company/18660488",
+      "facebook": "https://facebook.com/HealthHiveApp"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Cohere Network",
+    "website": "https://cohere.network/",
+    "description": "Cohere is a global network of member-owned co-living communities.",
+    "location": "Lewes, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/coherenetwork",
+      "linkedin": "https://linkedin.com/company/coherenetwork",
+      "facebook": "https://facebook.com/coherenetwork"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "mokSa AI",
+    "website": "https://moksa.ai/",
+    "description": "mokSa.ai is an AI-powered video surveillance and audit platform that enhances small business security and efficiency.",
+    "location": "Sterling Heights, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MoksaAi",
+      "linkedin": "https://linkedin.com/company/moksa-ai",
+      "facebook": "https://facebook.com/mokSa2021"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Water Monster",
+    "website": "https://watermonster.io/",
+    "description": "IoT based services platform for water infrastructure",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/y8ygvwkqp9jp4g8basbu",
+    "location": "000, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/water-monster-io",
+      "facebook": "https://facebook.com/watermonster.io"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "SIPP",
+    "website": "https://sippsafely.com/",
+    "description": "Smart home device to treat drinking water and drive home automation",
+    "location": "Hoover, Alabama, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sippsafe"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Runbear",
+    "website": "https://plugbear.io/",
+    "description": "For companies that have difficulties integrating their own LLM Apps into work processes, we provide no-/low-code software to integrate the LLM Apps into daily work tools, such as Slack or HubSpot.",
+    "location": "Seoul, South Korea",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/runbear"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Nestar Energy",
+    "website": "https://nestarenergy.com/",
+    "description": "Introducing Lunar Power! We generate renewable energy by re-timing the moon's gravitational pull on ocean tides. Cheaper and more reliable than wind & solar; massive enough to supply more than a THIRD of global electricity demand.",
+    "location": "Eagan, Minnesota, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nestar-energy"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Meknology",
+    "website": "https://meknology.com/",
+    "description": "Sustainable wastewater up-cycling and drinking water distillation.",
+    "location": "Southfield, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/meknology"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "HydroPhos Solutions",
+    "website": "https://hydrophossolutions.com/",
+    "description": "A phosphorus filtration technology",
+    "location": "Sanbornton, New Hampshire, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hydrophos-solutions"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "GridLink",
+    "website": "https://grid-link.co/",
+    "description": "For EV fleet managers looking to reduce costs of operation, Gridlink provides intelligent charging management software to streamline operations and save on charging.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/gridlinkco"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Blind Insight",
+    "website": "https://blindinsight.com/",
+    "description": "Blind Insight acts as a privacy layer between sensitive data and the applications that run on it. Through the power of searchable encryption and the Blind Proxy, data remains encrypted at all times, even during processing and analysis. So you can get the insights you need without worrying about data exposure or leakage.",
+    "location": "Venice, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/blind-insight"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Periculum",
+    "website": "https://periculum.io/",
+    "description": "Periculum is a data analytics company providing analytic solutions for the African market.",
+    "location": "Waterloo, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/Periculumdotio",
+      "linkedin": "https://linkedin.com/company/26535300",
+      "facebook": "https://facebook.com/periculum.io/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Maket Technologies",
+    "website": "https://maket.ca/",
+    "description": "For architects who want to prototype floorplans faster, Maket provides a design platform that creates net-new floorplans using AI & enables collaboration",
+    "location": "Longueuil, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/maketplans",
+      "linkedin": "https://linkedin.com/company/maket-technologies",
+      "facebook": "https://facebook.com/Maketplans"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Aya Holding",
+    "website": "https://beta.ayagigs.com/",
+    "description": "Aya is a curated marketplace for start-ups and mid-level businesses to access vetted web3 digital skilled African talents.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/x9lbs8istzrmewn3o0ld",
+    "location": "Parkville, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ayagigs",
+      "linkedin": "https://linkedin.com/company/ayagigs",
+      "facebook": "https://facebook.com/myayagigs"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Terralytiq",
+    "website": "https://terralytiq.com/",
+    "description": "Terralytiq helps manufacturers reduce supplier emissions by automating hybrid Scope 3 data collection and managing decarbonization initiatives",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/terralytiq"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "StageKeep",
+    "website": "https://stagekeep.com/",
+    "description": "Collaborative tool for creators to easily manage, design and review the pre-production logistics, rehearsals and videos for performance productions saving stakeholders time and money.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/thfcs3xoffowg4lzbumt",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/stagekeep",
+      "linkedin": "https://linkedin.com/company/stagekeep",
+      "facebook": "https://facebook.com/stagekeep"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Simpu",
+    "website": "https://simpu.co/",
+    "description": "Build better experiences for your customers.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gj5y3kstsrmpq3udfuuy",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/simpuinc",
+      "linkedin": "https://linkedin.com/company/simpu-inc",
+      "facebook": "https://facebook.com/SimpuHq"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Zighra",
+    "website": "https://zighra.com/",
+    "description": "Continuous authentication and threat detection",
+    "location": "Ottawa, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/zfraudshield",
+      "linkedin": "https://linkedin.com/company/zighra",
+      "facebook": "https://facebook.com/ZwypeLock/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Tegarti",
+    "website": "https://tegarti.com/",
+    "description": "Tegarti is a Cloud-based POS and Omnichannel Retail Management Platform.",
+    "location": "Cairo, Egypt",
+    "social_media": {
+      "twitter": "https://twitter.com/TegartiApp",
+      "linkedin": "https://linkedin.com/company/tegarti",
+      "facebook": "https://facebook.com/TegartiApp"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Suplio",
+    "website": "https://hometuls.co/",
+    "description": "The one stop shop to source and finance construction materials in Latin America.",
+    "location": "Bogota, Colombia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hometuls",
+      "facebook": "https://facebook.com/hometuls/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Parsed",
+    "website": "https://parsedco.com/",
+    "description": "SaaS collaborative workspace to create AI-autonomous-agents applications with your company's data and team.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rrzg5oz5yu748yyd2q4a",
+    "location": "Lewes, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/parsedco"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "DataTherm",
+    "website": "https://datatherm.net/",
+    "description": "DataTherm uses waste heat from data centers to provide hot water to hotels, apartments, and pools.",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {},
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Teltoo",
+    "website": "https://teltoo.com/",
+    "description": "Teltoo uses Peer-to-Peer technologies to boost online video delivery, maximizing delivery costs and quality of experience to broadcasters, OTTS and ISPs",
+    "location": "Madrid, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/teltoo_cdn",
+      "linkedin": "https://linkedin.com/company/teltoo"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Krater",
+    "website": "https://krater.io/",
+    "description": "A platform for crypto investors, hosting providers, and hardware merchants to connect.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jzarbzendz2ygnrhqrgz",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/Krater_io",
+      "linkedin": "https://linkedin.com/company/krater-tech",
+      "facebook": "https://facebook.com/motiohead/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Datapath",
+    "website": "https://datapath.io/",
+    "description": "Simple control of network routing for DevOps",
+    "location": "Mainz, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/datapath_io",
+      "linkedin": "https://linkedin.com/company/datapath-io",
+      "facebook": "https://facebook.com/datapath.io"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "SnapEngage",
+    "website": "https://snapengage.com/",
+    "description": "SnapEngage Live Chat",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/snapengage",
+      "linkedin": "https://linkedin.com/company/snapengage",
+      "facebook": "https://facebook.com/SnapEngage"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "PierceMatrix",
+    "website": "https://piercematrix.com/",
+    "description": "PierceMatrix uses an artificial intelligence engine and proprietary knowledge to identifying and remove hackers from your network.",
+    "location": "Herndon, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Pierce_GTI",
+      "linkedin": "https://linkedin.com/company/piercematrix",
+      "facebook": "https://facebook.com/PierceMatrix/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Section",
+    "website": "https://section.io/",
+    "description": "section.io is a new class of content delivery network built for agile teams",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sectionio",
+      "linkedin": "https://linkedin.com/company/section_io",
+      "facebook": "https://facebook.com/wearesection"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Viciniti",
+    "website": "https://linkedin.com/company/viciniti",
+    "description": "Engaging wireless experiences. Everywhere.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/viciniti_co",
+      "linkedin": "https://linkedin.com/company/viciniti",
+      "facebook": "https://facebook.com/Wicastr-1471877259752460/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Toneboard",
+    "website": "https://linkedin.com/company/10442451",
+    "description": "Toneboard identifies health problems of the elderly at an early stage based on the way they talk.",
+    "location": "Riga, Latvia",
+    "social_media": {
+      "twitter": "https://twitter.com/Toneboard_com",
+      "linkedin": "https://linkedin.com/company/10442451"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "TEQ",
+    "website": "https://linkedin.com/company/teq-charging-inc-",
+    "description": "TEQ increases affordability of charging infrastructure for properties and accessibility of charging for electric vehicle (EV) drivers.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TEQCharging",
+      "linkedin": "https://linkedin.com/company/teq-charging-inc-",
+      "facebook": "https://facebook.com/teqcharging"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Split Gym",
+    "website": "https://linkedin.com/company/69429318",
+    "description": "A mobile app that allows users to rent someone's fitness membership or sell their own.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/69429318",
+      "facebook": "https://facebook.com/splitgym/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "NeuroApplied",
+    "website": "https://linkedin.com/company/5376764",
+    "description": "We reveal customers' thoughts about brands without directly asking them",
+    "location": "Hadera, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/NeuroApplied",
+      "linkedin": "https://linkedin.com/company/5376764",
+      "facebook": "https://facebook.com/neuroapplied"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "NetCloak",
+    "website": "https://linkedin.com/company/netcloak",
+    "description": "NetCloak is pioneering AI privacy technology by automatically detecting and securing high risk employee data.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/NetCloakInc",
+      "linkedin": "https://linkedin.com/company/netcloak",
+      "facebook": "https://facebook.com/hover"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Nebulab",
+    "website": "https://linkedin.com/company/nebulab-technologies",
+    "description": "Contextual data management for life scientists",
+    "location": "San Antonio, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nebulab_io",
+      "linkedin": "https://linkedin.com/company/nebulab-technologies"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "MemoryWell",
+    "website": "https://linkedin.com/company/thememorywell",
+    "description": "MemoryWell is a digital platform for healthcare providers that replaces intake questionnaires with brief, professionally written stories that capture SDoH data.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MemoryWell",
+      "linkedin": "https://linkedin.com/company/thememorywell",
+      "facebook": "https://facebook.com/MemoryWells/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Magnific",
+    "website": "https://linkedin.com/company/magnific",
+    "description": "A feed of great content, tailored to your tastes",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/MagnificHQ",
+      "linkedin": "https://linkedin.com/company/magnific",
+      "facebook": "https://facebook.com/magnifichq"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Kintail",
+    "website": "https://linkedin.com/company/kintail-io",
+    "description": "Kintail is the all-in-one data analytics solution for business leaders.",
+    "location": "Carmel, Indiana, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kintail-io"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Helm Solutions",
+    "website": "https://linkedin.com/company/10128001",
+    "description": "Helm provides companies instant visibility into their cybersecurity and technology compliance gaps.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HelmGlobal",
+      "linkedin": "https://linkedin.com/company/10128001",
+      "facebook": "https://facebook.com/helmglobal/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Gritly",
+    "website": "https://linkedin.com/company/gritlyhq",
+    "description": "Gritly is building the infrastructure for skills-based training & hiring.",
+    "location": "Northglenn, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Gritly_HQ",
+      "linkedin": "https://linkedin.com/company/gritlyhq",
+      "facebook": "https://facebook.com/Internalyze/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Gather Data",
+    "website": "https://linkedin.com/company/gather-app-ltd",
+    "description": "Gather is a personalised web meeting platform shaped around your specific business needs.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gatherinsurance",
+      "linkedin": "https://linkedin.com/company/gather-app-ltd",
+      "facebook": "https://facebook.com/Gathercom/105367686164667"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Gaia",
+    "website": "https://linkedin.com/company/gaia-investments",
+    "description": "Gaia is the easiest platform for investing in companies that take responsibility for a sustainable future.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/eolsse794begdhpokgms",
+    "location": "Copenhagen, Denmark",
+    "social_media": {
+      "twitter": "https://twitter.com/gaiadesignmx",
+      "linkedin": "https://linkedin.com/company/gaia-investments",
+      "facebook": "https://facebook.com/gaiadesignmexico/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Filament",
+    "website": "https://linkedin.com/company/filamentlimited",
+    "description": "A complete hardware + software ecosystem for building the the machine economy.",
+    "location": "Reno, Nevada, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FilamentHQ",
+      "linkedin": "https://linkedin.com/company/filamentlimited",
+      "facebook": "https://facebook.com/filamentag/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Farcast",
+    "website": "https://linkedin.com/company/farcastinc",
+    "description": "DASH Systems is an Aerial Logistics Company directly connecting cargo airplanes to customers by landing the package not the airplane.",
+    "location": "Chatsworth, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Go_Farcast",
+      "linkedin": "https://linkedin.com/company/farcastinc",
+      "facebook": "https://facebook.com/mitrabiotechnology"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Cycuro",
+    "website": "https://linkedin.com/company/cycuro",
+    "description": "cycuro is a mobility data validation platform. We guarantee data quality and integrity for mobility services.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/cycuro",
+      "linkedin": "https://linkedin.com/company/cycuro",
+      "facebook": "https://facebook.com/cycuro"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Cloudsnap",
+    "website": "https://linkedin.com/company/cloudsnapconnect",
+    "description": "Integration as a service",
+    "location": "Reno, Nevada, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cloudsnap",
+      "linkedin": "https://linkedin.com/company/cloudsnapconnect",
+      "facebook": "https://facebook.com/cloudsnap"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Civin",
+    "website": "https://linkedin.com/company/civin",
+    "description": "The analytics platform for local government (coming soon).",
+    "location": "East Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/civin_co",
+      "linkedin": "https://linkedin.com/company/civin",
+      "facebook": "https://facebook.com/civindotco"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Chargd",
+    "website": "https://linkedin.com/company/chargd-app",
+    "description": "Connecting vehicles, chargers and people to integrate  EV experiences into individual lifestyles.",
+    "location": "Munich, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/chargd-app"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Burpy",
+    "website": "https://linkedin.com/company/burpy-incorporated",
+    "description": "Same day grocery delivery service",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/BURPYdelivers",
+      "linkedin": "https://linkedin.com/company/burpy-incorporated",
+      "facebook": "https://facebook.com/BURPYdotCOM"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "BuildSim",
+    "website": "https://linkedin.com/company/17971114",
+    "description": "BuildSimHub is a platform for optimizing building energy modeling for new buildings and retrofitting existing projects.",
+    "location": "Wexford, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/buildsimhub",
+      "linkedin": "https://linkedin.com/company/17971114",
+      "facebook": "https://facebook.com/buildsim360/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "BridgedAI",
+    "website": "https://linkedin.com/company/bridgedai-com",
+    "description": "AI Training Data Powered by Human Intelligence",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "twitter": "https://twitter.com/BridgedCo",
+      "linkedin": "https://linkedin.com/company/bridgedai-com",
+      "facebook": "https://facebook.com/bridged.co"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "BeSafe",
+    "website": "https://linkedin.com/company/skycryptor",
+    "description": "Enabling businesses to protect, control and track their data everywhere.",
+    "location": "Yerevan, Armenia",
+    "social_media": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/company/skycryptor",
+      "facebook": "https://facebook.com/BeSafe-Cloud-Security-1450157768352047"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Barac",
+    "website": "https://linkedin.com/company/barac.io",
+    "description": "Instant threat detection on Encrypted Traffic without decryption using Metadata & Artificial Intelligence",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/barac_io",
+      "linkedin": "https://linkedin.com/company/barac.io",
+      "facebook": "https://facebook.com/barac.io/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "AtCipher",
+    "website": "https://linkedin.com/company/atcipher-inc",
+    "description": "AtCipher helps business to protect data in the cloud.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/atcipher",
+      "linkedin": "https://linkedin.com/company/atcipher-inc"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "AnyLedger",
+    "website": "https://linkedin.com/company/anyledger",
+    "description": "We enable Industrial IoT devices to generate trusted data and securely transact between each other.",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/anyledgerio",
+      "linkedin": "https://linkedin.com/company/anyledger"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Acculis",
+    "website": "https://linkedin.com/company/10806199",
+    "description": "Using 3D models to help reduce errors in  construction in the office and on-site",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AcculisTech",
+      "linkedin": "https://linkedin.com/company/10806199",
+      "facebook": "https://facebook.com/acculis"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Pactta",
+    "website": "https://linkedin.com/company/pactta",
+    "description": "Remittances and crossborder payments for Latam",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nszeyohvs8w2iewjbrqk",
+    "location": "Chacarita, Argentina",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pactta",
+      "facebook": "https://facebook.com/PacttaApp"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "MeeteR",
+    "website": "https://linkedin.com/company/themeeterapp",
+    "description": "Delivering event management at scale.",
+    "location": "TYSONS, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/themeeterapp",
+      "linkedin": "https://linkedin.com/company/themeeterapp",
+      "facebook": "https://facebook.com/themeeterapp/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Oystr Finance",
+    "website": "https://linkedin.com/company/oystr-finance-ltd",
+    "description": "Alternative financial data infrastructure for Africa",
+    "location": "Lekki, Nigeria",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oystr-finance-ltd"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Merklebot",
+    "website": "https://linkedin.com/company/merklebot",
+    "description": "Connecting universe to metaverse",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MerkleB0t",
+      "linkedin": "https://linkedin.com/company/merklebot",
+      "facebook": "https://facebook.com/MerkleBot/"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  },
+  {
+    "name": "Havoc Shield",
+    "website": "https://linkedin.com/company/havoc-shield",
+    "description": "A self-serve cyber security program built for for startups, small businesses, and remote workers.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/havocshield",
+      "linkedin": "https://linkedin.com/company/havoc-shield",
+      "facebook": "https://facebook.com/havocshieldinc"
+    },
+    "industry": "Infrastructure",
+    "industry_slug": "infrastructure"
+  }
+]

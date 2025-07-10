@@ -1,0 +1,24 @@
+{
+  "name": "CliniSpan Health",
+  "slug": "clinispan-health",
+  "website": "https://clinispanhealth.com/",
+  "description": "CliniSpan Health has built an Influencer Relationship Management Platform (IRM) for clinical research.",
+  "one_liner": "CliniSpan Health has built an Influencer Relationship Management Platform (IRM) for clinical research.",
+  "location": "Durham, North Carolina, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/clinispanhealth",
+    "linkedin": "https://linkedin.com/company/clinispan-health",
+    "facebook": "https://facebook.com/CliniSpanHealth/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/clinispan-health",
+  "api": "/api/companies/clinispan-health.json"
+}

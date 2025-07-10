@@ -1,0 +1,24 @@
+{
+  "name": "HeyAxel",
+  "slug": "heyaxel",
+  "website": "https://heyaxel.com/",
+  "description": "Drive your team to success with Axel, managers' virtual assistant",
+  "one_liner": "Drive your team to success with Axel, managers' virtual assistant",
+  "location": "Paris, France",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/axelapi_xyz",
+    "linkedin": "https://linkedin.com/company/rampup-bots",
+    "facebook": "https://facebook.com/AxelUnlimited"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/heyaxel",
+  "api": "/api/companies/heyaxel.json"
+}

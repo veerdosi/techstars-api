@@ -1,0 +1,23 @@
+{
+  "name": "Kayhan Space",
+  "slug": "kayhan-space",
+  "website": "https://kayhan.space/",
+  "description": "Cloud-based space flight dynamics and mission analysis platform",
+  "one_liner": "Cloud-based space flight dynamics and mission analysis platform",
+  "location": "Lafayette, Colorado, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/KayhanSpace",
+    "linkedin": "https://linkedin.com/company/kayhan-space"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kayhan-space",
+  "api": "/api/companies/kayhan-space.json"
+}

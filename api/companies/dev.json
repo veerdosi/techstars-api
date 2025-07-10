@@ -1,0 +1,24 @@
+{
+  "name": "Dev",
+  "slug": "dev",
+  "website": "https://devf.la/",
+  "description": "Cohort-based educational program that trains Hispanic Americans in digital skills such as coding, data science, AI, and UX, and helps them secure a high-quality job.",
+  "one_liner": "Cohort-based educational program that trains Hispanic Americans in digital skills such as coding, data science, AI, and UX, and helps them secure a high-quality job.",
+  "location": "Mexico City, Federal District, Mexico",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/devflatam",
+    "linkedin": "https://linkedin.com/school/devf",
+    "facebook": "https://facebook.com/devfla/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/dev",
+  "api": "/api/companies/dev.json"
+}

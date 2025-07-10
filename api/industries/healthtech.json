@@ -1,0 +1,4709 @@
+[
+  {
+    "name": "GINGER",
+    "website": "https://ginger.com/",
+    "description": "Coaching, therapy, and psychiatry from the privacy of your smartphone.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/carebyginger",
+      "linkedin": "https://linkedin.com/company/carebyginger",
+      "facebook": "https://facebook.com/pages/Gingerio/216227078391733"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Owlet Baby Care",
+    "website": "https://owletcare.com/",
+    "description": "Owlet's baby monitoring ecosystem works together seamlessly to give your family easier days and nights.",
+    "location": "Lehi, Utah, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/owletbabycare",
+      "linkedin": "https://linkedin.com/company/owlet-care-monitors",
+      "facebook": "https://facebook.com/OwletBabyMonitors"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Artera",
+    "website": "https://artera.io/",
+    "description": "Artera is the SaaS digital health leader in patient communications and two-time Best in KLAS winner in Patient Outreach.",
+    "location": "Santa Barbara, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Artera_io",
+      "linkedin": "https://linkedin.com/company/artera-io",
+      "facebook": "https://facebook.com/artera.io/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Regard",
+    "website": "https://withregard.com/",
+    "description": "Automating documentation, so clinicians can get back to patients.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RegardApp",
+      "linkedin": "https://linkedin.com/company/regard-technologies"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Lifebit Biotech",
+    "website": "https://lifebit.ai/",
+    "description": "LifeBit enables companies to do DNA analysis at scale.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/lifebitAI",
+      "linkedin": "https://linkedin.com/company/lifebit-ai",
+      "facebook": "https://facebook.com/lifebitAI/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Healthie",
+    "website": "https://gethealthie.com/",
+    "description": "Healthie is a web and mobile platform for dietitians and nutritionists to manage their practice.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gethealthie",
+      "linkedin": "https://linkedin.com/company/get-healthie",
+      "facebook": "https://facebook.com/GetHealthie/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Tasso",
+    "website": "https://tassoinc.com/",
+    "description": "Tasso has created HemoLink, a virtually painless device that allows patients to collect their own blood sample--enough blood to run standard lab tests",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tassoinc",
+      "linkedin": "https://linkedin.com/company/tasso-inc-",
+      "facebook": "https://facebook.com/teamtasso/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Ergatta",
+    "website": "https://ergatta.com/",
+    "description": "At-home fitness made exciting through games",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ergatta",
+      "linkedin": "https://linkedin.com/company/ergatta",
+      "facebook": "https://facebook.com/Ergatta/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "AppliedVR",
+    "website": "https://appliedvr.io/",
+    "description": "Virtual reality for enhanced patient experience in healthcare around pain and anxiety management.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AppliedVR",
+      "linkedin": "https://linkedin.com/company/appliedvr",
+      "facebook": "https://facebook.com/appliedvr"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Ovia Health",
+    "website": "https://oviahealth.com/",
+    "description": "Accurate fertility monitoring",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/OviaHealth",
+      "linkedin": "https://linkedin.com/company/ovia-health",
+      "facebook": "https://facebook.com/ovuline"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "NutriSense",
+    "website": "https://nutrisense.io/",
+    "description": "A bio-feedback powered, personalized nutrition coach.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nutrisenseio",
+      "linkedin": "https://linkedin.com/company/nutrisenseio",
+      "facebook": "https://facebook.com/nutrisenseio"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "AnswersNow",
+    "website": "https://getanswersnow.com/",
+    "description": "The mobile platform that gives on-demand support to special needs families through connections with expert clinicians and personalized automated lessons.",
+    "location": "Richmond, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/answersnow",
+      "linkedin": "https://linkedin.com/company/answersnow",
+      "facebook": "https://facebook.com/getanswersnow"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Vivoo",
+    "website": "https://vivoo.io/",
+    "description": "Vivoo (www.vivoo.io) is a wellness app that guides users to a healthier lifestyle with personalized advice based on their urine tests.",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/VivooApp",
+      "linkedin": "https://linkedin.com/company/vivooapp",
+      "facebook": "https://facebook.com/VivooApp"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Valence Discovery",
+    "website": "https://valencediscovery.com/",
+    "description": "Valence is unlocking the true potential of deep learning in drug design by unifying best-in-class deep learning technologies with intuitive infrastructure to allow any drug discovery team to become AI-enabled. We're proudly headquartered at Mila.",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/valence_ai",
+      "linkedin": "https://linkedin.com/company/valence-discovery",
+      "facebook": "https://facebook.com/invivoai/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Rezilient Health",
+    "website": "https://rezilienthealth.com/",
+    "description": "Rezilient Health bridges the convenience of telehealth with the broad scope of in-person care by offering neighborhood CloudClinics where families can get virtual access to their doctor as well as physical exams, labs, and imaging.",
+    "location": "St. Louis, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rezilienthealth",
+      "linkedin": "https://linkedin.com/company/rezilienthealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "UptimeHealth",
+    "website": "https://uptimehealth.com/",
+    "description": "UptimeHealth simplifies medical equipment compliance, services, and purchase events for small healthcare facilities.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/UptimeHealth",
+      "linkedin": "https://linkedin.com/company/27191976",
+      "facebook": "https://facebook.com/UptimeHealth-1683394785285021"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Lumeon",
+    "website": "https://lumeon.com/",
+    "description": "Providing Care Pathway Management (CPM) platform solutions for the healthcare industry",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lumeon_",
+      "linkedin": "https://linkedin.com/company/lumeon-ltd",
+      "facebook": "https://facebook.com/Qinec"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Silene Biotech",
+    "website": "https://silenebiotech.com/",
+    "description": "Building your personalized medicine platform using your own cells.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SileneBiotech",
+      "linkedin": "https://linkedin.com/company/17935186",
+      "facebook": "https://facebook.com/silenebiotech/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "MD Ally",
+    "website": "https://mdally.com/",
+    "description": "Our 911 telehealth solution allows emergency dispatchers and first responders to triage non-emergency callers to virtual care to improve patient outcomes.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mdallyinc",
+      "linkedin": "https://linkedin.com/company/mdally",
+      "facebook": "https://facebook.com/mdallyinc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Leucine",
+    "website": "https://leucinetech.com/",
+    "description": "A proactive digital manufacturing platform that enables better drug product quality and patient safety.",
+    "location": "Koramangala 7th Block, Karnataka, India",
+    "social_media": {
+      "twitter": "https://twitter.com/LeucineApp",
+      "linkedin": "https://linkedin.com/company/leucine"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Virgo",
+    "website": "https://virgosvs.com/",
+    "description": "Virgo is a cloud-based video recording platform for colonoscopies that leverages incoming video data to develop automated polyp detection systems.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/virgosvs",
+      "linkedin": "https://linkedin.com/company/virgo-hq",
+      "facebook": "https://facebook.com/virgosvs/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Backpack Healthcare",
+    "website": "https://youmehealthcare.com/",
+    "description": "A diverse staff of specialists, including psychologists, psychiatrists, counselors and social workers, who can address specific challenges for children.",
+    "location": "Elkridge, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hellobackpack",
+      "facebook": "https://facebook.com/youmehealthcare"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Motivo",
+    "website": "https://wearemotivo.com/",
+    "description": "Motivo is an online platform that helps mental health therapists get credentialed in a faster, easier way.",
+    "location": "Chattanooga, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wearemotivo",
+      "linkedin": "https://linkedin.com/company/motivohealth",
+      "facebook": "https://facebook.com/wearemotivo/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Naborforce",
+    "website": "https://naborforce.com/",
+    "description": "Naborforce connects older adults to a network of \"Nabors\" for social engagement and on-demand support for errands, transportation and help around the home.",
+    "location": "Richmond, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/naborforce",
+      "linkedin": "https://linkedin.com/company/1naborforce",
+      "facebook": "https://facebook.com/naborforce"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "SmartMind",
+    "website": "https://smartmind.team/",
+    "description": "We provide AI-powered digital advertising management platform to maximize sales revenue by orchestrating multi channels with real time purchase pattern analysis",
+    "location": "Seoul, South Korea",
+    "social_media": {
+      "twitter": "https://twitter.com/SmartMi71261326",
+      "linkedin": "https://linkedin.com/company/smartmind-inc",
+      "facebook": "https://facebook.com/smartmind.team/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Silversheet",
+    "website": "https://silversheet.com/",
+    "description": "Silversheet helps healthcare facilities and medical staff connect and work together more efficiently.",
+    "location": "Culver City, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/silversheet",
+      "linkedin": "https://linkedin.com/company/silversheet",
+      "facebook": "https://facebook.com/silversheetHQ"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "TrojAI",
+    "website": "https://troj.ai/",
+    "description": "Robustness and security for AI.",
+    "location": "Saint John, New Brunswick, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/TrojAISec",
+      "linkedin": "https://linkedin.com/company/trojai",
+      "facebook": "https://facebook.com/TrojAI/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Atlas5D",
+    "website": "https://atlas5d.com/",
+    "description": "The first non-worn sensor for mobility disorders.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Atlas5D",
+      "linkedin": "https://linkedin.com/company/atlas5d",
+      "facebook": "https://facebook.com/Atlas5D/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Preveta",
+    "website": "https://preveta.com/",
+    "description": "Preveta is transforming cancer care by building the richest database of patient insights that will drive transformation for providers, pharma and payers",
+    "location": "Redondo Beach, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hellopreveta",
+      "linkedin": "https://linkedin.com/company/preveta",
+      "facebook": "https://facebook.com/HelloPreveta"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "CarePort Health",
+    "website": "https://careporthealth.com/",
+    "description": "Healthcare networking company",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/careporthealth",
+      "linkedin": "https://linkedin.com/company/careport-health",
+      "facebook": "https://facebook.com/Careporthealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Deep 6 AI",
+    "website": "https://deep6.ai/",
+    "description": "Deep 6 AI applies artificial intelligence and natural language processing to medical records to find more patients for clinical trials exponentially faster.",
+    "location": "Pasadena, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/deep6ai",
+      "linkedin": "https://linkedin.com/company/deep-6-ai",
+      "facebook": "https://facebook.com/deep6ai"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "i-Brain Tech",
+    "website": "https://i-brain.tech/",
+    "description": "i-BrainTech is a novel AI-powered brain-training solution to enhance the KPIs of individual athletes and to empower coaches with unique neuro-sport insights.",
+    "location": "Ramat Gan, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/i-braintech"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Medzoomer",
+    "website": "https://medzoomer.com/",
+    "description": "On-demand prescription delivery at the touch of a button.",
+    "location": "Tampa, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/medzoomer",
+      "facebook": "https://facebook.com/medzoomer/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "NarrativeDx",
+    "website": "https://narrativedx.com/",
+    "description": "NarrativeDx uses AI to help patient experience leaders identify actionable insights from patient feedback",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/narrativedx",
+      "linkedin": "https://linkedin.com/company/narrativedx",
+      "facebook": "https://facebook.com/NarrativeDx"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Aspect Health",
+    "website": "https://aspect-health.com/",
+    "description": "Aspect is a service (& app) that improves lifestyle-reversible hormonal imbalances via continuous glucose monitoring and human-assisted AI coaching.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Aspectapp_co",
+      "linkedin": "https://linkedin.com/company/aspectapp",
+      "facebook": "https://facebook.com/aspect.fit.online"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Hormona",
+    "website": "https://hormona.io/",
+    "description": "Digitalized hormonal health powered by AI & at home testing",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/qly2dqitldilpfnhehmk",
+    "location": "Weybridge, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Hormona7",
+      "linkedin": "https://linkedin.com/company/hormona",
+      "facebook": "https://facebook.com/hormona.io"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Stasis Labs",
+    "website": "https://stasislabs.com/",
+    "description": "Building a health monitoring system that allows doctors to catch declining patients and intervene before a critical event.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/stasislabs",
+      "linkedin": "https://linkedin.com/company/stasis-labs",
+      "facebook": "https://facebook.com/stasislabs"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Open Bionics",
+    "website": "https://openbionics.com/",
+    "description": "Award winning robotics company producing low-cost bionic body parts for amputees.",
+    "location": "Bristol, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/openbionics",
+      "linkedin": "https://linkedin.com/company/openbionics",
+      "facebook": "https://facebook.com/openbionicsltd"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "REEV",
+    "website": "https://reev.care/",
+    "description": "Helping those affected by neurological gait disorders like stroke to overcome their daily disability by becoming more autonomous and independent in their movements",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lqz0gwn1qm5xlsatx7we",
+    "location": "Toulouse, France",
+    "social_media": {
+      "twitter": "https://twitter.com/wearereev",
+      "linkedin": "https://linkedin.com/company/reevcare",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Sprout Wellness Solutions",
+    "website": "https://sproutatwork.com/",
+    "description": "Take Corporate Wellness to the next level",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/SproutAtWork",
+      "linkedin": "https://linkedin.com/company/sprout-wellness-solutions-inc",
+      "facebook": "https://facebook.com/Sproutatwork"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Vitrue Health",
+    "website": "https://vitruehealth.com/",
+    "description": "Computer vision technology to empower physiotherapists to more accurately assess their patients",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/VitrueHealth",
+      "linkedin": "https://linkedin.com/company/vitrue-health",
+      "facebook": "https://facebook.com/vitruehealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "STAND+",
+    "website": "https://weargales.com/",
+    "description": "Gales Smart PPE Footwear(r) - The first and only antimicrobial, easy to clean, protective shoes for healthcare.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/weargales",
+      "linkedin": "https://linkedin.com/company/weargales",
+      "facebook": "https://facebook.com/weargales/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Gradient Health",
+    "website": "https://gradienthealth.ai/",
+    "description": "Gradient Health aims to label the world's medical imagery, one pathology at a time. Founded in 2018, Gradient Health operates in Durham, North Carolina, United States.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gradienthealth",
+      "linkedin": "https://linkedin.com/company/gradient-health-inc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Inkblot Therapy",
+    "website": "https://ink.inkblottherapy.com/",
+    "description": "Inkblot is fixing the way mental health services are provided.",
+    "location": "Burlington, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/inkblottherapy",
+      "linkedin": "https://linkedin.com/company/inkblottherapy",
+      "facebook": "https://facebook.com/inkblotpsychotherapy/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Olli Health",
+    "website": "https://ollihomehealth.ai/",
+    "description": "Olli Health provides an AI-powered, home health OASIS review and coding service that's 10x faster, more accurate, and costs less than half of current manual human-based solutions.",
+    "location": "New York City, Wisconsin, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/olli-home-health"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "VivorCare",
+    "website": "https://vivorcare.com/",
+    "description": "VivorCare is the first virtual survivorship clinic providing whole-person care to survivors of critical illness, starting with cancer.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mger204zhviu1gqlnskn",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vivorcare",
+      "linkedin": "https://linkedin.com/company/vivorcare"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Nicolette",
+    "website": "https://nicolette.com/",
+    "description": "Patient empowerment. Provider partnership.",
+    "location": "Long Beach, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nicoboard",
+      "linkedin": "https://linkedin.com/company/nicolette",
+      "facebook": "https://facebook.com/nicolettecompany"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Asepha",
+    "website": "https://asepha.ai/",
+    "description": "AI clinical tools to enable automation and personalization in pharmacies.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/i0g0bca8xvwk7jdip2kb",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/asepha"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "MDaaS Global",
+    "website": "https://mdaas.io/",
+    "description": "MDaaS Global builds and operates tech-enabled diagnostic and primary care centers in clinically underserved communities in Africa.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mdaasglobal",
+      "linkedin": "https://linkedin.com/company/mdaas",
+      "facebook": "https://facebook.com/mdaasglobal/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "heva",
+    "website": "https://heva.co/",
+    "description": "AI powered platform and marketplace for medical tourism.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/yourheva"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "knowRX",
+    "website": "https://knowrxhealth.com/",
+    "description": "knowRX Health helps optimize clinical recruitment for drug development. We drive better patient health outcomes for all communities.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/nwhfpd5etfgpyftt9gmh",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/knowrx",
+      "linkedin": "https://linkedin.com/company/knowrx",
+      "facebook": "https://facebook.com/knowrx"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "kelaHealth",
+    "website": "https://kelahealth.com/",
+    "description": "Bringing insights from millions of patients to every patient.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/kelahealth",
+      "linkedin": "https://linkedin.com/company/kelahealth",
+      "facebook": "https://facebook.com/k%C4%93lahealth-104417834782451/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Azra Care",
+    "website": "https://azra.ai/",
+    "description": "Holistic, full stack care management platform.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xxefqncnbc0gtiy15ee0",
+    "location": "Woodbridge, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/azracare",
+      "linkedin": "https://linkedin.com/company/azra-care"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "StudyOS",
+    "website": "https://studyos.co/",
+    "description": "The studyOS platform helps lean teams catch study issues before they're issues in real-time, enabling comprehensive study oversight.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/butterflylabsdx",
+      "linkedin": "https://linkedin.com/company/studyos"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Plannly",
+    "website": "https://plannlyhealth.com/",
+    "description": "Plannly Health is dedicated to enhancing healthcare by taking a proactive approach to identify and address significant workforce risks.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/plannly",
+      "linkedin": "https://linkedin.com/company/plannly",
+      "facebook": "https://facebook.com/plann.ly"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Piction Health",
+    "website": "https://lumindx.com/",
+    "description": "For generalist physicians addressing skin conditions affecting billions, LuminDx is building an AI to elevate these doctors into expert dermatologists.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LuminDx",
+      "linkedin": "https://linkedin.com/company/pictionhealth",
+      "facebook": "https://facebook.com/pages/category/Science--Technology---Engineering/LuminDx-165829277473533/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Aware Health",
+    "website": "https://awarehealth.io/",
+    "description": "Aware Health diagnoses/treats joint pain without imaging or surgery.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/b2l5cknpcp03gnvvqyyb",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/heidiojha",
+      "linkedin": "https://linkedin.com/company/awareorthopedichealth",
+      "facebook": "https://facebook.com/aware.health"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "FindMeCure",
+    "website": "https://findmecure.com/",
+    "description": "FindMeCure helps patients find, understand and join clinical trials.",
+    "location": "Berkhamsted, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/FindMeCure",
+      "linkedin": "https://linkedin.com/company/10626393",
+      "facebook": "https://facebook.com/findmecure/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Storetasker",
+    "website": "https://storetasker.com/",
+    "description": "The #1 Shopify marketplace for hiring developers, designers, and marketers",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Lorem_tech",
+      "linkedin": "https://linkedin.com/company/storetasker",
+      "facebook": "https://facebook.com/storetasker"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Kinometrix",
+    "website": "https://kinometrix.com/",
+    "description": "For hospitals that struggle to identify patients at risk for hospital acquired conditions, Kinometrix provides a patient safety platform that uses electronic health record data and machine learning to predict patient harm accurately and in real-time.",
+    "location": "Fort Belvoir, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Kinometrix",
+      "linkedin": "https://linkedin.com/company/kinometrix",
+      "facebook": "https://facebook.com/Kinometrix"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Relatable",
+    "website": "https://relatable.io/",
+    "description": "Relatable is a b2b business intelligence company that makes information on medical devices and supplies accessible, insightful, and useful.",
+    "location": "Nashville, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/askrelatable",
+      "linkedin": "https://linkedin.com/company/relatablehealthcare",
+      "facebook": "https://facebook.com/relatable.me/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Modicus Prime",
+    "website": "https://modicusprime.com/",
+    "description": "Offering AI/ML solutions integrating heterogenous life sciences data for anomaly detection, monitoring and enhanced decision making",
+    "location": "La Porte, Indiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ModicusP",
+      "linkedin": "https://linkedin.com/company/modicus-prime"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Script Health",
+    "website": "https://scripthealth.co/",
+    "description": "Innovating digital technology healthcare delivery. Script Health provides easy access to essential and life-saving medications to improve health.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ScriptHealth",
+      "linkedin": "https://linkedin.com/company/fiduscript",
+      "facebook": "https://facebook.com/pages/category/Pharmaceuticals/Script-Health-478975709170957/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Lena Health",
+    "website": "https://lena.io/",
+    "description": "Lena Health offers patients an AI-augmented personal navigator that coordinates care and navigates community removing barriers, and improving outcomes.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/line_health",
+      "linkedin": "https://linkedin.com/company/linehealth",
+      "facebook": "https://facebook.com/linehealth.co/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Peeq Industries",
+    "website": "https://peeqpro.com/",
+    "description": "Eyelids are gross. Peeq Pro helps ensure everyone cleans them every day.",
+    "location": "Omaha, Nebraska, United States",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "AMPLY Discovery",
+    "website": "https://amplydiscovery.com/",
+    "description": "Novel Biologics. Designed by Evolution. Discovered by AI.",
+    "location": "Belfast, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/amply-discovery"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Drugviu",
+    "website": "https://drugviu.com/",
+    "description": "Make it easy for non-white populations to find out how medications affect us and support each other",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/drugviu",
+      "linkedin": "https://linkedin.com/company/drugviu",
+      "facebook": "https://facebook.com/Drugviu-590042898097621/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "CaseCTRL",
+    "website": "https://casectrl.com/",
+    "description": "Built by surgeons. Streamlined Ai surgical management workflow for more surgeries, greater revenue, & happier patients.",
+    "location": "Sugar Land, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CaseCTRL_",
+      "linkedin": "https://linkedin.com/company/casectrl",
+      "facebook": "https://facebook.com/caseCTRL"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Smiletronix",
+    "website": "https://smiletronix.com/",
+    "description": "Smiletronix is an on-demand home dental check-up solution that lets you take control of your dental health using our personal hand held device and app.",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/smiletronix",
+      "linkedin": "https://linkedin.com/company/smiletronix",
+      "facebook": "https://facebook.com/smiletronix"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Gelatex",
+    "website": "https://gelatex.com/",
+    "description": "Gelatex is the catalyst for cultured meat, wound care, filtration, and energy storage by providing up to 100 times cheaper and scalable nanofiber production.",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "twitter": "https://twitter.com/gela_tex",
+      "linkedin": "https://linkedin.com/company/gelatex",
+      "facebook": "https://facebook.com/gelatex/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "TruSpin Nanomaterial Innovation",
+    "website": "https://tru-spin.com/",
+    "description": "TruSpin is an advanced materials company using a proprietary technique to mass-produce new types of nanofibers.",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/truspin-nanomaterial-innovation"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Lo Bio",
+    "website": "https://lo-bio.com/",
+    "description": "We enable lab-approved home collections for your next blood test",
+    "location": "Rockville, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lo-bio"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "BrainSpec",
+    "website": "https://brainspecmed.com/",
+    "description": "BrainSpec is a health-tech company that enables the accurate, efficient and non-invasive diagnosis of brain disorders.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Brain_Spec",
+      "linkedin": "https://linkedin.com/company/brainspec"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "GYANT",
+    "website": "https://gyant.com/",
+    "description": "GYANT is a friendly health assistant that you can talk to - like to a friend who happens",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/I_AM_GYANT",
+      "linkedin": "https://linkedin.com/company/gyant",
+      "facebook": "https://facebook.com/theGYANT/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Crosscope",
+    "website": "https://crosscope.com/",
+    "description": "Crosscope is building digital pathology workflows and AI based image analysis to assist pathologists and hospitals collaborate to fight cancers.",
+    "location": "Mountain View, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/crosscope",
+      "linkedin": "https://linkedin.com/company/crosscope"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "BAND Connect",
+    "website": "https://bandconnect.net/",
+    "description": "Band Connect's VirtuaCare platform enables physical therapists to provide personalized care when the patient is away from the clinic - leading to consistent high caliber of care with better compliance and reduced in clinic visits.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hwtwdeyyaedhq76tpysb",
+    "location": "Cincinnati, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Band_Connect_",
+      "linkedin": "https://linkedin.com/company/band-connect",
+      "facebook": "https://facebook.com/bandconnect.net"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Vivo",
+    "website": "https://teamvivo.com/",
+    "description": "Vivo is an online, live & interactive clinical fitness program for adults 55 and older with a focus on increasing strength and function with measured outcomes.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TeamVivoFitness",
+      "linkedin": "https://linkedin.com/company/vivo-enabling-national-networking-of-scientists",
+      "facebook": "https://facebook.com/teamvivo"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Akara Robotics",
+    "website": "https://akara.ai/",
+    "description": "We help hospitals increase productivity and alleviate staffing challenges using robotics and AI.",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/Akara_Robotics",
+      "linkedin": "https://linkedin.com/company/akara-robotics"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Surgicure Technologies",
+    "website": "https://surgicuretech.com/",
+    "description": "Surgicure is a start-up company that is dedicated to building effective medical instruments to prevent unnecessary harm.",
+    "location": "Charlestown, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SurgicureTech",
+      "linkedin": "https://linkedin.com/company/surgicure",
+      "facebook": "https://facebook.com/surgicuretech/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "CancerAid",
+    "website": "https://canceraid.com/",
+    "description": "CancerAid is an app for oncology patients, caregivers and clinicians to provide support during their journey.",
+    "location": "Camperdown, New South Wales, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/CancerAid_app",
+      "linkedin": "https://linkedin.com/company/canceraid",
+      "facebook": "https://facebook.com/canceraid"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Athlete",
+    "website": "https://lifeathlete.co/",
+    "description": "Life insurance that helps you to live longer",
+    "location": "Harrogate, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lifeathlete"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Skintelligent Corporation",
+    "website": "https://skintelligentlab.com/",
+    "description": "Developing AI skin analysis solutions to power the future of skin health.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SkintelligentAI",
+      "linkedin": "https://linkedin.com/company/skintelligent"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Mother of Fact",
+    "website": "https://motheroffact.com/",
+    "description": "On-demand nutrition care platform for birthing people and babies - from pregnancy to a baby's first year of life.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/qbm0y9nptgweyh4hq6ku",
+    "location": "Sunapee, New Hampshire, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nurturetalk",
+      "facebook": "https://facebook.com/MotherofFact"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Haptic",
+    "website": "https://knocki.com/",
+    "description": "Haptic is a digital activation platform for structural materials.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/haptic",
+      "linkedin": "https://linkedin.com/company/knocki",
+      "facebook": "https://facebook.com/getknocki"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Medeo-health",
+    "website": "https://medeo-health.com/",
+    "description": "Medeo helps healthcare providers save time and be more efficient with an intuitive and secure medical software.",
+    "location": "Lyon, France",
+    "social_media": {
+      "twitter": "https://twitter.com/medeo_health",
+      "linkedin": "https://linkedin.com/company/medeo-health",
+      "facebook": "https://facebook.com/medeohealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Injoy",
+    "website": "https://injoy.bio/",
+    "description": "Health tracking and microbiome testing for people with gut health issues.",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/phyla",
+      "facebook": "https://facebook.com/micropredictome/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "GestSure",
+    "website": "https://gestsure.com/",
+    "description": "Gestural Interfaces, Medical Devices",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/gestsure",
+      "linkedin": "https://linkedin.com/company/2566102",
+      "facebook": "https://facebook.com/gestsuretechnologies"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Orderly Health",
+    "website": "https://orderlyhealth.com/",
+    "description": "Orderly provides a free software to help consumers understand their healthcare costs and save money.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/orderlyhealth",
+      "linkedin": "https://linkedin.com/company/orderlyhealth",
+      "facebook": "https://facebook.com/OrderlyHealth/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Clinify Health",
+    "website": "https://clinifyhealth.com/",
+    "description": "Helping healthcare providers caring for underserved communities attain financial stability through value-based care enablement.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ClinifyHealth",
+      "linkedin": "https://linkedin.com/company/clinify-inc",
+      "facebook": "https://facebook.com/clinifyhealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Solim Health",
+    "website": "https://solimhealth.com/",
+    "description": "We are using AI to rebuild memories and delivering therapy that slows down dementia and memory loss",
+    "location": "Dover, Delaware, United States",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "ZAMA Health",
+    "website": "https://zamahealth.com/",
+    "description": "ZAMA Health integrates in-person and digital therapy, community support, and physical well-being offerings into one platform.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/zama-health"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Bild Corp",
+    "website": "https://bild-engineering.io/",
+    "description": "Bild is an AI agent for CAD that helps medical device companies with their regulatory documentation.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bild-engineering"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Athion",
+    "website": "https://athion.io/",
+    "description": "Athion revolutionizes industrial automation collaboration with our patent-pending software platform that streamlines engineering design evaluation, minimizes costly late changes, and enhances communication across liquid manufacturing projects and the lifecycle of the facility.",
+    "location": "Chesterfield, Missouri, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/athion-io"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "CaptainVet",
+    "website": "https://captainvet.com/",
+    "description": "CaptainVet allows you to quickly find and book a vet around you.",
+    "location": "Brest, France",
+    "social_media": {
+      "twitter": "https://twitter.com/CaptainVet",
+      "linkedin": "https://linkedin.com/company/captainvet",
+      "facebook": "https://facebook.com/captainvet"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "CPRWrap",
+    "website": "https://cprwrap.com/",
+    "description": "CPRWrap produces a disposable CPR template that guides, protects and empowers the lay responder during a sudden cardiac arrest.",
+    "location": "Chattanooga, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cprwrap",
+      "linkedin": "https://linkedin.com/in/felicia-jackson-42b29a59",
+      "facebook": "https://facebook.com/CPRWrap/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "DocuMentor",
+    "website": "https://yourdocumentor.com/",
+    "description": "DocuMentor is an easy to use and affordable electronic visit verification (EVV) solution for in-home care providers that simplifies compliance",
+    "location": "Indianapolis, Indiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/yourdocumentor",
+      "linkedin": "https://linkedin.com/company/yourdocumentor"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "ithnain",
+    "website": "https://ithnain.com/",
+    "description": "Ithnain is an app that features a diabetes coach and an integrated medical team that develops an integrated plan to balance a user's life.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jrzqn3g2nv0edksalpyl",
+    "location": "Riyadh, Saudi Arabia",
+    "social_media": {
+      "twitter": "https://twitter.com/ithnainofficial",
+      "linkedin": "https://linkedin.com/company/ithnain",
+      "facebook": "https://facebook.com/ithnainofficial"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Ayana Therapy",
+    "website": "https://ayanatherapy.com/",
+    "description": "Online Therapy for minorities with an emphasis on intersectionality",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AyanaTherapy",
+      "linkedin": "https://linkedin.com/company/ayanatherapy",
+      "facebook": "https://facebook.com/ayanatherapy/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Trellis Health",
+    "website": "https://jointrellsihealth.com/",
+    "description": "Modern personal health software for you to access your past, manage your present, and build a foundation for the future of your family's health.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mytrellishealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Moyae",
+    "website": "https://moyae.com/",
+    "description": "Moyae is the ultimate Electronic Health Record solution designed for ophthalmologists and optometrists",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/moyae"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "CareCopilot",
+    "website": "https://carecopilot.co/",
+    "description": "CareCopilot is an intelligent, managed marketplace of everything that you need when caring for an adult loved one with specialized care needs.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CareCopilotCo",
+      "linkedin": "https://linkedin.com/company/carecopilot",
+      "facebook": "https://facebook.com/CareCopilot"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Zeph",
+    "website": "https://zephbreath.com/",
+    "description": "AI software for a new era of lung care for chronic respiratory patients.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lwallataqo4dmqumzhh0",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/zephbreath"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "PharmaBusinessReview",
+    "website": "https://pbrinsight.com/",
+    "description": "PBR Life Sciences connects businesses with real-world opportunities in life sciences by combining data, technology, and people.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/yid5getb1wh0oj41ewdz",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/pbrlifesciences",
+      "linkedin": "https://linkedin.com/company/pbr-life-sciences",
+      "facebook": "https://facebook.com/people/PBR-Life-Sciences/61554007611436"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Kumuda",
+    "website": "https://kumuda.org/",
+    "description": "Bioinformatics software for pharmaceutical research teams, to accelerate R&D  #Healthcare #BioInformatics #AI",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/KumudaRx",
+      "linkedin": "https://linkedin.com/company/kumuda"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "IrisMed",
+    "website": "https://irismed.co/",
+    "description": "IrisMed minimizes revenue leakage and compliance risks for medical facilities and revenue cycle consultancies by creating a domain-specific AI to reduce coding errors, and manage claim denials at scale.",
+    "location": "Aurora, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/irismed-ai"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Fasten Health",
+    "website": "https://fastenhealth.com/",
+    "description": "Interoperability platform that allows patients to share medical records with organizations they trust.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/fastenhealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "8medical",
+    "website": "https://8medical.co/",
+    "description": "Eight medical is a platform connecting emergency medical resources to users in need in 10 mins",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/klvpm7qp9r0ij51i1d3x",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/8medicalng",
+      "linkedin": "https://linkedin.com/company/eight-medical-ltd",
+      "facebook": "https://facebook.com/8Medicalng/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Trinzz",
+    "website": "https://trinzz.com/",
+    "description": "For biomedical and life science companies, Trinzz is building the ultimate data stack, leveraging 3D-stacked biomedical AI to accelerate research and discovery.",
+    "location": "Kolkata, West Bengal, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/trinzz"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Reme-D",
+    "website": "https://reme-d-inc.com/",
+    "description": "Reme-D is an innovative startup specializing in the development and production of cutting-edge diagnostic kits.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/reme-d-inc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Miphic",
+    "website": "https://miphic.co/",
+    "description": "Miphic enables the switch from long and expensive drug development to mitochondrial precision medicine that saves the lives of blood cancer patients.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/miphic"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Biomod AI",
+    "website": "https://biomodai.com/",
+    "description": "AI Assistant for Biotech R&D",
+    "location": "Zuid-Scharwoude, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/biomodai"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Asvin Tech",
+    "website": "https://dentratech.com/",
+    "description": "Asvin Tech develops AI-powered, low-cost, and high-precision 3D solutions for dentists in low-to-middle-income countries",
+    "location": "Patna, Bihar, India",
+    "social_media": {
+      "twitter": "https://twitter.com/AsvinTech",
+      "linkedin": "https://linkedin.com/company/asvin-tech",
+      "facebook": "https://facebook.com/AsvinTech"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "ELANZA Wellness",
+    "website": "https://elanzawellness.com/",
+    "description": "ELANZA Wellness is a digital health platform that partners with fertility clinics to provide behavioral coaching and personalized support at scale",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/elanzawellness",
+      "linkedin": "https://linkedin.com/company/elanzawellness",
+      "facebook": "https://facebook.com/ElanzaWellness/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Dr.Online",
+    "website": "https://dronline.com/",
+    "description": "DrOnline is a seamless telehealth platform that connects patients with affordable, convenient care by phone or video with certified healthcare professionals.",
+    "location": "Caparica, Portugal",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dronline-healthcare",
+      "facebook": "https://facebook.com/dronline.usa"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "DocOne",
+    "website": "https://docone.fr/",
+    "description": "DocOne offers middle-layer building blocks for the next generation of AI-powered digital health applications.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/docone"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "ReferralMD",
+    "website": "https://getreferralmd.com/",
+    "description": "AI Platform combined with Comprehensive Patient Relationship Management (PRM) to improve end-to-end Cancer Screening Process",
+    "location": "Mount Pleasant, South Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ReferralMD",
+      "linkedin": "https://linkedin.com/company/referralmd",
+      "facebook": "https://facebook.com/Referralmd/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Kaavio",
+    "website": "https://kaavio.ai/",
+    "description": "Kaavio automates product catalog management for B2B distributors, eliminating fragmented and manual processes to enhance product content and drive sales.",
+    "location": "Danville, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kaavio-ai"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Sholder",
+    "website": "https://sholder.com/",
+    "description": "\"Sholder, short for Spaceholder(tm), is the gig platform for transformative mental & emotional support from qualified non-clinical providers. \"",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sholder",
+      "facebook": "https://facebook.com/SholderInc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Nimblemind",
+    "website": "https://nimblemind.ai/",
+    "description": "SaaS platform for healthcare data enrichment.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nimblemindai"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Xolani",
+    "website": "https://xolanihealth.com/",
+    "description": "AI Model that can be used as an optimizing tool to assist the radiologist in choosing a personalized patient's protocol.",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/xolanihealth",
+      "linkedin": "https://linkedin.com/company/xolanihealth",
+      "facebook": "https://facebook.com/xolaniHealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Dear Doc Singapore",
+    "website": "https://dear-doc.com/",
+    "description": "Dear Doc is simplifying & personalizing healthcare for women in Asia",
+    "location": "Gurgaon, Haryana, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dear-doc",
+      "facebook": "https://facebook.com/DearDoc.SG/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Cypress Health",
+    "website": "https://cypresshealth.io/",
+    "description": "An integrative gut health solution built on consistent, contextualized data for patients and care teams.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/qvudqu8jiyu7zyhppwla",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cypress_health",
+      "linkedin": "https://linkedin.com/company/cypress-health",
+      "facebook": "https://facebook.com/cypresshealthforIBD"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "VecTech",
+    "website": "https://vectech.io/",
+    "description": "A public benefit corporation, MD building solutions that support pest control organizations",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gj4ivajobsbtdokfvnev",
+    "location": "Baltimore, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vectechai",
+      "linkedin": "https://linkedin.com/company/vectechai",
+      "facebook": "https://facebook.com/VectechAI"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "SANITAS",
+    "website": "https://gotosanitas.com/",
+    "description": "The first-of-its kind AI driven mental health for BIPOC and underrepresented populations.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cg7u72bjt6pqrg6brve5",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/butteflly",
+      "facebook": "https://facebook.com/butterfllyhealth/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "ReBokeh",
+    "website": "https://rebokeh.com/",
+    "description": "Application designed to enhance vision with moderate vision impairment in mind.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/otjpaiczn4ywhndeeo6n",
+    "location": "Towson, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rebokeh",
+      "facebook": "https://facebook.com/rebokehvision"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "EmpiricaLab",
+    "website": "https://empiricalab.com/",
+    "description": "EmpiricaLab is a last mile training, team-centric authoring  and knowledge platform focused on enabling peer-learning for healthcare teams",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/qo5cr2mdhnzg05mgesr5",
+    "location": "McAllen, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/empiricalab",
+      "linkedin": "https://linkedin.com/company/empiricalab-team"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Seremedi",
+    "website": "https://seremedi.com/",
+    "description": "Seremedi offers a mobile patient care solution that equips caregivers to effectively manage complex care situations at home from their mobile devices.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SeremediInc",
+      "linkedin": "https://linkedin.com/company/seremedi-inc-",
+      "facebook": "https://facebook.com/carescriptions"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "XENA Dx",
+    "website": "https://xenadx.com/",
+    "description": "Xena Dx is a healthcare company that develops AI-based non-invasive diagnostic solutions for endometriosis.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/k1jto57qsgew2rn7tpuc",
+    "location": "Ludwigshafen, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/xena-dx"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "OmicsChart",
+    "website": "https://omicschart.com/",
+    "description": "Patient-centric cancer data and analytics platform for translational cancer biologists",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/g3lgnp3izthtex3dmpxl",
+    "location": "Martinsried, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/omicschart",
+      "linkedin": "https://linkedin.com/company/omicschart"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Gordion Bioscience",
+    "website": "https://gordion.bio/",
+    "description": "MOTIVATED TO MAKE BETTER DRUGS - POWERED WITH TUMOR DATA - DELIVERED BY MACHINE LEARNING",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/tukc7rp214rfn6vwymts",
+    "location": "Poznan, Poland",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "dehaze",
+    "website": "https://dehaze.de/",
+    "description": "dehaze enables clinicians to harness the power of AI for precise diagnostics and prognostic",
+    "location": "Fürstenfeldbruck, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dehazeai"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Toothly AI",
+    "website": "https://toothly.ai/",
+    "description": "A machine learning dental understanding platform.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/toothly-ai"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "STRAFFR",
+    "website": "https://en.straffr.com/",
+    "description": "Enables people to work out anytime anywhere, motivating them to stay active and fit.",
+    "location": "Kassel, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/straffr",
+      "facebook": "https://facebook.com/straffr.official"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "RxPlace",
+    "website": "https://myrxplace.com/",
+    "description": "RxPlace is the first and only choice for secondary pharmaceutical procurement, connecting you to multiple key wholesalers and providing reliable access to over 20,000 medications and counting.",
+    "location": "Tustin, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rxplace"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Review Piper",
+    "website": "https://reviewpiper.com/",
+    "description": "Review Piper drives teams to reach final draft consensus in fewer cycles before publishing promotional content to providers and patients.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/reviewpiper"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Recovr Health",
+    "website": "https://recovr.health/",
+    "description": "Verapy is a mobile rehabilitation platform that utilizes virtual reality (VR) to create immersive games for physical therapy, resulting in better patient experiences by making rehabilitation more productive, fun and engaging",
+    "location": "Tampa, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/verapytherapy",
+      "linkedin": "https://linkedin.com/company/verapy",
+      "facebook": "https://facebook.com/verapytherapy"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Neurofit VR",
+    "website": "https://neurofit.ca/",
+    "description": "SaaS Virtual Reality Rehabilitation",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mvc2hhskzaudhsi5zxcc",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/neurofitvr",
+      "linkedin": "https://linkedin.com/company/neurofitvr",
+      "facebook": "https://facebook.com/neurofitvr"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Gravl",
+    "website": "https://gravl.io/",
+    "description": "A platform for university research services",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/gravl"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Cerbrec",
+    "website": "https://cerbrec.com/",
+    "description": "The AI platform that empowers developers and researchers to create bespoke AI solutions by just drag and drop.",
+    "location": "Hoboken, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Cerbrec",
+      "linkedin": "https://linkedin.com/company/cerbrec"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "BioGrip",
+    "website": "https://smart.biogrip.tech/",
+    "description": "Biogrip: Bionic-Ai powered artificial limbs",
+    "location": "Mexico City, Federal District, Mexico",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/biogrip-tech"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Articulate Labs",
+    "website": "https://articulatelabs.com/",
+    "description": "On-the-go physical therapy and rehabilitation through muscle stimulation and machine learning.",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/articulatelabs",
+      "linkedin": "https://linkedin.com/company/articulate-labs",
+      "facebook": "https://facebook.com/ArticulateLabs"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "The Difference",
+    "website": "https://thedifference.co/",
+    "description": "The Difference is a mass market mental health care service available via phone, app, or smart speaker.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thedifferenceAI",
+      "linkedin": "https://linkedin.com/company/the-difference-experience",
+      "facebook": "https://facebook.com/TheDifferenceAI/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "MedThread",
+    "website": "https://medthread.com/",
+    "description": "Automatically gathers and curates patient histories for provider offices to reduce time spent calling and faxing.",
+    "location": "Miami Beach, Florida, United States",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Canomiks",
+    "website": "https://canomiks.com/",
+    "description": "Using its genomics and AI-based platform technology Canomiks helps functional food, dietary supplement, skincare companies develop safe and efficacious products",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/canomiks",
+      "linkedin": "https://linkedin.com/company/canomiks",
+      "facebook": "https://facebook.com/canomiks"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "SaRA Health",
+    "website": "https://sarahealth.io/",
+    "description": "We prevent injury, at scale, through our web/mobile app",
+    "location": "Kansas City, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/health_sara",
+      "linkedin": "https://linkedin.com/company/sarahealth",
+      "facebook": "https://facebook.com/sarahealthinc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Zinnia Technologies",
+    "website": "https://zinniatv.com/",
+    "description": "Life-enhancing videos that support and uplift people facing cognitive changes and dementia.",
+    "location": "Winnetka, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/zinnia-technologies-inc",
+      "facebook": "https://facebook.com/ZinniaTV"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Tuktu Care",
+    "website": "https://tuktu.ca/",
+    "description": "Provides seniors with a support platform, so they can get the help they need to age in their own homes and lead a fulfilling life for as long as possible.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/chafrw2cagqp2h8b67vi",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/tuktucare",
+      "linkedin": "https://linkedin.com/company/tuktu-care-inc",
+      "facebook": "https://facebook.com/tuktucare"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "TERAL",
+    "website": "https://teralmed.com/",
+    "description": "TERAL will be the largest repository of clinical cases in the world to solve challenging cases between health professionals at real time",
+    "location": "Medellín, Colombia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/teralmed",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Rezliant",
+    "website": "https://platform.rezliant.com/",
+    "description": "Rezliant turns all software teams into instant cybersecurity geniuses, saving months per employee and millions in costs.",
+    "location": "Mesa, Arizona, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/resilient-software-security"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Mission-Driven Tech",
+    "website": "https://missiondriventech.com/",
+    "description": "For women that have to receive brachytherapy (internal radiation therapy), we have designed a patient-centered device that minimizes discomfort, improves procedure safety, patient outcomes and access to care.",
+    "location": "Flanders, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mission-driven-tech"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Flora Coating",
+    "website": "https://floracoating.com/",
+    "description": "Develops and manufactures high performance, smart, and sustainable coatings",
+    "location": "Phoenix, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/floracoatings",
+      "linkedin": "https://linkedin.com/company/flora-coating",
+      "facebook": "https://facebook.com/floracoating"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Advosense",
+    "website": "https://advosense.com/",
+    "description": "Developing the next generation of incontinence management, to empower clinicians to know when, where, and how best to respond to their patients' needs. Using technology, we're supporting practical, patient-centered, and responsive care.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/bjysnis2zcnhb9gfhf6l",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/advosense",
+      "linkedin": "https://linkedin.com/company/advosense"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "The Playbook",
+    "website": "https://sportsmentalhealthplaybook.com/",
+    "description": "The Playbook helps athletes practice better. It is an award-winning, trademarked approach to track, treat, and improve overall well-being and performance for athletes and individuals who are operating at the highest level. The team has developed a system",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sportsmentalhealthplaybook"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "ValidProof",
+    "website": "https://validproof.com/",
+    "description": "We are solving the $200 billion epidemic of falsified medicine.",
+    "location": "Helsinki, Finland",
+    "social_media": {
+      "twitter": "https://twitter.com/@HRTNET1",
+      "linkedin": "https://linkedin.com/company/validproofhq",
+      "facebook": "https://facebook.com/ValidproofHQ"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Seek Health AI",
+    "website": "https://seekhealth.ai/",
+    "description": "Seek Health helps emergency departments increase patient throughput efficiency by streamlining nurses' workflow using AI.",
+    "location": "New York City, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/seekhealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Running Mate Corp",
+    "website": "https://runningmatecorp.com/",
+    "description": "A Runshare app for every body. Launching in 2024.",
+    "location": "Inlet Beach, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/getrunningmate"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Rubitection",
+    "website": "https://rubitection.com/",
+    "description": "Our skin health biometric and AI system enables the early assessment and care management of dermatological conditions, and vascular and surgical wounds.",
+    "location": "Rochester, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Rubitection",
+      "linkedin": "https://linkedin.com/company/rubitection-inc",
+      "facebook": "https://facebook.com/Rubitection/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Relish Life",
+    "website": "https://relish.life/",
+    "description": "Platform tackles obesity by going after its root causes through a combination of medical intervention, nutrition, fitness, and behavioral change, enabling people to lose weight.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wtm79npfdw5tgzsltkyl",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/relish-life",
+      "facebook": "https://facebook.com/relishrx/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "NKA Bio",
+    "website": "https://nkabio.com/",
+    "description": "NKA Bio is a medical device company that improves trauma care by solving shock.",
+    "location": "Baltimore, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nkabio"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "NeuroX1",
+    "website": "https://neurox1.com/",
+    "description": "Computational drug discovery leveraging generative AI to create therapeutics for neurodegenerative disorders.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/neurox1"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Narval",
+    "website": "https://narvalbio.com/",
+    "description": "Synthetic Antibody Mimetic Proteins for novel first-in-class immunotherapeutics",
+    "location": "Zapopan, Jalisco, Mexico",
+    "social_media": {
+      "twitter": "https://twitter.com/narvalbio"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Moonai",
+    "website": "https://moonai.app/",
+    "description": "Neuroscience science-based & personalised sounds app to alleviate period pain & enhance cognitive functions",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/moonaiapp",
+      "linkedin": "https://linkedin.com/company/moonaiapp",
+      "facebook": "https://facebook.com/moonaiapp/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "International Scientific Advisors",
+    "website": "https://joinisa.io/",
+    "description": "The new way to train and scale scientific advisory boards.",
+    "location": "Beaverton, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/international-scientific-advisors",
+      "facebook": "https://facebook.com/InternationalScientificAdvisors"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Flutter Care",
+    "website": "https://fluttercare.com/",
+    "description": "Predict and prevent pregnancy complications.",
+    "location": "Burnaby, British Columbia, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/fluttercareinc",
+      "facebook": "https://facebook.com/fluttercareinc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "EVQLV",
+    "website": "https://evqlv.com/",
+    "description": "We use AI to rapidly design biologic therapies that are less likely to fail, all at a considerably lower cost",
+    "location": "Woodside, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EVQLV_AI",
+      "linkedin": "https://linkedin.com/company/64638612",
+      "facebook": "https://facebook.com/EVQLV/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Everlong",
+    "website": "https://geteverlong.com/",
+    "description": "Everlong helps people regain control of their health and nutrition by automatically verifying their insurance benefits and providing them personalized care from top-vetted telehealth dietitians for $0 out-of-pocket.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/geteverlong",
+      "linkedin": "https://linkedin.com/company/geteverlong"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "dopl technologies",
+    "website": "https://dopltechnologies.com/",
+    "description": "Dopl (dah-pull) is optimizing healthcare through telerobotic procedures by enabling specialists to treat patients in a different location.",
+    "location": "Bothell, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/DoplTech",
+      "linkedin": "https://linkedin.com/company/dopl-technologies"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Corra Health",
+    "website": "https://corra.health/",
+    "description": "An all-inclusive health tracking app that uses a correlative software to provide individualized insights for each user.",
+    "location": "Camarillo, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/corrainc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "ConnectCareHero",
+    "website": "https://connectcarehero.com/",
+    "description": "A digital platform that powers social engagement, through live interactive programming to combat social isolation.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/connectcarehero",
+      "linkedin": "https://linkedin.com/company/connectcarehero",
+      "facebook": "https://facebook.com/connectcarehero/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Candlelit Care",
+    "website": "https://candlelitcare.com/",
+    "description": "Candlelit Care leverages patient data to address symptoms of maternal depression and anxiety among Black mothers.",
+    "location": "Monroe, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/candlelitcare",
+      "linkedin": "https://linkedin.com/company/candlelitcare",
+      "facebook": "https://facebook.com/candlelitcares"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Alva Health",
+    "website": "https://alva-health.com/",
+    "description": "Developing a wearable neuromonitoring platform with the first indication in real time stroke detection.",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/alvahealth",
+      "linkedin": "https://linkedin.com/company/alvahealth",
+      "facebook": "https://facebook.com/alvahealthinc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Adomo Health",
+    "website": "https://adomohealth.com/",
+    "description": "Adomo Health enables doctors to conveniently send advanced diagnostic testing such as x-ray, ultrasound, and EKG to be done on-demand in patients' homes, reducing the need for unnecessary emergency room visits.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/adomo-health"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Unifize",
+    "website": "https://unifize.com/",
+    "description": "We build a SaaS platform that helps manufacturing and engineering companies reduce the wasted time and errors in their communication processes.",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "twitter": "https://twitter.com/unifize",
+      "linkedin": "https://linkedin.com/company/unifize",
+      "facebook": "https://facebook.com/pg/unifize/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Xplosion Technology",
+    "website": "https://xplosionlive.com/",
+    "description": "A coaching platform that transforms motion sensor data into actionable insights for coaches and athletes.",
+    "location": "Missouri City, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/XplosionTech",
+      "linkedin": "https://linkedin.com/company/xplosion-technology",
+      "facebook": "https://facebook.com/xplosiontech/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Vessl Prosthetics",
+    "website": "https://vesslpro.com/",
+    "description": "Vessl Prosthetics is a prosthetics firm that is driven by the idea of empowering amputees and their champions to overcome challenges.",
+    "location": "Ilderton, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/vessl-prosthetics",
+      "facebook": "https://facebook.com/VesslProsthetics"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Seascape Clinical",
+    "website": "https://seascapeclinical.com/",
+    "description": "For overwhelmed pharma clinical operations teams, Seascape Clinical automates manual and recurring clinical trial tasks to unlock more time, sanity, and ultimately, a faster clinical trial",
+    "location": "Redwood City, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/seascape-clinical"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Opal Therapeutics",
+    "website": "https://opaltherapeutics.com/",
+    "description": "We provide a \"Uterus in a Dish\" platform, integrating uterine organoid models and AI analysis to accelerate the discovery and development of efficacious therapeutics and products to improve women's health.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/opal-therapeutics"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Maya Ai",
+    "website": "https://mayaknows.com/",
+    "description": "Deliver personalization to your customers, bring clarity to your teams, and enhance internal operations with our all-in-one AI solution.",
+    "location": "Tampa, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mayaaiknows"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Khepra",
+    "website": "https://khepra.io/",
+    "description": "We make reactors that are fully electrified and make chemicals 80% faster. Our chemical products are made from wastes from farms, forestry and plastics.",
+    "location": "Reno, Nevada, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/khepra"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "HealthBlox",
+    "website": "https://healthblox.care/",
+    "description": "For healthcare companies seeking deeper integrations with their customers, we provide tools for building EHR-centric pathways for care orchestration, patient management and value delivery. By doing so, we are trying to build the largest, horizontally-scaled repository of structured Health Data.",
+    "location": "Beaverton, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/healthblox"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "ComeBack Mobility",
+    "website": "https://comebackmobility.com/",
+    "description": "ComeBack Mobility provides wireless devices, attached to crutches, to monitor a patient's walking recovery progress.",
+    "location": "Queens, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/comeback-mobility"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Brave",
+    "website": "https://bravevirtualworlds.com/",
+    "description": "Providing the most affordable and most portable motion capture technology for teams, academies, researchers, and individuals, Brave is charting a new world of motion capture and all its possibility.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Brave_Motion",
+      "linkedin": "https://linkedin.com/company/bravevirtualworlds",
+      "facebook": "https://facebook.com/bravevirtualworlds"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "The Care Hack",
+    "website": "https://thecarehack.com/",
+    "description": "Equips families battling mental illness or dementia with simple, expert tools so they can lead happier, healthier lives.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/the-care-hack"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Rubilabs",
+    "website": "https://rubilabs.com/",
+    "description": "RVS is Africa's largest livestock marketplace. We provide everything a livestock farmer needs for poultry, ruminants & fish farming.",
+    "location": "San Francisco, California, United States",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "PulzAid",
+    "website": "https://pulzaid.com/",
+    "description": "Virtual and in-home healthcare services helping employers provide quality primary and urgent healthcare for their employees.",
+    "location": "Lewes, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/pulzaid"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Mindflow Health",
+    "website": "https://mindflowhealth.tech/",
+    "description": "Mindflow Health is a digital clinic that prevents dementia at scale.",
+    "location": "Peterborough, United Kingdom",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Medtribe",
+    "website": "https://medtribe.com/",
+    "description": "Medtribe forges a network for healthcare professionals, fostering collaboration, knowledge sharing, and career growth opportunities.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Medtribe_",
+      "linkedin": "https://linkedin.com/company/medtribe",
+      "facebook": "https://facebook.com/MedTribeOfficial"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Lulo",
+    "website": "https://hellolulo.com/",
+    "description": "Platform to empower WIC eligible families to maximize their food benefits.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hello-lulo"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Jaimee",
+    "website": "https://jaimee.ai/",
+    "description": "The AI companion for women",
+    "location": "East Melbourne, Victoria, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/jaimee"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Inner Peak AI",
+    "website": "https://innerpeak.ai/",
+    "description": "For high schools and colleges struggling to support students' mental health needs with limited resources, Peak blends the best of AI and world-class therapist expertise through video content to provide 24/7 personalized mental wellness support for students and critical insights and initiative tracking for schools",
+    "location": "Maumee, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/inner-peak-ai"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Curada",
+    "website": "https://curada.co.uk/",
+    "description": "Helping doctors deliver Pharmacological Extinction Therapy digitally, ensuring discreet and convenient access to this paradigm-shifting approach for all in need.",
+    "location": "Teddington, United Kingdom",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Clean OS",
+    "website": "https://thecleanos.com/",
+    "description": "The first customised, full-arch electric toothbrush delivering professional-grade oral hygiene in under 30 seconds",
+    "location": "Milan, Milan, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/clean-os"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Aradon",
+    "website": "https://aradon.bio/",
+    "description": "Aradon makes biotech robot labs easy to install and operate for scientists. Removing the manual work bottleneck from biotech will enable new medical solutions and enhance healthcare globally.",
+    "location": "Leiden, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/aradon-bio"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Antares Health",
+    "website": "https://antares.health/",
+    "description": "Antares Health is a medical care company that provides fertility treatments.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/antares-health"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Hera Health Solutions",
+    "website": "https://herahealthsolutions.com/",
+    "description": "Hera Health Solutions is a drug delivery technology company specializing in the research, development, and commercialization of long-acting treatments through proprietary biodegradable implants by using existing generic drugs.",
+    "location": "Memphis, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HeraHealth",
+      "linkedin": "https://linkedin.com/company/hera-health-solutions",
+      "facebook": "https://facebook.com/herahealthsolutions/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Corventive Health",
+    "website": "https://corventivehealth.com/",
+    "description": "Corventive Health provides SaaS based technology giving better care coordination and treatment for cardiac patients.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kiasy41v6umq8lcmdnlc",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/med127-inc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "alvee",
+    "website": "https://alvee.io/",
+    "description": "AI-driven tools to advance health equity and improve health outcomes for all",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/alveehealth",
+      "linkedin": "https://linkedin.com/company/alveehealth",
+      "facebook": "https://facebook.com/people/Alvee/100071621914815/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Alli Connect",
+    "website": "https://thrivelution.com/",
+    "description": "Thrivelution solves for patient churn in mental health by increasing engagement and retention 2.5X. We achieve this by clinically matching Patients to Therapists using our intelligent matching SaaS solution.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kjonbz1tqlz5oasj4obj",
+    "location": "Snohomish, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thrivelution",
+      "linkedin": "https://linkedin.com/company/thrivelution",
+      "facebook": "https://facebook.com/Thrivelution/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Sonnet",
+    "website": "https://sonnetai.com/",
+    "description": "Sonnet is a tailored sales outreach copilot that creates hundreds of well-researched and human-sounding sales emails.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/n5o9xx6k238s6dyoef5k",
+    "location": "Dublin, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sonnetai"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Okkanti",
+    "website": "https://okkanti.com/",
+    "description": "Okkanti is a whole health pregnancy care platform that enables a community-ecosystem approach to caring for diverse populations.",
+    "location": "Madison, Wisconsin, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/okkanti"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Fovionics",
+    "website": "https://fovionics.com/",
+    "description": "We are building the world's first hands-free and affordable assistive technology for the visually impaired.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/beyondsight"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "smallTalk",
+    "website": "https://smalltalk.tech/",
+    "description": "smallTalk has created an innovative speaker system to bring recorded caregiver voices to NICU babies. The NICU Egg enhances parent-baby bonding, while the ACTIVE Egg, paired with a sensor-equipped pacifier, aims to support brain development in preterm infants upon FDA clearance. Blending neurodevelopmental science with the power of voice, we empower NICU families--and soon, we'll expand into homes with products for language and early childhood development.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/h9725vkhxeg5enr9ooz5",
+    "location": "Columbus, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/smalltalk_tech",
+      "linkedin": "https://linkedin.com/company/smalltalk-tech",
+      "facebook": "https://facebook.com/smalltalk.babytech/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Rewire Fitness",
+    "website": "https://rewirefitness.app/",
+    "description": "Rewire is an app that helps athletes reach their full potential and avoid burnout by providing tools that improve mindset, readiness and resilience.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/iyivmrlp7tup5zn5xiow",
+    "location": "New Paltz, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rewire_app",
+      "linkedin": "https://linkedin.com/company/rewire-fitness",
+      "facebook": "https://facebook.com/rewirefitnessapp"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Organicin Scientific",
+    "website": "https://organicinscientific.com/",
+    "description": "Biopesticide solutions designed to improve crop yield, profitability, and environmental stewardship through 'rational discovery' and microbiology",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/organicinscientific"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Motics Technologies",
+    "website": "https://motics.co.uk/",
+    "description": "Motics Copilot automates clinical note taking, referral letters, and more to save hours a day, enabling practicioners to spend time doing the things that matter.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cf0kyas0rfcvnamqkeej",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/moticshealth",
+      "linkedin": "https://linkedin.com/company/motics",
+      "facebook": "https://facebook.com/moticshealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "FIX HEALTH",
+    "website": "https://fix-health.com/",
+    "description": "An incremental behavior change engine that solves a variety of user engagement problems across multiple health verticals.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fix_outbreak",
+      "linkedin": "https://linkedin.com/company/fix-fitness-interactive-experience",
+      "facebook": "https://facebook.com/FitnessInteractiveExperience"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Lemons in the room",
+    "website": "https://lemonsintheroom.com/",
+    "description": "Immersive VR solutions to reduce anxiety during medical treatments",
+    "location": "Firenze, Florence, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lemons-in-the-room"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "axem",
+    "website": "https://axemsolutions.io/",
+    "description": "Speeding up embedded software development: open-source Development Environment Manager",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/axemsolutions"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Vittas",
+    "website": "https://vittasinternational.com/",
+    "description": "Vittas is an Africa-based company that provides loans to small and medium-sized businesses.",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/Vittas15",
+      "linkedin": "https://linkedin.com/company/vittas",
+      "facebook": "https://facebook.com/VittasInternational"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "InStockRx",
+    "website": "https://instockrx.com/",
+    "description": "Seamless Access to In-Stock Medication.",
+    "location": "Palm Harbor, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/inview-analytics",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "BioticsAI",
+    "website": "https://biotics.ai/",
+    "description": "We use AI to detect fetal abnormalities.",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/BioticsAI",
+      "linkedin": "https://linkedin.com/company/bioticsai"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Aperture Bio",
+    "website": "https://aperture.bio/",
+    "description": "Enables more patients to benefit from cutting-edge therapies by quantifying how, why and when drugs fail.",
+    "location": "Allston, Massachusetts, United States",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "ClimeRock",
+    "website": "https://climerock.com/",
+    "description": "Removing carbon while restoring soils with Enhanced Rock Weathering.",
+    "location": "Colombes, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/climerock"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Quartolio",
+    "website": "https://quartolio.com/",
+    "description": "Quartolio is the Insight Cloud for R&D, synthesizing research leads from the work R&D teams have done and the work that they're doing in real-time.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/quartolio",
+      "linkedin": "https://linkedin.com/company/quartolio",
+      "facebook": "https://facebook.com/quartolio"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Vitelle",
+    "website": "https://vitelle.co/",
+    "description": "Vitelle is a data-driven female longevity platform that creates and adapts longevity protocols specifically for the female body. We give women more healthy years in the future by bridging the gap between their health at home and their clinical care.",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/vitelle"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Violet",
+    "website": "https://violet.org.au/",
+    "description": "Helping people talk about and plan for the last stage of life",
+    "location": "Haymarket, New South Wales, Australia",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Redefine Surgery",
+    "website": "https://redefinesurgery.com/",
+    "description": "Artificial Intelligence for Surgery",
+    "location": "Edison, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/redefinesurgery"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Reactiv",
+    "website": "https://reactivrehab.com/",
+    "description": "Reactiv is a virtual physical rehabilitation clinic, where we use computer vision and gaming to increase engagement and improve outcome.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/reactivrehab",
+      "linkedin": "https://linkedin.com/company/reactivrehab",
+      "facebook": "https://facebook.com/reactivrehab"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "PraxisPro AI",
+    "website": "https://praxispro.ai/",
+    "description": "PraxisPro empowers outside sales representatives with on-the-go, real-time intelligent sales training, enabling them to boost revenue by delivering impactful interactions with customers within their territory and reducing out-of-territory training costs.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/praxispro-ai"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Population",
+    "website": "https://populationtech.com/",
+    "description": "Population is a first-of-its-kind connected integrated AI and IoT solution to future-proof buildings against infectious disease and promote better health and better data for occupants.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/populationtech",
+      "facebook": "https://facebook.com/populationapp/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "NeuralTeks",
+    "website": "https://neuralteks.com/",
+    "description": "Revolutionizing lab diagnostics with AI-powered data analysis, delivering faster, precise results for microbiology labs",
+    "location": "Neuilly-sur-Seine, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/neuralteks"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Kyri",
+    "website": "https://kyricycles.co/",
+    "description": "The first menstrual health focused smart ring built to encompass the entire female life cycle.",
+    "location": "Tootgarook, Victoria, Australia",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Dieta Health",
+    "website": "https://dietahealth.com/",
+    "description": "Personalized digestive health",
+    "location": "Oak Park, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/DietaHealth",
+      "linkedin": "https://linkedin.com/company/35577003",
+      "facebook": "https://facebook.com/dietascience"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Curiflow",
+    "website": "https://curiflow.com/",
+    "description": "HIPAA compliant Zapier-like platform for healthcare enterprises",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/curiflow"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "BLOOM",
+    "website": "https://bloomforall.com/",
+    "description": "BLOOM is a digital health platform offering employers comprehensive support in family care, counseling and mental health interventions, and personal well-being programs.",
+    "location": "Gloucester, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bloomforall",
+      "facebook": "https://facebook.com/bloomforallhub/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Awake Labs",
+    "website": "https://awakelabs.com/",
+    "description": "Awake Labs supports people with cognitive disabilities whose mental health challenges are often misunderstood.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/awakelabs",
+      "linkedin": "https://linkedin.com/company/awakelabs",
+      "facebook": "https://facebook.com/awakelabs/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Cogniant",
+    "website": "https://cogniant.co/",
+    "description": "Automated relapse prevention for mental health and neurodegenerative disorders",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "twitter": "https://twitter.com/CogniantHealth",
+      "linkedin": "https://linkedin.com/company/cognianthealth",
+      "facebook": "https://facebook.com/cogniant/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Aumet",
+    "website": "https://aumet.me/",
+    "description": "Aumet allows medical manufacturers and distributors increase their sales by sharing hospital inquiries, business news, search for products, and find potential clients.",
+    "location": "Amman, Jordan",
+    "social_media": {
+      "twitter": "https://twitter.com/aumet_me",
+      "linkedin": "https://linkedin.com/company/aumet-co-",
+      "facebook": "https://facebook.com/aumet.me"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Phraze",
+    "website": "https://phraze.co/",
+    "description": "Platform offering a collection of industry news, in-depth articles and tutorials related to the evolving field of digital medical scribing in the United States",
+    "location": "Rochester, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/phrazeai",
+      "linkedin": "https://linkedin.com/company/phraze"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Wolomi",
+    "website": "https://wolomi.com/",
+    "description": "BIPOC maternal health e-learning & community",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/_wolomi",
+      "linkedin": "https://linkedin.com/company/wolomi",
+      "facebook": "https://facebook.com/wolomimoms"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "SoFiiT",
+    "website": "https://sofiit.io/",
+    "description": "An innovative solution to empower wellness with data insights and social conne",
+    "location": "Monterey Park, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sofiit"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Secured Health",
+    "website": "https://securedhealth.co/",
+    "description": "Secured Health, where technology meets community to transform healthcare engagement. As a pioneering member engagement platform, we're dedicated to bridging the gap in social determinants of health through innovative solutions.",
+    "location": "Falls Church, Virginia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/securedhealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Runway Health",
+    "website": "https://runwayhealth.com/",
+    "description": "Convenient, online care and affordable FDA-approved treatments delivered to your door",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/runway-health",
+      "facebook": "https://facebook.com/joinrunway"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Lokum",
+    "website": "https://lokumapp.com/",
+    "description": "Reimagining Healthcare Staffing through Tech",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lokumapp",
+      "facebook": "https://facebook.com/people/Lokumapp/100089513891105/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "K'ept Health",
+    "website": "https://kept.health/",
+    "description": "K'ept Health is a dermatology telemedicine company that specializes in personalized skincare and lifestyle-based medicine.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kepthhealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Karneyium  Health",
+    "website": "https://karneyium.com/",
+    "description": "Empowering Clinical Trials: Bridging Innovation with Universal Access!",
+    "location": "Mason, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/karneyium-health"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Hansel Medical",
+    "website": "https://hanselmedical.com/",
+    "description": "Maximize revenue and unlock efficiency through intelligent surgical asset tracking",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hanselmedical"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Gentle Neuro",
+    "website": "https://gentleneuro.com/",
+    "description": "Gentle is a neurotech platform that delivers gentle brain stimulation to help alleviate depression symptoms for life",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/gentleneuro"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Flexspeak",
+    "website": "https://flexspeak.com/",
+    "description": "Flexspeak makes assistive communication software for non-speaking people with autism, Down syndrome, and cerebral palsy.",
+    "location": "Westminster, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/flexspeak"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Cuvris Technologies",
+    "website": "https://cuvris.com/",
+    "description": "Reducing claims denials, increasing  healthcare practice revenue and streamlining operations with AI Agents",
+    "location": "Kitchener, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cuvris"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Clymb",
+    "website": "https://clymbup.io/",
+    "description": "Infinite Focus Schools is a socio-emotional learning-focused app.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vx4jqiry7pc4mh7s8us9",
+    "location": "Baltimore, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ClymbUp",
+      "linkedin": "https://linkedin.com/company/clymb",
+      "facebook": "https://facebook.com/infinitefocuschools/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Cerebro NeuroTech",
+    "website": "https://cerebroneurotech.com/",
+    "description": "Cerebro is developing the world's most intelligent rapid detection software for Sports-Related Concussions",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/paolo-alejandro-catilo-38b30bb8"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Arbizal",
+    "website": "https://arbizal.com/",
+    "description": "Healthcare data redefined: quick, secure, normalized data - internal or external, at a fraction of the cost.",
+    "location": "Nashville, Tennessee, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/arbizal"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "SökerData",
+    "website": "https://soker-data.com/",
+    "description": "SokerData is a biotechnology company that provides research, and data analysis solutions for disease-related datasets.",
+    "location": "London, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/soker-data"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "NeuroGeneces",
+    "website": "https://neurogeneces.com/",
+    "description": "NeuroGeneces measures and improves Brain Health",
+    "location": "Santa Fe, New Mexico, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/NeuroGeneces",
+      "linkedin": "https://linkedin.com/company/neurogeneces",
+      "facebook": "https://facebook.com/pegaces/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "mishe",
+    "website": "https://mishe.co/",
+    "description": "Mishe brings price transparency for healthcare procedures, providing patients access to discounted rates while enabling providers to receive guaranteed upfront payments bypassing the insurance reimbursement process.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mishehealth",
+      "linkedin": "https://linkedin.com/company/mishecare",
+      "facebook": "https://facebook.com/mishe.care"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Medsembly",
+    "website": "https://medsembly.com/",
+    "description": "Medsembly bridges the gap between healthcare hopefuls and healthcare heroes",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ioqjkuqv7ffynslbkalv",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/medsembly",
+      "linkedin": "https://linkedin.com/company/medsembly",
+      "facebook": "https://facebook.com/medsembly"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Jelt",
+    "website": "https://jelt.com.co/",
+    "description": "For businesses of the health sector that experience friction, inefficiencies and cost overruns when getting their medical inventory, Jelt is a B2B platform for easy acquisition and management of medical supplies.",
+    "location": "Doral, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/jeltco",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Hijack",
+    "website": "https://hijack.bio/",
+    "description": "Genetically engineered bacteria that can make and release biologics in the body",
+    "location": "London, England, United Kingdom",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Elly",
+    "website": "https://ellyhealth.com/",
+    "description": "Elly is the world's first empathetic audio companion for patients living with a chronic disease.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pwk3ibkmqthld6dwaa3y",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ellyhealthinc",
+      "facebook": "https://facebook.com/EllyHealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Biomine Health",
+    "website": "https://biominehealth.com/",
+    "description": "Biomine Health uses advanced microbiome analysis to develop diagnostic tools that predict fertility and preterm birth risks, empowering women and their doctors with personalised insights to improve reproductive outcomes.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/biomine-health"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Valio",
+    "website": "https://myvalio.com/",
+    "description": "Unlocking Millions in Untapped Rebates for Health Systems\n\nValio is building the AI infrastructure that turns confusing rebate contracts into cash.",
+    "location": "Zionsville, Indiana, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/valiollc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "HeyOpal",
+    "website": "https://heyopal.com/",
+    "description": "We connect the dots in mental healthcare by unifying its landscape around the client. We give clients agency to inform their treatment, and support clinicians to deliver high-quality, scalable care by making communication more effective. We help progress continue between sessions using clinician-driven conversational AI interventions to promote higher engagement, retention, and ultimately better, faster treatment outcomes.",
+    "location": "Pinellas Park, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/heyopal"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Compose Health",
+    "website": "https://composehealth.ai/",
+    "description": "Compose Health creates compliant, compelling content in moments to accelerate customer engagement, medical education, and scientific progress.",
+    "location": "Ottawa, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/composehealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Embryoxite",
+    "website": "https://embryoxite.life/",
+    "description": "Embryoxite creates non-invasive diagnostic services for pre-implantation embryos used in human-assisted reproduction procedures.",
+    "location": "Florida, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/embryoxite"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Galen Health",
+    "website": "https://galenhealth.org/",
+    "description": "Vertical AI Agents for Cancer Care",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/galen-ai"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Behaivior",
+    "website": "https://behaivior.com/",
+    "description": "Behaivior's Recovery(tm) platform uses AI and wearables to predict high-risk events and enable proactive, personalized recovery interventions. \n Behaivior revolutionizes healthcare and well-being, making support accessible and reducing healthcare costs. Our award-winning platform, Recovery(tm), enhances patient engagement and outcomes, supports crisis intervention, and eases staff burden. We ensure our solutions reach everyone, seamlessly integrating into current care ecosystems.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1507063853/hrido8vqcatvhaprnvfx.png",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/BehaiviorAI",
+      "linkedin": "https://linkedin.com/company/behaivior",
+      "facebook": "https://facebook.com/behaivior/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Phase Zero",
+    "website": "https://phasezero.co/",
+    "description": "Phase Zero empowers healthcare contact centers to easily build internal tooling and automate workflows, all with the flexibility of a spreadsheet.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PhaseZeroForms",
+      "linkedin": "https://linkedin.com/company/phase-zero-inc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "March Health",
+    "website": "https://march.health/",
+    "description": "Revolutionizing Women's Health With an AI-First Clinic in Your Pocket",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/g67i22bqtv27ef9uwvhr",
+    "location": "Pleasant Hill, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/march_health",
+      "linkedin": "https://linkedin.com/company/marchhealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Group B Labs",
+    "website": "https://linkedin.com/company/groupblabs",
+    "description": "Helping the 92% of new mothers who struggle with feeding by finally revolutionizing bottle prep, feeding data collection, and access to nutritional support.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GroupBLabs",
+      "linkedin": "https://linkedin.com/company/groupblabs",
+      "facebook": "https://facebook.com/groupblabs/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "GenoBank",
+    "website": "https://genobank.io/",
+    "description": "Ensuring the privacy and data ownership of your genetic information.",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/genobank_io",
+      "linkedin": "https://linkedin.com/company/genobank-io",
+      "facebook": "https://facebook.com/genobank/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Alsteni Medical",
+    "website": "https://alstenimedical.com/",
+    "description": "Patient-controlled feeding tube that can trigger the body's own powerful appetite-suppressing hormones, including GLP-1, without drugs or surgery.",
+    "location": "Sierra Madre, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/alsteni-medical-inc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "EasyShake®",
+    "website": "https://theeasyshake.com/",
+    "description": "Fast, convenient, cleanup-free protein shakes. Access to convenient nutrition is key to living a healthy, happy life. Experience effortless nutrition that fits seamlessly into your busy lifestyle so you can reclaim your time for what truly matters!",
+    "location": "Manhattan Beach, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/easyshake"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Preface Health",
+    "website": "https://prefacehealth.com/",
+    "description": "Preface Health predicts and automates clinical tasks for healthcare.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Silver Spur TX",
+    "website": "https://silverspurtx.com/",
+    "description": "Advancing drug and gene delivery with nanoparticles for kidney and cardiovascular diseases",
+    "location": "Palos Verdes Peninsula, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/silver-spur-therapeutics"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "MediCircle",
+    "website": "https://medicirclerx.com/",
+    "description": "MediCircle saves patients and health insurance plans thousands on their most expensive prescription drugs by reclaiming, recertifying, and redispensing unused medications through our licensed pharmacy.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/medicircle-org"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Limber Technologies",
+    "website": "https://limber.life/",
+    "description": "Limber is the first tech-enabled fall prevention service for older adults with impaired mobility, addressing a $30B annual cost to Medicare.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/limbermobility"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "D.Sole",
+    "website": "https://d-sole.com/",
+    "description": "We provide remote patient monitoring foot insoles for early detection of diabetic foot complications, reducing severe amputations.",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dsole"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "DocNexus",
+    "website": "https://medscrape.com/",
+    "description": "Reinventing the global healthcare ecosystem with search",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/medscrape",
+      "linkedin": "https://linkedin.com/company/medscrape"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "CranioSense",
+    "website": "https://craniosense.com/",
+    "description": "CranioSense is developing an accurate, non-invasive sensing platform that enables rapid triage and diagnosis of elevated brain pressure to minimize time to treatment.",
+    "location": "Bedford, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/craniosense",
+      "facebook": "https://facebook.com/CranioSense"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Brinter",
+    "website": "https://brinter.com/",
+    "description": "We 3D bioprint universal tissue material for tissue repairs and reconstructions, and eliminate the need to harvest tissue from patients and use allografts or artificial materials.",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/WeAreBrinter",
+      "linkedin": "https://linkedin.com/company/brinter",
+      "facebook": "https://facebook.com/WeAreBrinter/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Brainbot",
+    "website": "https://brainbot.co/",
+    "description": "The world's first AI-powered concussion coach.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/brainbotapp"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "ExactRx",
+    "website": "https://exactrx.ai/",
+    "description": "ExactRx is a healthcare technology company that creates AI-native, intelligent care environments to increase care capacity and recapture revenue for surgical centers.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/exactrx"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Voythos",
+    "website": "https://voythos.io/",
+    "description": "Multimodal AI to predict and prevent acute cardiovascular events.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/qtgdfy1shdepfqoi2ycu",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/voythos-ai"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "LastMinute",
+    "website": "https://trylastminute.com/",
+    "description": "Empowering healthcare professionals with real-time shift management and improved communication.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gsfci90ypdyrz0gg6v06",
+    "location": "Brookline, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/trylastminute"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "efficientSC",
+    "website": "https://efficientsc.com/",
+    "description": "efficientSC helps hospitals manage supply disruptions more effectively, and efficiently.",
+    "location": "Hoboken, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/efficientsc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Decimal Code",
+    "website": "https://decimalcode.com/",
+    "description": "Automated medical coding and revenue cycle AI solutions",
+    "location": "Ann Arbor, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/decimal-code"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Syndicate Bio",
+    "website": "https://syndicatebio.com/",
+    "description": "Empowering Personalized Healthcare and Advancing Precision Medicine",
+    "location": "Newark, Delaware, United States",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "SMART Charts",
+    "website": "https://mysmartcharts.com/",
+    "description": "SMARTCharts helps clinicians spend less time documenting and more time with patients.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rqvilabaomptaqiocb5i",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mysmartcharts",
+      "linkedin": "https://linkedin.com/company/smart-charts",
+      "facebook": "https://facebook.com/mysmartcharts"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Seek",
+    "website": "https://seekhealthtest.com/",
+    "description": "Seek is the first at-home lab test that measures how alcohol impacts women's health.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Rubato",
+    "website": "https://rubato.life/",
+    "description": "A NEW AI-POWERED, REIMBURSABLE, MUSIC THERAPY FOR SENIOR POPULATION SUFFERING FROM DEMENTIA AND THEIR SUPPORTING COMMUNITY",
+    "location": "Pacific Palisades, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/your_body_music",
+      "linkedin": "https://linkedin.com/company/rubato-life",
+      "facebook": "https://facebook.com/YourBodyMusic"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "ReviMo",
+    "website": "https://revimo.org/",
+    "description": "Next-generation lift and transfer device",
+    "location": "Newton, Massachusetts, United States",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Revella Health",
+    "website": "https://revellahealth.com/",
+    "description": "We optimize revenue capture through AI-Powered patient insights",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Proton Health",
+    "website": "https://proton-health.com/",
+    "description": "We're building an autonomous super-dermatologist to cure any skin condition in days.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/u49eo8yzmi0ruwhxfymr",
+    "location": "London, England, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/protonhealthapp",
+      "linkedin": "https://linkedin.com/company/proton-health-app"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Nerveli",
+    "website": "https://getnerveli.com/",
+    "description": "Nerveli is a scientifically proven platform that empowers you to holistically understand and manage your pain and then guides you with a personalized approach to pain relief.",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nerveli-inc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Humine",
+    "website": "https://huminelabs.com/",
+    "description": "For clinical trials that experience non-adherence and poor enrollment, Humine provides a privacy and participant centric platform that leads with equitable collaboration through immediate crypto/cash incentives to participants allowing researchers to generate a remarkably high yield of reliable data in studies of any scale across several therapeutic areas.",
+    "location": "Mississauga, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/humine"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Gisens Biotech",
+    "website": "https://gisensbiotech.com/",
+    "description": "Revolutionizing diagnostics through nanotechnology",
+    "location": "Berkeley, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GisensB",
+      "linkedin": "https://linkedin.com/company/gisens-biotech-sa"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Gale Payments",
+    "website": "https://withgale.com/",
+    "description": "Gale is the new hassle-free way to accept HSA & FSA payments.",
+    "location": "Lantana, Texas, United States",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "FluteSpace",
+    "website": "https://flutespace.com/",
+    "description": "Next-gen broad intelligence and precision medicine platform, leveraging proprietary AI technology FLUTE (Fast Learning Unified Task Engine)",
+    "location": "Fremont, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/flutespace"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "ElectroKare",
+    "website": "https://electrokare.com/",
+    "description": "Fitness Software, Biotechnology Research,",
+    "location": "Vernon Hills, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/electrocare1"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "CliniSpan Health",
+    "website": "https://clinispanhealth.com/",
+    "description": "CliniSpan Health has built an Influencer Relationship Management Platform (IRM) for clinical research.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/clinispanhealth",
+      "linkedin": "https://linkedin.com/company/clinispan-health",
+      "facebook": "https://facebook.com/CliniSpanHealth/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "bTECH",
+    "website": "https://btechls.com/",
+    "description": "bTECH's disruptive wound care technology, called the Halcyon SMART Patch (HSP), prevents lower extremity amputations from chronic non-healing wounds.",
+    "location": "Cleveland, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/wendy-s-ba02b240"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Vital Audio",
+    "website": "https://vitalaudio.io/",
+    "description": "A subscription-based and device-agnostic voice AI software for patient monitoring and patient screening to help telehealth Primary Care Physicians to assess severity of atrial fibrillation and heart failure remotely to reduce 10% readmissions rates.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vitalaudioinc",
+      "linkedin": "https://linkedin.com/company/vital-audio-inc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "NovaXS Biotech",
+    "website": "https://novaxs.co/",
+    "description": "Your needle-free injector with smart tracking at home.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/dwylshnmulmevhwwh5z1",
+    "location": "Irvine, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/novaxs-biotech-corp"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "MobilityZ Health",
+    "website": "https://humansinspace.co/",
+    "description": "Digital Health SAAS for orthopedic specialists to diagnose and screen patients with musculoskeletal(MSK) injuries with a telehealth visit. World's first virtual orthopedic injury diagnosis and automated screening for surgery or non-surgery patients with r",
+    "location": "Cypress, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mobilityzhealth",
+      "linkedin": "https://linkedin.com/company/mobilityzhealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Lana Health",
+    "website": "https://lana.health/",
+    "description": "Lana Health is a one-of-a-kind modern patient experience platform, designed to simplify patient journeys while creating healthier and frictionless experiences for patients seeking care, whether in the hospital or at home.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lhcumowgl7jwv1r3ikxy",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lanahealth",
+      "linkedin": "https://linkedin.com/company/lanahealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Kneevoice",
+    "website": "https://kneevoice.com/",
+    "description": "A digital patellofemoral audio-arthrography system to promptly and efficiently achieve diagnostic accuracy.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wktafgpmxrqxxwxfvzqx",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/kneevoice",
+      "linkedin": "https://linkedin.com/company/kneevoice",
+      "facebook": "https://facebook.com/knee.voice"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Icardio",
+    "website": "https://icardio.ai/",
+    "description": "Icardio.AI offers interpreting echocardiograms using machine learning algorithms.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/akwcckl84xpaen43b4rq",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/icardio-ai"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "HiPR Innovation",
+    "website": "https://hipr.io/",
+    "description": "HiPR innovates pressure ulcer prevention solutions.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gkpdjpwivkwbszrwhm3l",
+    "location": "Laredo, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hipr-innovation-inc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Handl Health",
+    "website": "https://gohandlhealth.com/",
+    "description": "The next generation of consumer engagement in healthcare.",
+    "location": "Cerritos, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HANDLHEALTH",
+      "linkedin": "https://linkedin.com/company/70560846",
+      "facebook": "https://facebook.com/Handl-Health-103600331988081"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Givers Health",
+    "website": "https://givers.health/",
+    "description": "Delivering health and social outcomes through family caregivers",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/t5wac5v1h1taigtlhzjx",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/givers-health"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Kaya",
+    "website": "https://joinkaya.com/",
+    "description": "Kaya is an AI-powered people analytics platform that blends organizational psychology with predictive insights to help HR and L&D teams enhance workforce well-being, engagement, and productivity while driving measurable improvements in organizational health.",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kaya-co"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Joystik Life",
+    "website": "https://joystik.life/",
+    "description": "A digital health application focused on stress for improved performance and health to a younger audience via universities and other strategic partnerships.",
+    "location": "Nashotah, Wisconsin, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/joystik-life-inc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Gift Nabü",
+    "website": "https://giftnabu.com/",
+    "description": "A gift registry for kids where friends and family come together to gift activities and experiences instead of toys and stuff.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nabulife",
+      "linkedin": "https://linkedin.com/company/giftnabu",
+      "facebook": "https://facebook.com/gift.nabu1"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Cappella",
+    "website": "https://cappella.io/",
+    "description": "For all the caregivers around a new baby who need to understand its needs better to provide more efficiently and accurately, Cappella builds a super accurate hands-off baby cry translator",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cappella_io",
+      "linkedin": "https://linkedin.com/company/cappella-io",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Streamline Genomics",
+    "website": "https://streamlinegenomics.com/",
+    "description": "A platform to help clinicians and researchers benefit from genomic sequencing without the need for data analysis expertise.",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/streamlinegx",
+      "linkedin": "https://linkedin.com/company/streamlinegx",
+      "facebook": "https://facebook.com/streamlinegx/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "One Step Software",
+    "website": "https://onestepsoftware.com/",
+    "description": "One Step provides technology to the addiction & recovery industry.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/onestep_tech",
+      "linkedin": "https://linkedin.com/company/one-step-software",
+      "facebook": "https://facebook.com/onesteprecoverysoftware/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Arete",
+    "website": "https://fitmind.app/",
+    "description": "Arete is an AI-powered coach that improves youth athletes' mental wellbeing and performance.",
+    "location": "Docklands, Victoria, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/getarete",
+      "linkedin": "https://linkedin.com/company/getarete",
+      "facebook": "https://facebook.com/areteapp/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "A-Champs",
+    "website": "https://a-champs.com/",
+    "description": "A-Champs develops interactive, gamified and sports-science based training solutions for people of all ages and fitness levels.",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/achampsofficial",
+      "linkedin": "https://linkedin.com/company/a-champs",
+      "facebook": "https://facebook.com/AChampsOfficial/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "xHood",
+    "website": "https://parentxhood.com/",
+    "description": "A community for Black Queer people to build and nurture healthy families and parent happy children.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/moodic7lutvop6lwr6mo",
+    "location": "Woodbridge, Virginia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/xhood",
+      "facebook": "https://facebook.com/community/whats-new/mia-black-lgbtq-moms-why-i-create/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Wave Therapeutics",
+    "website": "https://wavetherapeuticsinc.com/",
+    "description": "We've developed the first affordable and effective smart cushioning technology to prevent bedsores, save lives, and reduce a major healthcare burden.",
+    "location": "Nashville, Indiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wave4health",
+      "linkedin": "https://linkedin.com/company/wavetherapeuticsinc",
+      "facebook": "https://facebook.com/wavetherapeutics"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Squid IQ",
+    "website": "https://squid-iq.com/",
+    "description": "Take control of medical device management.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/f8zobyjbdge1znsbq45f",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/squid-iq"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Rif Care",
+    "website": "https://rifcare.com/",
+    "description": "Rif Care is a first of its kind period care brand making better for you period products with hemp fiber.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/buw8r2dwkrdvwlsmfgeo",
+    "location": "Playa del Rey, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rifcares"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Pear Suite",
+    "website": "https://pearsuite.com/",
+    "description": "Enabling anyone to collect, understand, & act on social drivers of health data.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xqcn1xgwmd77aeihhvbq",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pearsuiteinc",
+      "linkedin": "https://linkedin.com/company/pear-suite"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "OndeCare",
+    "website": "https://ondecare.com/",
+    "description": "OndeCare empowers professional caregivers to provide reliable, high quality in-home family care for all ages, needs and schedules.",
+    "location": "Chagrin Falls, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ondecare",
+      "linkedin": "https://linkedin.com/company/ondecare",
+      "facebook": "https://facebook.com/OndeCare/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Healthtracka",
+    "website": "https://healthtracka.com/",
+    "description": "Healthtracka is a health tech startup decentralizing lab testing in Africa with at-home testing and digital results.",
+    "location": "Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/healthtracka",
+      "linkedin": "https://linkedin.com/company/healthtracka",
+      "facebook": "https://facebook.com/healthtracka"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Health Haven Rx",
+    "website": "https://healthhavenrx.com/",
+    "description": "We improve access to affordable medications.",
+    "location": "Nashua, New Hampshire, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HealthyQuit",
+      "linkedin": "https://linkedin.com/company/healthhavenrx",
+      "facebook": "https://facebook.com/Healthyquit"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Fleri",
+    "website": "https://joinfleri.com/",
+    "description": "Empowering immigrants to take control of their financial lives.",
+    "location": "Columbus, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FleriHealth",
+      "linkedin": "https://linkedin.com/company/fleri",
+      "facebook": "https://facebook.com/joinfleri/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "First Ascent Biomedical",
+    "website": "https://firstascentbio.com/",
+    "description": "We provide a SaMD service in a SaaS model that delivers AI-driven patient-specific cancer treatment plans in 3-4 weeks.",
+    "location": "Beaverton, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/33248181"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "DiveThru",
+    "website": "https://divethru.com/",
+    "description": "DiveThru is building mental health studios that connect young people with therapy, community and themselves... like a gym, but for your mental health.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/eepqwhyocswxiridnlwp",
+    "location": "Edmonton, Alberta, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/letsdivethru",
+      "linkedin": "https://linkedin.com/company/divethru",
+      "facebook": "https://facebook.com/divethruapp"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "BRIGHT",
+    "website": "https://getmebright.com/",
+    "description": "BRIGHT is a health and technology company that designs products and develops habits for brain health.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/company/getmebright",
+      "facebook": "https://facebook.com/getmebright"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "SkiiMoo Tech",
+    "website": "https://skiimootech.com/",
+    "description": "For individuals who suffer from anatomical restrictions of the genitals, we have created the first prosthetic penis that imitates nature providing an ultra-humanistic erection at the push of a button",
+    "location": "Mableton, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/skiimootech",
+      "linkedin": "https://linkedin.com/company/skiimoo-tech-llc",
+      "facebook": "https://facebook.com/vdomatl"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Inpathy",
+    "website": "https://inpathy.co/",
+    "description": "Inpathy is a social app creating empathetic communities through transparency, normalizing moods, and recreating the human experience.",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Inpathyapp",
+      "linkedin": "https://linkedin.com/company/inpathy",
+      "facebook": "https://facebook.com/inpathy/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Zencey",
+    "website": "https://zencey.com/",
+    "description": "AI-driven digital health & wellness for chronic care in emerging markets",
+    "location": "Upper Marlboro, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/zenceyhealth",
+      "linkedin": "https://linkedin.com/company/zencey",
+      "facebook": "https://facebook.com/zenceyafrica/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Thirdopinion",
+    "website": "https://thirdopinion.io/",
+    "description": "For clinical trials struggling to find eligible patients, and for medical patients looking for alternative treatment, Third Opinion increases access and efficiency in clinical trial enrollment.",
+    "location": "Wilmette, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/third-opinion"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Somnea Health",
+    "website": "https://somnea.co/",
+    "description": "We combine human-led care with technology to empower people with sleep apnea to sleep better at home.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SomneaHealth",
+      "linkedin": "https://linkedin.com/company/somnea-health"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Pills2Me",
+    "website": "https://pills2me.com/",
+    "description": "Pills2Me provides on demand prescription delivery for users from any pharmacy via its mobile app.",
+    "location": "Las Vegas, Nevada, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Pills2Me",
+      "linkedin": "https://linkedin.com/company/pills2me-inc",
+      "facebook": "https://facebook.com/pills2me/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "PainNavigator",
+    "website": "https://navigatemypain.com/",
+    "description": "Creating digital solutions for chronic pain.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/painnavigator",
+      "linkedin": "https://linkedin.com/company/pain-navigator",
+      "facebook": "https://facebook.com/navigatemypain"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Mindhelpa",
+    "website": "https://mindhelpa.com/",
+    "description": "Mindhelpa improves access to mental healthcare by providing affordable and effective online group therapy to individuals, facilitated by licensed therapists.",
+    "location": "Dundee, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mindhelpa"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "MedDefend",
+    "website": "https://mymeddefend.com/",
+    "description": "A new way to navigate healthcare",
+    "location": "West Des Moines, Iowa, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/90448850"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Early Intervention Systems",
+    "website": "https://earlyinterventionsystems.com/",
+    "description": "Well-being software to improve caregiver workflows and elder negative outcomes in AL and memory care communities.",
+    "location": "Monmouth Junction, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/early-intervention-systems"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "AWEAR Technologies",
+    "website": "https://awear.us/",
+    "description": "For people with anxiety we provide an AI neurofeedback coach to enhance mental wellbeing everyday.",
+    "location": "San Francisco, California, United States",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Afford Healthcare",
+    "website": "https://afford.health/",
+    "description": "For people that struggle to manage and pay their medical bills, we provide helpful services and financing options to make it easier.",
+    "location": "San Francisco, California, United States",
+    "social_media": {},
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Cedience",
+    "website": "https://cedience.com/",
+    "description": "Using AI to make the drug development process more predictable",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/cedience",
+      "linkedin": "https://linkedin.com/company/cedience"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Happy Pads",
+    "website": "https://happyethiopads.com/",
+    "description": "Happy Sisters offers eco-friendly feminine hygiene products with patented leak-proof designs. Our 100% biodegradable pads and tampons have 10 advanced features, including antibacterial components and free BV self-test kits.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/86756492"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Generable",
+    "website": "https://generable.com/",
+    "description": "State-of-the-art platform for oncology clinical trials from first in human to registration.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GenerableHQ",
+      "linkedin": "https://linkedin.com/company/stan-group-inc."
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Utopia Global Wellness",
+    "website": "https://utopiaspaandglobalwellness.com/",
+    "description": "Welcome to Utopia Global Wellness (UGW) - Where Integrated Workplace Well-Being Meets Belonging--Worldwide! We are your B2B SaaS digital HR and retention partner, combating burnout while elevating employee health, happiness, and productivity on a global scale.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/utopiasgw",
+      "linkedin": "https://linkedin.com/company/utopiasgw",
+      "facebook": "https://facebook.com/UtopiaSGW/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "LyfPlus",
+    "website": "https://lyfplus.com/",
+    "description": "LyfPlus provides a software infrastructure for health facilities to set up custom digital health products that suit their patient needs. The module-based architecture allows products like telehealth, EHRs and e-pharmacies to be developed, deployed and scaled independently.\n\nHealth facilities can;\n\n1. Quickly set up and launch solutions across the patient value chain at $0 initial cost.\n2. Use data insights to predict patient dynamics and enhance the quality of their services.\n3.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/dp0r1ioexn5ol9c5uxg4",
+    "location": "Dar es Salaam, Dar es Salaam Region, Tanzania",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lyfplus-limited"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "HyperVention",
+    "website": "https://hypervention.com/",
+    "description": "HyperVention is a software platform that uses AI to personalize drug schedules for hypertensive patients.",
+    "location": "Carmel, Indiana, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hypervention"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "BioReact",
+    "website": "https://bioreact.co/",
+    "description": "BioReact is an analytics platform used by scientists to improve their understanding of complex experimental data.",
+    "location": "Indianapolis, Indiana, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bioreact-inc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Emergency Response Africa",
+    "website": "https://emergencyresponseafrica.com/",
+    "description": "Emergency Response Africa - Delivering emergency care in minutes by connecting anyone that needs help with the largest network of first responders, emergency vehicles, and hospitals",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/efnnhl66vbb32i71iryq",
+    "location": "Waterloo, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/EResponseAfrica",
+      "linkedin": "https://linkedin.com/company/13058330",
+      "facebook": "https://facebook.com/emergencyresponseafrica/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "EyeKnow",
+    "website": "https://eyeknow.ai/",
+    "description": "We make sure that caring for the helpless is safe using AI and security cameras.",
+    "location": "Haifa, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/eyeknowai",
+      "facebook": "https://facebook.com/eyeknowai"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "VITia",
+    "website": "https://vitiacare.com/",
+    "description": "VITiaCARE helps patients to better manage their chronic conditions through personalized solutions, AI insights, and rewards.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/VITiaCARE",
+      "linkedin": "https://linkedin.com/company/vitiacare",
+      "facebook": "https://facebook.com/vitiacare"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "UpTrials",
+    "website": "https://uptrials.com/",
+    "description": "UpTrials is an online marketplace connecting you to our database of prescreened clinical research professionals.",
+    "location": "Aurora, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/uptrials"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Meta-Flux",
+    "website": "https://meta-flux.com/",
+    "description": "Meta-Flux is an AI-assisted detection diagnostics platform for disease prevention. Its Patterns and fluctuations seen in personalized medicine can identify diseases. Using Artificial Intelligence and designing computer software offers a service that ca...",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/jhp5oykq0xe5pnljhvun",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/fluxmeta",
+      "linkedin": "https://linkedin.com/company/meta-flux"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Kiper",
+    "website": "https://kiper.ai/",
+    "description": "Kiper is a smart wearable designed to enhance child safety and provide parents with peace of mind.",
+    "location": "Medellín, Antioquia, Colombia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kiper-ai"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Kea Medicals",
+    "website": "https://keamedicals.com/",
+    "description": "Kea interconnects hospitals and different health stakeholders on a single platform through the patient's universal medical ID.",
+    "location": "Cotonou, Benin",
+    "social_media": {
+      "twitter": "https://twitter.com/keamedicals",
+      "linkedin": "https://linkedin.com/company/kea-medicals",
+      "facebook": "https://facebook.com/WixFrancais"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Tinted Health",
+    "website": "https://tintedhealth.com/",
+    "description": "A tech platform for booking real-time appointments with providers, searchable and filterable by race, language, ethnicity, insurance, and location, with telehealth and chat messaging.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tinted-health"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Senzi",
+    "website": "https://pathogenix.ai/",
+    "description": "The Senzi Monitor uses technology from 3D printer waste to check air quality, protecting spaces from harmful gases.",
+    "location": "Grand Rapids, Michigan, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/@www.mesenzi.com",
+      "linkedin": "https://linkedin.com/company/senzimeinfo",
+      "facebook": "https://facebook.com/senzimeinfo/followers/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Apostrophe",
+    "website": "https://apostrophehealth.com/",
+    "description": "An innovative health plan that saves self-insured employers up to 40% on their healthcare costs, while making their employees happier and healthier.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/apostrophehc",
+      "linkedin": "https://linkedin.com/company/apostrophe-inc.",
+      "facebook": "https://facebook.com/airstreamhealth/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Inscope Medical Solutions",
+    "website": "https://inscopemedical.com/",
+    "description": "Inscope Medical has developed an innovative technology that optimizes intubation, improving this high-risk procedure's efficiency, speed and safety.",
+    "location": "New Albany, Indiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/inscopemedical",
+      "linkedin": "https://linkedin.com/company/inscope-medical-solutions-llc",
+      "facebook": "https://facebook.com/pages/Inscope-Medical-Solutions-LLC/296367893885195"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Melon Health",
+    "website": "https://melonhealth.com/",
+    "description": "Digital therapeutics for physical, emotional and social health. Melon combines behavior science, data and design to deliver evidence based wellness interventions supported by humans and enabled by technology.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/melonhealth",
+      "linkedin": "https://linkedin.com/company/social-code",
+      "facebook": "https://facebook.com/SocialCode.io"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "EIO Diagnostics",
+    "website": "https://eiodiagnostics.com/",
+    "description": "EIO Diagnostics is an animal health diagnostics company launching our first product in the dairy industry focused on early indication of mastitis infections.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EIODiagnostics",
+      "linkedin": "https://linkedin.com/company/18253436",
+      "facebook": "https://facebook.com/EIODiagnostics/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "EMOTAI",
+    "website": "https://emotai.tech/",
+    "description": "Boosting gamers' performance using neurotechnology.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cn17u6ub4fn3ppbuunbn",
+    "location": "Lisbon, Portugal",
+    "social_media": {
+      "twitter": "https://twitter.com/emotai_tech",
+      "linkedin": "https://linkedin.com/company/emotai",
+      "facebook": "https://facebook.com/EmotAI.tech/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "FirstDerm",
+    "website": "https://firstderm.com/",
+    "description": "Our first vertical is dermatology; First Derm provides the fastest and most convenient way to ask a board certified dermatologist about any of your skin concerns.",
+    "location": "Berkeley, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/firstderm",
+      "linkedin": "https://linkedin.com/company/idoc24",
+      "facebook": "https://facebook.com/firstderm"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Inicio Health",
+    "website": "https://inicio.uk/",
+    "description": "Solving the lack of interoperability and automation between clinical systems for all.",
+    "location": "London, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/inicio-health"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "ZendyHealth",
+    "website": "https://linkedin.com/company/zendyhealth",
+    "description": "Digital health marketplace where patients can shop or bid by naming their own price to get affordable health and dental care now.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/zendyhealth",
+      "linkedin": "https://linkedin.com/company/zendyhealth",
+      "facebook": "https://facebook.com/zendyhealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Yosko",
+    "website": "https://linkedin.com/company/yosko",
+    "description": "Mobile collaboration platform for doctors and nurses",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/yosko",
+      "linkedin": "https://linkedin.com/company/yosko"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Wavelength",
+    "website": "https://linkedin.com/company/joinwavelength",
+    "description": "Wavelength is an audio platform that encourages women to take care of themselves and have a positive food perspective.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/joinwavelength",
+      "linkedin": "https://linkedin.com/company/joinwavelength",
+      "facebook": "https://facebook.com/Wavelength-102467814491428"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "The Better Spot",
+    "website": "https://linkedin.com/company/thebetterspot",
+    "description": "Saas Marketplace, Healthtech",
+    "location": "Smyrna, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thebetterspot",
+      "linkedin": "https://linkedin.com/company/thebetterspot",
+      "facebook": "https://facebook.com/thebetterspot"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Sympatic",
+    "website": "https://linkedin.com/company/sympatic-inc",
+    "description": "Enables enterprise data owners to safely share valuable data, providing audit logs and preventing data leakage.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sympatic_data",
+      "linkedin": "https://linkedin.com/company/sympatic-inc"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "SweetieDev",
+    "website": "https://linkedin.com/company/deary",
+    "description": "DeepVibes combines scientific methods and AI technology to improve the quality of life of people with Dementia and their families.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Deary_App",
+      "linkedin": "https://linkedin.com/company/deary",
+      "facebook": "https://facebook.com/dearyapp/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Sway",
+    "website": "https://linkedin.com/company/sway-inc-",
+    "description": "Sway is a software development company.",
+    "location": "Greensboro, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/swaymd",
+      "linkedin": "https://linkedin.com/company/sway-inc-",
+      "facebook": "https://facebook.com/swayhealth/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "SureConsent",
+    "website": "https://linkedin.com/company/sureconsent",
+    "description": "Painlessly empowering patients",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sure_consent",
+      "linkedin": "https://linkedin.com/company/sureconsent",
+      "facebook": "https://facebook.com/SureConsent/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "STIGMA",
+    "website": "https://linkedin.com/company/stigmaapp",
+    "description": "Stigma App is a media firm and mental health app dedicated to eradicating the stigma associated with mental illness and other misunderstood disorders. Founded in 2020 and is based in Chicago, IL.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/upr7nrogjpvbituqalqj",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TheSTIGMAApp",
+      "linkedin": "https://linkedin.com/company/stigmaapp",
+      "facebook": "https://facebook.com/TheSTIGMAapp"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Quimby",
+    "website": "https://linkedin.com/company/quimby",
+    "description": "Emotional resilience app for work",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/o7kwvj5z1hxzeyfibi1j",
+    "location": "Coppell, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/quimby"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Pulsewave",
+    "website": "https://linkedin.com/company/71327340",
+    "description": "Discreet and reliable remote patient monitoring with existing eyeglasses",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/drch6hmjoafby30uyeoc",
+    "location": "Biel, Switzerland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/71327340"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Poplin",
+    "website": "https://linkedin.com/company/getpoplin",
+    "description": "Poplin is the first pre-pregnancy company, helping couples prepare to get pregnant starting with the most comprehensive reproductive wellness testing on the market.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/poplinapp",
+      "linkedin": "https://linkedin.com/company/getpoplin"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Noteworth",
+    "website": "https://linkedin.com/company/noteworth",
+    "description": "Connecting healthcare organizations to unprecedented streams of on-demand patient-generated health data",
+    "location": "Hoboken, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/noteworth_",
+      "linkedin": "https://linkedin.com/company/noteworth",
+      "facebook": "https://facebook.com/pg/noteworthhealth"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "MemoryWell",
+    "website": "https://linkedin.com/company/thememorywell",
+    "description": "MemoryWell is a digital platform for healthcare providers that replaces intake questionnaires with brief, professionally written stories that capture SDoH data.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MemoryWell",
+      "linkedin": "https://linkedin.com/company/thememorywell",
+      "facebook": "https://facebook.com/MemoryWells/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Meenta",
+    "website": "https://linkedin.com/company/meenta",
+    "description": "The world's largest marketplace for diagnostic tests.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/meentaNGS",
+      "linkedin": "https://linkedin.com/company/meenta"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "LiquidLandscape",
+    "website": "https://linkedin.com/company/3087901",
+    "description": "LL Notebook is a blazingly fast data exploration tool that empowers domain experts to answer their own questions  and discover new and better questions to ask.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lqdlandscape",
+      "linkedin": "https://linkedin.com/company/3087901",
+      "facebook": "https://facebook.com/getliquidlandscape"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Invio",
+    "website": "https://linkedin.com/company/10651199",
+    "description": "Cloud-based automation for clinical trial operations",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/invioinc",
+      "linkedin": "https://linkedin.com/company/10651199",
+      "facebook": "https://facebook.com/invioincorporated"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Harvey",
+    "website": "https://linkedin.com/company/harveyimmobilier",
+    "description": "HomeHero powers family directed care.",
+    "location": "Louisville, Kentucky, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/homehero",
+      "linkedin": "https://linkedin.com/company/harveyimmobilier",
+      "facebook": "https://facebook.com/goharveyapp"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Frame Health",
+    "website": "https://linkedin.com/company/frame-health",
+    "description": "Frame Health identifies & diagnoses high cost non-adherent patients and prescribes tailored  treatment plans that improve adherence and outcome, and save money.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FrameHealth",
+      "linkedin": "https://linkedin.com/company/frame-health"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Elanation",
+    "website": "https://linkedin.com/company/elanation",
+    "description": "At Elanation, we're building the #1 health and fitness app for kids.",
+    "location": "Randwick, New South Wales, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/elanationapp",
+      "linkedin": "https://linkedin.com/company/elanation",
+      "facebook": "https://facebook.com/elanationcommunity/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Duality Health",
+    "website": "https://linkedin.com/company/duality-health",
+    "description": "Accurately identify and link individual patients with their digitized health care information to enable an interoperable health data ecosystem.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/g02otfcffmx3xpwstvbq",
+    "location": "San Antonio, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/duality-health"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Chicago Collaboratory",
+    "website": "https://linkedin.com/company/the-data-collaboratory",
+    "description": "The Collaboratory is an AI powered search and discovery platform for technical and scientific data at life science companies.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/collaboratoryai",
+      "linkedin": "https://linkedin.com/company/the-data-collaboratory",
+      "facebook": "https://facebook.com/makingideastangible"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Carefluent",
+    "website": "https://linkedin.com/company/carefluent",
+    "description": "AI-powered platform seeks out the social, cultural, and linguistic needs and preferences of both the Careseeker and the in-home Care Companion.",
+    "location": "Charlotte, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MyCarefluent",
+      "linkedin": "https://linkedin.com/company/carefluent",
+      "facebook": "https://facebook.com/mycarefluent"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Botanisol Analytics",
+    "website": "https://linkedin.com/company/botanisol-analytics",
+    "description": "Allowing you to monitor, gather data and quantify chemicals that have been deposited on crops make the best decisions to improve quality and yield.",
+    "location": "Phoenix, Arizona, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/botanisol-analytics"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Binaize",
+    "website": "https://linkedin.com/company/binaize",
+    "description": "Binaize is an AI based realtime conversion intelligence product for small and medium sized e-commerce businesses.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/binaizelabs",
+      "linkedin": "https://linkedin.com/company/binaize",
+      "facebook": "https://facebook.com/pg/binaize/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "bekome",
+    "website": "https://linkedin.com/company/joinbekome",
+    "description": "Vitamins containing ingredients clinically proven to reduce anxiety made all naturally",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ra1pi42eyeorc1mzecb4",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/joinbekome",
+      "linkedin": "https://linkedin.com/company/joinbekome",
+      "facebook": "https://facebook.com/joinbekome/"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Avenify",
+    "website": "https://linkedin.com/company/avenifyhq",
+    "description": "Building better financial and career services for nurses, starting with income share agreements for student financing",
+    "location": "Oklahoma City, Oklahoma, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AvenifyHQ",
+      "linkedin": "https://linkedin.com/company/avenifyhq",
+      "facebook": "https://facebook.com/AvenifyHQ"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "AmpIdea",
+    "website": "https://crunchbase.com/organization/ampidea",
+    "description": "Web-enabled baby monitors",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ampidea"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Facenote",
+    "website": "https://linkedin.com/company/facenote",
+    "description": "Biometric payments and access via facial recognition in a private, secure and compliant way.",
+    "location": "Anaheim, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/facenoteme",
+      "linkedin": "https://linkedin.com/company/facenote",
+      "facebook": "https://facebook.com/Facenoteme-166182484006366"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Omaiven Health",
+    "website": "https://linkedin.com/company/omaiven-health",
+    "description": "Omaiven is the automation & intelligence solution built specifically for clinic teams to reduce time spent on manual and data tasks.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/omaivenhealth",
+      "linkedin": "https://linkedin.com/company/omaiven-health"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Flourish",
+    "website": "https://linkedin.com/company/weflourishapp",
+    "description": "Flourish helps women get healthy for good.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/weflourishapp",
+      "linkedin": "https://linkedin.com/company/weflourishapp",
+      "facebook": "https://facebook.com/weflourishapp"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  },
+  {
+    "name": "Alena",
+    "website": "https://linkedin.com/company/aya-technologies",
+    "description": "Alena uses computational neuroscience to deliver tailored mental health solutions.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/meet_alena",
+      "linkedin": "https://linkedin.com/company/aya-technologies",
+      "facebook": "https://facebook.com/alenawellbeing"
+    },
+    "industry": "Healthtech",
+    "industry_slug": "healthtech"
+  }
+]

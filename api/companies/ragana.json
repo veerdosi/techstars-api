@@ -1,0 +1,22 @@
+{
+  "name": "Ragana",
+  "slug": "ragana",
+  "website": "https://1to1.tech/",
+  "description": "1to1 is a B2B personalization solution that allows eCommerce vendors to provide their customers with a unique digital experience tailored to them (with improved conversion rates) through our composable single end-point engine that integrates cutting-edge",
+  "one_liner": "1to1 is a B2B personalization solution that allows eCommerce vendors to provide their customers with a unique digital experience tailored to them (with improved conversion rates) through our composable single end-point engine that integrates cutting-edge",
+  "location": "Roselle Park, New Jersey, United States",
+  "industry": "Mobile commerce",
+  "industry_slug": "mobile-commerce",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/1to1consulting"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ragana",
+  "api": "/api/companies/ragana.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "AWABAH",
+  "slug": "awabah",
+  "website": "https://awabahng.com/",
+  "description": "Digital Pension platform for self-employed Africans.",
+  "one_liner": "Digital Pension platform for self-employed Africans.",
+  "location": "Lagos, Nigeria",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xgkubhirmut3a0nmaic0",
+  "social_media": {
+    "twitter": "https://twitter.com/AwabahNigeria",
+    "linkedin": "https://linkedin.com/company/awabah-nigeria",
+    "facebook": "https://facebook.com/AwabahNigeria"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/awabah",
+  "api": "/api/companies/awabah.json"
+}

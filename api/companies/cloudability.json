@@ -1,0 +1,24 @@
+{
+  "name": "Cloudability",
+  "slug": "cloudability",
+  "website": "https://cloudability.com/",
+  "description": "Apptio Cloudability is a cloud financial management platform that improves visibility, optimization, governance and more across cloud environments.",
+  "one_liner": "Apptio Cloudability is a cloud financial management platform that improves visibility, optimization, governance and more across cloud environments.",
+  "location": "Portland, Oregon, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/apptio",
+    "linkedin": "https://linkedin.com/company/cloudability",
+    "facebook": "https://facebook.com/Apptio"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cloudability",
+  "api": "/api/companies/cloudability.json"
+}

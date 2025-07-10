@@ -1,0 +1,24 @@
+{
+  "name": "aVenture",
+  "slug": "aventure",
+  "website": "https://aventure.vc/",
+  "description": "aVenture is a platform that helps funds, family offices and angel investors conduct startup research and make better decisions with in-depth company profiles, growth and risk analysis, deal tracking, opportunity discovery, and portfolio management.",
+  "one_liner": "aVenture is a platform that helps funds, family offices and angel investors conduct startup research and make better decisions with in-depth company profiles, growth and risk analysis, deal tracking, opportunity discovery, and portfolio management.",
+  "location": "San Francisco, California, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/https",
+    "linkedin": "https://linkedin.com/in/williamacallahan",
+    "facebook": "https://facebook.com/aVentureVC/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/aventure",
+  "api": "/api/companies/aventure.json"
+}

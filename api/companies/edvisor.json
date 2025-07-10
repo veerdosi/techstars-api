@@ -1,0 +1,24 @@
+{
+  "name": "Edvisor",
+  "slug": "edvisor",
+  "website": "https://edvisor.io/",
+  "description": "School and Agency Collaboration For the 21st Century",
+  "one_liner": "School and Agency Collaboration For the 21st Century",
+  "location": "Vancouver, British Columbia, Canada",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Edvisorio",
+    "linkedin": "https://linkedin.com/company/edvisor-io",
+    "facebook": "https://facebook.com/749555088410228"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/edvisor",
+  "api": "/api/companies/edvisor.json"
+}

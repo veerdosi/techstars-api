@@ -1,0 +1,24 @@
+{
+  "name": "FLUIX",
+  "slug": "fluix",
+  "website": "https://fluixpro-line.godaddysites.com/",
+  "description": "FLUIX unlocks the full power of high performance computing by eliminating the challenge of heat through Turbulent Liquid Cooling.",
+  "one_liner": "FLUIX unlocks the full power of high performance computing by eliminating the challenge of heat through Turbulent Liquid Cooling.",
+  "location": "Mangaluru, India",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/fluixcooling",
+    "linkedin": "https://linkedin.com/company/fluixcooling",
+    "facebook": "https://facebook.com/Fluixengineering/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fluix",
+  "api": "/api/companies/fluix.json"
+}

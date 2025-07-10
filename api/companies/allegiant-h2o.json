@@ -1,0 +1,23 @@
+{
+  "name": "Allegiant H2O",
+  "slug": "allegiant-h2o",
+  "website": "https://h2oallegiant.com/",
+  "description": "Bridging the gap between water projects, the necessary technology and financial solutions.",
+  "one_liner": "Bridging the gap between water projects, the necessary technology and financial solutions.",
+  "location": "Houston, Texas, United States",
+  "industry": "Climate tech",
+  "industry_slug": "climate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/h2o-allegiant",
+    "facebook": "https://facebook.com/H2OAllegiant"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/allegiant-h2o",
+  "api": "/api/companies/allegiant-h2o.json"
+}

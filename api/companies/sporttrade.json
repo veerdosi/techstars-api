@@ -1,0 +1,24 @@
+{
+  "name": "Sporttrade",
+  "slug": "sporttrade",
+  "website": "https://getsporttrade.com/",
+  "description": "Sporttrade is a peer to peer marketplace for sports betting.",
+  "one_liner": "Sporttrade is a peer to peer marketplace for sports betting.",
+  "location": "Unionville, Pennsylvania, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/sporttrade_app",
+    "linkedin": "https://linkedin.com/company/sporttrade",
+    "facebook": "https://facebook.com/Sporttradeapp/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sporttrade",
+  "api": "/api/companies/sporttrade.json"
+}

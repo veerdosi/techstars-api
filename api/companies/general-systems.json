@@ -1,0 +1,22 @@
+{
+  "name": "General Systems",
+  "slug": "general-systems",
+  "website": "https://generalsystems.tech/",
+  "description": "A sustainability focused, robotics company dedicated to transforming the global construction sector.",
+  "one_liner": "A sustainability focused, robotics company dedicated to transforming the global construction sector.",
+  "location": "Singapore, Singapore",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/mukundnambirajan"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/general-systems",
+  "api": "/api/companies/general-systems.json"
+}

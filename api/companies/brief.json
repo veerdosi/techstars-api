@@ -1,0 +1,22 @@
+{
+  "name": "Brief",
+  "slug": "brief",
+  "website": "https://briefme.io/",
+  "description": "For consumers trying to understand legalese in their everyday contracts, like their house rental, purchase or car, Brief helps customers understand what they are signing fast, using personalization and data.",
+  "one_liner": "For consumers trying to understand legalese in their everyday contracts, like their house rental, purchase or car, Brief helps customers understand what they are signing fast, using personalization and data.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/briefmeio"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/brief",
+  "api": "/api/companies/brief.json"
+}

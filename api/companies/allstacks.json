@@ -1,0 +1,24 @@
+{
+  "name": "Allstacks",
+  "slug": "allstacks",
+  "website": "https://allstacks.com/",
+  "description": "Allstacks quantifies productivity of your software engineering, delivering engineering managers visibility into team performance.",
+  "one_liner": "Allstacks quantifies productivity of your software engineering, delivering engineering managers visibility into team performance.",
+  "location": "Raleigh, North Carolina, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/allstacksapp",
+    "linkedin": "https://linkedin.com/company/allstacks",
+    "facebook": "https://facebook.com/allstacks/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/allstacks",
+  "api": "/api/companies/allstacks.json"
+}

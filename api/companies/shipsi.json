@@ -1,0 +1,24 @@
+{
+  "name": "Shipsi",
+  "slug": "shipsi",
+  "website": "https://shipsi.com/",
+  "description": "SHIPSI delivers in a major way. Any sized products. For any retailer. In as little as 2 hours.",
+  "one_liner": "SHIPSI delivers in a major way. Any sized products. For any retailer. In as little as 2 hours.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Supply chain technology",
+  "industry_slug": "supply-chain-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/shipsiinc",
+    "linkedin": "https://linkedin.com/company/shipsi",
+    "facebook": "https://facebook.com/Shipsi-496815067363180/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/shipsi",
+  "api": "/api/companies/shipsi.json"
+}

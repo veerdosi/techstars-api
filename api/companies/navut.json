@@ -1,0 +1,24 @@
+{
+  "name": "Navut",
+  "slug": "navut",
+  "website": "https://navut.com/",
+  "description": "Moving anywhere in the world should be as simple as moving around the corner.",
+  "one_liner": "Moving anywhere in the world should be as simple as moving around the corner.",
+  "location": "Montréal, Quebec, Canada",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/realnavut",
+    "linkedin": "https://linkedin.com/company/navutinc",
+    "facebook": "https://facebook.com/realnavut"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/navut",
+  "api": "/api/companies/navut.json"
+}

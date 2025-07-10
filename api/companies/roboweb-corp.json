@@ -1,0 +1,24 @@
+{
+  "name": "ROBOWEB Corp",
+  "slug": "roboweb-corp",
+  "website": "https://roboamp.com/",
+  "description": "We increase conversion rates and improve user experience by making any website load in one second or less on mobile devices.",
+  "one_liner": "We increase conversion rates and improve user experience by making any website load in one second or less on mobile devices.",
+  "location": "Rockwall, Texas, United States",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/_ROBOAMP_",
+    "linkedin": "https://linkedin.com/company/roboamp",
+    "facebook": "https://facebook.com/roboAMP/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/roboweb-corp",
+  "api": "/api/companies/roboweb-corp.json"
+}

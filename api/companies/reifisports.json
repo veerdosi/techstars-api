@@ -1,0 +1,22 @@
+{
+  "name": "Reifisports",
+  "slug": "reifisports",
+  "website": "https://reifisports.com/",
+  "description": "Reifi is reimagining sports finance. It allows pro sports teams to securitize their athletes' contracts, helping those teams mitigate the financial risk of player underperformance. Investors in those contracts earn a return when players overperform, and t",
+  "one_liner": "Reifi is reimagining sports finance. It allows pro sports teams to securitize their athletes' contracts, helping those teams mitigate the financial risk of player underperformance. Investors in those contracts earn a return when players overperform, and t",
+  "location": "Miami, Florida, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/reifi"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/reifisports",
+  "api": "/api/companies/reifisports.json"
+}

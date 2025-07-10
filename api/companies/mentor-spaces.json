@@ -1,0 +1,24 @@
+{
+  "name": "Mentor Spaces",
+  "slug": "mentor-spaces",
+  "website": "https://mentorspaces.com/",
+  "description": "A community-driven mentorship platform designed to help companies find, hire and retain underrepresented talent.",
+  "one_liner": "A community-driven mentorship platform designed to help companies find, hire and retain underrepresented talent.",
+  "location": "Denver, Colorado, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mentorspaces",
+    "linkedin": "https://linkedin.com/company/mentorspaces",
+    "facebook": "https://facebook.com/mentorspaces"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mentor-spaces",
+  "api": "/api/companies/mentor-spaces.json"
+}

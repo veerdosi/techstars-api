@@ -1,0 +1,24 @@
+{
+  "name": "Handl Health",
+  "slug": "handl-health",
+  "website": "https://gohandlhealth.com/",
+  "description": "The next generation of consumer engagement in healthcare.",
+  "one_liner": "The next generation of consumer engagement in healthcare.",
+  "location": "Cerritos, California, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/HANDLHEALTH",
+    "linkedin": "https://linkedin.com/company/70560846",
+    "facebook": "https://facebook.com/Handl-Health-103600331988081"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/handl-health",
+  "api": "/api/companies/handl-health.json"
+}

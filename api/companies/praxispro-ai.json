@@ -1,0 +1,22 @@
+{
+  "name": "PraxisPro AI",
+  "slug": "praxispro-ai",
+  "website": "https://praxispro.ai/",
+  "description": "PraxisPro empowers outside sales representatives with on-the-go, real-time intelligent sales training, enabling them to boost revenue by delivering impactful interactions with customers within their territory and reducing out-of-territory training costs.",
+  "one_liner": "PraxisPro empowers outside sales representatives with on-the-go, real-time intelligent sales training, enabling them to boost revenue by delivering impactful interactions with customers within their territory and reducing out-of-territory training costs.",
+  "location": "Houston, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/praxispro-ai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/praxispro-ai",
+  "api": "/api/companies/praxispro-ai.json"
+}

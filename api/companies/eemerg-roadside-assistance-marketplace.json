@@ -1,0 +1,24 @@
+{
+  "name": "Eemerg Roadside Assistance Marketplace",
+  "slug": "eemerg-roadside-assistance-marketplace",
+  "website": "https://eemerg.com/",
+  "description": "Roadside Assistance Your Way.",
+  "one_liner": "Roadside Assistance Your Way.",
+  "location": "St. Louis, Missouri, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/EemergRAM",
+    "linkedin": "https://linkedin.com/company/40968932",
+    "facebook": "https://facebook.com/Eemerg/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/eemerg-roadside-assistance-marketplace",
+  "api": "/api/companies/eemerg-roadside-assistance-marketplace.json"
+}

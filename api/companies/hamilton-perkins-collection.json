@@ -1,0 +1,24 @@
+{
+  "name": "Hamilton Perkins Collection",
+  "slug": "hamilton-perkins-collection",
+  "website": "https://hamiltonperkins.com/",
+  "description": "Hamilton Perkins Collection is an independent brand, designing and producing bags and accessories from recycled materials.",
+  "one_liner": "Hamilton Perkins Collection is an independent brand, designing and producing bags and accessories from recycled materials.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/hamiltonperkins",
+    "linkedin": "https://linkedin.com/company/hamilton-perkins-collection",
+    "facebook": "https://facebook.com/hamiltonperkins"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hamilton-perkins-collection",
+  "api": "/api/companies/hamilton-perkins-collection.json"
+}

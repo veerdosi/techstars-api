@@ -1,0 +1,24 @@
+{
+  "name": "Futury",
+  "slug": "futury",
+  "website": "https://linkedin.com/company/jobeek-",
+  "description": "Futury helps engineers to make data-driven career decisions.",
+  "one_liner": "Futury helps engineers to make data-driven career decisions.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/futuryio",
+    "linkedin": "https://linkedin.com/company/jobeek-",
+    "facebook": "https://facebook.com/futuryi0/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/futury",
+  "api": "/api/companies/futury.json"
+}

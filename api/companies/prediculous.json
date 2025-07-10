@@ -1,0 +1,24 @@
+{
+  "name": "Prediculous",
+  "slug": "prediculous",
+  "website": "https://prediculous.com/",
+  "description": "Casual social sports game for all fans",
+  "one_liner": "Casual social sports game for all fans",
+  "location": "Boulder, Colorado, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/167795-2f04e46c4a6abf54ca8883353c9196ae-thumb_jpg.jpg?buster=1360655512",
+  "social_media": {
+    "twitter": "https://twitter.com/PrediculousGame",
+    "linkedin": "https://linkedin.com/company/1485493",
+    "facebook": "https://facebook.com/prediculous/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/prediculous",
+  "api": "/api/companies/prediculous.json"
+}

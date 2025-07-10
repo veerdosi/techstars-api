@@ -1,0 +1,2361 @@
+[
+  {
+    "name": "Fig",
+    "website": "https://figloans.com/",
+    "description": "Private banking for the underbanked",
+    "location": "Sugar Land, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/figloans",
+      "linkedin": "https://linkedin.com/company/fig-tech",
+      "facebook": "https://facebook.com/playfig"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "PlayQ",
+    "website": "https://playq.com/",
+    "description": "Social gaming",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PlayQ",
+      "linkedin": "https://linkedin.com/company/3879848",
+      "facebook": "https://facebook.com/playqinc"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Everledger",
+    "website": "https://everledger.io/",
+    "description": "Everledger provides an immutable ledger for diamond identification and transaction verification for various stakeholders, from insurance companies to claimants and law enforcement agencies.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/everledgerio",
+      "linkedin": "https://linkedin.com/company/everledger",
+      "facebook": "https://facebook.com/everledger"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Splash",
+    "website": "https://splashhq.com/",
+    "description": "Popgun is using deep learning to create an AI musician who will become an essential creative partner for musicians worldwide.",
+    "location": "Brisbane, Queensland, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/popgunlabs",
+      "linkedin": "https://linkedin.com/company/splashmusic"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Rallyware",
+    "website": "https://rallyware.com/",
+    "description": "Driving action for the enterprise",
+    "location": "Mountain View, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rallywareSF",
+      "linkedin": "https://linkedin.com/company/rallyware",
+      "facebook": "https://facebook.com/rallyware"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Liv",
+    "website": "https://liv.tv/",
+    "description": "Leading VR streaming and social platform for the next generation of players & creators in XR.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/liv",
+      "linkedin": "https://linkedin.com/company/liv",
+      "facebook": "https://facebook.com/liv"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Didimo",
+    "website": "https://mydidimo.com/",
+    "description": "Didimo creates Virtual Avatars ready to be animated with one photo.",
+    "location": "Leca Da Palmeira, Portugal",
+    "social_media": {
+      "twitter": "https://twitter.com/my_didimo",
+      "linkedin": "https://linkedin.com/company/didimo",
+      "facebook": "https://facebook.com/DidimoInc"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Blockade Games",
+    "website": "https://blockade.games/",
+    "description": "Blockade Games has produced some of the longest-running experiences blending blockchain with interactive entertainment.",
+    "location": "Indianapolis, Indiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/neondistrictRPG",
+      "linkedin": "https://linkedin.com/company/blockade-games",
+      "facebook": "https://facebook.com/neondistrictRPG/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "StarStreet",
+    "website": "https://starstreet.com/",
+    "description": "Head to head real money fantasy drafts",
+    "logo_url": "https://pbs.twimg.com/profile_images/3604832642/5adf5ca474a14d6ed08d8522cc0d8a57_bigger.png",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/StarStreet",
+      "linkedin": "https://linkedin.com/company/1746447",
+      "facebook": "https://facebook.com/StarStreetSports/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Beastcoast",
+    "website": "https://beastcoast.gg/",
+    "description": "Beastcoast is global professional gaming organization and digital media enterprise.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/beastcoast",
+      "linkedin": "https://linkedin.com/company/beastcoast",
+      "facebook": "https://facebook.com/beastcoastg"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Yaspa",
+    "website": "https://yaspa.com/",
+    "description": "Helping regulated sectors take payment faster! Customer-ready Open Banking payments.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/thiscitizenis",
+      "linkedin": "https://linkedin.com/company/yaspa",
+      "facebook": "https://facebook.com/pluscitizen"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "i-Brain Tech",
+    "website": "https://i-brain.tech/",
+    "description": "i-BrainTech is a novel AI-powered brain-training solution to enhance the KPIs of individual athletes and to empower coaches with unique neuro-sport insights.",
+    "location": "Ramat Gan, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/i-braintech"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "echo3D",
+    "website": "https://echo3d.co/",
+    "description": "Cloud platform for augmented and virtual reality (AR/VR) apps that provides tools & server-side infrastructure to help companies build better 3D apps.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/_echoAR_",
+      "linkedin": "https://linkedin.com/company/echo3D",
+      "facebook": "https://facebook.com/echo3DInc/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Inthegame",
+    "website": "https://inthegame.io/",
+    "description": "Engagement and monitization platform for broadcasters and video content owners",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/inthegameapp",
+      "linkedin": "https://linkedin.com/company/inthegame-io",
+      "facebook": "https://facebook.com/inthegame.io/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Lightstream",
+    "website": "https://golightstream.com/",
+    "description": "Formerly Infiniscene. A powerful & intuitive live streaming studio in your browser.  No downloads. No technical wizardry. Absolutely free.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lightstream",
+      "linkedin": "https://linkedin.com/company/golightstream",
+      "facebook": "https://facebook.com/GoLightstream/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "PlayCanvas",
+    "website": "https://playcanvas.com/",
+    "description": "The world's first cloud-hosted, collaborative platform for building video games",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/playcanvas",
+      "linkedin": "https://linkedin.com/company/playcanvas",
+      "facebook": "https://facebook.com/playcanvas"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Matcherino",
+    "website": "https://matcherino.com/",
+    "description": "Matcherino is a technology company that builds software.",
+    "location": "La Jolla, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/matcherino_",
+      "linkedin": "https://linkedin.com/company/matcherino-com",
+      "facebook": "https://facebook.com/matcherino"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Replica Studios",
+    "website": "https://replicastudios.com/",
+    "description": "Replica uses Artificial Intelligence to create voices for the next generation of games, films, and other media.",
+    "location": "Brisbane, Queensland, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/replica_ai",
+      "linkedin": "https://linkedin.com/company/replica-ai",
+      "facebook": "https://facebook.com/ReplicaStudios/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Compliable",
+    "website": "https://compliable.com/",
+    "description": "Gaming licensing made easy.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rebric_io",
+      "linkedin": "https://linkedin.com/company/compliable",
+      "facebook": "https://facebook.com/compliable"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "str8bat",
+    "website": "https://str8bat.com/",
+    "description": "str8bat sits on your sports equipment & gives you actionable insights to help you PLAY BETTER, connects you to worlds best coaches and your peers.",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "twitter": "https://twitter.com/Str8Bat",
+      "linkedin": "https://linkedin.com/company/str8bat-sport-tech-solutions-pvt.-ltd.",
+      "facebook": "https://facebook.com/str8bat/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Brite",
+    "website": "https://gobrite.io/",
+    "description": "Turn-Key SaaS platform that helps after-school educators to manage their businesses and find high-quality STEM curricula.",
+    "location": "Bothell, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gobrite_io",
+      "linkedin": "https://linkedin.com/company/brite-education",
+      "facebook": "https://facebook.com/BritePaymentGroup"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "EDGE Sound Research",
+    "website": "https://edgesoundresearch.com/",
+    "description": "Bringing realism to sound experiences through patent-pending audio format that allows users to both HEAR and FEEL sound in high fidelity.",
+    "location": "Riverside, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/official_esr_",
+      "linkedin": "https://linkedin.com/company/edge-sound-research",
+      "facebook": "https://facebook.com/edgesoundresearch/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "555 Comic",
+    "website": "https://fromeveryst.com/",
+    "description": "Some might call what we make virtual influencers, we call them virtual characters. Social media first characters sharing soundtrack worthy episodic story arcs.",
+    "location": "Tokyo, Japan",
+    "social_media": {
+      "twitter": "https://twitter.com/crc_luna",
+      "linkedin": "https://linkedin.com/company/longshorts-stories"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Mint State Labs",
+    "website": "https://mintstatelabs.com/",
+    "description": "Mint State Labs is looking to bring gaming enthusiast communities together with web3.0 technologies. MSL: Innovate, Create, Connect.",
+    "location": "Redmond, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MintStateLabs",
+      "linkedin": "https://linkedin.com/company/mintstatelabs",
+      "facebook": "https://facebook.com/Mint-State-Labs-108847508186922/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Geopipe",
+    "website": "https://geopipe.ai/",
+    "description": "Immersive virtual copies of the world, built by algorithms, for games, SFX, simulation, architecture, real estate, VR/AR, and beyond.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/geopipeinc",
+      "linkedin": "https://linkedin.com/company/10985571",
+      "facebook": "https://facebook.com/geopipeinc/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "TheMonetizr",
+    "website": "https://themonetizr.com/",
+    "description": "Monetizr is a marketplace enabling game developers to reward and monetize their players with physical rewards.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/themonetizr",
+      "linkedin": "https://linkedin.com/company/10823510",
+      "facebook": "https://facebook.com/themonetizr"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Rainway",
+    "website": "https://rainway.io/",
+    "description": "Rainway is a web-based game streaming platform that lets users play their favorite PC games on different devices so they can play anywhere.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rainwayapp",
+      "linkedin": "https://linkedin.com/company/rainway-inc",
+      "facebook": "https://facebook.com/RainwayApp"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Unruly Studios",
+    "website": "https://unruly-studios.com/",
+    "description": "Unruly Studios uses active, recess-style play to teach kids 6+ how to code.",
+    "location": "Jamaica Plain, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/unruly_studios",
+      "linkedin": "https://linkedin.com/company/unrulystudios",
+      "facebook": "https://facebook.com/pg/playunrulystudios/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Novel Effect",
+    "website": "https://noveleffect.com/",
+    "description": "Seattle-based Novel Effect is the leader in voice-driven media and entertainment across books, video, toys and games.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Novel_Effect",
+      "linkedin": "https://linkedin.com/company/novel-effect-inc-",
+      "facebook": "https://facebook.com/noveleffect"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Game Theory",
+    "website": "https://gametheory.in/",
+    "description": "A fitness experience that makes casual sports convenient, addictive, and exciting.",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/game-theory-sports",
+      "facebook": "https://facebook.com/gametheoryindia/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Loyalti",
+    "website": "https://loyalti.com/",
+    "description": "Helping Shopify merchants gain and retain more customers with less work by streamlining and amplifying your marketing efforts.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/snowshoestamp",
+      "linkedin": "https://linkedin.com/company/customerloyalti",
+      "facebook": "https://facebook.com/snow.sh/fb"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Gamesight",
+    "website": "https://gamesight.io/",
+    "description": "Connecting players to games.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/innervateinc",
+      "linkedin": "https://linkedin.com/company/gamesight",
+      "facebook": "https://facebook.com/GamesightIO"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "AgadoLive",
+    "website": "https://agadolive.com/",
+    "description": "Enables wellness businesses to create and deliver effective remote sessions, and eventually, make them available in the metaverse.",
+    "location": "Ramat Hashron, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/agadolive",
+      "linkedin": "https://linkedin.com/company/agado-live",
+      "facebook": "https://facebook.com/Agado-For-Fitness-107702807775242"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Kidas",
+    "website": "https://getkidas.com/",
+    "description": "Kidas is an AI-based technology that connects to any game console and helps parents protect their children from cyberbullying and online predation by analyzing voice and text conversations in real-time.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/kidasnet",
+      "linkedin": "https://linkedin.com/company/kidas",
+      "facebook": "https://facebook.com/kidasnet"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "gameSense Sports",
+    "website": "https://gamesensesports.com/",
+    "description": "Our mission is to make cognitive training as universal, accessible & affordable as physical training for all sports participants - amateur thru pro.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GameSenseSports",
+      "linkedin": "https://linkedin.com/company/gamesense-sports",
+      "facebook": "https://facebook.com/pg/gamesensesports"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Brizi",
+    "website": "https://brizicam.com/",
+    "description": "Pioneers in crowd-controlled camera technology in sports, entertainment, and attractions.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/brizi",
+      "linkedin": "https://linkedin.com/company/brizi",
+      "facebook": "https://facebook.com/brizi/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Fave",
+    "website": "https://faveforfans.com/",
+    "description": "Fave is a social video platform & marketplace dedicated to passionate fans, allowing them to create and share immersive content, connect with like-minded fans, compete in fun challenges, exchange virtual and physical goods, and earn status, recognition, a",
+    "location": "Dietikon, Switzerland",
+    "social_media": {
+      "twitter": "https://twitter.com/faveforfans",
+      "linkedin": "https://linkedin.com/company/faveforfans",
+      "facebook": "https://facebook.com/faveforfans/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Respeecher",
+    "website": "https://respeecher.com/",
+    "description": "Respeecher uses AI technology to transform voices, allowing one person to speak in the voice of another.",
+    "location": "Kyiv, Ukraine",
+    "social_media": {
+      "twitter": "https://twitter.com/respeecher",
+      "linkedin": "https://linkedin.com/company/respeecher",
+      "facebook": "https://facebook.com/respeecher/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "The GIST",
+    "website": "https://thegistnews.ca/",
+    "description": "The GIST provides sports content, experiences, and community for women.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/thegistca",
+      "linkedin": "https://linkedin.com/company/thegistnews-ca",
+      "facebook": "https://facebook.com/thegistnewsca/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "SoBet",
+    "website": "https://sobet.io/",
+    "description": "Operator of a sports betting media platform intended to provide and distribute sports betting content from independent experts.",
+    "location": "Nashville, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SoBet_app",
+      "linkedin": "https://linkedin.com/company/sobet-app"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "PsycApps",
+    "website": "https://psycapps.com/",
+    "description": "Digital Mental Health Games",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/equoogame",
+      "linkedin": "https://linkedin.com/company/psycapps",
+      "facebook": "https://facebook.com/PsycApps/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "GameOn",
+    "website": "https://gameon.app/",
+    "description": "We turn complicated stats and odds into a free and simple game for the everyday fan, with real cash prizes.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gameonfanapp",
+      "linkedin": "https://linkedin.com/company/gameonfanapp",
+      "facebook": "https://facebook.com/gameonfanapp"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Banjo Robinson",
+    "website": "https://banjorobinson.com/",
+    "description": "Introducing Banjo Robinson - your child's new pen pal! A new-to-market subscription which turns writing practice into a magical game for 5-8 year olds.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/banjo_robinson_",
+      "linkedin": "https://linkedin.com/company/banjorobinson",
+      "facebook": "https://facebook.com/BanjoRobinson/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Sensible Object",
+    "website": "https://sensibleobject.com/",
+    "description": "Making games for a more connected world.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/sensibleobject",
+      "linkedin": "https://linkedin.com/company/sensible-object",
+      "facebook": "https://facebook.com/sensibleobject/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Jintronix",
+    "website": "https://jintronix.com/",
+    "description": "physical rehab",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/jintronix",
+      "linkedin": "https://linkedin.com/company/jintronix",
+      "facebook": "https://facebook.com/Jintronix"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Cognotion",
+    "website": "https://cognotion.com/",
+    "description": "Workforce training for today's youthforce",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Cognotion",
+      "linkedin": "https://linkedin.com/company/5244753",
+      "facebook": "https://facebook.com/cognotion"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Elastic Audio",
+    "website": "https://elasticaudio.com/",
+    "description": "Elastic Audio is a flexible, high-performance platform for creating rich real-time audio.",
+    "location": "Decatur, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/audio_elastic",
+      "linkedin": "https://linkedin.com/company/elastic-audio",
+      "facebook": "https://facebook.com/elasticaudio/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Radd",
+    "website": "https://raddcontent.com/",
+    "description": "radd. is an eCommerce Intelligence Saas Platform for Boosting User Generated Content via LIVE & Data Driven Story Reviews.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/radd.",
+      "facebook": "https://facebook.com/raddcontent/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "FIVE MICS",
+    "website": "https://fivemics.io/",
+    "description": "A digital trading card game rich in hip-hop culture",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/le37asn7qaysx2hrxutz",
+    "location": "Sacramento, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/fivemics"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "SimBull Sports Exchange",
+    "website": "https://simbull.com/",
+    "description": "SimBull - Where fortune favours the fan.\n\nTo view the company one-page summary click here - https://app.buildmemo.com/s/8tz67z",
+    "location": "Minneapolis, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SimBullExchange",
+      "linkedin": "https://linkedin.com/company/simbull-sports-exchange"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Datawisp",
+    "website": "https://statshelix.com/",
+    "description": "StatsHelix is a gametech company that creates interactive engagement layers and broadcast tools for the gaming industry.",
+    "location": "Hempstead, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/statshelix",
+      "linkedin": "https://linkedin.com/company/statshelix",
+      "facebook": "https://facebook.com/statshelix"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Hololink",
+    "website": "https://hololink.io/",
+    "description": "Hololink is the easiest and fastest way to create interactive augmented reality experiences with no code and no apps.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wcu582mk6rxcdhmb7rbj",
+    "location": "Copenhagen, Denmark",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hololink",
+      "facebook": "https://facebook.com/Hololink.io/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Paralog",
+    "website": "https://paralog.ai/",
+    "description": "Paralog is an AI platform to democratize and accelerate production of NPC behaviors in video games.",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/paralog-ai"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Astros",
+    "website": "https://astros.one/",
+    "description": "A developer-first company that provides platforms and tools for mobile game studios to efficiently monetize their customers.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/astros-one"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "CustomerGlu",
+    "website": "https://customerglu.com/",
+    "description": "Glu empowers marketers at digital businesses to drive \"interactive workflows\" for their users with just a few clicks - and choose from a library of pre-built interactions library.",
+    "location": "Bengaluru, Karnataka, India",
+    "social_media": {
+      "twitter": "https://twitter.com/CustomerGlu",
+      "linkedin": "https://linkedin.com/company/customerglu",
+      "facebook": "https://facebook.com/customerglu"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Chambr",
+    "website": "https://chambr.us/",
+    "description": "Chambr helps sales teams close more deals through game-based simulations.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/chambr_ai",
+      "linkedin": "https://linkedin.com/company/80046630",
+      "facebook": "https://facebook.com/chambr.games"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Redvest App",
+    "website": "https://redvest.app/",
+    "description": "Redvest is the place to learn investing for GenZs. Learn, compete, play and start your journey to financial freedom!",
+    "location": "West Hollywood, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/redvestapp"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Lucky Juicebox",
+    "website": "https://luckyjuicebox.com/",
+    "description": "Games and tools for XR Headsets. For Anyone, anywhere.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lucky_juicebox",
+      "linkedin": "https://linkedin.com/company/luckyjuicebox"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Conduit Virtual",
+    "website": "https://conduit.gg/",
+    "description": "The premium marketplace for the video game industry.\n\nWe want to help every game company find and transact with one another.\n\nTrack market movements and insights only on Conduit.",
+    "location": "Culver City, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/conduitgg"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Vert",
+    "website": "https://vert.earth/",
+    "description": "Carbon insetting platform enabling buyers, suppliers, and banks to reach net-zero.",
+    "logo_url": "https://static.wixstatic.com/media/51f305_20927ecbc1324487aa5ab2ddbde3776f~mv2.jpg",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/company/vertearth"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Robodub",
+    "website": "https://robodub.com/",
+    "description": "We are a drone company developing high performance drones that has better agility, maneuverability, safety, and load-balancing capacity.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/robodubinc",
+      "linkedin": "https://linkedin.com/company/robodub-inc-",
+      "facebook": "https://facebook.com/robodubinc"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Rooit - Play & Chat!",
+    "website": "https://rooit.me/",
+    "description": "Gamified chat app, on a mission to empower everyone to find a confidant",
+    "location": "Taipei, Taiwan",
+    "social_media": {
+      "twitter": "https://twitter.com/Rooit_app",
+      "linkedin": "https://linkedin.com/company/rooit-inc",
+      "facebook": "https://facebook.com/rooitapp/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Immersive Systems",
+    "website": "https://immersivesystems.io/",
+    "description": "Immersive Systems is delivering an esports media platform that powers the next generation of fan engagement and revenue growth.",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ImmerseOS",
+      "linkedin": "https://linkedin.com/company/immersive-systems-inc",
+      "facebook": "https://facebook.com/ImmersiveSports/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Groovy Antoid",
+    "website": "https://groovyantoid.com/",
+    "description": "Mobile and messenger gaming company building polished casual games, with cute, colorful characters and quirky, social gameplay.",
+    "location": "Beirut, Lebanon",
+    "social_media": {
+      "twitter": "https://twitter.com/GroovyAntoid",
+      "linkedin": "https://linkedin.com/company/groovy-antoid",
+      "facebook": "https://facebook.com/GroovyAntoid"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Hero",
+    "website": "https://hero-app.com/",
+    "description": "Platform that reduces insurers' liability from drunk driving by providing bars/restaurants with a mobile solution that incentivizes customers to get home safely",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HEROappit",
+      "linkedin": "https://linkedin.com/company/herospace-app",
+      "facebook": "https://facebook.com/hero-app-1533884693518832"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Gabu",
+    "website": "https://playgabu.com/",
+    "description": "For parents that want their kids to have a safe and fun online gaming experience, Gabu provides a platform to keep them safe and help them become good digital citizens.",
+    "location": "Zapopan, Jalisco, Mexico",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/playgabu",
+      "facebook": "https://facebook.com/playgabu"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Octane Technologies",
+    "website": "https://driveoctane.com/",
+    "description": "Made by enthusiasts, for enthusiasts, the Octane mobile application provides a video game like cruising experience, in addition to a map-based database of stunning routes and car-related events.",
+    "location": "Vernon Hills, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/app_octane",
+      "linkedin": "https://linkedin.com/company/octane-technologies",
+      "facebook": "https://facebook.com/app.octane/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "MetaPals",
+    "website": "https://metapals.pet/",
+    "description": "MetaPals is a browser extension that allows users to interact and grow NFT pets directly from their browser computer screen.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "twitter": "https://twitter.com/MetaPals",
+      "linkedin": "https://linkedin.com/company/metapals",
+      "facebook": "https://facebook.com/metapals/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Secret City Trails",
+    "website": "https://secretcitytrails.com/",
+    "description": "Playful experiences for discovery - made by a community of creators.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/tqulr1npzhmdsdoplegk",
+    "location": "Lisbon, Portugal",
+    "social_media": {
+      "twitter": "https://twitter.com/secretcitytrail",
+      "linkedin": "https://linkedin.com/company/10453886",
+      "facebook": "https://facebook.com/secretcitytrails/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Gamr",
+    "website": "https://gamr.africa/",
+    "description": "Gamr is a competitive gaming platform that makes it easy for gamers to discover tournaments, team up, and compete in their favorite games.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gamrafrica",
+      "linkedin": "https://linkedin.com/company/gamr",
+      "facebook": "https://facebook.com/gamr.africa"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Flustr",
+    "website": "https://flustr.com/",
+    "description": "A mobile platform for users to compete with friends in a live, short-form video game where spectators control the outcome.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vfrngpleg1xqw2ifbdj7",
+    "location": "Inglewood, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/uvsfriends",
+      "linkedin": "https://linkedin.com/company/flustr",
+      "facebook": "https://facebook.com/flvstr"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Fanbants",
+    "website": "https://fanbants.com/",
+    "description": "The social DraftKings of Africa",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/PlayFanbants",
+      "linkedin": "https://linkedin.com/company/fanbants",
+      "facebook": "https://facebook.com/fanbants/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Evil Genius Games",
+    "website": "https://evilgeniusgames.com/",
+    "description": "Evil Genius Games is a publisher of tabletop roleplaying games based on movie franchises such as Rambo and Pacific Rim.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ws7ozddn58gtoehtgndh",
+    "location": "San Mateo, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EvilGeniusGames",
+      "linkedin": "https://linkedin.com/company/evil-genius-games",
+      "facebook": "https://facebook.com/EvilGeniusGames"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "CogniScope",
+    "website": "https://cogniscope.app/",
+    "description": "We offer a pioneering SaaS solution for gaming studios that leverages advanced AI models based on psychological studies to interpret player emotions and behaviors, transforming insights into prioritized action items for strategic decision-making.",
+    "location": "London, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cogniscope",
+      "facebook": "https://facebook.com/dert.solutions"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Waldek Technologies",
+    "website": "https://gauzilla.xyz/",
+    "description": "Waldek Technologies is developing Gauzilla Pro, the #1 AI-powered & no-code web editor for 3D/4D digital twins. Gauzilla utilizes the latest radiance field technology and serverless edge-AI that runs directly in a web browser.",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/waldek-technologies"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "FIX HEALTH",
+    "website": "https://fix-health.com/",
+    "description": "An incremental behavior change engine that solves a variety of user engagement problems across multiple health verticals.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fix_outbreak",
+      "linkedin": "https://linkedin.com/company/fix-fitness-interactive-experience",
+      "facebook": "https://facebook.com/FitnessInteractiveExperience"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "vRotors",
+    "website": "https://vrotors.com/",
+    "description": "vRotors unlocks live engagement with remote locations for distributed teams through revolutionary real-time control of robotics and drones.",
+    "location": "Hacienda Heights, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/VRotors",
+      "linkedin": "https://linkedin.com/company/vrotors-inc",
+      "facebook": "https://facebook.com/vrotors"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "MegaFans",
+    "website": "https://megafans.com/",
+    "description": "Mobile esports platform bridging web2 to web3 for gamers and enabling game developers to increase their player lifetime value.",
+    "location": "Carlsbad, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MegafansEsports",
+      "linkedin": "https://linkedin.com/company/megafans-com",
+      "facebook": "https://facebook.com/MegafansEsports/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "LiveDuel",
+    "website": "https://liveduel.com/",
+    "description": "DeFi-powered digital sports markets and live fan engagement.",
+    "location": "Cork, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/LiveDuel",
+      "linkedin": "https://linkedin.com/company/liveduel",
+      "facebook": "https://facebook.com/liveduel"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Holos",
+    "website": "https://holos.io/",
+    "description": "A virtual reality content management system that makes it super easy for curriculum designers to create and deploy immersive learning experiences.",
+    "location": "Madison, Wisconsin, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/holosVR",
+      "linkedin": "https://linkedin.com/company/holos-global",
+      "facebook": "https://facebook.com/holosXR/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Foundry Six",
+    "website": "https://foundrysix.com/",
+    "description": "Building an augmented reality gaming platform for the next generation of game developers. What Steam is for console gaming, we are for AR.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FoundrySix",
+      "linkedin": "https://linkedin.com/company/foundrysix",
+      "facebook": "https://facebook.com/foundrysix/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Champhunt",
+    "website": "https://champhunt.com/",
+    "description": "We are creating a reward-based community centered around cricket, where all stakeholders can connect, share their experiences, and enjoy themselves.",
+    "location": "Fremont, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/champhunt"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Big Fan",
+    "website": "https://bigfan.io/",
+    "description": "Reinventing sports collectibles with officially licensed NFTs that provide access to Metaverse-driven fan experiences.",
+    "location": "Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/BigFan_io",
+      "linkedin": "https://linkedin.com/company/big-fan-io",
+      "facebook": "https://facebook.com/BigFanCollectibles/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "UMA",
+    "website": "https://umavr.co/",
+    "description": "Play to Lean! Building a virtual world where learning and playing are one and the same",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/uma__games",
+      "linkedin": "https://linkedin.com/company/umaverse",
+      "facebook": "https://facebook.com/UMA-105770271400418"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Carbon Origins",
+    "website": "https://carbonorigins.com/",
+    "description": "Carbon Origins provides free dine-in quality deliveries on robots trained and monitored by remote VR drivers",
+    "location": "Lancaster, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/carbonorigins",
+      "linkedin": "https://linkedin.com/company/carbon-origins",
+      "facebook": "https://facebook.com/carbonorigins"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Reactiv",
+    "website": "https://reactivrehab.com/",
+    "description": "Reactiv is a virtual physical rehabilitation clinic, where we use computer vision and gaming to increase engagement and improve outcome.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/reactivrehab",
+      "linkedin": "https://linkedin.com/company/reactivrehab",
+      "facebook": "https://facebook.com/reactivrehab"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Combat IQ",
+    "website": "https://combatiq.io/",
+    "description": "The world's first Computer Vision powered analytics company dedicated to Combat Sports",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hemk4o3cg9ex06nonylp",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/combat-iq",
+      "facebook": "https://facebook.com/combatiq"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "FanWide",
+    "website": "https://fanwide.com/",
+    "description": "FanWide is the world's largest sports fan club network which helps fans find a local fan club in any city. FanWide's marketplace pairs fan clubs to sports bars.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fanwide",
+      "linkedin": "https://linkedin.com/company/fanwide",
+      "facebook": "https://facebook.com/FanWide"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "THX Network",
+    "website": "https://thx.network/",
+    "description": "Low-code infrastructure and tooling, making web3 accessible for web2 communities and creators, increasing their engagement and revenue.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xj5xq5wrgrfghi4kqnhn",
+    "location": "Amsterdam, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/thxprotocol",
+      "linkedin": "https://linkedin.com/company/thxprotocol"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Notey",
+    "website": "https://notey.co/",
+    "description": "Notey Inc: Merging gaming and music education.",
+    "location": "Cayce, South Carolina, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/notey",
+      "facebook": "https://facebook.com/noteysworld/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "N3MUS",
+    "website": "https://n3mus.com/",
+    "description": "N3MUS serves as the essential bridge, connecting traditional gamers to blockchain technology while providing a cost-effective and user-friendly gaming experience.\n\nN3MUS approach involves standardising services and infrastructure for the gaming industry, thereby reducing development costs and time to market, ensuring technology stability, and avoiding long-term technical debt.",
+    "location": "Westervoort, Netherlands",
+    "social_media": {
+      "twitter": "https://twitter.com/N3musFdn",
+      "linkedin": "https://linkedin.com/company/n3mus"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Locker",
+    "website": "https://getlockersport.com/",
+    "description": "Locker provides sports fans with a single app to find and consume the topics they love, from the media brands they trust.",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/getlockersport",
+      "linkedin": "https://linkedin.com/company/getlocker",
+      "facebook": "https://facebook.com/getlockersport/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Five Star Fans",
+    "website": "https://five-starfans.com/",
+    "description": "Crowdsource fan support to recruit and retain athletes to your favorite Universities",
+    "location": "Dublin, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/five-star-fans"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Esportudo",
+    "website": "https://esportudo.com/",
+    "description": "Esportudo is a sports media brand giving latinos the most complete coverage on their favorite players, teams, and leagues through personalized content and apps",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/esportudo",
+      "linkedin": "https://linkedin.com/company/esportudo",
+      "facebook": "https://facebook.com/pg/Esportudo/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Acrylic",
+    "website": "https://acrylic.la/",
+    "description": "Acrylic.LA is a digital music marketplace for SYNC where ad agencies, content creators, and fans, leverage indie ARTIST brands like never before.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/acrylic-inc"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "8LAB",
+    "website": "https://8lab.ai/",
+    "description": "8LAB is the members-only hub where creatives and tech pros connect and innovate with guidance from industry leaders + AI, Agent 8.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/join8lab"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Polycade",
+    "website": "https://polycade.com/",
+    "description": "Polycade is a modern arcade platform with access to 1000's of games. We highlight the best of both retro and modern games in a familiar interface and arcade con",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thepolycade",
+      "linkedin": "https://linkedin.com/company/polycade",
+      "facebook": "https://facebook.com/Polycade/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Streamfog",
+    "website": "https://streamfog.com/",
+    "description": "We're transforming the streaming landscape with AR advertising. From Twitch to YouTube to Netflix, we believe traditional commercial breaks are outdated. Our in-content solutions disrupt the industry, not your entertainment.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/streamfog"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "QuirkChat",
+    "website": "https://quirktastic.co/",
+    "location": "Concord, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/quirkchat",
+      "linkedin": "https://linkedin.com/company/quirkchat",
+      "facebook": "https://facebook.com/Quirktastic"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Ganymede Games",
+    "website": "https://ganymede.games/",
+    "description": "For adult gamers with busy lives, Ganymede builds bite-sized episodic games.",
+    "location": "Las Cruces, New Mexico, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ganymede_games",
+      "linkedin": "https://linkedin.com/company/ganymede-games",
+      "facebook": "https://facebook.com/ganymedegames/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Atom Universe",
+    "website": "https://atomstars.com/",
+    "description": "Metaverse-as-a-Service offering brands to launch their own metaverse platform to engage their user in breathtaking white label virtual worlds",
+    "location": "Woking, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/AtomRepublic",
+      "linkedin": "https://linkedin.com/company/atom-republic",
+      "facebook": "https://facebook.com/AtomRepublic"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Oversight",
+    "website": "https://oversight-ar.com/",
+    "description": "3D, visual, and unified data management platform that connects any map-locatable device for enhancing operators' situational awareness and decision-making using XR tools",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/u3frh4yoguxwkepkaedl",
+    "location": "Poria Illit, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oversight-ar",
+      "facebook": "https://facebook.com/OversightAR"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Glow Up Games",
+    "website": "https://glowup.games/",
+    "description": "Glow Up Games creates mobile games targeting women of color, using the proven power of diverse storytelling to better understand & serve this hidden market within the gaming industry.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/enkvnq8aijiesacm6kco",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/glowupgames",
+      "linkedin": "https://linkedin.com/company/glow-up",
+      "facebook": "https://facebook.com/GlowUpGamesFB/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Digital Will",
+    "website": "https://digitalwill.co.jp/",
+    "description": "Digital Will's WORTAL empowers game studios to swift distribution, enhanced monetization, and cost-effective efficiency",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/tgpfd36bgksi4tma1hfi",
+    "location": "Minato City, Japan",
+    "social_media": {
+      "twitter": "https://twitter.com/digitalwillinc",
+      "linkedin": "https://linkedin.com/company/digital-will",
+      "facebook": "https://facebook.com/digitalwillinc/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Assethub",
+    "website": "https://assethub.io/",
+    "description": "Provides an easy way to create unique 3D models from pictures using AI",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/takuya-goto-027ab0134"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Leagueswype",
+    "website": "https://leagueswype.com/",
+    "description": "Leagueswype offers a quick, easy, and secure solution for transferring funds.",
+    "location": "Aurora, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Leagueswype",
+      "linkedin": "https://linkedin.com/in/darius-grandberry-5048b5b0",
+      "facebook": "https://facebook.com/LeagueSwypeLLC/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Glitch",
+    "website": "https://glitch.fun/",
+    "description": "Glitch is performance-based influencer marketing platform specifically for gaming in which gaming publishers pay creators to play and promote their games.",
+    "location": "Roswell, Georgia, United States",
+    "social_media": {},
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Voight AI",
+    "website": "https://voight.ai/",
+    "description": "genAI compliance software to help entertainment companies protect their IP",
+    "location": "McLean, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/artistreeio",
+      "linkedin": "https://linkedin.com/company/artistreeio",
+      "facebook": "https://facebook.com/artistree/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "SWERVE Fitness",
+    "website": "https://swervefitness.com/",
+    "description": "Swerve is the first boutique fitness studio to livestream its experience into gyms and studios around the world. Swerve is also the first concept to feature location vs. location competition.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SWERVE_Fitness",
+      "linkedin": "https://linkedin.com/company/swerve-fitness",
+      "facebook": "https://facebook.com/swervefit"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "PITZ",
+    "website": "https://pitz.ai/",
+    "description": "Video highlights for youth sports parents.",
+    "location": "Pittsburg, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thepitzapp",
+      "linkedin": "https://linkedin.com/company/thepitzapp",
+      "facebook": "https://facebook.com/thePITZapp/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Parallux",
+    "website": "https://parallux.co/",
+    "description": "Parallux makes it easy for brands and creators to design, build, and host 3D virtual spaces in the metaverse.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/9c74999fc0acb0c49199",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/paralluxco",
+      "linkedin": "https://linkedin.com/company/parallux",
+      "facebook": "https://facebook.com/parallux/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "mtion",
+    "website": "https://mtion.tv/",
+    "description": "Mtion connects streamers with their fans through shared 3D experiences.",
+    "location": "Kitchener, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/mtiontv",
+      "linkedin": "https://linkedin.com/company/mtion-tv"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "KYD Labs",
+    "website": "https://kydlabs.com/",
+    "description": "KYD is a blockchain-enabled event ticketing platform that unlocks long term loyalty, resale revenue for live event hosts and ensures buyers get authentic resale tickets.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/kydlabs",
+      "linkedin": "https://linkedin.com/company/kydlabsco"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Enrichly",
+    "website": "https://enrichly.world/",
+    "description": "Enrichly offers youth development courses virtually and in-person to elementary, middle, and high school students that aim to increase self-esteem and confidence.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/enrich_ly",
+      "linkedin": "https://linkedin.com/company/enrich-ly",
+      "facebook": "https://facebook.com/YouthEnrichments"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Dovey",
+    "website": "https://doveydates.com/",
+    "description": "Virtual dates for couples that meet in online communities.",
+    "location": "Jackson Springs, North Carolina, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dovey",
+      "facebook": "https://facebook.com/LDR-Dates-100809911924068"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Pivan Interactive",
+    "website": "https://pivaninteractive.com/",
+    "description": "Pivan (dba Uncanny.gg) turns streamers into pro-broadcasters by providing AI as their production team.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/uncanny_gg",
+      "linkedin": "https://linkedin.com/company/pivan-interactive-inc",
+      "facebook": "https://facebook.com/pivaninteractive/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "A-Champs",
+    "website": "https://a-champs.com/",
+    "description": "A-Champs develops interactive, gamified and sports-science based training solutions for people of all ages and fitness levels.",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/achampsofficial",
+      "linkedin": "https://linkedin.com/company/a-champs",
+      "facebook": "https://facebook.com/AChampsOfficial/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Zoog",
+    "website": "https://getzoog.com/",
+    "description": "Zoog is an asynchronous-first communication platform for families, powered by immersive AR content and activities.",
+    "location": "Even Yehuda, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/zooghq",
+      "linkedin": "https://linkedin.com/company/zooghq",
+      "facebook": "https://facebook.com/zoogHQ/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "The Fan's Place",
+    "website": "https://thefansplace.com/",
+    "description": "The Fan's Place is a Customer Loyalty Platform where bars & restaurants use a unique, fantasy sports-based rewards program to engage their patrons and give them a free shot at real cash prizes.",
+    "location": "Indianapolis, Indiana, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/56451527",
+      "facebook": "https://facebook.com/thefansplace"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Sportsicon",
+    "website": "https://sportsicon.co/",
+    "description": "Connect with the greatest sportspeople of all time through NFTs.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/SportsIcon_",
+      "linkedin": "https://linkedin.com/company/sportsicon",
+      "facebook": "https://facebook.com/SportsIcon.co/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "LootLocker",
+    "website": "https://lootlocker.io/",
+    "description": "LootLocker is the cross-platform game backend-as-a-service that lets you build, ship & run your best games.",
+    "location": "Stockholm, Sweden",
+    "social_media": {
+      "twitter": "https://twitter.com/MyLootLocker",
+      "linkedin": "https://linkedin.com/company/lootlocker"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Local Sports Network",
+    "website": "https://localsports.network/",
+    "description": "Local Sports Network strengthens ties between sports teams, fans, and athletes.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/localsports_net",
+      "linkedin": "https://linkedin.com/company/local-sports-network",
+      "facebook": "https://facebook.com/localsportsnetwork"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "LeagueOS",
+    "website": "https://leagueos.gg/",
+    "description": "Organize and monetize esports for free, all in one system.",
+    "location": "Saint Louis Park, Minnesota, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/leagueos"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Lawyerd!",
+    "website": "https://lawyerd.net/",
+    "description": "Eliminate the scammers making money with your IP",
+    "location": "Wrocław, Poland",
+    "social_media": {
+      "twitter": "https://twitter.com/Lawyerd_net",
+      "linkedin": "https://linkedin.com/company/lawyerd-llc",
+      "facebook": "https://facebook.com/Lawyerd"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "KeepWOL",
+    "website": "https://keepwol.com/",
+    "description": "Improving employee engagement and retention using games.",
+    "location": "Phoenix, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/playkeepwol",
+      "linkedin": "https://linkedin.com/company/keepwol",
+      "facebook": "https://facebook.com/PlayKeepWOL"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Holodia",
+    "website": "https://holodia.com/",
+    "description": "Holodia's platform, HOLOFIT, is an immersive, hardware agnostic, connected FitTech platform that merges gaming and fitness leading to increased user engagement.",
+    "location": "Zürich, Switzerland",
+    "social_media": {
+      "twitter": "https://twitter.com/holodiavr",
+      "linkedin": "https://linkedin.com/company/holodia",
+      "facebook": "https://facebook.com/holodiavr"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "GRIND Interactive",
+    "website": "https://grindbasketball.com/",
+    "description": "GRIND has developed the first portable rebounding machine enabling optimal daily repetition to reach peak performance.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GrindBasketbal",
+      "linkedin": "https://linkedin.com/company/grind-inc.",
+      "facebook": "https://facebook.com/grindspaces"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "CINEVVA",
+    "website": "https://cinevva.com/",
+    "description": "Cinevva - Turning Creatives Without Tech Skills Into Game Makers",
+    "location": "The Woodlands, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cinevvagames",
+      "linkedin": "https://linkedin.com/company/cinevva",
+      "facebook": "https://facebook.com/cinevvagames/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Kiri",
+    "website": "https://kiritoys.com/",
+    "description": "For parents with young children whom they want to learn a second language, our smart toy provides a multisensory learning experience that teaches kids English, Mandarin and Spanish through play. We teach 46 subjects in all 3 languages.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kiritoys",
+      "facebook": "https://facebook.com/kiritoys.co/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Overture Games",
+    "website": "https://overture.games/",
+    "description": "For beginner music students, Overture makes audio-responsive video gaming with real-time feedback to make music practicing fun",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/overture-games"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "immersionED",
+    "website": "https://immersioned.org/",
+    "description": "For humanities teachers looking to keep their students engaged, immersionED creates immersive learning video games tailored to the AP curriculum.",
+    "location": "Greenwich, Connecticut, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/immersioned"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Marionette Aps",
+    "website": "https://marionettexr.com/",
+    "description": "High-quality but cost efficient motion capture using AI",
+    "location": "København, Denmark",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/marionette-xr",
+      "facebook": "https://facebook.com/marionetteXR"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Electronic Gaming Federation",
+    "website": "https://egfederation.com/",
+    "description": "The Electronic Gaming Federation organizes and produces college esports.",
+    "location": "Rochester, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/officialegf",
+      "linkedin": "https://linkedin.com/company/electronic-gaming-federation",
+      "facebook": "https://facebook.com/egfederation"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "TEST JAR LABS",
+    "website": "https://testjarlabs.com/",
+    "description": "A future focused experimentation brand with an emphasis on tech and entertainment.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ki5cd7v4ge3mkgug0e6t",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/testjarlabs",
+      "linkedin": "https://linkedin.com/company/testjarlabs"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Ephere Football",
+    "website": "https://ephere.football/",
+    "description": "Empowering blockchain gaming experiences for football fans.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/yujabx5g1ywjpbmfpprh",
+    "location": "Montevideo, Uruguay",
+    "social_media": {
+      "twitter": "https://twitter.com/ephere_football",
+      "linkedin": "https://linkedin.com/company/epherefootball",
+      "facebook": "https://facebook.com/epherefootball"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Column",
+    "website": "https://joincolumn.com/",
+    "description": "A new social network that puts users in control of their content",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/rxnrqjudvhrnnb8jboba",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/column-inc"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Synervoz Communications",
+    "website": "https://synervoz.com/",
+    "description": "Using cutting edge audio technologies to enable spontaneous voice chat.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/synervoz",
+      "linkedin": "https://linkedin.com/company/synervoz-communications-inc.",
+      "facebook": "https://facebook.com/Switchboard/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "freeWriter",
+    "website": "https://freewrtr.com/",
+    "description": "Ai-guided, gamified writing muse for novice writers and story tellers.",
+    "location": "Grand Rapids, Michigan, United States",
+    "social_media": {},
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Voxon Photonics",
+    "website": "https://voxon.co/",
+    "description": "Voxon Photonics are creators of the Voxon VX1 - the world's most advanced three-dimensional (3D) volumetric display.",
+    "location": "Adelaide, South Australia, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/voxonphotonics",
+      "linkedin": "https://linkedin.com/company/18092360",
+      "facebook": "https://facebook.com/voxivision"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Proxi",
+    "website": "https://proxi.co/",
+    "description": "Proxi powers the future of personalized navigation by making mapping for everyone.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Proxi_Co",
+      "linkedin": "https://linkedin.com/company/proxi-co",
+      "facebook": "https://facebook.com/ProxiMaps"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Capoom",
+    "website": "https://capoom.com/",
+    "description": "Capoom is a software company developing AI based automatic 3d modeling software.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/irk4bkrls8rlqrqwd7ci",
+    "location": "Ann Arbor, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/capoom"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Playpower Labs",
+    "website": "https://playpowerlabs.com/",
+    "description": "Making math interactive and engaging",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/playpower",
+      "linkedin": "https://linkedin.com/company/playpower-labs",
+      "facebook": "https://facebook.com/Playpower"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "The Tap Lab",
+    "website": "https://thetaplab.com/",
+    "description": "Location-based mobile gaming",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thetaplab",
+      "linkedin": "https://linkedin.com/company/the-tap-lab",
+      "facebook": "https://facebook.com/TinyTycoons"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "CheckIO",
+    "website": "https://checkio.org/",
+    "description": "The game for coders",
+    "location": "Las Vegas, Nevada, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PlayCheckiO",
+      "linkedin": "https://linkedin.com/company/checkio",
+      "facebook": "https://facebook.com/PlayCheckiO"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Prediculous",
+    "website": "https://prediculous.com/",
+    "description": "Casual social sports game for all fans",
+    "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/167795-2f04e46c4a6abf54ca8883353c9196ae-thumb_jpg.jpg?buster=1360655512",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PrediculousGame",
+      "linkedin": "https://linkedin.com/company/1485493",
+      "facebook": "https://facebook.com/prediculous/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Staq",
+    "website": "https://staq.io/",
+    "description": "Staq is a backend-as-a-service for games. We make it simple to monetize and optimize free to play games on mobile, web and consoles.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GetStaq",
+      "linkedin": "https://linkedin.com/company/staq-inc-",
+      "facebook": "https://facebook.com/GetStaq"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "EMOTAI",
+    "website": "https://emotai.tech/",
+    "description": "Boosting gamers' performance using neurotechnology.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cn17u6ub4fn3ppbuunbn",
+    "location": "Lisbon, Portugal",
+    "social_media": {
+      "twitter": "https://twitter.com/emotai_tech",
+      "linkedin": "https://linkedin.com/company/emotai",
+      "facebook": "https://facebook.com/EmotAI.tech/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Xpand",
+    "website": "https://linkedin.com/company/xpandgaming",
+    "description": "Xpand is a community-engagement platform for the web3 world.",
+    "location": "Winston-Salem, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/xpandgaming",
+      "linkedin": "https://linkedin.com/company/xpandgaming",
+      "facebook": "https://facebook.com/XPAND-Gaming-100179724707035/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "World Blender",
+    "website": "https://linkedin.com/company/1436317",
+    "description": "Social, location-based games",
+    "location": "Tahoe Vista, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/worldblender",
+      "linkedin": "https://linkedin.com/company/1436317",
+      "facebook": "https://facebook.com/pages/World-Blender/162987203724867"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "SweatFlex",
+    "website": "https://linkedin.com/company/flexintl",
+    "description": "We make working out not suck. Laugh & sweat through our classes while we track your reps to compete with the community. Powered by your Apple Watch.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/flexsweat",
+      "linkedin": "https://linkedin.com/company/flexintl",
+      "facebook": "https://facebook.com/FlexCorporate"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Studio",
+    "website": "https://linkedin.com/company/studio-official",
+    "description": "Studio is an online audio and media company that offers online training to cultivate the creative side in the field of music.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wearestudio",
+      "linkedin": "https://linkedin.com/company/studio-official",
+      "facebook": "https://facebook.com/Studio/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Split Gym",
+    "website": "https://linkedin.com/company/69429318",
+    "description": "A mobile app that allows users to rent someone's fitness membership or sell their own.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/69429318",
+      "facebook": "https://facebook.com/splitgym/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "SpectatAR",
+    "website": "https://linkedin.com/company/13062555",
+    "description": "Blackwolf Labs",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/spectatar",
+      "linkedin": "https://linkedin.com/company/13062555",
+      "facebook": "https://facebook.com/Spectatar-2249518738654092"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "SilverBack",
+    "website": "https://linkedin.com/company/silverback.ai",
+    "description": "The Ultimate Business Intelligence Solution For E-Commerce Marketplaces",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/company/silverback.ai",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Sidelines",
+    "website": "https://linkedin.com/company/sidelines",
+    "description": "Sidelines is people-powered content marketing, distributing posts written by an exclusive community of expert writers and informed enthusiasts.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SidelinesApp",
+      "linkedin": "https://linkedin.com/company/sidelines",
+      "facebook": "https://facebook.com/sidelinesapp"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Shotcall",
+    "website": "https://linkedin.com/company/shotcall",
+    "description": "Platform and marketplace for fans to play games with their favorite people",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ShotcallGG",
+      "linkedin": "https://linkedin.com/company/shotcall",
+      "facebook": "https://facebook.com/shotcallgg"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Reveler",
+    "website": "https://linkedin.com/company/goreveler",
+    "description": "We connect fans & venues to create digital sports experiences IRL.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/reveler_app",
+      "linkedin": "https://linkedin.com/company/goreveler",
+      "facebook": "https://facebook.com/goReveler/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Red Fox Insights",
+    "website": "https://linkedin.com/company/red-fox-clan",
+    "description": "Red Fox Insights is a research firm that provides authentic access to the gaming community.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/redfoxinsights",
+      "linkedin": "https://linkedin.com/company/red-fox-clan",
+      "facebook": "https://facebook.com/redfoxclancommunity"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Reach Robotics",
+    "website": "https://linkedin.com/company/reachrobotics",
+    "description": "Intelligent gaming robots at the intersection of consumer robotics, augmented reality and video gaming.",
+    "location": "Bristol, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Reachrobotics",
+      "linkedin": "https://linkedin.com/company/reachrobotics",
+      "facebook": "https://facebook.com/reachroboticsltd"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "PowerSpike",
+    "website": "https://linkedin.com/company/10202714",
+    "description": "Give developers, publishers, and brands the tools needed to create an influencer program from scratch, and empower streamers to turn their passion for content creation into a lifestyle business through paid sponsorships.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PowerSpike_",
+      "linkedin": "https://linkedin.com/company/10202714",
+      "facebook": "https://facebook.com/PowerSpikeTV/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "PlayFull",
+    "website": "https://linkedin.com/company/3680453",
+    "description": "PlayFull has built a mobile game and CRM that helps the largest restaurant brands in the world engage customers and increase sales",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/playfull",
+      "linkedin": "https://linkedin.com/company/3680453",
+      "facebook": "https://facebook.com/beplayfull/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Platera",
+    "website": "https://linkedin.com/company/platera",
+    "description": "An psychology-based personalization engine to help companies turn freemium/ free trial uses into paying clients.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ixi5podgfsc6ff5fwen2",
+    "location": "Ramat Gan, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/platera"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "PayPeanuts",
+    "website": "https://linkedin.com/company/paypeanuts-ltd",
+    "description": "Marketplace for zero-marginal-cost-goods.",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/pay_peanuts",
+      "linkedin": "https://linkedin.com/company/paypeanuts-ltd",
+      "facebook": "https://facebook.com/paypeanutsfi/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Midgame",
+    "website": "https://linkedin.com/company/midgame",
+    "description": "Voice assistant for gamers.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/midgamegg",
+      "linkedin": "https://linkedin.com/company/midgame"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Lifekind",
+    "website": "https://linkedin.com/company/rivaltheory",
+    "description": "An artificial intelligence company working in games, film, and interactive media",
+    "location": "Marina del Rey, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RivalTheory",
+      "linkedin": "https://linkedin.com/company/rivaltheory",
+      "facebook": "https://facebook.com/LifekindAI/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Indoor Collective",
+    "website": "https://linkedin.com/company/indoor-collective",
+    "description": "Indoor Collective is a software development company that specializes in the production of rowing apps for interactive workouts.",
+    "location": "Winthrop, Washington, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/indoor-collective",
+      "facebook": "https://facebook.com/indoorcollective/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "IBrainy",
+    "website": "https://linkedin.com/company/ibrainy",
+    "description": "iBrainy provides cognitive stimulation to older adults and empowers them to learn, connect and feel relevant again, through interactive and accessible games, courses & community features.",
+    "location": "Kefar Saba, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ibrainy"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "HipFire Games",
+    "website": "https://linkedin.com/company/25061410",
+    "description": "Ex-Supercell and Rovio developers who aim to build the biggest multiplayer games portal. A service that combines multiplayer games with social interaction.",
+    "location": "Helsinki, Finland",
+    "social_media": {
+      "twitter": "https://twitter.com/hipfiregames",
+      "linkedin": "https://linkedin.com/company/25061410",
+      "facebook": "https://facebook.com/hipfiregames"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Heartbeat",
+    "website": "https://linkedin.com/company/heartbeat",
+    "description": "Heartbeat powers the worlds largest nano-influencer campaigns through its marketplace.",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getheartbeatapp",
+      "linkedin": "https://linkedin.com/company/heartbeat",
+      "facebook": "https://facebook.com/getheartbeat"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Haste",
+    "website": "https://linkedin.com/company/haste-esports-",
+    "description": "Haste is a private network service that optimizes the Internet for people engaged in live, interactive experiences.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Haste_Esports",
+      "linkedin": "https://linkedin.com/company/haste-esports-",
+      "facebook": "https://facebook.com/hastegaming"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "GameWisp",
+    "website": "https://linkedin.com/company/gamewisp-inc-",
+    "description": "Monetization platform for gaming video celebrities",
+    "location": "Nashville, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gameWisp",
+      "linkedin": "https://linkedin.com/company/gamewisp-inc-",
+      "facebook": "https://facebook.com/gamewisp"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Gamefuly",
+    "website": "https://linkedin.com/company/gamefuly",
+    "description": "All-in-one content studio for gamers to create, manage, and share video game content with their audience.",
+    "location": "Newark, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gamefuly",
+      "linkedin": "https://linkedin.com/company/gamefuly",
+      "facebook": "https://facebook.com/gamefuly"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Freeplay App",
+    "website": "https://linkedin.com/company/17955731",
+    "description": "Move Ollie is a fitness game to help people 55 and older exercise more.",
+    "location": "Lehi, Utah, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/17955731",
+      "facebook": "https://facebook.com/freeplayapp"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Fish Bowl VR",
+    "website": "https://linkedin.com/company/fish-bowl-vr",
+    "description": "Testing and Analytics for Virtual Reality",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FishBowlVR",
+      "linkedin": "https://linkedin.com/company/fish-bowl-vr",
+      "facebook": "https://facebook.com/pages/Fish-Bowl/552400868236649"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "FantasyHub",
+    "website": "https://linkedin.com/company/fantasyhub",
+    "description": "Daily fantasy sports for charity",
+    "location": "Louisville, Kentucky, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FantasyHub",
+      "linkedin": "https://linkedin.com/company/fantasyhub",
+      "facebook": "https://facebook.com/http://fb.com/fantasyhub"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "F2K",
+    "website": "https://linkedin.com/company/f2k-gaming",
+    "description": "F2K aggregates streamers into our network enabling their content to be monetized. We use their reach as an engine to drive our owned and operated products.",
+    "location": "Saint Peters, Guernsey",
+    "social_media": {
+      "twitter": "https://twitter.com/Fade2Karma",
+      "linkedin": "https://linkedin.com/company/f2k-gaming",
+      "facebook": "https://facebook.com/Fade2Karma/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Dodo Smart",
+    "website": "https://linkedin.com/company/dodo-smart",
+    "description": "Dodo smart is creating a platform with playful learning experience for preschool children in Arabic.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/DodoSmart_",
+      "linkedin": "https://linkedin.com/company/dodo-smart",
+      "facebook": "https://facebook.com/dodosmart1/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Crescendo",
+    "website": "https://linkedin.com/company/crescendomusic",
+    "description": "Crescendo is an AI-powered interactive music trainer that facilitates focused practice and immediate feedback.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/CrescendoWork",
+      "linkedin": "https://linkedin.com/company/crescendomusic",
+      "facebook": "https://facebook.com/crescendowork/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Creative Brain Studios",
+    "website": "https://linkedin.com/in/bookergames",
+    "description": "Social game engine developer",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bookergames",
+      "linkedin": "https://linkedin.com/in/bookergames"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "CoolChip Technologies",
+    "website": "https://linkedin.com/company/coolchip-technologies",
+    "description": "CoolChip Technologies, Inc. is the worldwide leader in Kinetic Cooling, a product category transforming the electronics cooling industry",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CoolChipTech",
+      "linkedin": "https://linkedin.com/company/coolchip-technologies",
+      "facebook": "https://facebook.com/CoolchipTechnologies"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Circletime Interactive",
+    "website": "https://linkedin.com/company/circletimefun",
+    "description": "Circletime makes online learning for kids socially interactive. Parents see their kids develop artistically, build literacy skills, and so much more.",
+    "location": "Rio de Janeiro, Rio de Janeiro, Brazil",
+    "social_media": {
+      "twitter": "https://twitter.com/Circleti_me",
+      "linkedin": "https://linkedin.com/company/circletimefun",
+      "facebook": "https://facebook.com/CircletimeFun/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "BeyondRanked",
+    "website": "https://linkedin.com/company/74326757",
+    "description": "BeyondRanked is a platform for booking and managing commentators.",
+    "location": "Indianapolis, Indiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/BeyondRanked",
+      "linkedin": "https://linkedin.com/company/74326757"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Audience",
+    "website": "https://linkedin.com/company/spark-dj-inc-",
+    "description": "Audience is an audio-visual music platform that allows curators to earn money building robot DJs that play new artists music.",
+    "location": "Newport Beach, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/joinaudience",
+      "linkedin": "https://linkedin.com/company/spark-dj-inc-",
+      "facebook": "https://facebook.com/SparkDJinc"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Music Mania Games",
+    "website": "https://linkedin.com/company/music-games-company",
+    "description": "We make products at the intersection of music and gaming. Fun, enjoyable experiences that leave a great taste in your mind, and keep you coming back for more.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/musicgamesco",
+      "linkedin": "https://linkedin.com/company/music-games-company",
+      "facebook": "https://facebook.com/MusicGamesCo"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Neon Wild",
+    "website": "https://linkedin.com/company/neon-wild",
+    "description": "Neon Wild transforms any child into a custom avatar as the star of immersive stories and games.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/neon__wild",
+      "linkedin": "https://linkedin.com/company/neon-wild",
+      "facebook": "https://facebook.com/TheNeonWild/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  },
+  {
+    "name": "Anything World",
+    "website": "https://linkedin.com/company/anything-world",
+    "description": "A platform to create worlds powered by voice and populated with anything you can think of - with AI behaviours applied!",
+    "location": "Horsham, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/_AnythingWorld",
+      "linkedin": "https://linkedin.com/company/anything-world",
+      "facebook": "https://facebook.com/Anything.World.Worldwide/"
+    },
+    "industry": "Gaming",
+    "industry_slug": "gaming"
+  }
+]

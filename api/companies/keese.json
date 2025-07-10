@@ -1,0 +1,23 @@
+{
+  "name": "Keese",
+  "slug": "keese",
+  "website": "https://linkedin.com/company/keese-finance",
+  "description": "Keese makes personal financial management easier across borders.",
+  "one_liner": "Keese makes personal financial management easier across borders.",
+  "location": "Tel Aviv, Israel",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/keese-finance",
+    "facebook": "https://facebook.com/groups/323363431958149/about"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/keese",
+  "api": "/api/companies/keese.json"
+}

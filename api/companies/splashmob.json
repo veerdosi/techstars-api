@@ -1,0 +1,23 @@
+{
+  "name": "splashmob",
+  "slug": "splashmob",
+  "website": "https://splashmob.app/",
+  "description": "Splashmob is a self-serve platform for creating custom, interactive, real-time second-screen experiences for concerts, live streaming, broadcast, sports and radio.",
+  "one_liner": "Splashmob is a self-serve platform for creating custom, interactive, real-time second-screen experiences for concerts, live streaming, broadcast, sports and radio.",
+  "location": "Santa Monica, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SplashmobApp",
+    "linkedin": "https://linkedin.com/company/splashmob"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/splashmob",
+  "api": "/api/companies/splashmob.json"
+}

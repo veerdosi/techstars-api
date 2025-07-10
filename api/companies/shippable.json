@@ -1,0 +1,24 @@
+{
+  "name": "Shippable",
+  "slug": "shippable",
+  "website": "https://shippable.com/",
+  "description": "Ship code faster",
+  "one_liner": "Ship code faster",
+  "location": "Bellevue, Washington, United States",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/BeShippable",
+    "linkedin": "https://linkedin.com/company/shippable",
+    "facebook": "https://facebook.com/beShippable"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/shippable",
+  "api": "/api/companies/shippable.json"
+}

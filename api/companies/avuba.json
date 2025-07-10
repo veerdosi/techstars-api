@@ -1,0 +1,24 @@
+{
+  "name": "Avuba",
+  "slug": "avuba",
+  "website": "https://linkedin.com/company/avuba",
+  "description": "It's the simplest, smartest, and most convenient bank account in Europe",
+  "one_liner": "It's the simplest, smartest, and most convenient bank account in Europe",
+  "location": "Berlin, Germany",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/avuba",
+    "linkedin": "https://linkedin.com/company/avuba",
+    "facebook": "https://facebook.com/avuba"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/avuba",
+  "api": "/api/companies/avuba.json"
+}

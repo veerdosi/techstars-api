@@ -1,0 +1,23 @@
+{
+  "name": "Fire Memos",
+  "slug": "fire-memos",
+  "website": "https://linkedin.com/company/fire-memos",
+  "description": "Fire Memos is a SaaS platform that empowers employees to record and recognize their work accomplishments.",
+  "one_liner": "Fire Memos is a SaaS platform that empowers employees to record and recognize their work accomplishments.",
+  "location": "Redondo Beach, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/firememos",
+    "linkedin": "https://linkedin.com/company/fire-memos"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/fire-memos",
+  "api": "/api/companies/fire-memos.json"
+}

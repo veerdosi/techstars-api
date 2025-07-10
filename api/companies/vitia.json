@@ -1,0 +1,24 @@
+{
+  "name": "VITia",
+  "slug": "vitia",
+  "website": "https://vitiacare.com/",
+  "description": "VITiaCARE helps patients to better manage their chronic conditions through personalized solutions, AI insights, and rewards.",
+  "one_liner": "VITiaCARE helps patients to better manage their chronic conditions through personalized solutions, AI insights, and rewards.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Digital health",
+  "industry_slug": "digital-health",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/VITiaCARE",
+    "linkedin": "https://linkedin.com/company/vitiacare",
+    "facebook": "https://facebook.com/vitiacare"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/vitia",
+  "api": "/api/companies/vitia.json"
+}

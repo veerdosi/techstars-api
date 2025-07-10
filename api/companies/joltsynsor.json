@@ -1,0 +1,20 @@
+{
+  "name": "Joltsynsor",
+  "slug": "joltsynsor",
+  "website": "https://joltsynsor.com/",
+  "description": "Develop digital nerve system for superior sensing",
+  "one_liner": "Develop digital nerve system for superior sensing",
+  "location": "Cambridge, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/joltsynsor",
+  "api": "/api/companies/joltsynsor.json"
+}

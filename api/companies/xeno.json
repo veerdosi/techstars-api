@@ -1,0 +1,24 @@
+{
+  "name": "Xeno",
+  "slug": "xeno",
+  "website": "https://xeno.in/",
+  "description": "Make your loyalty program your company's greatest asset",
+  "one_liner": "Make your loyalty program your company's greatest asset",
+  "location": "New Delhi, India",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/xenohq",
+    "linkedin": "https://linkedin.com/company/xenouganda",
+    "facebook": "https://facebook.com/xenohq"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/xeno",
+  "api": "/api/companies/xeno.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Turing School",
+  "slug": "turing-school",
+  "website": "https://turing.edu/",
+  "description": "Turing School unlocks human potential by training a diverse and inclusive student body to succeed in high fulfillment technical careers.",
+  "one_liner": "Turing School unlocks human potential by training a diverse and inclusive student body to succeed in high fulfillment technical careers.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Edtech",
+  "industry_slug": "edtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/turingschool",
+    "linkedin": "https://linkedin.com/school/turingschool",
+    "facebook": "https://facebook.com/turingschool/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/turing-school",
+  "api": "/api/companies/turing-school.json"
+}

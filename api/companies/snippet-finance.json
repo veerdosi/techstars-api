@@ -1,0 +1,22 @@
+{
+  "name": "Snippet Finance",
+  "slug": "snippet-finance",
+  "website": "https://snippetfinance.com/",
+  "description": "FinTech / HR Tech platform, providing financial health education and salary-deductible loans as an HR benefit plan.",
+  "one_liner": "FinTech / HR Tech platform, providing financial health education and salary-deductible loans as an HR benefit plan.",
+  "location": "Delaware City, Delaware, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/snippetfinance"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/snippet-finance",
+  "api": "/api/companies/snippet-finance.json"
+}

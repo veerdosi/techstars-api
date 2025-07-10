@@ -1,0 +1,24 @@
+{
+  "name": "Progress Innovation",
+  "slug": "progress-innovation",
+  "website": "https://linkedin.com/company/781984",
+  "description": "User experience analytics",
+  "one_liner": "User experience analytics",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/usermojo",
+    "linkedin": "https://linkedin.com/company/781984",
+    "facebook": "https://facebook.com/pages/Demoing/244588897306"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/progress-innovation",
+  "api": "/api/companies/progress-innovation.json"
+}

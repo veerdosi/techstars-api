@@ -1,0 +1,24 @@
+{
+  "name": "Roomkast",
+  "slug": "roomkast",
+  "website": "https://roomkast.com/",
+  "description": "Roomkast is a profile-matching tool for people who see the value in co-sharing a place to live.",
+  "one_liner": "Roomkast is a profile-matching tool for people who see the value in co-sharing a place to live.",
+  "location": "Copenhagen, Denmark",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/roomkast",
+    "linkedin": "https://linkedin.com/company/roomkast",
+    "facebook": "https://facebook.com/people/Rooms-Apartments-in-Copenhagen/100071959841465/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/roomkast",
+  "api": "/api/companies/roomkast.json"
+}

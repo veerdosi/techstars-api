@@ -1,0 +1,24 @@
+{
+  "name": "Hurry Home",
+  "slug": "hurry-home",
+  "website": "https://linkedin.com/company/hurry-home",
+  "description": "Hurry Home finances houses through shared ownership, enabling renters to become homeowners and offering a streamlined investment opportunity.",
+  "one_liner": "Hurry Home finances houses through shared ownership, enabling renters to become homeowners and offering a streamlined investment opportunity.",
+  "location": "South Bend, Indiana, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/HurryHomeInc",
+    "linkedin": "https://linkedin.com/company/hurry-home",
+    "facebook": "https://facebook.com/HurryHomeInc/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/hurry-home",
+  "api": "/api/companies/hurry-home.json"
+}

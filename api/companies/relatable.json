@@ -1,0 +1,24 @@
+{
+  "name": "Relatable",
+  "slug": "relatable",
+  "website": "https://relatable.io/",
+  "description": "Relatable is a b2b business intelligence company that makes information on medical devices and supplies accessible, insightful, and useful.",
+  "one_liner": "Relatable is a b2b business intelligence company that makes information on medical devices and supplies accessible, insightful, and useful.",
+  "location": "Nashville, Tennessee, United States",
+  "industry": "Healthtech",
+  "industry_slug": "healthtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/askrelatable",
+    "linkedin": "https://linkedin.com/company/relatablehealthcare",
+    "facebook": "https://facebook.com/relatable.me/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/relatable",
+  "api": "/api/companies/relatable.json"
+}

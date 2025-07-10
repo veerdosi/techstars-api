@@ -1,0 +1,24 @@
+{
+  "name": "RealAR",
+  "slug": "realar",
+  "website": "https://linkedin.com/company/realar",
+  "description": "RealAR is an Augmented Real Estate app that helps people spatially visualize new and inaccessible property as real size walkthroughs before it's built.",
+  "one_liner": "RealAR is an Augmented Real Estate app that helps people spatially visualize new and inaccessible property as real size walkthroughs before it's built.",
+  "location": "Gold Coast, Queensland, Australia",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/realarspaces",
+    "linkedin": "https://linkedin.com/company/realar",
+    "facebook": "https://facebook.com/realarspaces"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/realar",
+  "api": "/api/companies/realar.json"
+}

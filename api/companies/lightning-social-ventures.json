@@ -1,0 +1,24 @@
+{
+  "name": "Lightning Social Ventures",
+  "slug": "lightning-social-ventures",
+  "website": "https://lightningreach.org/",
+  "description": "Enabling charities and public sector organisations to quickly verify and process financial support applications for millions of people in financial hardship.",
+  "one_liner": "Enabling charities and public sector organisations to quickly verify and process financial support applications for millions of people in financial hardship.",
+  "location": "London, United Kingdom",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/lightningreach",
+    "linkedin": "https://linkedin.com/company/lightning-social-ventures",
+    "facebook": "https://facebook.com/lightningreach"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lightning-social-ventures",
+  "api": "/api/companies/lightning-social-ventures.json"
+}

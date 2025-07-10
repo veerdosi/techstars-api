@@ -1,0 +1,23 @@
+{
+  "name": "ILUMA",
+  "slug": "iluma",
+  "website": "https://linkedin.com/company/ilumaai",
+  "description": "ILUMA is the AI copilot for C-level & team leads that acts as your eyes and ears inside your company - identifying problems before they occur and helping you make the right decision every time.",
+  "one_liner": "ILUMA is the AI copilot for C-level & team leads that acts as your eyes and ears inside your company - identifying problems before they occur and helping you make the right decision every time.",
+  "location": "Carmel Valley, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Iluma_xyz",
+    "linkedin": "https://linkedin.com/company/ilumaai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/iluma",
+  "api": "/api/companies/iluma.json"
+}

@@ -1,0 +1,4149 @@
+[
+  {
+    "name": "OpenLoop",
+    "website": "https://openloophealth.com/",
+    "description": "OpenLoop is a health-tech solution that intelligently matches healthcare providers with practices or hospitals seeking a quick and efficient staffing solution.",
+    "location": "Iowa City, Iowa, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/openloophealth",
+      "linkedin": "https://linkedin.com/company/openloophealth",
+      "facebook": "https://facebook.com/openloophealth/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Quantive",
+    "website": "https://quantive.com/",
+    "description": "Gtmhub helps companies undergoing high growth or managing significant change to adopt and manage Objectives and Key Results (OKRs), supported by real-time KPIs.",
+    "location": "Sofia, Bulgaria",
+    "social_media": {
+      "twitter": "https://twitter.com/quantive_inc",
+      "linkedin": "https://linkedin.com/company/gtmhub",
+      "facebook": "https://facebook.com/quantive.inc"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "One Model",
+    "website": "https://onemodel.co/",
+    "description": "A talent analytics accelerator for human resources departments.",
+    "location": "San Antonio, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/OneModelHR",
+      "linkedin": "https://linkedin.com/company/onemodel"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Pilot",
+    "website": "https://pilotfiber.com/",
+    "description": "Pilot keeps businesses connected with internet that's fast, reliable, and backed by the best customer experience in telecom.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pilotfiber",
+      "linkedin": "https://linkedin.com/company/pilot",
+      "facebook": "https://facebook.com/pilotfiber"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Revelio Labs",
+    "website": "https://reveliolabs.com/",
+    "description": "Revelio Labs provides an in-depth view into the workforces of companies around the world.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RevelioLabs",
+      "linkedin": "https://linkedin.com/company/revelio-labs"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Blink",
+    "website": "https://joinblink.com/",
+    "description": "Intelligence at work",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/joinblink",
+      "linkedin": "https://linkedin.com/company/blink-d-o-o-",
+      "facebook": "https://facebook.com/blinkdotla"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "TiLT",
+    "website": "https://hellotilt.com/",
+    "description": "TiLT is reimagining Leave Management.",
+    "location": "Fort Collins, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hello_tilt",
+      "linkedin": "https://linkedin.com/company/ourtilt",
+      "facebook": "https://facebook.com/tilt"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Hackajob",
+    "website": "https://hackajob.co/",
+    "description": "Hackajob is an online marketplace that matches technical candidates directly with employers and then the candidates apply by completing job-specific challenges.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/hackajob_co",
+      "linkedin": "https://linkedin.com/company/hackajob",
+      "facebook": "https://facebook.com/hackajob/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Involve",
+    "website": "https://involvesoft.com/",
+    "description": "employee engagement through volunteering",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/involvesoft",
+      "linkedin": "https://linkedin.com/company/involvesoft",
+      "facebook": "https://facebook.com/involvesoft/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Slang",
+    "website": "https://slang.ai/",
+    "description": "Replacing outdated modes of user interaction with easy-to-use, intelligent, and voice-enabled virtual assistants built for industry-specific use cases.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sambvani",
+      "linkedin": "https://linkedin.com/company/slang-ai",
+      "facebook": "https://facebook.com/SlangEspanol"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "TransCrypts",
+    "website": "https://transcrypts.com/",
+    "description": "TransCrypts is a tool for Human Resource Departments to automate the issuance of employment and income verification documents using the blockchain.",
+    "location": "Newark, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/transcrypts_",
+      "linkedin": "https://linkedin.com/company/transcrypts",
+      "facebook": "https://facebook.com/transcrypts/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Altru",
+    "website": "https://altrulabs.com/",
+    "description": "Altru's video Q&A platform allows companies to share their story through their employees.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/altrulabs",
+      "linkedin": "https://linkedin.com/company/altrucrew",
+      "facebook": "https://facebook.com/altrulabs/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Rallyware",
+    "website": "https://rallyware.com/",
+    "description": "Driving action for the enterprise",
+    "location": "Mountain View, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rallywareSF",
+      "linkedin": "https://linkedin.com/company/rallyware",
+      "facebook": "https://facebook.com/rallyware"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Mainstay",
+    "website": "https://admithub.com/",
+    "description": "AdmitHub provides virtual college counseling to students, and helps colleges connect with prospects like never before",
+    "location": "Arlington, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/admithub",
+      "linkedin": "https://linkedin.com/company/heymainstay",
+      "facebook": "https://facebook.com/admithub"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Gable",
+    "website": "https://gable.to/",
+    "description": "Gable connects companies and their employees to flexible, scalable, and cost-effective hybrid offices.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gable_inc",
+      "linkedin": "https://linkedin.com/company/gable-inc",
+      "facebook": "https://facebook.com/gable.inc"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Hireguide",
+    "website": "https://hireguide.com/",
+    "description": "Plan and transcribe structured interviews with ease so you can hire the right person faster, fairer, and with certainty.",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hireguide_com",
+      "linkedin": "https://linkedin.com/company/hireguide-com"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Raenest",
+    "website": "https://raenest.com/",
+    "description": "Modern financial management tool for African remote workforce talent and global businesses.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/g4wrr9ez4yjz0hi5gltf",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/raenesthq",
+      "linkedin": "https://linkedin.com/company/raenest"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "AceUp",
+    "website": "https://ace-up.com/",
+    "description": "AceUp delivers personalized executive coaching to connect employees with their full-potential.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AceUpOfficial",
+      "linkedin": "https://linkedin.com/company/aceup",
+      "facebook": "https://facebook.com/aceupofficial/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Motivo",
+    "website": "https://wearemotivo.com/",
+    "description": "Motivo is an online platform that helps mental health therapists get credentialed in a faster, easier way.",
+    "location": "Chattanooga, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wearemotivo",
+      "linkedin": "https://linkedin.com/company/motivohealth",
+      "facebook": "https://facebook.com/wearemotivo/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Gig Wage",
+    "website": "https://gigwage.com/",
+    "description": "Modern 1099 gig payments for the future of work.",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GigWage",
+      "linkedin": "https://linkedin.com/company/gigwage",
+      "facebook": "https://facebook.com/gigwage"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Parabol",
+    "website": "https://parabol.co/",
+    "description": "We enable enterprises to operate teams across time zones by running incredible meetings, building a timeline of important decisions, and generating reports",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/parabolco",
+      "linkedin": "https://linkedin.com/company/parabol",
+      "facebook": "https://facebook.com/parabolco/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Edvisor",
+    "website": "https://edvisor.io/",
+    "description": "School and Agency Collaboration For the 21st Century",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/Edvisorio",
+      "linkedin": "https://linkedin.com/company/edvisor-io",
+      "facebook": "https://facebook.com/749555088410228"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Realworld",
+    "website": "https://realworldplaybook.com/",
+    "description": "One-stop-shop for navigating the real world",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/realworldplaybk",
+      "linkedin": "https://linkedin.com/company/realworldco",
+      "facebook": "https://facebook.com/realworldcompany/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "thebeans",
+    "website": "https://thebeans.io/",
+    "description": "Simplifying the path to financial success for America's Caring Class.",
+    "location": "San Anselmo, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thebeans_io",
+      "linkedin": "https://linkedin.com/company/the-beans",
+      "facebook": "https://facebook.com/thebeans.io"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "BridgeCare Finance",
+    "website": "https://getbridgecare.com/",
+    "description": "BridgeCare is a benefit to help employers attract, retain and engage parents with interest-free financing and 1:1 concierge placement services for childcare.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bridgecarefin",
+      "linkedin": "https://linkedin.com/company/getbridgecare",
+      "facebook": "https://facebook.com/getbridgecare"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Perch",
+    "website": "https://perch.fit/",
+    "description": "Perch uses computer vision and machine learning to enhance the safety and effectiveness of exercise.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/perchFit",
+      "linkedin": "https://linkedin.com/company/winncompanies",
+      "facebook": "https://facebook.com/perchinteractive"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Credentially",
+    "website": "https://credentially.io/",
+    "description": "HR software for healthcare organizations.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/credentially_io",
+      "linkedin": "https://linkedin.com/company/credentially",
+      "facebook": "https://facebook.com/credentially/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "VanHack",
+    "website": "https://vanhack.com/",
+    "description": "Helping Tech Talent to Get Jobs Abroad",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/GoVanHack",
+      "linkedin": "https://linkedin.com/company/vanhack",
+      "facebook": "https://facebook.com/govanhack/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Ganaz",
+    "website": "https://ganazapp.com/",
+    "description": "Connecting good employers with good workers, Ganaz is like LinkedIn and Glassdoor for farmers and farmworkers.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GanazLabor",
+      "linkedin": "https://linkedin.com/in/hannah-freeman-661881b",
+      "facebook": "https://facebook.com/ganazgorge/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Halp",
+    "website": "https://halp.com/",
+    "description": "Halp is a conversational ticketing solution for IT teams to assign, prioritize, and answer requests from Slack in a message-based interface.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Halp",
+      "linkedin": "https://linkedin.com/company/gethalp",
+      "facebook": "https://facebook.com/wecanhalp/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Pack",
+    "website": "https://thepack.tech/",
+    "description": "HR-Tech platform to foster people's growth with data-driven mentoring and increase employees' retention.",
+    "location": "Firenze, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/startup-pack-mentoring"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "PitchMe",
+    "website": "https://pitchme.co/",
+    "description": "PitchMe moves hiring beyond the limitations of a resume.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/pitchme_co",
+      "linkedin": "https://linkedin.com/company/pitch_me",
+      "facebook": "https://facebook.com/hrofthefuture/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "LegalPad",
+    "website": "https://legalpad.io/",
+    "description": "Legalpad automates the work visa application process through document generation and workflow management.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/legalpadio",
+      "linkedin": "https://linkedin.com/company/legalpad",
+      "facebook": "https://facebook.com/LegalpadIO/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "FutureFit AI",
+    "website": "https://futurefit.ai/",
+    "description": "The GPS to help workers navigate career transitions.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/FutureFitAI",
+      "linkedin": "https://linkedin.com/company/futurefit-ai"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Ten Spot",
+    "website": "https://tenspot.com/",
+    "description": "The workforce engagement platform that gets your team talking",
+    "location": "West Hollywood, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tenspot",
+      "linkedin": "https://linkedin.com/company/tenspot",
+      "facebook": "https://facebook.com/fitspotapp"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Sprout Wellness Solutions",
+    "website": "https://sproutatwork.com/",
+    "description": "Take Corporate Wellness to the next level",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/SproutAtWork",
+      "linkedin": "https://linkedin.com/company/sprout-wellness-solutions-inc",
+      "facebook": "https://facebook.com/Sproutatwork"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Liquid",
+    "website": "https://goliquid.io/",
+    "description": "On a mission to power1M agile SMBs with a global freelancer and vendor payments platform that automates and standardizes key tasks, enforces financial controls and ensures tax and legal compliance.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/teamgoliquid",
+      "linkedin": "https://linkedin.com/company/liquidglobal",
+      "facebook": "https://facebook.com/teamgoliquid"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Anthill",
+    "website": "https://anthillai.com/",
+    "description": "Anthill enables companies to retain, engage, and develop employees when work happens away from the office.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/anthillai",
+      "linkedin": "https://linkedin.com/company/anthill-ai",
+      "facebook": "https://facebook.com/anthillai"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Neu",
+    "website": "https://neucleans.com/",
+    "description": "neu is a reliable platform that provides quality cleans, on-demand.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/use_neu",
+      "linkedin": "https://linkedin.com/company/neucleans",
+      "facebook": "https://facebook.com/neucleans/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "TalentQL",
+    "website": "https://talentql.com/",
+    "description": "TalentQL connects top global technical talent with jobs they deserve, with an initial focus on African tech talent.",
+    "location": "Round Rock, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/talentql",
+      "linkedin": "https://linkedin.com/company/talentql",
+      "facebook": "https://facebook.com/Talentql/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Vitrue Health",
+    "website": "https://vitruehealth.com/",
+    "description": "Computer vision technology to empower physiotherapists to more accurately assess their patients",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/VitrueHealth",
+      "linkedin": "https://linkedin.com/company/vitrue-health",
+      "facebook": "https://facebook.com/vitruehealth"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Hrmony",
+    "website": "https://hrmony.de/",
+    "description": "Tax-free digital meal vouchers for employees, without any kind of acceptance points or limitations.",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/hrmony_de",
+      "linkedin": "https://linkedin.com/company/hrmony-de",
+      "facebook": "https://facebook.com/lunchio"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Radish Health",
+    "website": "https://radish.health/",
+    "description": "By combining modern technology and medicine we give your employees world-class healthcare when and where they want it.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/radishhealth",
+      "linkedin": "https://linkedin.com/company/radish-health"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Wolf",
+    "website": "https://fromwolf.com/",
+    "description": "Enables entrepreneurs and staffing companies to launch their own niche talent marketplace.",
+    "location": "Potomac, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/on-demand-staffing-software"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "backstitch",
+    "website": "https://backstitch.io/",
+    "description": "Hubspot for HR",
+    "location": "Kansas City, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/backstitch",
+      "linkedin": "https://linkedin.com/company/backstitch",
+      "facebook": "https://facebook.com/backstitchapp"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Pipeline Equity",
+    "website": "https://pipelineequity.com/",
+    "description": "Pipeline is a cloud platform that increases the financial performance of companies through closing the gender equity gap.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pipelineequity",
+      "linkedin": "https://linkedin.com/company/pipeline-equity",
+      "facebook": "https://facebook.com/PipelineEquity/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Bippit",
+    "website": "https://bippit.com/",
+    "description": "Helping businesses go beyond the paycheck, by providing free financial coaching for every employee.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/bippit_ltd",
+      "linkedin": "https://linkedin.com/company/bippit"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Pathgather",
+    "website": "https://pathgather.com/",
+    "description": "Employee-driven enterprise learning",
+    "location": "Sacramento, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pathgather",
+      "linkedin": "https://linkedin.com/company/2906237",
+      "facebook": "https://facebook.com/Pathgather"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Qualifi",
+    "website": "https://qualifi.hr/",
+    "description": "Qualifi empowers the fastest phone interviews in the world! We've helped small teams up to Fortune 500 companies complete 1000s of interviews with Qualifi.",
+    "location": "Noblesville, Indiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/qualifi_hr",
+      "linkedin": "https://linkedin.com/company/qualifihr",
+      "facebook": "https://facebook.com/qualifihr"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Popp",
+    "website": "https://joinpopp.com/",
+    "description": "Incentivise valuable behaviours with branded reward coins",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/join-popp"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Plannly",
+    "website": "https://plannlyhealth.com/",
+    "description": "Plannly Health is dedicated to enhancing healthcare by taking a proactive approach to identify and address significant workforce risks.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/plannly",
+      "linkedin": "https://linkedin.com/company/plannly",
+      "facebook": "https://facebook.com/plann.ly"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Aware Health",
+    "website": "https://awarehealth.io/",
+    "description": "Aware Health diagnoses/treats joint pain without imaging or surgery.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/b2l5cknpcp03gnvvqyyb",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/heidiojha",
+      "linkedin": "https://linkedin.com/company/awareorthopedichealth",
+      "facebook": "https://facebook.com/aware.health"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Mentor Spaces",
+    "website": "https://mentorspaces.com/",
+    "description": "A community-driven mentorship platform designed to help companies find, hire and retain underrepresented talent.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mentorspaces",
+      "linkedin": "https://linkedin.com/company/mentorspaces",
+      "facebook": "https://facebook.com/mentorspaces"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Tatio",
+    "website": "https://skillsetech.com/",
+    "description": "Skillset revolutionizes the job recruitment process with an unbiased, AI-powered, pre-hiring assessment platform that simulates job tasks and environment.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/Maya_HuberHR",
+      "linkedin": "https://linkedin.com/company/tatiohr",
+      "facebook": "https://facebook.com/Skillset.us"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Good & Co",
+    "website": "https://good.co/",
+    "description": "Decode workplace relationships and culture-fit through games",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ingoodco",
+      "linkedin": "https://linkedin.com/company/good.co",
+      "facebook": "https://facebook.com/thegoodco"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Haekka",
+    "website": "https://haekka.com/",
+    "description": "After selling their last cybersecurity startup, Ryan and Travis are developing a headless security awareness platform, embedding content into Slack + other apps",
+    "location": "Oak Creek, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/haekkatraining",
+      "linkedin": "https://linkedin.com/company/dayzeroapp"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Improovy",
+    "website": "https://improovy.com/",
+    "description": "The Next Generation Of Home Improvement Service Delivery.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/improovy",
+      "linkedin": "https://linkedin.com/company/improovy",
+      "facebook": "https://facebook.com/improovy/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Employee Cycle",
+    "website": "https://employeecycle.com/",
+    "description": "Employee Cycle automates the HR reporting and analytics process by transforming disconnected employee data from multiple HR systems into one centralized, real-time, actionable and shareable HR dashboard.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/EmployeeCycle",
+      "linkedin": "https://linkedin.com/company/employee-cycle",
+      "facebook": "https://facebook.com/EmployeeCycle/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "WorkTorch",
+    "website": "https://getquickhire.com/",
+    "description": "A career discovery platform for the service economy workforce.",
+    "location": "Wichita, Kansas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getquickhire",
+      "linkedin": "https://linkedin.com/company/getquickhire",
+      "facebook": "https://facebook.com/getquickhire/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Hollo",
+    "website": "https://hollo.io/",
+    "description": "Hollo is an AI enabled talent experience platform that helps HR teams pre-qualify candidates for roles and helps resurface past applicants for future jobs that are a better match while making the communication more efficient.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/Hollo_io",
+      "linkedin": "https://linkedin.com/company/hollo-io"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Kanda",
+    "website": "https://kanda.dk/",
+    "description": "Using Virtual Reality to make training in heavy industries (maritime, energy, airline, manufacturing) more effective, and cost efficient.",
+    "location": "Aarhus, Denmark",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kanda",
+      "facebook": "https://facebook.com/kanda3d"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Talk-A-Bot",
+    "website": "https://talkabot.net/",
+    "description": "Talk-A-Bot is an enterprise chatbot provider. We turn conversations into apps and context into monetization.",
+    "location": "Budapest, Hungary",
+    "social_media": {
+      "twitter": "https://twitter.com/talk_a_bot",
+      "linkedin": "https://linkedin.com/company/talk-a-bot-llc.",
+      "facebook": "https://facebook.com/talkabot"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Reelist",
+    "website": "https://reelist.com/",
+    "description": "Reelist replaces written job descriptions with engaging video job posts on the social media platforms where job seekers already are, making hiring cheaper and quicker.",
+    "location": "Norfolk, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/reelistjobs",
+      "linkedin": "https://linkedin.com/company/reelist"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Benny",
+    "website": "https://heybenny.com/",
+    "description": "Benny provides financing to employees of publicly traded companies so they can participate in their employee stock purchase plans (ESPPs).",
+    "location": "Madison, Wisconsin, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rootedlending",
+      "linkedin": "https://linkedin.com/company/bennyfinancial",
+      "facebook": "https://facebook.com/heybennyapp/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Notedsource",
+    "website": "https://notedsource.io/",
+    "description": "Platform for professors and scientists to monetize research with companies.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/notedsource"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Inphlu",
+    "website": "https://inphlu.com/",
+    "description": "Empower Your Employees. Amplify Your Reach.",
+    "location": "Cincinnati, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/inphlusocial/",
+      "linkedin": "https://linkedin.com/company/inphluinc",
+      "facebook": "https://facebook.com/Inphlu/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Inclusivv",
+    "website": "https://inclusivv.co/",
+    "description": "Civic Dinners is a community engagement platform that brings people together for conversations that matter.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/civicdinners",
+      "linkedin": "https://linkedin.com/company/inclusivv",
+      "facebook": "https://facebook.com/Inclusivv"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Riverr",
+    "website": "https://riverr.ai/",
+    "description": "Riverr provides a new way to collect, organise and activate data for meaningful impact.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/riverr-ai"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Getro",
+    "website": "https://getro.com/",
+    "description": "Getro makes hiring easier by connecting employers to referred professionals in their network.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/monday_vc",
+      "linkedin": "https://linkedin.com/company/getro-com",
+      "facebook": "https://facebook.com/mymonday.co/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "ModernGuild",
+    "website": "https://modernguild.com/",
+    "description": "1-on-1, online tutoring programs to help students maximize their college experience and find the career they love",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/modernguild",
+      "linkedin": "https://linkedin.com/in/brad-aston-4256a714",
+      "facebook": "https://facebook.com/modernguild"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "WorkBright",
+    "website": "https://workbright.com/",
+    "description": "HR for seasonal and part-time employees",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/WorkBrightHR",
+      "linkedin": "https://linkedin.com/company/all4staff",
+      "facebook": "https://facebook.com/workbright"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Tech1M",
+    "website": "https://tech1m.com/",
+    "description": "We solve hiring challenges for managers by matching them with skilled talent and streamlining the hiring process. Our platform offers video applications, global talent management, and secure payment options to reduce turnover and improve accessibility",
+    "location": "Grays, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/tech1million",
+      "linkedin": "https://linkedin.com/company/techonemillion",
+      "facebook": "https://facebook.com/tech1million"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Vivo",
+    "website": "https://teamvivo.com/",
+    "description": "Vivo is an online, live & interactive clinical fitness program for adults 55 and older with a focus on increasing strength and function with measured outcomes.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TeamVivoFitness",
+      "linkedin": "https://linkedin.com/company/vivo-enabling-national-networking-of-scientists",
+      "facebook": "https://facebook.com/teamvivo"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Honest Jobs",
+    "website": "https://honestjobs.co/",
+    "description": "We help people with criminal records find employment fast.",
+    "location": "Columbus, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Honestjobsco",
+      "linkedin": "https://linkedin.com/company/13046366",
+      "facebook": "https://facebook.com/honestjobsHQ/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Infinit",
+    "website": "https://infinit.sh/",
+    "description": "Modern software-defined storage plaftorm for container environments.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/infinit",
+      "linkedin": "https://linkedin.com/company/%E5%9B%A0%E4%B8%BA%E7%A7%91%E6%8A%80%E6%97%A0%E9%94%A1%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+      "facebook": "https://facebook.com/infinit.career"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Wisnio",
+    "website": "https://teamscope.io/",
+    "description": "Use data science to hire people that fit in with your team culture",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/TeamscopeLLC",
+      "linkedin": "https://linkedin.com/company/10611326"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "OKO",
+    "website": "https://oko.finance/",
+    "description": "OKO is an InsurTech solution to bring crop insurance to emerging markets and provide smallholder farmers with a financial protection against climate risks",
+    "location": "Luxembourg, Luxembourg",
+    "social_media": {
+      "twitter": "https://twitter.com/OKO_insurance",
+      "linkedin": "https://linkedin.com/company/oko-exchange",
+      "facebook": "https://facebook.com/OKOInsurance/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "trace",
+    "website": "https://trace.tech/",
+    "description": "trace is a hardware-enabled software platform for household food waste management",
+    "location": "Provo, Utah, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/traceyourself",
+      "linkedin": "https://linkedin.com/company/tracetechnology",
+      "facebook": "https://facebook.com/trace.sustainable.tech"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Hyre",
+    "website": "https://hyrestaff.com/",
+    "description": "Hyre is an online marketplace that is revolutionizing the event staffing industry by connecting event organizers with high quality event staff.",
+    "location": "Ottawa, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/hyrestaff",
+      "linkedin": "https://linkedin.com/company/hyrestaff",
+      "facebook": "https://facebook.com/eStaffMatch"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Sunlight Technologies",
+    "website": "https://sunlight.is/",
+    "description": "Sunlight helps companies grow a highly engaging learning culture by facilitating their team's access to any book, event or course in the world.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/WithSunlight",
+      "linkedin": "https://linkedin.com/company/sunlight.is",
+      "facebook": "https://facebook.com/withsunlight"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "MEDIjobs",
+    "website": "https://medijobs.ro/",
+    "description": "Career Marketplace for Healthcare Recruitment",
+    "location": "Bucharest, Romania",
+    "social_media": {
+      "twitter": "https://twitter.com/MEDIjobsRO",
+      "linkedin": "https://linkedin.com/company/medijobs",
+      "facebook": "https://facebook.com/medijobs.ro"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "VirgilHR",
+    "website": "https://virgilhr.com/",
+    "description": "VirgilHR provides instant employment and labor law guidance to HR professionals to help navigate HR compliance - no research required.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lm94eaxpaivq2oi57soz",
+    "location": "Gaithersburg, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/irgil_HR",
+      "linkedin": "https://linkedin.com/company/virgil-hr",
+      "facebook": "https://facebook.com/virgilhrtech/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "AUDIT XPRT",
+    "website": "https://auditxprt.com/",
+    "description": "Automating compliance and auditing using AI and Machine Learning",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/AuditXprt",
+      "linkedin": "https://linkedin.com/company/audit-xprt-limited"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Talivest",
+    "website": "https://talivest.com/",
+    "description": "Talivest is a business SaaS solution that empowers organizations of the future to retain their most important asset - their people.",
+    "location": "Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/Talivest_HQ",
+      "linkedin": "https://linkedin.com/company/3205795",
+      "facebook": "https://facebook.com/talivest"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Trezeo",
+    "website": "https://trezeo.com/",
+    "description": "We deliver inclusive financial services for independent workers to support their lives today and tomorrow.",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/trezeohq",
+      "linkedin": "https://linkedin.com/company/trezeo",
+      "facebook": "https://facebook.com/trezeo"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Ovida",
+    "website": "https://ovida.io/",
+    "description": "Ovida is an AI-driven communication skills platform that helps people master critical workplace conversations through personalized feedback and skill development. By combining advanced AI analysis with expert-designed learning journeys, we enable organizations to develop their people's communication and leadership capabilities at scale - focusing on the human interactions that will remain essential in the AI era, while delivering results at a fraction of traditional training cost and time.",
+    "location": "Nottingham, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ovida-ai"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Auditocity",
+    "website": "https://auditocity.com/",
+    "description": "Auditocity is a B2B human resource auditing company providing compliance tools for business customers",
+    "location": "Fairhope, Alabama, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/auditocity",
+      "linkedin": "https://linkedin.com/in/giawiggins",
+      "facebook": "https://facebook.com/auditocity"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "R3 Score",
+    "website": "https://r3score.com/",
+    "description": "A more social responsible criminal background screening company, using context in our algorithm for the 1-in-3 Americans living with a criminal history.",
+    "location": "Baltimore, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/R3Score",
+      "linkedin": "https://linkedin.com/company/r3score",
+      "facebook": "https://facebook.com/R3Score/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Volteo Maritime",
+    "website": "https://volteo.com/",
+    "description": "Reimagining maritime by digitalizing vessel operations management and fostering collaboration between ship and shore.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "twitter": "https://twitter.com/volteotech",
+      "linkedin": "https://linkedin.com/company/volteomaritime",
+      "facebook": "https://facebook.com/Volteo-Maritime-101416344909095"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "CAPE Inclusion",
+    "website": "https://capeinclusion.om/",
+    "description": "Bridging the Gap Between Intent and Impact.",
+    "location": "Parker, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CAPEInclusion",
+      "linkedin": "https://linkedin.com/company/capeinclusion",
+      "facebook": "https://facebook.com/capeinclusion/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Herd",
+    "website": "https://theherdapp.com/",
+    "description": "Herd - find friends wherever you go. \n\nTo view the company one-page summary click here -  https://app.buildmemo.com/s/ln81kh",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/herd_engagement",
+      "linkedin": "https://linkedin.com/company/herdsyndicate",
+      "facebook": "https://facebook.com/herdlabel"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "RoundPegg",
+    "website": "https://roundpegg.com/",
+    "description": "RoundPegg is the only software that quantifies your Company Culture so you make smarter 'people' decisions. Understand your unique culture, make hires who are a great fit, give managers coaching guides for each of their reports & measure engagement.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/roundpegg",
+      "linkedin": "https://linkedin.com/company/roundpegg",
+      "facebook": "https://facebook.com/RoundPegg"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Pod People",
+    "website": "https://podpeople.com/",
+    "description": "Pod People is the on-demand workforce for audio production, powering the industry with a vast network of hand-picked professionals across the globe.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pod_ppl",
+      "linkedin": "https://linkedin.com/company/pod-people"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "AmplifAI Health",
+    "website": "https://linkedin.com/in/meshari-f-alwashmi",
+    "description": "AmplifAI Health has a strong dedication to transforming healthcare through the digitalization of clinicians' human senses.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/p909ehns3jltb3i5b8if",
+    "location": "Abu Dhabi, United Arab Emirates",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/meshari-f-alwashmi"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "StackBob",
+    "website": "https://stackbob.ai/",
+    "description": "Workforce access and license management platform powered by an AI agent that replaces Okta.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/stackbobai",
+      "linkedin": "https://linkedin.com/company/stackbob",
+      "facebook": "https://facebook.com/StackBob/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Propio",
+    "website": "https://joinpropio.com/",
+    "description": "Propio puts Latino independent workers in the driver's seat to seamlessly manage payments, taxes, benefits and financial access.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/join_propio",
+      "linkedin": "https://linkedin.com/company/joinpropio",
+      "facebook": "https://facebook.com/joinpropio"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Talimai SAS",
+    "website": "https://brio.ink/",
+    "description": "AI agent to prepare and assess critical conversations, starting with the job interview",
+    "location": "Orléans, Centre, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/brioapp"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Asanify",
+    "website": "https://asanify.com/",
+    "description": "Asanify simplifies HR and automates payroll compliances for small business owners in India and APAC with HR on chatbots such as Slack and Whatsapp.",
+    "location": "Kolkata, West Bengal, India",
+    "social_media": {
+      "twitter": "https://twitter.com/asanifyhq",
+      "linkedin": "https://linkedin.com/company/asanify",
+      "facebook": "https://facebook.com/asanify/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Nala",
+    "website": "https://nalarocks.com/",
+    "description": "For organizations battling with obsolete HR methodologies, Nala offers a SaaS solution, blending machine learning, predictive insights, and immediate recommendations to not only revolutionize talent management but also boost overall productivity.",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nalarocks"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Botany",
+    "website": "https://botany.io/",
+    "description": "Botany.io is a smart virtual coach that helps software engineers & managers build skills and habits to grow into their full potential.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/botany_io",
+      "linkedin": "https://linkedin.com/company/botany-io",
+      "facebook": "https://facebook.com/botany.io/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "LendKoi",
+    "website": "https://lendkoi.com/",
+    "description": "LendKoi helps high-earning expats and immigrants at Fortune 500 companies build U.S. credit history by providing personal loans and credit solutions.",
+    "location": "Sunrise, Florida, United States",
+    "social_media": {},
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Sholder",
+    "website": "https://sholder.com/",
+    "description": "\"Sholder, short for Spaceholder(tm), is the gig platform for transformative mental & emotional support from qualified non-clinical providers. \"",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sholder",
+      "facebook": "https://facebook.com/SholderInc"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Edith Labs",
+    "website": "https://edithlabs.com/",
+    "description": "The network for the under-networked.",
+    "location": "San Carlos, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/edith_labs",
+      "linkedin": "https://linkedin.com/company/edith-labs"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "AfriBlocks",
+    "website": "https://afriblocks.com/",
+    "description": "The Pan-African Freelance Talen Network",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/afriblocks",
+      "linkedin": "https://linkedin.com/company/afriblocks",
+      "facebook": "https://facebook.com/afriblocks/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Nifty Learning",
+    "website": "https://niftylearning.io/",
+    "description": "Through smart automations we handle admin tasks and provide real-time insights to learning coordinators so they can focus on strategic work.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/niftylearningio",
+      "linkedin": "https://linkedin.com/company/17904213",
+      "facebook": "https://facebook.com/niftylearning.io/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Hatchproof",
+    "website": "https://hatchproof.com/",
+    "description": "The Retention Solution for building aligned, engaged, and thriving teams.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hatchproof",
+      "linkedin": "https://linkedin.com/company/hatchproof"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Basil",
+    "website": "https://basil.so/",
+    "description": "Creative workforce management software for busy in-house teams & agencies.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fdmbao844nznm75ccdvo",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/joinbasil",
+      "linkedin": "https://linkedin.com/company/joinbasil"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Zoftware",
+    "website": "https://zoftwarehub.com/",
+    "description": "Helping SMEs discovery the right software for their business using AI",
+    "location": "Dubai, United Arab Emirates",
+    "social_media": {
+      "twitter": "https://twitter.com/zoftwarehub",
+      "linkedin": "https://linkedin.com/company/zoftwarehub",
+      "facebook": "https://facebook.com/Zoftware-Hub-112930427838516/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Shook",
+    "website": "https://shoook.io/",
+    "description": "Shook offers no-code infrastructure for verticalized expert / freelance marketplaces - think Shopify for niche Fiverrs/Toptals.",
+    "location": "Tzur Hadassah, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/shook-io"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Betterteem",
+    "website": "https://betterteem.com/",
+    "description": "Betterteem is a predictive and prescriptive AI platform that enables businesses to predict unwanted employee resignations with AI.\n\n\n\nBetterteem's AI-driven prediction resulted in an 18% increase in employee retention and a 41% increase in productivity in 2023, saving clients over US$18 million in backfill hiring costs and lost productivity.",
+    "location": "Bonifacio Global City, Philippines",
+    "social_media": {
+      "twitter": "https://twitter.com/wearebetterteem",
+      "linkedin": "https://linkedin.com/company/betterteem",
+      "facebook": "https://facebook.com/wearebetterteem"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "aHRtemis",
+    "website": "https://ahrtemis.com/",
+    "description": "aHRtemis creates recruitment opportunities that man cannot see",
+    "location": "L'hay les roses, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ahrtemis"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Jolly",
+    "website": "https://jollyhq.com/",
+    "description": "The middleman is obsolete. Jolly is an open marketplace for the Trust Economy where freelancers & businesses work together freely.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FreeAndJolly",
+      "linkedin": "https://linkedin.com/company/jollyhq",
+      "facebook": "https://facebook.com/jollyhq"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Tapestree",
+    "website": "https://gettapestree.com/",
+    "description": "Tapestree is a community-building employee engagement platform for the distributed workforce.",
+    "location": "Decatur, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Tapestree_",
+      "linkedin": "https://linkedin.com/company/gettapestree"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Skylyte",
+    "website": "https://skylyte.com/",
+    "description": "Skylyte is building a Chief Wellbeing Officer in every team's pocket to empower them to proactively manage burnout and wellbeing.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vdpoixzfnaieyf7bm5iq",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SkylyteComms",
+      "linkedin": "https://linkedin.com/company/skylyte"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Recruiting Innovation",
+    "website": "https://recruitinginnovation.com/",
+    "description": "Recruiting Innovation is on a mission to help companies scale by training and enabling their recruiting teams to talk tech.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mudhhkztpvwnawlepnhr",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RecInnovation",
+      "linkedin": "https://linkedin.com/company/recruitinginnovation",
+      "facebook": "https://facebook.com/recruitinginnovation/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Metta Space",
+    "website": "https://metta-space.com/",
+    "description": "The Next Generation of Compliance for Better Workplaces  - Helping companies prevent, report & resolve workplace misconduct.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ibte6wxmzy9a7zkrv9fn",
+    "location": "Madrid, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/metta_space",
+      "linkedin": "https://linkedin.com/company/metta-space"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "LivedX",
+    "website": "https://livedx.com/",
+    "description": "LivedX is an online equity platform that translates peoples' lived & learned experiences using ML into power skills credentials for educational and job success.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/sxfjjbflq9z2blz0ifhj",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/gverma116"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Frontline Gig",
+    "website": "https://frontlinegig.com/",
+    "description": "Making it easy to source vetted, entry level and semi-skilled hourly workers for cleanups, inspections and managing green assets.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gnm2roiv8ebolzmjghqc",
+    "location": "Norfolk, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FrontlineGig",
+      "linkedin": "https://linkedin.com/company/frontline-gig",
+      "facebook": "https://facebook.com/frontlinegig"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "EmpiricaLab",
+    "website": "https://empiricalab.com/",
+    "description": "EmpiricaLab is a last mile training, team-centric authoring  and knowledge platform focused on enabling peer-learning for healthcare teams",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/qo5cr2mdhnzg05mgesr5",
+    "location": "McAllen, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/empiricalab",
+      "linkedin": "https://linkedin.com/company/empiricalab-team"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Matchplicity",
+    "website": "https://matchplicity.com/",
+    "description": "matchplicity(r) uses Artificial Intelligence to connect membership organizations and their members to employers that want to hire them.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/matchplicity",
+      "facebook": "https://facebook.com/matchplicity"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Careerflow",
+    "website": "https://careerflow.ai/",
+    "description": "Utilizes AI to help customers land their dream jobs.",
+    "location": "Sunnyvale, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/careerflow_ai",
+      "linkedin": "https://linkedin.com/company/careerflow123",
+      "facebook": "https://facebook.com/faangpath"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Drive Spotter",
+    "website": "https://drivespotter.com/",
+    "description": "Drive Spotter builds incentive compensation structures that leverage company data to improve recruiting and retention.",
+    "location": "Omaha, Nebraska, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/drivespotter",
+      "linkedin": "https://linkedin.com/company/10076218",
+      "facebook": "https://facebook.com/drivespotter"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Trez",
+    "website": "https://trez.co/",
+    "description": "We help set your business up for success with payroll, benefits, and more.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TrezFin",
+      "linkedin": "https://linkedin.com/company/trez-inc",
+      "facebook": "https://facebook.com/profile.php"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "WalletCard",
+    "website": "https://mywalletcard.com/",
+    "description": "WalletCard is a collaborative compliance platform for issuing, tracking and managing verified occupational health & safety requirements.",
+    "location": "Delta, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/mywalletcard",
+      "linkedin": "https://linkedin.com/company/walletcard-inc",
+      "facebook": "https://facebook.com/mywalletcard"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Keep Company",
+    "website": "https://keep-company.com/",
+    "description": "Partner with organizations to give their moms, dads and caregivers the tools to integrate the care of themselves, their families, and their work through group coaching.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wearekeepco",
+      "linkedin": "https://linkedin.com/company/joinkeepcompany"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Holisticly",
+    "website": "https://holisticly.co/",
+    "description": "Holisticly is an employer-sponsored well-being marketplace for companies to provide their employees with a monthly wellness stipend and team-wide experiences.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/tf6otjautxkfvuwh4got",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/holisticly",
+      "facebook": "https://facebook.com/getholisticly"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Gateway",
+    "website": "https://careergateway.io/",
+    "description": "Gateway saves 95% of time and cost it takes to onboard and train new employees by  transforming long training hours into engaging micro-learning modules that improve retention, knowledge absorption, and job readiness.",
+    "location": "McLean, Virginia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/careergateway"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Astronome AI",
+    "website": "https://astronome.ai/",
+    "description": "Astronome AI is a company that provides streamlined IT management for SMEs, powered by AI.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lr8j5rsmiftw7l9qxsiw",
+    "location": "London, England, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/astronome"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "SquarePlan",
+    "website": "https://askneo.io/",
+    "description": "SquarePlan helps commercial real estate managers grow and scale their operations with peace of mind.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/aa92rghwjlvcnrszcdpp",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TheSquarePlan",
+      "linkedin": "https://linkedin.com/company/squareplan",
+      "facebook": "https://facebook.com/askneoio-109334314146691/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Tassel Software",
+    "website": "https://tasselsoftware.com/",
+    "description": "Helping college students connect the dots from their academic plans to their career aspirations.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TasselSoftware",
+      "linkedin": "https://linkedin.com/company/tassel-software"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "SkillMapper",
+    "website": "https://skillmapper.com/",
+    "description": "SkillMapper is a search and discovery engine for educational content powered by artificial intelligence and community curators.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/skillmapper",
+      "linkedin": "https://linkedin.com/company/skillmapper",
+      "facebook": "https://facebook.com/skillmapper"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Relish Life",
+    "website": "https://relish.life/",
+    "description": "Platform tackles obesity by going after its root causes through a combination of medical intervention, nutrition, fitness, and behavioral change, enabling people to lose weight.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wtm79npfdw5tgzsltkyl",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/relish-life",
+      "facebook": "https://facebook.com/relishrx/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Emigreat",
+    "website": "https://emigreat.co/",
+    "description": "Emigreat is a web-based application that enables the management of immigration processes for employers and employees.",
+    "location": "Göteborg, Sweden",
+    "social_media": {
+      "twitter": "https://twitter.com/emigreatco",
+      "linkedin": "https://linkedin.com/company/emigreat",
+      "facebook": "https://facebook.com/Emigreat.co"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "bestselfy",
+    "website": "https://bestselfy.com/",
+    "description": "AI-powered pocket coach for new managers & employees to make the best work happen, in just 10 minutes a day. Waitlist growing by 100% per week.  Get access now!",
+    "location": "Orleans, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bestselfycoach",
+      "linkedin": "https://linkedin.com/company/bestselfy",
+      "facebook": "https://facebook.com/bestselfy"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Mello",
+    "website": "https://mello-app.com/",
+    "description": "The first sharing economy app for childcare in Europe, where parents can meet other families nearby, plan playdates & organize spontaneous babysitting swaps. #parenttech #familytech #app #childcare",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/mello_SF",
+      "linkedin": "https://linkedin.com/company/getmello",
+      "facebook": "https://facebook.com/Mello.community"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Wibo",
+    "website": "https://wibo.app/",
+    "description": "Wibo helps corporates retain talents using a community based, mobile first learning platform.",
+    "location": "Turin, Turin, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/wiboorg",
+      "linkedin": "https://linkedin.com/company/wiboapp",
+      "facebook": "https://facebook.com/wibo.family"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "STRE",
+    "website": "https://stre.me/",
+    "description": "A platform that brings real change to how implicit biases affect the way people think, behave, and work through measurable awareness and accountability.",
+    "location": "Fort Wayne, Indiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/stremellc",
+      "linkedin": "https://linkedin.com/company/stre-me",
+      "facebook": "https://facebook.com/stremellc"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Ambit",
+    "website": "https://ambit.ai/",
+    "description": "Ambit facilitates and transparently logs payments between insurers and providers on the blockchain while protecting patient privacy.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/by3y9nmwlowloutw0djv",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ambitvpn",
+      "linkedin": "https://linkedin.com/company/ambitinc",
+      "facebook": "https://facebook.com/ambitvpn"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "xBlock",
+    "website": "https://xblock.ai/",
+    "description": "An organizational intelligence platform to capture, organize, and activate business knowledge.",
+    "location": "Anacortes, Washington, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/xblock-ai"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Workrz",
+    "website": "https://workrz.net/",
+    "description": "A flexible job-sharing platform that enables service workers to fill multiple part-time roles that fit their schedules while reducing businesses' high turnover rates.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/102286857"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Reppls",
+    "website": "https://reppls.com/",
+    "description": "We are going to change existing HR practice of choosing candidates by CV - introducing AI Interview Agents who conduct real-time video interviews with all candidates, assessing their full background and providing instant feedback.",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/reppls"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Capyble",
+    "website": "https://capyble.com/",
+    "description": "Bringing experts to 1 million workplaces.",
+    "location": "Binalong, New South Wales, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/od-ai"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Huntr",
+    "website": "https://huntr.app/",
+    "description": "A recruiting platform that matches employers with a curated community.",
+    "location": "Dubai, United Arab Emirates",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hunter-app",
+      "facebook": "https://facebook.com/huntrjobs"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "GAGE Technology",
+    "website": "https://gagework.com/",
+    "description": "GAGE is the first universal employment scoring and recognition community for the shift and hourly workforce.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gdtjnfgsc0azhuo8ipnq",
+    "location": "Saint Simons Island, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gagework",
+      "linkedin": "https://linkedin.com/company/gagework",
+      "facebook": "https://facebook.com/WorkWithGage"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Canopy Platform Pty Ltd",
+    "website": "https://hellocanopy.ai/",
+    "description": "Canopy gives employees a safe way to report misconduct and businesses the tools to manage and prevent it from happening again.",
+    "location": "Dee Why, New South Wales, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/canopyplatform"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "LegacyShift",
+    "website": "https://legacyshift.com/",
+    "description": "Market Network Platform for skills training, mentorship, and career support",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/p9ldd9xygwkvk0ikncur",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/legacyshift_com",
+      "linkedin": "https://linkedin.com/company/legacyshift-inc",
+      "facebook": "https://facebook.com/LegacyShift/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Growth Collective",
+    "website": "https://growthcollective.com/",
+    "description": "Hire the world's best freelance marketers in two days or less!",
+    "location": "Alpharetta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GrowWithGC",
+      "linkedin": "https://linkedin.com/in/growwithgc"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Cambrian Protocol",
+    "website": "https://cambrianprotocol.com/",
+    "description": "Web 3 community focused on decentralizing collaborative work using blockchain technology",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cambrian_eth",
+      "linkedin": "https://linkedin.com/company/cambrian-protocol"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "On The Goga",
+    "website": "https://onthegoga.com/",
+    "description": "On the Goga is a no code platform that allows HR, benefits, and wellness teams to build their own wellness and benefits portals.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/onthegoga",
+      "linkedin": "https://linkedin.com/company/onthegoga",
+      "facebook": "https://facebook.com/onthegoga/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Belong Anywhere",
+    "website": "https://bookverve.com/",
+    "description": "A marketplace for discovering, planning, and booking unique experience to keep teams connected",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/iosorfxdhrsvdppsgmet",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bookverve"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "anthym",
+    "website": "https://anthym.life/",
+    "description": "The most badass connection platform on the planet.",
+    "location": "Phoenix, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getanthym",
+      "linkedin": "https://linkedin.com/company/getanthym",
+      "facebook": "https://facebook.com/getanthym"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Recrewty",
+    "website": "https://recrewty.com/",
+    "description": "Enhancing hiring operations with tailored psychometric testing",
+    "location": "Podgorica, Montenegro",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/recrewty"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Vocations",
+    "website": "https://vocations.io/",
+    "description": "Vocations is a sales intelligence platform for HR companies that leverages an AI agent to scrape job offers directly from company websites.",
+    "location": "Cernusco sul Naviglio, Milan, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/vocations-io"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "spacebrains",
+    "website": "https://spacebrains.tech/",
+    "description": "Helping engineering pros land their next favorite job.",
+    "location": "Bratislava, Slovakia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/spacebrains"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "TradeWay",
+    "website": "https://tradesaretheway.com/",
+    "description": "Tradeway builds productivity tools for those working in the skilled trades",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tradeway-tech-inc"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "ivee",
+    "website": "https://ivee.jobs/",
+    "description": "ivee provides cutting-edge AI tailored upskilling to equip women with the tools to confidently return to work.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v0gagtdcrxkwkj6zxsf0",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/iveejobs",
+      "facebook": "https://facebook.com/people/Ivee/61552049597835/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "CoachCorner",
+    "website": "https://coachcorner.io/",
+    "description": "YOUR HUB FOR PREMIER COACHING TALENT",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {},
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Between",
+    "website": "https://between.co/",
+    "description": "Call from Anywhere, Sound like You're in the Room",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/betweenco"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "StartGlobal",
+    "website": "https://startglobal.co/",
+    "description": "Start and manage your global business, from anywhere",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xmseyjmmim3vftxifrzl",
+    "location": "Walnut, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/StartGlobalHQ",
+      "linkedin": "https://linkedin.com/company/startglobalhq",
+      "facebook": "https://facebook.com/startglobalHQ/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "MeetFox",
+    "website": "https://meetfox.com/",
+    "description": "MeetFox empowers professionals to digitize, manage and monetize interactions with their clients.",
+    "location": "Vienna, Austria",
+    "social_media": {
+      "twitter": "https://twitter.com/myMeetFox",
+      "linkedin": "https://linkedin.com/company/meetfox",
+      "facebook": "https://facebook.com/mymeetfox"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Parkday",
+    "website": "https://heyparkday.com/",
+    "description": "Reimagining the future of food service.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/parkday"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "SeenCulture",
+    "website": "https://seenculture.com/",
+    "description": "SeenCulture creates personalized Employee Experiences enabling people to feel seen beyond their job title.",
+    "location": "Melbourne, Victoria, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/seenculture",
+      "linkedin": "https://linkedin.com/company/seenculture"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "StrategyConnect",
+    "website": "https://strategyconnect.co/",
+    "description": "Platform to operationalize agile teams by matching in-house  & external on-demand talents to deliverables to fulfill business's skillset gap cost-effectively.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/StrategyConnec2",
+      "linkedin": "https://linkedin.com/company/strategyconnect",
+      "facebook": "https://facebook.com/strategyconnect01/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "WorkOnward",
+    "website": "https://workonward.com/",
+    "description": "A local workforce platform for hourly workers.",
+    "location": "Ridgewood, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/workonward",
+      "linkedin": "https://linkedin.com/company/workonward",
+      "facebook": "https://facebook.com/workonward"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Wingspans",
+    "website": "https://wingspans.com/",
+    "description": "Wingspans is a platform that uses storytelling to build a new and diverse workforce.",
+    "location": "Providence, Rhode Island, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wing_spans",
+      "linkedin": "https://linkedin.com/company/wing-spans",
+      "facebook": "https://facebook.com/YourWingspans"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Take2",
+    "website": "https://take2.ai/",
+    "description": "AI-powered virtual job experience platform that helps employers engage their job applicants and vet them for on-the-job skills.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/jointake2"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Sparc",
+    "website": "https://sparcopen.org/",
+    "description": "Sparc is a professional networking platform for securing jobs, career mentorship, and making money (coaching and tutoring). College students and professionals leverage their \"professional organization pages\" on Sparc to connect directly with employers (via their company page) to form partnerships and arrange recruiting events.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/fdifxe8r5svmfh5d438b",
+    "location": "Silver Spring, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SparcTheWorld",
+      "linkedin": "https://linkedin.com/company/sparctheworld",
+      "facebook": "https://facebook.com/SparcTheWorld"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "ReviewTailor",
+    "website": "https://reviewtailor.com/",
+    "description": "ReviewTailor is an HR performance management solution that streamlines the process, transforming performance reviews into a true employee engagement tool.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tryreviewtailor",
+      "linkedin": "https://linkedin.com/company/reviewtailor"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Making Space",
+    "website": "https://making-space.com/",
+    "description": "Talent acquisition and learning experience platform for companies to access pre-qualified underrepresented talent pools.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/makingspacework"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "LyRise",
+    "website": "https://lyrise.ai/",
+    "description": "We are on a mission to solve the shortage of AI and Data talents by assessing, up-skilling, and placing them from Africa to global companies.",
+    "location": "Cairo, Egypt",
+    "social_media": {
+      "twitter": "https://twitter.com/Lyriseai",
+      "linkedin": "https://linkedin.com/company/lyriseai",
+      "facebook": "https://facebook.com/LYRISEAI"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Lokum",
+    "website": "https://lokumapp.com/",
+    "description": "Reimagining Healthcare Staffing through Tech",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lokumapp",
+      "facebook": "https://facebook.com/people/Lokumapp/100089513891105/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Inclusion Unpacked",
+    "website": "https://inclusionunpacked.com/",
+    "description": "Inclusion Unpacked is on a mission to make diversity and inclusion simple and easy for founders and leaders. Companies pay a monthly subscription fee and gain access to DEI experts, tools and resources on demand.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/inclusion-unpacked"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "InclusionScore",
+    "website": "https://inclusioncorporation.com/",
+    "description": "InclusionScore | The Standard in D&I Insurance",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/inclusion-score"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Fathom",
+    "website": "https://fathompbc.org/",
+    "description": "For workforce directors with applicant tracking and job placement challenges, we provide a career management platform that streamlines employment, training, and support services for workforce agencies and organizations.",
+    "location": "Antioch, Tennessee, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fathom_pbc",
+      "linkedin": "https://linkedin.com/company/fathompbc"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "DiversiBoard",
+    "website": "https://diversiboard.com/",
+    "description": "B2B platform connecting technical talents across the caribbean to companies in the U.S. and Canada",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/diversiboard",
+      "linkedin": "https://linkedin.com/company/diversiboard",
+      "facebook": "https://facebook.com/Diversiboard"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "DeltaGenAI",
+    "website": "https://deltagen.ai/",
+    "description": "DeltaGen transforms AI from a complex tool for the elite into an accessible, powerful asset for employees at all levels. Our enterprise AI platform eliminates the need for prompting and coding, delivering tailored results seamlessly. Key features include LinkedIn integration, role-specific workflows, and multi-model capabilities, all secured with top-tier data privacy. Join us in redefining AI usability and driving widespread adoption.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ailamoapp",
+      "linkedin": "https://linkedin.com/company/deltagenai",
+      "facebook": "https://facebook.com/ailamoapp"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Clymb",
+    "website": "https://clymbup.io/",
+    "description": "Infinite Focus Schools is a socio-emotional learning-focused app.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vx4jqiry7pc4mh7s8us9",
+    "location": "Baltimore, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ClymbUp",
+      "linkedin": "https://linkedin.com/company/clymb",
+      "facebook": "https://facebook.com/infinitefocuschools/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Symba",
+    "website": "https://symba.io/",
+    "description": "Symba is the leading remote internship platform connecting companies with the best talent and helping them manage the entire remote internship experience.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/symba_io",
+      "linkedin": "https://linkedin.com/company/symba-io",
+      "facebook": "https://facebook.com/GetSymba"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "SPEEQO",
+    "website": "https://speeqo.com/",
+    "description": "SPEEQO is speech analysis software for customer contact channels to optimise communication costs and tailor responses using emotion recognition technology.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/zalolotb4xn780x3auuo",
+    "location": "Hong Kong, Hong Kong",
+    "social_media": {
+      "twitter": "https://twitter.com/speeqocom",
+      "linkedin": "https://linkedin.com/company/speeqo",
+      "facebook": "https://facebook.com/speeqo"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Rayda",
+    "website": "https://rayda.co/",
+    "description": "Acquire, manage and dispose of IT assets globally",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xyv3u8rypovcx9s3mlac",
+    "location": "Lewes, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rayda_hq",
+      "linkedin": "https://linkedin.com/company/raydahq",
+      "facebook": "https://facebook.com/myraydaHQ"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Pangian",
+    "website": "https://pangian.com/",
+    "description": "SaaS Global Talent Network connects remote talent with companies hiring remotely anywhere in the world. Over 100,000 professionals in 200+ countries and territories from companies like Meta, Salesforce, E&Y, and more!",
+    "location": "Orlando, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PangianGlobal",
+      "linkedin": "https://linkedin.com/company/pangian",
+      "facebook": "https://facebook.com/ThePangian/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "My Panda",
+    "website": "https://mypandaapp.com/",
+    "description": "Busy, ambitious women use our app to connect to trusted local assistants",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mypandaapp",
+      "linkedin": "https://linkedin.com/company/mypandaapp",
+      "facebook": "https://facebook.com/bookapanda"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Illoominus",
+    "website": "https://illoominus.com/",
+    "description": "Data analytics platform designed to activate DE+I strategies",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/illoominus"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Flex Data",
+    "website": "https://beta.flex.game/",
+    "description": "Flex conducts professional skill assessments from performance in popular video games",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/flex_game_beta",
+      "linkedin": "https://linkedin.com/company/flexgame"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Aman",
+    "website": "https://liveaman.com/",
+    "description": "Supercharge Your Employee Health Benefits with Aman!",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/un2fewcmgodtmfei7njz",
+    "location": "Jakarta, Indonesia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/liveaman",
+      "facebook": "https://facebook.com/AMAN.EPAYMENT"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Henna",
+    "website": "https://askhenna.com/",
+    "description": "AI agents for commercializing scientific IP.",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/askhenna"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Talisman+",
+    "website": "https://gettalisman.com/",
+    "description": "Talisman provides an all-in-one solution to managing your software subscriptions.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/talismanapp"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "The 2",
+    "website": "https://the20.co/",
+    "description": "A career customization SaaS company connecting ambitious professionals to career-long support",
+    "location": "Charlotte, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/2pt0collective",
+      "linkedin": "https://linkedin.com/company/the20co",
+      "facebook": "https://facebook.com/the2.0co"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Skilbi",
+    "website": "https://skilbi.com/",
+    "description": "A community that connects Business and STEM students to companies for career advice and skill-building opportunities",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cnd94hbj40xzxyusytnn",
+    "location": "Oak Park, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Its_Skilbi",
+      "linkedin": "https://linkedin.com/company/helloskilbi"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Maxwell",
+    "website": "https://maxwell.app/",
+    "description": "Making it easy to offer life/work benefits and rewards for all",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mxwdazgcmceolufwatea",
+    "location": "Omaha, Nebraska, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/maxwellapphq",
+      "linkedin": "https://linkedin.com/company/maxwell-app",
+      "facebook": "https://facebook.com/maxwell.app.hq"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Joyn",
+    "website": "https://joyn.one/",
+    "description": "For companies who struggle to operate effectively across a disparate tool stack, Joyn orchestrates AI-driven workflows across tools without disrupting how people do their best work today.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/joyn-connect"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "hifive",
+    "website": "https://hifivecommunity.com/",
+    "description": "hifive enables service employees to receive personalized reviews, ratings, and cashless tips on-demand through QR code technology without needing to download an app.",
+    "location": "College Station, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hifivecommunity"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Approveit",
+    "website": "https://approveit.today/",
+    "description": "For Financial Controllers / VPs of Finance who want to streamline vendor onboarding, invoice processing, and ensure compliance, Approveit  provides an AI-powered solution for efficient and compliant workflows.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/approveit_",
+      "linkedin": "https://linkedin.com/company/approveit-today",
+      "facebook": "https://facebook.com/approveittoday"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Activated Scale",
+    "website": "https://activatedscale.com/",
+    "description": "Marketplace connecting startups and small businesses with vetted and experienced freelance sales talent",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/aac64rj3gn4s5ugnx8hr",
+    "location": "Evanston, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/activatedscale"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Fintros",
+    "website": "https://fintros.com/",
+    "description": "Fintros enables companies to hire people not applying to their jobs.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/fintroductions",
+      "linkedin": "https://linkedin.com/company/fintros",
+      "facebook": "https://facebook.com/fintros/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Cangrade",
+    "website": "https://cangrade.com/",
+    "description": "Make better hiring decisions using predictive analytics and data science",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cangrade",
+      "linkedin": "https://linkedin.com/company/cangrade",
+      "facebook": "https://facebook.com/Cangrade"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Work Simplr",
+    "website": "https://worksimplr.com/",
+    "description": "Software platform to place and manage vetted, qualified students to paid short-term, remote entry level work.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/upskls",
+      "linkedin": "https://linkedin.com/company/worksimplr",
+      "facebook": "https://facebook.com/Worksimplr/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Speak_",
+    "website": "https://speak.careers/",
+    "description": "Engaged Hiring: Making Candidates Stick",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SpeakCareers",
+      "linkedin": "https://linkedin.com/school/speakcareers"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Kaya",
+    "website": "https://joinkaya.com/",
+    "description": "Kaya is an AI-powered people analytics platform that blends organizational psychology with predictive insights to help HR and L&D teams enhance workforce well-being, engagement, and productivity while driving measurable improvements in organizational health.",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kaya-co"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Immigify",
+    "website": "https://immigify.com/",
+    "description": "Immigify addresses the complex and often overwhelming U.S. immigration process, by building Immigration Workflow AI Agents to simplify the immigration process for businesses & their employees.",
+    "location": "Royse City, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/immigify-inc"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Hardly",
+    "website": "https://hardly-work.com/",
+    "description": "Hardly is a robust ecosystem of collaborative career tools that consolidates career support services, enabling them to serve more job seekers and increase economic mobility.",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hardlytech",
+      "linkedin": "https://linkedin.com/company/hardly",
+      "facebook": "https://facebook.com/HardlyWorkTech"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Exitous",
+    "website": "https://exitous.co/",
+    "description": "We make it easy for HR teams to leverage the data they already have in their company systems to empower exiting workers with AI-powered, human-vetted, personalized job exit roadmaps in a caring, wellbeing-focused platform.",
+    "location": "Redlands, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/exitous"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Cantaloupe AI",
+    "website": "https://trycantaloupe.com/",
+    "description": "Cantaloupe AI is an instant AI-powered pre-screening tool that screens applicants via a quick voice-based interview, assessing personality, adaptability, and role compatibility.",
+    "location": "New Orleans, Louisiana, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cantaloupeai"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Provider Pool",
+    "website": "https://providerpool.co/",
+    "description": "Provider Pool is a Nurses On Demand Platform combining the benefits of workforce management with a marketplace of vetted nursing professionals",
+    "location": "St. Louis, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/providerpool",
+      "linkedin": "https://linkedin.com/company/providerpool",
+      "facebook": "https://facebook.com/providerpool/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Performetry",
+    "website": "https://performetry.ai/",
+    "description": "Employee engagement platform for in-house, distributed, and remote teams | Real-time sentiment analysis for leadership and HR.",
+    "location": "Dun Laoghaire, Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/performetry",
+      "linkedin": "https://linkedin.com/company/perfometry",
+      "facebook": "https://facebook.com/performetryAI"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "ACT House",
+    "website": "https://act.house/",
+    "description": "ACT House combines affordable housing and innovation amenities in a coliving model to accelerate the creation of minority owned ventures.",
+    "location": "Tallahassee, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/theacthouse",
+      "facebook": "https://facebook.com/TheACTHouse/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "unremot",
+    "website": "https://unremot.com/",
+    "description": "unremot is a personal office for independent professionals that allows one to discover, request, pay, schedule, and conduct meetings - all of it in one place!",
+    "location": "Kochi, Kerala, India",
+    "social_media": {
+      "twitter": "https://twitter.com/unremot_hq",
+      "linkedin": "https://linkedin.com/company/unremot",
+      "facebook": "https://facebook.com/unremot"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Trova",
+    "website": "https://trova.io/",
+    "description": "An enterprise social network fostering community and connection.",
+    "location": "Hanson, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/trovaus",
+      "linkedin": "https://linkedin.com/company/trovaus",
+      "facebook": "https://facebook.com/TrovaUs"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Transition",
+    "website": "https://jointransition.com/",
+    "description": "Transition bridges the disconnect between Certified Nursing Assistant schools and employers to better match students with jobs and career resources.",
+    "location": "Stone Mountain, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TransitionCNA",
+      "linkedin": "https://linkedin.com/company/join-transition",
+      "facebook": "https://facebook.com/Transition-104648385334502"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Think  Confluent",
+    "website": "https://thinkconfluent.com/",
+    "description": "Moone is a safe-space that helps team leaders understand their employees' needs in 5 minutes/week, no matter where they work.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/moone_hq",
+      "linkedin": "https://linkedin.com/company/thinkconfluent"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "The LO",
+    "website": "https://wearethelo.com/",
+    "description": "A private, membership-based network connecting LGBTQ women to friendships and community near them.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/whvfgdwolpcx93scwoow",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/the-lo"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Stratos",
+    "website": "https://trystratos.com/",
+    "description": "Stratos connects communities to life-changing career and networking opportunities.",
+    "location": "Decatur, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/stratoscard",
+      "linkedin": "https://linkedin.com/company/trystratos",
+      "facebook": "https://facebook.com/stratoscard"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Spiky",
+    "website": "https://spiky.ai/",
+    "description": "AI-based online meeting enhancement platform.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/spikyAI",
+      "linkedin": "https://linkedin.com/company/spiky-ai",
+      "facebook": "https://facebook.com/spikyai/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Slingshot",
+    "website": "https://slingshotahead.com/",
+    "location": "Somerset, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Slingshotahead",
+      "linkedin": "https://linkedin.com/company/68812582",
+      "facebook": "https://facebook.com/slingshotmentor"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Shaka Culture",
+    "website": "https://joinshaka.com/",
+    "description": "Shaka is a virtual employee experience platform helping companies boost employee engagement and build culture via virtual team-bonding tools.",
+    "location": "Irvine, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/JoinShaka",
+      "linkedin": "https://linkedin.com/company/shakacultureapp",
+      "facebook": "https://facebook.com/ShakaCultureApp/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "PeduL",
+    "website": "https://pedul.com/",
+    "description": "PeduL helps employers diversify their workforce with scholarship programs.",
+    "location": "Newark, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/youiiapp",
+      "linkedin": "https://linkedin.com/company/pedul",
+      "facebook": "https://facebook.com/youiiapp"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "OndeCare",
+    "website": "https://ondecare.com/",
+    "description": "OndeCare empowers professional caregivers to provide reliable, high quality in-home family care for all ages, needs and schedules.",
+    "location": "Chagrin Falls, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ondecare",
+      "linkedin": "https://linkedin.com/company/ondecare",
+      "facebook": "https://facebook.com/OndeCare/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "MindStand Technologies",
+    "website": "https://mindstand.com/",
+    "description": "Measuring company culture, one post at a time",
+    "location": "Catonsville, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MindStandT",
+      "linkedin": "https://linkedin.com/company/mindstand-technologies",
+      "facebook": "https://facebook.com/mindstandtech/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Mind-Easy",
+    "website": "https://mind-easy.com/",
+    "description": "Redefining global mental healthcare.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/lxm9eq61zef5vxksghpf",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/mind__easy",
+      "linkedin": "https://linkedin.com/company/mindeasy"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Metavent",
+    "website": "https://metavent.io/",
+    "description": "Metavent is the All-Hands meeting solution for companies of up to 1,000 employees who need fully engaged, aligned and inspired teams.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/metaventful",
+      "linkedin": "https://linkedin.com/company/meta-vent"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Mavity",
+    "website": "https://mavity.co/",
+    "description": "The collaboration tool and payouts platform for remote creative teams.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mavityco",
+      "linkedin": "https://linkedin.com/company/mavity",
+      "facebook": "https://facebook.com/Mavity.co"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Kinumi",
+    "website": "https://kinumi.com/",
+    "description": "Kinumi serves active older adults by providing personal care concierge services to empower them to live independently, while giving loved ones peace of mind.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/joinkinumi",
+      "linkedin": "https://linkedin.com/company/liv-life-in-view",
+      "facebook": "https://facebook.com/LIVLifeinView-177703247126389"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "KeepWOL",
+    "website": "https://keepwol.com/",
+    "description": "Improving employee engagement and retention using games.",
+    "location": "Phoenix, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/playkeepwol",
+      "linkedin": "https://linkedin.com/company/keepwol",
+      "facebook": "https://facebook.com/PlayKeepWOL"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "ion Learning",
+    "website": "https://ionlearning.com/",
+    "description": "ion in an enterprise peer-learning platform that develops leaders people want to follow.",
+    "location": "Del Mar, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/IonLearning",
+      "linkedin": "https://linkedin.com/company/ionlearning",
+      "facebook": "https://facebook.com/ionlearning"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "INPUT SOFT",
+    "website": "https://inputsoft.net/",
+    "description": "INPUT SOFT is a web platform for companies in the aviation industry: helps optimize resources, reduce costs, collect and analyze data from all processes.",
+    "location": "Kyiv, Ukraine",
+    "social_media": {
+      "twitter": "https://twitter.com/inputsoftware",
+      "linkedin": "https://linkedin.com/company/inputsoftware"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Hazel",
+    "website": "https://hazelhq.com/",
+    "description": "*TOP PITCH FROM DEMO DAY* // Hazel helps growing companies develop their managers. Better managers means increased retention and engagement from every employee.",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/workwithhazel",
+      "linkedin": "https://linkedin.com/company/hellohazel",
+      "facebook": "https://facebook.com/hazelhq"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Equipt",
+    "website": "https://joinequipt.com/",
+    "description": "We help fast-growing tech companies attract, recruit, and retain diverse talent by using online community-based learning experiences.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/joinequipt",
+      "facebook": "https://facebook.com/joinequipt/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "DevNation",
+    "website": "https://thedevnation.com/",
+    "description": "DevNation trains Pakistanis with in-demand digital tech skills and connects them with employers for full-time opportunities.",
+    "location": "Lahore, Pakistan",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/thedevnation",
+      "facebook": "https://facebook.com/thedevnation"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "CONCONNECT",
+    "website": "https://conconnect.com/",
+    "description": "The first professional networking platform for the formerly Incarcerated.",
+    "location": "Yonkers, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/conconnectapp",
+      "linkedin": "https://linkedin.com/in/andre-peart",
+      "facebook": "https://facebook.com/ConConnectapp"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Chamba",
+    "website": "https://lachamba.app/",
+    "description": "Chamba helps Latinx job-seekers residing in the USA find jobs through tech.",
+    "location": "Westminster, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/chambalatina",
+      "linkedin": "https://linkedin.com/company/chambalatina",
+      "facebook": "https://facebook.com/chambalatina"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Breakout Experiences",
+    "website": "https://breakout.chat/",
+    "description": "Breakout makes it easy for companies to build strong distributed cultures and reduce employee turnover.",
+    "location": "Washington, District of Columbia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/trybreakout"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Aleria",
+    "website": "https://aleria.tech/",
+    "description": "We measure inclusion in the workplace and pinpoint where organizations should focus to drive impact.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AleriaPbc",
+      "linkedin": "https://linkedin.com/company/11058914",
+      "facebook": "https://facebook.com/aleriapbc/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Waggle",
+    "website": "https://waggle.work/",
+    "description": "An AI copilot that assists managers in all aspects of their business",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/wearewaggle"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Unpacking",
+    "website": "https://unpacking.co/",
+    "description": "Unpacking is an online learning platform for gamified diversity training. We power interactive experiences and analytics to improve organizational culture.",
+    "location": "Tempe, Arizona, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/unpacking_co",
+      "linkedin": "https://linkedin.com/company/unpacking",
+      "facebook": "https://facebook.com/unpacking.co"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Scale",
+    "website": "https://scale.jobs/",
+    "description": "Scale.jobs offers a cutting-edge SaaS solution that transforms the job search experience.",
+    "location": "Woodstock, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/scalejobs",
+      "linkedin": "https://linkedin.com/company/applyatscale"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "NGHBR",
+    "website": "https://nghbr.app/",
+    "description": "NGHBR is a mobile app that allows users to know more about the people around them in real-time.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/twfozzqygrfiqrqkbf34",
+    "location": "Upper Marlboro, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nghbr",
+      "linkedin": "https://linkedin.com/company/nghbr-inc"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "ClubReq",
+    "website": "https://clubreq.com/",
+    "description": "Recruiting made Simple",
+    "location": "Middletown, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/club-req"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Blue Saturn",
+    "website": "https://bluesaturn.io/",
+    "description": "A 7-day hiring engine to simplify the complicated hiring process",
+    "location": "Davie, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/JoinBlueSaturn",
+      "linkedin": "https://linkedin.com/company/joinbluesaturn"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Mox",
+    "website": "https://mox.cash/",
+    "description": "MOX is the infrastructure that connects financial entities to consumers and their paychecks. We interconnect a variety of HR and ERP systems and provide a universal Payroll API.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/ozeyo0xxahhvcyz1enpj",
+    "location": "Monterrey, Mexico",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mox-cash"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Pocmi",
+    "website": "https://pocmi.com/",
+    "description": "Global job marketplace and end-to-end services resource on a SaaS platform catering only to movement across borders.",
+    "location": "Kingston, Saint Andrew Parish, Jamaica",
+    "social_media": {
+      "twitter": "https://twitter.com/pocmi_inc",
+      "linkedin": "https://linkedin.com/company/pocmi"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "GETELEVENAPP",
+    "website": "https://getelevenapp.com/",
+    "description": "Let's crank 1:1s to eleven!",
+    "location": "White Bear Lake, Minnesota, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/yoursecondcall",
+      "linkedin": "https://linkedin.com/company/getelevenapp",
+      "facebook": "https://facebook.com/yoursecondcall/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Aya Holding",
+    "website": "https://beta.ayagigs.com/",
+    "description": "Aya is a curated marketplace for start-ups and mid-level businesses to access vetted web3 digital skilled African talents.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/x9lbs8istzrmewn3o0ld",
+    "location": "Parkville, Maryland, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ayagigs",
+      "linkedin": "https://linkedin.com/company/ayagigs",
+      "facebook": "https://facebook.com/myayagigs"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Nurovant AI",
+    "website": "https://nurovant.com/",
+    "description": "SaaS, Mobile App, Web Platform",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/pokfgnoqb32csxmfaygl",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/nurovantai"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Candidate Tools",
+    "website": "https://candidatetools.com/",
+    "description": "Candidate Tools automates prescreening job applicants who apply for jobs online without using resumes.",
+    "location": "Parker, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/candidate-tools-llc"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Utopia Global Wellness",
+    "website": "https://utopiaspaandglobalwellness.com/",
+    "description": "Welcome to Utopia Global Wellness (UGW) - Where Integrated Workplace Well-Being Meets Belonging--Worldwide! We are your B2B SaaS digital HR and retention partner, combating burnout while elevating employee health, happiness, and productivity on a global scale.",
+    "location": "Durham, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/utopiasgw",
+      "linkedin": "https://linkedin.com/company/utopiasgw",
+      "facebook": "https://facebook.com/UtopiaSGW/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Kindlee",
+    "website": "https://kindlee.co/",
+    "description": "kindlee develops debiasing tools for AI high risk use cases in lending, insurance, recruitment, and beyond",
+    "location": "Den Haag, South Holland, Netherlands",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/meetkindlee"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Galilei Learning",
+    "website": "https://galileilearning.com/",
+    "description": "Boost your deskless employee training with gamified learning and real-life application.",
+    "location": "Medellín, Antioquia, Colombia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/galilei-learning"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "LaborHack",
+    "website": "https://laborhack.com/",
+    "description": "LaborHack is a captive marketplace connecting artisans to certifications and jobs as well as laddered services including payments, savings, micro credit, and micro health insurance",
+    "location": "Lagos, Nigeria",
+    "social_media": {
+      "twitter": "https://twitter.com/Laborhack_ng",
+      "linkedin": "https://linkedin.com/company/laborhack-limited",
+      "facebook": "https://facebook.com/laborhackng"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "GoSprout",
+    "website": "https://gosprout.app/",
+    "description": "GoSprout is a pioneering platform that revolutionizes the management of workforce programs. By streamlining compliance, enhancing employer engagement, and facilitating real-time skills tracking, GoSprout empowers organizations to cultivate a skilled workforce aligned with industry needs. With a focus on energy, STEM, and healthcare sectors, GoSprout is bridging the skills gap, driving workforce readiness, and fostering sustainable growth.",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/gosproutapp"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Untap Technologies",
+    "website": "https://untapcompete.com/",
+    "description": "A platform that empowers organizations to solve their most challenging problems utilizing the power of open innovation and our broad network of experts.",
+    "location": "Mohandeseen Giza, Egypt",
+    "social_media": {
+      "twitter": "https://twitter.com/UntapTech",
+      "linkedin": "https://linkedin.com/company/untap-technologies",
+      "facebook": "https://facebook.com/untap.tech/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "She Matters",
+    "website": "https://shematters.health/",
+    "description": "She Matters is a digital health platform that provides comprehensive maternal care to Black women and cultural competence training to healthcare professionals.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/shematters",
+      "linkedin": "https://linkedin.com/company/she-matters-inc",
+      "facebook": "https://facebook.com/shematters2.us"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Freeflow",
+    "website": "https://freeflow.dev/",
+    "description": "The blockchain developer marketplace for web3 projects.",
+    "location": "Claymont, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FreeflowDev",
+      "linkedin": "https://linkedin.com/company/freeflowdev"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Edizeven",
+    "website": "https://edizeven.com/",
+    "description": "We provide tech-powered, personalized hiring services for restaurants, helping them hire staff 3x faster and better.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/edizeven87",
+      "linkedin": "https://linkedin.com/company/edizeven",
+      "facebook": "https://facebook.com/edizeven87/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Workathlon",
+    "website": "https://workathlon.com/",
+    "description": "An award winning hospitality recruiting software that enables hospitality employers to source, find and recruit the best of talent.",
+    "location": "Marousi, Greece",
+    "social_media": {
+      "twitter": "https://twitter.com/workathlon",
+      "linkedin": "https://linkedin.com/company/workathlon",
+      "facebook": "https://facebook.com/workathlon/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Kuali",
+    "website": "https://kuali.ai/",
+    "description": "We teach computer science and programmming to highschool students through blended learning experience.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/silabuzcom",
+      "linkedin": "https://linkedin.com/company/16170328",
+      "facebook": "https://facebook.com/silabuzcom/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Hirize",
+    "website": "https://hirize.ai/",
+    "description": "Hirize delivers highly accurate document parsing and workflow automation through AI-powered APIs, enabling SaaS platforms and enterprises to seamlessly extract and integrate data for better decision-making and efficiency.",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Hirizeai",
+      "linkedin": "https://linkedin.com/company/hirize"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "fragPaul",
+    "website": "https://frag-paul.de/",
+    "description": "Paul is a digital and personal HR assistant for restaurants",
+    "location": "Köln, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/fragPaul",
+      "linkedin": "https://linkedin.com/company/fragpaul.-der-personalassistent",
+      "facebook": "https://facebook.com/resmentrms/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Challenger",
+    "website": "https://getchallenger.com/",
+    "description": "Challenger Finance is a flexible consumer banking platform for customer and employee retention.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/IncChallenger",
+      "linkedin": "https://linkedin.com/company/challengerfinance"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Ishield",
+    "website": "https://ishield.ai/",
+    "description": "Help companies hire talent 10x faster by automating the entire talent acquisition process using generative AI",
+    "location": "Lewes, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ishield_ai",
+      "linkedin": "https://linkedin.com/company/ishield-ai",
+      "facebook": "https://facebook.com/Ishieldai-102733562149810"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Sike Insights",
+    "website": "https://sikeinsights.com/",
+    "description": "The emotional intelligence platform for remote teams. We help remote managers master EQ to drive performance and employee retention.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sikeinsights",
+      "linkedin": "https://linkedin.com/company/konahq",
+      "facebook": "https://facebook.com/sikeinsights/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "TeacherTalent",
+    "website": "https://teachertalent.io/",
+    "description": "Intelligent hiring for teachers and schools.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/teacher_talent",
+      "linkedin": "https://linkedin.com/company/16242896",
+      "facebook": "https://facebook.com/TeacherTalent/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Dreami",
+    "website": "https://dreami.io/",
+    "description": "Dreami powers equitable and scalable mentorship for all.",
+    "location": "Redwood City, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/joindreami",
+      "linkedin": "https://linkedin.com/company/dreami-io",
+      "facebook": "https://facebook.com/dreami.io"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Uvize",
+    "website": "https://uvize.com/",
+    "description": "Mentorship. Unleashed.",
+    "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/30626-19ab550ca321ebb8fd2e70dd9c2971fa-medium_jpg.jpg?buster=1324414268",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Uvize",
+      "linkedin": "https://linkedin.com/company/uvize-inc",
+      "facebook": "https://facebook.com/pages/Uvize/153019591451334"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Apostrophe",
+    "website": "https://apostrophehealth.com/",
+    "description": "An innovative health plan that saves self-insured employers up to 40% on their healthcare costs, while making their employees happier and healthier.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/apostrophehc",
+      "linkedin": "https://linkedin.com/company/apostrophe-inc.",
+      "facebook": "https://facebook.com/airstreamhealth/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "LLUNA",
+    "website": "https://hellolluna.com/",
+    "description": "LLUNA's technology is the TeamOS for modern employers, combining personal operating profiles and smart dashboards to increase connection, effectiveness, and productivity for individuals, teams, and companies.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/zidxkkhuxrhf58vvk7ye",
+    "location": "Wayne, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/llunalife",
+      "linkedin": "https://linkedin.com/company/llunalife",
+      "facebook": "https://facebook.com/llunalife"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "The Mentor Method",
+    "website": "https://thementormethod.com/",
+    "description": "The Mentor Method is a SaaS platform that designs and implements best-in-class mentorship programs and drives measurable value to all participants.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TheMentorMethod",
+      "linkedin": "https://linkedin.com/company/the-mentor-method",
+      "facebook": "https://facebook.com/thementormethod"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "EMOTAI",
+    "website": "https://emotai.tech/",
+    "description": "Boosting gamers' performance using neurotechnology.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cn17u6ub4fn3ppbuunbn",
+    "location": "Lisbon, Portugal",
+    "social_media": {
+      "twitter": "https://twitter.com/emotai_tech",
+      "linkedin": "https://linkedin.com/company/emotai",
+      "facebook": "https://facebook.com/EmotAI.tech/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Cassiopeia",
+    "website": "https://cassiopeia.tech/",
+    "description": "The solution that fosters a healthier workplace by measuring, predicting and preventing sexual harassment, bullying and discrimination.",
+    "location": "Ramat Gan, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cassiopeia-tech",
+      "facebook": "https://facebook.com/CassiopeiaTech"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "TrueAbility",
+    "website": "https://trueability.com/",
+    "description": "Performance-based IT Skills Assessment, Training and Certification Made Easy",
+    "location": "San Antonio, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/trueability",
+      "linkedin": "https://linkedin.com/company/trueability",
+      "facebook": "https://facebook.com/TrueAbilityScreen"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "OfColor",
+    "website": "https://ofcolor.com/",
+    "description": "OfColor is an enterprise financial wellness platform providing content and banking tools built around how people of color save, spend, and build wealth.",
+    "location": "Maplewood, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/weareofcolor",
+      "linkedin": "https://linkedin.com/company/ofcolor"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "WorkMob",
+    "website": "https://linkedin.com/company/workmob",
+    "description": "Where the best developers in the world find and manage their work",
+    "location": "Berkeley, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/theworkmob",
+      "linkedin": "https://linkedin.com/company/workmob"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Wise Apple",
+    "website": "https://linkedin.com/company/wiseapple",
+    "description": "EatPakd makes school lunch healthy and convenient by delivering fresh, custom lunches directly to your door.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getwiseapple",
+      "linkedin": "https://linkedin.com/company/wiseapple",
+      "facebook": "https://facebook.com/HUSSLUP"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Vacation Fund",
+    "website": "https://linkedin.com/company/vacation-fund",
+    "description": "Vacation Fund is an employer-matched travel savings program that incentivizes employees to put money aside and take meaningful vacations every year.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/getvacationfund",
+      "linkedin": "https://linkedin.com/company/vacation-fund",
+      "facebook": "https://facebook.com/getvacationfund/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Upful",
+    "website": "https://linkedin.com/in/shirini",
+    "description": "Coaching tool to write meaningful & inclusive people evaluations / feedback.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kociwko2szkfzyel9kmt",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/shirini"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Transfer Thought",
+    "website": "https://linkedin.com/company/transferthought",
+    "description": "Quick, deployable, customizable web-based VR training scenarios that run directly in browser.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/transferthought"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Tenacity",
+    "website": "https://linkedin.com/company/tenacity",
+    "description": "Changing behavior and transforming the workplace through peer accountability",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tenacityhealth",
+      "linkedin": "https://linkedin.com/company/tenacity",
+      "facebook": "https://facebook.com/Tenacity"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "TempMine",
+    "website": "https://crunchbase.com/organization/tempmine",
+    "description": "Software for temporary staffing",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tempmine"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Talented",
+    "website": "https://linkedin.com/company/51626202",
+    "description": "Identify and invest in employee potential with the Talented automated professional development & discovery system.",
+    "location": "Chapel Hill, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Talented_App",
+      "linkedin": "https://linkedin.com/company/51626202",
+      "facebook": "https://facebook.com/Talented-1783742028575047/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "SweatFlex",
+    "website": "https://linkedin.com/company/flexintl",
+    "description": "We make working out not suck. Laugh & sweat through our classes while we track your reps to compete with the community. Powered by your Apple Watch.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/flexsweat",
+      "linkedin": "https://linkedin.com/company/flexintl",
+      "facebook": "https://facebook.com/FlexCorporate"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Sophia",
+    "website": "https://linkedin.com/company/trysophia",
+    "description": "practice management for mental health therapists",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sophiatherapy",
+      "linkedin": "https://linkedin.com/company/trysophia",
+      "facebook": "https://facebook.com/trysophia"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "SokoDAO",
+    "website": "https://linkedin.com/company/soko-network",
+    "description": "Soko is a web3 recruiting community changing the way the world works",
+    "location": "Lehi, Utah, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/JoinSoko",
+      "linkedin": "https://linkedin.com/company/soko-network",
+      "facebook": "https://facebook.com/sokoincorporated"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "SocialCapital",
+    "website": "https://linkedin.com/company/socialcapital",
+    "description": "Using just an email address, SocialCapital instantly generates a deep psychological profile which helps you research and communicate with the people that are im",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/socialcapitalio",
+      "linkedin": "https://linkedin.com/company/socialcapital",
+      "facebook": "https://facebook.com/socialcapitalio"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "SimpleForms",
+    "website": "https://linkedin.com/company/simpleforms",
+    "description": "What Tax Form takes the WTF out of employee tax forms through a simple to use interface enabling companies to know they are fully compliant.",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/WhatTaxForm",
+      "linkedin": "https://linkedin.com/company/simpleforms",
+      "facebook": "https://facebook.com/simpleformspbc/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Seshie",
+    "website": "https://linkedin.com/company/seshie",
+    "description": "Seshie is a marketplace of expert guides offering live and virtual team building experiences for organizations to increase employee morale and build company culture.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/etzixq9oo5ba1tzr0hto",
+    "location": "Narberth, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bookseshie",
+      "linkedin": "https://linkedin.com/company/seshie"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Roleshare",
+    "website": "https://linkedin.com/company/roleshare",
+    "description": "Roleshare unlocks shared productivity through job sharing.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/roleshare",
+      "linkedin": "https://linkedin.com/company/roleshare",
+      "facebook": "https://facebook.com/roleshare"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Retentive",
+    "website": "https://linkedin.com/company/showcasejobs",
+    "description": "Showcase makes dense business videos skimmable with chapters, transcripts and shareable highlights. They enable enterprises to own their customer relationships by bringing a suite of video tools into their existing environments.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/showcase_jobs",
+      "linkedin": "https://linkedin.com/company/showcasejobs",
+      "facebook": "https://facebook.com/showcasejobsnyc/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Resonance",
+    "website": "https://linkedin.com/company/resonance-limited",
+    "description": "Resonance is a mobile platform for supply chains to work better together",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/ResoGlob",
+      "linkedin": "https://linkedin.com/company/resonance-limited",
+      "facebook": "https://facebook.com/ResoGlobo"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Recroot",
+    "website": "https://linkedin.com/company/recroot-app",
+    "description": "Video-based hiring tool for high-churn hospitality chains and franchises, where jobseekers apply to hourly job openings by recording a 30-second video. Trusted by Starbucks, TGI Fridays, and Hard Rock Cafe. #hiring #HRtech #video #jobs",
+    "location": "Cahir, Tipperary, Ireland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/recroot-app",
+      "facebook": "https://facebook.com/RecrootApp/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Quimby",
+    "website": "https://linkedin.com/company/quimby",
+    "description": "Emotional resilience app for work",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/o7kwvj5z1hxzeyfibi1j",
+    "location": "Coppell, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/quimby"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Plum",
+    "website": "https://linkedin.com/company/3614314?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId%3A2592863651486775395841%2CVSRPtargetId%3A3614314%2CVSRPcmpt%3Aprimary",
+    "description": "The Plum Lightpad(tm) replaces your existing light switch and connects to your home's WiFi allowing you to control your lights directly from your smart phone while at home or away.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GetPlum",
+      "linkedin": "https://linkedin.com/company/3614314?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId%3A2592863651486775395841%2CVSRPtargetId%3A3614314%2CVSRPcmpt%3Aprimary",
+      "facebook": "https://facebook.com/ube.is.home"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Planted",
+    "website": "https://linkedin.com/company/plantedinc",
+    "description": "Grow your career at a job you'll love",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/planted",
+      "linkedin": "https://linkedin.com/company/plantedinc",
+      "facebook": "https://facebook.com/Lynxsy"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Pathspark",
+    "website": "https://linkedin.com/company/18272060",
+    "description": "Pathspark empowers companies to invest in human capital with performance analytics powered by coaching insights.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pathsparkwork",
+      "linkedin": "https://linkedin.com/company/18272060"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "OFunnel",
+    "website": "https://linkedin.com/company/ofunnel",
+    "description": "Killing cold calls",
+    "location": "Redmond, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ofunnel",
+      "linkedin": "https://linkedin.com/company/ofunnel",
+      "facebook": "https://facebook.com/ofunnel"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Mockmate",
+    "website": "https://linkedin.com/company/mockmate",
+    "description": "Traditional recruitment is dead. Mockmate helps: job seekers practice interviewing, and companies screen candidates faster using natural language processing.",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/MockMate",
+      "linkedin": "https://linkedin.com/company/mockmate",
+      "facebook": "https://facebook.com/Mockmate"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "MFGWorx",
+    "website": "https://linkedin.com/company/mfgworx",
+    "description": "MFGWorx is a live chat job board that targets the manufacturing and industrial sectors connecting hiring managers to candidates instantly and offering various solutions to help close the talent gap.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xsz3ejpqjo0gladolu9y",
+    "location": "Warrenville, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/mfgworx"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Locumunity",
+    "website": "https://linkedin.com/company/locumunity",
+    "description": "Where job-seeking physicians and medical facilities connect. We strive to be a data and community driven platform.",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/Locumunity",
+      "linkedin": "https://linkedin.com/company/locumunity",
+      "facebook": "https://facebook.com/locumunity"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Kutumbita",
+    "website": "https://linkedin.com/company/kinshipai",
+    "description": "Kutumbita is an engagement platform for the factory workforce that enables managers to communicate with workers, improving retention and productivity.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "twitter": "https://twitter.com/kutumbita",
+      "linkedin": "https://linkedin.com/company/kinshipai",
+      "facebook": "https://facebook.com/kinshipai/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Kodo",
+    "website": "https://linkedin.com/company/kodotechnologies",
+    "description": "Unlocking Your Teams Potential is Work. We Make it Easy.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getkodo",
+      "linkedin": "https://linkedin.com/company/kodotechnologies",
+      "facebook": "https://facebook.com/getsustain"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Joonko",
+    "website": "https://linkedin.com/company/joonkorecruitmentsoftware",
+    "description": "The first AI-powered personal diversity & inclusion coach, for companies",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/joonkoHQ",
+      "linkedin": "https://linkedin.com/company/joonkorecruitmentsoftware",
+      "facebook": "https://facebook.com/JoonkoHQ/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "hyphen",
+    "website": "https://linkedin.com/company/join-hyphen",
+    "description": "Infrastructure for institutional DeFi, custody, trading, and compliance.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/v1445135382/w5wwsp2kbop9jnmh9ktq.png",
+    "location": "Berkeley, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HyphenApp",
+      "linkedin": "https://linkedin.com/company/join-hyphen",
+      "facebook": "https://facebook.com/pages/Hyphen/1635658756668081"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "HUSSLUP",
+    "website": "https://linkedin.com/company/husslup",
+    "description": "HUSSLUP is a searchable network connecting creative talent in media and entertainment to each other and to the companies that need them to democratize access.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/HUSSLUP",
+      "linkedin": "https://linkedin.com/company/husslup",
+      "facebook": "https://facebook.com/HUSSLUP"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Highre",
+    "website": "https://linkedin.com/company/highre",
+    "description": "A hassle-free virtual career fair platform, helping universities move campus job fairs online. #CollegeRecruiting #Education #Universities #VirtualEvents #SaaS",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/highre_co",
+      "linkedin": "https://linkedin.com/company/highre",
+      "facebook": "https://facebook.com/highre.co/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Grove",
+    "website": "https://linkedin.com/company/grove-group",
+    "description": "Technology for local, healthy food. Products that help people grow their own food right where they live.",
+    "location": "Somerville, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GroveLabs",
+      "linkedin": "https://linkedin.com/company/grove-group",
+      "facebook": "https://facebook.com/GroveLabs"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Gritly",
+    "website": "https://linkedin.com/company/gritlyhq",
+    "description": "Gritly is building the infrastructure for skills-based training & hiring.",
+    "location": "Northglenn, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Gritly_HQ",
+      "linkedin": "https://linkedin.com/company/gritlyhq",
+      "facebook": "https://facebook.com/Internalyze/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Green Room App",
+    "website": "https://linkedin.com/company/greenroomapp",
+    "description": "Green Room is building the tools that let live entertainers be their own business managers by providing modern payments, tax compliance, and benefits.",
+    "location": "Houston, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getgreenroom",
+      "linkedin": "https://linkedin.com/company/greenroomapp",
+      "facebook": "https://facebook.com/getgreenroom/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Gofer",
+    "website": "https://linkedin.com/company/gofer-solutions-ltd",
+    "description": "The tech-powered community of hospitality professionals that reinvents work-on-demand.",
+    "location": "Sèvres, France",
+    "social_media": {
+      "twitter": "https://twitter.com/gofer_fr",
+      "linkedin": "https://linkedin.com/company/gofer-solutions-ltd",
+      "facebook": "https://facebook.com/goferfr/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Gather Data",
+    "website": "https://linkedin.com/company/gather-app-ltd",
+    "description": "Gather is a personalised web meeting platform shaped around your specific business needs.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gatherinsurance",
+      "linkedin": "https://linkedin.com/company/gather-app-ltd",
+      "facebook": "https://facebook.com/Gathercom/105367686164667"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Futury",
+    "website": "https://linkedin.com/company/jobeek-",
+    "description": "Futury helps engineers to make data-driven career decisions.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/futuryio",
+      "linkedin": "https://linkedin.com/company/jobeek-",
+      "facebook": "https://facebook.com/futuryi0/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Foreverly Co",
+    "website": "https://linkedin.com/company/foreverlyco",
+    "description": "Our mission is to make dealing with death a little less stressful.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/foreverlyco",
+      "linkedin": "https://linkedin.com/company/foreverlyco",
+      "facebook": "https://facebook.com/ForeverlyCo/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Forefront",
+    "website": "https://linkedin.com/company/forefront-analytics",
+    "description": "Our human-like AI recruiting assistants like Toni and Lee help employers hire top Gen-Z talent.",
+    "location": "Lindenhurst, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/_Forefront",
+      "linkedin": "https://linkedin.com/company/forefront-analytics",
+      "facebook": "https://facebook.com/MyForefront/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "FairFrame",
+    "website": "https://linkedin.com/company/fairframe",
+    "description": "The first AI-powered \"spellchecker\" for unconscious gender bias...",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FairFrameIO",
+      "linkedin": "https://linkedin.com/company/fairframe",
+      "facebook": "https://facebook.com/fairframediversity/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Dot Team",
+    "website": "https://linkedin.com/company/welcomedot",
+    "description": "Platform helping employees improve their financial wellbeing through a suite of automated optimizations and tools.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cnwoopzsvr83dvsuxcxs",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/welcomedot"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Divercity",
+    "website": "https://linkedin.com/company/divercity-io",
+    "description": "Divercity.io helps tech companies measure and track their diversity breakdown and helps them improve it by connecting them with qualified diverse talent.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/getdivercity",
+      "linkedin": "https://linkedin.com/company/divercity-io",
+      "facebook": "https://facebook.com/divercityapp"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Crescendo",
+    "website": "https://linkedin.com/company/crescendomusic",
+    "description": "Crescendo is an AI-powered interactive music trainer that facilitates focused practice and immediate feedback.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/CrescendoWork",
+      "linkedin": "https://linkedin.com/company/crescendomusic",
+      "facebook": "https://facebook.com/crescendowork/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Clusiv",
+    "website": "https://linkedin.com/company/clusiv",
+    "description": "Clusiv is the creator of the world's first e-learning and accessible onboarding platform built for and by blind and partially sighted people.",
+    "location": "Pflugerville, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ClusivInc",
+      "linkedin": "https://linkedin.com/company/clusiv",
+      "facebook": "https://facebook.com/clusivinc"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Candidly",
+    "website": "https://linkedin.com/company/getcandidly",
+    "description": "Compare and hire local candid photographers",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bekandid",
+      "linkedin": "https://linkedin.com/company/getcandidly",
+      "facebook": "https://facebook.com/trueskillsatwork/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Bidvine",
+    "website": "https://linkedin.com/company/bark-com",
+    "description": "Need something done? Bidvine can help you find the right professional without all of the legwork.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/bidvine",
+      "linkedin": "https://linkedin.com/company/bark-com",
+      "facebook": "https://facebook.com/bidvine"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Amelia",
+    "website": "https://linkedin.com/company/fly-amelia",
+    "description": "Amelia is a global integrated aeronautics company that provides charter and ACMI services for business, corporate, and regional travel.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ameliaaero",
+      "linkedin": "https://linkedin.com/company/fly-amelia",
+      "facebook": "https://facebook.com/ameliaaero4"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Allie",
+    "website": "https://linkedin.com/company/allie",
+    "description": "We help companies build inclusive culture.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/alliebotHQ",
+      "linkedin": "https://linkedin.com/company/allie"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "AdaptiLab",
+    "website": "https://linkedin.com/company/adaptilab",
+    "description": "Growing machine learning teams from hiring to productivity.",
+    "location": "Bellevue, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AdaptiLab",
+      "linkedin": "https://linkedin.com/company/adaptilab",
+      "facebook": "https://facebook.com/adaptilab/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Second Degree",
+    "website": "https://linkedin.com/company/80905178",
+    "description": "Second Degree helps companies recruit LATAM remote engineers through a peer-to-peer referral network.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/a4q4a3ejy8tdh65jqm7m",
+    "location": "Key Biscayne, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/80905178"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "EQLAB",
+    "website": "https://linkedin.com/company/eqlab-global",
+    "description": "Building a metaverse that will provide meaningful education, healthcare and mediation services to the populations that most need it",
+    "location": "St. Petersburg, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/eqlab-global"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Swiftly",
+    "website": "https://linkedin.com/company/swiftlyone",
+    "description": "World's first AI platform that searches and applies for jobs",
+    "location": "Stockholm, Sweden",
+    "social_media": {
+      "twitter": "https://twitter.com/hire",
+      "linkedin": "https://linkedin.com/company/swiftlyone",
+      "facebook": "https://facebook.com/swiftlyone"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Talk Hiring",
+    "website": "https://linkedin.com/company/talk-hiring",
+    "description": "From voice to career.",
+    "location": "The Bronx, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/talkhiring",
+      "linkedin": "https://linkedin.com/company/talk-hiring",
+      "facebook": "https://facebook.com/talkhiring"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Increment Analytics",
+    "website": "https://linkedin.com/company/incrementmanufacturing",
+    "description": "Building labor resilience infrastructure for industrial workers.",
+    "location": "South Bend, Indiana, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/IncrementTweets",
+      "linkedin": "https://linkedin.com/company/incrementmanufacturing",
+      "facebook": "https://facebook.com/incrementstudios"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Stacked",
+    "website": "https://linkedin.com/company/stckdapp",
+    "description": "Gives hiring teams deep access to diverse, socially-vetted and high-quality talent.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/heystackhq",
+      "linkedin": "https://linkedin.com/company/stckdapp"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Speedwell & Yarrow",
+    "website": "https://linkedin.com/company/strongsuit",
+    "description": "We help companies retain top talent and increase diversity with a smart, scalable, concierge to help high-potential talent manage the craziness of their lives.",
+    "location": "Columbus, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SpeedwellYarrow",
+      "linkedin": "https://linkedin.com/company/strongsuit"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Verificient Technologies",
+    "website": "https://verificient.com/",
+    "description": "Specializing in scalable continuous identity verification solutions through machine learning and biometrics",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Verificient",
+      "linkedin": "https://linkedin.com/company/verificient-technologies",
+      "facebook": "https://facebook.com/verificient"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Family+Happy",
+    "website": "https://babysitter.familyhappy.it/",
+    "description": "We revolutionize parents' quality of life by solving their top problems from one platform. We built a unique certification protocol to maximize service trust, quality and velocity.",
+    "location": "Turin, Turin, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/family-happy-babysitter",
+      "facebook": "https://facebook.com/FamilyHappySocial"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  },
+  {
+    "name": "Creative Futures Collective",
+    "website": "https://creativefuturescollective.com/",
+    "description": "Diversity, equity and inclusion marketplace connecting talent from disenfranchised communities to employment opportunities within the creative industries.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Collective_CF",
+      "linkedin": "https://linkedin.com/company/creative-futures-collective",
+      "facebook": "https://facebook.com/loqules/"
+    },
+    "industry": "HRtech",
+    "industry_slug": "hrtech"
+  }
+]

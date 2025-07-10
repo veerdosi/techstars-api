@@ -1,0 +1,23 @@
+{
+  "name": "Rainwalk Technology",
+  "slug": "rainwalk-technology",
+  "website": "https://rainwalk.io/",
+  "description": "Rainwalk is Pet Health Insurance embedded in shelters at point of adoption.",
+  "one_liner": "Rainwalk is Pet Health Insurance embedded in shelters at point of adoption.",
+  "location": "Columbia, South Carolina, United States",
+  "industry": "Insurtech",
+  "industry_slug": "insurtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/rainwalk",
+    "facebook": "https://facebook.com/rainwalkinsurance"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rainwalk-technology",
+  "api": "/api/companies/rainwalk-technology.json"
+}

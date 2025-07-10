@@ -1,0 +1,22 @@
+{
+  "name": "neuroLytixs",
+  "slug": "neurolytixs",
+  "website": "https://neurolytixs.com/",
+  "description": "Brain Health For The Next Generation",
+  "one_liner": "Brain Health For The Next Generation",
+  "location": "Toronto, Ontario, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/neurolytixs"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/neurolytixs",
+  "api": "/api/companies/neurolytixs.json"
+}

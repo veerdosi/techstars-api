@@ -1,0 +1,22 @@
+{
+  "name": "Ozeki Legal Technologies",
+  "slug": "ozeki-legal-technologies",
+  "website": "https://ozeki.ai/",
+  "description": "AI-powered software to help users negotiate contracts for better, faster, safer outcomes.",
+  "one_liner": "AI-powered software to help users negotiate contracts for better, faster, safer outcomes.",
+  "location": "Mill Valley, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/ozeki-technologies"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ozeki-legal-technologies",
+  "api": "/api/companies/ozeki-legal-technologies.json"
+}

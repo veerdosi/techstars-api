@@ -1,0 +1,23 @@
+{
+  "name": "Canopie",
+  "slug": "canopie",
+  "website": "https://canopie.app/",
+  "description": "Canopie is a digital platform that provides new moms with personalized, evidence-based therapeutic techniques to prevent and address symptoms of maternal depression and anxiety.",
+  "one_liner": "Canopie is a digital platform that provides new moms with personalized, evidence-based therapeutic techniques to prevent and address symptoms of maternal depression and anxiety.",
+  "location": "Falls Church, Virginia, United States",
+  "industry": "Femtech",
+  "industry_slug": "femtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Canopiehealth",
+    "linkedin": "https://linkedin.com/company/canopie"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/canopie",
+  "api": "/api/companies/canopie.json"
+}

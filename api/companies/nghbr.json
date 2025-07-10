@@ -1,0 +1,23 @@
+{
+  "name": "NGHBR",
+  "slug": "nghbr",
+  "website": "https://nghbr.app/",
+  "description": "NGHBR is a mobile app that allows users to know more about the people around them in real-time.",
+  "one_liner": "NGHBR is a mobile app that allows users to know more about the people around them in real-time.",
+  "location": "Upper Marlboro, Maryland, United States",
+  "industry": "Adtech",
+  "industry_slug": "adtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/twfozzqygrfiqrqkbf34",
+  "social_media": {
+    "twitter": "https://twitter.com/nghbr",
+    "linkedin": "https://linkedin.com/company/nghbr-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/nghbr",
+  "api": "/api/companies/nghbr.json"
+}

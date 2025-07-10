@@ -1,0 +1,24 @@
+{
+  "name": "Grace",
+  "slug": "grace",
+  "website": "https://linkedin.com/company/grace-accelerator",
+  "description": "Grace is revolutionizing the $20b funeral industry with an end-of-life planning platform built to help families focus on what matters.",
+  "one_liner": "Grace is revolutionizing the $20b funeral industry with an end-of-life planning platform built to help families focus on what matters.",
+  "location": "Los Angeles, California, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/MeetGrace",
+    "linkedin": "https://linkedin.com/company/grace-accelerator",
+    "facebook": "https://facebook.com/gracehq/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/grace",
+  "api": "/api/companies/grace.json"
+}

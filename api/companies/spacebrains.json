@@ -1,0 +1,22 @@
+{
+  "name": "spacebrains",
+  "slug": "spacebrains",
+  "website": "https://spacebrains.tech/",
+  "description": "Helping engineering pros land their next favorite job.",
+  "one_liner": "Helping engineering pros land their next favorite job.",
+  "location": "Bratislava, Slovakia",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/spacebrains"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/spacebrains",
+  "api": "/api/companies/spacebrains.json"
+}

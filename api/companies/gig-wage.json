@@ -1,0 +1,24 @@
+{
+  "name": "Gig Wage",
+  "slug": "gig-wage",
+  "website": "https://gigwage.com/",
+  "description": "Modern 1099 gig payments for the future of work.",
+  "one_liner": "Modern 1099 gig payments for the future of work.",
+  "location": "Dallas, Texas, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/GigWage",
+    "linkedin": "https://linkedin.com/company/gigwage",
+    "facebook": "https://facebook.com/gigwage"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/gig-wage",
+  "api": "/api/companies/gig-wage.json"
+}

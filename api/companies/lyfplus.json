@@ -1,0 +1,22 @@
+{
+  "name": "LyfPlus",
+  "slug": "lyfplus",
+  "website": "https://lyfplus.com/",
+  "description": "LyfPlus provides a software infrastructure for health facilities to set up custom digital health products that suit their patient needs. The module-based architecture allows products like telehealth, EHRs and e-pharmacies to be developed, deployed and scaled independently.\n\nHealth facilities can;\n\n1. Quickly set up and launch solutions across the patient value chain at $0 initial cost.\n2. Use data insights to predict patient dynamics and enhance the quality of their services.\n3.",
+  "one_liner": "LyfPlus provides a software infrastructure for health facilities to set up custom digital health products that suit their patient needs. The module-based architecture allows products like telehealth, EHRs and e-pharmacies to be developed, deployed and scaled independently.\n\nHealth facilities can;\n\n1. Quickly set up and launch solutions across the patient value chain at $0 initial cost.\n2. Use data insights to predict patient dynamics and enhance the quality of their services.\n3.",
+  "location": "Dar es Salaam, Dar es Salaam Region, Tanzania",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/dp0r1ioexn5ol9c5uxg4",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/lyfplus-limited"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/lyfplus",
+  "api": "/api/companies/lyfplus.json"
+}

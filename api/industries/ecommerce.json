@@ -1,0 +1,763 @@
+[
+  {
+    "name": "TRED",
+    "website": "https://tred.com/",
+    "description": "Sell your car quickly for more money",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tred",
+      "linkedin": "https://linkedin.com/company/tred",
+      "facebook": "https://facebook.com/tredsite"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "lovepop",
+    "website": "https://lovepopcards.com/",
+    "description": "lovepop creates amazing paper art. unexpected. every time.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lovepop",
+      "linkedin": "https://linkedin.com/company/lovepop-cards",
+      "facebook": "https://facebook.com/sharer.php"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Rheaply",
+    "website": "https://rheaply.com/",
+    "description": "Rheaply platform allows organizations to save money, time, and the environment internally while also empowering STEM education in high schools and universities.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rheaplyinc",
+      "linkedin": "https://linkedin.com/company/rheaply-inc.",
+      "facebook": "https://facebook.com/rheaply"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Timehop",
+    "website": "https://timehop.com/",
+    "description": "A time capsule of you",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/timehop",
+      "linkedin": "https://linkedin.com/company/timehop",
+      "facebook": "https://facebook.com/timehop"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Unmade",
+    "website": "https://unmade.com/",
+    "description": "Knyttan is a vertically integrated fashion brand whose unique technology allows it to offer more designs and respond to trends faster than any existing retailer.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/unmadeworks",
+      "linkedin": "https://linkedin.com/company/unmade-ltd",
+      "facebook": "https://facebook.com/UMdStudioLondon/"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Unreal Estate",
+    "website": "https://unrealestate.com/",
+    "description": "Get your Dream Home with your Dream Team.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/TeamAbode",
+      "linkedin": "https://linkedin.com/company/abode-technologies",
+      "facebook": "https://facebook.com/AbodeSpace/"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "hobbyDB",
+    "website": "https://hobbydb.com/",
+    "description": "A catalog of every collectible ever made where collectors can buy, sell, research and show off.",
+    "location": "Superior, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hobbyDB",
+      "linkedin": "https://linkedin.com/company/hobbydb",
+      "facebook": "https://facebook.com/hobbyDB"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Toolsvilla",
+    "website": "https://toolsvilla.com/",
+    "description": "A Digital Marketplace for Machinery, Tools & Equipment that solve operational inefficiencies in the farm & food businesses of India.",
+    "location": "Durgapur, West Bengal, India",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/toolsvilla",
+      "facebook": "https://facebook.com/toolsvilla/"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Garmentory",
+    "website": "https://garmentory.com/",
+    "description": "Shop the best of the sale from boutiques and designers",
+    "location": "Bellevue, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/garmentory",
+      "linkedin": "https://linkedin.com/company/garmentory",
+      "facebook": "https://facebook.com/Garmentory"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "CountertopSmart",
+    "website": "https://countertopsmart.com/",
+    "description": "CountertopSmart is an online marketplace for purchasing ''partial slabs'', or ''countertop remnants''.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/countertopsmart",
+      "linkedin": "https://linkedin.com/company/countertopsmart",
+      "facebook": "https://facebook.com/countertopsmart/"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "SideTour",
+    "website": "https://sidetour.com/",
+    "description": "Marketplace for unique experiences",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/sidetour",
+      "linkedin": "https://linkedin.com/company/2298084",
+      "facebook": "https://facebook.com/SideTour"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Litographs",
+    "website": "https://litographs.com/",
+    "description": "Books on posters, t-shirts and tote bags",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/litographs",
+      "linkedin": "https://linkedin.com/company/litographs",
+      "facebook": "https://facebook.com/litographs"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Stryd",
+    "website": "https://stryd.com/",
+    "description": "The world's first power meter for runners.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/strydrunning",
+      "linkedin": "https://linkedin.com/company/strydapp",
+      "facebook": "https://facebook.com/teamstryd"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Card Isle",
+    "website": "https://cardisle.com/",
+    "description": "Send meaningful greeting cards",
+    "location": "Blacksburg, Virginia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/CardIsle",
+      "linkedin": "https://linkedin.com/company/card-isle",
+      "facebook": "https://facebook.com/theCardIsle"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Flomio",
+    "website": "https://flomio.com/",
+    "description": "NFC and RFID solutions for Developers",
+    "location": "Miami Beach, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/flomio",
+      "linkedin": "https://linkedin.com/in/timronan",
+      "facebook": "https://facebook.com/pages/Flomio/218724368144282"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Motoroso",
+    "website": "https://motoroso.com/",
+    "description": "Motoroso.com is the market network for the $36B auto aftermarket,  bringing enthusiasts and businesses together on a single platform. Motoroso is like Houzz.com for gearheads.",
+    "location": "Santa Clara, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/motorosoapp",
+      "linkedin": "https://linkedin.com/company/motoroso",
+      "facebook": "https://facebook.com/motorosoapp"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "LendKoi",
+    "website": "https://lendkoi.com/",
+    "description": "LendKoi helps high-earning expats and immigrants at Fortune 500 companies build U.S. credit history by providing personal loans and credit solutions.",
+    "location": "Sunrise, Florida, United States",
+    "social_media": {},
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Kaavio",
+    "website": "https://kaavio.ai/",
+    "description": "Kaavio automates product catalog management for B2B distributors, eliminating fragmented and manual processes to enhance product content and drive sales.",
+    "location": "Danville, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kaavio-ai"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "The Daily Sale Shop",
+    "website": "https://thedailysale.shop/",
+    "description": "Empowering African e-commerce, The Daily Sale Shop connects customers to affordable products with a seamless online shopping experience.",
+    "location": "New York City, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thedailysalezw",
+      "linkedin": "https://linkedin.com/in/kuda-manzanga-",
+      "facebook": "https://facebook.com/dailysaleshopzw/"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "REZA",
+    "website": "https://rezafootwear.com/",
+    "description": "REZA is an up-coming footwear brand that specializes in light-up footwear.",
+    "location": "Detroit, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rezafootwear"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "frnt",
+    "website": "https://frnt.co/",
+    "description": "Making live shopping measurable.",
+    "location": "London, England, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/frnthq/",
+      "linkedin": "https://linkedin.com/company/frnthq"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "BETTAKNIT",
+    "website": "https://bettaknit.com/",
+    "description": "A community-based approach to rethinking DIY sustainable knitting",
+    "location": "Prato, Prato, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bettaknit"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Pepperest",
+    "website": "https://pepperest.com/",
+    "description": "A social commerce platform that allows merchants to set up, manage and grow businesses online using functional tools.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/usepeppa",
+      "linkedin": "https://linkedin.com/company/usepeppa",
+      "facebook": "https://facebook.com/peppa.io"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Carwyze",
+    "website": "https://carwyze.de/",
+    "description": "Carwyze is a car e-commerce startup with AI ML car buyout system, embedded financial & insurance products and car owner bundle subscription.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/repxwbt7vbgawmjlra9p",
+    "location": "Cottbus, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/carwyze"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Stellar Reviews",
+    "website": "https://stellarreviews.com/",
+    "description": "Get honest advice from your friends about what you need for your baby",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wee_spring",
+      "linkedin": "https://linkedin.com/company/stellar-reviews",
+      "facebook": "https://facebook.com/weeSpring"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "EasyShake®",
+    "website": "https://theeasyshake.com/",
+    "description": "Fast, convenient, cleanup-free protein shakes. Access to convenient nutrition is key to living a healthy, happy life. Experience effortless nutrition that fits seamlessly into your busy lifestyle so you can reclaim your time for what truly matters!",
+    "location": "Manhattan Beach, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/easyshake"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "ACT House",
+    "website": "https://act.house/",
+    "description": "ACT House combines affordable housing and innovation amenities in a coliving model to accelerate the creation of minority owned ventures.",
+    "location": "Tallahassee, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/theacthouse",
+      "facebook": "https://facebook.com/TheACTHouse/"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "OurPass",
+    "website": "https://ourpass.co/",
+    "description": "Africa's fastest one-click checkout for digital commerce",
+    "location": "Lewes, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/OurPassCo",
+      "linkedin": "https://linkedin.com/company/ourpasskey",
+      "facebook": "https://facebook.com/Pass-117366846773807/"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "FreeTextbooks",
+    "website": "https://freetextbooks.com/",
+    "description": "Crowdsourced campus bookstores.",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/freetextbooks",
+      "linkedin": "https://linkedin.com/company/3636312",
+      "facebook": "https://facebook.com/freetextbooks"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "InstaGift",
+    "website": "https://instagift.com/",
+    "description": "The easiest way to sell gift cards online and build complementary rewards programs",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/InstaGift",
+      "linkedin": "https://linkedin.com/company/instagift",
+      "facebook": "https://facebook.com/dealcoop"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "ZIIBRA",
+    "website": "https://ziibra.com/",
+    "description": "Helping online retailers convert window shoppers into loyal customers",
+    "location": "Bellevue, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ZIIBRA",
+      "linkedin": "https://linkedin.com/company/ziibra-inc-",
+      "facebook": "https://facebook.com/weareziibra/"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "The Shared Web",
+    "website": "https://useframe.com/",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thesharedweb",
+      "facebook": "https://facebook.com/TheSharedWeb"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Pickie",
+    "website": "https://pickie.com/",
+    "description": "Social commerce",
+    "logo_url": "https://pbs.twimg.com/profile_images/378800000265140889/849b7a00e36ab1a3c4f73f3c3f7d4c44_bigger.png",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pickie",
+      "linkedin": "https://linkedin.com/company/pickie",
+      "facebook": "https://facebook.com/pickieco"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "MartMobi Technologies",
+    "website": "https://martmobi.com/",
+    "description": "Mobile eCommerce Platform",
+    "logo_url": "https://pbs.twimg.com/profile_images/3759778042/131090c8741a97bcbd4649666cc979f0.jpeg",
+    "location": "Arlington Heights, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MartMobiHQ",
+      "linkedin": "https://linkedin.com/company/martmobi-technologies-inc",
+      "facebook": "https://facebook.com/MartMobiHQ"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Foodzie",
+    "website": "https://foodzie.com/",
+    "description": "Web-based artisan food subscription",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/foodzie",
+      "linkedin": "https://linkedin.com/company/203067",
+      "facebook": "https://facebook.com/foodzie"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "NMRKT",
+    "website": "https://nmrkt.com/",
+    "description": "Turning readers into shoppers",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ShopNMRKT",
+      "linkedin": "https://linkedin.com/company/nmrkt",
+      "facebook": "https://facebook.com/nmrkt"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Whirl",
+    "website": "https://linkedin.com/company/letswhirl",
+    "description": "Whirl is a matchmaking platform where anyone can set up their single friends.",
+    "location": "South San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/theblindcupid",
+      "linkedin": "https://linkedin.com/company/letswhirl"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Wantworthy",
+    "website": "https://linkedin.com/company/1734944",
+    "description": "Keep track of everything you want",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wantworthy",
+      "linkedin": "https://linkedin.com/company/1734944",
+      "facebook": "https://facebook.com/Wantworthy"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "TrueFacet",
+    "website": "https://linkedin.com/company/truefacet",
+    "description": "Shop and sell designer jewelry with confidence",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/truefacet",
+      "linkedin": "https://linkedin.com/company/truefacet",
+      "facebook": "https://facebook.com/TrueFacet"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "ToVieFor",
+    "website": "https://crunchbase.com/organization/toviefor",
+    "description": "Choose the price you pay for lux fashion",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/toviefor"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Thrive Savings",
+    "website": "https://linkedin.com/company/thrivesavings",
+    "description": "Empowered spending for Generation Z.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/ThriveSavings",
+      "linkedin": "https://linkedin.com/company/thrivesavings",
+      "facebook": "https://facebook.com/thrivesavings/"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "The Highway Girl",
+    "website": "https://linkedin.com/company/the-highway-girl",
+    "description": "A traveling music show, website and tour",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thehighwaygirl",
+      "linkedin": "https://linkedin.com/company/the-highway-girl",
+      "facebook": "https://facebook.com/TheHighwayGirl"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Stefan's Head",
+    "website": "https://linkedin.com/company/stefan's-head",
+    "description": "Text message driven retail brand TXT STEFAN: 646-759-0904",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/stefanshead",
+      "linkedin": "https://linkedin.com/company/stefan's-head",
+      "facebook": "https://facebook.com/stefanshead/"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "ShortCut",
+    "website": "https://crunchbase.com/organization/eat-in-my-seat",
+    "description": "Improving live events by allowing in-seat ordering at a venue",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/shortcutapp",
+      "facebook": "https://facebook.com/ShortcutApp1"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Shopsy",
+    "website": "https://linkedin.com/company/2931422",
+    "description": "The retail graph",
+    "location": "Yorktown Heights, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/helloshopsy",
+      "linkedin": "https://linkedin.com/company/2931422",
+      "facebook": "https://facebook.com/pages/Shopsy/247853828576629"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "RollSale",
+    "website": "https://linkedin.com/company/1994162",
+    "description": "Disrupting automotive wholesale",
+    "logo_url": "http://pbs.twimg.com/profile_images/1639954506/big_ios_icon_bigger.png",
+    "location": "St. Louis, Missouri, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rollsale",
+      "linkedin": "https://linkedin.com/company/1994162",
+      "facebook": "https://facebook.com/rollsale"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Revio",
+    "website": "https://linkedin.com/in/christopherleebailey",
+    "description": "Revio is a telematics hardware platform that uses connected devices to make power sports safer and more secure.",
+    "location": "Louisville, Kentucky, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/myrevio",
+      "linkedin": "https://linkedin.com/in/christopherleebailey",
+      "facebook": "https://facebook.com/reviotech/"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Rares",
+    "website": "https://linkedin.com/company/rares-app",
+    "description": "Invest in the culture! We are a consumer-facing investing platform that allows users to invest and trade shares in ultra-collectible assets.",
+    "location": "Las Vegas, Nevada, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/raresapp",
+      "linkedin": "https://linkedin.com/company/rares-app"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Provender",
+    "website": "https://linkedin.com/company/provender",
+    "description": "A marketplace for growers and buyers of fresh food",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/provender",
+      "linkedin": "https://linkedin.com/company/provender",
+      "facebook": "https://facebook.com/getprovender"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Postmaster",
+    "website": "https://linkedin.com/company/postmaster-sp-zoo",
+    "description": "A simple API for shipping packages",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/postmaster_io",
+      "linkedin": "https://linkedin.com/company/postmaster-sp-zoo",
+      "facebook": "https://facebook.com/postmasterio"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Paymins",
+    "website": "https://linkedin.com/company/paymins",
+    "description": "Mobile Payments Made Simple",
+    "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/158127-f9f49885be0bb68480ebcb86752c9abc-medium_jpg.jpg?buster=1363718395",
+    "location": "Dublin, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/PayMins",
+      "linkedin": "https://linkedin.com/company/paymins",
+      "facebook": "https://facebook.com/PayMinsCom"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Murfie",
+    "website": "https://linkedin.com/company/murfie",
+    "description": "Music lovers collect",
+    "location": "Madison, Wisconsin, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/murfiemusic",
+      "linkedin": "https://linkedin.com/company/murfie",
+      "facebook": "https://facebook.com/murfiemusic"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Moveline",
+    "website": "https://linkedin.com/company/moveline",
+    "description": "Web app to help people move long distances and save money",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/moveline",
+      "linkedin": "https://linkedin.com/company/moveline",
+      "facebook": "https://facebook.com/moveline"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Modabound",
+    "website": "https://linkedin.com/company/3068685",
+    "description": "Local fashion marketplace",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/modabound",
+      "linkedin": "https://linkedin.com/company/3068685",
+      "facebook": "https://facebook.com/ModaBound"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "IntelligentX",
+    "website": "https://linkedin.com/company/intelligent-layer",
+    "description": "IntelligentX is a food and beverage company, aiming to create the most entertaining and engaging consumer product experience on the planet.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/intelligentx_ai",
+      "linkedin": "https://linkedin.com/company/intelligent-layer",
+      "facebook": "https://facebook.com/intelligentxai/"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Gone",
+    "website": "https://linkedin.com/company/gone-app",
+    "description": "Price, resell, ship, recycle",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thegoneapp",
+      "linkedin": "https://linkedin.com/company/gone-app",
+      "facebook": "https://facebook.com/thegoneapp"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Given Goods",
+    "website": "https://linkedin.com/pub/riley-end",
+    "description": "Marketplace for products that give back",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GivenGoods",
+      "linkedin": "https://linkedin.com/pub/riley-end",
+      "facebook": "https://facebook.com/givengoodscompany"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "CartFresh",
+    "website": "https://linkedin.com/company/10073294",
+    "description": "CartFresh is the only comprehensive white-label delivery solution for grocery retailers.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gvmachines",
+      "linkedin": "https://linkedin.com/company/10073294",
+      "facebook": "https://facebook.com/cartfresh"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Buy Play Win",
+    "website": "https://linkedin.com/company/buyplaywin-inc.",
+    "description": "Combines online shopping with tournament games",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/BuyPlayWin",
+      "linkedin": "https://linkedin.com/company/buyplaywin-inc."
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  },
+  {
+    "name": "Bondsy",
+    "website": "https://linkedin.com/company/bondsy",
+    "description": "The easiest way to put things back into the world",
+    "logo_url": "https://pbs.twimg.com/profile_images/378800000052001713/cf6fbd92aa6c131d585319ed823589d8_bigger.jpeg",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/bondsy",
+      "linkedin": "https://linkedin.com/company/bondsy",
+      "facebook": "https://facebook.com/pages/Bondsy/102522099835042"
+    },
+    "industry": "E-commerce",
+    "industry_slug": "ecommerce"
+  }
+]

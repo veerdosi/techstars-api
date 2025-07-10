@@ -1,0 +1,24 @@
+{
+  "name": "Pushmote",
+  "slug": "pushmote",
+  "website": "https://linkedin.com/company/5312856",
+  "description": "Pushmote allows companies to be close their customers via iBeacons by providing necessary cloud software infrastructure and tools.",
+  "one_liner": "Pushmote allows companies to be close their customers via iBeacons by providing necessary cloud software infrastructure and tools.",
+  "location": "San Francisco, California, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Pushmote",
+    "linkedin": "https://linkedin.com/company/5312856",
+    "facebook": "https://facebook.com/pushmote"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/pushmote",
+  "api": "/api/companies/pushmote.json"
+}

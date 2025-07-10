@@ -1,0 +1,22 @@
+{
+  "name": "Awaaz",
+  "slug": "awaaz",
+  "website": "https://awaaz.ai/",
+  "description": "Awaaz AI supercharges enterprise customer engagement through personalized conversational voice AI agents that understand local languages and contexts for the 3B customers in emerging markets, starting with India's financial services sector",
+  "one_liner": "Awaaz AI supercharges enterprise customer engagement through personalized conversational voice AI agents that understand local languages and contexts for the 3B customers in emerging markets, starting with India's financial services sector",
+  "location": "Mather, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/awaazai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/awaaz",
+  "api": "/api/companies/awaaz.json"
+}

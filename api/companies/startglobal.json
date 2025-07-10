@@ -1,0 +1,24 @@
+{
+  "name": "StartGlobal",
+  "slug": "startglobal",
+  "website": "https://startglobal.co/",
+  "description": "Start and manage your global business, from anywhere",
+  "one_liner": "Start and manage your global business, from anywhere",
+  "location": "Walnut, California, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xmseyjmmim3vftxifrzl",
+  "social_media": {
+    "twitter": "https://twitter.com/StartGlobalHQ",
+    "linkedin": "https://linkedin.com/company/startglobalhq",
+    "facebook": "https://facebook.com/startglobalHQ/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/startglobal",
+  "api": "/api/companies/startglobal.json"
+}

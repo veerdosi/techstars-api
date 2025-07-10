@@ -1,0 +1,24 @@
+{
+  "name": "Tribl",
+  "slug": "tribl",
+  "website": "https://linkedin.com/company/jointribl",
+  "description": "Slack for Investor Clubs",
+  "one_liner": "Slack for Investor Clubs",
+  "location": "Austin, Texas, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/thetriblnetwork",
+    "linkedin": "https://linkedin.com/company/jointribl",
+    "facebook": "https://facebook.com/thetriblnetwork/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/tribl",
+  "api": "/api/companies/tribl.json"
+}

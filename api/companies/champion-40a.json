@@ -1,0 +1,23 @@
+{
+  "name": "Champion 40A",
+  "slug": "champion-40a",
+  "website": "https://champion40a.com/",
+  "description": "Our inclusive and innovative software solves inequities in real estate, banking, and lending industries. We are currently developing a dual SaaS platform to reduce mortgage denials for minority borrowers.",
+  "one_liner": "Our inclusive and innovative software solves inequities in real estate, banking, and lending industries. We are currently developing a dual SaaS platform to reduce mortgage denials for minority borrowers.",
+  "location": "Orlando, Florida, United States",
+  "industry": "Real estate tech",
+  "industry_slug": "real-estate-tech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/champion-40a-inc",
+    "facebook": "https://facebook.com/champion40a"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/champion-40a",
+  "api": "/api/companies/champion-40a.json"
+}

@@ -1,0 +1,1673 @@
+[
+  {
+    "name": "Sphero",
+    "website": "https://sphero.com/",
+    "description": "We create amazing connected toys.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/littleBits",
+      "linkedin": "https://linkedin.com/company/1199924",
+      "facebook": "https://facebook.com/GoSphero"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "AppliedVR",
+    "website": "https://appliedvr.io/",
+    "description": "Virtual reality for enhanced patient experience in healthcare around pain and anxiety management.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AppliedVR",
+      "linkedin": "https://linkedin.com/company/appliedvr",
+      "facebook": "https://facebook.com/appliedvr"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Immersed",
+    "website": "https://immersed.com/",
+    "description": "We immerse distributed teams into a VR workspace to maximize productivity.",
+    "location": "Cincinnati, Ohio, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/immersedvr",
+      "linkedin": "https://linkedin.com/company/immersed",
+      "facebook": "https://facebook.com/ImmersedVR/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Vermeer",
+    "website": "https://getvermeer.com/",
+    "description": "AR-powered marketplace for frictionless aerial footage.",
+    "location": "Queens, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vermeerapp",
+      "linkedin": "https://linkedin.com/company/47843",
+      "facebook": "https://facebook.com/vermeerapp/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Liv",
+    "website": "https://liv.tv/",
+    "description": "Leading VR streaming and social platform for the next generation of players & creators in XR.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/liv",
+      "linkedin": "https://linkedin.com/company/liv",
+      "facebook": "https://facebook.com/liv"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Didimo",
+    "website": "https://mydidimo.com/",
+    "description": "Didimo creates Virtual Avatars ready to be animated with one photo.",
+    "location": "Leca Da Palmeira, Portugal",
+    "social_media": {
+      "twitter": "https://twitter.com/my_didimo",
+      "linkedin": "https://linkedin.com/company/didimo",
+      "facebook": "https://facebook.com/DidimoInc"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "EyeLights",
+    "website": "https://eye-lights.com/",
+    "description": "EyeLights makes your motorcycle helmet  smart. Augmented biker, now.",
+    "location": "Labège, France",
+    "social_media": {
+      "twitter": "https://twitter.com/EyelightsFR",
+      "linkedin": "https://linkedin.com/company/eyelights-sas",
+      "facebook": "https://facebook.com/EyeLights.motorcycles/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Hosta a",
+    "website": "https://hosta.ai/",
+    "description": "Hosta leverages A.I. to provide the most efficient and insightful structural assessment of interior spaces.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hostalabs",
+      "linkedin": "https://linkedin.com/company/hostalabs-ai"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Oriient",
+    "website": "https://oriient.me/",
+    "description": "The Indoor GPS Company.",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/oriient_me",
+      "linkedin": "https://linkedin.com/company/10693382",
+      "facebook": "https://facebook.com/oriient.me"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "LiveLike",
+    "website": "https://livelikevr.com/",
+    "description": "Global technology company that brings experiences to life in immersive environments in entertainment, sports, science & education, and parks & attractions.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/JeremieLasnier",
+      "linkedin": "https://linkedin.com/company/livelike",
+      "facebook": "https://facebook.com/ExperienceCosm"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "SwingVision",
+    "website": "https://swing.tennis/",
+    "description": "A.I. Training Platform for Athletes",
+    "location": "Milpitas, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/swingtennis",
+      "linkedin": "https://linkedin.com/company/swing-vision",
+      "facebook": "https://facebook.com/swingtennis"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Rad",
+    "website": "https://rad.live/",
+    "description": "Premium VR Cinema Network",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/_WatchRad_",
+      "linkedin": "https://linkedin.com/company/watchrad",
+      "facebook": "https://facebook.com/WatchRad/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Tyffon",
+    "website": "https://tyffon.com/",
+    "description": "Creating the next level VR/AR/MR entertainment experience",
+    "logo_url": "https://pbs.twimg.com/profile_images/481181261164077056/CivCcpgg.jpeg",
+    "location": "West Hollywood, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tyffon",
+      "linkedin": "https://linkedin.com/company/tyffon",
+      "facebook": "https://facebook.com/tyffoninc"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Driver",
+    "website": "https://trydriver.com/",
+    "description": "Driver is a hardware-free mobile app and data platform that allows users to video record their trip while receiving forward collision and drowsiness alerts.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/driverinc",
+      "linkedin": "https://linkedin.com/company/driverinc",
+      "facebook": "https://facebook.com/TryDriver/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "TrojAI",
+    "website": "https://troj.ai/",
+    "description": "Robustness and security for AI.",
+    "location": "Saint John, New Brunswick, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/TrojAISec",
+      "linkedin": "https://linkedin.com/company/trojai",
+      "facebook": "https://facebook.com/TrojAI/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Suggestic",
+    "website": "https://suggestic.com/",
+    "description": "Outcome-driven personalized nutrition platform that uses AI to deliver precise food recommendations.",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/suggestic",
+      "linkedin": "https://linkedin.com/company/suggestic",
+      "facebook": "https://facebook.com/suggestic"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Streamroot",
+    "website": "https://streamroot.io/",
+    "description": "Peer-to-peer video delivery solution",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/StreamRoot",
+      "linkedin": "https://linkedin.com/company/streamroot",
+      "facebook": "https://facebook.com/StreamRoot"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Obsess",
+    "website": "https://obsessvr.com/",
+    "description": "Platform for Experiential E-commerce",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/obsessVR",
+      "linkedin": "https://linkedin.com/company/obsess",
+      "facebook": "https://facebook.com/obsessar"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "echo3D",
+    "website": "https://echo3d.co/",
+    "description": "Cloud platform for augmented and virtual reality (AR/VR) apps that provides tools & server-side infrastructure to help companies build better 3D apps.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/_echoAR_",
+      "linkedin": "https://linkedin.com/company/echo3D",
+      "facebook": "https://facebook.com/echo3DInc/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "PlayCanvas",
+    "website": "https://playcanvas.com/",
+    "description": "The world's first cloud-hosted, collaborative platform for building video games",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/playcanvas",
+      "linkedin": "https://linkedin.com/company/playcanvas",
+      "facebook": "https://facebook.com/playcanvas"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Retrocausal",
+    "website": "https://retrocausal.ai/",
+    "description": "Visual Mistake-Proofing for Manual Assembly",
+    "location": "Redmond, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RetrocausalAI",
+      "linkedin": "https://linkedin.com/company/retrocausal-ai"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Fantasmo",
+    "website": "https://fantasmo.io/",
+    "description": "Fantasmo builds a decentralized, open source stack for indoor and outdoor 3D maps and camera-based positioning.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fantasmoio",
+      "linkedin": "https://linkedin.com/company/9256243",
+      "facebook": "https://facebook.com/fantasmostudios"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Veesual",
+    "website": "https://veesual.ai/",
+    "description": "Mix&Match Styling Experience for fashion e-commerce. Powered by Generative AI.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/VeesualAI",
+      "linkedin": "https://linkedin.com/company/veesual"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Mint State Labs",
+    "website": "https://mintstatelabs.com/",
+    "description": "Mint State Labs is looking to bring gaming enthusiast communities together with web3.0 technologies. MSL: Innovate, Create, Connect.",
+    "location": "Redmond, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/MintStateLabs",
+      "linkedin": "https://linkedin.com/company/mintstatelabs",
+      "facebook": "https://facebook.com/Mint-State-Labs-108847508186922/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Volta",
+    "website": "https://volta-xr.com/",
+    "description": "Volta is a self-serve, free-to-use platform that lets creators and artists design and broadcast a 3D world in minutes, that comes alive as they perform.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/experiencevolta",
+      "linkedin": "https://linkedin.com/company/volta-capital",
+      "facebook": "https://facebook.com/ExperienceVolta"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Yoona",
+    "website": "https://yoona-tech.com/",
+    "description": "Puma, Vaude, and Vogue Magazine are already using Yoona.ai to shorten their design processes.",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/yoona",
+      "linkedin": "https://linkedin.com/company/yoonaai",
+      "facebook": "https://facebook.com/YOONAtech"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Novel Effect",
+    "website": "https://noveleffect.com/",
+    "description": "Seattle-based Novel Effect is the leader in voice-driven media and entertainment across books, video, toys and games.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Novel_Effect",
+      "linkedin": "https://linkedin.com/company/novel-effect-inc-",
+      "facebook": "https://facebook.com/noveleffect"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Partsimony",
+    "website": "https://partsimony.com/",
+    "description": "Partsimony is your manufacturing supply chain superpower in a world of uncertainty.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/partsimony",
+      "linkedin": "https://linkedin.com/company/partsimony",
+      "facebook": "https://facebook.com/inventaprint/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Rephrase",
+    "website": "https://rephrase.ai/",
+    "description": "We use generative AI to ease video creation from simple human inputs.",
+    "location": "Mumbai, Maharashtra, India",
+    "social_media": {
+      "twitter": "https://twitter.com/rephrase_ai",
+      "linkedin": "https://linkedin.com/company/rephrase-ai",
+      "facebook": "https://facebook.com/rephraseai"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "tagSpace",
+    "website": "https://tagspace.com/",
+    "description": "Locational AR for Festivals, Tourism and Big Events. No code required!",
+    "location": "Byron Bay, New South Wales, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/tagSpaceCo",
+      "linkedin": "https://linkedin.com/in/paulsimonmartin",
+      "facebook": "https://facebook.com/tagSpaceCo"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Cuseum",
+    "website": "https://cuseum.com/",
+    "description": "Cuseum helps museums, public attractions, and cultural nonprofits drive visitor and member engagement and success using mobile.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cuseum",
+      "linkedin": "https://linkedin.com/company/cuseum",
+      "facebook": "https://facebook.com/Cuseum"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "EmbodyMe",
+    "website": "https://company.embodyme.com/",
+    "description": "EmbodyMe is developing patented AI technology that will revolutionize the way you video chat, live stream, and create videos.",
+    "location": "Tokyo, Japan",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/embodyme-inc"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Ediphi",
+    "website": "https://goediphi.com/",
+    "description": "Training. Above and Beyond.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/worldwide-internships-philippines",
+      "facebook": "https://facebook.com/wwiphilippines"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Improovy",
+    "website": "https://improovy.com/",
+    "description": "The Next Generation Of Home Improvement Service Delivery.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/improovy",
+      "linkedin": "https://linkedin.com/company/improovy",
+      "facebook": "https://facebook.com/improovy/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "gameSense Sports",
+    "website": "https://gamesensesports.com/",
+    "description": "Our mission is to make cognitive training as universal, accessible & affordable as physical training for all sports participants - amateur thru pro.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GameSenseSports",
+      "linkedin": "https://linkedin.com/company/gamesense-sports",
+      "facebook": "https://facebook.com/pg/gamesensesports"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Halion",
+    "website": "https://halion.ca/",
+    "description": "Advanced colour changing nanomaterials for intelligent surfaces.",
+    "location": "Kitchener, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/haliondisplays",
+      "linkedin": "https://linkedin.com/company/halion-displays",
+      "facebook": "https://facebook.com/haliondisplays/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Kanda",
+    "website": "https://kanda.dk/",
+    "description": "Using Virtual Reality to make training in heavy industries (maritime, energy, airline, manufacturing) more effective, and cost efficient.",
+    "location": "Aarhus, Denmark",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kanda",
+      "facebook": "https://facebook.com/kanda3d"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Brizi",
+    "website": "https://brizicam.com/",
+    "description": "Pioneers in crowd-controlled camera technology in sports, entertainment, and attractions.",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/brizi",
+      "linkedin": "https://linkedin.com/company/brizi",
+      "facebook": "https://facebook.com/brizi/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Dynepic",
+    "website": "https://dynepic.com/",
+    "description": "Platform of Platforms Powering the Future of Knowledge",
+    "location": "Folly Beach, South Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/dynepic",
+      "linkedin": "https://linkedin.com/company/dynepic-inc-",
+      "facebook": "https://facebook.com/dynepicllc"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Assemblr",
+    "website": "https://assemblrworld.com/",
+    "description": "A Platform to simplify the process of accessing and creating Augmented Reality content, whilst running both on mobile and desktop applications.",
+    "location": "Bandung, Indonesia",
+    "social_media": {
+      "twitter": "https://twitter.com/assemblrworld",
+      "linkedin": "https://linkedin.com/company/assemblr-app",
+      "facebook": "https://facebook.com/assemblrworld"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Tribe XR",
+    "website": "https://tribexr.com/",
+    "description": "Tribe XR uses virtual reality to teach creative skills and performance, with students quickly progressing into virtual performances on live streaming platforms and in the real world.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/tribexr",
+      "linkedin": "https://linkedin.com/company/tribexr",
+      "facebook": "https://facebook.com/tribexr/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "VIAR",
+    "website": "https://viar.si/",
+    "description": "We help people experience things that they never thought possible by providing easy-to-use authoring & distribution tools for Virtual & Augmented Reality.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/weareviar",
+      "linkedin": "https://linkedin.com/company/viar",
+      "facebook": "https://facebook.com/weareviar/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "SURVIVR",
+    "website": "https://survivr.com/",
+    "description": "Using VR training to help first responders improve their decision-making and response times.",
+    "location": "Richardson, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SURVIVRLabs",
+      "linkedin": "https://linkedin.com/company/survivr",
+      "facebook": "https://facebook.com/SURVIVRLabs/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Superpowered",
+    "website": "https://superpowered.com/",
+    "description": "Superpowered allows consumers to listen, watch and play longer by using software to reduce CPU load -- making mobile and embedded hardware more efficient.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SuperpoweredSDK",
+      "linkedin": "https://linkedin.com/company/superpowered",
+      "facebook": "https://facebook.com/SuperpoweredSDK/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Marble AR",
+    "website": "https://marblever.se/",
+    "description": "The first platform that brings the Metaverse and NFTs into the real world.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/marblearlive",
+      "linkedin": "https://linkedin.com/company/marblear",
+      "facebook": "https://facebook.com/marblearlive/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Holotch",
+    "website": "https://holotch.com/",
+    "description": "Holotch is an end to end hologram streaming platform",
+    "location": "Tokyo, Japan",
+    "social_media": {
+      "twitter": "https://twitter.com/holotch",
+      "linkedin": "https://linkedin.com/company/holotch",
+      "facebook": "https://facebook.com/Holotch/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "STHRIVE",
+    "website": "https://sthrive.com/",
+    "description": "STHRIVE is a learning platform for salesforce education, offering content curation, AI-driven training, analytics, and gamified experiences.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/khszadyf1mfvp5esdpbk",
+    "location": "Dubai, United Arab Emirates",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sthrive"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Hololink",
+    "website": "https://hololink.io/",
+    "description": "Hololink is the easiest and fastest way to create interactive augmented reality experiences with no code and no apps.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/wcu582mk6rxcdhmb7rbj",
+    "location": "Copenhagen, Denmark",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hololink",
+      "facebook": "https://facebook.com/Hololink.io/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Superfan Studio",
+    "website": "https://superfan.studio/",
+    "description": "Cameraah is the fastest, user-friendly way to create Augmented Reality (AR) experiences.",
+    "location": "Dallas, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ItsCameraAH",
+      "linkedin": "https://linkedin.com/company/cameraah",
+      "facebook": "https://facebook.com/cameraaah"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Lucky Juicebox",
+    "website": "https://luckyjuicebox.com/",
+    "description": "Games and tools for XR Headsets. For Anyone, anywhere.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lucky_juicebox",
+      "linkedin": "https://linkedin.com/company/luckyjuicebox"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "1lens",
+    "website": "https://1lens.app/",
+    "description": "Toggl's vision is to immerse people in awe-inspiring magical worlds anywhere they want them through augmented reality.",
+    "location": "Schomberg, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/TogglAR",
+      "linkedin": "https://linkedin.com/company/1lens"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "TechRow",
+    "website": "https://techrow.org/",
+    "description": "Immersive learning experiences for all to enjoy.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/kjwuydygbzpaf8b4por8",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/techrownyc",
+      "linkedin": "https://linkedin.com/company/tech-row",
+      "facebook": "https://facebook.com/techrownyc/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "ReBokeh",
+    "website": "https://rebokeh.com/",
+    "description": "Application designed to enhance vision with moderate vision impairment in mind.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/otjpaiczn4ywhndeeo6n",
+    "location": "Towson, Maryland, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rebokeh",
+      "facebook": "https://facebook.com/rebokehvision"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Immersive Systems",
+    "website": "https://immersivesystems.io/",
+    "description": "Immersive Systems is delivering an esports media platform that powers the next generation of fan engagement and revenue growth.",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ImmerseOS",
+      "linkedin": "https://linkedin.com/company/immersive-systems-inc",
+      "facebook": "https://facebook.com/ImmersiveSports/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Spiral Technology",
+    "website": "https://spiral.technology/",
+    "description": "Machine intelligence for the industrial workforce.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/spiraltechXR",
+      "linkedin": "https://linkedin.com/company/spiral1",
+      "facebook": "https://facebook.com/spiral.technology/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Trilleco",
+    "website": "https://trilleco.com/",
+    "description": "Trilleco is a 3D IoT sustainability platform that provides data transparency and transforms footprint.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/khyczbm32nrtavkmsenj",
+    "location": "Oulu, Finland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/trilleco",
+      "facebook": "https://facebook.com/Trilleco/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Neurofit VR",
+    "website": "https://neurofit.ca/",
+    "description": "SaaS Virtual Reality Rehabilitation",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/mvc2hhskzaudhsi5zxcc",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/neurofitvr",
+      "linkedin": "https://linkedin.com/company/neurofitvr",
+      "facebook": "https://facebook.com/neurofitvr"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Veracity Protocol",
+    "website": "https://veracityprotocol.org/",
+    "description": "Security standard of trust for physical objects. Bridging physical and digital worlds.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/VeracityProtocl",
+      "linkedin": "https://linkedin.com/company/veracityprotocol",
+      "facebook": "https://facebook.com/veracityprotocol/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Pixchange",
+    "website": "https://pixchangeapp.com/",
+    "description": "Design your message. Create stickers, gifs, and interactive AR assets on your mobile. Share and sell in our marketplace and send from your keyboard.",
+    "location": "Bern, Switzerland",
+    "social_media": {
+      "twitter": "https://twitter.com/pixchange_app",
+      "linkedin": "https://linkedin.com/company/pixchange-app",
+      "facebook": "https://facebook.com/pixchangeapp"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "MetaPals",
+    "website": "https://metapals.pet/",
+    "description": "MetaPals is a browser extension that allows users to interact and grow NFT pets directly from their browser computer screen.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "twitter": "https://twitter.com/MetaPals",
+      "linkedin": "https://linkedin.com/company/metapals",
+      "facebook": "https://facebook.com/metapals/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "3co",
+    "website": "https://3co.ai/",
+    "description": "3co provides the world's simplest solution for selling beautiful products through augmented reality.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/3coAI",
+      "linkedin": "https://linkedin.com/company/3coai",
+      "facebook": "https://facebook.com/3coAI"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "LumièreVR",
+    "website": "https://lumierevr.com/",
+    "description": "The cinematic VR distribution network",
+    "location": "San Mateo, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LumiereVR",
+      "linkedin": "https://linkedin.com/company/innovate-queens",
+      "facebook": "https://facebook.com/lumierevr"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Virtual Tables",
+    "website": "https://virtualtables.com/",
+    "description": "Virtual Tables is a virtual events solutions company, offering services and products to elevate all events into the virtual space. DigiSign is one of the virtual engagement products created and powered by Virtual Tables.",
+    "location": "Wilmington, Delaware, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/VRTLlive",
+      "linkedin": "https://linkedin.com/company/virtual-tables"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Brave",
+    "website": "https://bravevirtualworlds.com/",
+    "description": "Providing the most affordable and most portable motion capture technology for teams, academies, researchers, and individuals, Brave is charting a new world of motion capture and all its possibility.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Brave_Motion",
+      "linkedin": "https://linkedin.com/company/bravevirtualworlds",
+      "facebook": "https://facebook.com/bravevirtualworlds"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Waldek Technologies",
+    "website": "https://gauzilla.xyz/",
+    "description": "Waldek Technologies is developing Gauzilla Pro, the #1 AI-powered & no-code web editor for 3D/4D digital twins. Gauzilla utilizes the latest radiance field technology and serverless edge-AI that runs directly in a web browser.",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/waldek-technologies"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "HyperTunnel",
+    "website": "https://hypertunnel.com/",
+    "description": "Our mixed reality software platform enables real-time (synchronous) and time-delayed (asynchronous) collaboration between frontline workers and domain experts - from remote physical worksites to centralized immersive digital twins.",
+    "location": "Jersey City, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/factualvr",
+      "linkedin": "https://linkedin.com/company/hypertunnel",
+      "facebook": "https://facebook.com/HyperTunnel"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Cerekon",
+    "website": "https://cerekon.com/",
+    "description": "Revolutionise the way industrial inspections are conducted by making it handsfree, faster and safer for inspectors and auditors.",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "twitter": "https://twitter.com/cerekonapps",
+      "linkedin": "https://linkedin.com/company/cerekon"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Lemons in the room",
+    "website": "https://lemonsintheroom.com/",
+    "description": "Immersive VR solutions to reduce anxiety during medical treatments",
+    "location": "Firenze, Florence, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/lemons-in-the-room"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "vRotors",
+    "website": "https://vrotors.com/",
+    "description": "vRotors unlocks live engagement with remote locations for distributed teams through revolutionary real-time control of robotics and drones.",
+    "location": "Hacienda Heights, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/VRotors",
+      "linkedin": "https://linkedin.com/company/vrotors-inc",
+      "facebook": "https://facebook.com/vrotors"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Holos",
+    "website": "https://holos.io/",
+    "description": "A virtual reality content management system that makes it super easy for curriculum designers to create and deploy immersive learning experiences.",
+    "location": "Madison, Wisconsin, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/holosVR",
+      "linkedin": "https://linkedin.com/company/holos-global",
+      "facebook": "https://facebook.com/holosXR/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Foundry Six",
+    "website": "https://foundrysix.com/",
+    "description": "Building an augmented reality gaming platform for the next generation of game developers. What Steam is for console gaming, we are for AR.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FoundrySix",
+      "linkedin": "https://linkedin.com/company/foundrysix",
+      "facebook": "https://facebook.com/foundrysix/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Between",
+    "website": "https://between.co/",
+    "description": "Call from Anywhere, Sound like You're in the Room",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/betweenco"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Carbon Origins",
+    "website": "https://carbonorigins.com/",
+    "description": "Carbon Origins provides free dine-in quality deliveries on robots trained and monitored by remote VR drivers",
+    "location": "Lancaster, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/carbonorigins",
+      "linkedin": "https://linkedin.com/company/carbon-origins",
+      "facebook": "https://facebook.com/carbonorigins"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Reactiv",
+    "website": "https://reactivrehab.com/",
+    "description": "Reactiv is a virtual physical rehabilitation clinic, where we use computer vision and gaming to increase engagement and improve outcome.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/reactivrehab",
+      "linkedin": "https://linkedin.com/company/reactivrehab",
+      "facebook": "https://facebook.com/reactivrehab"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Combat IQ",
+    "website": "https://combatiq.io/",
+    "description": "The world's first Computer Vision powered analytics company dedicated to Combat Sports",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/hemk4o3cg9ex06nonylp",
+    "location": "Toronto, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/combat-iq",
+      "facebook": "https://facebook.com/combatiq"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Designhubz",
+    "website": "https://linkedin.com/company/designhubz",
+    "description": "Designhubz enables Brands & Retailers to sell their products in 3D & Augmented Reality on their websites and apps",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/designhubzhq",
+      "linkedin": "https://linkedin.com/company/designhubz",
+      "facebook": "https://facebook.com/designhubz/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Cogniant",
+    "website": "https://cogniant.co/",
+    "description": "Automated relapse prevention for mental health and neurodegenerative disorders",
+    "location": "Singapore, Singapore",
+    "social_media": {
+      "twitter": "https://twitter.com/CogniantHealth",
+      "linkedin": "https://linkedin.com/company/cognianthealth",
+      "facebook": "https://facebook.com/cogniant/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "CloudNine Augmented Intelligence",
+    "website": "https://cloudnineai.com/",
+    "description": "Enterprise Knowledge Management System that secures sensitive data such as PII for data privacy, governance, risk, and compliance",
+    "location": "Santa Monica, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cloudnineaugmentedintelligence",
+      "facebook": "https://facebook.com/cloudnineai.com"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Cerebro NeuroTech",
+    "website": "https://cerebroneurotech.com/",
+    "description": "Cerebro is developing the world's most intelligent rapid detection software for Sports-Related Concussions",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/paolo-alejandro-catilo-38b30bb8"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Streamfog",
+    "website": "https://streamfog.com/",
+    "description": "We're transforming the streaming landscape with AR advertising. From Twitch to YouTube to Netflix, we believe traditional commercial breaks are outdated. Our in-content solutions disrupt the industry, not your entertainment.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/streamfog"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "QuirkChat",
+    "website": "https://quirktastic.co/",
+    "location": "Concord, North Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/quirkchat",
+      "linkedin": "https://linkedin.com/company/quirkchat",
+      "facebook": "https://facebook.com/Quirktastic"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "CALT Dynamics",
+    "website": "https://caltdynamics.com/",
+    "description": "3D Printing, VR, Vertical Farming & More",
+    "location": "Wicklow, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/CALT_Dynamics",
+      "linkedin": "https://linkedin.com/company/calt-dynamics",
+      "facebook": "https://facebook.com/caltdynamics/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Atom Universe",
+    "website": "https://atomstars.com/",
+    "description": "Metaverse-as-a-Service offering brands to launch their own metaverse platform to engage their user in breathtaking white label virtual worlds",
+    "location": "Woking, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/AtomRepublic",
+      "linkedin": "https://linkedin.com/company/atom-republic",
+      "facebook": "https://facebook.com/AtomRepublic"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Oversight",
+    "website": "https://oversight-ar.com/",
+    "description": "3D, visual, and unified data management platform that connects any map-locatable device for enhancing operators' situational awareness and decision-making using XR tools",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/u3frh4yoguxwkepkaedl",
+    "location": "Poria Illit, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/oversight-ar",
+      "facebook": "https://facebook.com/OversightAR"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Assethub",
+    "website": "https://assethub.io/",
+    "description": "Provides an easy way to create unique 3D models from pictures using AI",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/takuya-goto-027ab0134"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "FlyThere",
+    "website": "https://flythere.com/",
+    "description": "FlyThere is an immersive way to experience the world through the eyes of a drone.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/FlyThereNow",
+      "linkedin": "https://linkedin.com/company/flytherenow",
+      "facebook": "https://facebook.com/teledroning/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Parallux",
+    "website": "https://parallux.co/",
+    "description": "Parallux makes it easy for brands and creators to design, build, and host 3D virtual spaces in the metaverse.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/9c74999fc0acb0c49199",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/paralluxco",
+      "linkedin": "https://linkedin.com/company/parallux",
+      "facebook": "https://facebook.com/parallux/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Kai XR",
+    "website": "https://kaixr.com/",
+    "description": "Kai XR is the most inclusive & accessible kid-friendly VR platform where kids can explore VR field trips + create their very own VR adventures.",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Kai_XR",
+      "linkedin": "https://linkedin.com/company/curated-x-kai"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Dovey",
+    "website": "https://doveydates.com/",
+    "description": "Virtual dates for couples that meet in online communities.",
+    "location": "Jackson Springs, North Carolina, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/dovey",
+      "facebook": "https://facebook.com/LDR-Dates-100809911924068"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "MODU",
+    "website": "https://moduresearch.com/",
+    "description": "MODU is creating the first immersive network for visual and audial media. Captured and created from any camera-enabled device in the world.",
+    "location": "Ottawa, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/modu-research"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Zoog",
+    "website": "https://getzoog.com/",
+    "description": "Zoog is an asynchronous-first communication platform for families, powered by immersive AR content and activities.",
+    "location": "Even Yehuda, Israel",
+    "social_media": {
+      "twitter": "https://twitter.com/zooghq",
+      "linkedin": "https://linkedin.com/company/zooghq",
+      "facebook": "https://facebook.com/zoogHQ/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Solace Vision",
+    "website": "https://solacevision.com/",
+    "description": "Solace Vision automates metaverse development in just a few sentences of input. Turn a few words into vast virtual worlds.",
+    "location": "Tulsa, Oklahoma, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/solacevision",
+      "linkedin": "https://linkedin.com/company/solacevision",
+      "facebook": "https://facebook.com/solacevision"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Metavent",
+    "website": "https://metavent.io/",
+    "description": "Metavent is the All-Hands meeting solution for companies of up to 1,000 employees who need fully engaged, aligned and inspired teams.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/metaventful",
+      "linkedin": "https://linkedin.com/company/meta-vent"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Mattoboard",
+    "website": "https://mattoboard.com/",
+    "description": "Mattoboard is 'Canva for 3D design'.  Making 3D graphic design as easy as playing Minecraft for non-professional designers.",
+    "location": "Las Vegas, Nevada, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/mattoboard",
+      "linkedin": "https://linkedin.com/company/mattoboard"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Indistinguishable From Magic",
+    "website": "https://ifmagic.io/",
+    "description": "The Zapier for hardware.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/runningonmagic",
+      "linkedin": "https://linkedin.com/company/indistinguishable-from-magic"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Holodia",
+    "website": "https://holodia.com/",
+    "description": "Holodia's platform, HOLOFIT, is an immersive, hardware agnostic, connected FitTech platform that merges gaming and fitness leading to increased user engagement.",
+    "location": "Zürich, Switzerland",
+    "social_media": {
+      "twitter": "https://twitter.com/holodiavr",
+      "linkedin": "https://linkedin.com/company/holodia",
+      "facebook": "https://facebook.com/holodiavr"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Circle Labs",
+    "website": "https://circlelabs.xyz/",
+    "description": "Populating the digital metaverse with AI life",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/allhailcircle",
+      "linkedin": "https://linkedin.com/company/circle-labs-oof",
+      "facebook": "https://facebook.com/circlelabsco"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "ARway",
+    "website": "https://arway.app/",
+    "description": "We're powering camera devices with AI to recognize their surroundings without GPS for hyper-accurate location apps.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/arway_app",
+      "linkedin": "https://linkedin.com/company/arway",
+      "facebook": "https://facebook.com/arwayapp/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "BioInteractive Technologies",
+    "website": "https://biointeractivetech.com/",
+    "description": "Tenzr Health combines intelligent wearable sensors, gamification, and healthcare expertise to provide clinicians and patients with motivation, guidance, and certainty for musculoskeletal care.",
+    "location": "Vancouver, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/BioIntTech",
+      "linkedin": "https://linkedin.com/company/17973286"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Movez",
+    "website": "https://movez.com/",
+    "description": "For event curators or experience seekers longing to have their cities' experiences mass-marketed, we provide intuitive software that enables immersive event experiences' discoverability, organization & network cultivation end-to-end.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/movezapp",
+      "linkedin": "https://linkedin.com/company/movezapp",
+      "facebook": "https://facebook.com/movezapp"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Marionette Aps",
+    "website": "https://marionettexr.com/",
+    "description": "High-quality but cost efficient motion capture using AI",
+    "location": "København, Denmark",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/marionette-xr",
+      "facebook": "https://facebook.com/marionetteXR"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Tressed DBA The Weave Outlet",
+    "website": "https://tressed.com/",
+    "description": "The Weave Outlet specialize in providing the best virgin premium hair for the best wholesale prices on the market",
+    "location": "Midland, Georgia, United States",
+    "social_media": {},
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "WizDish",
+    "website": "https://wizdish.com/",
+    "description": "Wizdish makes the ROVR virtual reality treadmill",
+    "location": "Kidlington, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/wizdish",
+      "linkedin": "https://linkedin.com/company/10167358",
+      "facebook": "https://facebook.com/pg/WizDishROVR"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "CubeNexus",
+    "website": "https://cubenexus.xyz/",
+    "description": "CubeNexus is a software startup developing innovative solutions for data monetization and geolocation. Our flagship B2B SaaS product enables companies to monetize dead or unused data by geocoding it with unparalleled precision. The software organizes data into a time-based, volumetric location system, allowing businesses to extract actionable insights from previously underutilized datasets.",
+    "location": "Columbus, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cubenexus"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Voxon Photonics",
+    "website": "https://voxon.co/",
+    "description": "Voxon Photonics are creators of the Voxon VX1 - the world's most advanced three-dimensional (3D) volumetric display.",
+    "location": "Adelaide, South Australia, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/voxonphotonics",
+      "linkedin": "https://linkedin.com/company/18092360",
+      "facebook": "https://facebook.com/voxivision"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Proxi",
+    "website": "https://proxi.co/",
+    "description": "Proxi powers the future of personalized navigation by making mapping for everyone.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Proxi_Co",
+      "linkedin": "https://linkedin.com/company/proxi-co",
+      "facebook": "https://facebook.com/ProxiMaps"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Capoom",
+    "website": "https://capoom.com/",
+    "description": "Capoom is a software company developing AI based automatic 3d modeling software.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/irk4bkrls8rlqrqwd7ci",
+    "location": "Ann Arbor, Michigan, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/capoom"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "SpaceView",
+    "website": "https://space.vu/",
+    "description": "SpaceView is an augmented reality platform that enables anyone to visualize what a physical product will look like in any space, instantly.",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/spaceviewapp",
+      "linkedin": "https://linkedin.com/company/spaceview",
+      "facebook": "https://facebook.com/spaceviewapp"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "SVRF",
+    "website": "https://svrf.com/",
+    "description": "Search and discover the the most stunning augmented reality and virtual reality content.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/svrf",
+      "linkedin": "https://linkedin.com/company/svrf-inc",
+      "facebook": "https://facebook.com/PoplarStudioAR/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "wiARframe",
+    "website": "https://linkedin.com/company/wiarframe",
+    "description": "The World's 1st dedicated AR prototyping tool. Effortlessly design and prototype interactive AR Apps. No code. No complexity. Just Great Design.",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wiARframe",
+      "linkedin": "https://linkedin.com/company/wiarframe",
+      "facebook": "https://facebook.com/wiarframe/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Transfer Thought",
+    "website": "https://linkedin.com/company/transferthought",
+    "description": "Quick, deployable, customizable web-based VR training scenarios that run directly in browser.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/transferthought"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Somatic Labs",
+    "website": "https://linkedin.com/company/somatic-labs",
+    "description": "We're designing for a future without screens - starting with a platform for haptic communication.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SomaticLabs",
+      "linkedin": "https://linkedin.com/company/somatic-labs",
+      "facebook": "https://facebook.com/SomaticLabs/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Safurai",
+    "website": "https://linkedin.com/company/safurai",
+    "description": "Safurai is the API for companies that can analyze code and prevent scams for users.",
+    "location": "Genova, Italy",
+    "social_media": {
+      "twitter": "https://twitter.com/safurai_",
+      "linkedin": "https://linkedin.com/company/safurai"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Rodin",
+    "website": "https://linkedin.com/company/17931160",
+    "description": "Web platform enabling the seamless creation of virtual and augmented reality applications and experiences cross-device-cross-platform.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rodinvr",
+      "linkedin": "https://linkedin.com/company/17931160",
+      "facebook": "https://facebook.com/pg/rodinvr/about/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "ResolutionTube",
+    "website": "https://linkedin.com/company/resolutiontube-",
+    "description": "Mobile customer service",
+    "logo_url": "https://pbs.twimg.com/profile_images/378800000145233471/d573be69d49c22656abfe3fce9d95c5c_bigger.png",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Jova_io",
+      "linkedin": "https://linkedin.com/company/resolutiontube-",
+      "facebook": "https://facebook.com/resolutiontube/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "RealAR",
+    "website": "https://linkedin.com/company/realar",
+    "description": "RealAR is an Augmented Real Estate app that helps people spatially visualize new and inaccessible property as real size walkthroughs before it's built.",
+    "location": "Gold Coast, Queensland, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/realarspaces",
+      "linkedin": "https://linkedin.com/company/realar",
+      "facebook": "https://facebook.com/realarspaces"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Reach Robotics",
+    "website": "https://linkedin.com/company/reachrobotics",
+    "description": "Intelligent gaming robots at the intersection of consumer robotics, augmented reality and video gaming.",
+    "location": "Bristol, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/Reachrobotics",
+      "linkedin": "https://linkedin.com/company/reachrobotics",
+      "facebook": "https://facebook.com/reachroboticsltd"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "ParaSpace",
+    "website": "https://linkedin.com/company/paraspace",
+    "description": "Bringing visibility to heavy equipment inspections.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/bnksamctqoybegkvztge",
+    "location": "Brisbane, Queensland, Australia",
+    "social_media": {
+      "twitter": "https://twitter.com/paraspacevr",
+      "linkedin": "https://linkedin.com/company/paraspace",
+      "facebook": "https://facebook.com/ParaSpace-245020566436605/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "NConnex",
+    "website": "https://linkedin.com/company/3146052",
+    "description": "Digitizing products and environments, merging them seamlessly to boost shopping experience",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nconnex",
+      "linkedin": "https://linkedin.com/company/3146052",
+      "facebook": "https://facebook.com/nconnex"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Mindi",
+    "website": "https://linkedin.com/company/mindi",
+    "description": "Mindi combines the best of human and artificial intelligence to create optimal solutions.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/minditech",
+      "linkedin": "https://linkedin.com/company/mindi",
+      "facebook": "https://facebook.com/minditech"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "LSVR",
+    "website": "https://linkedin.com/in/ofir-zilberberg-1786bb6b",
+    "description": "ARpalus helps CPG and Retailers in optimizing their in-store operations and product-availability using real-time computer-vision on tablets and smartphones",
+    "location": "Caesarea, Illinois, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/ofir-zilberberg-1786bb6b"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Lifekind",
+    "website": "https://linkedin.com/company/rivaltheory",
+    "description": "An artificial intelligence company working in games, film, and interactive media",
+    "location": "Marina del Rey, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/RivalTheory",
+      "linkedin": "https://linkedin.com/company/rivaltheory",
+      "facebook": "https://facebook.com/LifekindAI/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "IrisVR",
+    "website": "https://linkedin.com/company/irisvr-inc-",
+    "description": "Instant Virtual Reality for the Building Industry",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vrviz",
+      "linkedin": "https://linkedin.com/company/irisvr-inc-",
+      "facebook": "https://facebook.com/irsvr"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "HipFire Games",
+    "website": "https://linkedin.com/company/25061410",
+    "description": "Ex-Supercell and Rovio developers who aim to build the biggest multiplayer games portal. A service that combines multiplayer games with social interaction.",
+    "location": "Helsinki, Finland",
+    "social_media": {
+      "twitter": "https://twitter.com/hipfiregames",
+      "linkedin": "https://linkedin.com/company/25061410",
+      "facebook": "https://facebook.com/hipfiregames"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "eevo",
+    "website": "https://linkedin.com/company/5351353",
+    "description": "EEVO is a cloud-based toolset which makes it possible for anyone to create, publish, and analyze interactive VR experiences without needing to know how to code.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/eevoVR",
+      "linkedin": "https://linkedin.com/company/5351353",
+      "facebook": "https://facebook.com/1475778066032110"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Condition One",
+    "website": "https://linkedin.com/company/condition-one",
+    "description": "Immersive video technology",
+    "location": "Palo Alto, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ConditionOne",
+      "linkedin": "https://linkedin.com/company/condition-one",
+      "facebook": "https://facebook.com/ConditionOne1"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Cerebro Solutions",
+    "website": "https://linkedin.com/company/16168621",
+    "description": "Cerebro enables hospitals and clinicians to directly post and accept both per diem and contract shifts.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/meetcerebro",
+      "linkedin": "https://linkedin.com/company/16168621",
+      "facebook": "https://facebook.com/meetcerebro"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "3chron",
+    "website": "https://linkedin.com/company/3chron",
+    "description": "3chron makes video conferencing more like a real-life conversation",
+    "location": "Tel Aviv, Israel",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/3chron"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "eyecandylab",
+    "website": "https://linkedin.com/company/eyecandylab",
+    "description": "eyecandylab enables video creators to drive user engagement by adding exciting AR content around any screen.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/eyecandylab",
+      "linkedin": "https://linkedin.com/company/eyecandylab",
+      "facebook": "https://facebook.com/eyecandylabAR/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Neon Wild",
+    "website": "https://linkedin.com/company/neon-wild",
+    "description": "Neon Wild transforms any child into a custom avatar as the star of immersive stories and games.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/neon__wild",
+      "linkedin": "https://linkedin.com/company/neon-wild",
+      "facebook": "https://facebook.com/TheNeonWild/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "EQLAB",
+    "website": "https://linkedin.com/company/eqlab-global",
+    "description": "Building a metaverse that will provide meaningful education, healthcare and mediation services to the populations that most need it",
+    "location": "St. Petersburg, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/eqlab-global"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  },
+  {
+    "name": "Anything World",
+    "website": "https://linkedin.com/company/anything-world",
+    "description": "A platform to create worlds powered by voice and populated with anything you can think of - with AI behaviours applied!",
+    "location": "Horsham, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/_AnythingWorld",
+      "linkedin": "https://linkedin.com/company/anything-world",
+      "facebook": "https://facebook.com/Anything.World.Worldwide/"
+    },
+    "industry": "Virtual reality",
+    "industry_slug": "virtual-reality"
+  }
+]

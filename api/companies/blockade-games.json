@@ -1,0 +1,24 @@
+{
+  "name": "Blockade Games",
+  "slug": "blockade-games",
+  "website": "https://blockade.games/",
+  "description": "Blockade Games has produced some of the longest-running experiences blending blockchain with interactive entertainment.",
+  "one_liner": "Blockade Games has produced some of the longest-running experiences blending blockchain with interactive entertainment.",
+  "location": "Indianapolis, Indiana, United States",
+  "industry": "Cryptocurrency/Blockchain",
+  "industry_slug": "crypto-blockchain",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/neondistrictRPG",
+    "linkedin": "https://linkedin.com/company/blockade-games",
+    "facebook": "https://facebook.com/neondistrictRPG/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/blockade-games",
+  "api": "/api/companies/blockade-games.json"
+}

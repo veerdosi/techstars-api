@@ -1,0 +1,24 @@
+{
+  "name": "Immersed",
+  "slug": "immersed",
+  "website": "https://immersed.com/",
+  "description": "We immerse distributed teams into a VR workspace to maximize productivity.",
+  "one_liner": "We immerse distributed teams into a VR workspace to maximize productivity.",
+  "location": "Cincinnati, Ohio, United States",
+  "industry": "Mobile",
+  "industry_slug": "mobile",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/immersedvr",
+    "linkedin": "https://linkedin.com/company/immersed",
+    "facebook": "https://facebook.com/ImmersedVR/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/immersed",
+  "api": "/api/companies/immersed.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ChangEd",
+  "slug": "changed",
+  "website": "https://gochanged.com/",
+  "description": "ChangEd helps you pay off your debt sooner by automating smart debt payoff strategies.",
+  "one_liner": "ChangEd helps you pay off your debt sooner by automating smart debt payoff strategies.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/changedapps",
+    "linkedin": "https://linkedin.com/company/changed-app",
+    "facebook": "https://facebook.com/changedapp"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/changed",
+  "api": "/api/companies/changed.json"
+}

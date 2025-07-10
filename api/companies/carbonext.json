@@ -1,0 +1,20 @@
+{
+  "name": "Carbonext",
+  "slug": "carbonext",
+  "website": "https://carbonextinc.com/",
+  "description": "At Carbonext Inc., we are developing a circularity strategy that retrofits existing architectures to produce industrial grade graphene in a cost-effective, scalable and environmentally friendly manner. Our technology addresses the pains of graphite users",
+  "one_liner": "At Carbonext Inc., we are developing a circularity strategy that retrofits existing architectures to produce industrial grade graphene in a cost-effective, scalable and environmentally friendly manner. Our technology addresses the pains of graphite users",
+  "location": "Houston, Texas, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {},
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/carbonext",
+  "api": "/api/companies/carbonext.json"
+}

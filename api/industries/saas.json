@@ -1,0 +1,1507 @@
+[
+  {
+    "name": "SalesLoft",
+    "website": "https://salesloft.com/",
+    "description": "Salesloft helps thousands of the world's most successful selling teams drive more revenue with the Modern Revenue Workspace(tm).",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/salesloft",
+      "linkedin": "https://linkedin.com/company/salesloft",
+      "facebook": "https://facebook.com/SalesLoft"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Cutover",
+    "website": "https://cutover.com/",
+    "description": "Cutover's platform reduces the risk and cost associated with critical enterprise IT change events.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/gocutover",
+      "linkedin": "https://linkedin.com/company/cutover"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Help Scout",
+    "website": "https://helpscout.com/",
+    "description": "Help Scout makes customer support tools that keep customers happy as you grow.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/helpscout",
+      "linkedin": "https://linkedin.com/company/1447019",
+      "facebook": "https://facebook.com/helpscout"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "CrowdTwist",
+    "website": "https://crowdtwist.com/",
+    "description": "Multi-channel customer relationship & loyalty platform",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/OracleCX",
+      "linkedin": "https://linkedin.com/company/crowdtwist-inc-",
+      "facebook": "https://facebook.com/crowdtwist"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "GrabCAD",
+    "website": "https://grabcad.com/",
+    "description": "GrabCAD is an online community network for mechanical engineers to share talent, expand knowledge and collaborate with others.",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/GrabCAD",
+      "linkedin": "https://linkedin.com/company/grabcad",
+      "facebook": "https://facebook.com/GrabCAD"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Blink",
+    "website": "https://joinblink.com/",
+    "description": "Intelligence at work",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/joinblink",
+      "linkedin": "https://linkedin.com/company/blink-d-o-o-",
+      "facebook": "https://facebook.com/blinkdotla"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Parlevel",
+    "website": "https://parlevelsystems.com/",
+    "description": "Giving vending machine operators full control of their business",
+    "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/163247-ccb5c1d4dee605e5b18b1ddb51c4ddf7-thumb_jpg.jpg",
+    "location": "San Antonio, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/parlevelsys",
+      "linkedin": "https://linkedin.com/company/parlevel-systems",
+      "facebook": "https://facebook.com/parlevelsys"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "dopay",
+    "website": "https://dopay.com/",
+    "description": "SaaS solution that helps corporates to compute and deliver payroll to both banked and unbanked workers.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/dopayHQ",
+      "linkedin": "https://linkedin.com/company/dopay",
+      "facebook": "https://facebook.com/dopayltd/"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Oper Credits",
+    "website": "https://opercredits.com/",
+    "description": "Oper creates world-class digital mortgage experiences.",
+    "location": "Antwerpen, Belgium",
+    "social_media": {
+      "twitter": "https://twitter.com/OperCredits",
+      "linkedin": "https://linkedin.com/company/opercredits",
+      "facebook": "https://facebook.com/opercredits/"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Liveoak Technologies",
+    "website": "https://liveoak.net/",
+    "description": "Customer engagement platform that simplifies paperwork through real-time videoconferencing, collaboration, and in session eSignature on any device",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/liveoaknet",
+      "linkedin": "https://linkedin.com/company/liveoak-technologies",
+      "facebook": "https://facebook.com/liveoakNet"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "TrueCoach",
+    "website": "https://truecoach.co/",
+    "description": "TrueCoach is a SaaS platform that helps professional coaches, personal trainers, and gym owners design, deliver, track personalized coaching programs.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/truecoachco",
+      "linkedin": "https://linkedin.com/company/truecoach",
+      "facebook": "https://facebook.com/truecoachapp"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "StopLight",
+    "website": "https://stoplight.io/",
+    "description": "Helping developers build, test, and improve their web APIs.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/stoplightio",
+      "linkedin": "https://linkedin.com/company/stoplight",
+      "facebook": "https://facebook.com/stoplightio/"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Next Big Sound",
+    "website": "https://nextbigsound.com/",
+    "description": "Knowledge to navigate the modern music industry",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nextbigsound",
+      "linkedin": "https://linkedin.com/company/464245",
+      "facebook": "https://facebook.com/nextbigsound"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Vanilla Forums",
+    "website": "https://vanillaforums.com/",
+    "description": "Community forums reinvented",
+    "location": "Montréal, Quebec, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/vanilla",
+      "linkedin": "https://linkedin.com/company/vanilla-forums-inc",
+      "facebook": "https://facebook.com/vanillaforums"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Lightstream",
+    "website": "https://golightstream.com/",
+    "description": "Formerly Infiniscene. A powerful & intuitive live streaming studio in your browser.  No downloads. No technical wizardry. Absolutely free.",
+    "location": "Chicago, Illinois, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/lightstream",
+      "linkedin": "https://linkedin.com/company/golightstream",
+      "facebook": "https://facebook.com/GoLightstream/"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "PlayCanvas",
+    "website": "https://playcanvas.com/",
+    "description": "The world's first cloud-hosted, collaborative platform for building video games",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/playcanvas",
+      "linkedin": "https://linkedin.com/company/playcanvas",
+      "facebook": "https://facebook.com/playcanvas"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Beam",
+    "website": "https://beam.pro/",
+    "description": "Interactive Livestreaming for Gamers",
+    "location": "Bellevue, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Beam",
+      "linkedin": "https://linkedin.com/company/6139255",
+      "facebook": "https://facebook.com/wearebeam"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "ATOM",
+    "website": "https://atomchat.io/",
+    "description": "Atom helps companies increase their sales teams' productivity by engaging customers via the messaging apps they use. Think Hubspot Lead Scoring for WhatsApp.",
+    "location": "Greenville, South Carolina, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/AtomChat_io",
+      "linkedin": "https://linkedin.com/company/atomchat",
+      "facebook": "https://facebook.com/atomchat.io/"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "INBOTIQA",
+    "website": "https://inbotiqa.com/",
+    "description": "Inbotiqa's enterprise email solution for high-volume & group mailboxes improves productivity & customer service via workflow management in middle & back offices",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/inbotiqa",
+      "linkedin": "https://linkedin.com/company/inbotiqa"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "LegitFit",
+    "website": "https://legitfit.com/",
+    "description": "Empowering Fitness Entrepreneurs & Business to deliver a better experience to their clients",
+    "location": "Cork, Cork, Ireland",
+    "social_media": {
+      "twitter": "https://twitter.com/LegitFitcom",
+      "linkedin": "https://linkedin.com/company/legit-fit1",
+      "facebook": "https://facebook.com/LegitFitcom/"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Giftbit",
+    "website": "https://giftbit.com/",
+    "description": "The digital-first gift card platform.",
+    "location": "Victoria, British Columbia, Canada",
+    "social_media": {
+      "twitter": "https://twitter.com/giftbit",
+      "linkedin": "https://linkedin.com/company/giftbit",
+      "facebook": "https://facebook.com/getgiftbit"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Reveal",
+    "website": "https://revealchat.com/",
+    "description": "Simple. Safe. Fun. Anonymous chat.",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/revealchat",
+      "linkedin": "https://linkedin.com/company/revealchat",
+      "facebook": "https://facebook.com/likebright"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Notedsource",
+    "website": "https://notedsource.io/",
+    "description": "Platform for professors and scientists to monetize research with companies.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/notedsource"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "doDOC",
+    "website": "https://dodoc.com/",
+    "description": "doDOC brings new drugs to market faster by streamlining regulatory documents",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/doD0C",
+      "linkedin": "https://linkedin.com/company/dodoc",
+      "facebook": "https://facebook.com/dodocuments"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Crowdly",
+    "website": "https://crowdly.com/",
+    "description": "Authentic Customer Advocacy at Scale",
+    "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/159541-42be7864bae989bd675067132e41c9fb-medium_jpg.jpg",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/crowdly",
+      "linkedin": "https://linkedin.com/company/crowdly",
+      "facebook": "https://facebook.com/crowdly"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "GoodApril",
+    "website": "https://goodapril.com/",
+    "description": "Automated tax planning for consumers",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/goodapril",
+      "linkedin": "https://linkedin.com/company/goodapril",
+      "facebook": "https://facebook.com/goodapriltax"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Senexx",
+    "website": "https://senexx.com/",
+    "description": "Ultimate social Q&A platform",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/SenexxInc",
+      "linkedin": "https://linkedin.com/company/2120877",
+      "facebook": "https://facebook.com/SenexxInc"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Infinit",
+    "website": "https://infinit.sh/",
+    "description": "Modern software-defined storage plaftorm for container environments.",
+    "location": "Paris, France",
+    "social_media": {
+      "twitter": "https://twitter.com/infinit",
+      "linkedin": "https://linkedin.com/company/%E5%9B%A0%E4%B8%BA%E7%A7%91%E6%8A%80%E6%97%A0%E9%94%A1%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+      "facebook": "https://facebook.com/infinit.career"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "LiteStack",
+    "website": "https://zerovm.org/",
+    "description": "The first hypervisor designed specifically for the cloud",
+    "location": "San Antonio, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/zerovm",
+      "linkedin": "https://linkedin.com/company/litestack"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Alpin",
+    "website": "https://alpin.io/",
+    "description": "Alpin cuts subscription costs by up to 30% and saves time on SaaS monitoring and management.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Alpin__io",
+      "linkedin": "https://linkedin.com/company/alpin-limited-masdar-city",
+      "facebook": "https://facebook.com/alpinapp/"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Vizify",
+    "website": "https://vizify.com/",
+    "description": "Personal website powered by your social media data",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vizify",
+      "linkedin": "https://linkedin.com/pub/chris-gueits",
+      "facebook": "https://facebook.com/Vizify"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Vidmaker",
+    "website": "https://vidmaker.com/",
+    "description": "Finding, managing and editing online video made easy",
+    "location": "Madison, Wisconsin, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/vidmakerLabs",
+      "linkedin": "https://linkedin.com/company/vidmaker",
+      "facebook": "https://facebook.com/Vidmaker"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Spill",
+    "website": "https://spillnow.com/",
+    "description": "Anonymous peer support",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/spill",
+      "linkedin": "https://linkedin.com/company/student-spill-llc",
+      "facebook": "https://facebook.com/studentspill"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Glider",
+    "website": "https://glider.com/",
+    "description": "Fixing secure document collaboration",
+    "logo_url": "https://pbs.twimg.com/profile_images/2781192122/88538a9ff61dea8adc51fbb860ba4072_bigger.png",
+    "location": "Portland, Oregon, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/glider_com",
+      "linkedin": "https://linkedin.com/company/2573483",
+      "facebook": "https://facebook.com/pages/Glider/184726438324064"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Experiment Engine",
+    "website": "https://experimentengine.com/",
+    "description": "Crowdsource your A/B testing to conversion rate experts & drive more sales",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/expengine",
+      "linkedin": "https://linkedin.com/company/experiment-engine",
+      "facebook": "https://facebook.com/ExperimentEngine"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Conspire",
+    "website": "https://conspire.com/",
+    "description": "Unlock your email network",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/goconspire",
+      "linkedin": "https://linkedin.com/company/conspire",
+      "facebook": "https://facebook.com/aireumsoftware"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "ShuttleCloud",
+    "website": "https://shuttlecloud.com/",
+    "description": "Tech holding company",
+    "location": "Exton, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/ShuttleCloud",
+      "linkedin": "https://linkedin.com/company/shuttlecloud-corp-",
+      "facebook": "https://facebook.com/ShuttleCloud"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Rapt Media",
+    "website": "https://raptmedia.com/",
+    "description": "Platform for interactive video",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/raptmedia",
+      "linkedin": "https://linkedin.com/company/raptmedia",
+      "facebook": "https://facebook.com/getflixmaster"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "IntenseDebate",
+    "website": "https://intensedebate.com/",
+    "description": "Blog commenting system",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/intensedebate",
+      "linkedin": "https://linkedin.com/company/intensedebate.com"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Tova Earth",
+    "website": "https://tova.earth/",
+    "description": "We predict business risk from water scarcity. WaterProof(tm) is a DaaS product using our physics informed AI hydrologic model to forecast water availability anywhere, accessible via an interactive platform and API. Corporations and investors will use WaterProof to minimize disruptions, eliminate water constraints on growth, and identify investment opportunities. Our AI replaces expensive, manual consulting with automated, high-resolution insights. The TurboTax of water engineering consulting.",
+    "location": "Amherst, Massachusetts, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tovaearth"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "PrettyData",
+    "website": "https://prettydata.co/",
+    "description": "PrettyData is an AI-powered smart pricing platform helping beauty and wellness businesses maximize revenue through data-driven price optimization and market intelligence so beauty professionals can focus on their craft, not math.",
+    "location": "Dover, Delaware, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/prettydata-co"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Athion",
+    "website": "https://athion.io/",
+    "description": "Athion revolutionizes industrial automation collaboration with our patent-pending software platform that streamlines engineering design evaluation, minimizes costly late changes, and enhances communication across liquid manufacturing projects and the lifecycle of the facility.",
+    "location": "Chesterfield, Missouri, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/athion-io"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "The Secure AI Corporation",
+    "website": "https://secureai.us/",
+    "description": "Secure AI delivers mission-critical generative AI solutions for the $900B defense sector that operate completely offline and on edge devices. Our technology enables advanced AI capabilities for classified environments, maritime vessels, unmanned systems, and orbital platforms--bringing intelligence exactly where it's needed most.",
+    "location": "Goleta, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/secure-ai-corp"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "KindredPM",
+    "website": "https://kindredpm.ai/",
+    "description": "For residential property management companies who are stuck with bloated labor costs or unscalable operations, we're building an AI property manager that handles all leasing and maintenance operations without any human intervention.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/102597889"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "BestDefense",
+    "website": "https://bestdefense.io/",
+    "description": "We stress test your infrastructure abilities to scale, evaluate your security posture through automated vulnerability and pen tests, and track/alert network threats in real-time.",
+    "location": "Clearwater, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/bestdefense-inc"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Raklet",
+    "website": "https://hello.raklet.com/",
+    "description": "Automate your workflows.",
+    "location": "Berlin, Germany",
+    "social_media": {
+      "twitter": "https://twitter.com/raklet_en",
+      "linkedin": "https://linkedin.com/company/raklet",
+      "facebook": "https://facebook.com/rakletapp"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "TimeSentry",
+    "website": "https://timesentry.ai/",
+    "description": "TimeSentry is a cloud gateway to effortless timesheets and billing, designed for hourly professionals and powered by a comprehensive ecosystem of AI productivity tools.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/timesentry"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Harvest",
+    "website": "https://goharvest.ai/",
+    "description": "For businesses needing real-time web data, Harvest turns the internet into structured, tabular data using AI chat.",
+    "location": "Monroe, New Jersey, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/goharvestai"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "OptiFab Technologies",
+    "website": "https://opti-fab.com/",
+    "description": "OptiFab uses AI-driven solutions to eliminate repetitive tasks in manufacturing, reducing human errors and ensuring faster, smarter and more efficient production.",
+    "location": "Kitchener, Ontario, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/optifab-technologies-inc"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Talimai SAS",
+    "website": "https://brio.ink/",
+    "description": "AI agent to prepare and assess critical conversations, starting with the job interview",
+    "location": "Orléans, Centre, France",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/brioapp"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Legaleaze Technologies",
+    "website": "https://legaleaze.co/",
+    "description": "For law firms struggling with billing inefficiencies, Legaleaze offers an AI-powered platform that tracks legal work and auto-generates detailed, compliant invoices.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/legaleaze-ai"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "SalesPlay X",
+    "website": "https://salesplayx.com/",
+    "description": "AI account planning for B2B sales",
+    "location": "Honolulu, Hawaii, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/salesplay-x"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Mae - Making Auto Easy",
+    "website": "https://makingautoeasy.com/",
+    "description": "Mae is building the future of car buying with smart, seamless, and personalized digital experiences--at scale.",
+    "location": "Richmond, British Columbia, Canada",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/makingautoeasy"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Alt",
+    "website": "https://altfndata.com/",
+    "description": "Alt.Fn is a financial data platform for tracking the $17.2T invested in alternative assets markets.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/in_oarbt",
+      "linkedin": "https://linkedin.com/company/oarbt",
+      "facebook": "https://facebook.com/oarbt/"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Tablender",
+    "website": "https://tablender.com/",
+    "description": "Tablender simplifies database management for non-technical users with an AI-assisted, spreadsheet-like UI that merges multiple data sources into a unified system.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/tablender"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Kaavio",
+    "website": "https://kaavio.ai/",
+    "description": "Kaavio automates product catalog management for B2B distributors, eliminating fragmented and manual processes to enhance product content and drive sales.",
+    "location": "Danville, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kaavio-ai"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Cronwell",
+    "website": "https://cronwell.ai/",
+    "description": "Cronwell prevents costly unplanned shutdowns in chemical plants with AI-driven root cause analysis, reducing diagnosis time from days to hours.",
+    "location": "Atlanta, Georgia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/cronwell"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Cerbrec",
+    "website": "https://cerbrec.com/",
+    "description": "The AI platform that empowers developers and researchers to create bespoke AI solutions by just drag and drop.",
+    "location": "Hoboken, New Jersey, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Cerbrec",
+      "linkedin": "https://linkedin.com/company/cerbrec"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Reliabl",
+    "website": "https://reliabl.ai/",
+    "description": "Reliabl's data annotation software transforms traditional data collection methods--hashtags, surveys, feedback, profiles--into machine learning-compatible annotations.  This ensures that your company's AI models are trained on contextual, high-quality, and user-centric data.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/eggpon6ifhvgt4grrr3u",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/andreafrancesb",
+      "linkedin": "https://linkedin.com/company/reliablai"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "xBlock",
+    "website": "https://xblock.ai/",
+    "description": "An organizational intelligence platform to capture, organize, and activate business knowledge.",
+    "location": "Anacortes, Washington, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/xblock-ai"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Sonnet",
+    "website": "https://sonnetai.com/",
+    "description": "Sonnet is a tailored sales outreach copilot that creates hundreds of well-researched and human-sounding sales emails.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/n5o9xx6k238s6dyoef5k",
+    "location": "Dublin, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sonnetai"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "RYN",
+    "website": "https://therynapp.com/",
+    "description": "RYN is an AI fashion engine designed to reduce the stress of getting dressed by providing outfit recommendations using users' own clothes.",
+    "location": "Marysville, Ohio, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/therynapp"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "OfSpectrum",
+    "website": "https://ofspectrum.com/",
+    "description": "We provide comprehensive voice security and ethical AI solutions in four aspects",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/ofspectrum"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "OneDeal",
+    "website": "https://onedeal.biz/",
+    "description": "The most efficient way to buy or sell a business through the use of technology.",
+    "location": "Brooklyn, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/onedeal_biz",
+      "linkedin": "https://linkedin.com/company/onedeal"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Motics Technologies",
+    "website": "https://motics.co.uk/",
+    "description": "Motics Copilot automates clinical note taking, referral letters, and more to save hours a day, enabling practicioners to spend time doing the things that matter.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/cf0kyas0rfcvnamqkeej",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/moticshealth",
+      "linkedin": "https://linkedin.com/company/motics",
+      "facebook": "https://facebook.com/moticshealth"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Recrewty",
+    "website": "https://recrewty.com/",
+    "description": "Enhancing hiring operations with tailored psychometric testing",
+    "location": "Podgorica, Montenegro",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/recrewty"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "axem",
+    "website": "https://axemsolutions.io/",
+    "description": "Speeding up embedded software development: open-source Development Environment Manager",
+    "location": "Dublin, Dublin, Ireland",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/axemsolutions"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Vocations",
+    "website": "https://vocations.io/",
+    "description": "Vocations is a sales intelligence platform for HR companies that leverages an AI agent to scrape job offers directly from company websites.",
+    "location": "Cernusco sul Naviglio, Milan, Italy",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/vocations-io"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "frnt",
+    "website": "https://frnt.co/",
+    "description": "Making live shopping measurable.",
+    "location": "London, England, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/frnthq/",
+      "linkedin": "https://linkedin.com/company/frnthq"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Carwyze",
+    "website": "https://carwyze.de/",
+    "description": "Carwyze is a car e-commerce startup with AI ML car buyout system, embedded financial & insurance products and car owner bundle subscription.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/repxwbt7vbgawmjlra9p",
+    "location": "Cottbus, Germany",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/carwyze"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Latent Knowledge Solutions",
+    "website": "https://latentknowledge.co/",
+    "description": "Latent Knowledge develops research tools with artificial intelligence and natural language processing.",
+    "location": "Redfern, New South Wales, Australia",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/latent-knowledge"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Recepta",
+    "website": "https://receptapp.com/",
+    "description": "Recepta offers a simple and scalable solution that automates the creation and collection of digital receipts for all card transactions on each purchase, eliminating the need for paper receipts. It refers to everyone who make purchases on credit or debit",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/gdvwqyuwj7gvninmcdxt",
+    "location": "Fairfax, Virginia, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/recepta"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Touch",
+    "website": "https://t0uch.io/",
+    "description": "Touch is the AI lead gen tool that connects B2B Technology sellers to buyers.",
+    "location": "Elmont, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/t0uch"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Flow Circuits",
+    "website": "https://flowcircuits.com/",
+    "description": "Engineering Design Software for HVAC",
+    "location": "Vista, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/hvakr"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Valio",
+    "website": "https://myvalio.com/",
+    "description": "Unlocking Millions in Untapped Rebates for Health Systems\n\nValio is building the AI infrastructure that turns confusing rebate contracts into cash.",
+    "location": "Zionsville, Indiana, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/valiollc"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Galen Health",
+    "website": "https://galenhealth.org/",
+    "description": "Vertical AI Agents for Cancer Care",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/galen-ai"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Sloop",
+    "website": "https://sloop.ai/",
+    "description": "Sloop eliminates AI hallucinations by encoding your prompts with hypertokens, the GPS for LLMs that instantly upgrades the memory, reasoning, and privacy of your AI tools.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/sloopfx"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Phase Zero",
+    "website": "https://phasezero.co/",
+    "description": "Phase Zero empowers healthcare contact centers to easily build internal tooling and automate workflows, all with the flexibility of a spreadsheet.",
+    "location": "Boston, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/PhaseZeroForms",
+      "linkedin": "https://linkedin.com/company/phase-zero-inc"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Prismia",
+    "website": "https://prismia.so/",
+    "description": "Prismia is a data and process unification interface that enables non-technical users to weave agentic capabilities into their own workflow.",
+    "location": "Pasadena, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/prismia-aui"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Praxi",
+    "website": "https://praxi.io/",
+    "description": "Praxi helps simplify technical accounting.",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/praxi-io"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Preface Health",
+    "website": "https://prefacehealth.com/",
+    "description": "Preface Health predicts and automates clinical tasks for healthcare.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {},
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "VideoDraft",
+    "website": "https://videodraft.ai/",
+    "description": "Personal AI Agents for Pre-Production",
+    "location": "Fremont, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/videodraft"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Testimonial IQ",
+    "website": "https://testimonialiq.com/",
+    "description": "For financial advisors that want to take control of their digital presence, Testimonial IQ provides a compliance-based solution for generating client reviews, social proof, and marketing content.",
+    "location": "Denver, Colorado, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/testimonial-iq"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Rockhopper",
+    "website": "https://rockhoppersolutions.com/",
+    "description": "For accounting and finance users who have difficulty collaborating, streamlining workflows, and accessing institutional knowledge, Rockhopper makes it easier to understand and track processes, increase transparency, and save time executing tedious work.",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/rockhoppersolutions"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Taxxwiz",
+    "website": "https://taxxwiz.com/",
+    "description": "Taking the stress out of tax season. Revolutionizing your tax business.",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/taxxwiz",
+      "linkedin": "https://linkedin.com/company/taxx-revolution",
+      "facebook": "https://facebook.com/taxxwiz"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Pique",
+    "website": "https://pique.so/",
+    "description": "Pique is an AI-powered note-taking platform that transforms lectures and meetings into personalized learning experiences, with a focus on supporting neurodivergent learners.",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/piquetechnologies"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Kaya",
+    "website": "https://joinkaya.com/",
+    "description": "Kaya is an AI-powered people analytics platform that blends organizational psychology with predictive insights to help HR and L&D teams enhance workforce well-being, engagement, and productivity while driving measurable improvements in organizational health.",
+    "location": "Birmingham, Alabama, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/kaya-co"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Immigify",
+    "website": "https://immigify.com/",
+    "description": "Immigify addresses the complex and often overwhelming U.S. immigration process, by building Immigration Workflow AI Agents to simplify the immigration process for businesses & their employees.",
+    "location": "Royse City, Texas, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/immigify-inc"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Hardly",
+    "website": "https://hardly-work.com/",
+    "description": "Hardly is a robust ecosystem of collaborative career tools that consolidates career support services, enabling them to serve more job seekers and increase economic mobility.",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/hardlytech",
+      "linkedin": "https://linkedin.com/company/hardly",
+      "facebook": "https://facebook.com/HardlyWorkTech"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Tulay",
+    "website": "https://tulay.co/",
+    "description": "Tulay helps early-stage creators grow their businesses by developing credit models for capital allocators.",
+    "location": "Oakland, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/gettulay",
+      "linkedin": "https://linkedin.com/company/gettulay",
+      "facebook": "https://facebook.com/GetTulay"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "ACT House",
+    "website": "https://act.house/",
+    "description": "ACT House combines affordable housing and innovation amenities in a coliving model to accelerate the creation of minority owned ventures.",
+    "location": "Tallahassee, Florida, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/theacthouse",
+      "facebook": "https://facebook.com/TheACTHouse/"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Virtkick",
+    "website": "https://virtkick.com/",
+    "description": "Giving independent hosting companies the tools they need to compete with big cloud providers",
+    "location": "San Antonio, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/virtkick",
+      "linkedin": "https://linkedin.com/company/virtkick-inc-",
+      "facebook": "https://facebook.com/virtkick"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Pear Suite",
+    "website": "https://pearsuite.com/",
+    "description": "Enabling anyone to collect, understand, & act on social drivers of health data.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/xqcn1xgwmd77aeihhvbq",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/pearsuiteinc",
+      "linkedin": "https://linkedin.com/company/pear-suite"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Luca",
+    "website": "https://luca.africa/",
+    "description": "A bookkeeping and finance tool for all aspects of your business.",
+    "location": "Chatsworth, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/LucaAfrica",
+      "linkedin": "https://linkedin.com/company/lucaafrica",
+      "facebook": "https://facebook.com/Luca-106449338582738"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Regfyl",
+    "website": "https://regfyl.com/",
+    "description": "For african fintechs that have AML and fraud issues, we provide a one stop compliance and regulatory platform.",
+    "location": "Claymont, Delaware, United States",
+    "social_media": {},
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Haven Network",
+    "website": "https://havenproject.io/",
+    "description": "Haven is a mission-driven platform that radically simplifies access to government and corporate contracts--many of which businesses are unaware of. In a landscape of outdated systems, bureaucratic jargon, and scattered portals, Haven unites over 12,000 buying agencies into one intuitive platform. Acting as a business development partner, we automatically match businesses with the right opportunities, drastically reducing the time and effort required to find and secure contracts.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thinkhaven",
+      "linkedin": "https://linkedin.com/company/thinkhaven"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "DoDocs",
+    "website": "https://dodocs.ai/",
+    "description": "APIs and AI agent for inventory and data base updates automation for restaurants, hotels, logistics, accounting and others",
+    "location": "Dubai, Dubai, United Arab Emirates",
+    "social_media": {
+      "twitter": "https://twitter.com/AiDodocs11493",
+      "linkedin": "https://linkedin.com/company/dodocsai"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Kapta",
+    "website": "https://kapta.com/",
+    "description": "Key Account Management software",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/kapta",
+      "linkedin": "https://linkedin.com/company/kapta",
+      "facebook": "https://facebook.com/Kapta-322296979184751/"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Hirize",
+    "website": "https://hirize.ai/",
+    "description": "Hirize delivers highly accurate document parsing and workflow automation through AI-powered APIs, enabling SaaS platforms and enterprises to seamlessly extract and integrate data for better decision-making and efficiency.",
+    "location": "Miami, Florida, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Hirizeai",
+      "linkedin": "https://linkedin.com/company/hirize"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Humans Deliver",
+    "website": "https://humansdeliver.com/",
+    "description": "Provides an AI-powered API that integrates real-time restroom and meal stop options into delivery routing tools, optimizing efficiency and lowering costs for carriers.",
+    "location": "New York City, New York, United States",
+    "social_media": {},
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Creativo",
+    "website": "https://creativo.ai/",
+    "description": "Creativo is a revolutionary AI that replaces your entire marketing department. Our platform crafts compelling campaigns, optimizes engagement, and delivers data-driven results--without the overhead of a traditional team. Scale rapidly, cut costs, and outperform competitors with intelligent automation that handles everything from creative content to analytics. Welcome to the future of marketing.",
+    "location": "Tulsa, Oklahoma, United States",
+    "social_media": {
+      "linkedin": "https://linkedin.com/company/creativo-ai"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Coopify",
+    "website": "https://wecoopify.com/",
+    "description": "Coopify facilitates transparent and democratic decision-making, offering comprehensive treasury and pension fund management tools, integrated personal wallets, and educational resources.",
+    "location": "Edmond, Georgia, United States",
+    "social_media": {},
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Thinkfuse",
+    "website": "https://thinkfuse.com/",
+    "description": "Share your progress",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/thinkfuse",
+      "linkedin": "https://linkedin.com/company/thinkfuse",
+      "facebook": "https://facebook.com/thinkfuse"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Wander",
+    "website": "https://days.am/",
+    "description": "The first-and-only whole-day-at-once visual diary",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/wander",
+      "linkedin": "https://linkedin.com/company/wander-app-inc",
+      "facebook": "https://facebook.com/onwander"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "DataBlade",
+    "website": "https://datablade.io/",
+    "description": "Data insights without the overhead",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/databladeio",
+      "linkedin": "https://linkedin.com/company/datablade-inc-",
+      "facebook": "https://facebook.com/pg/datablade/"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Fetchnotes",
+    "website": "https://fetchnotes.com/",
+    "description": "Note-taking and organization tool",
+    "location": "Cambridge, Massachusetts, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fetchnotes",
+      "linkedin": "https://linkedin.com/company/fetchnotes",
+      "facebook": "https://facebook.com/fetchnotes"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "StatsMix",
+    "website": "https://statsmix.com/",
+    "description": "Custom dashboards to aggregate metrics",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/statsmix",
+      "linkedin": "https://linkedin.com/company/927825",
+      "facebook": "https://facebook.com/statsmix"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Sorry As A Service",
+    "website": "https://sorryasaservice.com/",
+    "description": "Sorry as a Service is a customer retention solution that enables businesses to send apologies, measure, track and optimize their retention activities and reduce churn and negative sentiment.",
+    "location": "Tallinn, Estonia",
+    "social_media": {
+      "twitter": "https://twitter.com/SorryAsAService",
+      "linkedin": "https://linkedin.com/company/sorry-as-a-service",
+      "facebook": "https://facebook.com/sorryasaservice"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Dispatch",
+    "website": "https://dispatch.me/",
+    "description": "We make it easy for enterprise service brands to gain real-time visibility across their entire independent network while delivering unparalleled experiences to their end-customers.",
+    "logo_url": "https://pbs.twimg.com/profile_images/3402046298/a6cf4773b69e71d158e52c40ed2c9f7f_bigger.jpeg",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/Dispatch",
+      "linkedin": "https://linkedin.com/company/dispatch-labs",
+      "facebook": "https://facebook.com/dispatchitinc"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Smart Host",
+    "website": "https://smarthost.me/",
+    "description": "Dynamic Pricing & Data Analytics for Vacation Rentals",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/smarthost",
+      "linkedin": "https://linkedin.com/company/smart-host",
+      "facebook": "https://facebook.com/smarthostme"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Urtak",
+    "website": "https://linkedin.com/company/282078",
+    "description": "Collaborative web polls",
+    "location": "New York City, New York, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/urtak",
+      "linkedin": "https://linkedin.com/company/282078",
+      "facebook": "https://facebook.com/pages/Urtak/108375512520234"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "TruantToday",
+    "website": "https://linkedin.com/company/truanttoday-inc.",
+    "description": "Simple, easy-to-use education software",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/truanttoday",
+      "linkedin": "https://linkedin.com/company/truanttoday-inc."
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "RewardsForce",
+    "website": "https://linkedin.com/company/1211507",
+    "description": "Web-based loyalty management",
+    "location": "Seattle, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/rewardsforce",
+      "linkedin": "https://linkedin.com/company/1211507",
+      "facebook": "https://facebook.com/RewardsForce"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "ReplySend",
+    "website": "https://linkedin.com/company/replysend",
+    "description": "ReplySend is a company developing software and tools for email.",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/replysend",
+      "linkedin": "https://linkedin.com/company/replysend",
+      "facebook": "https://facebook.com/pages/Okdidit-Inc/255122547908963"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Nebulab",
+    "website": "https://linkedin.com/company/nebulab-technologies",
+    "description": "Contextual data management for life scientists",
+    "location": "San Antonio, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/nebulab_io",
+      "linkedin": "https://linkedin.com/company/nebulab-technologies"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "FitDeck Mobile",
+    "website": "https://crunchbase.com/organization/mobilexware",
+    "description": "Mobile applications",
+    "location": "San Diego, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/fitdeck"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Emergent One",
+    "website": "https://linkedin.com/company/emergent-one",
+    "description": "API generation",
+    "location": "San Francisco, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/emergent_one",
+      "linkedin": "https://linkedin.com/company/emergent-one",
+      "facebook": "https://facebook.com/EmergentONE"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Corgee",
+    "website": "https://linkedin.com/company/67886033",
+    "description": "Manage all your accounts, tax and finances in one place. Corgee is an app for freelancers and their accountants.",
+    "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/eumtjruyqr71dewnta7i",
+    "location": "Barcelona, Spain",
+    "social_media": {
+      "twitter": "https://twitter.com/joincorgee",
+      "linkedin": "https://linkedin.com/company/67886033",
+      "facebook": "https://facebook.com/joincorgee/"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Cloudsnap",
+    "website": "https://linkedin.com/company/cloudsnapconnect",
+    "description": "Integration as a service",
+    "location": "Reno, Nevada, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/cloudsnap",
+      "linkedin": "https://linkedin.com/company/cloudsnapconnect",
+      "facebook": "https://facebook.com/cloudsnap"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Cerebro Solutions",
+    "website": "https://linkedin.com/company/16168621",
+    "description": "Cerebro enables hospitals and clinicians to directly post and accept both per diem and contract shifts.",
+    "location": "Los Angeles, California, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/meetcerebro",
+      "linkedin": "https://linkedin.com/company/16168621",
+      "facebook": "https://facebook.com/meetcerebro"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "BuildersCloud",
+    "website": "https://linkedin.com/company/builderscloud",
+    "description": "BuildersCloud makes sharing, accessing and working with construction documents incredibly easy.",
+    "location": "Bellevue, Washington, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/builderscloud",
+      "linkedin": "https://linkedin.com/company/builderscloud",
+      "facebook": "https://facebook.com/BuildersCloud"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "BirdBox",
+    "website": "https://crunchbase.com/organization/birdbox",
+    "description": "Group photo albums",
+    "location": "Boulder, Colorado, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/birdbox",
+      "facebook": "https://facebook.com/birdboxcom"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Omaiven Health",
+    "website": "https://linkedin.com/company/omaiven-health",
+    "description": "Omaiven is the automation & intelligence solution built specifically for clinic teams to reduce time spent on manual and data tasks.",
+    "location": "Austin, Texas, United States",
+    "social_media": {
+      "twitter": "https://twitter.com/omaivenhealth",
+      "linkedin": "https://linkedin.com/company/omaiven-health"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  },
+  {
+    "name": "Polywork",
+    "website": "https://linkedin.com/company/polyworkhq",
+    "description": "Polywork is a social networking platform that allows professionals to collaborate with other professionals.",
+    "location": "London, United Kingdom",
+    "social_media": {
+      "twitter": "https://twitter.com/polywork",
+      "linkedin": "https://linkedin.com/company/polyworkhq",
+      "facebook": "https://facebook.com/kalohq"
+    },
+    "industry": "SaaS",
+    "industry_slug": "saas"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "Planette",
+  "slug": "planette",
+  "website": "https://planette.ai/",
+  "description": "Planette.ai empowers enterprises to adapt to climate change by providing year-ahead extreme weather risk forecasts.",
+  "one_liner": "Planette.ai empowers enterprises to adapt to climate change by providing year-ahead extreme weather risk forecasts.",
+  "location": "Fremont, California, United States",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/planetteai"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/planette",
+  "api": "/api/companies/planette.json"
+}

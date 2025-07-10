@@ -1,0 +1,24 @@
+{
+  "name": "Glow Up Games",
+  "slug": "glow-up-games",
+  "website": "https://glowup.games/",
+  "description": "Glow Up Games creates mobile games targeting women of color, using the proven power of diverse storytelling to better understand & serve this hidden market within the gaming industry.",
+  "one_liner": "Glow Up Games creates mobile games targeting women of color, using the proven power of diverse storytelling to better understand & serve this hidden market within the gaming industry.",
+  "location": "New York City, New York, United States",
+  "industry": "Gaming",
+  "industry_slug": "gaming",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/enkvnq8aijiesacm6kco",
+  "social_media": {
+    "twitter": "https://twitter.com/glowupgames",
+    "linkedin": "https://linkedin.com/company/glow-up",
+    "facebook": "https://facebook.com/GlowUpGamesFB/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/glow-up-games",
+  "api": "/api/companies/glow-up-games.json"
+}

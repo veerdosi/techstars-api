@@ -1,0 +1,24 @@
+{
+  "name": "AGTools",
+  "slug": "agtools",
+  "website": "https://ag.tools/",
+  "description": "Agtools is a real-time data and market intelligence platform that provides transparency to the global food & ag industry.",
+  "one_liner": "Agtools is a real-time data and market intelligence platform that provides transparency to the global food & ag industry.",
+  "location": "Irvine, California, United States",
+  "industry": "Agtech",
+  "industry_slug": "agtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ag_tools",
+    "linkedin": "https://linkedin.com/company/agtools",
+    "facebook": "https://facebook.com/AgtoolsInc/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/agtools",
+  "api": "/api/companies/agtools.json"
+}

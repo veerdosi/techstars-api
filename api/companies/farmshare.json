@@ -1,0 +1,23 @@
+{
+  "name": "farmshare",
+  "slug": "farmshare",
+  "website": "https://farmshare.co/",
+  "description": "Farmshare is the operating system for modern American farmers, enabling them to excel in the direct-to-market sales channel with tools like logistics technology optimized for shipping perishable goods and AI email marketing automation.",
+  "one_liner": "Farmshare is the operating system for modern American farmers, enabling them to excel in the direct-to-market sales channel with tools like logistics technology optimized for shipping perishable goods and AI email marketing automation.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Foodtech",
+  "industry_slug": "foodtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/farmshareco",
+    "facebook": "https://facebook.com/people/Farmshare/100085093153410"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/farmshare",
+  "api": "/api/companies/farmshare.json"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Neomare",
+  "slug": "neomare",
+  "website": "https://neomare.no/",
+  "description": "Neomare is a developer of environmental technology platform providing seismic imaging using a containerized modular survey platform.",
+  "one_liner": "Neomare is a developer of environmental technology platform providing seismic imaging using a containerized modular survey platform.",
+  "location": "Lillestrøm, Norway",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/NGeoservices",
+    "linkedin": "https://linkedin.com/company/neomare-as"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/neomare",
+  "api": "/api/companies/neomare.json"
+}

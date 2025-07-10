@@ -1,0 +1,24 @@
+{
+  "name": "Happied",
+  "slug": "happied",
+  "website": "https://happied.co/",
+  "description": "Happied is automated event planning software, empowering companies to engage and retain talent at a fraction of the cost.",
+  "one_liner": "Happied is automated event planning software, empowering companies to engage and retain talent at a fraction of the cost.",
+  "location": "Washington, District of Columbia, United States",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/happied_co",
+    "linkedin": "https://linkedin.com/company/happied",
+    "facebook": "https://facebook.com/gethappied/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/happied",
+  "api": "/api/companies/happied.json"
+}

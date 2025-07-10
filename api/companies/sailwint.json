@@ -1,0 +1,22 @@
+{
+  "name": "SAILWINT",
+  "slug": "sailwint",
+  "website": "https://sailwint.com/",
+  "description": "SAILWINT produces and delivers cheap, clean and resilient hydrogen at scale with autonomous wind turbine ships sailing offshore seas",
+  "one_liner": "SAILWINT produces and delivers cheap, clean and resilient hydrogen at scale with autonomous wind turbine ships sailing offshore seas",
+  "location": "Berlin, Berlin, Germany",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/sailwint"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sailwint",
+  "api": "/api/companies/sailwint.json"
+}

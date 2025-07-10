@@ -1,0 +1,24 @@
+{
+  "name": "WatchTower Robotics",
+  "slug": "watchtower-robotics",
+  "website": "https://linkedin.com/company/watchtower-robotics",
+  "description": "Affordable, reliable, accurate leak detection that allows utilities to stop reacting and prevent pipe bursts before they happen.",
+  "one_liner": "Affordable, reliable, accurate leak detection that allows utilities to stop reacting and prevent pipe bursts before they happen.",
+  "location": "Cambridge, Massachusetts, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/watchtowerrobot",
+    "linkedin": "https://linkedin.com/company/watchtower-robotics",
+    "facebook": "https://facebook.com/watchtowerrobotics"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/watchtower-robotics",
+  "api": "/api/companies/watchtower-robotics.json"
+}

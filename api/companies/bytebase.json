@@ -1,0 +1,23 @@
+{
+  "name": "Bytebase",
+  "slug": "bytebase",
+  "website": "https://bytebase.io/",
+  "description": "Stashpad is the developer notepad. It's the fast and easy way to stay organized as you work without breaking flow.",
+  "one_liner": "Stashpad is the developer notepad. It's the fast and easy way to stay organized as you work without breaking flow.",
+  "location": "Oakland, California, United States",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/stashpadapp",
+    "linkedin": "https://linkedin.com/company/stashpad"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/bytebase",
+  "api": "/api/companies/bytebase.json"
+}

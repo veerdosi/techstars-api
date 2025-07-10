@@ -1,0 +1,22 @@
+{
+  "name": "axem",
+  "slug": "axem",
+  "website": "https://axemsolutions.io/",
+  "description": "Speeding up embedded software development: open-source Development Environment Manager",
+  "one_liner": "Speeding up embedded software development: open-source Development Environment Manager",
+  "location": "Dublin, Dublin, Ireland",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/axemsolutions"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/axem",
+  "api": "/api/companies/axem.json"
+}

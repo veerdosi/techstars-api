@@ -1,0 +1,24 @@
+{
+  "name": "Brolly Africa",
+  "slug": "brolly-africa",
+  "website": "https://brolly.africa/",
+  "description": "Brolly provides flexible payment auto insurance for drivers in Africa. Commercial drivers get pay-weekly cover while salaried workers get pay-monthly cover.",
+  "one_liner": "Brolly provides flexible payment auto insurance for drivers in Africa. Commercial drivers get pay-weekly cover while salaried workers get pay-monthly cover.",
+  "location": "Liberty Twp, Ohio, United States",
+  "industry": "Insurtech",
+  "industry_slug": "insurtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/brolly_africa",
+    "linkedin": "https://linkedin.com/company/brolly-africa",
+    "facebook": "https://facebook.com/brolly.africa"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/brolly-africa",
+  "api": "/api/companies/brolly-africa.json"
+}

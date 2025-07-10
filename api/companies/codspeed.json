@@ -1,0 +1,23 @@
+{
+  "name": "CodSpeed",
+  "slug": "codspeed",
+  "website": "https://codspeed.io/",
+  "description": "CodSpeed is a software performance optimization tool that allows engineering teams to automatically measure and improve performance changes of code before it is deployed to production.",
+  "one_liner": "CodSpeed is a software performance optimization tool that allows engineering teams to automatically measure and improve performance changes of code before it is deployed to production.",
+  "location": "Paris, France",
+  "industry": "Cloudtech and DevOps",
+  "industry_slug": "cloudtech-devops",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/codspeedhq",
+    "linkedin": "https://linkedin.com/company/codspeed"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/codspeed",
+  "api": "/api/companies/codspeed.json"
+}

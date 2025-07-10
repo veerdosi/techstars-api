@@ -1,0 +1,22 @@
+{
+  "name": "Snappable",
+  "slug": "snappable",
+  "website": "https://snappable.nyc/",
+  "description": "A digital payment system to transact government nutrition incentive benefits.",
+  "one_liner": "A digital payment system to transact government nutrition incentive benefits.",
+  "location": "Claymont, Delaware, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/snappable-nyc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/snappable",
+  "api": "/api/companies/snappable.json"
+}

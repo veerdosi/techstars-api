@@ -1,0 +1,24 @@
+{
+  "name": "Imperson",
+  "slug": "imperson",
+  "website": "https://imperson.com/",
+  "description": "imperson develops turnkey AI chatbot solutions that automate the entire customer journey, naturally, through conversation.",
+  "one_liner": "imperson develops turnkey AI chatbot solutions that automate the entire customer journey, naturally, through conversation.",
+  "location": "Culver City, California, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/imperson",
+    "linkedin": "https://linkedin.com/company/imperson",
+    "facebook": "https://facebook.com/impersonme"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/imperson",
+  "api": "/api/companies/imperson.json"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Uuvipak",
+  "slug": "uuvipak",
+  "website": "https://linkedin.com/company/uuvipak",
+  "description": "Uuvipak is on a quest to eradicate plastic waste and make 100% compostable and edible items from food and beverage manufacturing byproducts.",
+  "one_liner": "Uuvipak is on a quest to eradicate plastic waste and make 100% compostable and edible items from food and beverage manufacturing byproducts.",
+  "location": "Newstead, Queensland, Australia",
+  "industry": "Lifestyles of Health and Sustainability and wellness",
+  "industry_slug": "lohas-wellness",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/uuvipak",
+    "linkedin": "https://linkedin.com/company/uuvipak",
+    "facebook": "https://facebook.com/uuvipak"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/uuvipak",
+  "api": "/api/companies/uuvipak.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "AutoMetrics",
+  "slug": "autometrics",
+  "website": "https://autometrics.ca/",
+  "description": "Autometrics is an AI-powered industrial automation company.",
+  "one_liner": "Autometrics is an AI-powered industrial automation company.",
+  "location": "Markham, Ontario, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/autometrics-mfg-tech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/autometrics",
+  "api": "/api/companies/autometrics.json"
+}

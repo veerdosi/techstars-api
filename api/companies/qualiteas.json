@@ -1,0 +1,22 @@
+{
+  "name": "qualiTEAS",
+  "slug": "qualiteas",
+  "website": "https://qualiteas.ca/",
+  "description": "qualiTEAS is a corrosion inspection and management company, aiming to transform asset integrity inspection practices with its AI solution.",
+  "one_liner": "qualiTEAS is a corrosion inspection and management company, aiming to transform asset integrity inspection practices with its AI solution.",
+  "location": "St. John's, Newfoundland and Labrador, Canada",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/qualiteas-inc"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/qualiteas",
+  "api": "/api/companies/qualiteas.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Cognitensor",
+  "slug": "cognitensor",
+  "website": "https://cognitensor.com/",
+  "description": "Helping transforming ESG data into operational efficiency!",
+  "one_liner": "Helping transforming ESG data into operational efficiency!",
+  "location": "Delhi, Delhi, India",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/uzkhfuhdegxpsw0jit8h",
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/cognitensor"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cognitensor",
+  "api": "/api/companies/cognitensor.json"
+}

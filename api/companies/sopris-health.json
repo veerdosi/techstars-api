@@ -1,0 +1,24 @@
+{
+  "name": "Sopris Health",
+  "slug": "sopris-health",
+  "website": "https://linkedin.com/company/sopris-health",
+  "description": "Sopris Health is an intelligent clinical operations platform featuring a pioneering A.I. assistant that automates documentation for clinicians",
+  "one_liner": "Sopris Health is an intelligent clinical operations platform featuring a pioneering A.I. assistant that automates documentation for clinicians",
+  "location": "Denver, Colorado, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/soprishealth",
+    "linkedin": "https://linkedin.com/company/sopris-health",
+    "facebook": "https://facebook.com/SoprisHealth"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/sopris-health",
+  "api": "/api/companies/sopris-health.json"
+}

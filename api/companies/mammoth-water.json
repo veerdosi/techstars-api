@@ -1,0 +1,24 @@
+{
+  "name": "Mammoth Water",
+  "slug": "mammoth-water",
+  "website": "https://mammothwater.com/",
+  "description": "The smarter, simpler way to track and trade water.",
+  "one_liner": "The smarter, simpler way to track and trade water.",
+  "location": "Denver, Colorado, United States",
+  "industry": "Cleantech",
+  "industry_slug": "cleantech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/mammoth_water",
+    "linkedin": "https://linkedin.com/company/mammothwater",
+    "facebook": "https://facebook.com/mammothwaterco"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/mammoth-water",
+  "api": "/api/companies/mammoth-water.json"
+}

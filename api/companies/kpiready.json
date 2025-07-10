@@ -1,0 +1,24 @@
+{
+  "name": "Kpiready",
+  "slug": "kpiready",
+  "website": "https://linkedin.com/company/kpiready",
+  "description": "kpiReady automates data collection and reporting so that the team, investors, and stakeholders align on goals from Day 1.",
+  "one_liner": "kpiReady automates data collection and reporting so that the team, investors, and stakeholders align on goals from Day 1.",
+  "location": "New York City, New York, United States",
+  "industry": "Fintech",
+  "industry_slug": "fintech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/kpi_Ready",
+    "linkedin": "https://linkedin.com/company/kpiready",
+    "facebook": "https://facebook.com/kpiReady/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kpiready",
+  "api": "/api/companies/kpiready.json"
+}

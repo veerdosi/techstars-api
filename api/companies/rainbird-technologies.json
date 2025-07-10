@@ -1,0 +1,24 @@
+{
+  "name": "Rainbird Technologies",
+  "slug": "rainbird-technologies",
+  "website": "https://rainbird.ai/",
+  "description": "Rainbird is an intelligent automation platform  that allows businesses to replicate and scale their best workers.",
+  "one_liner": "Rainbird is an intelligent automation platform  that allows businesses to replicate and scale their best workers.",
+  "location": "Norwich, United Kingdom",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/rainbirdai",
+    "linkedin": "https://linkedin.com/company/3301089",
+    "facebook": "https://facebook.com/RainBirdAI"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/rainbird-technologies",
+  "api": "/api/companies/rainbird-technologies.json"
+}

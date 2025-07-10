@@ -1,0 +1,24 @@
+{
+  "name": "Inclusivv",
+  "slug": "inclusivv",
+  "website": "https://inclusivv.co/",
+  "description": "Civic Dinners is a community engagement platform that brings people together for conversations that matter.",
+  "one_liner": "Civic Dinners is a community engagement platform that brings people together for conversations that matter.",
+  "location": "Atlanta, Georgia, United States",
+  "industry": "HRtech",
+  "industry_slug": "hrtech",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/civicdinners",
+    "linkedin": "https://linkedin.com/company/inclusivv",
+    "facebook": "https://facebook.com/Inclusivv"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/inclusivv",
+  "api": "/api/companies/inclusivv.json"
+}

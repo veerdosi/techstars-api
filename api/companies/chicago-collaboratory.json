@@ -1,0 +1,24 @@
+{
+  "name": "Chicago Collaboratory",
+  "slug": "chicago-collaboratory",
+  "website": "https://linkedin.com/company/the-data-collaboratory",
+  "description": "The Collaboratory is an AI powered search and discovery platform for technical and scientific data at life science companies.",
+  "one_liner": "The Collaboratory is an AI powered search and discovery platform for technical and scientific data at life science companies.",
+  "location": "Chicago, Illinois, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/collaboratoryai",
+    "linkedin": "https://linkedin.com/company/the-data-collaboratory",
+    "facebook": "https://facebook.com/makingideastangible"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/chicago-collaboratory",
+  "api": "/api/companies/chicago-collaboratory.json"
+}

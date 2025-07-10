@@ -1,0 +1,23 @@
+{
+  "name": "Diagenetix",
+  "slug": "diagenetix",
+  "website": "https://linkedin.com/company/diagenetix-inc-",
+  "description": "Handheld DNA detection and analytics to protect your food.",
+  "one_liner": "Handheld DNA detection and analytics to protect your food.",
+  "location": "Honolulu, Hawaii, United States",
+  "industry": "Internet of Things",
+  "industry_slug": "iot",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/Diagenetix",
+    "linkedin": "https://linkedin.com/company/diagenetix-inc-"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/diagenetix",
+  "api": "/api/companies/diagenetix.json"
+}

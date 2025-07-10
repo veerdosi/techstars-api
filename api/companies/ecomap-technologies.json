@@ -1,0 +1,24 @@
+{
+  "name": "EcoMap Technologies",
+  "slug": "ecomap-technologies",
+  "website": "https://ecomap.tech/",
+  "description": "EcoMap builds platforms that digitize ecosystems, from entrepreneurial communities to corporate networks and beyond.",
+  "one_liner": "EcoMap builds platforms that digitize ecosystems, from entrepreneurial communities to corporate networks and beyond.",
+  "location": "Wilmington, Delaware, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/ecomaptech",
+    "linkedin": "https://linkedin.com/company/ecomaptechnologies",
+    "facebook": "https://facebook.com/ecomaptech"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/ecomap-technologies",
+  "api": "/api/companies/ecomap-technologies.json"
+}

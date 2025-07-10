@@ -1,0 +1,24 @@
+{
+  "name": "CardioCube",
+  "slug": "cardiocube",
+  "website": "https://linkedin.com/company/cardiocube",
+  "description": "Talk to healthcare providers by video and get care management powered by Voice AI.",
+  "one_liner": "Talk to healthcare providers by video and get care management powered by Voice AI.",
+  "location": "Seattle, Washington, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/oskarkiwic",
+    "linkedin": "https://linkedin.com/company/cardiocube",
+    "facebook": "https://facebook.com/cardiocube/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/cardiocube",
+  "api": "/api/companies/cardiocube.json"
+}

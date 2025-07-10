@@ -1,0 +1,24 @@
+{
+  "name": "Enrichly",
+  "slug": "enrichly",
+  "website": "https://enrichly.world/",
+  "description": "Enrichly offers youth development courses virtually and in-person to elementary, middle, and high school students that aim to increase self-esteem and confidence.",
+  "one_liner": "Enrichly offers youth development courses virtually and in-person to elementary, middle, and high school students that aim to increase self-esteem and confidence.",
+  "location": "Houston, Texas, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/enrich_ly",
+    "linkedin": "https://linkedin.com/company/enrich-ly",
+    "facebook": "https://facebook.com/YouthEnrichments"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/enrichly",
+  "api": "/api/companies/enrichly.json"
+}

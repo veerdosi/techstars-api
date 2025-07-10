@@ -1,0 +1,24 @@
+{
+  "name": "Southie Autonomy",
+  "slug": "southie-autonomy",
+  "website": "https://linkedin.com/company/southie-ai",
+  "description": "On-the-fly robot re-tasking that's easy and affordable for everyone.",
+  "one_liner": "On-the-fly robot re-tasking that's easy and affordable for everyone.",
+  "location": "Boston, Massachusetts, United States",
+  "industry": "Artificial intelligence and machine learning",
+  "industry_slug": "ai-ml",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "social_media": {
+    "twitter": "https://twitter.com/SouthieAutonomy",
+    "linkedin": "https://linkedin.com/company/southie-ai",
+    "facebook": "https://facebook.com/southieai/"
+  },
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/southie-autonomy",
+  "api": "/api/companies/southie-autonomy.json"
+}
