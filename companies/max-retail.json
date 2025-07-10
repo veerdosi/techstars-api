@@ -1,0 +1,22 @@
+{
+  "id": 206,
+  "name": "Max Retail",
+  "slug": "max-retail",
+  "website": "https://maxretail.com/",
+  "description": "",
+  "one_liner": "",
+  "batch": "Unknown",
+  "program": "Unknown",
+  "location": "Unknown",
+  "region": "Unknown",
+  "industry": "Unknown",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://images.crunchbase.com/image/upload/t_cb-default-original/vierniqrr8pamfclcw4b",
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/max-retail",
+  "api": "./companies/max-retail.json"
+}

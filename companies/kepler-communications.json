@@ -1,0 +1,22 @@
+{
+  "id": 29,
+  "name": "Kepler Communications",
+  "slug": "kepler-communications",
+  "website": "https://kepler.space/",
+  "description": "",
+  "one_liner": "",
+  "batch": "Unknown",
+  "program": "Unknown",
+  "location": "Unknown",
+  "region": "Unknown",
+  "industry": "Unknown",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/kepler-communications",
+  "api": "./companies/kepler-communications.json"
+}

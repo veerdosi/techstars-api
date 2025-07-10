@@ -1,0 +1,22 @@
+{
+  "id": 126,
+  "name": "Jebbit",
+  "slug": "jebbit",
+  "website": "https://jebbit.com/",
+  "description": "",
+  "one_liner": "",
+  "batch": "Unknown",
+  "program": "Unknown",
+  "location": "Unknown",
+  "region": "Unknown",
+  "industry": "Unknown",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/23227-eb0d4cc44a39da16a335b044018b1b71-thumb_jpg.jpg?buster=1366720855",
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/jebbit",
+  "api": "./companies/jebbit.json"
+}

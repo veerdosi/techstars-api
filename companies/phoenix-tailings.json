@@ -1,0 +1,22 @@
+{
+  "id": 83,
+  "name": "Phoenix Tailings",
+  "slug": "phoenix-tailings",
+  "website": "https://phoenixtailings.com/",
+  "description": "",
+  "one_liner": "",
+  "batch": "Unknown",
+  "program": "Unknown",
+  "location": "Unknown",
+  "region": "Unknown",
+  "industry": "Unknown",
+  "subindustry": "",
+  "status": "Active",
+  "logo_url": "",
+  "is_billion_plus": false,
+  "is_in_program": false,
+  "is_bcorp": false,
+  "tags": [],
+  "url": "https://www.techstars.com/portfolio/phoenix-tailings",
+  "api": "./companies/phoenix-tailings.json"
+}
